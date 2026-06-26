@@ -1,0 +1,135 @@
+{
+  "status": "ok",
+  "cost": null,
+  "time_sec": 16.562161922454834,
+  "data": {
+    "amendmentNumber": "Fourth",
+    "amendmentDate": "2016-09-30",
+    "landlordName": "VENABLE CENTER, LLC",
+    "tenantName": "PRECISION BIOSCIENCES, INC.",
+    "rrExpansionSquareFeet": 11621,
+    "prSecondFloorExpansionSquareFeet": 7494,
+    "baseRentSchedule": [
+      {
+        "premisesName": "RR Expansion Premises",
+        "periodMonths": "1 - 12",
+        "annualRatePerSquareFoot": 19.25,
+        "monthlyRent": 18642.02
+      },
+      {
+        "premisesName": "RR Expansion Premises",
+        "periodMonths": "13 - 24",
+        "annualRatePerSquareFoot": 19.78,
+        "monthlyRent": 19155.29
+      },
+      {
+        "premisesName": "RR Expansion Premises",
+        "periodMonths": "25 - 36",
+        "annualRatePerSquareFoot": 20.32,
+        "monthlyRent": 19678.23
+      },
+      {
+        "premisesName": "RR Expansion Premises",
+        "periodMonths": "37 - 48",
+        "annualRatePerSquareFoot": 20.88,
+        "monthlyRent": 20220.54
+      },
+      {
+        "premisesName": "RR Expansion Premises",
+        "periodMonths": "49 - 60",
+        "annualRatePerSquareFoot": 21.46,
+        "monthlyRent": 20782.23
+      },
+      {
+        "premisesName": "RR Expansion Premises",
+        "periodMonths": "61 - 72",
+        "annualRatePerSquareFoot": 22.05,
+        "monthlyRent": 21353.59
+      },
+      {
+        "premisesName": "RR Expansion Premises",
+        "periodMonths": "73 - 84",
+        "annualRatePerSquareFoot": 22.65,
+        "monthlyRent": 21934.64
+      },
+      {
+        "premisesName": "RR Expansion Premises",
+        "periodMonths": "85 - Expiration Date",
+        "annualRatePerSquareFoot": 23.28,
+        "monthlyRent": 22544.74
+      },
+      {
+        "premisesName": "PR Second Floor Expansion Premises",
+        "periodMonths": "1 - 12",
+        "annualRatePerSquareFoot": 25.0,
+        "monthlyRent": 15612.5
+      },
+      {
+        "premisesName": "PR Second Floor Expansion Premises",
+        "periodMonths": "13 - 24",
+        "annualRatePerSquareFoot": 25.69,
+        "monthlyRent": 16043.41
+      },
+      {
+        "premisesName": "PR Second Floor Expansion Premises",
+        "periodMonths": "25 - 36",
+        "annualRatePerSquareFoot": 26.39,
+        "monthlyRent": 16480.56
+      },
+      {
+        "premisesName": "PR Second Floor Expansion Premises",
+        "periodMonths": "37 - 48",
+        "annualRatePerSquareFoot": 27.12,
+        "monthlyRent": 16936.44
+      },
+      {
+        "premisesName": "PR Second Floor Expansion Premises",
+        "periodMonths": "49 - 60",
+        "annualRatePerSquareFoot": 27.87,
+        "monthlyRent": 17404.82
+      },
+      {
+        "premisesName": "PR Second Floor Expansion Premises",
+        "periodMonths": "61 - 72",
+        "annualRatePerSquareFoot": 28.63,
+        "monthlyRent": 17879.44
+      },
+      {
+        "premisesName": "PR Second Floor Expansion Premises",
+        "periodMonths": "73 - 84",
+        "annualRatePerSquareFoot": 29.42,
+        "monthlyRent": 18372.79
+      },
+      {
+        "premisesName": "PR Second Floor Expansion Premises",
+        "periodMonths": "85 - Expiration Date",
+        "annualRatePerSquareFoot": 30.23,
+        "monthlyRent": 18878.64
+      }
+    ]
+  },
+  "meta": {
+    "provider": "google",
+    "model": "gemini-3.5-flash",
+    "doc_id": "SkD8Lz8o",
+    "usage": {
+      "promptTokenCount": 1615,
+      "candidatesTokenCount": 1107,
+      "totalTokenCount": 5419,
+      "promptTokensDetails": [
+        {
+          "modality": "IMAGE",
+          "tokenCount": 1560
+        },
+        {
+          "modality": "TEXT",
+          "tokenCount": 55
+        }
+      ],
+      "thoughtsTokenCount": 2697,
+      "serviceTier": "standard"
+    },
+    "schema_mode": "gemini_response_schema_nullable_v1",
+    "input_mode": "inline_data"
+  }
+}

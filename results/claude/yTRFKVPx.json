@@ -1,0 +1,123 @@
+{
+  "status": "ok",
+  "cost": null,
+  "time_sec": 20.871124982833862,
+  "data": {
+    "invoiceNumber": "10001",
+    "materials": [
+      {
+        "description": "Marking of foundation layout at site",
+        "quantity": 5,
+        "rate": 200.0,
+        "total": 1000.0
+      },
+      {
+        "description": "Earth excavation up to the required depth by machine",
+        "quantity": 4,
+        "rate": 150.0,
+        "total": 600.0
+      },
+      {
+        "description": "Earth excavation and levelling of soil by hand-operated tools",
+        "quantity": 2,
+        "rate": 125.0,
+        "total": 250.0
+      },
+      {
+        "description": "Placing of PCC",
+        "quantity": 15,
+        "rate": 78.0,
+        "total": 1170.0
+      },
+      {
+        "description": "Placement of reinforcement steel",
+        "quantity": 30,
+        "rate": 165.0,
+        "total": 4950.0
+      },
+      {
+        "description": "Erection of concrete formworks for footings",
+        "quantity": 34,
+        "rate": 230.0,
+        "total": 7820.0
+      }
+    ],
+    "labor": [
+      {
+        "description": "Marking of foundation layout at site",
+        "hours": 30.0,
+        "rate": 60.0,
+        "amount": 1800.0
+      },
+      {
+        "description": "Earth excavation up to the required depth by machine",
+        "hours": 23.0,
+        "rate": 60.0,
+        "amount": 1380.0
+      },
+      {
+        "description": "Earth excavation and levelling of soil by hand-operated tools",
+        "hours": 19.0,
+        "rate": 60.0,
+        "amount": 1140.0
+      },
+      {
+        "description": "Placing of PCC",
+        "hours": 35.0,
+        "rate": 60.0,
+        "amount": 2100.0
+      },
+      {
+        "description": "Placement of reinforcement steel",
+        "hours": 76.0,
+        "rate": 60.0,
+        "amount": 4560.0
+      },
+      {
+        "description": "Erection of concrete formworks for footings",
+        "hours": 53.0,
+        "rate": 60.0,
+        "amount": 3180.0
+      }
+    ],
+    "miscellaneousCharges": [
+      {
+        "description": "Transportation of materials",
+        "amount": 430.0
+      },
+      {
+        "description": "Consultations with architect",
+        "amount": 760.0
+      }
+    ],
+    "totals": {
+      "totalMaterials": 15790.0,
+      "totalLabor": 14160.0,
+      "totalMiscellaneous": 1190.0,
+      "subtotal": 31140.0,
+      "taxRate": 3.8,
+      "totalTax": 1183.32,
+      "total": 32323.32
+    }
+  },
+  "meta": {
+    "provider": "anthropic",
+    "model": "claude-sonnet-4-6",
+    "doc_id": "yTRFKVPx",
+    "response_id": "msg_01SFXt7N6YDAJowPSsTgz9dR",
+    "usage": {
+      "input_tokens": 8777,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 488,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    },
+    "schema_mode": "anthropic_output_config_nullable_v1",
+    "input_mode": "pdf_document"
+  }
+}

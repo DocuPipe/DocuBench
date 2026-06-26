@@ -1,0 +1,100 @@
+{
+  "status": "ok",
+  "cost": null,
+  "time_sec": 27.33429789543152,
+  "data": {
+    "carrier": "Ocean Network Express",
+    "seaWaybillNumber": "ONEYHKGCJ3680701",
+    "bookingNumber": "HKGCJ3680701",
+    "shipperName": "HECNY SHIPPING LTD.",
+    "shipperAddress": "7/F, HECNY CARGO BLDG,111 WAI YIP STREET KWUN TONG, KLN., HONG KONG",
+    "consigneeName": "VINCE LLC",
+    "consigneeAddress": "900 N CAHUENGA BLVD. LOS ANGELEA, CA 90038, USA",
+    "notifyPartyName": "HECNY TRANSPORTATION INC.",
+    "vesselVoyage": "COSCO SPAIN 055E",
+    "placeOfReceipt": "HONG KONG, HONG KONG",
+    "portOfLoading": "HONG KONG",
+    "portOfDischarge": "LONG BEACH, CA",
+    "placeOfDelivery": "LONG BEACH",
+    "typeOfMovement": "FCL / FCL CY / CY",
+    "containerNumber": "KKTU8245698",
+    "sealNumber": "HKA130375",
+    "containerType": "20GP",
+    "cartonsTotal": 241,
+    "grossWeightKg": 2539,
+    "grossMeasurementCbm": 22.52,
+    "freightTerms": "OCEAN FREIGHT COLLECT",
+    "serviceContractNumber": "LAX0056B22",
+    "placeOfIssue": "SHENZHEN",
+    "dateLadenOnBoard": "2023-01-25",
+    "dateIssued": "2023-01-25",
+    "cargoItems": [
+      {
+        "goodsDescription": "LADIES'90% COTTON 10% SPANDEX KNITTED DRESS LADIES'54% COTTON 45% NYLON 1% SPANDEX KNITTED PULLOVER LADIES'54% COTTON 45% NYLON 1% SPANDEX KNITTED SKIRTS",
+        "hsCode": "610442, 611020, 610452",
+        "cartons": 77,
+        "measurementCbm": 6.55,
+        "weightKg": 537
+      },
+      {
+        "goodsDescription": "LADIES'90% COTTON 10% SPANDEX KNITTED DRESS LADIES'54% COTTON 45% NYLON 1% SPANDEX KNITTED PULLOVER LADIES'54% COTTON 45% NYLON 1% SPANDEX KNITTED SKIRTS",
+        "hsCode": "610442, 611020, 610452",
+        "cartons": 92,
+        "measurementCbm": 8.01,
+        "weightKg": 1008
+      },
+      {
+        "goodsDescription": "59% LYOCELL 27% COTTON 14% LINEN MEN'S WOVEN SHORT",
+        "hsCode": "620349",
+        "cartons": 17,
+        "measurementCbm": 1.23,
+        "weightKg": 213
+      },
+      {
+        "goodsDescription": "80% RAYON 20% NYLON WOMEN'S WOVEN SHIRT",
+        "hsCode": "620640",
+        "cartons": 8,
+        "measurementCbm": 1.41,
+        "weightKg": 82
+      },
+      {
+        "goodsDescription": "62% COTTON 38% VISCOSE. - WOMEN'S WOVEN OUTWEAR",
+        "hsCode": "620630",
+        "cartons": 42,
+        "measurementCbm": 4.59,
+        "weightKg": 626
+      },
+      {
+        "goodsDescription": "LADIES'58% LINEN 39% COTTON 3% ELASTANE WOVEN TOP",
+        "hsCode": "620690",
+        "cartons": 5,
+        "measurementCbm": 0.73,
+        "weightKg": 73
+      }
+    ]
+  },
+  "meta": {
+    "provider": "google",
+    "model": "gemini-3.5-flash",
+    "doc_id": "iTruRDrG",
+    "usage": {
+      "promptTokenCount": 1117,
+      "candidatesTokenCount": 1070,
+      "totalTokenCount": 7067,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 53
+        },
+        {
+          "modality": "IMAGE",
+          "tokenCount": 1064
+        }
+      ],
+      "thoughtsTokenCount": 4880,
+      "serviceTier": "standard"
+    },
+    "schema_mode": "gemini_response_schema_nullable_v1",
+    "input_mode": "inline_data"
+  }
+}

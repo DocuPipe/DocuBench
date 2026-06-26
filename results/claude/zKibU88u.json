@@ -1,0 +1,83 @@
+{
+  "status": "ok",
+  "cost": null,
+  "time_sec": 20.339547872543335,
+  "data": {
+    "currency": "USD",
+    "recordCount": 200,
+    "sourceSystem": "commerce-cloud-v4",
+    "schemaVersion": "orders.v4",
+    "focusOrderDate": "2025-10-27",
+    "focusOrderChannel": "store",
+    "focusOrderStatus": "shipped",
+    "focusOrderBuyerName": "Devon Marsh",
+    "focusOrderBuyerTier": "silver",
+    "focusOrderBuyerRegion": "WEST",
+    "focusOrderShippingCarrier": "DHL",
+    "focusOrderPaymentMethod": "paypal",
+    "focusOrderLineItems": [
+      {
+        "sku": "SKU-SF-610",
+        "title": "Halden 3-Seat Sofa",
+        "category": "Seating",
+        "quantity": 4,
+        "unitPriceCents": 129900,
+        "discountCents": 1500
+      },
+      {
+        "sku": "SKU-SH-810",
+        "title": "Atlas Bookshelf",
+        "category": "Storage",
+        "quantity": 1,
+        "unitPriceCents": 33900,
+        "discountCents": 0
+      },
+      {
+        "sku": "SKU-SF-690",
+        "title": "Otis Loveseat",
+        "category": "Seating",
+        "quantity": 1,
+        "unitPriceCents": 89900,
+        "discountCents": 1000
+      },
+      {
+        "sku": "SKU-AP-205",
+        "title": "Nimbus Floor Lamp",
+        "category": "Lighting",
+        "quantity": 2,
+        "unitPriceCents": 15900,
+        "discountCents": 1500
+      },
+      {
+        "sku": "SKU-CH-340",
+        "title": "Marlow Lounge Chair",
+        "category": "Seating",
+        "quantity": 1,
+        "unitPriceCents": 38900,
+        "discountCents": 0
+      }
+    ],
+    "earlyOrderCarrier": "USPS",
+    "lateOrderPaymentMethod": "mastercard"
+  },
+  "meta": {
+    "provider": "anthropic",
+    "model": "claude-sonnet-4-6",
+    "doc_id": "zKibU88u",
+    "response_id": "msg_013VSbTVYNYPEYq3Rs23aaRQ",
+    "usage": {
+      "input_tokens": 82357,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 381,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    },
+    "schema_mode": "anthropic_output_config_nullable_v1",
+    "input_mode": "text"
+  }
+}

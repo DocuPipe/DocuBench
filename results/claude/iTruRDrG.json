@@ -1,0 +1,118 @@
+{
+  "status": "ok",
+  "cost": null,
+  "time_sec": 18.01136803627014,
+  "data": {
+    "carrier": "Ocean Network Express Pte. Ltd.",
+    "seaWaybillNumber": "ONEYHKGCJ3680701",
+    "bookingNumber": "HKGCJ3680701",
+    "shipperName": "HECNY SHIPPING LTD.",
+    "shipperAddress": "7/F, HECNY CARGO BLDG, 111 WAI YIP STREET KWUN TONG, KLN., HONG KONG",
+    "consigneeName": "VINCE LLC",
+    "consigneeAddress": "900 N CAHUENGA BLVD. LOS ANGELEA, CA 90038, USA",
+    "notifyPartyName": "HECNY TRANSPORTATION INC.",
+    "vesselVoyage": "COSCO SPAIN 055E",
+    "placeOfReceipt": "HONG KONG, HONG KONG",
+    "portOfLoading": "HONG KONG",
+    "portOfDischarge": "LONG BEACH, CA",
+    "placeOfDelivery": "LONG BEACH",
+    "typeOfMovement": "FCL / FCL CY / CY",
+    "containerNumber": "KKTU8245698",
+    "sealNumber": "HKA130375",
+    "containerType": "20GP",
+    "cartonsTotal": 241,
+    "grossWeightKg": 2539.0,
+    "grossMeasurementCbm": 22.52,
+    "freightTerms": "OCEAN FREIGHT COLLECT",
+    "serviceContractNumber": "LAX0056B22",
+    "placeOfIssue": "SHENZHEN",
+    "dateLadenOnBoard": "2023-01-25",
+    "dateIssued": "2023-01-25",
+    "cargoItems": [
+      {
+        "goodsDescription": "LADIES'90% COTTON 10% SPANDEX KNITTED DRESS",
+        "hsCode": "610442",
+        "cartons": 77,
+        "measurementCbm": 6.55,
+        "weightKg": 537
+      },
+      {
+        "goodsDescription": "LADIES'54% COTTON 45% NYLON 1% SPANDEX KNITTED PULLOVER",
+        "hsCode": "611020",
+        "cartons": null,
+        "measurementCbm": null,
+        "weightKg": null
+      },
+      {
+        "goodsDescription": "LADIES'54% COTTON 45% NYLON 1% SPANDEX KNITTED SKIRTS",
+        "hsCode": "610452",
+        "cartons": null,
+        "measurementCbm": null,
+        "weightKg": null
+      },
+      {
+        "goodsDescription": "LADIES'90% COTTON 10% SPANDEX KNITTED DRESS / LADIES'54% COTTON 45% NYLON 1% SPANDEX KNITTED PULLOVER / LADIES'54% COTTON 45% NYLON 1% SPANDEX KNITTED SKIRTS",
+        "hsCode": "610442, 611020, 610452",
+        "cartons": 92,
+        "measurementCbm": 8.01,
+        "weightKg": 1008
+      },
+      {
+        "goodsDescription": "LADIES'90% COTTON 10% SPANDEX KNITTED DRESS / LADIES'54% COTTON 45% NYLON 1% SPANDEX KNITTED PULLOVER / LADIES'54% COTTON 45% NYLON 1% SPANDEX KNITTED SKIRTS",
+        "hsCode": "610442, 611020, 610452",
+        "cartons": 17,
+        "measurementCbm": 1.23,
+        "weightKg": 213
+      },
+      {
+        "goodsDescription": "59% LYOCELL 27% COTTON 14% LINEN MEN'S WOVEN SHORT",
+        "hsCode": "620349",
+        "cartons": 8,
+        "measurementCbm": 1.41,
+        "weightKg": 82
+      },
+      {
+        "goodsDescription": "80% RAYON 20% NYLON WOMEN'S WOVEN SHIRT",
+        "hsCode": "620640",
+        "cartons": 42,
+        "measurementCbm": 4.59,
+        "weightKg": 626
+      },
+      {
+        "goodsDescription": "62% COTTON 38% VISCOSE WOMEN'S WOVEN OUTWEAR",
+        "hsCode": "620630",
+        "cartons": 5,
+        "measurementCbm": 0.73,
+        "weightKg": 73
+      },
+      {
+        "goodsDescription": "LADIES'58% LINEN 39% COTTON 3% ELASTANE WOVEN TOP",
+        "hsCode": "620690",
+        "cartons": null,
+        "measurementCbm": null,
+        "weightKg": null
+      }
+    ]
+  },
+  "meta": {
+    "provider": "anthropic",
+    "model": "claude-sonnet-4-6",
+    "doc_id": "iTruRDrG",
+    "response_id": "msg_01XTgDoCPPQVzBh5H3rhvdsm",
+    "usage": {
+      "input_tokens": 6853,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 1301,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    },
+    "schema_mode": "anthropic_output_config_nullable_v1",
+    "input_mode": "pdf_document",
+    "schema_fallback": "prompt_json_schema"
+  }
+}

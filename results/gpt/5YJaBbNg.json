@@ -1,0 +1,187 @@
+{
+  "status": "ok",
+  "cost": null,
+  "time_sec": 20.556342840194702,
+  "data": {
+    "companyName": null,
+    "balanceSheetDate": "2023-12-31",
+    "balanceSheet": [
+      {
+        "lineItem": "Ativos fixos tangíveis",
+        "amount": 9043306.86
+      },
+      {
+        "lineItem": "Ativos intangíveis",
+        "amount": 208679.71
+      },
+      {
+        "lineItem": "Participações financeiras - método da equivalência patrimonial",
+        "amount": 8455.18
+      },
+      {
+        "lineItem": "Outros investimentos financeiros",
+        "amount": 189921.62
+      },
+      {
+        "lineItem": "Créditos a receber",
+        "amount": 49238.85
+      },
+      {
+        "lineItem": "Ativos por impostos diferidos",
+        "amount": 203944.66
+      },
+      {
+        "lineItem": "Inventários",
+        "amount": 18075416.56
+      },
+      {
+        "lineItem": "Clientes",
+        "amount": 13653135.41
+      },
+      {
+        "lineItem": "Estado e outros entes públicos",
+        "amount": 177731.78
+      },
+      {
+        "lineItem": "Outros créditos a receber",
+        "amount": 1655726.52
+      },
+      {
+        "lineItem": "Diferimentos",
+        "amount": 114093.52
+      },
+      {
+        "lineItem": "Caixa e depósitos bancários",
+        "amount": 245388.2
+      },
+      {
+        "lineItem": "Capital subscrito",
+        "amount": 7600000
+      },
+      {
+        "lineItem": "Reservas legais",
+        "amount": 1000000
+      },
+      {
+        "lineItem": "Outras reservas",
+        "amount": 7184039.25
+      },
+      {
+        "lineItem": "Resultado líquido do período",
+        "amount": 2290070.91
+      },
+      {
+        "lineItem": "Financiamentos obtidos",
+        "amount": 5279421.99
+      },
+      {
+        "lineItem": "Outras dividas a pagar",
+        "amount": 2920000
+      },
+      {
+        "lineItem": "Fornecedores",
+        "amount": 5176865.2
+      },
+      {
+        "lineItem": "Adiantamentos de clientes",
+        "amount": 89583.06
+      },
+      {
+        "lineItem": "Estado e outros entes públicos",
+        "amount": 1389649.42
+      },
+      {
+        "lineItem": "Financiamentos obtidos",
+        "amount": 7827168.57
+      },
+      {
+        "lineItem": "Outras dividas a pagar",
+        "amount": 2868240.47
+      }
+    ],
+    "incomeStatement": [
+      {
+        "lineItem": "Vendas e serviços prestados",
+        "amount": 67755184.06
+      },
+      {
+        "lineItem": "Subsídios à exploração",
+        "amount": 14007.44
+      },
+      {
+        "lineItem": "Ganhos/perdas imputados de subsidiárias, assoc. e empreend. conjuntos",
+        "amount": 1176.5
+      },
+      {
+        "lineItem": "Variação nos inventários da produção",
+        "amount": 1346853.4
+      },
+      {
+        "lineItem": "Custo das mercadorias vendidas e das matérias consumidas",
+        "amount": -55363061.32
+      },
+      {
+        "lineItem": "Fornecimentos e serviços externos",
+        "amount": -2361998.93
+      },
+      {
+        "lineItem": "Gastos com o pessoal",
+        "amount": -6724777.09
+      },
+      {
+        "lineItem": "Imparidade de inventários (perdas/reversões)",
+        "amount": -44858.38
+      },
+      {
+        "lineItem": "Imparidade de dívidas a receber (perdas/reversões)",
+        "amount": -8545.88
+      },
+      {
+        "lineItem": "Outros rendimentos",
+        "amount": 333548.76
+      },
+      {
+        "lineItem": "Outros gastos",
+        "amount": -254752.96
+      },
+      {
+        "lineItem": "Gastos/reversões de depreciação e de amortização",
+        "amount": -858307.11
+      },
+      {
+        "lineItem": "Juros e rendimentos similares obtidos",
+        "amount": 328442.93
+      },
+      {
+        "lineItem": "Juros e gastos similares suportados",
+        "amount": -919412.48
+      },
+      {
+        "lineItem": "Imposto sobre o rendimento do período",
+        "amount": -953428.03
+      }
+    ],
+    "totalAtivo": 43625038.87,
+    "totalCapitalProprioEPassivo": 43625038.87,
+    "resultadoLiquido": 2290070.91
+  },
+  "meta": {
+    "provider": "openai",
+    "model": "gpt-5.5",
+    "doc_id": "5YJaBbNg",
+    "file_id": "file-HHmjxFaVL6hrwAfCVYEsnb",
+    "response_id": "resp_0cae7b9f87f013c9016a3e93f889c481a1a2a7c0b12a6add3a",
+    "usage": {
+      "input_tokens": 3930,
+      "input_tokens_details": {
+        "cached_tokens": 0
+      },
+      "output_tokens": 1216,
+      "output_tokens_details": {
+        "reasoning_tokens": 460
+      },
+      "total_tokens": 5146
+    },
+    "schema_mode": "openai_strict_nullable_v1"
+  }
+}

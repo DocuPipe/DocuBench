@@ -1,0 +1,156 @@
+{
+  "status": "ok",
+  "cost": null,
+  "time_sec": 14.574667930603027,
+  "data": {
+    "projectName": "Plot 6",
+    "bills": [
+      {
+        "billNumber": 1,
+        "billName": "Preliminaries",
+        "amount": 352.0
+      },
+      {
+        "billNumber": 2,
+        "billName": "Excavating & filling",
+        "amount": 5158.95
+      },
+      {
+        "billNumber": 3,
+        "billName": "Insitu concrete works",
+        "amount": 2487.79
+      },
+      {
+        "billNumber": 4,
+        "billName": "Composite precast concrete",
+        "amount": 3315.56
+      },
+      {
+        "billNumber": 5,
+        "billName": "Precast concrete",
+        "amount": 70.67
+      },
+      {
+        "billNumber": 6,
+        "billName": "Masonry",
+        "amount": 31566.68
+      },
+      {
+        "billNumber": 7,
+        "billName": "Carpentry",
+        "amount": 10281.72
+      },
+      {
+        "billNumber": 8,
+        "billName": "Sheet roof coverings",
+        "amount": 599.79
+      },
+      {
+        "billNumber": 9,
+        "billName": "Tile and slate roof and wall coverings",
+        "amount": 15427.2
+      },
+      {
+        "billNumber": 10,
+        "billName": "General joinery",
+        "amount": 1545.26
+      },
+      {
+        "billNumber": 11,
+        "billName": "Windows, screens and lights",
+        "amount": 17675.61
+      },
+      {
+        "billNumber": 12,
+        "billName": "Doors, shutters and hatches",
+        "amount": 4090.66
+      },
+      {
+        "billNumber": 13,
+        "billName": "Stairs, walkways and balustrades",
+        "amount": 1838.42
+      },
+      {
+        "billNumber": 14,
+        "billName": "Floor, wall, ceiling and roof finishings",
+        "amount": 9648.06
+      },
+      {
+        "billNumber": 15,
+        "billName": "Decoration",
+        "amount": 4411.85
+      },
+      {
+        "billNumber": 16,
+        "billName": "Insulation, fire stopping & fire protection",
+        "amount": 4465.35
+      },
+      {
+        "billNumber": 17,
+        "billName": "Furniture, fittings and equipment",
+        "amount": 3057.88
+      },
+      {
+        "billNumber": 18,
+        "billName": "Drainage above ground",
+        "amount": 2151.63
+      },
+      {
+        "billNumber": 19,
+        "billName": "Drainage below ground",
+        "amount": 4245.46
+      },
+      {
+        "billNumber": 20,
+        "billName": "Site works",
+        "amount": 3620.52
+      },
+      {
+        "billNumber": 21,
+        "billName": "Soft landscaping",
+        "amount": 1685.66
+      },
+      {
+        "billNumber": 22,
+        "billName": "Mechanical services",
+        "amount": 779.93
+      },
+      {
+        "billNumber": 23,
+        "billName": "Electrical services",
+        "amount": 227.25
+      },
+      {
+        "billNumber": 24,
+        "billName": "Builder's work in connection with mechanical, electrical & transportation installations",
+        "amount": 66.02
+      },
+      {
+        "billNumber": 25,
+        "billName": "Main contractor's overheads and profit",
+        "amount": 51508.49
+      }
+    ],
+    "grandTotal": 180278.41
+  },
+  "meta": {
+    "provider": "anthropic",
+    "model": "claude-sonnet-4-6",
+    "doc_id": "ZXlksSpk",
+    "response_id": "msg_014yjwS48QYpp8VdhFNcp3pM",
+    "usage": {
+      "input_tokens": 2703,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 579,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    },
+    "schema_mode": "anthropic_output_config_nullable_v1",
+    "input_mode": "pdf_document"
+  }
+}

@@ -1,0 +1,70 @@
+{
+  "status": "ok",
+  "cost": null,
+  "time_sec": 15.55333399772644,
+  "data": {
+    "namedInsured": "John Doe and Susy Doe",
+    "policyNumber": "254H089SJ425",
+    "policyForm": "HO-3",
+    "inceptionDate": "2020-03-30",
+    "expirationDate": "2021-03-30",
+    "deductible": 1000,
+    "policyPremium": 1200,
+    "yearBuilt": 2010,
+    "construction": "Masonry Veneer",
+    "propertyAddress": "1427 Sample Drive Washington, DC 40000",
+    "agentName": "Frank Stallings",
+    "coverages": [
+      {
+        "coverageType": "Dwelling",
+        "limit": 450000,
+        "basis": null
+      },
+      {
+        "coverageType": "Other Structures",
+        "limit": 45000,
+        "basis": null
+      },
+      {
+        "coverageType": "Personal Property",
+        "limit": 225000,
+        "basis": null
+      },
+      {
+        "coverageType": "Loss of Use",
+        "limit": 90000,
+        "basis": null
+      },
+      {
+        "coverageType": "Liability",
+        "limit": 300000,
+        "basis": "Each Occurrence"
+      },
+      {
+        "coverageType": "Medical",
+        "limit": 1000,
+        "basis": "Each Person"
+      }
+    ]
+  },
+  "meta": {
+    "provider": "anthropic",
+    "model": "claude-sonnet-4-6",
+    "doc_id": "1ZVqiyJZ",
+    "response_id": "msg_018AmjdUy1BtuBmxLjGmmCWi",
+    "usage": {
+      "input_tokens": 3272,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 230,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    },
+    "schema_mode": "anthropic_output_config_nullable_v1",
+    "input_mode": "pdf_document"
+  }
+}

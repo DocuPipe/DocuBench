@@ -1,0 +1,58 @@
+{
+  "status": "ok",
+  "cost": null,
+  "time_sec": 7.822702884674072,
+  "data": {
+    "patientName": "John Doe",
+    "mrn": "000012",
+    "age": 20,
+    "sex": "M",
+    "admitDate": "2023-01-15",
+    "dischargeDate": "2023-01-17",
+    "diagnoses": [
+      {
+        "diagnosis": "Adjustment disorder with mixed disturbance of emotions and contact"
+      },
+      {
+        "diagnosis": "Rule out bipolar disorder"
+      },
+      {
+        "diagnosis": "Homelessness"
+      }
+    ],
+    "dischargeMedications": [],
+    "vitalsTemperature": "36.6",
+    "vitalsPulseRate": 97,
+    "vitalsRespirations": 16,
+    "vitalsBloodPressure": "126/86",
+    "vitalsO2Saturation": "98% on room air",
+    "dischargeDestination": "Home with brother.",
+    "conditionOfDischarge": "Stable. The patient is able to perform ADLs.",
+    "signingProvider": "Caring Provider, MD",
+    "signedDate": "2023-01-17"
+  },
+  "meta": {
+    "provider": "google",
+    "model": "gemini-3.5-flash",
+    "doc_id": "OayFbGlG",
+    "usage": {
+      "promptTokenCount": 1093,
+      "candidatesTokenCount": 287,
+      "totalTokenCount": 2502,
+      "promptTokensDetails": [
+        {
+          "modality": "IMAGE",
+          "tokenCount": 1040
+        },
+        {
+          "modality": "TEXT",
+          "tokenCount": 53
+        }
+      ],
+      "thoughtsTokenCount": 1122,
+      "serviceTier": "standard"
+    },
+    "schema_mode": "gemini_response_schema_nullable_v1",
+    "input_mode": "inline_data"
+  }
+}

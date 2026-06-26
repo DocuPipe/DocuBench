@@ -1,0 +1,107 @@
+{
+  "status": "ok",
+  "cost": null,
+  "time_sec": 18.92577576637268,
+  "data": {
+    "employeeName": "LAZIONE UNIVARSITA' 2017",
+    "employerName": "DITTA DI PROVA",
+    "codiceFiscale": "LZNNRS80A41D548V",
+    "payPeriod": "GENNAIO 2017",
+    "payLines": [
+      {
+        "voce": "0",
+        "description": "Retribuzione ordinaria",
+        "unitaDiMisura": "GIORNI",
+        "quantita": 23,
+        "base": 67.66808,
+        "trattenute": null,
+        "competenze": 1556.37
+      },
+      {
+        "voce": "200",
+        "description": "Ferie godute",
+        "unitaDiMisura": "ORE",
+        "quantita": 32,
+        "base": null,
+        "trattenute": null,
+        "competenze": null
+      },
+      {
+        "voce": "210",
+        "description": "Permessi riduz. orario goduti",
+        "unitaDiMisura": "ORE",
+        "quantita": 4,
+        "base": null,
+        "trattenute": null,
+        "competenze": null
+      },
+      {
+        "voce": "221",
+        "description": "Permessi ex-festivita' goduti",
+        "unitaDiMisura": "ORE",
+        "quantita": 4,
+        "base": null,
+        "trattenute": null,
+        "competenze": null
+      },
+      {
+        "voce": "230",
+        "description": "Festivita'",
+        "unitaDiMisura": "GIORNI",
+        "quantita": 1,
+        "base": 67.66808,
+        "trattenute": null,
+        "competenze": 67.67
+      },
+      {
+        "voce": "232",
+        "description": "Festivita' in domenica",
+        "unitaDiMisura": "GIORNI",
+        "quantita": 1,
+        "base": 67.66808,
+        "trattenute": null,
+        "competenze": 67.67
+      },
+      {
+        "voce": "400",
+        "description": "Carenza malattia",
+        "unitaDiMisura": "GIORNI",
+        "quantita": 2,
+        "base": 67.66808,
+        "trattenute": null,
+        "competenze": 135.34
+      },
+      {
+        "voce": "978",
+        "description": "Credito art.1 DL 66/2014 2017",
+        "unitaDiMisura": null,
+        "quantita": null,
+        "base": null,
+        "trattenute": null,
+        "competenze": 80
+      }
+    ],
+    "totaleCompetenze": 1907.05,
+    "totaleTrattenute": 460.41,
+    "nettoInBusta": 1447
+  },
+  "meta": {
+    "provider": "openai",
+    "model": "gpt-5.5",
+    "doc_id": "WxP8Tqgf",
+    "file_id": "file-5ewtPA3D2G1zndQQ2588Zs",
+    "response_id": "resp_00a1c20fea69eba1016a3e96ab5fbc819f8ae0860f8e9e64b4",
+    "usage": {
+      "input_tokens": 3233,
+      "input_tokens_details": {
+        "cached_tokens": 0
+      },
+      "output_tokens": 1258,
+      "output_tokens_details": {
+        "reasoning_tokens": 768
+      },
+      "total_tokens": 4491
+    },
+    "schema_mode": "openai_strict_nullable_v1"
+  }
+}

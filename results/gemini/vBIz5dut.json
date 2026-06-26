@@ -1,0 +1,171 @@
+{
+  "status": "ok",
+  "cost": null,
+  "time_sec": 15.457552909851074,
+  "data": {
+    "merchantName": "FIVE GUYS",
+    "storeNumber": "CA-1661",
+    "storeStreetAddress": "2640 Reynolds Ranch Pkwy - Ste 140",
+    "storeCity": "Lodi",
+    "storeState": "CA",
+    "storeZip": "95240",
+    "storePhone": "(209) 333-9750",
+    "transactionDate": "2017-05-25",
+    "transactionTime": "1:00:17 PM",
+    "orderId": "AAAP2F9WAEBP",
+    "registerOrTerminal": "47 - FIVE GUYS",
+    "employeeName": "Robert C",
+    "lineItems": [
+      {
+        "quantity": 1,
+        "description": "Little Hamburger",
+        "unitPrice": null,
+        "lineTotal": 5.19,
+        "isModifier": false
+      },
+      {
+        "quantity": 1,
+        "description": "Lettuce",
+        "unitPrice": null,
+        "lineTotal": 0.0,
+        "isModifier": true
+      },
+      {
+        "quantity": 1,
+        "description": "Pickles",
+        "unitPrice": null,
+        "lineTotal": 0.0,
+        "isModifier": true
+      },
+      {
+        "quantity": 1,
+        "description": "Tomatoes",
+        "unitPrice": null,
+        "lineTotal": 0.0,
+        "isModifier": true
+      },
+      {
+        "quantity": 1,
+        "description": "Grilled Onions",
+        "unitPrice": null,
+        "lineTotal": 0.0,
+        "isModifier": true
+      },
+      {
+        "quantity": 1,
+        "description": "Grilled Mushrooms",
+        "unitPrice": null,
+        "lineTotal": 0.0,
+        "isModifier": true
+      },
+      {
+        "quantity": 1,
+        "description": "Mustard",
+        "unitPrice": null,
+        "lineTotal": 0.0,
+        "isModifier": true
+      },
+      {
+        "quantity": 1,
+        "description": "Ketchup",
+        "unitPrice": null,
+        "lineTotal": 0.0,
+        "isModifier": true
+      },
+      {
+        "quantity": 1,
+        "description": "Jalapeno Peppers",
+        "unitPrice": null,
+        "lineTotal": 0.0,
+        "isModifier": true
+      },
+      {
+        "quantity": 2,
+        "description": "Large Fry",
+        "unitPrice": 5.79,
+        "lineTotal": 11.58,
+        "isModifier": false
+      },
+      {
+        "quantity": 1,
+        "description": "Large Soda",
+        "unitPrice": null,
+        "lineTotal": 2.95,
+        "isModifier": false
+      },
+      {
+        "quantity": 1,
+        "description": "Cheeseburger",
+        "unitPrice": null,
+        "lineTotal": 7.89,
+        "isModifier": false
+      },
+      {
+        "quantity": 1,
+        "description": "Mayo",
+        "unitPrice": null,
+        "lineTotal": 0.0,
+        "isModifier": true
+      },
+      {
+        "quantity": 1,
+        "description": "Lettuce",
+        "unitPrice": null,
+        "lineTotal": 0.0,
+        "isModifier": true
+      },
+      {
+        "quantity": 1,
+        "description": "Pickles",
+        "unitPrice": null,
+        "lineTotal": 0.0,
+        "isModifier": true
+      },
+      {
+        "quantity": 1,
+        "description": "BBQ Sauce",
+        "unitPrice": null,
+        "lineTotal": 0.0,
+        "isModifier": true
+      },
+      {
+        "quantity": 1,
+        "description": "Regular Soda",
+        "unitPrice": null,
+        "lineTotal": 2.7,
+        "isModifier": false
+      }
+    ],
+    "subtotal": 30.31,
+    "salesTax": 2.35,
+    "orderTotal": 32.66,
+    "paymentMethod": "MasterCard",
+    "cardLastFour": "2931",
+    "authorizationCode": "72876Z",
+    "amountPaid": 32.66
+  },
+  "meta": {
+    "provider": "google",
+    "model": "gemini-3.5-flash",
+    "doc_id": "vBIz5dut",
+    "usage": {
+      "promptTokenCount": 1117,
+      "candidatesTokenCount": 1124,
+      "totalTokenCount": 4116,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 53
+        },
+        {
+          "modality": "IMAGE",
+          "tokenCount": 1064
+        }
+      ],
+      "thoughtsTokenCount": 1875,
+      "serviceTier": "standard"
+    },
+    "schema_mode": "gemini_response_schema_nullable_v1",
+    "input_mode": "inline_data"
+  }
+}

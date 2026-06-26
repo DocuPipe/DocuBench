@@ -1,0 +1,440 @@
+{
+  "status": "ok",
+  "cost": null,
+  "time_sec": 36.594598054885864,
+  "data": {
+    "department": "横浜営業１課",
+    "paymentDate": "2011年07月05日",
+    "preparationDate": "2011年07月02日",
+    "tripRows": [
+      {
+        "employeeNumber": "123456",
+        "departureDateTime": "06/05 08:30",
+        "returnDateTime": "08/02 18:00",
+        "distanceCategory": "隔地",
+        "purposeCategory": "業務",
+        "destination": "大阪営業所",
+        "route": "横浜－新大阪",
+        "nights": 4,
+        "paymentAmount": 66300
+      },
+      {
+        "employeeNumber": "123456",
+        "departureDateTime": "06/25 08:00",
+        "returnDateTime": "08/05 17:15",
+        "distanceCategory": "附近",
+        "purposeCategory": "業務",
+        "destination": "本社",
+        "route": "横浜－品川",
+        "nights": 0,
+        "paymentAmount": 560
+      },
+      {
+        "employeeNumber": "123456",
+        "departureDateTime": "06/19 08:15",
+        "returnDateTime": "08/05 17:15",
+        "distanceCategory": "地域",
+        "purposeCategory": "業務",
+        "destination": "小田原営業所",
+        "route": "戸塚－小田原",
+        "nights": 0,
+        "paymentAmount": 1480
+      },
+      {
+        "employeeNumber": "123456",
+        "departureDateTime": "06/21 13:30",
+        "returnDateTime": "08/05 17:15",
+        "distanceCategory": "地域",
+        "purposeCategory": "業務",
+        "destination": "川崎営業所",
+        "route": "横浜－川崎",
+        "nights": 0,
+        "paymentAmount": 210
+      },
+      {
+        "employeeNumber": "123456",
+        "departureDateTime": "06/25 08:00",
+        "returnDateTime": "08/05 17:15",
+        "distanceCategory": "附近",
+        "purposeCategory": "研修",
+        "destination": "本社",
+        "route": "横浜－品川",
+        "nights": 0,
+        "paymentAmount": 560
+      },
+      {
+        "employeeNumber": "123456",
+        "departureDateTime": "06/27 13:30",
+        "returnDateTime": "08/05 17:15",
+        "distanceCategory": "地域",
+        "purposeCategory": "業務",
+        "destination": "川崎営業所",
+        "route": "横浜－川崎",
+        "nights": 0,
+        "paymentAmount": 210
+      },
+      {
+        "employeeNumber": "123567",
+        "departureDateTime": "06/19 08:30",
+        "returnDateTime": "08/02 18:00",
+        "distanceCategory": "地域",
+        "purposeCategory": "業務",
+        "destination": "□□□□□（株）",
+        "route": "横浜－桜木町",
+        "nights": 0,
+        "paymentAmount": 260
+      },
+      {
+        "employeeNumber": "123567",
+        "departureDateTime": "06/25 08:00",
+        "returnDateTime": "08/05 18:15",
+        "distanceCategory": "附近",
+        "purposeCategory": "研修",
+        "destination": "本社",
+        "route": "新川崎－品川",
+        "nights": 0,
+        "paymentAmount": 420
+      },
+      {
+        "employeeNumber": "123890",
+        "departureDateTime": "06/05 13:30",
+        "returnDateTime": "08/05 17:15",
+        "distanceCategory": "地域",
+        "purposeCategory": "業務",
+        "destination": "○○（株）",
+        "route": "横浜－新川崎",
+        "nights": 0,
+        "paymentAmount": 420
+      },
+      {
+        "employeeNumber": "123890",
+        "departureDateTime": "06/19 06:30",
+        "returnDateTime": "06/20 20:30",
+        "distanceCategory": "隔地",
+        "purposeCategory": "業務",
+        "destination": "◇◇◇システム",
+        "route": "横浜－名古屋",
+        "nights": 1,
+        "paymentAmount": 39860
+      },
+      {
+        "employeeNumber": "123890",
+        "departureDateTime": "06/25 08:00",
+        "returnDateTime": "08/05 17:15",
+        "distanceCategory": "附近",
+        "purposeCategory": "研修",
+        "destination": "本社",
+        "route": "鶴見－品川",
+        "nights": 0,
+        "paymentAmount": 420
+      },
+      {
+        "employeeNumber": "123890",
+        "departureDateTime": "06/26 13:00",
+        "returnDateTime": "06/26 17:00",
+        "distanceCategory": "附近",
+        "purposeCategory": "業務",
+        "destination": "本社",
+        "route": "鶴見－品川",
+        "nights": 0,
+        "paymentAmount": 420
+      },
+      {
+        "employeeNumber": "134567",
+        "departureDateTime": "06/10 08:30",
+        "returnDateTime": "08/02 18:00",
+        "distanceCategory": "隔地",
+        "purposeCategory": "業務",
+        "destination": "小田原営業所",
+        "route": "横浜－小田原",
+        "nights": 0,
+        "paymentAmount": 1900
+      },
+      {
+        "employeeNumber": "134567",
+        "departureDateTime": "06/25 08:00",
+        "returnDateTime": "08/05 17:15",
+        "distanceCategory": "附近",
+        "purposeCategory": "研修",
+        "destination": "本社",
+        "route": "横浜－品川",
+        "nights": 0,
+        "paymentAmount": 560
+      },
+      {
+        "employeeNumber": "135790",
+        "departureDateTime": "06/19 06:30",
+        "returnDateTime": "06/20 20:30",
+        "distanceCategory": "隔地",
+        "purposeCategory": "業務",
+        "destination": "◇◇◇システム",
+        "route": "平塚－名古屋",
+        "nights": 1,
+        "paymentAmount": 17500
+      },
+      {
+        "employeeNumber": "147258",
+        "departureDateTime": "06/02 11:00",
+        "returnDateTime": "06/02 17:00",
+        "distanceCategory": "附近",
+        "purposeCategory": "業務",
+        "destination": "（株）△△",
+        "route": "大崎－有楽町",
+        "nights": 0,
+        "paymentAmount": 320
+      },
+      {
+        "employeeNumber": "147258",
+        "departureDateTime": "06/01 13:30",
+        "returnDateTime": "08/05 17:15",
+        "distanceCategory": "地域",
+        "purposeCategory": "業務",
+        "destination": "○○（株）",
+        "route": "横浜－新川崎",
+        "nights": 0,
+        "paymentAmount": 420
+      },
+      {
+        "employeeNumber": "223344",
+        "departureDateTime": "06/13 08:30",
+        "returnDateTime": "08/02 18:00",
+        "distanceCategory": "附近",
+        "purposeCategory": "業務",
+        "destination": "小田原営業所",
+        "route": "横浜－小田原",
+        "nights": 0,
+        "paymentAmount": 1900
+      },
+      {
+        "employeeNumber": "223344",
+        "departureDateTime": "06/22 13:30",
+        "returnDateTime": "08/05 17:15",
+        "distanceCategory": "地域",
+        "purposeCategory": "業務",
+        "destination": "○○株式会社",
+        "route": "横浜－新川崎",
+        "nights": 0,
+        "paymentAmount": 420
+      },
+      {
+        "employeeNumber": "223344",
+        "departureDateTime": "06/25 08:00",
+        "returnDateTime": "08/05 17:15",
+        "distanceCategory": "附近",
+        "purposeCategory": "研修",
+        "destination": "本社",
+        "route": "横浜－品川",
+        "nights": 0,
+        "paymentAmount": 560
+      },
+      {
+        "employeeNumber": "223344",
+        "departureDateTime": "06/27 13:30",
+        "returnDateTime": "08/05 17:15",
+        "distanceCategory": "地域",
+        "purposeCategory": "業務",
+        "destination": "川崎営業所",
+        "route": "横浜－川崎",
+        "nights": 0,
+        "paymentAmount": 210
+      },
+      {
+        "employeeNumber": "234567",
+        "departureDateTime": "07/29 08:30",
+        "returnDateTime": "08/02 18:00",
+        "distanceCategory": "附近",
+        "purposeCategory": "研修",
+        "destination": "本社",
+        "route": "横浜－品川",
+        "nights": 0,
+        "paymentAmount": 560
+      },
+      {
+        "employeeNumber": "234567",
+        "departureDateTime": "06/26 08:30",
+        "returnDateTime": "08/02 18:00",
+        "distanceCategory": "地域",
+        "purposeCategory": "業務",
+        "destination": "□□□□□（株）",
+        "route": "横浜－桜木町",
+        "nights": 0,
+        "paymentAmount": 260
+      },
+      {
+        "employeeNumber": "246802",
+        "departureDateTime": "06/15 08:30",
+        "returnDateTime": "08/02 18:00",
+        "distanceCategory": "附近",
+        "purposeCategory": "業務",
+        "destination": "本社",
+        "route": "西大井－品川",
+        "nights": 0,
+        "paymentAmount": 300
+      },
+      {
+        "employeeNumber": "456789",
+        "departureDateTime": "06/10 08:30",
+        "returnDateTime": "08/02 18:00",
+        "distanceCategory": "附近",
+        "purposeCategory": "業務",
+        "destination": "◎◎商会",
+        "route": "横浜－東京",
+        "nights": 0,
+        "paymentAmount": 900
+      },
+      {
+        "employeeNumber": "456789",
+        "departureDateTime": "06/25 08:00",
+        "returnDateTime": "08/05 18:15",
+        "distanceCategory": "附近",
+        "purposeCategory": "研修",
+        "destination": "本社",
+        "route": "新川崎－品川",
+        "nights": 0,
+        "paymentAmount": 420
+      },
+      {
+        "employeeNumber": "456777",
+        "departureDateTime": "06/19 08:30",
+        "returnDateTime": "08/02 18:00",
+        "distanceCategory": "地域",
+        "purposeCategory": "業務",
+        "destination": "□□□□□（株）",
+        "route": "横浜－桜木町",
+        "nights": 0,
+        "paymentAmount": 260
+      },
+      {
+        "employeeNumber": "456777",
+        "departureDateTime": "06/22 13:30",
+        "returnDateTime": "08/05 17:15",
+        "distanceCategory": "地域",
+        "purposeCategory": "業務",
+        "destination": "○○株式会社",
+        "route": "横浜－新川崎",
+        "nights": 0,
+        "paymentAmount": 420
+      },
+      {
+        "employeeNumber": "456777",
+        "departureDateTime": "06/25 08:00",
+        "returnDateTime": "08/05 18:15",
+        "distanceCategory": "附近",
+        "purposeCategory": "研修",
+        "destination": "本社",
+        "route": "横浜－品川",
+        "nights": 0,
+        "paymentAmount": 560
+      },
+      {
+        "employeeNumber": "456777",
+        "departureDateTime": "06/26 08:30",
+        "returnDateTime": "08/02 18:00",
+        "distanceCategory": "地域",
+        "purposeCategory": "業務",
+        "destination": "□□□□□（株）",
+        "route": "横浜－桜木町",
+        "nights": 0,
+        "paymentAmount": 260
+      },
+      {
+        "employeeNumber": "456777",
+        "departureDateTime": "06/27 13:30",
+        "returnDateTime": "08/05 17:15",
+        "distanceCategory": "地域",
+        "purposeCategory": "業務",
+        "destination": "川崎営業所",
+        "route": "横浜－川崎",
+        "nights": 0,
+        "paymentAmount": 210
+      },
+      {
+        "employeeNumber": "464567",
+        "departureDateTime": "06/10 08:30",
+        "returnDateTime": "08/02 18:00",
+        "distanceCategory": "隔地",
+        "purposeCategory": "業務",
+        "destination": "小田原営業所",
+        "route": "横浜－小田原",
+        "nights": 0,
+        "paymentAmount": 1900
+      }
+    ],
+    "employeeSubtotals": [
+      {
+        "employeeNumber": "123456",
+        "subtotal": 69320
+      },
+      {
+        "employeeNumber": "123567",
+        "subtotal": 680
+      },
+      {
+        "employeeNumber": "123890",
+        "subtotal": 41120
+      },
+      {
+        "employeeNumber": "134567",
+        "subtotal": 2460
+      },
+      {
+        "employeeNumber": "135790",
+        "subtotal": 17500
+      },
+      {
+        "employeeNumber": "147258",
+        "subtotal": 740
+      },
+      {
+        "employeeNumber": "223344",
+        "subtotal": 3090
+      },
+      {
+        "employeeNumber": "234567",
+        "subtotal": 820
+      },
+      {
+        "employeeNumber": "246802",
+        "subtotal": 300
+      },
+      {
+        "employeeNumber": "456789",
+        "subtotal": 1320
+      },
+      {
+        "employeeNumber": "456777",
+        "subtotal": 1710
+      },
+      {
+        "employeeNumber": "464567",
+        "subtotal": 1900
+      }
+    ],
+    "headcount": 12,
+    "grandTotal": 140960
+  },
+  "meta": {
+    "provider": "google",
+    "model": "gemini-3.5-flash",
+    "doc_id": "45xidifn",
+    "usage": {
+      "promptTokenCount": 587,
+      "candidatesTokenCount": 4198,
+      "totalTokenCount": 9038,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 55
+        },
+        {
+          "modality": "IMAGE",
+          "tokenCount": 532
+        }
+      ],
+      "thoughtsTokenCount": 4253,
+      "serviceTier": "standard"
+    },
+    "schema_mode": "gemini_response_schema_nullable_v1",
+    "input_mode": "inline_data"
+  }
+}

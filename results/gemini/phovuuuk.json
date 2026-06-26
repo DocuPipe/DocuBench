@@ -1,0 +1,69 @@
+{
+  "status": "ok",
+  "cost": null,
+  "time_sec": 16.09347677230835,
+  "data": {
+    "employeeName": "ELIZABETH A DARLING",
+    "employeeSSN": "XXX-XX-1234",
+    "employerName": "UNIVERSITY OF PITTSBURGH\n4200 FIFTH AVENUE\nPITTSBURGH, PA 15260",
+    "employerEIN": "XX-XXX5591",
+    "box1Wages": 44629.35,
+    "box2FederalIncomeTax": 7631.62,
+    "box3SocialSecurityWages": 48736.35,
+    "box4SocialSecurityTax": 3021.65,
+    "box5MedicareWages": 48736.35,
+    "box6MedicareTax": 706.68,
+    "box10DependentCareBenefits": 1000.0,
+    "box12": [
+      {
+        "code": "E",
+        "amount": 4107.0
+      },
+      {
+        "code": "W",
+        "amount": 1500.0
+      }
+    ],
+    "box14": [
+      {
+        "label": "14H",
+        "amount": 1600.0
+      },
+      {
+        "label": "14X",
+        "amount": 52.0
+      }
+    ],
+    "state": "PA",
+    "stateEmployerId": "XXXX5369",
+    "box16StateWages": 47808.35,
+    "box17StateIncomeTax": 1467.72,
+    "box18LocalWages": 47808.35,
+    "box19LocalIncomeTax": 478.08,
+    "box20LocalityName": "700102"
+  },
+  "meta": {
+    "provider": "google",
+    "model": "gemini-3.5-flash",
+    "doc_id": "phovuuuk",
+    "usage": {
+      "promptTokenCount": 1612,
+      "candidatesTokenCount": 462,
+      "totalTokenCount": 4357,
+      "promptTokensDetails": [
+        {
+          "modality": "IMAGE",
+          "tokenCount": 1560
+        },
+        {
+          "modality": "TEXT",
+          "tokenCount": 52
+        }
+      ],
+      "thoughtsTokenCount": 2283,
+      "serviceTier": "standard"
+    },
+    "schema_mode": "gemini_response_schema_nullable_v1",
+    "input_mode": "inline_data"
+  }
+}

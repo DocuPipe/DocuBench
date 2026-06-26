@@ -1,0 +1,171 @@
+{
+  "status": "ok",
+  "cost": null,
+  "time_sec": 40.66448092460632,
+  "data": {
+    "companyName": "Voorbeeld onderneming te Hoofddorp",
+    "balanceSheetDate": "2015-12-31",
+    "totalActiva": 55725,
+    "totalPassiva": 55725,
+    "resultaat": 50337,
+    "balanceSheet": [
+      {
+        "lineItem": "Website",
+        "amount": 7456
+      },
+      {
+        "lineItem": "Materiële vaste activa (2)",
+        "amount": 12153
+      },
+      {
+        "lineItem": "Bedrijfsgebouwen en -terreinen",
+        "amount": 1619
+      },
+      {
+        "lineItem": "Machines en installaties",
+        "amount": 2655
+      },
+      {
+        "lineItem": "Inventaris",
+        "amount": 2881
+      },
+      {
+        "lineItem": "Vervoermiddelen",
+        "amount": 4998
+      },
+      {
+        "lineItem": "Overige vorderingen",
+        "amount": 1033
+      },
+      {
+        "lineItem": "Vorderingen (4)",
+        "amount": 11188
+      },
+      {
+        "lineItem": "Handelsdebiteuren",
+        "amount": 11161
+      },
+      {
+        "lineItem": "Overlopende activa",
+        "amount": 27
+      },
+      {
+        "lineItem": "Liquide middelen (5)",
+        "amount": 23895
+      },
+      {
+        "lineItem": "Ondernemingsvermogen (6)",
+        "amount": 49137
+      },
+      {
+        "lineItem": "Firmant 1",
+        "amount": 27821
+      },
+      {
+        "lineItem": "Firmant 2",
+        "amount": 21316
+      },
+      {
+        "lineItem": "Kortlopende schulden (7)",
+        "amount": 6588
+      },
+      {
+        "lineItem": "Schulden aan leveranciers en handelskredieten",
+        "amount": 1617
+      },
+      {
+        "lineItem": "Overige belastingen en premies sociale verzekeringen",
+        "amount": 4235
+      },
+      {
+        "lineItem": "Overlopende passiva",
+        "amount": 736
+      }
+    ],
+    "incomeStatement": [
+      {
+        "lineItem": "Netto-omzet (8,9)",
+        "amount": 101685
+      },
+      {
+        "lineItem": "Kostprijs van de omzet (10)",
+        "amount": 479
+      },
+      {
+        "lineItem": "Bruto-omzetresultaat",
+        "amount": 101206
+      },
+      {
+        "lineItem": "Personeelskosten (11)",
+        "amount": 19212
+      },
+      {
+        "lineItem": "Afschrijvingen (12)",
+        "amount": 4198
+      },
+      {
+        "lineItem": "Huisvestingskosten (13)",
+        "amount": 6155
+      },
+      {
+        "lineItem": "Kantoorkosten (14)",
+        "amount": 6395
+      },
+      {
+        "lineItem": "Autokosten (15)",
+        "amount": 7073
+      },
+      {
+        "lineItem": "Verkoopkosten (16)",
+        "amount": 3768
+      },
+      {
+        "lineItem": "Algemene kosten (17)",
+        "amount": 3675
+      },
+      {
+        "lineItem": "Bijzondere baten en lasten (18)",
+        "amount": 382
+      },
+      {
+        "lineItem": "Bedrijfsresultaat",
+        "amount": 50348
+      },
+      {
+        "lineItem": "Rentebaten en soortgelijke opbrengsten (19)",
+        "amount": 207
+      },
+      {
+        "lineItem": "Rentelasten en soortgelijke kosten (20)",
+        "amount": -218
+      },
+      {
+        "lineItem": "Financiële baten en lasten",
+        "amount": -11
+      },
+      {
+        "lineItem": "Resultaat",
+        "amount": 50337
+      }
+    ]
+  },
+  "meta": {
+    "provider": "openai",
+    "model": "gpt-5.5",
+    "doc_id": "62PhJTyf",
+    "file_id": "file-MPRkC9tLZskoy5wG9Pocus",
+    "response_id": "resp_09f38df96dacd759016a3e94222d0081918a02caa58c64411b",
+    "usage": {
+      "input_tokens": 1548,
+      "input_tokens_details": {
+        "cached_tokens": 0
+      },
+      "output_tokens": 2436,
+      "output_tokens_details": {
+        "reasoning_tokens": 1847
+      },
+      "total_tokens": 3984
+    },
+    "schema_mode": "openai_strict_nullable_v1"
+  }
+}

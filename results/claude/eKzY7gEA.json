@@ -1,0 +1,91 @@
+{
+  "status": "ok",
+  "cost": null,
+  "time_sec": 14.539697885513306,
+  "data": {
+    "patientName": "Robert J. Sample",
+    "mrn": "00471829",
+    "dateOfBirth": "1958-03-14",
+    "sex": "Male",
+    "admissionDate": "2025-09-02",
+    "dischargeDate": "2025-09-08",
+    "attendingPhysician": "Dr. Elena Marsh, MD",
+    "disposition": "Home with home health",
+    "dischargeDiagnoses": [
+      {
+        "diagnosis": "Community-acquired pneumonia, right lower lobe"
+      },
+      {
+        "diagnosis": "Acute hypoxic respiratory failure"
+      },
+      {
+        "diagnosis": "Type 2 diabetes mellitus"
+      },
+      {
+        "diagnosis": "Essential hypertension"
+      },
+      {
+        "diagnosis": "Chronic kidney disease, stage 3"
+      }
+    ],
+    "allergies": [
+      {
+        "allergy": "Penicillin (rash)"
+      },
+      {
+        "allergy": "Sulfonamides (hives)"
+      }
+    ],
+    "proceduresPerformed": [
+      {
+        "procedure": "Chest radiograph, two views"
+      },
+      {
+        "procedure": "Complete blood count"
+      },
+      {
+        "procedure": "Comprehensive metabolic panel"
+      },
+      {
+        "procedure": "Blood cultures x2"
+      }
+    ],
+    "dischargeMedications": [
+      {
+        "medication": "Levofloxacin 750 mg PO daily x5 days"
+      },
+      {
+        "medication": "Metformin 1000 mg PO twice daily"
+      },
+      {
+        "medication": "Lisinopril 20 mg PO daily"
+      },
+      {
+        "medication": "Atorvastatin 40 mg PO at bedtime"
+      },
+      {
+        "medication": "Albuterol inhaler 2 puffs every 4 hours as needed"
+      }
+    ]
+  },
+  "meta": {
+    "provider": "anthropic",
+    "model": "claude-sonnet-4-6",
+    "doc_id": "eKzY7gEA",
+    "response_id": "msg_01MqCrXTqydzbkWdeou4phVj",
+    "usage": {
+      "input_tokens": 1778,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 329,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    },
+    "schema_mode": "anthropic_output_config_nullable_v1",
+    "input_mode": "text"
+  }
+}

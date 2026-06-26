@@ -1,0 +1,311 @@
+{
+  "status": "ok",
+  "cost": null,
+  "time_sec": 24.324608087539673,
+  "data": {
+    "sellerName": "株式会社 ○×コンピュータ販売",
+    "sellerPhone": "(045) XXX-XXXX",
+    "buyerName": "○○商会横浜南支店",
+    "buyerAddress": "神奈川県横浜市◇◇区△△町１－１－１",
+    "branch": "横浜南",
+    "personInCharge": "山田",
+    "issueDate": "平成22年 06月 29日",
+    "lineItems": [
+      {
+        "productName": "パソコン本体（モデル１）",
+        "productCode": "●-0001",
+        "quantity": 10,
+        "unitPrice": 150000,
+        "discountPercent": 40,
+        "subtotal": 900000,
+        "remark": "特別セール割引"
+      },
+      {
+        "productName": "１５型ディスプレイ",
+        "productCode": "●-1015",
+        "quantity": 10,
+        "unitPrice": 50000,
+        "discountPercent": 40,
+        "subtotal": 300000,
+        "remark": "特別セール割引"
+      },
+      {
+        "productName": "増設メモリー",
+        "productCode": "◎-1010",
+        "quantity": 10,
+        "unitPrice": 5000,
+        "discountPercent": 30,
+        "subtotal": 35000,
+        "remark": ""
+      },
+      {
+        "productName": "増設ディスク",
+        "productCode": "○-2001",
+        "quantity": 10,
+        "unitPrice": 30000,
+        "discountPercent": 30,
+        "subtotal": 210000,
+        "remark": ""
+      },
+      {
+        "productName": "シリアルプリンタ",
+        "productCode": "◇-0002",
+        "quantity": 5,
+        "unitPrice": 150000,
+        "discountPercent": 30,
+        "subtotal": 525000,
+        "remark": ""
+      },
+      {
+        "productName": "ハガキフィーダ",
+        "productCode": "◇-0101",
+        "quantity": 5,
+        "unitPrice": 15000,
+        "discountPercent": 30,
+        "subtotal": 52500,
+        "remark": ""
+      },
+      {
+        "productName": "ケーブル",
+        "productCode": "◇-0110",
+        "quantity": 5,
+        "unitPrice": 3000,
+        "discountPercent": 30,
+        "subtotal": 10500,
+        "remark": ""
+      },
+      {
+        "productName": "インクリボン",
+        "productCode": "◇-0201",
+        "quantity": 10,
+        "unitPrice": 2000,
+        "discountPercent": 30,
+        "subtotal": 14000,
+        "remark": ""
+      },
+      {
+        "productName": "高速ページプリンタ",
+        "productCode": "◇-1001",
+        "quantity": 2,
+        "unitPrice": 498000,
+        "discountPercent": 30,
+        "subtotal": 697200,
+        "remark": ""
+      },
+      {
+        "productName": "サイドストッカー",
+        "productCode": "◇-1101",
+        "quantity": 2,
+        "unitPrice": 50000,
+        "discountPercent": 30,
+        "subtotal": 70000,
+        "remark": ""
+      },
+      {
+        "productName": "大容量ホッパ",
+        "productCode": "◇-1111",
+        "quantity": 2,
+        "unitPrice": 90000,
+        "discountPercent": 30,
+        "subtotal": 126000,
+        "remark": ""
+      },
+      {
+        "productName": "ＬＡＮ接続オプション２",
+        "productCode": "◇-1122",
+        "quantity": 2,
+        "unitPrice": 30000,
+        "discountPercent": 30,
+        "subtotal": 42000,
+        "remark": ""
+      },
+      {
+        "productName": "プリンタ増設ディスク",
+        "productCode": "◇-1131",
+        "quantity": 2,
+        "unitPrice": 30000,
+        "discountPercent": 30,
+        "subtotal": 42000,
+        "remark": ""
+      },
+      {
+        "productName": "プリンタ増設メモリー",
+        "productCode": "◇-1141",
+        "quantity": 2,
+        "unitPrice": 10000,
+        "discountPercent": 30,
+        "subtotal": 14000,
+        "remark": ""
+      },
+      {
+        "productName": "プリンタキャスター",
+        "productCode": "◇-1141",
+        "quantity": 2,
+        "unitPrice": 15000,
+        "discountPercent": 30,
+        "subtotal": 21000,
+        "remark": ""
+      },
+      {
+        "productName": "トナーカートリッジ",
+        "productCode": "◇-1201",
+        "quantity": 4,
+        "unitPrice": 18000,
+        "discountPercent": 30,
+        "subtotal": 50400,
+        "remark": ""
+      },
+      {
+        "productName": "ハンディバーコードリーダ",
+        "productCode": "◆-1000",
+        "quantity": 10,
+        "unitPrice": 125000,
+        "discountPercent": 30,
+        "subtotal": 875000,
+        "remark": ""
+      },
+      {
+        "productName": "ソフトウェアキット",
+        "productCode": "◆-1101",
+        "quantity": 10,
+        "unitPrice": 20000,
+        "discountPercent": 30,
+        "subtotal": 140000,
+        "remark": ""
+      },
+      {
+        "productName": "基本ソフトウェアセット",
+        "productCode": "□-0001",
+        "quantity": 10,
+        "unitPrice": 30000,
+        "discountPercent": 40,
+        "subtotal": 180000,
+        "remark": "特別セール割引"
+      },
+      {
+        "productName": "基本ユティリティセット",
+        "productCode": "□-0010",
+        "quantity": 10,
+        "unitPrice": 20000,
+        "discountPercent": 40,
+        "subtotal": 120000,
+        "remark": "特別セール割引"
+      },
+      {
+        "productName": "ＤＢソフトウェアセット",
+        "productCode": "□-0020",
+        "quantity": 10,
+        "unitPrice": 50000,
+        "discountPercent": 40,
+        "subtotal": 300000,
+        "remark": "特別セール割引"
+      },
+      {
+        "productName": "帳票実行ソフトウェア",
+        "productCode": "□-0030",
+        "quantity": 10,
+        "unitPrice": 10000,
+        "discountPercent": 40,
+        "subtotal": 60000,
+        "remark": "特別セール割引"
+      },
+      {
+        "productName": "業務開発アプリケーション",
+        "productCode": "□-1001",
+        "quantity": 10,
+        "unitPrice": 120000,
+        "discountPercent": 40,
+        "subtotal": 720000,
+        "remark": "特別セール割引"
+      },
+      {
+        "productName": "導入サービス",
+        "productCode": "■-0001",
+        "quantity": 10,
+        "unitPrice": 10000,
+        "discountPercent": 10,
+        "subtotal": 90000,
+        "remark": ""
+      },
+      {
+        "productName": "業務基本設定サービス",
+        "productCode": "■-0010",
+        "quantity": 10,
+        "unitPrice": 10000,
+        "discountPercent": 10,
+        "subtotal": 90000,
+        "remark": ""
+      },
+      {
+        "productName": "帳票カスタマイズサービス",
+        "productCode": "■-0100",
+        "quantity": 20,
+        "unitPrice": 20000,
+        "discountPercent": 40,
+        "subtotal": 240000,
+        "remark": "特別セール割引"
+      },
+      {
+        "productName": "外字作成サービス",
+        "productCode": "■-0110",
+        "quantity": 10,
+        "unitPrice": 90000,
+        "discountPercent": 40,
+        "subtotal": 540000,
+        "remark": "特別セール割引"
+      },
+      {
+        "productName": "ヘルプデスクサービス",
+        "productCode": "■-1001",
+        "quantity": 1,
+        "unitPrice": 300000,
+        "discountPercent": 10,
+        "subtotal": 270000,
+        "remark": ""
+      },
+      {
+        "productName": "管理者教育サービス",
+        "productCode": "■-1100",
+        "quantity": 1,
+        "unitPrice": 300000,
+        "discountPercent": 10,
+        "subtotal": 270000,
+        "remark": ""
+      },
+      {
+        "productName": "利用者教育サービス",
+        "productCode": "■-1101",
+        "quantity": 1,
+        "unitPrice": 300000,
+        "discountPercent": 10,
+        "subtotal": 270000,
+        "remark": ""
+      }
+    ],
+    "grandTotal": 7274600
+  },
+  "meta": {
+    "provider": "google",
+    "model": "gemini-3.5-flash",
+    "doc_id": "jlKc8eVi",
+    "usage": {
+      "promptTokenCount": 585,
+      "candidatesTokenCount": 2665,
+      "totalTokenCount": 6064,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 53
+        },
+        {
+          "modality": "IMAGE",
+          "tokenCount": 532
+        }
+      ],
+      "thoughtsTokenCount": 2814,
+      "serviceTier": "standard"
+    },
+    "schema_mode": "gemini_response_schema_nullable_v1",
+    "input_mode": "inline_data"
+  }
+}

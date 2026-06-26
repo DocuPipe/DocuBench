@@ -1,0 +1,64 @@
+{
+  "status": "ok",
+  "cost": null,
+  "time_sec": 14.555372953414917,
+  "data": {
+    "employeeName": "ELIZABETH A DARLING",
+    "employeeSSN": "XXX-XX-1234",
+    "employerName": "UNIVERSITY OF PITTSBURGH",
+    "employerEIN": "XX-XXX5591",
+    "box1Wages": 44629.35,
+    "box2FederalIncomeTax": 7631.62,
+    "box3SocialSecurityWages": 48736.35,
+    "box4SocialSecurityTax": 3021.65,
+    "box5MedicareWages": 48736.35,
+    "box6MedicareTax": 706.68,
+    "box10DependentCareBenefits": 1000,
+    "box12": [
+      {
+        "code": "E",
+        "amount": 4107
+      },
+      {
+        "code": "W",
+        "amount": 1500
+      }
+    ],
+    "box14": [
+      {
+        "label": "14H",
+        "amount": 1600
+      },
+      {
+        "label": "14X",
+        "amount": 52
+      }
+    ],
+    "state": "PA",
+    "stateEmployerId": "XXXX5369",
+    "box16StateWages": 47808.35,
+    "box17StateIncomeTax": 1467.72,
+    "box18LocalWages": 47808.35,
+    "box19LocalIncomeTax": 478.08,
+    "box20LocalityName": "700102"
+  },
+  "meta": {
+    "provider": "openai",
+    "model": "gpt-5.5",
+    "doc_id": "phovuuuk",
+    "file_id": "file-BiZM9gwFzcjrWWbXet7exc",
+    "response_id": "resp_05a63e69e7ffef30016a3e9781b9d081a3ad30e51fa5939bd5",
+    "usage": {
+      "input_tokens": 5805,
+      "input_tokens_details": {
+        "cached_tokens": 0
+      },
+      "output_tokens": 662,
+      "output_tokens_details": {
+        "reasoning_tokens": 413
+      },
+      "total_tokens": 6467
+    },
+    "schema_mode": "openai_strict_nullable_v1"
+  }
+}

@@ -1,0 +1,569 @@
+{
+  "status": "ok",
+  "cost": null,
+  "time_sec": 70.07294988632202,
+  "data": {
+    "statementMonth": "September 2015",
+    "salesTotal": 85952.25,
+    "transactionsCount": 246,
+    "creditsTotal": 1352.0,
+    "creditsIssuedCount": 3,
+    "depositsTotal": 84600.25,
+    "settlementDiscountTotal": 3525.45,
+    "interchangeTotal": 1219.1,
+    "otherFeesTotal": 313.42,
+    "amountDebited": 523.46,
+    "depositsByDay": [
+      {
+        "datePosted": "09/01",
+        "referenceNumber": "24489774",
+        "tickets": 5,
+        "grossAmount": 1661.0,
+        "adjustments": 0.0,
+        "nonSettlement": 389.0,
+        "discount": 79.94,
+        "settledAmount": 1192.06
+      },
+      {
+        "datePosted": "09/02",
+        "referenceNumber": "24573664",
+        "tickets": 16,
+        "grossAmount": 4617.0,
+        "adjustments": 0.0,
+        "nonSettlement": 499.0,
+        "discount": 230.0,
+        "settledAmount": 3888.0
+      },
+      {
+        "datePosted": "09/03",
+        "referenceNumber": "24684525",
+        "tickets": 10,
+        "grossAmount": 4094.0,
+        "adjustments": 499.0,
+        "nonSettlement": 0.0,
+        "discount": 225.92,
+        "settledAmount": 3369.08
+      },
+      {
+        "datePosted": "09/04",
+        "referenceNumber": "24777299",
+        "tickets": 4,
+        "grossAmount": 1248.0,
+        "adjustments": 0.0,
+        "nonSettlement": 0.0,
+        "discount": 73.08,
+        "settledAmount": 1174.92
+      },
+      {
+        "datePosted": "09/08",
+        "referenceNumber": "24805039",
+        "tickets": 1,
+        "grossAmount": 899.0,
+        "adjustments": 0.0,
+        "nonSettlement": 0.0,
+        "discount": 54.34,
+        "settledAmount": 844.66
+      },
+      {
+        "datePosted": "09/08",
+        "referenceNumber": "24960674",
+        "tickets": 37,
+        "grossAmount": 11703.5,
+        "adjustments": 0.0,
+        "nonSettlement": 607.0,
+        "discount": 635.65,
+        "settledAmount": 10460.85
+      },
+      {
+        "datePosted": "09/10",
+        "referenceNumber": "25355620",
+        "tickets": 1,
+        "grossAmount": 399.0,
+        "adjustments": 0.0,
+        "nonSettlement": 399.0,
+        "discount": 0.0,
+        "settledAmount": 0.0
+      },
+      {
+        "datePosted": "09/11",
+        "referenceNumber": "25416940",
+        "tickets": 19,
+        "grossAmount": 6613.75,
+        "adjustments": 0.0,
+        "nonSettlement": 325.0,
+        "discount": 366.76,
+        "settledAmount": 5921.99
+      },
+      {
+        "datePosted": "09/14",
+        "referenceNumber": "25416959",
+        "tickets": 1,
+        "grossAmount": 0.0,
+        "adjustments": 399.0,
+        "nonSettlement": 0.0,
+        "discount": 0.0,
+        "settledAmount": -399.0
+      },
+      {
+        "datePosted": "09/14",
+        "referenceNumber": "25637025",
+        "tickets": 19,
+        "grossAmount": 6276.5,
+        "adjustments": 0.0,
+        "nonSettlement": 0.0,
+        "discount": 365.55,
+        "settledAmount": 5910.95
+      },
+      {
+        "datePosted": "09/18",
+        "referenceNumber": "26105556",
+        "tickets": 30,
+        "grossAmount": 11069.5,
+        "adjustments": 0.0,
+        "nonSettlement": 1463.0,
+        "discount": 573.24,
+        "settledAmount": 9033.26
+      },
+      {
+        "datePosted": "09/21",
+        "referenceNumber": "26203377",
+        "tickets": 12,
+        "grossAmount": 4190.0,
+        "adjustments": 0.0,
+        "nonSettlement": 499.0,
+        "discount": 203.23,
+        "settledAmount": 3487.77
+      },
+      {
+        "datePosted": "09/21",
+        "referenceNumber": "26328245",
+        "tickets": 18,
+        "grossAmount": 5210.0,
+        "adjustments": 0.0,
+        "nonSettlement": 715.0,
+        "discount": 264.15,
+        "settledAmount": 4230.85
+      },
+      {
+        "datePosted": "09/22",
+        "referenceNumber": "26540152",
+        "tickets": 1,
+        "grossAmount": 299.0,
+        "adjustments": 0.0,
+        "nonSettlement": 0.0,
+        "discount": 18.19,
+        "settledAmount": 280.81
+      },
+      {
+        "datePosted": "09/23",
+        "referenceNumber": "26671467",
+        "tickets": 11,
+        "grossAmount": 5082.0,
+        "adjustments": 0.0,
+        "nonSettlement": 1398.0,
+        "discount": 208.77,
+        "settledAmount": 3475.23
+      },
+      {
+        "datePosted": "09/25",
+        "referenceNumber": "26853884",
+        "tickets": 25,
+        "grossAmount": 9306.0,
+        "adjustments": 0.0,
+        "nonSettlement": 425.0,
+        "discount": 518.08,
+        "settledAmount": 8362.92
+      },
+      {
+        "datePosted": "09/28",
+        "referenceNumber": "27078496",
+        "tickets": 38,
+        "grossAmount": 13284.0,
+        "adjustments": 0.0,
+        "nonSettlement": 699.0,
+        "discount": 724.12,
+        "settledAmount": 11860.88
+      },
+      {
+        "datePosted": "09/30",
+        "referenceNumber": "27383009",
+        "tickets": 1,
+        "grossAmount": 0.0,
+        "adjustments": 454.0,
+        "nonSettlement": 0.0,
+        "discount": -6.51,
+        "settledAmount": -447.49
+      }
+    ],
+    "cardSummaryByType": [
+      {
+        "description": "DSPP",
+        "items": 1,
+        "amount": 219.0,
+        "averageTicket": 219.0,
+        "discountRate": 4.0,
+        "itemRate": 0.75,
+        "feeAmount": 9.51
+      },
+      {
+        "description": "DISC",
+        "items": 9,
+        "amount": 3489.0,
+        "averageTicket": 387.67,
+        "discountRate": 4.0,
+        "itemRate": 0.75,
+        "feeAmount": 146.31
+      },
+      {
+        "description": "DSBS",
+        "items": 5,
+        "amount": 1971.0,
+        "averageTicket": 394.2,
+        "discountRate": 4.0,
+        "itemRate": 0.75,
+        "feeAmount": 82.59
+      },
+      {
+        "description": "DSPM",
+        "items": 1,
+        "amount": 399.0,
+        "averageTicket": 399.0,
+        "discountRate": 4.0,
+        "itemRate": 0.75,
+        "feeAmount": 16.71
+      },
+      {
+        "description": "VIBE",
+        "items": 1,
+        "amount": 699.0,
+        "averageTicket": 699.0,
+        "discountRate": 4.0,
+        "itemRate": 0.75,
+        "feeAmount": 28.71
+      },
+      {
+        "description": "VISB",
+        "items": 1,
+        "amount": 348.0,
+        "averageTicket": 348.0,
+        "discountRate": 4.0,
+        "itemRate": 0.75,
+        "feeAmount": 14.67
+      },
+      {
+        "description": "VISA",
+        "items": 48,
+        "amount": 19575.0,
+        "averageTicket": 407.81,
+        "discountRate": 4.0,
+        "itemRate": 0.75,
+        "feeAmount": 819.0
+      },
+      {
+        "description": "VIBS",
+        "items": 6,
+        "amount": 1446.0,
+        "averageTicket": 241.0,
+        "discountRate": 4.0,
+        "itemRate": 0.75,
+        "feeAmount": 62.34
+      },
+      {
+        "description": "VDBT",
+        "items": 82,
+        "amount": 23583.5,
+        "averageTicket": 287.6,
+        "discountRate": 4.0,
+        "itemRate": 0.75,
+        "feeAmount": 1004.84
+      },
+      {
+        "description": "VISP",
+        "items": 5,
+        "amount": 2042.0,
+        "averageTicket": 408.4,
+        "discountRate": 4.0,
+        "itemRate": 0.75,
+        "feeAmount": 85.43
+      },
+      {
+        "description": "VIPP",
+        "items": 2,
+        "amount": 399.0,
+        "averageTicket": 199.5,
+        "discountRate": 4.0,
+        "itemRate": 0.75,
+        "feeAmount": 17.46
+      },
+      {
+        "description": "MCPP",
+        "items": 1,
+        "amount": 150.0,
+        "averageTicket": 150.0,
+        "discountRate": 4.0,
+        "itemRate": 0.75,
+        "feeAmount": 6.75
+      },
+      {
+        "description": "MCHV",
+        "items": 1,
+        "amount": 399.0,
+        "averageTicket": 399.0,
+        "discountRate": 4.0,
+        "itemRate": 0.75,
+        "feeAmount": 16.71
+      },
+      {
+        "description": "MC",
+        "items": 21,
+        "amount": 7122.0,
+        "averageTicket": 339.14,
+        "discountRate": 4.0,
+        "itemRate": 0.75,
+        "feeAmount": 300.63
+      },
+      {
+        "description": "MDBT",
+        "items": 26,
+        "amount": 8090.0,
+        "averageTicket": 311.15,
+        "discountRate": 4.0,
+        "itemRate": 0.75,
+        "feeAmount": 343.1
+      },
+      {
+        "description": "MCWC",
+        "items": 10,
+        "amount": 3617.75,
+        "averageTicket": 361.78,
+        "discountRate": 4.0,
+        "itemRate": 0.75,
+        "feeAmount": 152.21
+      },
+      {
+        "description": "MWEL",
+        "items": 1,
+        "amount": 399.0,
+        "averageTicket": 399.0,
+        "discountRate": 4.0,
+        "itemRate": 0.75,
+        "feeAmount": 16.71
+      },
+      {
+        "description": "MCEC",
+        "items": 11,
+        "amount": 4586.0,
+        "averageTicket": 416.91,
+        "discountRate": 4.0,
+        "itemRate": 0.75,
+        "feeAmount": 191.69
+      },
+      {
+        "description": "DISCOVER NETWORK ACCESS FEE",
+        "items": 17,
+        "amount": 6078.0,
+        "averageTicket": 357.53,
+        "discountRate": 0.0,
+        "itemRate": 0.0185,
+        "feeAmount": 6.69
+      },
+      {
+        "description": "VISA NETWORK ACCESS FEE",
+        "items": 145,
+        "amount": 48092.5,
+        "averageTicket": 331.67,
+        "discountRate": 0.0,
+        "itemRate": 0.003,
+        "feeAmount": 0.44
+      },
+      {
+        "description": "VISA DEBIT INTEGRITY FEE",
+        "items": 1,
+        "amount": 799.0,
+        "averageTicket": 799.0,
+        "discountRate": 0.0,
+        "itemRate": 0.1,
+        "feeAmount": 0.1
+      },
+      {
+        "description": "DISCOVER ASSESSMENTS",
+        "items": 17,
+        "amount": 6078.0,
+        "averageTicket": 357.53,
+        "discountRate": 0.11,
+        "itemRate": 0.0,
+        "feeAmount": 6.69
+      },
+      {
+        "description": "VISA ASSESSMENTS-DEBIT",
+        "items": 88,
+        "amount": 24880.5,
+        "averageTicket": 282.73,
+        "discountRate": 0.13,
+        "itemRate": 0.0,
+        "feeAmount": 32.34
+      },
+      {
+        "description": "VISA ASSESSMENTS",
+        "items": 57,
+        "amount": 23212.0,
+        "averageTicket": 407.23,
+        "discountRate": 0.13,
+        "itemRate": 0.0,
+        "feeAmount": 30.18
+      },
+      {
+        "description": "VISA INTL SERVICE ASSESSMENT",
+        "items": 6,
+        "amount": 3105.0,
+        "averageTicket": 517.5,
+        "discountRate": 1.3,
+        "itemRate": 0.0,
+        "feeAmount": 40.37
+      },
+      {
+        "description": "VISA INTL ACQUIRING FEE",
+        "items": 6,
+        "amount": 3105.0,
+        "averageTicket": 517.5,
+        "discountRate": 0.95,
+        "itemRate": 0.0,
+        "feeAmount": 29.5
+      },
+      {
+        "description": "MASTERCARD ASSESSMENTS",
+        "items": 72,
+        "amount": 24363.75,
+        "averageTicket": 338.39,
+        "discountRate": 0.12,
+        "itemRate": 0.0,
+        "feeAmount": 29.24
+      },
+      {
+        "description": "CROSS BORDER FEE",
+        "items": 3,
+        "amount": 1223.0,
+        "averageTicket": 407.67,
+        "discountRate": 1.1,
+        "itemRate": 0.0,
+        "feeAmount": 13.45
+      },
+      {
+        "description": "MC ACQUIRER PGM SUPPORT FEE",
+        "items": 3,
+        "amount": 1223.0,
+        "averageTicket": 407.67,
+        "discountRate": 1.05,
+        "itemRate": 0.0,
+        "feeAmount": 12.84
+      },
+      {
+        "description": "ACCEPTANCE LICENSE FEE",
+        "items": 72,
+        "amount": 24363.75,
+        "averageTicket": 338.39,
+        "discountRate": 0.05,
+        "itemRate": 0.0,
+        "feeAmount": 12.18
+      },
+      {
+        "description": "CHGB",
+        "items": 72,
+        "amount": 24363.75,
+        "averageTicket": 338.39,
+        "discountRate": 0.01,
+        "itemRate": 0.0,
+        "feeAmount": 2.44
+      }
+    ],
+    "chargebacks": [
+      {
+        "datePosted": "09/08",
+        "chargebackDate": "09/08",
+        "referenceNumber": "21301980",
+        "tickets": 1,
+        "amount": 0.0,
+        "adjustments": 499.0,
+        "settledAmount": -499.0
+      },
+      {
+        "datePosted": "09/14",
+        "chargebackDate": "09/14",
+        "referenceNumber": "25500747",
+        "tickets": 1,
+        "amount": 458.0,
+        "adjustments": 0.0,
+        "settledAmount": 458.0
+      },
+      {
+        "datePosted": "09/15",
+        "chargebackDate": "09/15",
+        "referenceNumber": "22000996",
+        "tickets": 1,
+        "amount": 0.0,
+        "adjustments": 399.0,
+        "settledAmount": -399.0
+      },
+      {
+        "datePosted": "09/16",
+        "chargebackDate": "09/16",
+        "referenceNumber": "25800429",
+        "tickets": 1,
+        "amount": 399.0,
+        "adjustments": 0.0,
+        "settledAmount": 399.0
+      },
+      {
+        "datePosted": "09/23",
+        "chargebackDate": "09/23",
+        "referenceNumber": "26500204",
+        "tickets": 1,
+        "amount": 219.0,
+        "adjustments": 0.0,
+        "settledAmount": 219.0
+      },
+      {
+        "datePosted": "09/29",
+        "chargebackDate": "09/28",
+        "referenceNumber": "26802367",
+        "tickets": 1,
+        "amount": 798.0,
+        "adjustments": 0.0,
+        "settledAmount": 798.0
+      },
+      {
+        "datePosted": "09/29",
+        "chargebackDate": "09/28",
+        "referenceNumber": "26902387",
+        "tickets": 1,
+        "amount": 399.0,
+        "adjustments": 0.0,
+        "settledAmount": 399.0
+      }
+    ]
+  },
+  "meta": {
+    "provider": "google",
+    "model": "gemini-3.5-flash",
+    "doc_id": "4kVtTRoL",
+    "usage": {
+      "promptTokenCount": 2654,
+      "candidatesTokenCount": 5471,
+      "totalTokenCount": 20031,
+      "promptTokensDetails": [
+        {
+          "modality": "IMAGE",
+          "tokenCount": 2600
+        },
+        {
+          "modality": "TEXT",
+          "tokenCount": 54
+        }
+      ],
+      "thoughtsTokenCount": 11906,
+      "serviceTier": "standard"
+    },
+    "schema_mode": "gemini_response_schema_nullable_v1",
+    "input_mode": "inline_data"
+  }
+}

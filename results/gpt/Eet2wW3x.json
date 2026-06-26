@@ -1,0 +1,97 @@
+{
+  "status": "ok",
+  "cost": null,
+  "time_sec": 17.89343500137329,
+  "data": {
+    "customer": "FRESA DEMO DUBAI LLC",
+    "customerAddress": "AL NABHA, DUBAI",
+    "invoiceNumber": "INV1800564",
+    "invoiceDate": "27-NOV-18 (CREATED)",
+    "paymentDueDate": "27-NOV-18",
+    "shipper": "PAHILAJRAI JAIKISHIN AND CO",
+    "consignee": "FRESA DEMO DUBAI LLC",
+    "placeOfOrigin": "NHAVA SHEVA (JAWAHARLAL NEHRU), INDIA",
+    "finalDestination": "JEBEL ALI, UAE",
+    "vesselFlight": "NORTHERN GENERAL / 0068",
+    "jobNumber": "CCDXBSI18000061 / 27-NOV-18",
+    "masterNumber": "NSA.JEA.18/26917 / 12-OCT-18",
+    "houseNumber": "500138050266 / 10-OCT-18",
+    "numberOfPacks": 12,
+    "weightKgs": 1116,
+    "volumeCbm": 1.903,
+    "currency": "AED",
+    "amountInWords": "Dirham Seven Hundred Fifty-Six and Sixteen Fils Only",
+    "charges": [
+      {
+        "description": "DELIVERY ORDER CHARGES",
+        "currency": "AED",
+        "ratePerUnit": 275,
+        "unit": 1,
+        "currencyAmount": 275,
+        "roe": 1,
+        "totalPriceExclVat": 275,
+        "vatPercent": 5,
+        "vatAmount": 13.75,
+        "total": 288.75
+      },
+      {
+        "description": "THC CHARGES",
+        "currency": "AED",
+        "ratePerUnit": 50,
+        "unit": 1.903,
+        "currencyAmount": 95.15,
+        "roe": 1,
+        "totalPriceExclVat": 95.15,
+        "vatPercent": 5,
+        "vatAmount": 4.76,
+        "total": 99.91
+      },
+      {
+        "description": "DOCUMENTATION CHARGES",
+        "currency": "AED",
+        "ratePerUnit": 100,
+        "unit": 1,
+        "currencyAmount": 100,
+        "roe": 1,
+        "totalPriceExclVat": 100,
+        "vatPercent": 5,
+        "vatAmount": 5,
+        "total": 105
+      },
+      {
+        "description": "HANDLING CHARGES",
+        "currency": "AED",
+        "ratePerUnit": 250,
+        "unit": 1,
+        "currencyAmount": 250,
+        "roe": 1,
+        "totalPriceExclVat": 250,
+        "vatPercent": 5,
+        "vatAmount": 12.5,
+        "total": 262.5
+      }
+    ],
+    "totalExclVat": 720.15,
+    "totalVat": 36.01,
+    "grandTotal": 756.16
+  },
+  "meta": {
+    "provider": "openai",
+    "model": "gpt-5.5",
+    "doc_id": "Eet2wW3x",
+    "file_id": "file-5emC2X8s8XqHC89g5KgGMg",
+    "response_id": "resp_09137b550f3ddd0a016a3e94fa0f7c819db5a2a392dee9c97f",
+    "usage": {
+      "input_tokens": 2750,
+      "input_tokens_details": {
+        "cached_tokens": 0
+      },
+      "output_tokens": 1017,
+      "output_tokens_details": {
+        "reasoning_tokens": 516
+      },
+      "total_tokens": 3767
+    },
+    "schema_mode": "openai_strict_nullable_v1"
+  }
+}

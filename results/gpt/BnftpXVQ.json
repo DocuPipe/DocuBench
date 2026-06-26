@@ -1,0 +1,122 @@
+{
+  "status": "ok",
+  "cost": null,
+  "time_sec": 9.714977741241455,
+  "data": {
+    "agreementType": "364-DAY CREDIT AGREEMENT",
+    "aggregateCommitmentAmount": 1500000000,
+    "agreementDate": "2019-03-22",
+    "borrower": "FEDEX CORPORATION",
+    "syndicationAgent": "BANK OF AMERICA, N.A.",
+    "administrativeAgent": "JPMORGAN CHASE BANK, N.A.",
+    "lenders": [
+      {
+        "lenderName": "JPMorgan Chase Bank, N.A.",
+        "commitment": 113571428.57
+      },
+      {
+        "lenderName": "Bank of America, N.A.",
+        "commitment": 113571428.57
+      },
+      {
+        "lenderName": "Citibank, N.A.",
+        "commitment": 113571428.57
+      },
+      {
+        "lenderName": "The Bank of Nova Scotia",
+        "commitment": 113571428.57
+      },
+      {
+        "lenderName": "Wells Fargo Bank, National Association",
+        "commitment": 113571428.57
+      },
+      {
+        "lenderName": "BNP Paribas",
+        "commitment": 75000000
+      },
+      {
+        "lenderName": "Deutsche Bank AG New York Branch",
+        "commitment": 75000000
+      },
+      {
+        "lenderName": "Goldman Sachs Bank USA",
+        "commitment": 75000000
+      },
+      {
+        "lenderName": "HSBC Bank USA, National Association",
+        "commitment": 75000000
+      },
+      {
+        "lenderName": "ING Bank N.V. Dublin Branch",
+        "commitment": 75000000
+      },
+      {
+        "lenderName": "Mizuho Bank, Ltd.",
+        "commitment": 75000000
+      },
+      {
+        "lenderName": "Morgan Stanley Bank, N.A.",
+        "commitment": 41250000
+      },
+      {
+        "lenderName": "MUFG Bank, Ltd.",
+        "commitment": 33750000
+      },
+      {
+        "lenderName": "Regions Bank",
+        "commitment": 75000000
+      },
+      {
+        "lenderName": "SunTrust Bank",
+        "commitment": 75000000
+      },
+      {
+        "lenderName": "KBC Bank N.V., New York Branch",
+        "commitment": 42857142.86
+      },
+      {
+        "lenderName": "PNC Bank, National Association",
+        "commitment": 42857142.86
+      },
+      {
+        "lenderName": "Standard Chartered Bank",
+        "commitment": 42857142.86
+      },
+      {
+        "lenderName": "Sumitomo Mitsui Banking Corporation",
+        "commitment": 42857142.86
+      },
+      {
+        "lenderName": "U.S. Bank National Association",
+        "commitment": 42857142.86
+      },
+      {
+        "lenderName": "First Tennessee Bank National Association",
+        "commitment": 21428571.43
+      },
+      {
+        "lenderName": "State Street Bank and Trust Company",
+        "commitment": 21428571.43
+      }
+    ]
+  },
+  "meta": {
+    "provider": "openai",
+    "model": "gpt-5.5",
+    "doc_id": "BnftpXVQ",
+    "file_id": "file-2BSYRKntxkZf3wtHfp93Pj",
+    "response_id": "resp_0f19b7abc22ae9f8016a3e949a6420819e8bc65d38ba7de470",
+    "usage": {
+      "input_tokens": 1001,
+      "input_tokens_details": {
+        "cached_tokens": 0
+      },
+      "output_tokens": 606,
+      "output_tokens_details": {
+        "reasoning_tokens": 103
+      },
+      "total_tokens": 1607
+    },
+    "schema_mode": "openai_strict_nullable_v1"
+  }
+}

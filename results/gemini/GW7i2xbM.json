@@ -1,0 +1,76 @@
+{
+  "status": "ok",
+  "cost": null,
+  "time_sec": 9.141343116760254,
+  "data": {
+    "insurerName": "SAFE ALL INSURANCE COMPANY",
+    "policyNumber": "FHO295000",
+    "policyForm": "HO-3",
+    "policyEffectiveDate": "3/28/20",
+    "policyExpirationDate": "3/28/2021",
+    "insuredName": "Estelle Clarion & James Delaney",
+    "insuredAddress": "596 Crossover Way, Clay, FL 17189-2021",
+    "totalAnnualPremium": 854.0,
+    "hurricanePremium": 297.0,
+    "nonHurricanePremium": 505.0,
+    "allOtherPerilsDeductible": 1000.0,
+    "hurricaneDeductiblePercentOfCoverageA": 2.0,
+    "hurricaneDeductibleAmount": 3200.0,
+    "coverages": [
+      {
+        "coverageLetter": "A",
+        "coverageName": "Dwelling",
+        "limitOfLiability": 160000.0
+      },
+      {
+        "coverageLetter": "B",
+        "coverageName": "Other Structures",
+        "limitOfLiability": 3200.0
+      },
+      {
+        "coverageLetter": "C",
+        "coverageName": "Personal Property",
+        "limitOfLiability": 104250.0
+      },
+      {
+        "coverageLetter": "D",
+        "coverageName": "Loss of Use",
+        "limitOfLiability": 20850.0
+      },
+      {
+        "coverageLetter": "E",
+        "coverageName": "Personal Liability",
+        "limitOfLiability": 100000.0
+      },
+      {
+        "coverageLetter": "F",
+        "coverageName": "Medical Payments",
+        "limitOfLiability": 1000.0
+      }
+    ]
+  },
+  "meta": {
+    "provider": "google",
+    "model": "gemini-3.5-flash",
+    "doc_id": "GW7i2xbM",
+    "usage": {
+      "promptTokenCount": 574,
+      "candidatesTokenCount": 468,
+      "totalTokenCount": 2493,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 54
+        },
+        {
+          "modality": "IMAGE",
+          "tokenCount": 520
+        }
+      ],
+      "thoughtsTokenCount": 1451,
+      "serviceTier": "standard"
+    },
+    "schema_mode": "gemini_response_schema_nullable_v1",
+    "input_mode": "inline_data"
+  }
+}

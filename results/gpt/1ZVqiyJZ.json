@@ -1,0 +1,69 @@
+{
+  "status": "ok",
+  "cost": null,
+  "time_sec": 10.111637830734253,
+  "data": {
+    "namedInsured": "John Doe and Susy Doe",
+    "policyNumber": "254H089SJ425",
+    "policyForm": "HO-3",
+    "inceptionDate": "2020-03-30",
+    "expirationDate": "2021-03-30",
+    "deductible": 1000,
+    "policyPremium": 1200,
+    "yearBuilt": 2010,
+    "construction": "Masonry Veneer",
+    "propertyAddress": "1427 Sample Drive Washington, DC 40000",
+    "agentName": "Frank Stallings",
+    "coverages": [
+      {
+        "coverageType": "Dwelling",
+        "limit": 450000,
+        "basis": null
+      },
+      {
+        "coverageType": "Other Structures",
+        "limit": 45000,
+        "basis": null
+      },
+      {
+        "coverageType": "Personal Property",
+        "limit": 225000,
+        "basis": null
+      },
+      {
+        "coverageType": "Loss of Use",
+        "limit": 90000,
+        "basis": null
+      },
+      {
+        "coverageType": "Liability",
+        "limit": 300000,
+        "basis": "Each Occurrence"
+      },
+      {
+        "coverageType": "Medical",
+        "limit": 1000,
+        "basis": "Each Person"
+      }
+    ]
+  },
+  "meta": {
+    "provider": "openai",
+    "model": "gpt-5.5",
+    "doc_id": "1ZVqiyJZ",
+    "file_id": "file-Hv1Za6bYXvLZvfQinsTkLs",
+    "response_id": "resp_05a95930b3f7cf64016a3e931f65bc819f83a2a71279eba507",
+    "usage": {
+      "input_tokens": 1954,
+      "input_tokens_details": {
+        "cached_tokens": 0
+      },
+      "output_tokens": 388,
+      "output_tokens_details": {
+        "reasoning_tokens": 174
+      },
+      "total_tokens": 2342
+    },
+    "schema_mode": "openai_strict_nullable_v1"
+  }
+}

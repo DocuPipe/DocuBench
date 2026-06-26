@@ -1,0 +1,94 @@
+{
+  "status": "ok",
+  "cost": null,
+  "time_sec": 28.003000736236572,
+  "data": {
+    "accountNumber": "1023456789-0",
+    "statementDate": "2026-03-15",
+    "dueDate": "2026-04-06",
+    "serviceAddress": "1234 Main Street",
+    "serviceAgreementId": "9087654321",
+    "rateSchedule": "EV2A Home Charging",
+    "previousUnpaidBalance": 13.2,
+    "currentElectricMonthlyCharges": 17.9,
+    "totalAmountDue": 31.1,
+    "ytdNemChargesBeforeTaxes": -4.84,
+    "totalElectricMinimumDeliveryCharges": 17.62,
+    "ytdEstimatedNemChargesAtTrueUp": 0,
+    "meterNumber": "1098765432",
+    "meterImportsKwh": 13.3768,
+    "meterExportsKwh": -19.828,
+    "meterNetUsageKwh": -6.4512,
+    "nemCharges": [
+      {
+        "billPeriodEndDate": "2026-02-16",
+        "netUsageKwh": -6,
+        "estimatedNemChargesBeforeTaxes": -2.42,
+        "estimatedTotalNemCharges": -2.55
+      },
+      {
+        "billPeriodEndDate": "2026-03-15",
+        "netUsageKwh": -6,
+        "estimatedNemChargesBeforeTaxes": -2.42,
+        "estimatedTotalNemCharges": -2.55
+      }
+    ],
+    "monthlyChargeLines": [
+      {
+        "chargeType": "Minimum Delivery Charge",
+        "days": 13,
+        "rate": 0.39167,
+        "amount": 5.09
+      },
+      {
+        "chargeType": "San Jose Utility Users' Tax (5.000%)",
+        "days": null,
+        "rate": null,
+        "amount": 0.25
+      },
+      {
+        "chargeType": "San Jose Franchise Surcharge",
+        "days": null,
+        "rate": null,
+        "amount": 0.02
+      },
+      {
+        "chargeType": "Base Services Charge",
+        "days": 15,
+        "rate": 0.7935,
+        "amount": 11.9
+      },
+      {
+        "chargeType": "San Jose Utility Users' Tax (5.000%)",
+        "days": null,
+        "rate": null,
+        "amount": 0.6
+      },
+      {
+        "chargeType": "San Jose Franchise Surcharge",
+        "days": null,
+        "rate": null,
+        "amount": 0.04
+      }
+    ]
+  },
+  "meta": {
+    "provider": "openai",
+    "model": "gpt-5.5",
+    "doc_id": "WnxX1Buq",
+    "file_id": "file-4CzjPHbibCeFVpvVZHy5SW",
+    "response_id": "resp_0d3cb478dcbea715016a3e968f923c8192b658dff9cc7799bc",
+    "usage": {
+      "input_tokens": 5398,
+      "input_tokens_details": {
+        "cached_tokens": 0
+      },
+      "output_tokens": 1971,
+      "output_tokens_details": {
+        "reasoning_tokens": 1552
+      },
+      "total_tokens": 7369
+    },
+    "schema_mode": "openai_strict_nullable_v1"
+  }
+}

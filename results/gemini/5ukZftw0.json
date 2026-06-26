@@ -1,0 +1,115 @@
+{
+  "status": "ok",
+  "cost": null,
+  "time_sec": 53.69737195968628,
+  "data": {
+    "datasetTotals": {
+      "totalProfit": 711316.5,
+      "totalUnitsSold": 43669.0,
+      "rowCount": 30
+    },
+    "governmentSegmentRows": [
+      {
+        "country": "Canada",
+        "product": "Carretera",
+        "quantitySold": 1618.5,
+        "grossMarginPct": 50.0,
+        "totalManufacturingCost": 4855.5,
+        "priceEffectiveDate": null
+      },
+      {
+        "country": "Germany",
+        "product": "Carretera",
+        "quantitySold": 1321.0,
+        "grossMarginPct": 50.0,
+        "totalManufacturingCost": 3963.0,
+        "priceEffectiveDate": null
+      },
+      {
+        "country": "Germany",
+        "product": "Carretera",
+        "quantitySold": 1513.0,
+        "grossMarginPct": 25.7,
+        "totalManufacturingCost": 4539.0,
+        "priceEffectiveDate": null
+      },
+      {
+        "country": "Canada",
+        "product": "Montana",
+        "quantitySold": 1899.0,
+        "grossMarginPct": 50.0,
+        "totalManufacturingCost": 9495.0,
+        "priceEffectiveDate": null
+      },
+      {
+        "country": "Canada",
+        "product": "Paseo",
+        "quantitySold": 958.0,
+        "grossMarginPct": 16.7,
+        "totalManufacturingCost": 4790.0,
+        "priceEffectiveDate": null
+      },
+      {
+        "country": "Canada",
+        "product": "Paseo",
+        "quantitySold": 292.0,
+        "grossMarginPct": 50.0,
+        "totalManufacturingCost": 2920.0,
+        "priceEffectiveDate": null
+      },
+      {
+        "country": "Germany",
+        "product": "Paseo",
+        "quantitySold": 1006.0,
+        "grossMarginPct": 25.7,
+        "totalManufacturingCost": 10060.0,
+        "priceEffectiveDate": null
+      },
+      {
+        "country": "France",
+        "product": "Velo",
+        "quantitySold": 788.0,
+        "grossMarginPct": 16.7,
+        "totalManufacturingCost": 7880.0,
+        "priceEffectiveDate": null
+      },
+      {
+        "country": "Mexico",
+        "product": "Velo",
+        "quantitySold": 1725.0,
+        "grossMarginPct": 25.7,
+        "totalManufacturingCost": 17250.0,
+        "priceEffectiveDate": null
+      },
+      {
+        "country": "Germany",
+        "product": "Velo",
+        "quantitySold": 1817.0,
+        "grossMarginPct": 50.0,
+        "totalManufacturingCost": 18170.0,
+        "priceEffectiveDate": null
+      }
+    ],
+    "mostProfitableProduct": "Velo"
+  },
+  "meta": {
+    "provider": "google",
+    "model": "gemini-3.5-flash",
+    "doc_id": "5ukZftw0",
+    "usage": {
+      "promptTokenCount": 1467,
+      "candidatesTokenCount": 811,
+      "totalTokenCount": 14689,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 1467
+        }
+      ],
+      "thoughtsTokenCount": 12411,
+      "serviceTier": "standard"
+    },
+    "schema_mode": "gemini_response_schema_nullable_v1",
+    "input_mode": "xlsx_text"
+  }
+}

@@ -1,0 +1,83 @@
+{
+  "status": "ok",
+  "cost": null,
+  "time_sec": 9.711500883102417,
+  "data": {
+    "productCategory": "(POWDER DETERGENT)",
+    "items": [
+      {
+        "productPacking": "UIC 16 X 800gm",
+        "cartonsPer20ft": 750,
+        "cartonsPer40ft": 1500,
+        "cartonDimensionCm": "41.50 X 26.00 X 33.40",
+        "cartonSizeM3": 0.036,
+        "netWeightKg": 12.8,
+        "grossWeightKg": 13.8
+      },
+      {
+        "productPacking": "UIC 6 X 2.5kg",
+        "cartonsPer20ft": 680,
+        "cartonsPer40ft": 1360,
+        "cartonDimensionCm": "53.00 X 36.50 X 22.00",
+        "cartonSizeM3": 0.0426,
+        "netWeightKg": 15,
+        "grossWeightKg": 16
+      },
+      {
+        "productPacking": "UIC 4 X 4kg",
+        "cartonsPer20ft": 660,
+        "cartonsPer40ft": 1320,
+        "cartonDimensionCm": "43.60 X 29.20 X 34.90",
+        "cartonSizeM3": 0.0444,
+        "netWeightKg": 16,
+        "grossWeightKg": 17
+      },
+      {
+        "productPacking": "Peony 16 X 800gm",
+        "cartonsPer20ft": 750,
+        "cartonsPer40ft": 1500,
+        "cartonDimensionCm": "41.50 X 26.00 X 34.50",
+        "cartonSizeM3": 0.0372,
+        "netWeightKg": 12.8,
+        "grossWeightKg": 13.8
+      },
+      {
+        "productPacking": "Peony 6 X 2.5kg",
+        "cartonsPer20ft": 680,
+        "cartonsPer40ft": 1360,
+        "cartonDimensionCm": "53.00 X 38.50 X 23.00",
+        "cartonSizeM3": 0.0469,
+        "netWeightKg": 15,
+        "grossWeightKg": 16
+      },
+      {
+        "productPacking": "Peony 4 X 4kg",
+        "cartonsPer20ft": 660,
+        "cartonsPer40ft": 1320,
+        "cartonDimensionCm": "43.60 X 29.20 X 34.90",
+        "cartonSizeM3": 0.0444,
+        "netWeightKg": 16,
+        "grossWeightKg": 17
+      }
+    ]
+  },
+  "meta": {
+    "provider": "openai",
+    "model": "gpt-5.5",
+    "doc_id": "QxoQ6zgn",
+    "file_id": "file-9wHRDzrkyxvzN5MjNRyHsE",
+    "response_id": "resp_07e3f17d640cd304016a3e964346e48192a861efd21c952b95",
+    "usage": {
+      "input_tokens": 1318,
+      "input_tokens_details": {
+        "cached_tokens": 0
+      },
+      "output_tokens": 617,
+      "output_tokens_details": {
+        "reasoning_tokens": 147
+      },
+      "total_tokens": 1935
+    },
+    "schema_mode": "openai_strict_nullable_v1"
+  }
+}

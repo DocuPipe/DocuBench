@@ -1,0 +1,72 @@
+{
+  "status": "ok",
+  "cost": null,
+  "time_sec": 9.982139825820923,
+  "data": {
+    "operatorName": "SAMSON EXPLORATION, LLC",
+    "checkNumber": null,
+    "checkDate": null,
+    "ownerNumber": null,
+    "lineItems": [
+      {
+        "propertyNumber": "046907",
+        "propertyName": "ALEXANDER NO 3 OIL UNIT #3",
+        "countyName": "Orange",
+        "state": "TX",
+        "salesMonthYear": "06/2013",
+        "productCode": "1",
+        "interestType": "WI",
+        "decimalInterest": 0.00494707,
+        "unitPrice": 102.464,
+        "btu": null,
+        "ownerVolume": 37.82,
+        "ownerGrossValue": 3874.61,
+        "ownerTax": 236.2,
+        "ownerDeducts": null,
+        "ownerNetValue": 3638.41
+      },
+      {
+        "propertyNumber": "046907",
+        "propertyName": "ALEXANDER NO 3 OIL UNIT #3",
+        "countyName": "Orange",
+        "state": "TX",
+        "salesMonthYear": "06/2013",
+        "productCode": "2",
+        "interestType": "WI",
+        "decimalInterest": 0.00494707,
+        "unitPrice": 7.8,
+        "btu": 1.301,
+        "ownerVolume": 66.11,
+        "ownerGrossValue": 515.65,
+        "ownerTax": 46.74,
+        "ownerDeducts": 44.98,
+        "ownerNetValue": 423.93
+      }
+    ],
+    "ownerTotalGrossValue": 4390.26,
+    "ownerTotalTax": 282.94,
+    "ownerTotalDeducts": 44.98,
+    "ownerTotalNetValue": 4062.34
+  },
+  "meta": {
+    "provider": "anthropic",
+    "model": "claude-sonnet-4-6",
+    "doc_id": "UnG6cLfP",
+    "response_id": "msg_016QDo1N5UgZs69MnnDT2M3S",
+    "usage": {
+      "input_tokens": 5055,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 509,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    },
+    "schema_mode": "anthropic_output_config_nullable_v1",
+    "input_mode": "pdf_document",
+    "schema_fallback": "prompt_json_schema"
+  }
+}

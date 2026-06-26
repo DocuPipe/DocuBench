@@ -1,0 +1,97 @@
+{
+  "status": "ok",
+  "cost": null,
+  "time_sec": 14.178722143173218,
+  "data": {
+    "payPeriodMonth": 9,
+    "payPeriodYear": 2008,
+    "grade": "03",
+    "totalPayments": 12845.38,
+    "totalDeductions": 3792.1,
+    "netToBank": 9053.28,
+    "totalHours": 176.0,
+    "payments": [
+      {
+        "description": "משולב אופק חדש",
+        "amount": 10950.0,
+        "difference": null
+      },
+      {
+        "description": "גמול חינוך כיתה",
+        "amount": 1095.0,
+        "difference": null
+      },
+      {
+        "description": "קצובת נסיעה",
+        "amount": 616.0,
+        "difference": null
+      },
+      {
+        "description": "החזר טלפון",
+        "amount": 30.38,
+        "difference": null
+      },
+      {
+        "description": "מק' נסיעות בתפק.",
+        "amount": 154.0,
+        "difference": null
+      }
+    ],
+    "deductions": [
+      {
+        "description": "מס הכנסה",
+        "amount": 1854.67,
+        "difference": null
+      },
+      {
+        "description": "ק.השתל(ארג)בינ\"ל",
+        "amount": 505.89,
+        "difference": null
+      },
+      {
+        "description": "ביטוח לאומי",
+        "amount": 595.71,
+        "difference": null
+      },
+      {
+        "description": "ביטוח בריאות",
+        "amount": 554.91,
+        "difference": null
+      },
+      {
+        "description": "דמי ניהול פנסיה ת",
+        "amount": 240.9,
+        "difference": null
+      },
+      {
+        "description": "קופת גמל רשף",
+        "amount": 40.02,
+        "difference": null
+      }
+    ]
+  },
+  "meta": {
+    "provider": "google",
+    "model": "gemini-3.5-flash",
+    "doc_id": "SBR9L7Y8",
+    "usage": {
+      "promptTokenCount": 1155,
+      "candidatesTokenCount": 547,
+      "totalTokenCount": 4024,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 55
+        },
+        {
+          "modality": "IMAGE",
+          "tokenCount": 1100
+        }
+      ],
+      "thoughtsTokenCount": 2322,
+      "serviceTier": "standard"
+    },
+    "schema_mode": "gemini_response_schema_nullable_v1",
+    "input_mode": "inline_data"
+  }
+}

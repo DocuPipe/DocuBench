@@ -1,0 +1,210 @@
+{
+  "status": "ok",
+  "cost": null,
+  "time_sec": 25.803711891174316,
+  "data": {
+    "employeeName": "Jecrute Aline",
+    "employerName": "Jeu d'Essai",
+    "payPeriodStart": "2017-10-01",
+    "payPeriodEnd": "2017-10-31",
+    "paymentDate": "2017-10-31",
+    "siret": "995002433 00010",
+    "totalBrut": 3450.0,
+    "totalEmployeeContributions": 800.57,
+    "totalEmployerContributions": 2076.21,
+    "netImposable": 2770.28,
+    "netAPayer": 2649.43,
+    "earnings": [
+      {
+        "designation": "Salaire mensuel",
+        "base": 3000.0,
+        "rate": null,
+        "amount": 3000.0
+      },
+      {
+        "designation": "Prime d'ancienneté",
+        "base": 3000.0,
+        "rate": 15.0,
+        "amount": 450.0
+      }
+    ],
+    "contributions": [
+      {
+        "designation": "Sécurité Sociale - Maladie Maternité Invalidité Décès",
+        "base": 3450.0,
+        "employeeRate": 0.75,
+        "employeeAmount": 25.88,
+        "employerRate": 12.89,
+        "employerAmount": 444.71
+      },
+      {
+        "designation": "Complémentaire Incapacité Invalidité Décès",
+        "base": 3269.0,
+        "employeeRate": null,
+        "employeeAmount": 0.0,
+        "employerRate": 1.5,
+        "employerAmount": 49.04
+      },
+      {
+        "designation": "Complémentaire Santé",
+        "base": 3269.0,
+        "employeeRate": 0.76,
+        "employeeAmount": 24.84,
+        "employerRate": 2.63,
+        "employerAmount": 85.98
+      },
+      {
+        "designation": "ACCIDENTS DE TRAVAIL-MALADIES PROFESSIONNELLES",
+        "base": 3450.0,
+        "employeeRate": null,
+        "employeeAmount": 0.0,
+        "employerRate": 2.2,
+        "employerAmount": 75.9
+      },
+      {
+        "designation": "Sécurité Sociale plafonnée",
+        "base": 3269.0,
+        "employeeRate": 6.9,
+        "employeeAmount": 225.56,
+        "employerRate": 8.55,
+        "employerAmount": 279.5
+      },
+      {
+        "designation": "Sécurité Sociale déplafonnée",
+        "base": 3450.0,
+        "employeeRate": 0.4,
+        "employeeAmount": 13.8,
+        "employerRate": 1.9,
+        "employerAmount": 65.55
+      },
+      {
+        "designation": "Complémentaire Tranche A",
+        "base": 3269.0,
+        "employeeRate": 3.9,
+        "employeeAmount": 127.49,
+        "employerRate": 5.85,
+        "employerAmount": 191.24
+      },
+      {
+        "designation": "Complémentaire Garantie Minimale de Points",
+        "base": null,
+        "employeeRate": null,
+        "employeeAmount": 0.0,
+        "employerRate": null,
+        "employerAmount": 0.0
+      },
+      {
+        "designation": "Complémentaire Tranche B",
+        "base": 181.0,
+        "employeeRate": 8.7,
+        "employeeAmount": 15.75,
+        "employerRate": 14.05,
+        "employerAmount": 25.43
+      },
+      {
+        "designation": "Complémentaire Tranche C",
+        "base": null,
+        "employeeRate": null,
+        "employeeAmount": 0.0,
+        "employerRate": null,
+        "employerAmount": 0.0
+      },
+      {
+        "designation": "Complémentaire CET",
+        "base": 3450.0,
+        "employeeRate": 0.13,
+        "employeeAmount": 4.49,
+        "employerRate": 0.22,
+        "employerAmount": 7.59
+      },
+      {
+        "designation": "FAMILLE-SECURITE SOCIALE",
+        "base": 3450.0,
+        "employeeRate": null,
+        "employeeAmount": 0.0,
+        "employerRate": 3.45,
+        "employerAmount": 119.03
+      },
+      {
+        "designation": "Chômage",
+        "base": 3450.0,
+        "employeeRate": 2.4,
+        "employeeAmount": 82.8,
+        "employerRate": 4.2,
+        "employerAmount": 144.91
+      },
+      {
+        "designation": "APEC",
+        "base": 3450.0,
+        "employeeRate": 0.024,
+        "employeeAmount": 0.82,
+        "employerRate": 0.036,
+        "employerAmount": 1.25
+      },
+      {
+        "designation": "AUTRES CONTRIBUTIONS DUES PAR L'EMPLOYEUR",
+        "base": 3450.0,
+        "employeeRate": null,
+        "employeeAmount": 0.0,
+        "employerRate": 10.056,
+        "employerAmount": 346.95
+      },
+      {
+        "designation": "CSG non imposable à l'impôt sur le revenu",
+        "base": 3477.96,
+        "employeeRate": 5.1,
+        "employeeAmount": 177.37,
+        "employerRate": null,
+        "employerAmount": 0.0
+      },
+      {
+        "designation": "CSG/CRDS imposable à l'impôt sur le revenu",
+        "base": 3477.96,
+        "employeeRate": 2.9,
+        "employeeAmount": 100.86,
+        "employerRate": null,
+        "employerAmount": 0.0
+      },
+      {
+        "designation": "ALLEGEMENT DES COTISATIONS",
+        "base": null,
+        "employeeRate": null,
+        "employeeAmount": 0.0,
+        "employerRate": null,
+        "employerAmount": 0.0
+      },
+      {
+        "designation": "Réintégration frais de santé",
+        "base": 3269.0,
+        "employeeRate": 1.13,
+        "employeeAmount": null,
+        "employerRate": null,
+        "employerAmount": null
+      }
+    ]
+  },
+  "meta": {
+    "provider": "google",
+    "model": "gemini-3.5-flash",
+    "doc_id": "Oe7iRM1G",
+    "usage": {
+      "promptTokenCount": 586,
+      "candidatesTokenCount": 1799,
+      "totalTokenCount": 6838,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 54
+        },
+        {
+          "modality": "IMAGE",
+          "tokenCount": 532
+        }
+      ],
+      "thoughtsTokenCount": 4453,
+      "serviceTier": "standard"
+    },
+    "schema_mode": "gemini_response_schema_nullable_v1",
+    "input_mode": "inline_data"
+  }
+}

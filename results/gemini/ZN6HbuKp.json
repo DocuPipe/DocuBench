@@ -1,0 +1,149 @@
+{
+  "status": "ok",
+  "cost": null,
+  "time_sec": 22.349746227264404,
+  "data": {
+    "accountSummary": {
+      "openingBalance": 5000.0,
+      "closingBalance": 9881.29,
+      "totalDebits": 3456.87,
+      "totalCredits": 8338.16,
+      "feeTransactionCount": 6
+    },
+    "largeDebits": [
+      {
+        "postedOn": "2025-01-04",
+        "merchant": "SPOTIFY USA",
+        "spendCategory": "Subscription",
+        "debitAmountUsd": 141.58,
+        "valueDate": null
+      },
+      {
+        "postedOn": "2025-01-05",
+        "merchant": "SHELL OIL 57",
+        "spendCategory": "Transport",
+        "debitAmountUsd": 120.03,
+        "valueDate": null
+      },
+      {
+        "postedOn": "2025-01-07",
+        "merchant": "OLIVE GARDEN",
+        "spendCategory": "Dining",
+        "debitAmountUsd": 133.56,
+        "valueDate": null
+      },
+      {
+        "postedOn": "2025-01-09",
+        "merchant": "BEST BUY 391",
+        "spendCategory": "Retail",
+        "debitAmountUsd": 193.02,
+        "valueDate": null
+      },
+      {
+        "postedOn": "2025-01-12",
+        "merchant": "WHOLE FOODS MKT",
+        "spendCategory": "Groceries",
+        "debitAmountUsd": 205.34,
+        "valueDate": null
+      },
+      {
+        "postedOn": "2025-01-14",
+        "merchant": "ONLINE XFER TO SAVINGS",
+        "spendCategory": "Transfer",
+        "debitAmountUsd": 252.63,
+        "valueDate": null
+      },
+      {
+        "postedOn": "2025-01-24",
+        "merchant": "PG&E WEB PAYMENT",
+        "spendCategory": "Utilities",
+        "debitAmountUsd": 209.35,
+        "valueDate": null
+      },
+      {
+        "postedOn": "2025-02-13",
+        "merchant": "SHELL OIL 57",
+        "spendCategory": "Transport",
+        "debitAmountUsd": 145.46,
+        "valueDate": null
+      },
+      {
+        "postedOn": "2025-02-18",
+        "merchant": "WHOLE FOODS MKT",
+        "spendCategory": "Groceries",
+        "debitAmountUsd": 210.85,
+        "valueDate": null
+      },
+      {
+        "postedOn": "2025-02-20",
+        "merchant": "TARGET 00021",
+        "spendCategory": "Retail",
+        "debitAmountUsd": 196.75,
+        "valueDate": null
+      },
+      {
+        "postedOn": "2025-02-21",
+        "merchant": "TRADER JOE'S",
+        "spendCategory": "Groceries",
+        "debitAmountUsd": 131.63,
+        "valueDate": null
+      },
+      {
+        "postedOn": "2025-02-22",
+        "merchant": "CHIPOTLE 2231",
+        "spendCategory": "Dining",
+        "debitAmountUsd": 125.42,
+        "valueDate": null
+      },
+      {
+        "postedOn": "2025-02-26",
+        "merchant": "BEST BUY 391",
+        "spendCategory": "Retail",
+        "debitAmountUsd": 171.67,
+        "valueDate": null
+      },
+      {
+        "postedOn": "2025-02-28",
+        "merchant": "BEST BUY 391",
+        "spendCategory": "Retail",
+        "debitAmountUsd": 212.84,
+        "valueDate": null
+      },
+      {
+        "postedOn": "2025-03-07",
+        "merchant": "ZELLE TO J SMITH",
+        "spendCategory": "Transfer",
+        "debitAmountUsd": 233.59,
+        "valueDate": null
+      },
+      {
+        "postedOn": "2025-03-10",
+        "merchant": "NETFLIX.COM",
+        "spendCategory": "Subscription",
+        "debitAmountUsd": 182.64,
+        "valueDate": null
+      }
+    ],
+    "highestRunningBalanceDescription": "ACME CORP DIRECT DEP"
+  },
+  "meta": {
+    "provider": "google",
+    "model": "gemini-3.5-flash",
+    "doc_id": "ZN6HbuKp",
+    "usage": {
+      "promptTokenCount": 1238,
+      "candidatesTokenCount": 805,
+      "totalTokenCount": 6423,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 1238
+        }
+      ],
+      "thoughtsTokenCount": 4380,
+      "serviceTier": "standard"
+    },
+    "schema_mode": "gemini_response_schema_nullable_v1",
+    "input_mode": "text"
+  }
+}

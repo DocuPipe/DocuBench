@@ -1,0 +1,75 @@
+{
+  "status": "ok",
+  "cost": null,
+  "time_sec": 16.134172916412354,
+  "data": {
+    "operatorName": "SAMSON EXPLORATION, LLC",
+    "checkNumber": null,
+    "checkDate": null,
+    "ownerNumber": null,
+    "lineItems": [
+      {
+        "propertyNumber": "046907",
+        "propertyName": "ALEXANDER NO 3 OIL UNIT #3",
+        "countyName": "Orange",
+        "state": "TX",
+        "salesMonthYear": "08/2013",
+        "productCode": "1",
+        "interestType": "WI",
+        "decimalInterest": 0.00494707,
+        "unitPrice": 102.464,
+        "btu": null,
+        "ownerVolume": 37.82,
+        "ownerGrossValue": 3874.61,
+        "ownerTax": 236.2,
+        "ownerDeducts": 0.0,
+        "ownerNetValue": 3638.41
+      },
+      {
+        "propertyNumber": "046907",
+        "propertyName": "ALEXANDER NO 3 OIL UNIT #3",
+        "countyName": "Orange",
+        "state": "TX",
+        "salesMonthYear": "06/2013",
+        "productCode": "2",
+        "interestType": "WI",
+        "decimalInterest": 0.00494707,
+        "unitPrice": 7.8,
+        "btu": 1.301,
+        "ownerVolume": 66.11,
+        "ownerGrossValue": 515.65,
+        "ownerTax": 46.74,
+        "ownerDeducts": 44.98,
+        "ownerNetValue": 423.93
+      }
+    ],
+    "ownerTotalGrossValue": 4390.26,
+    "ownerTotalTax": 282.94,
+    "ownerTotalDeducts": 44.98,
+    "ownerTotalNetValue": 4062.34
+  },
+  "meta": {
+    "provider": "google",
+    "model": "gemini-3.5-flash",
+    "doc_id": "UnG6cLfP",
+    "usage": {
+      "promptTokenCount": 1106,
+      "candidatesTokenCount": 515,
+      "totalTokenCount": 4246,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 54
+        },
+        {
+          "modality": "IMAGE",
+          "tokenCount": 1052
+        }
+      ],
+      "thoughtsTokenCount": 2625,
+      "serviceTier": "standard"
+    },
+    "schema_mode": "gemini_response_schema_nullable_v1",
+    "input_mode": "inline_data"
+  }
+}

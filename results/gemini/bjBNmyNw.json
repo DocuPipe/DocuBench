@@ -1,0 +1,87 @@
+{
+  "status": "ok",
+  "cost": null,
+  "time_sec": 11.529668807983398,
+  "data": {
+    "poNumber": "40418819",
+    "department": "6576",
+    "poType": "DO - Domestic Other",
+    "buyer": "2013 A. MARKWAY - PET/GOURMET/LUGG",
+    "orderDate": "2018-09-21",
+    "notBeforeDate": "2018-12-10",
+    "notAfterDate": "2018-12-14",
+    "terms": "0200/DUEONRC+10",
+    "shipTo": "6050 NE - Omaha, Nebraska",
+    "fobPoint": "DESTINATION",
+    "lineItems": [
+      {
+        "vpn": "381218",
+        "style": "25651275",
+        "description": "MILK CHOCOLATE TABLET BAR NO COLOR NO",
+        "sku": "25651276",
+        "upc": "040000539551",
+        "packQty": null,
+        "content": 12,
+        "unitCost": 1.37,
+        "extendedCost": 1150.8
+      },
+      {
+        "vpn": "381405",
+        "style": "25651279",
+        "description": "PEANUT CHOCOLATE TABLET B NO COLOR NO",
+        "sku": "25651280",
+        "upc": "040000539681",
+        "packQty": null,
+        "content": 12,
+        "unitCost": 1.37,
+        "extendedCost": 1150.8
+      },
+      {
+        "vpn": "381411",
+        "style": "25651277",
+        "description": "ALMOND CHOCOLATE TABLET B NO COLOR NO",
+        "sku": "25651278",
+        "upc": "040000539742",
+        "packQty": null,
+        "content": 12,
+        "unitCost": 1.37,
+        "extendedCost": 1150.8
+      },
+      {
+        "vpn": "381417",
+        "style": "25651289",
+        "description": "CRISPY CHOCOLATE TABLET B NO COLOR NO",
+        "sku": "25651290",
+        "upc": "040000539803",
+        "packQty": null,
+        "content": 12,
+        "unitCost": 1.37,
+        "extendedCost": 1150.8
+      }
+    ]
+  },
+  "meta": {
+    "provider": "google",
+    "model": "gemini-3.5-flash",
+    "doc_id": "bjBNmyNw",
+    "usage": {
+      "promptTokenCount": 572,
+      "candidatesTokenCount": 701,
+      "totalTokenCount": 2733,
+      "promptTokensDetails": [
+        {
+          "modality": "IMAGE",
+          "tokenCount": 520
+        },
+        {
+          "modality": "TEXT",
+          "tokenCount": 52
+        }
+      ],
+      "thoughtsTokenCount": 1460,
+      "serviceTier": "standard"
+    },
+    "schema_mode": "gemini_response_schema_nullable_v1",
+    "input_mode": "inline_data"
+  }
+}

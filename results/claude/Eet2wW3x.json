@@ -1,0 +1,99 @@
+{
+  "status": "ok",
+  "cost": null,
+  "time_sec": 14.011720895767212,
+  "data": {
+    "customer": "FRESA DEMO DUBAI LLC",
+    "customerAddress": "AL NABHA, DUBAI",
+    "invoiceNumber": "INV1800564",
+    "invoiceDate": "27-NOV-18 (CREATED)",
+    "paymentDueDate": "27-NOV-18",
+    "shipper": "PAHILAJRAI JAIKISHIN AND CO",
+    "consignee": "FRESA DEMO DUBAI LLC",
+    "placeOfOrigin": "NHAVA SHEVA (JAWAHARLAL NEHRU), INDIA",
+    "finalDestination": "JEBEL ALI, UAE",
+    "vesselFlight": "NORTHERN GENERAL / 0068",
+    "jobNumber": "CCDXBSI18000061 / 27-NOV-18",
+    "masterNumber": "NSA.JEA.18/26917 / 12-OCT-18",
+    "houseNumber": "500138050266 / 10-OCT-18",
+    "numberOfPacks": 12.0,
+    "weightKgs": 1116.0,
+    "volumeCbm": 1.903,
+    "currency": "AED",
+    "amountInWords": "Dirham Seven Hundred Fifty-Six and Sixteen Fils Only",
+    "charges": [
+      {
+        "description": "DELIVERY ORDER CHARGES",
+        "currency": "AED",
+        "ratePerUnit": 275.0,
+        "unit": 1,
+        "currencyAmount": 275.0,
+        "roe": 1.0,
+        "totalPriceExclVat": 275.0,
+        "vatPercent": 5,
+        "vatAmount": 13.75,
+        "total": 288.75
+      },
+      {
+        "description": "THC CHARGES",
+        "currency": "AED",
+        "ratePerUnit": 50.0,
+        "unit": 1.903,
+        "currencyAmount": 95.15,
+        "roe": 1.0,
+        "totalPriceExclVat": 95.15,
+        "vatPercent": 5,
+        "vatAmount": 4.76,
+        "total": 99.91
+      },
+      {
+        "description": "DOCUMENTATION CHARGES",
+        "currency": "AED",
+        "ratePerUnit": 100.0,
+        "unit": 1,
+        "currencyAmount": 100.0,
+        "roe": 1.0,
+        "totalPriceExclVat": 100.0,
+        "vatPercent": 5,
+        "vatAmount": 5.0,
+        "total": 105.0
+      },
+      {
+        "description": "HANDLING CHARGES",
+        "currency": "AED",
+        "ratePerUnit": 250.0,
+        "unit": 1,
+        "currencyAmount": 250.0,
+        "roe": 1.0,
+        "totalPriceExclVat": 250.0,
+        "vatPercent": 5,
+        "vatAmount": 12.5,
+        "total": 262.5
+      }
+    ],
+    "totalExclVat": 720.15,
+    "totalVat": 36.01,
+    "grandTotal": 756.16
+  },
+  "meta": {
+    "provider": "anthropic",
+    "model": "claude-sonnet-4-6",
+    "doc_id": "Eet2wW3x",
+    "response_id": "msg_01FheddU5HW2QXQqDjLc3u4k",
+    "usage": {
+      "input_tokens": 3962,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 861,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    },
+    "schema_mode": "anthropic_output_config_nullable_v1",
+    "input_mode": "pdf_document",
+    "schema_fallback": "prompt_json_schema"
+  }
+}

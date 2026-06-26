@@ -1,0 +1,92 @@
+{
+  "status": "ok",
+  "cost": null,
+  "time_sec": 28.931806802749634,
+  "data": {
+    "payPeriodMonth": 9,
+    "payPeriodYear": 2008,
+    "grade": "03",
+    "totalPayments": 12845.38,
+    "totalDeductions": 3792.1,
+    "netToBank": 9053.28,
+    "totalHours": 176,
+    "payments": [
+      {
+        "description": "משולב אופק חדש",
+        "amount": 10950,
+        "difference": null
+      },
+      {
+        "description": "גמול חינוך כיתה",
+        "amount": 1095,
+        "difference": null
+      },
+      {
+        "description": "קצובת נסיעה",
+        "amount": 616,
+        "difference": null
+      },
+      {
+        "description": "החזר טלפון",
+        "amount": 30.38,
+        "difference": null
+      },
+      {
+        "description": "מק. נסיעות בתפק.",
+        "amount": 154,
+        "difference": null
+      }
+    ],
+    "deductions": [
+      {
+        "description": "מס הכנסה",
+        "amount": 1854.67,
+        "difference": null
+      },
+      {
+        "description": "ק.השתל(ארג)ב\"ל",
+        "amount": 505.89,
+        "difference": null
+      },
+      {
+        "description": "ביטוח לאומי",
+        "amount": 595.71,
+        "difference": null
+      },
+      {
+        "description": "ביטוח בריאות",
+        "amount": 554.91,
+        "difference": null
+      },
+      {
+        "description": "דמי ועד למורה ה",
+        "amount": 240.9,
+        "difference": null
+      },
+      {
+        "description": "קופת גמל רשף",
+        "amount": 40.02,
+        "difference": null
+      }
+    ]
+  },
+  "meta": {
+    "provider": "openai",
+    "model": "gpt-5.5",
+    "doc_id": "SBR9L7Y8",
+    "file_id": null,
+    "response_id": "resp_05d0b14f1c9164c5016a3e964c8fd8819c932d2d374487ffa0",
+    "usage": {
+      "input_tokens": 1181,
+      "input_tokens_details": {
+        "cached_tokens": 0
+      },
+      "output_tokens": 1835,
+      "output_tokens_details": {
+        "reasoning_tokens": 1552
+      },
+      "total_tokens": 3016
+    },
+    "schema_mode": "openai_strict_nullable_v1"
+  }
+}

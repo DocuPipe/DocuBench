@@ -1,0 +1,84 @@
+{
+  "status": "ok",
+  "cost": null,
+  "time_sec": 13.522821187973022,
+  "data": {
+    "productCategory": "POWDER DETERGENT",
+    "items": [
+      {
+        "productPacking": "UIC 16 X 800gm",
+        "cartonsPer20ft": 750,
+        "cartonsPer40ft": 1500,
+        "cartonDimensionCm": "41.50 X 26.00 X 33.40",
+        "cartonSizeM3": 0.036,
+        "netWeightKg": 12.8,
+        "grossWeightKg": 13.8
+      },
+      {
+        "productPacking": "UIC 6 X 2.5kg",
+        "cartonsPer20ft": 680,
+        "cartonsPer40ft": 1360,
+        "cartonDimensionCm": "53.00 X 36.50 X 22.00",
+        "cartonSizeM3": 0.0426,
+        "netWeightKg": 15.0,
+        "grossWeightKg": 16.0
+      },
+      {
+        "productPacking": "UIC 4 X 4kg",
+        "cartonsPer20ft": 660,
+        "cartonsPer40ft": 1320,
+        "cartonDimensionCm": "43.60 X 29.20 X 34.90",
+        "cartonSizeM3": 0.0444,
+        "netWeightKg": 16.0,
+        "grossWeightKg": 17.0
+      },
+      {
+        "productPacking": "Peony 16 X 800gm",
+        "cartonsPer20ft": 750,
+        "cartonsPer40ft": 1500,
+        "cartonDimensionCm": "41.50 X 26.00 X 34.50",
+        "cartonSizeM3": 0.0372,
+        "netWeightKg": 12.8,
+        "grossWeightKg": 13.8
+      },
+      {
+        "productPacking": "Peony 6 X 2.5kg",
+        "cartonsPer20ft": 680,
+        "cartonsPer40ft": 1360,
+        "cartonDimensionCm": "53.00 X 38.50 X 23.00",
+        "cartonSizeM3": 0.0469,
+        "netWeightKg": 15.0,
+        "grossWeightKg": 16.0
+      },
+      {
+        "productPacking": "Peony 4 X 4kg",
+        "cartonsPer20ft": 660,
+        "cartonsPer40ft": 1320,
+        "cartonDimensionCm": "43.60 X 29.20 X 34.90",
+        "cartonSizeM3": 0.0444,
+        "netWeightKg": 16.0,
+        "grossWeightKg": 17.0
+      }
+    ]
+  },
+  "meta": {
+    "provider": "anthropic",
+    "model": "claude-sonnet-4-6",
+    "doc_id": "QxoQ6zgn",
+    "response_id": "msg_01Fxff9FgCsaGMJojBiMhWrv",
+    "usage": {
+      "input_tokens": 2765,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 567,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    },
+    "schema_mode": "anthropic_output_config_nullable_v1",
+    "input_mode": "pdf_document"
+  }
+}

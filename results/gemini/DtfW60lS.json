@@ -1,0 +1,53 @@
+{
+  "status": "ok",
+  "cost": null,
+  "time_sec": 14.091244220733643,
+  "data": {
+    "numeroFactura": "21180613010076890",
+    "cups": "ES 0021 0000 0474 4848 NZ",
+    "periodoFacturacionStart": "2018-05-08",
+    "periodoFacturacionEnd": "2018-06-10",
+    "consumoKwh": 350,
+    "charges": [
+      {
+        "description": "ENERGÍA",
+        "amount": 66.02
+      },
+      {
+        "description": "SERVICIOS Y OTROS CONCEPTOS",
+        "amount": 0.88
+      },
+      {
+        "description": "IVA 21% s/66,9",
+        "amount": 14.05
+      }
+    ],
+    "baseImponible": 66.9,
+    "iva": 14.05,
+    "totalAPagar": 80.95
+  },
+  "meta": {
+    "provider": "google",
+    "model": "gemini-3.5-flash",
+    "doc_id": "DtfW60lS",
+    "usage": {
+      "promptTokenCount": 2183,
+      "candidatesTokenCount": 255,
+      "totalTokenCount": 4817,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 55
+        },
+        {
+          "modality": "IMAGE",
+          "tokenCount": 2128
+        }
+      ],
+      "thoughtsTokenCount": 2379,
+      "serviceTier": "standard"
+    },
+    "schema_mode": "gemini_response_schema_nullable_v1",
+    "input_mode": "inline_data"
+  }
+}

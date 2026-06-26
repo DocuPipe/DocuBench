@@ -1,0 +1,1754 @@
+{
+  "benchmark": {
+    "name": "DocuBench",
+    "version": "0.1.0",
+    "doc_count": 50,
+    "metric": "macro_average_field_accuracy"
+  },
+  "engines": [
+    {
+      "key": "claude",
+      "display": "Claude",
+      "model": "claude-sonnet-4-6",
+      "overall": 0.9032597450724702
+    },
+    {
+      "key": "docupipe_high",
+      "display": "DocuPipe high",
+      "model": null,
+      "overall": 0.9724422013639372
+    },
+    {
+      "key": "docupipe_standard",
+      "display": "DocuPipe standard",
+      "model": null,
+      "overall": 0.9599727771503346
+    },
+    {
+      "key": "extend",
+      "display": "Extend",
+      "model": null,
+      "overall": 0.9252208706230732
+    },
+    {
+      "key": "gemini",
+      "display": "Gemini",
+      "model": "gemini-3.5-flash",
+      "overall": 0.9579750803411575
+    },
+    {
+      "key": "gpt",
+      "display": "GPT",
+      "model": "gpt-5.5",
+      "overall": 0.9354159088285791
+    }
+  ],
+  "breakdowns": {
+    "ftype": [
+      {
+        "value": "csv",
+        "doc_count": 1,
+        "claude": 0.9,
+        "docupipe_high": 1.0,
+        "docupipe_standard": 0.9857142857142858,
+        "extend": 0.8205128205128205,
+        "gemini": 1.0,
+        "gpt": 0.9857142857142858
+      },
+      {
+        "value": "docx",
+        "doc_count": 1,
+        "claude": 1.0,
+        "docupipe_high": 1.0,
+        "docupipe_standard": 1.0,
+        "extend": 0.8333333333333334,
+        "gemini": 0.9629629629629629,
+        "gpt": 0.8333333333333334
+      },
+      {
+        "value": "html",
+        "doc_count": 1,
+        "claude": 1.0,
+        "docupipe_high": 1.0,
+        "docupipe_standard": 1.0,
+        "extend": 1.0,
+        "gemini": 1.0,
+        "gpt": 1.0
+      },
+      {
+        "value": "jpeg",
+        "doc_count": 4,
+        "claude": 0.6535365608373417,
+        "docupipe_high": 0.9743455497382199,
+        "docupipe_standard": 1.0,
+        "extend": 0.7969815572873855,
+        "gemini": 0.9769932463581044,
+        "gpt": 0.9598354231974922
+      },
+      {
+        "value": "pdf",
+        "doc_count": 37,
+        "claude": 0.937385571458486,
+        "docupipe_high": 0.9664493560629385,
+        "docupipe_standard": 0.9523594342530644,
+        "extend": 0.9337407445535354,
+        "gemini": 0.9578341247793556,
+        "gpt": 0.9296366466452302
+      },
+      {
+        "value": "png",
+        "doc_count": 1,
+        "claude": 0.9655748663101604,
+        "docupipe_high": 1.0,
+        "docupipe_standard": 1.0,
+        "extend": 1.0,
+        "gemini": 0.9769385026737968,
+        "gpt": 0.7634692513368985
+      },
+      {
+        "value": "tiff",
+        "doc_count": 1,
+        "claude": 1.0,
+        "docupipe_high": 1.0,
+        "docupipe_standard": 0.8095238095238095,
+        "extend": 0.9047619047619048,
+        "gemini": 0.95,
+        "gpt": 0.9523809523809523
+      },
+      {
+        "value": "txt",
+        "doc_count": 1,
+        "claude": 1.0,
+        "docupipe_high": 1.0,
+        "docupipe_standard": 1.0,
+        "extend": 1.0,
+        "gemini": 1.0,
+        "gpt": 1.0
+      },
+      {
+        "value": "xlsx",
+        "doc_count": 1,
+        "claude": 0.0,
+        "docupipe_high": 0.9661016949152542,
+        "docupipe_standard": 0.9661016949152542,
+        "extend": 0.9661016949152542,
+        "gemini": 0.6610169491525423,
+        "gpt": 1.0
+      },
+      {
+        "value": "xml",
+        "doc_count": 2,
+        "claude": 1.0,
+        "docupipe_high": 1.0,
+        "docupipe_standard": 1.0,
+        "extend": 1.0,
+        "gemini": 1.0,
+        "gpt": 1.0
+      }
+    ],
+    "lang": [
+      {
+        "value": "ar",
+        "doc_count": 1,
+        "claude": 1.0,
+        "docupipe_high": 1.0,
+        "docupipe_standard": 0.9836065573770492,
+        "extend": 1.0,
+        "gemini": 0.9836065573770492,
+        "gpt": 1.0
+      },
+      {
+        "value": "de",
+        "doc_count": 2,
+        "claude": 0.5843527388847949,
+        "docupipe_high": 0.9312997951286137,
+        "docupipe_standard": 0.9782608695652174,
+        "extend": 0.8683124539425202,
+        "gemini": 0.9869565217391305,
+        "gpt": 0.9869565217391305
+      },
+      {
+        "value": "en",
+        "doc_count": 33,
+        "claude": 0.9294437665834829,
+        "docupipe_high": 0.9831993914125009,
+        "docupipe_standard": 0.9640680794967392,
+        "extend": 0.9546162276667626,
+        "gemini": 0.9702680014421176,
+        "gpt": 0.9450950296947482
+      },
+      {
+        "value": "es",
+        "doc_count": 1,
+        "claude": 1.0,
+        "docupipe_high": 1.0,
+        "docupipe_standard": 1.0,
+        "extend": 1.0,
+        "gemini": 1.0,
+        "gpt": 1.0
+      },
+      {
+        "value": "fr",
+        "doc_count": 1,
+        "claude": 0.8418367346938775,
+        "docupipe_high": 1.0,
+        "docupipe_standard": 0.9551374819102749,
+        "extend": 0.8418367346938775,
+        "gemini": 0.9464544138929087,
+        "gpt": 1.0
+      },
+      {
+        "value": "he",
+        "doc_count": 6,
+        "claude": 0.7894212784939735,
+        "docupipe_high": 0.8944922852065669,
+        "docupipe_standard": 0.8906098435684645,
+        "extend": 0.7406377439368789,
+        "gemini": 0.8635959646785611,
+        "gpt": 0.837946193788312
+      },
+      {
+        "value": "it",
+        "doc_count": 1,
+        "claude": 1.0,
+        "docupipe_high": 0.9735054347826086,
+        "docupipe_standard": 0.9735054347826086,
+        "extend": 0.9429347826086957,
+        "gemini": 0.951766304347826,
+        "gpt": 0.9646739130434783
+      },
+      {
+        "value": "ja",
+        "doc_count": 2,
+        "claude": 0.8843316584218528,
+        "docupipe_high": 0.9867357076525486,
+        "docupipe_standard": 0.992005076142132,
+        "extend": 0.9035918797392992,
+        "gemini": 0.9393692203069186,
+        "gpt": 0.9368311492409289
+      },
+      {
+        "value": "nl",
+        "doc_count": 1,
+        "claude": 1.0,
+        "docupipe_high": 1.0,
+        "docupipe_standard": 1.0,
+        "extend": 0.9863013698630136,
+        "gemini": 1.0,
+        "gpt": 0.7671232876712328
+      },
+      {
+        "value": "pt",
+        "doc_count": 1,
+        "claude": 0.975609756097561,
+        "docupipe_high": 1.0,
+        "docupipe_standard": 0.9879518072289156,
+        "extend": 1.0,
+        "gemini": 0.963855421686747,
+        "gpt": 0.975609756097561
+      },
+      {
+        "value": "zh",
+        "doc_count": 1,
+        "claude": 1.0,
+        "docupipe_high": 1.0,
+        "docupipe_standard": 1.0,
+        "extend": 1.0,
+        "gemini": 1.0,
+        "gpt": 1.0
+      }
+    ],
+    "capability": [
+      {
+        "flag": "arrays",
+        "label": "Array / line-item tables",
+        "doc_count": 30,
+        "claude": 0.9255469654175632,
+        "docupipe_high": 0.968839208629664,
+        "docupipe_standard": 0.9613043562039718,
+        "extend": 0.9341587713605741,
+        "gemini": 0.9674512998652756,
+        "gpt": 0.9512925774582951
+      },
+      {
+        "flag": "reconcile",
+        "label": "Totals must reconcile",
+        "doc_count": 24,
+        "claude": 0.8686383624995253,
+        "docupipe_high": 0.9706119456898356,
+        "docupipe_standard": 0.9633946800058256,
+        "extend": 0.9057290955780856,
+        "gemini": 0.9417706230976313,
+        "gpt": 0.9346429281028046
+      },
+      {
+        "flag": "rtl",
+        "label": "Right-to-left script",
+        "doc_count": 7,
+        "claude": 0.8195039529948344,
+        "docupipe_high": 0.9095648158913431,
+        "docupipe_standard": 0.9038950883982623,
+        "extend": 0.7776894948030391,
+        "gemini": 0.8807403350640595,
+        "gpt": 0.8610967375328389
+      },
+      {
+        "flag": "cjk",
+        "label": "CJK script",
+        "doc_count": 3,
+        "claude": 0.9228877722812352,
+        "docupipe_high": 0.9911571384350323,
+        "docupipe_standard": 0.9946700507614213,
+        "extend": 0.9357279198261995,
+        "gemini": 0.9595794802046124,
+        "gpt": 0.957887432827286
+      },
+      {
+        "flag": "handwriting",
+        "label": "Handwriting",
+        "doc_count": 1,
+        "claude": 0.9775280898876404,
+        "docupipe_high": 1.0,
+        "docupipe_standard": 0.9778491171749598,
+        "extend": 0.9887640449438202,
+        "gemini": 0.9887640449438202,
+        "gpt": 0.7857142857142856
+      },
+      {
+        "flag": "rotated",
+        "label": "Rotated scan",
+        "doc_count": 2,
+        "claude": 0.9827874331550802,
+        "docupipe_high": 1.0,
+        "docupipe_standard": 0.9047619047619048,
+        "extend": 0.9523809523809523,
+        "gemini": 0.9634692513368983,
+        "gpt": 0.8579251018589253
+      },
+      {
+        "flag": "needle",
+        "label": "Needle-in-haystack lookup",
+        "doc_count": 2,
+        "claude": 0.95,
+        "docupipe_high": 1.0,
+        "docupipe_standard": 0.9928571428571429,
+        "extend": 0.9102564102564102,
+        "gemini": 1.0,
+        "gpt": 0.9928571428571429
+      },
+      {
+        "flag": "nested",
+        "label": "Nested objects",
+        "doc_count": 1,
+        "claude": 0.9807692307692307,
+        "docupipe_high": 1.0,
+        "docupipe_standard": 1.0,
+        "extend": 1.0,
+        "gemini": 1.0,
+        "gpt": 0.9807692307692307
+      }
+    ]
+  },
+  "documents": [
+    {
+      "doc_id": "1ZVqiyJZ",
+      "name": "DC DISB Homeowners Declarations",
+      "lang": "en",
+      "ftype": "pdf",
+      "pages": 1,
+      "feature": "coverage limits array + policy fields",
+      "license": "DC gov sample (fictional names)",
+      "source_url": "https://disb.dc.gov/sites/default/files/dc/sites/disb/publication/attachments/Declaration%20Page%20Sample%20Homeowners%2012.pdf",
+      "flags": {
+        "arrays": true,
+        "reconcile": false,
+        "rtl": false,
+        "cjk": false,
+        "handwriting": false,
+        "rotated": false,
+        "needle": false,
+        "nested": false
+      },
+      "scores": {
+        "claude": 1.0,
+        "docupipe_high": 1.0,
+        "docupipe_standard": 1.0,
+        "extend": 1.0,
+        "gemini": 1.0,
+        "gpt": 1.0
+      }
+    },
+    {
+      "doc_id": "45xidifn",
+      "name": "Hitachi Japanese Statement",
+      "lang": "ja",
+      "ftype": "pdf",
+      "pages": 1,
+      "feature": "Japanese; 32 trip rows + 12 subtotals, grand total reconciles",
+      "license": "vendor product sample template",
+      "source_url": "https://www.hitachi.co.jp/Prod/comp/soft1/pde/info/concept/pdf/sample3_b.pdf",
+      "flags": {
+        "arrays": false,
+        "reconcile": true,
+        "rtl": false,
+        "cjk": true,
+        "handwriting": false,
+        "rotated": false,
+        "needle": false,
+        "nested": false
+      },
+      "scores": {
+        "claude": 0.8029272762345684,
+        "docupipe_high": 0.9894612630208334,
+        "docupipe_standard": 1.0,
+        "extend": 0.9000771604938274,
+        "gemini": 0.9028501157407409,
+        "gpt": 0.9028501157407409
+      }
+    },
+    {
+      "doc_id": "4kVtTRoL",
+      "name": "Moneck Merchant Statement",
+      "lang": "en",
+      "ftype": "pdf",
+      "pages": 5,
+      "feature": "merchant card statement; deposits/fees/chargebacks arrays",
+      "license": "(c) Moneck, hosted sample",
+      "source_url": "https://moneck.com/uploads/samples/Merchant-Statement-Example-Format.pdf",
+      "flags": {
+        "arrays": true,
+        "reconcile": false,
+        "rtl": false,
+        "cjk": false,
+        "handwriting": false,
+        "rotated": false,
+        "needle": false,
+        "nested": false
+      },
+      "scores": {
+        "claude": 0.9214285714285714,
+        "docupipe_high": 0.9976190476190476,
+        "docupipe_standard": 0.8108108108108109,
+        "extend": 1.0,
+        "gemini": 0.919047619047619,
+        "gpt": 0.8666666666666667
+      }
+    },
+    {
+      "doc_id": "5YJaBbNg",
+      "name": "Portuguese Balanco e Demonstracao de Resultados (excerpt)",
+      "lang": "pt",
+      "ftype": "pdf",
+      "pages": 2,
+      "feature": "balance-sheet + income-statement arrays reconcile",
+      "license": "published corporate annual report",
+      "source_url": "https://www.balbino-faustino.pt/uploads/base/ficheiros/Relatorio_e_Contas_2023.pdf",
+      "flags": {
+        "arrays": true,
+        "reconcile": true,
+        "rtl": false,
+        "cjk": false,
+        "handwriting": false,
+        "rotated": false,
+        "needle": false,
+        "nested": false
+      },
+      "scores": {
+        "claude": 0.975609756097561,
+        "docupipe_high": 1.0,
+        "docupipe_standard": 0.9879518072289156,
+        "extend": 1.0,
+        "gemini": 0.963855421686747,
+        "gpt": 0.975609756097561
+      }
+    },
+    {
+      "doc_id": "5ukZftw0",
+      "name": "Financial Sample Spreadsheet (trimmed 30 rows)",
+      "lang": "en",
+      "ftype": "xlsx",
+      "pages": 1,
+      "feature": "30-row table, computed columns reconcile per row",
+      "license": "Microsoft sample-data terms (copy/use permitted)",
+      "source_url": "https://learn.microsoft.com/en-us/power-bi/create-reports/sample-financial-download",
+      "flags": {
+        "arrays": false,
+        "reconcile": true,
+        "rtl": false,
+        "cjk": false,
+        "handwriting": false,
+        "rotated": false,
+        "needle": false,
+        "nested": false
+      },
+      "scores": {
+        "claude": 0.0,
+        "docupipe_high": 0.9661016949152542,
+        "docupipe_standard": 0.9661016949152542,
+        "extend": 0.9661016949152542,
+        "gemini": 0.6610169491525423,
+        "gpt": 1.0
+      }
+    },
+    {
+      "doc_id": "62PhJTyf",
+      "name": "Dutch Jaarrekening Balans+Winst-en-verliesrekening (excerpt)",
+      "lang": "nl",
+      "ftype": "pdf",
+      "pages": 3,
+      "feature": "balance-sheet + income-statement arrays, totaal activa=passiva",
+      "license": "publicly posted sample (fictional company)",
+      "source_url": "https://cournot.nl/wp-content/uploads/2018/03/voorbeeld-jaarrekening.pdf",
+      "flags": {
+        "arrays": true,
+        "reconcile": false,
+        "rtl": false,
+        "cjk": false,
+        "handwriting": false,
+        "rotated": false,
+        "needle": false,
+        "nested": false
+      },
+      "scores": {
+        "claude": 1.0,
+        "docupipe_high": 1.0,
+        "docupipe_standard": 1.0,
+        "extend": 0.9863013698630136,
+        "gemini": 1.0,
+        "gpt": 0.7671232876712328
+      }
+    },
+    {
+      "doc_id": "7ZhgzAzp",
+      "name": "Ethiopian Air Waybill (rotated 90, TIFF)",
+      "lang": "en",
+      "ftype": "tiff",
+      "pages": 1,
+      "feature": "rotation-robustness; same fields as upright AWB",
+      "license": "derived (90deg rotation) from doc #42",
+      "source_url": "https://www.againstmalaria.com/images/00/00/775.pdf",
+      "flags": {
+        "arrays": false,
+        "reconcile": false,
+        "rtl": false,
+        "cjk": false,
+        "handwriting": false,
+        "rotated": true,
+        "needle": false,
+        "nested": false
+      },
+      "scores": {
+        "claude": 1.0,
+        "docupipe_high": 1.0,
+        "docupipe_standard": 0.8095238095238095,
+        "extend": 0.9047619047619048,
+        "gemini": 0.95,
+        "gpt": 0.9523809523809523
+      }
+    },
+    {
+      "doc_id": "97uZroyv",
+      "name": "Hyperfine Schedule Sheet (sliced from 16p)",
+      "lang": "en",
+      "ftype": "pdf",
+      "pages": 1,
+      "feature": "architectural door/room/window schedules; sparse blanks -> null",
+      "license": "(c) Hyperfine Architecture (publicly downloadable)",
+      "source_url": "https://hyperfinearchitecture.com/wp-content/uploads/2018/06/HFC_01_Plan-Set.pdf",
+      "flags": {
+        "arrays": false,
+        "reconcile": false,
+        "rtl": false,
+        "cjk": false,
+        "handwriting": false,
+        "rotated": false,
+        "needle": false,
+        "nested": false
+      },
+      "scores": {
+        "claude": 0.9620853080568721,
+        "docupipe_high": 1.0,
+        "docupipe_standard": 1.0,
+        "extend": 1.0,
+        "gemini": 1.0,
+        "gpt": 0.9620853080568721
+      }
+    },
+    {
+      "doc_id": "B0nA2c30",
+      "name": "Five Guys Receipt (rotated 180, PNG)",
+      "lang": "en",
+      "ftype": "png",
+      "pages": 1,
+      "feature": "rotation-robustness; same fields as upright receipt",
+      "license": "derived (180deg rotation) from doc #27 (MIT)",
+      "source_url": "https://expressexpense.com/blog/free-receipt-images-ocr-machine-learning-dataset/",
+      "flags": {
+        "arrays": false,
+        "reconcile": false,
+        "rtl": false,
+        "cjk": false,
+        "handwriting": false,
+        "rotated": true,
+        "needle": false,
+        "nested": false
+      },
+      "scores": {
+        "claude": 0.9655748663101604,
+        "docupipe_high": 1.0,
+        "docupipe_standard": 1.0,
+        "extend": 1.0,
+        "gemini": 0.9769385026737968,
+        "gpt": 0.7634692513368985
+      }
+    },
+    {
+      "doc_id": "BnftpXVQ",
+      "name": "SEC EDGAR FedEx Credit Agreement (excerpt)",
+      "lang": "en",
+      "ftype": "pdf",
+      "pages": 2,
+      "feature": "22-lender commitment array sums to $1.5B",
+      "license": "SEC EDGAR (US gov, public domain)",
+      "source_url": "https://www.sec.gov/Archives/edgar/data/1048911/000156459019025065/d817656dex10207.htm",
+      "flags": {
+        "arrays": true,
+        "reconcile": true,
+        "rtl": false,
+        "cjk": false,
+        "handwriting": false,
+        "rotated": false,
+        "needle": false,
+        "nested": false
+      },
+      "scores": {
+        "claude": 1.0,
+        "docupipe_high": 1.0,
+        "docupipe_standard": 1.0,
+        "extend": 1.0,
+        "gemini": 1.0,
+        "gpt": 1.0
+      }
+    },
+    {
+      "doc_id": "C7fe2lau",
+      "name": "Peppol UBL E-Invoice",
+      "lang": "en",
+      "ftype": "xml",
+      "pages": 1,
+      "feature": "UBL XML; 3 invoice lines + tax/monetary totals reconcile",
+      "license": "OpenPEPPOL repo, Apache-2.0",
+      "source_url": "https://github.com/OpenPEPPOL/peppol-bis-invoice-3/blob/master/rules/examples/base-example.xml",
+      "flags": {
+        "arrays": false,
+        "reconcile": true,
+        "rtl": false,
+        "cjk": false,
+        "handwriting": false,
+        "rotated": false,
+        "needle": false,
+        "nested": false
+      },
+      "scores": {
+        "claude": 1.0,
+        "docupipe_high": 1.0,
+        "docupipe_standard": 1.0,
+        "extend": 1.0,
+        "gemini": 1.0,
+        "gpt": 1.0
+      }
+    },
+    {
+      "doc_id": "DtfW60lS",
+      "name": "Spanish Iberdrola Factura Electricidad",
+      "lang": "es",
+      "ftype": "pdf",
+      "pages": 4,
+      "feature": "facturacion charge array reconciles to Total a pagar",
+      "license": "real electricity invoice posted publicly",
+      "source_url": "https://www.iberdrola.es",
+      "flags": {
+        "arrays": true,
+        "reconcile": true,
+        "rtl": false,
+        "cjk": false,
+        "handwriting": false,
+        "rotated": false,
+        "needle": false,
+        "nested": false
+      },
+      "scores": {
+        "claude": 1.0,
+        "docupipe_high": 1.0,
+        "docupipe_standard": 1.0,
+        "extend": 1.0,
+        "gemini": 1.0,
+        "gpt": 1.0
+      }
+    },
+    {
+      "doc_id": "ENoM9faK",
+      "name": "NASA Mechanical Drawing (sliced from 128p)",
+      "lang": "en",
+      "ftype": "pdf",
+      "pages": 1,
+      "feature": "engineering drawing; 15-row list-of-material array",
+      "license": "NASA (US gov work, public domain, 17 USC 105)",
+      "source_url": "https://s3vi.ndc.nasa.gov/ssri-kb/static/resources/NASA%20GSFC-X-673-64-1F.pdf",
+      "flags": {
+        "arrays": true,
+        "reconcile": false,
+        "rtl": false,
+        "cjk": false,
+        "handwriting": false,
+        "rotated": false,
+        "needle": false,
+        "nested": false
+      },
+      "scores": {
+        "claude": 0.8635820895522388,
+        "docupipe_high": 0.7652307692307692,
+        "docupipe_standard": 0.804,
+        "extend": 0.816923076923077,
+        "gemini": 1.0,
+        "gpt": 0.8447761194029851
+      }
+    },
+    {
+      "doc_id": "Eet2wW3x",
+      "name": "FRESA Arabic Tax Invoice",
+      "lang": "ar",
+      "ftype": "pdf",
+      "pages": 1,
+      "feature": "Arabic RTL; 4-row charge array + VAT, grand total reconciles",
+      "license": "vendor sample report format (publicly posted)",
+      "source_url": "https://fresatechnologies.com/wp-content/uploads/report-formats/invoice-report-format-8-standard-invoice-arabic.pdf",
+      "flags": {
+        "arrays": true,
+        "reconcile": true,
+        "rtl": true,
+        "cjk": false,
+        "handwriting": false,
+        "rotated": false,
+        "needle": false,
+        "nested": false
+      },
+      "scores": {
+        "claude": 1.0,
+        "docupipe_high": 1.0,
+        "docupipe_standard": 0.9836065573770492,
+        "extend": 1.0,
+        "gemini": 0.9836065573770492,
+        "gpt": 1.0
+      }
+    },
+    {
+      "doc_id": "FiFgt4a6",
+      "name": "Ethiopian Air Waybill",
+      "lang": "en",
+      "ftype": "pdf",
+      "pages": 1,
+      "feature": "air waybill fields (charges blank on form)",
+      "license": "public shipment AWB posting",
+      "source_url": "https://www.againstmalaria.com/images/00/00/775.pdf",
+      "flags": {
+        "arrays": false,
+        "reconcile": false,
+        "rtl": false,
+        "cjk": false,
+        "handwriting": false,
+        "rotated": false,
+        "needle": false,
+        "nested": false
+      },
+      "scores": {
+        "claude": 0.8571428571428571,
+        "docupipe_high": 1.0,
+        "docupipe_standard": 0.8571428571428571,
+        "extend": 0.9,
+        "gemini": 1.0,
+        "gpt": 1.0
+      }
+    },
+    {
+      "doc_id": "GW7i2xbM",
+      "name": "FL Homeowners Declarations",
+      "lang": "en",
+      "ftype": "pdf",
+      "pages": 1,
+      "feature": "insurance; A-F coverages, premium split as-printed",
+      "license": "Florida state gov consumer-guide sample",
+      "source_url": "https://myfloridacfo.com/docs-sf/consumer-services-libraries/consumerservices-documents/understanding-coverage/sample-declarations-page.pdf",
+      "flags": {
+        "arrays": false,
+        "reconcile": false,
+        "rtl": false,
+        "cjk": false,
+        "handwriting": false,
+        "rotated": false,
+        "needle": false,
+        "nested": false
+      },
+      "scores": {
+        "claude": 0.9354838709677419,
+        "docupipe_high": 1.0,
+        "docupipe_standard": 1.0,
+        "extend": 0.9117647058823529,
+        "gemini": 0.9354838709677419,
+        "gpt": 0.9354838709677419
+      }
+    },
+    {
+      "doc_id": "IPm0MkgQ",
+      "name": "Carson Bank Sample Statement",
+      "lang": "en",
+      "ftype": "pdf",
+      "pages": 6,
+      "feature": "transaction array, cross-page straddle",
+      "license": "vendor sample (dummy data)",
+      "source_url": "https://www.carsonbank.com/wp-content/uploads/2021/01/Sample-Statement.pdf",
+      "flags": {
+        "arrays": true,
+        "reconcile": false,
+        "rtl": false,
+        "cjk": false,
+        "handwriting": false,
+        "rotated": false,
+        "needle": false,
+        "nested": false
+      },
+      "scores": {
+        "claude": 1.0,
+        "docupipe_high": 1.0,
+        "docupipe_standard": 1.0,
+        "extend": 1.0,
+        "gemini": 1.0,
+        "gpt": 1.0
+      }
+    },
+    {
+      "doc_id": "J6buHXQ4",
+      "name": "Majdal Shams Municipal Financials",
+      "lang": "he",
+      "ftype": "pdf",
+      "pages": 13,
+      "feature": "Hebrew; balance-sheet + budget receipts/payments arrays",
+      "license": "municipal government publication",
+      "source_url": "https://majdal.muni.gov.il/media/xnahdrcu/kasbi2023.pdf",
+      "flags": {
+        "arrays": true,
+        "reconcile": false,
+        "rtl": true,
+        "cjk": false,
+        "handwriting": false,
+        "rotated": false,
+        "needle": false,
+        "nested": false
+      },
+      "scores": {
+        "claude": 0.929443359375,
+        "docupipe_high": 0.9546126471393375,
+        "docupipe_standard": 0.951444018614837,
+        "extend": 0.7515779316608014,
+        "gemini": 0.9029755507791509,
+        "gpt": 0.9250718578521033
+      }
+    },
+    {
+      "doc_id": "KpewWz3R",
+      "name": "FHA 1004 Appraisal (sliced from 21p)",
+      "lang": "en",
+      "ftype": "pdf",
+      "pages": 7,
+      "feature": "real estate; 5-comp sales-comparison array reconciles",
+      "license": "(c) Piekos / a la mode form (publicly hosted)",
+      "source_url": "http://www.piekos.com/xSites/Appraisers/piekos/Content/UploadedFiles/FHA_1004_DEMO.pdf",
+      "flags": {
+        "arrays": true,
+        "reconcile": true,
+        "rtl": false,
+        "cjk": false,
+        "handwriting": false,
+        "rotated": false,
+        "needle": false,
+        "nested": false
+      },
+      "scores": {
+        "claude": 0.9620000000000001,
+        "docupipe_high": 0.9861818181818183,
+        "docupipe_standard": 0.9620000000000001,
+        "extend": 0.9493333333333331,
+        "gemini": 0.9620000000000001,
+        "gpt": 0.8853333333333334
+      }
+    },
+    {
+      "doc_id": "LYeb3G3s",
+      "name": "Labsmart CBC Lab Report",
+      "lang": "en",
+      "ftype": "pdf",
+      "pages": 2,
+      "feature": "13-analyte results array, nested patient",
+      "license": "LIS-vendor sample template (de-identified)",
+      "source_url": "https://www.labsmartlis.com/pdf/pathology/cbc-report-format.pdf",
+      "flags": {
+        "arrays": true,
+        "reconcile": false,
+        "rtl": false,
+        "cjk": false,
+        "handwriting": false,
+        "rotated": false,
+        "needle": false,
+        "nested": true
+      },
+      "scores": {
+        "claude": 0.9807692307692307,
+        "docupipe_high": 1.0,
+        "docupipe_standard": 1.0,
+        "extend": 1.0,
+        "gemini": 1.0,
+        "gpt": 0.9807692307692307
+      }
+    },
+    {
+      "doc_id": "M66HZlWT",
+      "name": "Chang Gung Chinese Medical Receipt",
+      "lang": "zh",
+      "ftype": "jpeg",
+      "pages": 1,
+      "feature": "Chinese; self-pay + NHI-point fields, both reconcile",
+      "license": "Wikimedia Commons, CC BY-SA 4.0",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Chang_Gung_Memorial_Hospital_medical_expenditure_receipt_20160224_face.jpg",
+      "flags": {
+        "arrays": false,
+        "reconcile": true,
+        "rtl": false,
+        "cjk": true,
+        "handwriting": false,
+        "rotated": false,
+        "needle": false,
+        "nested": false
+      },
+      "scores": {
+        "claude": 1.0,
+        "docupipe_high": 1.0,
+        "docupipe_standard": 1.0,
+        "extend": 1.0,
+        "gemini": 1.0,
+        "gpt": 1.0
+      }
+    },
+    {
+      "doc_id": "NNaGgwE5",
+      "name": "NRCS Pedon Handwritten Form",
+      "lang": "en",
+      "ftype": "pdf",
+      "pages": 2,
+      "feature": "handwriting; 10 soil-horizon rows, Munsell colors",
+      "license": "USDA-NRCS (US gov, public domain); UVM mirror",
+      "source_url": "https://www.uvm.edu/femc/attachments/project/161/Field_Book_for_Describing_and_Sampling_Soils.pdf",
+      "flags": {
+        "arrays": false,
+        "reconcile": false,
+        "rtl": false,
+        "cjk": false,
+        "handwriting": true,
+        "rotated": false,
+        "needle": false,
+        "nested": false
+      },
+      "scores": {
+        "claude": 0.9775280898876404,
+        "docupipe_high": 1.0,
+        "docupipe_standard": 0.9778491171749598,
+        "extend": 0.9887640449438202,
+        "gemini": 0.9887640449438202,
+        "gpt": 0.7857142857142856
+      }
+    },
+    {
+      "doc_id": "NlWTPen5",
+      "name": "PPL Electric Two Bill Example",
+      "lang": "en",
+      "ftype": "pdf",
+      "pages": 3,
+      "feature": "delivery charge array, usage + demand",
+      "license": "utility reference sample",
+      "source_url": "https://www.pplelectric.com/-/media/PPLElectric/At-Your-Service/Docs/General-Supplier-Reference-Information/Two-Bill-Example.pdf",
+      "flags": {
+        "arrays": true,
+        "reconcile": false,
+        "rtl": false,
+        "cjk": false,
+        "handwriting": false,
+        "rotated": false,
+        "needle": false,
+        "nested": false
+      },
+      "scores": {
+        "claude": 1.0,
+        "docupipe_high": 1.0,
+        "docupipe_standard": 1.0,
+        "extend": 1.0,
+        "gemini": 1.0,
+        "gpt": 1.0
+      }
+    },
+    {
+      "doc_id": "OayFbGlG",
+      "name": "Optum Discharge Summary",
+      "lang": "en",
+      "ftype": "pdf",
+      "pages": 2,
+      "feature": "healthcare; diagnoses array, empty-meds case",
+      "license": "(c) Optum, sample note",
+      "source_url": "https://www.optumhealthsandiego.com/content/dam/san-diego/documents/ffsproviders/review-inpatient/Inpatient%20Note%20Example.pdf",
+      "flags": {
+        "arrays": true,
+        "reconcile": false,
+        "rtl": false,
+        "cjk": false,
+        "handwriting": false,
+        "rotated": false,
+        "needle": false,
+        "nested": false
+      },
+      "scores": {
+        "claude": 1.0,
+        "docupipe_high": 1.0,
+        "docupipe_standard": 0.9444444444444444,
+        "extend": 1.0,
+        "gemini": 1.0,
+        "gpt": 1.0
+      }
+    },
+    {
+      "doc_id": "Oe7iRM1G",
+      "name": "Sage French Bulletin de Paie (payslip)",
+      "lang": "fr",
+      "ftype": "pdf",
+      "pages": 1,
+      "feature": "18-row social-contributions array, gross/net reconcile",
+      "license": "vendor demo payslip (fictional)",
+      "source_url": "https://www.amplitude-informatique.fr/app/download/5813294897/Bulletin+clarifie+(Exemple).PDF",
+      "flags": {
+        "arrays": true,
+        "reconcile": true,
+        "rtl": false,
+        "cjk": false,
+        "handwriting": false,
+        "rotated": false,
+        "needle": false,
+        "nested": false
+      },
+      "scores": {
+        "claude": 0.8418367346938775,
+        "docupipe_high": 1.0,
+        "docupipe_standard": 0.9551374819102749,
+        "extend": 0.8418367346938775,
+        "gemini": 0.9464544138929087,
+        "gpt": 1.0
+      }
+    },
+    {
+      "doc_id": "PSU5pciM",
+      "name": "CPS Energy Electric Bill",
+      "lang": "en",
+      "ftype": "pdf",
+      "pages": 2,
+      "feature": "electric charge array + meter read",
+      "license": "utility-published redacted sample",
+      "source_url": "https://www.cpsenergy.com/content/dam/corporate/en/Documents/RAC/CustomerBills/Bill%20Sample%20-%20RA%20Rate%20-%20Non-Summer%20%20Redacted.pdf",
+      "flags": {
+        "arrays": true,
+        "reconcile": false,
+        "rtl": false,
+        "cjk": false,
+        "handwriting": false,
+        "rotated": false,
+        "needle": false,
+        "nested": false
+      },
+      "scores": {
+        "claude": 1.0,
+        "docupipe_high": 1.0,
+        "docupipe_standard": 1.0,
+        "extend": 1.0,
+        "gemini": 1.0,
+        "gpt": 1.0
+      }
+    },
+    {
+      "doc_id": "PYhFptk3",
+      "name": "EDI 850 Purchase Order",
+      "lang": "en",
+      "ftype": "txt",
+      "pages": 1,
+      "feature": "X12 EDI text; envelope + 6 PO1 lines, CTT count reconciles",
+      "license": "vendor docs sample X12 (synthetic)",
+      "source_url": "https://iwayinfocenter.informationbuilders.com/TLs/TL_soa_ebiz_edix12/source/sample_docs48.htm",
+      "flags": {
+        "arrays": false,
+        "reconcile": true,
+        "rtl": false,
+        "cjk": false,
+        "handwriting": false,
+        "rotated": false,
+        "needle": false,
+        "nested": false
+      },
+      "scores": {
+        "claude": 1.0,
+        "docupipe_high": 1.0,
+        "docupipe_standard": 1.0,
+        "extend": 1.0,
+        "gemini": 1.0,
+        "gpt": 1.0
+      }
+    },
+    {
+      "doc_id": "QxoQ6zgn",
+      "name": "UICCP Packing List Carton Dimensions",
+      "lang": "en",
+      "ftype": "pdf",
+      "pages": 1,
+      "feature": "carton/packing spec table array",
+      "license": "vendor spec sheet (publicly posted)",
+      "source_url": "https://uiccp.com/wp-content/uploads/2014/06/Copy-of-OCM.pdf",
+      "flags": {
+        "arrays": true,
+        "reconcile": false,
+        "rtl": false,
+        "cjk": false,
+        "handwriting": false,
+        "rotated": false,
+        "needle": false,
+        "nested": false
+      },
+      "scores": {
+        "claude": 1.0,
+        "docupipe_high": 1.0,
+        "docupipe_standard": 1.0,
+        "extend": 1.0,
+        "gemini": 1.0,
+        "gpt": 1.0
+      }
+    },
+    {
+      "doc_id": "SBR9L7Y8",
+      "name": "Hebrew Payslip",
+      "lang": "he",
+      "ftype": "jpeg",
+      "pages": 1,
+      "feature": "Hebrew RTL; 5 payment + 6 deduction rows, gross/net reconcile",
+      "license": "Wikimedia Commons, CC BY-SA 4.0",
+      "source_url": "https://commons.wikimedia.org/wiki/File:%D7%AA%D7%9C%D7%95%D7%A9_%D7%A9%D7%9B%D7%A8.jpg",
+      "flags": {
+        "arrays": false,
+        "reconcile": true,
+        "rtl": true,
+        "cjk": false,
+        "handwriting": false,
+        "rotated": false,
+        "needle": false,
+        "nested": false
+      },
+      "scores": {
+        "claude": 0.4482758620689655,
+        "docupipe_high": 1.0,
+        "docupipe_standard": 1.0,
+        "extend": 0.4482758620689655,
+        "gemini": 0.9310344827586207,
+        "gpt": 0.8620689655172413
+      }
+    },
+    {
+      "doc_id": "SkD8Lz8o",
+      "name": "SEC EDGAR Precision Lease 4th Amendment (excerpt)",
+      "lang": "en",
+      "ftype": "pdf",
+      "pages": 3,
+      "feature": "transposed multi-period rent schedule -> flat array",
+      "license": "SEC EDGAR (US gov, public domain)",
+      "source_url": "https://www.sec.gov/Archives/edgar/data/1357874/000095017024036817/dtil-ex10_12.htm",
+      "flags": {
+        "arrays": true,
+        "reconcile": false,
+        "rtl": false,
+        "cjk": false,
+        "handwriting": false,
+        "rotated": false,
+        "needle": false,
+        "nested": false
+      },
+      "scores": {
+        "claude": 1.0,
+        "docupipe_high": 1.0,
+        "docupipe_standard": 1.0,
+        "extend": 0.9285714285714286,
+        "gemini": 1.0,
+        "gpt": 0.8857142857142857
+      }
+    },
+    {
+      "doc_id": "UnG6cLfP",
+      "name": "Samson Oil & Gas Check Stub",
+      "lang": "en",
+      "ftype": "pdf",
+      "pages": 2,
+      "feature": "oil&gas revenue lines, per-line deductions, gross/net reconcile",
+      "license": "vendor sample (publicly posted)",
+      "source_url": "https://www.samsonco.com/images/Owner-RelationsPage-DetailedExplanationofCheckStub.pdf",
+      "flags": {
+        "arrays": false,
+        "reconcile": true,
+        "rtl": false,
+        "cjk": false,
+        "handwriting": false,
+        "rotated": false,
+        "needle": false,
+        "nested": false
+      },
+      "scores": {
+        "claude": 1.0,
+        "docupipe_high": 1.0,
+        "docupipe_standard": 1.0,
+        "extend": 0.9131313131313131,
+        "gemini": 0.9393939393939394,
+        "gpt": 0.9696969696969697
+      }
+    },
+    {
+      "doc_id": "WnxX1Buq",
+      "name": "PG&E Solar NEM Statement",
+      "lang": "en",
+      "ftype": "pdf",
+      "pages": 4,
+      "feature": "energy NEM; charge-line + NEM-credit arrays reconcile",
+      "license": "utility published sample (fictitious data)",
+      "source_url": "https://www.pge.com/assets/pge/docs/account/billing-and-assistance/nem-monthly-transition-bill-base-services-charge.pdf",
+      "flags": {
+        "arrays": true,
+        "reconcile": true,
+        "rtl": false,
+        "cjk": false,
+        "handwriting": false,
+        "rotated": false,
+        "needle": false,
+        "nested": false
+      },
+      "scores": {
+        "claude": 1.0,
+        "docupipe_high": 1.0,
+        "docupipe_standard": 1.0,
+        "extend": 0.8484848484848485,
+        "gemini": 1.0,
+        "gpt": 0.975
+      }
+    },
+    {
+      "doc_id": "WxP8Tqgf",
+      "name": "Italian Busta Paga (payslip)",
+      "lang": "it",
+      "ftype": "pdf",
+      "pages": 1,
+      "feature": "VOCE/competenze pay-line array, gross/net reconcile",
+      "license": "university-hosted example payslip",
+      "source_url": "https://www.unife.it",
+      "flags": {
+        "arrays": true,
+        "reconcile": true,
+        "rtl": false,
+        "cjk": false,
+        "handwriting": false,
+        "rotated": false,
+        "needle": false,
+        "nested": false
+      },
+      "scores": {
+        "claude": 1.0,
+        "docupipe_high": 0.9735054347826086,
+        "docupipe_standard": 0.9735054347826086,
+        "extend": 0.9429347826086957,
+        "gemini": 0.951766304347826,
+        "gpt": 0.9646739130434783
+      }
+    },
+    {
+      "doc_id": "XhJyv5mb",
+      "name": "German DEG Jahresabschluss Bilanz+GuV (excerpt)",
+      "lang": "de",
+      "ftype": "pdf",
+      "pages": 2,
+      "feature": "balance-sheet + income-statement arrays, Aktiva=Passiva",
+      "license": "published corporate annual report",
+      "source_url": "https://www.deginvest.de/DEG-Dokumente/Download-Center/DEG_JAB_2022_DE.pdf",
+      "flags": {
+        "arrays": true,
+        "reconcile": false,
+        "rtl": false,
+        "cjk": false,
+        "handwriting": false,
+        "rotated": false,
+        "needle": false,
+        "nested": false
+      },
+      "scores": {
+        "claude": 0.991304347826087,
+        "docupipe_high": 0.9652173913043478,
+        "docupipe_standard": 0.9565217391304348,
+        "extend": 0.9739130434782609,
+        "gemini": 0.9739130434782609,
+        "gpt": 0.9739130434782609
+      }
+    },
+    {
+      "doc_id": "ZN6HbuKp",
+      "name": "Bank Transaction Register (CSV)",
+      "lang": "en",
+      "ftype": "csv",
+      "pages": 1,
+      "feature": "34-row register; computed summary + filtered largeDebits[] + needle",
+      "license": "authored for this benchmark, CC BY 4.0",
+      "source_url": "(generated by benchmark authors)",
+      "flags": {
+        "arrays": false,
+        "reconcile": true,
+        "rtl": false,
+        "cjk": false,
+        "handwriting": false,
+        "rotated": false,
+        "needle": true,
+        "nested": false
+      },
+      "scores": {
+        "claude": 0.9,
+        "docupipe_high": 1.0,
+        "docupipe_standard": 0.9857142857142858,
+        "extend": 0.8205128205128205,
+        "gemini": 1.0,
+        "gpt": 0.9857142857142858
+      }
+    },
+    {
+      "doc_id": "ZXlksSpk",
+      "name": "Getbuildingworks BOQ Summary",
+      "lang": "en",
+      "ftype": "pdf",
+      "pages": 1,
+      "feature": "25-bill summary array reconciles to grand total",
+      "license": "publicly posted sample",
+      "source_url": "https://getbuildingworks.com/wp-content/uploads/2018/01/Bill-of-Quantities-Work-Section.pdf",
+      "flags": {
+        "arrays": true,
+        "reconcile": true,
+        "rtl": false,
+        "cjk": false,
+        "handwriting": false,
+        "rotated": false,
+        "needle": false,
+        "nested": false
+      },
+      "scores": {
+        "claude": 1.0,
+        "docupipe_high": 1.0,
+        "docupipe_standard": 1.0,
+        "extend": 1.0,
+        "gemini": 1.0,
+        "gpt": 1.0
+      }
+    },
+    {
+      "doc_id": "bjBNmyNw",
+      "name": "Gordmans PO Line Items",
+      "lang": "en",
+      "ftype": "pdf",
+      "pages": 1,
+      "feature": "retail PO; 4 line items, extended-cost reconciles",
+      "license": "publicly hosted vendor routing manual",
+      "source_url": "https://mimage.opentext.com/alt_content/binary/businessnetwork/gordmans/gordmans-guide-12-20-19a.pdf",
+      "flags": {
+        "arrays": false,
+        "reconcile": true,
+        "rtl": false,
+        "cjk": false,
+        "handwriting": false,
+        "rotated": false,
+        "needle": false,
+        "nested": false
+      },
+      "scores": {
+        "claude": 1.0,
+        "docupipe_high": 0.9523809523809523,
+        "docupipe_standard": 0.9523809523809523,
+        "extend": 0.9761904761904762,
+        "gemini": 1.0,
+        "gpt": 0.6428571428571429
+      }
+    },
+    {
+      "doc_id": "eKzY7gEA",
+      "name": "Clinical Discharge Summary (HTML)",
+      "lang": "en",
+      "ftype": "html",
+      "pages": 1,
+      "feature": "clinical lists as array-of-objects",
+      "license": "authored for this benchmark, CC BY 4.0",
+      "source_url": "(generated by benchmark authors)",
+      "flags": {
+        "arrays": true,
+        "reconcile": false,
+        "rtl": false,
+        "cjk": false,
+        "handwriting": false,
+        "rotated": false,
+        "needle": false,
+        "nested": false
+      },
+      "scores": {
+        "claude": 1.0,
+        "docupipe_high": 1.0,
+        "docupipe_standard": 1.0,
+        "extend": 1.0,
+        "gemini": 1.0,
+        "gpt": 1.0
+      }
+    },
+    {
+      "doc_id": "iTruRDrG",
+      "name": "Vince Sea Waybill",
+      "lang": "en",
+      "ftype": "pdf",
+      "pages": 2,
+      "feature": "cargo array w/ HS codes, cartons/weight/cbm reconcile",
+      "license": "vendor supplier-portal example",
+      "source_url": "http://vincesupplierportal.vince.com/_uploads/ship/shipDocs/Seaway%20Bill%20Example.pdf",
+      "flags": {
+        "arrays": true,
+        "reconcile": true,
+        "rtl": false,
+        "cjk": false,
+        "handwriting": false,
+        "rotated": false,
+        "needle": false,
+        "nested": false
+      },
+      "scores": {
+        "claude": 0.6285714285714286,
+        "docupipe_high": 0.8,
+        "docupipe_standard": 0.8,
+        "extend": 0.7090909090909091,
+        "gemini": 1.0,
+        "gpt": 0.9818181818181818
+      }
+    },
+    {
+      "doc_id": "jlKc8eVi",
+      "name": "Hitachi Japanese Invoice",
+      "lang": "ja",
+      "ftype": "pdf",
+      "pages": 1,
+      "feature": "Japanese; 30-row line-item array w/ symbol product codes",
+      "license": "vendor product sample template",
+      "source_url": "https://www.hitachi.co.jp/Prod/comp/soft1/pde/info/concept/pdf/sample1_b.pdf",
+      "flags": {
+        "arrays": true,
+        "reconcile": false,
+        "rtl": false,
+        "cjk": true,
+        "handwriting": false,
+        "rotated": false,
+        "needle": false,
+        "nested": false
+      },
+      "scores": {
+        "claude": 0.9657360406091371,
+        "docupipe_high": 0.9840101522842638,
+        "docupipe_standard": 0.9840101522842638,
+        "extend": 0.9071065989847712,
+        "gemini": 0.9758883248730964,
+        "gpt": 0.9708121827411168
+      }
+    },
+    {
+      "doc_id": "nESapyAA",
+      "name": "Taub Hebrew Tax Invoice",
+      "lang": "he",
+      "ftype": "pdf",
+      "pages": 1,
+      "feature": "Hebrew RTL; line-item + payment, 18% VAT reconciles",
+      "license": "vendor-generated sample invoice (posted publicly)",
+      "source_url": "https://www.taubcenter.org.il/wp-content/uploads/2020/05/104880.pdf",
+      "flags": {
+        "arrays": false,
+        "reconcile": true,
+        "rtl": true,
+        "cjk": false,
+        "handwriting": false,
+        "rotated": false,
+        "needle": false,
+        "nested": false
+      },
+      "scores": {
+        "claude": 0.9090909090909091,
+        "docupipe_high": 0.9545454545454546,
+        "docupipe_standard": 0.9545454545454546,
+        "extend": 1.0,
+        "gemini": 0.9090909090909091,
+        "gpt": 0.9090909090909091
+      }
+    },
+    {
+      "doc_id": "phovuuuk",
+      "name": "University of Pittsburgh Filled Sample W-2",
+      "lang": "en",
+      "ftype": "pdf",
+      "pages": 3,
+      "feature": "box 12 + box 14 code arrays",
+      "license": "university educational sample (no real PII)",
+      "source_url": "https://www.payroll.pitt.edu/sites/default/files/assets/Sample-W2.pdf",
+      "flags": {
+        "arrays": true,
+        "reconcile": false,
+        "rtl": false,
+        "cjk": false,
+        "handwriting": false,
+        "rotated": false,
+        "needle": false,
+        "nested": false
+      },
+      "scores": {
+        "claude": 1.0,
+        "docupipe_high": 1.0,
+        "docupipe_standard": 1.0,
+        "extend": 1.0,
+        "gemini": 0.9615384615384616,
+        "gpt": 1.0
+      }
+    },
+    {
+      "doc_id": "pw8elPW9",
+      "name": "Hebrew Financial Statement (DOCX)",
+      "lang": "he",
+      "ftype": "docx",
+      "pages": 1,
+      "feature": "Hebrew RTL balance sheet + income statement, reconciling totals",
+      "license": "authored for this benchmark, CC BY 4.0",
+      "source_url": "(generated by benchmark authors)",
+      "flags": {
+        "arrays": false,
+        "reconcile": true,
+        "rtl": true,
+        "cjk": false,
+        "handwriting": false,
+        "rotated": false,
+        "needle": false,
+        "nested": false
+      },
+      "scores": {
+        "claude": 1.0,
+        "docupipe_high": 1.0,
+        "docupipe_standard": 1.0,
+        "extend": 0.8333333333333334,
+        "gemini": 0.9629629629629629,
+        "gpt": 0.8333333333333334
+      }
+    },
+    {
+      "doc_id": "qQUPWQNA",
+      "name": "Ramat Gan Arnona Rates 2025",
+      "lang": "he",
+      "ftype": "pdf",
+      "pages": 5,
+      "feature": "Hebrew; residential + zoned/banded property-type rate arrays",
+      "license": "municipal government publication",
+      "source_url": "https://cms-media.ramat-gan.muni.il/media/a33jhfld/",
+      "flags": {
+        "arrays": true,
+        "reconcile": false,
+        "rtl": true,
+        "cjk": false,
+        "handwriting": false,
+        "rotated": false,
+        "needle": false,
+        "nested": false
+      },
+      "scores": {
+        "claude": 0.7997175404289664,
+        "docupipe_high": 0.7633511651101644,
+        "docupipe_standard": 0.7814195882504955,
+        "extend": 0.7142107651296017,
+        "gemini": 0.7347711417389827,
+        "gpt": 0.7481120969362851
+      }
+    },
+    {
+      "doc_id": "qoSTXgNE",
+      "name": "Zionist Strategy NGO Financials",
+      "lang": "he",
+      "ftype": "pdf",
+      "pages": 4,
+      "feature": "Hebrew; 3-statement leaf line items, 3 reconciliations",
+      "license": "GuideStar Israel (gov NGO registry), public filing",
+      "source_url": "https://www.guidestar.org.il/organization/580429207/finances",
+      "flags": {
+        "arrays": false,
+        "reconcile": true,
+        "rtl": true,
+        "cjk": false,
+        "handwriting": false,
+        "rotated": false,
+        "needle": false,
+        "nested": false
+      },
+      "scores": {
+        "claude": 0.65,
+        "docupipe_high": 0.6944444444444444,
+        "docupipe_standard": 0.65625,
+        "extend": 0.6964285714285714,
+        "gemini": 0.7407407407407407,
+        "gpt": 0.75
+      }
+    },
+    {
+      "doc_id": "tLFa76nQ",
+      "name": "Fidelity Brokerage Statement (sliced from 28p)",
+      "lang": "en",
+      "ftype": "pdf",
+      "pages": 18,
+      "feature": "brokerage; 18-holding + 58-activity arrays, holdings sum reconciles",
+      "license": "(c) Fidelity, published sample",
+      "source_url": "https://www.fidelity.com/bin-public/060_www_fidelity_com/documents/sample-new-fidelity-acnt-stmt.pdf",
+      "flags": {
+        "arrays": true,
+        "reconcile": true,
+        "rtl": false,
+        "cjk": false,
+        "handwriting": false,
+        "rotated": false,
+        "needle": false,
+        "nested": false
+      },
+      "scores": {
+        "claude": 0.729008733231296,
+        "docupipe_high": 0.9780656342846852,
+        "docupipe_standard": 0.9442786512850209,
+        "extend": 0.8917664535878276,
+        "gemini": 0.7477221571981637,
+        "gpt": 0.7933833682241328
+      }
+    },
+    {
+      "doc_id": "vBIz5dut",
+      "name": "Five Guys Receipt Photo",
+      "lang": "en",
+      "ftype": "jpeg",
+      "pages": 1,
+      "feature": "photo receipt; 17-row line items w/ modifiers",
+      "license": "ExpressExpense SRD dataset, MIT License",
+      "source_url": "https://expressexpense.com/blog/free-receipt-images-ocr-machine-learning-dataset/",
+      "flags": {
+        "arrays": false,
+        "reconcile": false,
+        "rtl": false,
+        "cjk": false,
+        "handwriting": false,
+        "rotated": false,
+        "needle": false,
+        "nested": false
+      },
+      "scores": {
+        "claude": 0.9884692513368983,
+        "docupipe_high": 1.0,
+        "docupipe_standard": 1.0,
+        "extend": 0.9769385026737968,
+        "gemini": 0.9769385026737968,
+        "gpt": 0.9772727272727273
+      }
+    },
+    {
+      "doc_id": "wVafMvAC",
+      "name": "German 1976 Wage Statement",
+      "lang": "de",
+      "ftype": "jpeg",
+      "pages": 1,
+      "feature": "payslip; deduction-row array with printed trailing-minus storno (negative) amounts",
+      "license": "CC BY 4.0 + GFDL 1.2+ (uploader Wolf1949, self-created); privately self-uploaded 1976 payslip, no printed personal name",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Entgeltabrechnung_in_einer_Versicherungsgesellschaft_1976.JPG",
+      "flags": {
+        "arrays": true,
+        "reconcile": false,
+        "rtl": false,
+        "cjk": false,
+        "handwriting": false,
+        "rotated": false,
+        "needle": false,
+        "nested": false
+      },
+      "scores": {
+        "claude": 0.17740112994350282,
+        "docupipe_high": 0.8973821989528795,
+        "docupipe_standard": 1.0,
+        "extend": 0.7627118644067796,
+        "gemini": 1.0,
+        "gpt": 1.0
+      }
+    },
+    {
+      "doc_id": "yTRFKVPx",
+      "name": "Smartsheet Construction Invoice",
+      "lang": "en",
+      "ftype": "pdf",
+      "pages": 4,
+      "feature": "materials/labor/misc line-item arrays, reconciling totals",
+      "license": "vendor free template (publicly posted)",
+      "source_url": "https://www.smartsheet.com/sites/default/files/2021-11/IC-Free-Printable-Construction-Invoice-11215_PDF.pdf",
+      "flags": {
+        "arrays": true,
+        "reconcile": true,
+        "rtl": false,
+        "cjk": false,
+        "handwriting": false,
+        "rotated": false,
+        "needle": false,
+        "nested": false
+      },
+      "scores": {
+        "claude": 1.0,
+        "docupipe_high": 1.0,
+        "docupipe_standard": 1.0,
+        "extend": 1.0,
+        "gemini": 1.0,
+        "gpt": 1.0
+      }
+    },
+    {
+      "doc_id": "zKibU88u",
+      "name": "Orders Export XML",
+      "lang": "en",
+      "ftype": "xml",
+      "pages": 1,
+      "feature": "200-order export; needle-extraction of one order + scattered lookups",
+      "license": "authored for this benchmark, CC BY 4.0",
+      "source_url": "(generated by benchmark authors)",
+      "flags": {
+        "arrays": false,
+        "reconcile": false,
+        "rtl": false,
+        "cjk": false,
+        "handwriting": false,
+        "rotated": false,
+        "needle": true,
+        "nested": false
+      },
+      "scores": {
+        "claude": 1.0,
+        "docupipe_high": 1.0,
+        "docupipe_standard": 1.0,
+        "extend": 1.0,
+        "gemini": 1.0,
+        "gpt": 1.0
+      }
+    }
+  ]
+}

@@ -1,0 +1,786 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>DocuBench — Structured Extraction Benchmark</title>
+<link rel="preconnect" href="https://fonts.googleapis.com" />
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+<link href="https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700;900&family=Roboto+Mono:wght@400;500;700&display=swap" rel="stylesheet" />
+<style>
+  :root{
+    --green:#288a2d;        /* DocuPipe brand green */
+    --green-hover:#1F7A24;
+    --green-press:#176A1C;
+    --green-bright:#22c55e; /* blueprint glow */
+    --green-wash:#E8F5E9;
+    --hero-top:#f0fdf4;
+
+    --ink:#111111;
+    --ink-2:#3A3D44;
+    --ink-soft:#696F8C;
+    --ink-faint:#9AA0AE;
+    --line:rgba(0,0,0,0.09);
+    --line-2:rgba(0,0,0,0.06);
+    --paper:#ffffff;
+    --paper-2:#F7F8F7;
+    --page-bg:#EFF2EE;
+    --track:#EDEFEE;
+
+    --shadow: 0 1px 2px rgba(16,24,16,.04), 0 18px 40px -24px rgba(16,40,20,.22);
+    --shadow-sm: 0 1px 2px rgba(16,24,16,.05), 0 6px 16px -12px rgba(16,40,20,.22);
+    --radius:14px;
+    --radius-sm:10px;
+    --ease:cubic-bezier(.22,.68,.32,1);
+  }
+  /* per-engine accent palette (brand-derived) */
+  [data-engine="docupipe_high"]    { --c:#288a2d; --cd:#176A1C; --cw:#E8F5E9; }
+  [data-engine="docupipe_standard"]{ --c:#5BA85F; --cd:#3E8B45; --cw:#EEF7EF; }
+  [data-engine="gpt"]              { --c:#1A6B7A; --cd:#124C57; --cw:#E4F1F3; }
+  [data-engine="extend"]           { --c:#7626A6; --cd:#59197F; --cw:#F2E9F8; }
+  [data-engine="claude"]           { --c:#C2622E; --cd:#97461C; --cw:#FAEEE5; }
+  [data-engine="gemini"]           { --c:#3B6FD4; --cd:#2A52A0; --cw:#E9EFFB; }
+
+  *{ box-sizing:border-box; }
+  html{ -webkit-text-size-adjust:100%; }
+  body{
+    margin:0; color:var(--ink);
+    background-color:var(--page-bg);
+    background-image:
+      linear-gradient(rgba(40,138,45,.05) 1px, transparent 1px),
+      linear-gradient(90deg, rgba(40,138,45,.05) 1px, transparent 1px);
+    background-size:30px 30px;
+    background-position:center top;
+    font-family:"Roboto", system-ui, -apple-system, sans-serif;
+    font-size:15px; line-height:1.5; -webkit-font-smoothing:antialiased; text-rendering:optimizeLegibility;
+  }
+  .mono{ font-family:"Roboto Mono", ui-monospace, monospace; }
+  .num{ font-family:"Roboto Mono", ui-monospace, monospace; font-variant-numeric:tabular-nums; }
+  .eyebrow{ font-family:"Roboto Mono", monospace; font-size:11px; letter-spacing:.2em; text-transform:uppercase; color:var(--green-press); font-weight:500; }
+  a{ color:var(--green-press); }
+
+  /* ---------- reveal ---------- */
+  @keyframes rise{ from{ opacity:0; transform:translateY(12px); } to{ opacity:1; transform:none; } }
+  .reveal{ opacity:0; animation:rise .65s var(--ease) forwards; }
+  @media (prefers-reduced-motion:reduce){ .reveal{ animation:none; opacity:1; } }
+
+  /* ---------- hero band (lives inside the frame so the margin rules run to the top) ---------- */
+  .band{ position:relative; }
+  .band__inner{ position:relative; z-index:1; padding:34px 30px 34px; }
+
+  .topbar{ display:flex; align-items:center; justify-content:space-between; gap:18px; }
+  .wordmark{ display:inline-flex; align-items:center; gap:11px; text-decoration:none; color:inherit; transition:opacity .15s var(--ease); }
+  .wordmark:hover{ opacity:.78; }
+  .logo{ width:30px; height:30px; flex:none; display:block; border-radius:8px; box-shadow:0 5px 14px -7px rgba(23,106,28,.7); }
+  .wordmark b{ font-weight:900; font-size:16px; letter-spacing:.12em; color:var(--ink); }
+  .topbar .tag-pill{ font-family:"Roboto Mono", monospace; font-size:11px; letter-spacing:.06em; color:var(--green-press); background:rgba(40,138,45,.09); border:1px solid rgba(40,138,45,.22); padding:6px 12px; border-radius:999px; }
+
+  .hero-eyebrow{ margin:46px 0 18px; }
+  h1{ font-weight:900; font-size:clamp(2.4rem, 5.4vw, 3.9rem); line-height:1.04; letter-spacing:-.02em; margin:0 0 16px; max-width:18ch; }
+  h1 .g{ color:var(--green); }
+  .lede{ color:var(--ink-soft); font-size:clamp(1rem,1.5vw,1.15rem); max-width:52ch; margin:0 0 26px; }
+  .hero-chips{ display:flex; gap:9px; flex-wrap:wrap; }
+  .hero-chips .chip{ font-family:"Roboto Mono", monospace; font-size:11.5px; color:var(--ink-2); background:rgba(255,255,255,.72); border:1px solid var(--line); padding:6px 12px; border-radius:999px; backdrop-filter:blur(4px); }
+  .hero-chips .chip b{ color:var(--ink); font-weight:700; }
+
+  /* ---------- layout ---------- */
+  .wrap{ max-width:1180px; margin:0 auto; padding:0 28px 90px; }
+  section{ margin-top:40px; }
+  .sec-head{ display:flex; align-items:flex-end; justify-content:space-between; gap:18px; flex-wrap:wrap; margin-bottom:16px; }
+  .sec-title{ font-weight:900; font-size:1.5rem; letter-spacing:-.012em; margin:5px 0 0; }
+  .sec-note{ color:var(--ink-faint); font-size:13px; max-width:46ch; }
+
+  .panel{ position:relative; background:var(--paper); border:1px solid var(--line); border-radius:var(--radius-sm); box-shadow:none; overflow:hidden; }
+
+  /* ---------- framed column: vertical margin rules with green intersection dots at each separator ---------- */
+  .frame{ position:relative; border-left:1px solid var(--line); border-right:1px solid var(--line); }
+  .frame > section{ margin:0; padding:30px 30px; }
+  .sep{ position:relative; height:0; border-top:1px solid var(--line); }
+  .sep::before, .sep::after{ content:""; position:absolute; top:0; width:6px; height:6px; border-radius:50%; background:#9097A3; box-shadow:0 0 0 3px var(--page-bg); }
+  .sep::before{ left:0; transform:translate(-50%,-50%); }
+  .sep::after{ right:0; transform:translate(50%,-50%); }
+
+  /* learn more */
+  .learn-card{ display:flex; align-items:center; justify-content:space-between; gap:22px; flex-wrap:wrap;
+    padding:24px 26px; border:1px solid var(--line); border-radius:var(--radius-sm); background:var(--paper-2); }
+  .learn-card h3{ margin:0 0 4px; font-size:16px; font-weight:700; }
+  .learn-card p{ margin:0; color:var(--ink-soft); font-size:13.5px; max-width:56ch; }
+  .learn-btn{ display:inline-flex; align-items:center; gap:8px; white-space:nowrap; font-weight:600; font-size:14px;
+    color:#fff; text-decoration:none; padding:11px 22px; border-radius:999px;
+    background:linear-gradient(135deg,#2c8c43,#176A1C); box-shadow:0 8px 18px -10px rgba(23,106,28,.8);
+    transition:transform .15s var(--ease), box-shadow .15s var(--ease); }
+  .learn-btn:hover{ transform:translateY(-1px); box-shadow:0 12px 22px -10px rgba(23,106,28,.9); }
+
+  .ctl-divider{ height:1px; background:var(--line); margin:3px 0; }
+
+  /* ---------- controls ---------- */
+  .controls{ padding:20px 24px; border-bottom:1px solid var(--line); background:var(--paper-2); display:flex; flex-direction:column; gap:16px; }
+  .ctl-group{ display:flex; align-items:center; gap:12px; flex-wrap:wrap; }
+  .ctl-label{ font-family:"Roboto Mono", monospace; font-size:10.5px; letter-spacing:.12em; text-transform:uppercase; color:var(--ink-faint); width:96px; flex:none; }
+  @media (max-width:620px){ .ctl-label{ width:auto; } }
+  /* filter units keep their label glued to their control so they wrap as a whole */
+  .filters-row{ gap:14px 18px; }
+  .fu{ display:flex; align-items:center; gap:9px; }
+  .fu-label{ font-family:"Roboto Mono", monospace; font-size:10.5px; letter-spacing:.12em; text-transform:uppercase; color:var(--ink-faint); flex:none; }
+  .ctl-hint{ font-family:"Roboto Mono", monospace; font-size:10.5px; color:var(--ink-faint); white-space:nowrap; }
+  .ctl-subhint{ font-family:"Roboto Mono", monospace; font-size:10.5px; color:var(--ink-faint); padding-left:108px; margin-top:-9px; }
+  .sec-tools{ display:flex; align-items:center; gap:10px; }
+  @media (max-width:620px){ .ctl-subhint{ padding-left:0; } }
+
+  /* system chips (compare) */
+  .syschip{ display:inline-flex; align-items:center; gap:8px; cursor:pointer; user-select:none;
+    font-size:13px; font-weight:500; color:var(--ink-2); background:var(--paper); border:1px solid var(--line);
+    padding:7px 13px 7px 11px; border-radius:999px; transition:all .18s var(--ease); }
+  .syschip .dot{ width:10px; height:10px; border-radius:3px; background:var(--c); transition:all .18s; }
+  .syschip .sub{ font-family:"Roboto Mono",monospace; font-size:10px; color:var(--ink-faint); letter-spacing:.02em; }
+  .syschip:hover{ border-color:rgba(0,0,0,.2); }
+  .syschip[aria-pressed="false"]{ opacity:.4; }
+  .syschip[aria-pressed="false"] .dot{ background:var(--ink-faint); }
+  .syschip[data-focal="true"]{ border-color:var(--c); background:var(--cw); color:var(--cd); box-shadow:0 0 0 1px var(--c) inset; font-weight:700; }
+  .syschip[data-focal="true"] .sub{ color:var(--cd); }
+
+  /* segmented + chips for filters */
+  .seg{ display:inline-flex; background:var(--track); border:1px solid var(--line); border-radius:999px; padding:3px; gap:2px; }
+  .seg button{ appearance:none; border:0; background:transparent; cursor:pointer; font-family:inherit; font-size:12.5px; font-weight:500; color:var(--ink-soft); padding:6px 11px; border-radius:999px; transition:all .18s var(--ease); white-space:nowrap; }
+  .seg button:hover{ color:var(--ink); }
+  .seg button[aria-pressed="true"]{ background:var(--paper); color:var(--green-press); box-shadow:var(--shadow-sm); font-weight:700; }
+  .seg button small{ font-family:"Roboto Mono",monospace; font-weight:400; opacity:.6; margin-left:4px; font-size:10px; }
+
+  .fchip{ appearance:none; cursor:pointer; font-family:inherit; font-size:12.5px; font-weight:500; color:var(--ink-2);
+    background:var(--paper); border:1px solid var(--line); border-radius:999px; padding:6px 12px; transition:all .18s var(--ease); white-space:nowrap; }
+  .fchip small{ font-family:"Roboto Mono",monospace; opacity:.55; margin-left:5px; font-size:10px; }
+  .fchip:hover{ border-color:rgba(0,0,0,.2); color:var(--ink); }
+  .fchip[aria-pressed="true"]{ background:var(--green-wash); border-color:var(--green); color:var(--green-press); font-weight:700; }
+  .fchip[aria-pressed="true"] small{ opacity:.8; }
+
+  .ctl-spacer{ flex:1; }
+  .countpill{ font-family:"Roboto Mono",monospace; font-size:12px; color:var(--ink); background:var(--paper); border:1px solid var(--line); border-radius:999px; padding:6px 13px; white-space:nowrap; }
+  .countpill b{ color:var(--green-press); font-weight:700; }
+  .btn{ appearance:none; cursor:pointer; font-family:inherit; font-size:12.5px; font-weight:600; color:var(--ink-soft);
+    background:var(--paper); border:1px solid var(--line); border-radius:999px; padding:7px 14px; transition:all .18s var(--ease);
+    display:inline-flex; align-items:center; gap:6px; }
+  .btn:hover{ color:var(--ink); border-color:rgba(0,0,0,.22); }
+  .btn[disabled]{ opacity:.4; cursor:default; }
+
+  /* ---------- figure body (bignum + bars) ---------- */
+  .figbody{ display:grid; grid-template-columns: minmax(220px, .8fr) 1.55fr; }
+  .figfocus{ padding:30px 30px 28px; border-right:1px solid var(--line); display:flex; flex-direction:column; background:linear-gradient(180deg,var(--cw),transparent 72%); }
+  .bignum{ font-weight:900; font-size:clamp(3.6rem,8vw,5.6rem); line-height:.9; letter-spacing:-.035em; color:var(--cd); font-variant-numeric:tabular-nums; display:flex; align-items:flex-start; }
+  .bignum .pc{ font-size:.32em; font-weight:700; margin-top:.5em; margin-left:.05em; color:var(--c); font-family:"Roboto Mono",monospace; }
+  .focusname{ margin-top:14px; font-size:1.1rem; font-weight:700; }
+  .focussub{ color:var(--ink-faint); font-size:12.5px; margin-top:2px; }
+  .focusmeta{ margin-top:auto; padding-top:22px; color:var(--ink-soft); font-size:12.5px; line-height:1.45; }
+  .focusmeta b{ color:var(--ink); }
+
+  .figbars{ padding:28px 32px 26px; display:flex; flex-direction:column; justify-content:center; gap:18px; }
+  .barrow{ display:grid; gap:8px; transition:opacity .25s; }
+  .barrow.hide{ display:none; }
+  .barrow__top{ display:flex; align-items:baseline; justify-content:space-between; gap:10px; }
+  .barrow__name{ font-size:14px; font-weight:500; color:var(--ink-soft); display:flex; align-items:center; gap:8px; transition:all .2s; }
+  .barrow__name small{ font-family:"Roboto Mono",monospace; font-weight:400; font-size:10px; letter-spacing:.04em; text-transform:uppercase; color:var(--ink-faint); }
+  .barrow[data-focal="true"] .barrow__name{ color:var(--ink); font-weight:700; }
+  .lead-tag{ font-family:"Roboto Mono",monospace; font-size:9px; letter-spacing:.1em; text-transform:uppercase; color:var(--cd); background:var(--cw); padding:2px 7px; border-radius:999px; font-weight:600; opacity:0; transition:opacity .25s; }
+  .barrow[data-lead="true"] .lead-tag{ opacity:1; }
+  .barrow__r{ display:flex; align-items:baseline; gap:10px; }
+  .barrow__delta{ font-family:"Roboto Mono",monospace; font-size:11px; color:var(--ink-faint); min-width:6ch; text-align:right; }
+  .barrow__val{ font-family:"Roboto Mono",monospace; font-variant-numeric:tabular-nums; font-size:18px; font-weight:500; color:var(--ink-soft); min-width:5.5ch; text-align:right; transition:color .2s; }
+  .barrow[data-focal="true"] .barrow__val{ color:var(--cd); font-weight:700; }
+  .bar{ height:13px; background:var(--track); border-radius:7px; overflow:hidden; box-shadow:inset 0 1px 2px rgba(0,0,0,.05); }
+  .bar__fill{ height:100%; width:0; border-radius:7px; background:var(--c); opacity:.5; transition:width .55s var(--ease), opacity .25s; }
+  .barrow[data-focal="true"] .bar__fill{ opacity:1; background:linear-gradient(90deg,var(--cd),var(--c)); }
+
+  .axis{ margin-top:4px; display:flex; justify-content:space-between; align-items:center; padding-top:8px; border-top:1px dashed var(--line); }
+  .axis span{ font-family:"Roboto Mono",monospace; font-size:10.5px; color:var(--ink-faint); }
+  .axis .mid{ color:var(--ink-faint); }
+  .subset-cap{ margin-top:14px; font-size:12.5px; color:var(--ink-soft); }
+  .subset-cap b{ color:var(--ink); font-weight:600; }
+  .empty-fig{ padding:40px; text-align:center; color:var(--ink-faint); font-size:14px; display:none; }
+
+  /* ---------- shared grid (breakdown + docs) ---------- */
+  .ghead, .grow{ display:grid; align-items:center; }
+  .ghead{ padding:12px 24px; border-bottom:1px solid var(--line); background:var(--paper-2); position:sticky; top:0; z-index:5; }
+  .gh-col{ font-family:"Roboto Mono",monospace; font-size:10px; letter-spacing:.07em; text-transform:uppercase; color:var(--ink-faint); }
+  .gh-eng{ display:flex; flex-direction:column; gap:2px; cursor:pointer; }
+  .gh-eng .nm{ display:flex; align-items:center; gap:6px; color:var(--ink-soft); text-transform:none; font-size:12.5px; letter-spacing:0; font-weight:600; }
+  .gh-eng[data-focal="true"] .nm{ color:var(--cd); }
+  .gh-eng .sw{ width:9px; height:9px; border-radius:3px; background:var(--c); opacity:.55; }
+  .gh-eng[data-focal="true"] .sw{ opacity:1; }
+  .gh-eng .agg{ font-family:"Roboto Mono",monospace; font-size:13px; font-weight:700; color:var(--ink-soft); text-transform:none; letter-spacing:0; }
+  .gh-eng[data-focal="true"] .agg{ color:var(--cd); }
+  .gh-eng .sortcaret{ opacity:0; font-size:9px; }
+  .gh-eng[data-sorted] .sortcaret{ opacity:.7; }
+
+  .scell{ display:grid; grid-template-columns:1fr auto; align-items:center; gap:9px; padding-right:16px; }
+  .scell__track{ height:8px; background:var(--track); border-radius:5px; overflow:hidden; }
+  .scell__fill{ height:100%; width:0; background:var(--c); opacity:.5; border-radius:5px; transition:width .5s var(--ease); }
+  .scell[data-focal="true"] .scell__fill{ opacity:1; background:linear-gradient(90deg,var(--cd),var(--c)); }
+  .scell__num{ font-family:"Roboto Mono",monospace; font-variant-numeric:tabular-nums; font-size:12.5px; color:var(--ink-soft); min-width:4ch; text-align:right; }
+  .scell[data-focal="true"] .scell__num{ color:var(--cd); font-weight:700; }
+
+  /* breakdown */
+  .bd-toggle{ display:inline-flex; }
+  .bd-body .grow{ padding:10px 24px; border-bottom:1px solid var(--line-2); transition:background .15s; }
+  .bd-body .grow:last-child{ border-bottom:0; }
+  .bd-body .grow:hover{ background:var(--paper-2); }
+  .bd-label{ display:flex; align-items:center; gap:10px; }
+  .bd-key{ font-weight:700; font-size:13.5px; text-transform:uppercase; font-family:"Roboto Mono",monospace; letter-spacing:.02em; color:var(--ink); }
+  .bd-count{ font-family:"Roboto Mono",monospace; font-size:11px; color:var(--ink-faint); }
+  .bd-count b{ color:var(--ink-soft); font-weight:600; }
+
+  /* documents table */
+  .doc-scroll{ max-height:540px; overflow-y:auto; }
+  .doc-scroll::-webkit-scrollbar{ width:10px; }
+  .doc-scroll::-webkit-scrollbar-thumb{ background:rgba(0,0,0,.16); border-radius:99px; border:3px solid var(--paper); }
+  .doc-body .grow{ padding:9px 24px; border-bottom:1px solid var(--line-2); transition:background .12s; }
+  .doc-body .grow:last-child{ border-bottom:0; }
+  .doc-body .grow:hover{ background:var(--paper-2); }
+  .doc-body .grow.hide{ display:none; }
+  .doc-label{ display:flex; align-items:flex-start; gap:10px; padding-right:18px; min-width:0; }
+  .doc-idx{ font-family:"Roboto Mono",monospace; font-size:11px; color:var(--ink-faint); width:2.4ch; text-align:right; padding-top:2px; flex:none; }
+  .doc-meta{ min-width:0; }
+  .doc-name{ font-size:13px; font-weight:600; color:var(--ink); line-height:1.3; white-space:nowrap; overflow:hidden; text-overflow:ellipsis; }
+  .doc-source{ margin-left:7px; font-family:"Roboto Mono",monospace; font-size:10px; font-weight:600; color:var(--green-press); text-decoration:none; white-space:nowrap; }
+  .doc-source:hover{ text-decoration:underline; }
+  .doc-feat{ font-size:11px; color:var(--ink-faint); line-height:1.3; margin-top:1px; white-space:nowrap; overflow:hidden; text-overflow:ellipsis; }
+  .doc-tags{ display:inline-flex; gap:4px; margin-right:6px; }
+  .t{ font-family:"Roboto Mono",monospace; font-size:9px; letter-spacing:.02em; text-transform:uppercase; color:var(--ink-soft); background:var(--track); border-radius:4px; padding:1px 5px; }
+  .t.lang{ color:var(--green-press); background:var(--green-wash); }
+  .doc-empty{ padding:34px; text-align:center; color:var(--ink-faint); font-size:13px; display:none; }
+
+  /* legend / footer */
+  footer{ margin-top:46px; padding-top:22px; border-top:1px solid var(--line); display:flex; justify-content:space-between; gap:18px; flex-wrap:wrap; align-items:flex-start; }
+  footer p{ margin:0; color:var(--ink-faint); font-size:12px; max-width:62ch; }
+  .legend{ display:flex; gap:15px; flex-wrap:wrap; }
+  .legend span{ display:inline-flex; align-items:center; gap:7px; font-family:"Roboto Mono",monospace; font-size:11.5px; color:var(--ink-2); }
+  .legend i{ width:11px; height:11px; border-radius:3px; }
+
+  @media (max-width:860px){
+    .figbody{ grid-template-columns:1fr; }
+    .figfocus{ border-right:0; border-bottom:1px solid var(--line); }
+  }
+</style>
+</head>
+<body>
+
+<div class="wrap">
+ <div class="frame">
+  <!-- ============ HEADER ============ -->
+  <header class="band" data-engine="docupipe_high">
+  <div class="band__inner">
+    <div class="topbar">
+      <a class="wordmark" href="https://www.docupipe.ai?campaign=benchmark">
+        <svg class="logo" viewBox="0 0 183.69 183.69" width="30" height="30" aria-label="DocuPipe" role="img">
+          <defs><linearGradient id="dpGrad" x1="149.66" y1="-8.31" x2="34.02" y2="191.99" gradientUnits="userSpaceOnUse">
+            <stop offset="0" stop-color="#8bc973"/><stop offset=".09" stop-color="#66b160"/><stop offset=".27" stop-color="#3f984d"/><stop offset=".55" stop-color="#2c8c43"/><stop offset="1" stop-color="#2b8b43"/>
+          </linearGradient></defs>
+          <rect width="183.69" height="183.69" rx="26.83" ry="26.83" fill="url(#dpGrad)"/>
+          <path fill="#fff" d="M77.02,20.3h-39.45v111.75c.09.09.18.18.27.26h31.08v31.78c2.66.3,5.36.45,8.1.45s5.44-.15,8.1-.45c36.02-4.03,64.02-34.58,64.02-71.67,0-39.83-32.29-72.12-72.12-72.12ZM85.12,147.76v-16.27c18.15-3.75,31.79-19.82,31.79-39.07s-13.64-35.32-31.79-39.07c-2.62-.54-5.33-.82-8.1-.82h-8.1v63.58h-15.15V36.51h23.25c30.88,0,55.92,25.03,55.92,55.91,0,28.13-20.78,51.41-47.82,55.34ZM85.12,114.38v-43.91c8.93,3.3,15.29,11.88,15.29,21.95s-6.36,18.66-15.29,21.96Z"/>
+        </svg>
+        <b>DOCUPIPE</b>
+      </a>
+      <a class="tag-pill" href="https://github.com/DocuPipe/docubench" target="_blank" rel="noopener">Source &amp; data on GitHub &#8599;</a>
+    </div>
+    <div class="hero-eyebrow eyebrow reveal" style="animation-delay:.02s">AI document-extraction benchmark</div>
+    <h1 class="reveal" style="animation-delay:.06s">DocuBench</h1>
+    <p class="lede reveal" style="animation-delay:.1s">DocuBench pairs 50 real-world documents with a JSON Schema and a hand-verified label, then scores each system on macro-average field accuracy. The set is deliberately hard: arrays and nested tables, right-to-left and CJK scripts, rotated scans, handwriting, and non-PDF formats.</p>
+
+  </div>
+  </header>
+
+  <div class="sep reveal" style="animation-delay:.16s"></div>
+
+  <!-- ============ FIGURE: compare + filter + bars ============ -->
+  <section class="reveal" style="animation-delay:.18s">
+    <div class="sec-head">
+      <div>
+        <h2 class="sec-title">Macro-average field accuracy</h2>
+      </div>
+      <div class="sec-tools">
+        <span class="countpill" id="countPill"><b>50</b> / 50 docs</span>
+        <button class="btn" id="resetBtn" disabled>
+          <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><path d="M3 12a9 9 0 1 0 3-6.7L3 8"/><path d="M3 3v5h5"/></svg>
+          Reset
+        </button>
+      </div>
+    </div>
+
+    <div class="panel">
+      <div class="controls">
+        <div class="ctl-group">
+          <span class="ctl-label">Compare</span>
+          <div id="sysChips" style="display:flex;gap:8px;flex-wrap:wrap"></div>
+        </div>
+        <div class="ctl-subhint">&#8984;-click a model in the list to highlight it</div>
+        <div class="ctl-divider"></div>
+        <div class="ctl-group filters-row">
+          <div class="fu"><span class="ctl-label">Language</span><div class="seg" id="fLang"></div></div>
+          <div class="fu"><span class="fu-label">Length</span><div class="seg" id="fLen"></div></div>
+          <div class="fu"><span class="fu-label">Format</span><div class="seg" id="fFmt"></div></div>
+        </div>
+        <div class="ctl-group">
+          <span class="ctl-label">Challenges</span>
+          <div id="fFeat" style="display:flex;gap:7px;flex-wrap:wrap"></div>
+        </div>
+      </div>
+
+      <div class="figbody" id="figBody" data-engine="docupipe_high">
+        <div class="figfocus" id="figFocus" data-engine="docupipe_high">
+          <div class="bignum"><span id="bigNum">97.24</span><span class="pc">%</span></div>
+          <div class="focusname" id="focusName">DocuPipe high</div>
+          <div class="focussub" id="focusSub">leads across all 50 documents</div>
+        </div>
+        <div class="figbars" id="figBars"></div>
+      </div>
+      <div class="empty-fig" id="emptyFig">No documents match the current slice. Loosen a filter.</div>
+    </div>
+  </section>
+
+  <div class="sep reveal" style="animation-delay:.2s"></div>
+
+  <!-- ============ BREAKDOWN MATRIX ============ -->
+  <section class="reveal" style="animation-delay:.22s">
+    <div class="sec-head">
+      <div>
+        <h2 class="sec-title">Accuracy by slice</h2>
+      </div>
+      <div class="seg bd-toggle" id="bdToggle" role="group" aria-label="Breakdown dimension">
+        <button data-dim="ftype" aria-pressed="true">By file type</button>
+        <button data-dim="lang" aria-pressed="false">By language</button>
+      </div>
+    </div>
+    <div class="panel">
+      <div class="ghead" id="bdHead" data-engine="docupipe_high"></div>
+      <div class="bd-body" id="bdBody"></div>
+    </div>
+  </section>
+
+  <div class="sep reveal" style="animation-delay:.24s"></div>
+
+  <!-- ============ DOCUMENTS ============ -->
+  <section class="reveal" style="animation-delay:.26s">
+    <div class="sec-head">
+      <div>
+        <h2 class="sec-title">Per-document scores</h2>
+      </div>
+    </div>
+    <div class="panel">
+      <div class="ghead" id="docHead" data-engine="docupipe_high"></div>
+      <div class="doc-scroll">
+        <div class="doc-body" id="docBody"></div>
+        <div class="doc-empty" id="docEmpty">No documents match the current slice.</div>
+      </div>
+    </div>
+  </section>
+
+  <div class="sep reveal" style="animation-delay:.28s"></div>
+
+  <!-- ============ LEARN MORE ============ -->
+  <section class="reveal" style="animation-delay:.3s">
+    <div class="sec-head">
+      <div>
+        <h2 class="sec-title">Learn more</h2>
+      </div>
+    </div>
+    <div class="learn-card">
+      <div>
+        <h3>The full DocuBench write-up</h3>
+        <p>Methodology, the scoring contract, worked examples, and a per-document analysis of where each system wins and loses.</p>
+      </div>
+      <a class="learn-btn" href="https://www.docupipe.ai/blog/docupipe-vs-extend-benchmark" target="_blank" rel="noopener">Read the write-up &rarr;</a>
+    </div>
+  </section>
+ </div><!-- /frame -->
+
+</div>
+
+<script>
+/* =================== DATA =================== */
+const DATA = {"meta": {"name": "DocuBench", "version": "0.1.0", "doc_count": 50, "metric": "macro_average_field_accuracy"}, "display": {"docupipe_high": "DocuPipe high", "docupipe_standard": "DocuPipe standard", "extend": "Extend", "gpt": "GPT-5.5", "claude": "Claude", "gemini": "Gemini"}, "docs": [{"id": "ZN6HbuKp", "name": "Bank Transaction Register (CSV)", "lang": "en", "ftype": "csv", "pages": 1, "feature": "34-row register; computed summary + filtered largeDebits[] + needle", "flags": {"arrays": false, "reconcile": true, "rtl": false, "cjk": false, "handwriting": false, "rotated": false, "needle": true, "nested": false}, "docupipe_high": 1.0, "docupipe_standard": 0.985714, "extend": 0.820513, "gpt": 0.985714, "claude": 0.9, "gemini": 1.0}, {"id": "IPm0MkgQ", "name": "Carson Bank Sample Statement", "lang": "en", "ftype": "pdf", "pages": 6, "feature": "transaction array, cross-page straddle", "flags": {"arrays": true, "reconcile": false, "rtl": false, "cjk": false, "handwriting": false, "rotated": false, "needle": false, "nested": false}, "docupipe_high": 1.0, "docupipe_standard": 1.0, "extend": 1.0, "gpt": 1.0, "claude": 1.0, "gemini": 1.0}, {"id": "M66HZlWT", "name": "Chang Gung Chinese Medical Receipt", "lang": "zh", "ftype": "jpeg", "pages": 1, "feature": "Chinese; self-pay + NHI-point fields, both reconcile", "flags": {"arrays": false, "reconcile": true, "rtl": false, "cjk": true, "handwriting": false, "rotated": false, "needle": false, "nested": false}, "docupipe_high": 1.0, "docupipe_standard": 1.0, "extend": 1.0, "gpt": 1.0, "claude": 1.0, "gemini": 1.0}, {"id": "eKzY7gEA", "name": "Clinical Discharge Summary (HTML)", "lang": "en", "ftype": "html", "pages": 1, "feature": "clinical lists as array-of-objects", "flags": {"arrays": true, "reconcile": false, "rtl": false, "cjk": false, "handwriting": false, "rotated": false, "needle": false, "nested": false}, "docupipe_high": 1.0, "docupipe_standard": 1.0, "extend": 1.0, "gpt": 1.0, "claude": 1.0, "gemini": 1.0}, {"id": "PSU5pciM", "name": "CPS Energy Electric Bill", "lang": "en", "ftype": "pdf", "pages": 2, "feature": "electric charge array + meter read", "flags": {"arrays": true, "reconcile": false, "rtl": false, "cjk": false, "handwriting": false, "rotated": false, "needle": false, "nested": false}, "docupipe_high": 1.0, "docupipe_standard": 1.0, "extend": 1.0, "gpt": 1.0, "claude": 1.0, "gemini": 1.0}, {"id": "1ZVqiyJZ", "name": "DC DISB Homeowners Declarations", "lang": "en", "ftype": "pdf", "pages": 1, "feature": "coverage limits array + policy fields", "flags": {"arrays": true, "reconcile": false, "rtl": false, "cjk": false, "handwriting": false, "rotated": false, "needle": false, "nested": false}, "docupipe_high": 1.0, "docupipe_standard": 1.0, "extend": 1.0, "gpt": 1.0, "claude": 1.0, "gemini": 1.0}, {"id": "62PhJTyf", "name": "Dutch Jaarrekening Balans+Winst-en-verliesrekening (excerpt)", "lang": "nl", "ftype": "pdf", "pages": 3, "feature": "balance-sheet + income-statement arrays, totaal activa=passiva", "flags": {"arrays": true, "reconcile": false, "rtl": false, "cjk": false, "handwriting": false, "rotated": false, "needle": false, "nested": false}, "docupipe_high": 1.0, "docupipe_standard": 1.0, "extend": 0.986301, "gpt": 0.767123, "claude": 1.0, "gemini": 1.0}, {"id": "PYhFptk3", "name": "EDI 850 Purchase Order", "lang": "en", "ftype": "txt", "pages": 1, "feature": "X12 EDI text; envelope + 6 PO1 lines, CTT count reconciles", "flags": {"arrays": false, "reconcile": true, "rtl": false, "cjk": false, "handwriting": false, "rotated": false, "needle": false, "nested": false}, "docupipe_high": 1.0, "docupipe_standard": 1.0, "extend": 1.0, "gpt": 1.0, "claude": 1.0, "gemini": 1.0}, {"id": "FiFgt4a6", "name": "Ethiopian Air Waybill", "lang": "en", "ftype": "pdf", "pages": 1, "feature": "air waybill fields (charges blank on form)", "flags": {"arrays": false, "reconcile": false, "rtl": false, "cjk": false, "handwriting": false, "rotated": false, "needle": false, "nested": false}, "docupipe_high": 1.0, "docupipe_standard": 0.857143, "extend": 0.9, "gpt": 1.0, "claude": 0.857143, "gemini": 1.0}, {"id": "7ZhgzAzp", "name": "Ethiopian Air Waybill (rotated 90, TIFF)", "lang": "en", "ftype": "tiff", "pages": 1, "feature": "rotation-robustness; same fields as upright AWB", "flags": {"arrays": false, "reconcile": false, "rtl": false, "cjk": false, "handwriting": false, "rotated": true, "needle": false, "nested": false}, "docupipe_high": 1.0, "docupipe_standard": 0.809524, "extend": 0.904762, "gpt": 0.952381, "claude": 1.0, "gemini": 0.95}, {"id": "KpewWz3R", "name": "FHA 1004 Appraisal (sliced from 21p)", "lang": "en", "ftype": "pdf", "pages": 7, "feature": "real estate; 5-comp sales-comparison array reconciles", "flags": {"arrays": true, "reconcile": true, "rtl": false, "cjk": false, "handwriting": false, "rotated": false, "needle": false, "nested": false}, "docupipe_high": 0.986182, "docupipe_standard": 0.962, "extend": 0.949333, "gpt": 0.885333, "claude": 0.962, "gemini": 0.962}, {"id": "tLFa76nQ", "name": "Fidelity Brokerage Statement (sliced from 28p)", "lang": "en", "ftype": "pdf", "pages": 18, "feature": "brokerage; 18-holding + 58-activity arrays, holdings sum reconciles", "flags": {"arrays": true, "reconcile": true, "rtl": false, "cjk": false, "handwriting": false, "rotated": false, "needle": false, "nested": false}, "docupipe_high": 0.978066, "docupipe_standard": 0.944279, "extend": 0.891766, "gpt": 0.793383, "claude": 0.729009, "gemini": 0.747722}, {"id": "5ukZftw0", "name": "Financial Sample Spreadsheet (trimmed 30 rows)", "lang": "en", "ftype": "xlsx", "pages": 1, "feature": "30-row table, computed columns reconcile per row", "flags": {"arrays": false, "reconcile": true, "rtl": false, "cjk": false, "handwriting": false, "rotated": false, "needle": false, "nested": false}, "docupipe_high": 0.966102, "docupipe_standard": 0.966102, "extend": 0.966102, "gpt": 1.0, "claude": 0.0, "gemini": 0.661017}, {"id": "B0nA2c30", "name": "Five Guys Receipt (rotated 180, PNG)", "lang": "en", "ftype": "png", "pages": 1, "feature": "rotation-robustness; same fields as upright receipt", "flags": {"arrays": false, "reconcile": false, "rtl": false, "cjk": false, "handwriting": false, "rotated": true, "needle": false, "nested": false}, "docupipe_high": 1.0, "docupipe_standard": 1.0, "extend": 1.0, "gpt": 0.763469, "claude": 0.965575, "gemini": 0.976939}, {"id": "vBIz5dut", "name": "Five Guys Receipt Photo", "lang": "en", "ftype": "jpeg", "pages": 1, "feature": "photo receipt; 17-row line items w/ modifiers", "flags": {"arrays": false, "reconcile": false, "rtl": false, "cjk": false, "handwriting": false, "rotated": false, "needle": false, "nested": false}, "docupipe_high": 1.0, "docupipe_standard": 1.0, "extend": 0.976939, "gpt": 0.977273, "claude": 0.988469, "gemini": 0.976939}, {"id": "GW7i2xbM", "name": "FL Homeowners Declarations", "lang": "en", "ftype": "pdf", "pages": 1, "feature": "insurance; A-F coverages, premium split as-printed", "flags": {"arrays": false, "reconcile": false, "rtl": false, "cjk": false, "handwriting": false, "rotated": false, "needle": false, "nested": false}, "docupipe_high": 1.0, "docupipe_standard": 1.0, "extend": 0.911765, "gpt": 0.935484, "claude": 0.935484, "gemini": 0.935484}, {"id": "Eet2wW3x", "name": "FRESA Arabic Tax Invoice", "lang": "ar", "ftype": "pdf", "pages": 1, "feature": "Arabic RTL; 4-row charge array + VAT, grand total reconciles", "flags": {"arrays": true, "reconcile": true, "rtl": true, "cjk": false, "handwriting": false, "rotated": false, "needle": false, "nested": false}, "docupipe_high": 1.0, "docupipe_standard": 0.983607, "extend": 1.0, "gpt": 1.0, "claude": 1.0, "gemini": 0.983607}, {"id": "wVafMvAC", "name": "German 1976 Wage Statement", "lang": "de", "ftype": "jpeg", "pages": 1, "feature": "payslip; deduction-row array with printed trailing-minus storno (negative) amounts", "flags": {"arrays": true, "reconcile": false, "rtl": false, "cjk": false, "handwriting": false, "rotated": false, "needle": false, "nested": false}, "docupipe_high": 0.897382, "docupipe_standard": 1.0, "extend": 0.762712, "gpt": 1.0, "claude": 0.177401, "gemini": 1.0}, {"id": "XhJyv5mb", "name": "German DEG Jahresabschluss Bilanz+GuV (excerpt)", "lang": "de", "ftype": "pdf", "pages": 2, "feature": "balance-sheet + income-statement arrays, Aktiva=Passiva", "flags": {"arrays": true, "reconcile": false, "rtl": false, "cjk": false, "handwriting": false, "rotated": false, "needle": false, "nested": false}, "docupipe_high": 0.965217, "docupipe_standard": 0.956522, "extend": 0.973913, "gpt": 0.973913, "claude": 0.991304, "gemini": 0.973913}, {"id": "ZXlksSpk", "name": "Getbuildingworks BOQ Summary", "lang": "en", "ftype": "pdf", "pages": 1, "feature": "25-bill summary array reconciles to grand total", "flags": {"arrays": true, "reconcile": true, "rtl": false, "cjk": false, "handwriting": false, "rotated": false, "needle": false, "nested": false}, "docupipe_high": 1.0, "docupipe_standard": 1.0, "extend": 1.0, "gpt": 1.0, "claude": 1.0, "gemini": 1.0}, {"id": "bjBNmyNw", "name": "Gordmans PO Line Items", "lang": "en", "ftype": "pdf", "pages": 1, "feature": "retail PO; 4 line items, extended-cost reconciles", "flags": {"arrays": false, "reconcile": true, "rtl": false, "cjk": false, "handwriting": false, "rotated": false, "needle": false, "nested": false}, "docupipe_high": 0.952381, "docupipe_standard": 0.952381, "extend": 0.97619, "gpt": 0.642857, "claude": 1.0, "gemini": 1.0}, {"id": "pw8elPW9", "name": "Hebrew Financial Statement (DOCX)", "lang": "he", "ftype": "docx", "pages": 1, "feature": "Hebrew RTL balance sheet + income statement, reconciling totals", "flags": {"arrays": false, "reconcile": true, "rtl": true, "cjk": false, "handwriting": false, "rotated": false, "needle": false, "nested": false}, "docupipe_high": 1.0, "docupipe_standard": 1.0, "extend": 0.833333, "gpt": 0.833333, "claude": 1.0, "gemini": 0.962963}, {"id": "SBR9L7Y8", "name": "Hebrew Payslip", "lang": "he", "ftype": "jpeg", "pages": 1, "feature": "Hebrew RTL; 5 payment + 6 deduction rows, gross/net reconcile", "flags": {"arrays": false, "reconcile": true, "rtl": true, "cjk": false, "handwriting": false, "rotated": false, "needle": false, "nested": false}, "docupipe_high": 1.0, "docupipe_standard": 1.0, "extend": 0.448276, "gpt": 0.862069, "claude": 0.448276, "gemini": 0.931034}, {"id": "jlKc8eVi", "name": "Hitachi Japanese Invoice", "lang": "ja", "ftype": "pdf", "pages": 1, "feature": "Japanese; 30-row line-item array w/ symbol product codes", "flags": {"arrays": true, "reconcile": false, "rtl": false, "cjk": true, "handwriting": false, "rotated": false, "needle": false, "nested": false}, "docupipe_high": 0.98401, "docupipe_standard": 0.98401, "extend": 0.907107, "gpt": 0.970812, "claude": 0.965736, "gemini": 0.975888}, {"id": "45xidifn", "name": "Hitachi Japanese Statement", "lang": "ja", "ftype": "pdf", "pages": 1, "feature": "Japanese; 32 trip rows + 12 subtotals, grand total reconciles", "flags": {"arrays": false, "reconcile": true, "rtl": false, "cjk": true, "handwriting": false, "rotated": false, "needle": false, "nested": false}, "docupipe_high": 0.989461, "docupipe_standard": 1.0, "extend": 0.900077, "gpt": 0.90285, "claude": 0.802927, "gemini": 0.90285}, {"id": "97uZroyv", "name": "Hyperfine Schedule Sheet (sliced from 16p)", "lang": "en", "ftype": "pdf", "pages": 1, "feature": "architectural door/room/window schedules; sparse blanks -> null", "flags": {"arrays": false, "reconcile": false, "rtl": false, "cjk": false, "handwriting": false, "rotated": false, "needle": false, "nested": false}, "docupipe_high": 1.0, "docupipe_standard": 1.0, "extend": 1.0, "gpt": 0.962085, "claude": 0.962085, "gemini": 1.0}, {"id": "WxP8Tqgf", "name": "Italian Busta Paga (payslip)", "lang": "it", "ftype": "pdf", "pages": 1, "feature": "VOCE/competenze pay-line array, gross/net reconcile", "flags": {"arrays": true, "reconcile": true, "rtl": false, "cjk": false, "handwriting": false, "rotated": false, "needle": false, "nested": false}, "docupipe_high": 0.973505, "docupipe_standard": 0.973505, "extend": 0.942935, "gpt": 0.964674, "claude": 1.0, "gemini": 0.951766}, {"id": "LYeb3G3s", "name": "Labsmart CBC Lab Report", "lang": "en", "ftype": "pdf", "pages": 2, "feature": "13-analyte results array, nested patient", "flags": {"arrays": true, "reconcile": false, "rtl": false, "cjk": false, "handwriting": false, "rotated": false, "needle": false, "nested": true}, "docupipe_high": 1.0, "docupipe_standard": 1.0, "extend": 1.0, "gpt": 0.980769, "claude": 0.980769, "gemini": 1.0}, {"id": "J6buHXQ4", "name": "Majdal Shams Municipal Financials", "lang": "he", "ftype": "pdf", "pages": 13, "feature": "Hebrew; balance-sheet + budget receipts/payments arrays", "flags": {"arrays": true, "reconcile": false, "rtl": true, "cjk": false, "handwriting": false, "rotated": false, "needle": false, "nested": false}, "docupipe_high": 0.954613, "docupipe_standard": 0.951444, "extend": 0.751578, "gpt": 0.925072, "claude": 0.929443, "gemini": 0.902976}, {"id": "4kVtTRoL", "name": "Moneck Merchant Statement", "lang": "en", "ftype": "pdf", "pages": 5, "feature": "merchant card statement; deposits/fees/chargebacks arrays", "flags": {"arrays": true, "reconcile": false, "rtl": false, "cjk": false, "handwriting": false, "rotated": false, "needle": false, "nested": false}, "docupipe_high": 0.997619, "docupipe_standard": 0.810811, "extend": 1.0, "gpt": 0.866667, "claude": 0.921429, "gemini": 0.919048}, {"id": "ENoM9faK", "name": "NASA Mechanical Drawing (sliced from 128p)", "lang": "en", "ftype": "pdf", "pages": 1, "feature": "engineering drawing; 15-row list-of-material array", "flags": {"arrays": true, "reconcile": false, "rtl": false, "cjk": false, "handwriting": false, "rotated": false, "needle": false, "nested": false}, "docupipe_high": 0.765231, "docupipe_standard": 0.804, "extend": 0.816923, "gpt": 0.844776, "claude": 0.863582, "gemini": 1.0}, {"id": "NNaGgwE5", "name": "NRCS Pedon Handwritten Form", "lang": "en", "ftype": "pdf", "pages": 2, "feature": "handwriting; 10 soil-horizon rows, Munsell colors", "flags": {"arrays": false, "reconcile": false, "rtl": false, "cjk": false, "handwriting": true, "rotated": false, "needle": false, "nested": false}, "docupipe_high": 1.0, "docupipe_standard": 0.977849, "extend": 0.988764, "gpt": 0.785714, "claude": 0.977528, "gemini": 0.988764}, {"id": "OayFbGlG", "name": "Optum Discharge Summary", "lang": "en", "ftype": "pdf", "pages": 2, "feature": "healthcare; diagnoses array, empty-meds case", "flags": {"arrays": true, "reconcile": false, "rtl": false, "cjk": false, "handwriting": false, "rotated": false, "needle": false, "nested": false}, "docupipe_high": 1.0, "docupipe_standard": 0.944444, "extend": 1.0, "gpt": 1.0, "claude": 1.0, "gemini": 1.0}, {"id": "zKibU88u", "name": "Orders Export XML", "lang": "en", "ftype": "xml", "pages": 1, "feature": "200-order export; needle-extraction of one order + scattered lookups", "flags": {"arrays": false, "reconcile": false, "rtl": false, "cjk": false, "handwriting": false, "rotated": false, "needle": true, "nested": false}, "docupipe_high": 1.0, "docupipe_standard": 1.0, "extend": 1.0, "gpt": 1.0, "claude": 1.0, "gemini": 1.0}, {"id": "C7fe2lau", "name": "Peppol UBL E-Invoice", "lang": "en", "ftype": "xml", "pages": 1, "feature": "UBL XML; 3 invoice lines + tax/monetary totals reconcile", "flags": {"arrays": false, "reconcile": true, "rtl": false, "cjk": false, "handwriting": false, "rotated": false, "needle": false, "nested": false}, "docupipe_high": 1.0, "docupipe_standard": 1.0, "extend": 1.0, "gpt": 1.0, "claude": 1.0, "gemini": 1.0}, {"id": "WnxX1Buq", "name": "PG&E Solar NEM Statement", "lang": "en", "ftype": "pdf", "pages": 4, "feature": "energy NEM; charge-line + NEM-credit arrays reconcile", "flags": {"arrays": true, "reconcile": true, "rtl": false, "cjk": false, "handwriting": false, "rotated": false, "needle": false, "nested": false}, "docupipe_high": 1.0, "docupipe_standard": 1.0, "extend": 0.848485, "gpt": 0.975, "claude": 1.0, "gemini": 1.0}, {"id": "5YJaBbNg", "name": "Portuguese Balanco e Demonstracao de Resultados (excerpt)", "lang": "pt", "ftype": "pdf", "pages": 2, "feature": "balance-sheet + income-statement arrays reconcile", "flags": {"arrays": true, "reconcile": true, "rtl": false, "cjk": false, "handwriting": false, "rotated": false, "needle": false, "nested": false}, "docupipe_high": 1.0, "docupipe_standard": 0.987952, "extend": 1.0, "gpt": 0.97561, "claude": 0.97561, "gemini": 0.963855}, {"id": "NlWTPen5", "name": "PPL Electric Two Bill Example", "lang": "en", "ftype": "pdf", "pages": 3, "feature": "delivery charge array, usage + demand", "flags": {"arrays": true, "reconcile": false, "rtl": false, "cjk": false, "handwriting": false, "rotated": false, "needle": false, "nested": false}, "docupipe_high": 1.0, "docupipe_standard": 1.0, "extend": 1.0, "gpt": 1.0, "claude": 1.0, "gemini": 1.0}, {"id": "qQUPWQNA", "name": "Ramat Gan Arnona Rates 2025", "lang": "he", "ftype": "pdf", "pages": 5, "feature": "Hebrew; residential + zoned/banded property-type rate arrays", "flags": {"arrays": true, "reconcile": false, "rtl": true, "cjk": false, "handwriting": false, "rotated": false, "needle": false, "nested": false}, "docupipe_high": 0.763351, "docupipe_standard": 0.78142, "extend": 0.714211, "gpt": 0.748112, "claude": 0.799718, "gemini": 0.734771}, {"id": "Oe7iRM1G", "name": "Sage French Bulletin de Paie (payslip)", "lang": "fr", "ftype": "pdf", "pages": 1, "feature": "18-row social-contributions array, gross/net reconcile", "flags": {"arrays": true, "reconcile": true, "rtl": false, "cjk": false, "handwriting": false, "rotated": false, "needle": false, "nested": false}, "docupipe_high": 1.0, "docupipe_standard": 0.955137, "extend": 0.841837, "gpt": 1.0, "claude": 0.841837, "gemini": 0.946454}, {"id": "UnG6cLfP", "name": "Samson Oil & Gas Check Stub", "lang": "en", "ftype": "pdf", "pages": 2, "feature": "oil&gas revenue lines, per-line deductions, gross/net reconcile", "flags": {"arrays": false, "reconcile": true, "rtl": false, "cjk": false, "handwriting": false, "rotated": false, "needle": false, "nested": false}, "docupipe_high": 1.0, "docupipe_standard": 1.0, "extend": 0.913131, "gpt": 0.969697, "claude": 1.0, "gemini": 0.939394}, {"id": "BnftpXVQ", "name": "SEC EDGAR FedEx Credit Agreement (excerpt)", "lang": "en", "ftype": "pdf", "pages": 2, "feature": "22-lender commitment array sums to $1.5B", "flags": {"arrays": true, "reconcile": true, "rtl": false, "cjk": false, "handwriting": false, "rotated": false, "needle": false, "nested": false}, "docupipe_high": 1.0, "docupipe_standard": 1.0, "extend": 1.0, "gpt": 1.0, "claude": 1.0, "gemini": 1.0}, {"id": "SkD8Lz8o", "name": "SEC EDGAR Precision Lease 4th Amendment (excerpt)", "lang": "en", "ftype": "pdf", "pages": 3, "feature": "transposed multi-period rent schedule -> flat array", "flags": {"arrays": true, "reconcile": false, "rtl": false, "cjk": false, "handwriting": false, "rotated": false, "needle": false, "nested": false}, "docupipe_high": 1.0, "docupipe_standard": 1.0, "extend": 0.928571, "gpt": 0.885714, "claude": 1.0, "gemini": 1.0}, {"id": "yTRFKVPx", "name": "Smartsheet Construction Invoice", "lang": "en", "ftype": "pdf", "pages": 4, "feature": "materials/labor/misc line-item arrays, reconciling totals", "flags": {"arrays": true, "reconcile": true, "rtl": false, "cjk": false, "handwriting": false, "rotated": false, "needle": false, "nested": false}, "docupipe_high": 1.0, "docupipe_standard": 1.0, "extend": 1.0, "gpt": 1.0, "claude": 1.0, "gemini": 1.0}, {"id": "DtfW60lS", "name": "Spanish Iberdrola Factura Electricidad", "lang": "es", "ftype": "pdf", "pages": 4, "feature": "facturacion charge array reconciles to Total a pagar", "flags": {"arrays": true, "reconcile": true, "rtl": false, "cjk": false, "handwriting": false, "rotated": false, "needle": false, "nested": false}, "docupipe_high": 1.0, "docupipe_standard": 1.0, "extend": 1.0, "gpt": 1.0, "claude": 1.0, "gemini": 1.0}, {"id": "nESapyAA", "name": "Taub Hebrew Tax Invoice", "lang": "he", "ftype": "pdf", "pages": 1, "feature": "Hebrew RTL; line-item + payment, 18% VAT reconciles", "flags": {"arrays": false, "reconcile": true, "rtl": true, "cjk": false, "handwriting": false, "rotated": false, "needle": false, "nested": false}, "docupipe_high": 0.954545, "docupipe_standard": 0.954545, "extend": 1.0, "gpt": 0.909091, "claude": 0.909091, "gemini": 0.909091}, {"id": "QxoQ6zgn", "name": "UICCP Packing List Carton Dimensions", "lang": "en", "ftype": "pdf", "pages": 1, "feature": "carton/packing spec table array", "flags": {"arrays": true, "reconcile": false, "rtl": false, "cjk": false, "handwriting": false, "rotated": false, "needle": false, "nested": false}, "docupipe_high": 1.0, "docupipe_standard": 1.0, "extend": 1.0, "gpt": 1.0, "claude": 1.0, "gemini": 1.0}, {"id": "phovuuuk", "name": "University of Pittsburgh Filled Sample W-2", "lang": "en", "ftype": "pdf", "pages": 3, "feature": "box 12 + box 14 code arrays", "flags": {"arrays": true, "reconcile": false, "rtl": false, "cjk": false, "handwriting": false, "rotated": false, "needle": false, "nested": false}, "docupipe_high": 1.0, "docupipe_standard": 1.0, "extend": 1.0, "gpt": 1.0, "claude": 1.0, "gemini": 0.961538}, {"id": "iTruRDrG", "name": "Vince Sea Waybill", "lang": "en", "ftype": "pdf", "pages": 2, "feature": "cargo array w/ HS codes, cartons/weight/cbm reconcile", "flags": {"arrays": true, "reconcile": true, "rtl": false, "cjk": false, "handwriting": false, "rotated": false, "needle": false, "nested": false}, "docupipe_high": 0.8, "docupipe_standard": 0.8, "extend": 0.709091, "gpt": 0.981818, "claude": 0.628571, "gemini": 1.0}, {"id": "qoSTXgNE", "name": "Zionist Strategy NGO Financials", "lang": "he", "ftype": "pdf", "pages": 4, "feature": "Hebrew; 3-statement leaf line items, 3 reconciliations", "flags": {"arrays": false, "reconcile": true, "rtl": true, "cjk": false, "handwriting": false, "rotated": false, "needle": false, "nested": false}, "docupipe_high": 0.694444, "docupipe_standard": 0.65625, "extend": 0.696429, "gpt": 0.75, "claude": 0.65, "gemini": 0.740741}]};
+
+const ENGINES = {
+  docupipe_high:     { label:"DocuPipe", tier:"high effort" },
+  docupipe_standard: { label:"DocuPipe", tier:"standard" },
+  gpt:               { label:"GPT-5.5",  tier:"" },
+  extend:            { label:"Extend",   tier:"" },
+  claude:            { label:"Claude",   tier:"Sonnet 4.6" },
+  gemini:            { label:"Gemini",   tier:"3.5 Flash" },
+};
+const ORDER = ["docupipe_high","gemini","gpt","extend","claude","docupipe_standard"];
+
+/* =================== STATE =================== */
+const state = {
+  shown: new Set(ORDER),
+  focal: "docupipe_high",
+  filters: { lang:"all", len:"all", fmt:"all", features:new Set() },
+  dim: "ftype",
+  sortKey: "docupipe_high",
+  sortDir: -1,
+};
+
+/* =================== HELPERS =================== */
+const mean = a => a.length ? a.reduce((x,y)=>x+y,0)/a.length : 0;
+const fmt = (v,dp=2) => (v*100).toFixed(dp);
+const IMG = new Set(["jpeg","png","tiff"]);
+
+function matches(d){
+  const f = state.filters;
+  if(f.lang==="en"  && d.lang!=="en") return false;
+  if(f.lang==="non" && d.lang==="en") return false;
+  if(f.len==="single" && d.pages!==1) return false;
+  if(f.len==="multi"  && !(d.pages>1)) return false;
+  if(f.len==="long"   && !(d.pages>5)) return false;
+  if(f.fmt==="pdf"    && d.ftype!=="pdf") return false;
+  if(f.fmt==="image"  && !IMG.has(d.ftype)) return false;
+  if(f.fmt==="other"  && (d.ftype==="pdf"||IMG.has(d.ftype))) return false;
+  for(const fl of f.features){ if(!d.flags[fl]) return false; }
+  return true;
+}
+const subsetDocs = () => DATA.docs.filter(matches);
+function aggFor(engine, docs){ return mean(docs.map(d=>d[engine])); }
+
+function floorScale(minPct){
+  if(minPct >= 100) return 95;              // avoid a zero-width scale when every system is perfect
+  let fl = Math.floor(minPct/5)*5;          // floor to the nearest 5 below the lowest system
+  if(minPct - fl < 0.25) fl -= 5;           // only step down if the min sits right on the gridline
+  return Math.max(0, fl);
+}
+const shownOrder = () => ORDER.filter(k=>state.shown.has(k));
+
+/* =================== BUILD: system chips =================== */
+const sysChips = document.getElementById("sysChips");
+ORDER.forEach(k=>{
+  const e = ENGINES[k];
+  const b = document.createElement("button");
+  b.className="syschip"; b.dataset.engine=k;
+  b.setAttribute("aria-pressed","true");
+  b.innerHTML = `<span class="dot"></span><span>${e.label}</span>${e.tier?`<span class="sub">${e.tier}</span>`:""}`;
+  // normal click = include/exclude in the comparison (at least one must stay on);
+  // ⌘/Ctrl-click = highlight that model (showing it first if it was hidden)
+  b.addEventListener("click",(ev)=>{
+    if(ev.metaKey || ev.ctrlKey){
+      if(!state.shown.has(k)) state.shown.add(k);
+      state.focal=k;
+      renderAll();
+      return;
+    }
+    if(state.shown.has(k)){
+      if(state.shown.size===1) return;                 // keep at least one
+      state.shown.delete(k);
+      if(state.focal===k) state.focal=shownOrder()[0]; // hand off the highlight
+    } else {
+      state.shown.add(k);
+    }
+    renderAll();
+  });
+  sysChips.appendChild(b);
+});
+
+/* =================== BUILD: filter controls =================== */
+function buildSeg(host, options, getCur, onPick){
+  host.innerHTML="";
+  options.forEach(o=>{
+    const b=document.createElement("button");
+    b.innerHTML = `${o.label}${o.count!=null?`<small>${o.count}</small>`:""}`;
+    b.addEventListener("click",()=>{ onPick(o.value); refreshSeg(host,options,getCur); renderAll(); });
+    host.appendChild(b);
+  });
+  refreshSeg(host,options,getCur);
+}
+function refreshSeg(host,options,getCur){
+  [...host.children].forEach((b,i)=> b.setAttribute("aria-pressed", options[i].value===getCur()));
+}
+const cnt = pred => DATA.docs.filter(pred).length;
+
+buildSeg(document.getElementById("fLang"),
+  [{label:"All",value:"all"},{label:"English",value:"en",count:cnt(d=>d.lang==="en")},{label:"Non-English",value:"non",count:cnt(d=>d.lang!=="en")}],
+  ()=>state.filters.lang, v=>state.filters.lang=v);
+
+buildSeg(document.getElementById("fLen"),
+  [{label:"All",value:"all"},{label:"1 page",value:"single",count:cnt(d=>d.pages===1)},{label:"Multi",value:"multi",count:cnt(d=>d.pages>1)},{label:"6+ pages",value:"long",count:cnt(d=>d.pages>5)}],
+  ()=>state.filters.len, v=>state.filters.len=v);
+
+buildSeg(document.getElementById("fFmt"),
+  [{label:"All",value:"all"},{label:"PDF",value:"pdf",count:cnt(d=>d.ftype==="pdf")},{label:"Image",value:"image",count:cnt(d=>IMG.has(d.ftype))},{label:"Other",value:"other",count:cnt(d=>d.ftype!=="pdf"&&!IMG.has(d.ftype))}],
+  ()=>state.filters.fmt, v=>state.filters.fmt=v);
+
+const FEATURES = [
+  {flag:"arrays", label:"Arrays"},
+  {flag:"reconcile", label:"Reconciling totals"},
+  {flag:"rtl", label:"RTL script"},
+  {flag:"cjk", label:"CJK script"},
+  {flag:"rotated", label:"Rotated scan"},
+  {flag:"needle", label:"Needle-in-haystack"},
+  {flag:"handwriting", label:"Handwriting"},
+];
+const fFeat = document.getElementById("fFeat");
+FEATURES.forEach(f=>{
+  const c = cnt(d=>d.flags[f.flag]); if(c===0) return;
+  const b=document.createElement("button");
+  b.className="fchip"; b.setAttribute("aria-pressed","false");
+  b.innerHTML = `${f.label}<small>${c}</small>`;
+  b.addEventListener("click",()=>{
+    if(state.filters.features.has(f.flag)) state.filters.features.delete(f.flag);
+    else state.filters.features.add(f.flag);
+    b.setAttribute("aria-pressed", state.filters.features.has(f.flag));
+    renderAll();
+  });
+  fFeat.appendChild(b);
+});
+
+document.getElementById("resetBtn").addEventListener("click",()=>{
+  state.filters = { lang:"all", len:"all", fmt:"all", features:new Set() };
+  // re-mark the first ("All") option of each segmented control as active
+  document.querySelectorAll("#fLang button,#fLen button,#fFmt button").forEach(b=>b.setAttribute("aria-pressed","false"));
+  document.querySelectorAll('#fLang button')[0].setAttribute("aria-pressed","true");
+  document.querySelectorAll('#fLen button')[0].setAttribute("aria-pressed","true");
+  document.querySelectorAll('#fFmt button')[0].setAttribute("aria-pressed","true");
+  fFeat.querySelectorAll("button").forEach(b=>b.setAttribute("aria-pressed","false"));
+  renderAll();
+});
+
+/* =================== BUILD: hero bars (persistent rows) =================== */
+const figBars = document.getElementById("figBars");
+const barRefs = {};
+ORDER.forEach(k=>{
+  const e=ENGINES[k];
+  const row=document.createElement("div");
+  row.className="barrow"; row.dataset.engine=k;
+  row.innerHTML=`
+    <div class="barrow__top">
+      <div class="barrow__name">${e.label}${e.tier?` <small>${e.tier}</small>`:""} <span class="lead-tag">Winner</span></div>
+      <div class="barrow__r"><span class="barrow__delta"></span><span class="barrow__val num"></span></div>
+    </div>
+    <div class="bar"><div class="bar__fill"></div></div>`;
+  figBars.appendChild(row);
+  barRefs[k]={ row, name:row.querySelector(".barrow__name"), delta:row.querySelector(".barrow__delta"), val:row.querySelector(".barrow__val"), fill:row.querySelector(".bar__fill") };
+});
+const axisEl=document.createElement("div");
+axisEl.className="axis";
+axisEl.innerHTML=`<span id="axMin">90%</span><span>100%</span>`;
+figBars.appendChild(axisEl);
+const capEl=document.createElement("div");
+capEl.className="subset-cap"; capEl.id="subsetCap";
+figBars.appendChild(capEl);
+
+/* =================== BUILD: matrix + docs headers/bodies =================== */
+const bdHead=document.getElementById("bdHead"), bdBody=document.getElementById("bdBody");
+const docHead=document.getElementById("docHead"), docBody=document.getElementById("docBody");
+
+function gridTemplate(nSys, labelFr){ return `${labelFr} repeat(${nSys}, minmax(96px, .8fr))`; }
+function sourceFileHref(d){
+  const path = `documents/${d.id}.${d.ftype}`;
+  if(location.protocol === "file:") return path;
+  return `https://github.com/DocuPipe/docubench/blob/main/${path}`;
+}
+
+/* docs rows persistent */
+const docRefs={};
+DATA.docs.forEach((d,i)=>{
+  const row=document.createElement("div"); row.className="grow"; row.dataset.id=d.id;
+  row.innerHTML=`<div class="doc-label">
+      <span class="doc-idx num"></span>
+      <div class="doc-meta">
+        <div class="doc-name"><span class="doc-tags"><span class="t lang">${d.lang}</span><span class="t">${d.ftype}</span></span>${d.name}<a class="doc-source" href="${sourceFileHref(d)}" target="_blank" rel="noopener">source file</a></div>
+        <div class="doc-feat">${d.feature}</div>
+      </div>
+    </div>`;
+  docBody.appendChild(row);
+  docRefs[d.id]={ row, idx:row.querySelector(".doc-idx"), cells:{} };
+});
+
+/* =================== RENDER =================== */
+function propagateEngine(){
+  const k=state.focal;
+  ["figBody","figFocus","bdHead","docHead"].forEach(id=>document.getElementById(id).dataset.engine=k);
+  document.querySelector(".band").dataset.engine=k;
+}
+
+function renderAll(){
+  propagateEngine();
+  const shown=shownOrder();
+  const docs=subsetDocs();
+  const agg={}; shown.forEach(k=>agg[k]=aggFor(k,docs));
+
+  // system chips state
+  ORDER.forEach(k=>{
+    const b=[...sysChips.children].find(x=>x.dataset.engine===k);
+    b.setAttribute("aria-pressed", state.shown.has(k));
+    b.dataset.focal = (k===state.focal);
+  });
+
+  // count + reset
+  const f=state.filters;
+  const active = f.lang!=="all"||f.len!=="all"||f.fmt!=="all"||f.features.size>0;
+  document.getElementById("countPill").innerHTML=`<b>${docs.length}</b> / 50 docs`;
+  document.getElementById("resetBtn").disabled=!active;
+
+  const figBody=document.getElementById("figBody");
+  const emptyFig=document.getElementById("emptyFig");
+  if(docs.length===0){
+    figBody.style.display="none"; emptyFig.style.display="block";
+  } else {
+    figBody.style.display=""; emptyFig.style.display="none";
+    renderBars(shown, agg, docs);
+  }
+
+  renderMatrix(shown);
+  renderDocs(shown, docs);
+  renderLegend(shown);
+}
+
+function renderBars(shown, agg, docs){
+  const vals=shown.map(k=>agg[k]);
+  const maxV=Math.max(...vals), minV=Math.min(...vals);
+  const floorPct=floorScale(minV*100);
+  document.getElementById("axMin").textContent=floorPct+"%";
+  const span=100-floorPct;
+  // ranking
+  const ranked=[...shown].sort((a,b)=>agg[b]-agg[a]);
+
+  ORDER.forEach(k=>{
+    const r=barRefs[k];
+    if(!state.shown.has(k)){ r.row.classList.add("hide"); return; }
+    r.row.classList.remove("hide");
+    r.row.style.order=ranked.indexOf(k);
+    const v=agg[k];
+    r.val.textContent=fmt(v,2);
+    r.fill.style.width=(Math.max(0,(v*100-floorPct))/span*100).toFixed(2)+"%";
+    const isFocal=k===state.focal;
+    r.row.dataset.focal=isFocal;
+    r.row.dataset.lead=(Math.abs(v-maxV)<1e-9);
+    if(isFocal){ r.delta.textContent=""; }
+    else{ const d=parseFloat(fmt(v,2))-parseFloat(fmt(agg[state.focal],2)); r.delta.textContent=(d>=0?"+":"−")+Math.abs(d).toFixed(2); }
+  });
+
+  // focus panel
+  const fa=agg[state.focal];
+  document.getElementById("bigNum").textContent=fmt(fa,2);
+  const e=ENGINES[state.focal];
+  document.getElementById("focusName").textContent=`${e.label}${e.tier?" "+e.tier:""}`;
+  const isLead=Math.abs(fa-maxV)<1e-9;
+  const n=docs.length;
+  document.getElementById("focusSub").textContent= isLead
+    ? `leads across ${n} document${n>1?"s":""}`
+    : `#${ranked.indexOf(state.focal)+1} of ${shown.length} on ${n} document${n>1?"s":""}`;
+  document.getElementById("subsetCap").innerHTML = subsetCaption(n);
+}
+
+function subsetCaption(n){
+  const f=state.filters; const parts=[];
+  if(f.lang==="en") parts.push("English"); else if(f.lang==="non") parts.push("non-English");
+  if(f.len==="single") parts.push("single-page"); else if(f.len==="multi") parts.push("multi-page"); else if(f.len==="long") parts.push("6+ pages");
+  if(f.fmt==="pdf") parts.push("PDF"); else if(f.fmt==="image") parts.push("image"); else if(f.fmt==="other") parts.push("non-PDF/image");
+  FEATURES.forEach(ft=>{ if(f.features.has(ft.flag)) parts.push(ft.label); });
+  if(!parts.length) return `Across <b>all ${n}</b> documents in the benchmark.`;
+  return `Across <b>${n}</b> document${n>1?"s":""}: ${parts.join(" · ")}.`;
+}
+
+function engHeaderCols(host, labelText, sortable){
+  const shown=shownOrder();
+  host.style.gridTemplateColumns=gridTemplate(shown.length, host===docHead?"1.7fr":"1.4fr");
+  let html=`<div class="gh-col">${labelText}</div>`;
+  shown.forEach(k=>{
+    const e=ENGINES[k];
+    const sorted = sortable && state.sortKey===k;
+    html+=`<div class="gh-eng gh-col" data-engine="${k}" data-key="${k}" ${state.focal===k?'data-focal="true"':""} ${sorted?`data-sorted="${state.sortDir}"`:""}>
+      <div class="nm"><span class="sw"></span>${e.label}${e.tier?" "+e.tier:""} ${sortable?`<span class="sortcaret">${sorted?(state.sortDir<0?"▼":"▲"):"▾"}</span>`:""}</div>
+      <div class="agg">${"—"}</div></div>`;
+  });
+  host.innerHTML=html;
+}
+
+let bdCellMap={};
+function renderMatrix(shown){
+  // header
+  engHeaderCols(bdHead, "Slice", false);
+  // aggregates over FULL set
+  shown.forEach(k=>{ const a=aggFor(k,DATA.docs); bdHead.querySelector(`.gh-eng[data-key="${k}"] .agg`).textContent=fmt(a,2)+"%"; });
+  // rows
+  const groups={};
+  DATA.docs.forEach(d=>{ const v=d[state.dim]; (groups[v]||=[]).push(d); });
+  const rows=Object.keys(groups).map(v=>({value:v,docs:groups[v]}));
+  rows.sort((a,b)=>b.docs.length-a.docs.length || a.value.localeCompare(b.value));
+
+  bdBody.innerHTML=""; bdCellMap={};
+  rows.forEach(r=>{
+    const el=document.createElement("div"); el.className="grow";
+    el.style.gridTemplateColumns=gridTemplate(shown.length,"1.4fr");
+    let html=`<div class="bd-label"><span class="bd-key">${r.value}</span><span class="bd-count"><b>${r.docs.length}</b> doc${r.docs.length>1?"s":""}</span></div>`;
+    shown.forEach(k=>{
+      const v=aggFor(k,r.docs);
+      html+=`<div class="scell" data-engine="${k}" ${state.focal===k?'data-focal="true"':""}>
+        <div class="scell__track"><div class="scell__fill" style="width:${(v*100).toFixed(1)}%"></div></div>
+        <span class="scell__num">${fmt(v,1)}</span></div>`;
+    });
+    el.innerHTML=html; bdBody.appendChild(el);
+  });
+  // header click = nothing for matrix
+}
+
+function renderDocs(shown, docs){
+  engHeaderCols(docHead, `Document · n=${docs.length}`, true);
+  // header aggregates over subset + sort handlers
+  shown.forEach(k=>{
+    const a=aggFor(k,docs);
+    docHead.querySelector(`.gh-eng[data-key="${k}"] .agg`).textContent= docs.length?fmt(a,2)+"%":"—";
+    const col=docHead.querySelector(`.gh-eng[data-key="${k}"]`);
+    col.onclick=()=>{ if(state.sortKey===k) state.sortDir*=-1; else { state.sortKey=k; state.sortDir=-1; } renderAll(); };
+  });
+  // ensure sortKey is shown
+  if(!state.shown.has(state.sortKey)) state.sortKey=shown[0];
+
+  // order rows
+  const visIds=new Set(docs.map(d=>d.id));
+  const sorted=[...docs].sort((a,b)=> (a[state.sortKey]-b[state.sortKey])*state.sortDir || a.name.localeCompare(b.name));
+
+  let n=0;
+  // hide all first, then place sorted
+  DATA.docs.forEach(d=>{ docRefs[d.id].row.classList.add("hide"); });
+  sorted.forEach((d,i)=>{
+    const ref=docRefs[d.id]; ref.row.classList.remove("hide"); ref.row.style.order=i;
+    ref.idx.textContent=String(++n).padStart(2,"0");
+    // (re)build cells to match shown systems
+    rebuildDocCells(d, shown);
+  });
+  document.getElementById("docEmpty").style.display = docs.length?"none":"block";
+}
+
+function rebuildDocCells(d, shown){
+  const ref=docRefs[d.id];
+  ref.row.style.gridTemplateColumns=gridTemplate(shown.length,"1.7fr");
+  // remove old score cells
+  ref.row.querySelectorAll(".scell").forEach(n=>n.remove());
+  shown.forEach(k=>{
+    const v=d[k];
+    const cell=document.createElement("div");
+    cell.className="scell"; cell.dataset.engine=k; if(state.focal===k) cell.dataset.focal="true";
+    cell.innerHTML=`<div class="scell__track"><div class="scell__fill" style="width:${(v*100).toFixed(1)}%"></div></div><span class="scell__num">${fmt(v,1)}</span>`;
+    ref.row.appendChild(cell);
+  });
+}
+
+function renderLegend(shown){
+  const legend=document.getElementById("legend"); if(!legend) return;
+  legend.innerHTML="";
+  ORDER.forEach(k=>{
+    if(!state.shown.has(k)) return;
+    const e=ENGINES[k];
+    const s=document.createElement("span"); s.dataset.engine=k;
+    s.innerHTML=`<i style="background:var(--c);opacity:${k===state.focal?1:.55}"></i>${e.label}${e.tier?" "+e.tier:""}`;
+    legend.appendChild(s);
+  });
+}
+
+/* =================== matrix toggle =================== */
+document.getElementById("bdToggle").addEventListener("click",e=>{
+  const b=e.target.closest("button"); if(!b) return;
+  state.dim=b.dataset.dim;
+  document.querySelectorAll("#bdToggle button").forEach(x=>x.setAttribute("aria-pressed",x===b));
+  renderMatrix(shownOrder());
+});
+
+/* =================== INIT =================== */
+renderAll();
+</script>
+</body>
+</html>

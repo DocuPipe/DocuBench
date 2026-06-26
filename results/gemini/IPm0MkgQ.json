@@ -1,0 +1,376 @@
+{
+  "status": "ok",
+  "cost": null,
+  "time_sec": 51.9504828453064,
+  "data": {
+    "accountHolderName": "JOHN TEST",
+    "accountNumber": "6547",
+    "statementPeriodDays": 33,
+    "previousBalance": 3005.93,
+    "totalCredits": 18041.5,
+    "totalDebits": 14365.21,
+    "endingBalance": 6682.22,
+    "transactions": [
+      {
+        "date": "2019-06-28",
+        "description": "Previous Balance",
+        "debit": null,
+        "credit": null,
+        "balance": 445.28
+      },
+      {
+        "date": "2019-07-01",
+        "description": "Deposit = 131",
+        "debit": null,
+        "credit": 209.54,
+        "balance": 654.82
+      },
+      {
+        "date": "2019-07-01",
+        "description": "Deposit = 131",
+        "debit": null,
+        "credit": 389.77,
+        "balance": 1044.59
+      },
+      {
+        "date": "2019-07-01",
+        "description": "Deposit = 131",
+        "debit": null,
+        "credit": 285.58,
+        "balance": 1330.17
+      },
+      {
+        "date": "2019-07-01",
+        "description": "C&J CLARK RETAIL ACH DEBIT SETTLEMENT STORE NBR 131",
+        "debit": 21.7,
+        "credit": null,
+        "balance": 1308.47
+      },
+      {
+        "date": "2019-07-02",
+        "description": "Deposit = 131",
+        "debit": null,
+        "credit": 76.02,
+        "balance": 1384.49
+      },
+      {
+        "date": "2019-07-03",
+        "description": "Deposit = 131",
+        "debit": null,
+        "credit": 74.0,
+        "balance": 1458.49
+      },
+      {
+        "date": "2019-07-03",
+        "description": "DEPOSIT CORRECTION CREDIT",
+        "debit": null,
+        "credit": 13.04,
+        "balance": 1471.53
+      },
+      {
+        "date": "2019-07-03",
+        "description": "C&J CLARK RETAIL ACH DEBIT SETTLEMENT STORE NBR 131",
+        "debit": 714.56,
+        "credit": null,
+        "balance": 756.97
+      },
+      {
+        "date": "2019-07-05",
+        "description": "Deposit = 131",
+        "debit": null,
+        "credit": 97.8,
+        "balance": 854.77
+      },
+      {
+        "date": "2019-07-05",
+        "description": "Deposit = 131",
+        "debit": null,
+        "credit": 132.9,
+        "balance": 987.67
+      },
+      {
+        "date": "2019-07-08",
+        "description": "Deposit = 131",
+        "debit": null,
+        "credit": 141.19,
+        "balance": 1128.86
+      },
+      {
+        "date": "2019-07-08",
+        "description": "Deposit = 131",
+        "debit": null,
+        "credit": 208.45,
+        "balance": 1337.31
+      },
+      {
+        "date": "2019-07-08",
+        "description": "Deposit = 131",
+        "debit": null,
+        "credit": 296.76,
+        "balance": 1634.07
+      },
+      {
+        "date": "2019-07-09",
+        "description": "Deposit = 131",
+        "debit": null,
+        "credit": 130.28,
+        "balance": 1764.35
+      },
+      {
+        "date": "2019-07-10",
+        "description": "Deposit = 131",
+        "debit": null,
+        "credit": 238.74,
+        "balance": 2003.09
+      },
+      {
+        "date": "2019-07-11",
+        "description": "Deposit = 131",
+        "debit": null,
+        "credit": 305.73,
+        "balance": 2308.82
+      },
+      {
+        "date": "2019-07-12",
+        "description": "Deposit = 131",
+        "debit": null,
+        "credit": 86.96,
+        "balance": 2395.78
+      },
+      {
+        "date": "2019-07-12",
+        "description": "DEPOSIT CORRECTION CREDIT",
+        "debit": null,
+        "credit": 1.0,
+        "balance": 2396.78
+      },
+      {
+        "date": "2019-07-15",
+        "description": "Deposit = 131",
+        "debit": null,
+        "credit": 406.35,
+        "balance": 2803.13
+      },
+      {
+        "date": "2019-07-15",
+        "description": "Deposit = 131",
+        "debit": null,
+        "credit": 547.09,
+        "balance": 3350.22
+      },
+      {
+        "date": "2019-07-15",
+        "description": "Deposit = 131",
+        "debit": null,
+        "credit": 536.59,
+        "balance": 3886.81
+      },
+      {
+        "date": "2019-07-15",
+        "description": "C&J CLARK RETAIL ACH DEBIT SETTLEMENT STORE NBR 131",
+        "debit": 1845.8,
+        "credit": null,
+        "balance": 2041.01
+      },
+      {
+        "date": "2019-07-16",
+        "description": "Deposit = 131",
+        "debit": null,
+        "credit": 94.48,
+        "balance": 2135.49
+      },
+      {
+        "date": "2019-07-17",
+        "description": "Deposit = 131",
+        "debit": null,
+        "credit": 228.08,
+        "balance": 2363.57
+      },
+      {
+        "date": "2019-07-17",
+        "description": "C&J CLARK RETAIL ACH DEBIT SETTLEMENT STORE NBR 131",
+        "debit": 950.82,
+        "credit": null,
+        "balance": 1412.75
+      },
+      {
+        "date": "2019-07-18",
+        "description": "Deposit = 131",
+        "debit": null,
+        "credit": 108.62,
+        "balance": 1521.37
+      },
+      {
+        "date": "2019-07-18",
+        "description": "C&J CLARK RETAIL ACH DEBIT SETTLEMENT STORE NBR 131",
+        "debit": 547.09,
+        "credit": null,
+        "balance": 974.28
+      },
+      {
+        "date": "2019-07-19",
+        "description": "Deposit = 131",
+        "debit": null,
+        "credit": 456.09,
+        "balance": 1430.37
+      },
+      {
+        "date": "2019-07-19",
+        "description": "C&J CLARK RETAIL ACH DEBIT SETTLEMENT STORE NBR 131",
+        "debit": 536.59,
+        "credit": null,
+        "balance": 893.78
+      },
+      {
+        "date": "2019-07-22",
+        "description": "Deposit = 131",
+        "debit": null,
+        "credit": 280.22,
+        "balance": 1174.0
+      },
+      {
+        "date": "2019-07-22",
+        "description": "Deposit = 131",
+        "debit": null,
+        "credit": 108.59,
+        "balance": 1282.59
+      },
+      {
+        "date": "2019-07-22",
+        "description": "Deposit = 131",
+        "debit": null,
+        "credit": 213.69,
+        "balance": 1496.28
+      },
+      {
+        "date": "2019-07-23",
+        "description": "Deposit = 131",
+        "debit": null,
+        "credit": 43.4,
+        "balance": 1539.68
+      },
+      {
+        "date": "2019-07-24",
+        "description": "Deposit = 131",
+        "debit": null,
+        "credit": 250.82,
+        "balance": 1790.5
+      },
+      {
+        "date": "2019-07-24",
+        "description": "C&J CLARK RETAIL ACH DEBIT SETTLEMENT STORE NBR 131",
+        "debit": 94.48,
+        "credit": null,
+        "balance": 1696.02
+      },
+      {
+        "date": "2019-07-25",
+        "description": "C&J CLARK RETAIL ACH DEBIT SETTLEMENT STORE NBR 131",
+        "debit": 108.59,
+        "credit": null,
+        "balance": 1587.43
+      },
+      {
+        "date": "2019-07-25",
+        "description": "C&J CLARK RETAIL ACH DEBIT SETTLEMENT STORE NBR 131",
+        "debit": 1073.01,
+        "credit": null,
+        "balance": 514.42
+      },
+      {
+        "date": "2019-07-26",
+        "description": "Deposit = 131",
+        "debit": null,
+        "credit": 162.89,
+        "balance": 677.31
+      },
+      {
+        "date": "2019-07-29",
+        "description": "Deposit = 131",
+        "debit": null,
+        "credit": 538.79,
+        "balance": 1216.1
+      },
+      {
+        "date": "2019-07-29",
+        "description": "Deposit = 131",
+        "debit": null,
+        "credit": 515.31,
+        "balance": 1731.41
+      },
+      {
+        "date": "2019-07-29",
+        "description": "Deposit = 131",
+        "debit": null,
+        "credit": 170.55,
+        "balance": 1901.96
+      },
+      {
+        "date": "2019-07-29",
+        "description": "C&J CLARK RETAIL ACH DEBIT SETTLEMENT STORE NBR 131",
+        "debit": 213.69,
+        "credit": null,
+        "balance": 1688.27
+      },
+      {
+        "date": "2019-07-30",
+        "description": "Deposit = 131",
+        "debit": null,
+        "credit": 21.7,
+        "balance": 1709.97
+      },
+      {
+        "date": "2019-07-31",
+        "description": "Deposit = 131",
+        "debit": null,
+        "credit": 241.75,
+        "balance": 1951.72
+      },
+      {
+        "date": "2019-07-31",
+        "description": "C&J CLARK RETAIL ACH DEBIT SETTLEMENT STORE NBR 131",
+        "debit": 995.9,
+        "credit": null,
+        "balance": 955.82
+      },
+      {
+        "date": "2019-07-31",
+        "description": "SERVICE CHARGE",
+        "debit": 10.0,
+        "credit": null,
+        "balance": 945.82
+      },
+      {
+        "date": "2019-07-31",
+        "description": "PAPER STATEMENT CHARGE",
+        "debit": 3.0,
+        "credit": null,
+        "balance": 942.82
+      }
+    ]
+  },
+  "meta": {
+    "provider": "google",
+    "model": "gemini-3.5-flash",
+    "doc_id": "IPm0MkgQ",
+    "usage": {
+      "promptTokenCount": 3174,
+      "candidatesTokenCount": 3566,
+      "totalTokenCount": 13813,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 54
+        },
+        {
+          "modality": "IMAGE",
+          "tokenCount": 3120
+        }
+      ],
+      "thoughtsTokenCount": 7073,
+      "serviceTier": "standard"
+    },
+    "schema_mode": "gemini_response_schema_nullable_v1",
+    "input_mode": "inline_data"
+  }
+}

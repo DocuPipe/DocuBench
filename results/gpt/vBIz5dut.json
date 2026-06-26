@@ -1,0 +1,166 @@
+{
+  "status": "ok",
+  "cost": null,
+  "time_sec": 23.659652709960938,
+  "data": {
+    "merchantName": "FIVE GUYS",
+    "storeNumber": "CA-1661",
+    "storeStreetAddress": "2640 Reynolds Ranch Pkwy - Ste 140",
+    "storeCity": "Lodi",
+    "storeState": "CA",
+    "storeZip": "95240",
+    "storePhone": "(209) 333-9750",
+    "transactionDate": "2017-05-26",
+    "transactionTime": "1:00:17 PM",
+    "orderId": "AAAPZF9WAEBP",
+    "registerOrTerminal": "47 - FIVE GUYS",
+    "employeeName": "Robert C",
+    "lineItems": [
+      {
+        "quantity": 1,
+        "description": "Little Hamburger",
+        "unitPrice": null,
+        "lineTotal": 5.19,
+        "isModifier": false
+      },
+      {
+        "quantity": 1,
+        "description": "Lettuce",
+        "unitPrice": null,
+        "lineTotal": 0,
+        "isModifier": true
+      },
+      {
+        "quantity": 1,
+        "description": "Pickles",
+        "unitPrice": null,
+        "lineTotal": 0,
+        "isModifier": true
+      },
+      {
+        "quantity": 1,
+        "description": "Tomatoes",
+        "unitPrice": null,
+        "lineTotal": 0,
+        "isModifier": true
+      },
+      {
+        "quantity": 1,
+        "description": "Grilled Onions",
+        "unitPrice": null,
+        "lineTotal": 0,
+        "isModifier": true
+      },
+      {
+        "quantity": 1,
+        "description": "Grilled Mushrooms",
+        "unitPrice": null,
+        "lineTotal": 0,
+        "isModifier": true
+      },
+      {
+        "quantity": 1,
+        "description": "Mustard",
+        "unitPrice": null,
+        "lineTotal": 0,
+        "isModifier": true
+      },
+      {
+        "quantity": 1,
+        "description": "Ketchup",
+        "unitPrice": null,
+        "lineTotal": 0,
+        "isModifier": true
+      },
+      {
+        "quantity": 1,
+        "description": "Jalapeno Peppers",
+        "unitPrice": null,
+        "lineTotal": 0,
+        "isModifier": true
+      },
+      {
+        "quantity": 2,
+        "description": "Large Fry",
+        "unitPrice": 5.79,
+        "lineTotal": 11.58,
+        "isModifier": false
+      },
+      {
+        "quantity": 1,
+        "description": "Large Soda",
+        "unitPrice": null,
+        "lineTotal": 2.99,
+        "isModifier": false
+      },
+      {
+        "quantity": 1,
+        "description": "Cheeseburger",
+        "unitPrice": null,
+        "lineTotal": 7.85,
+        "isModifier": false
+      },
+      {
+        "quantity": 1,
+        "description": "Mayo",
+        "unitPrice": null,
+        "lineTotal": 0,
+        "isModifier": true
+      },
+      {
+        "quantity": 1,
+        "description": "Lettuce",
+        "unitPrice": null,
+        "lineTotal": 0,
+        "isModifier": true
+      },
+      {
+        "quantity": 1,
+        "description": "Pickles",
+        "unitPrice": null,
+        "lineTotal": 0,
+        "isModifier": true
+      },
+      {
+        "quantity": 1,
+        "description": "BBQ Sauce",
+        "unitPrice": null,
+        "lineTotal": 0,
+        "isModifier": true
+      },
+      {
+        "quantity": 1,
+        "description": "Regular Soda",
+        "unitPrice": null,
+        "lineTotal": 2.7,
+        "isModifier": false
+      }
+    ],
+    "subtotal": 30.31,
+    "salesTax": 2.35,
+    "orderTotal": 32.66,
+    "paymentMethod": "MasterCard",
+    "cardLastFour": "2931",
+    "authorizationCode": "72876Z",
+    "amountPaid": 32.66
+  },
+  "meta": {
+    "provider": "openai",
+    "model": "gpt-5.5",
+    "doc_id": "vBIz5dut",
+    "file_id": null,
+    "response_id": "resp_0ac402a0a0d0f64a016a3e988a2ca881a09d16e33681e2b816",
+    "usage": {
+      "input_tokens": 1546,
+      "input_tokens_details": {
+        "cached_tokens": 0
+      },
+      "output_tokens": 1644,
+      "output_tokens_details": {
+        "reasoning_tokens": 1034
+      },
+      "total_tokens": 3190
+    },
+    "schema_mode": "openai_strict_nullable_v1"
+  }
+}

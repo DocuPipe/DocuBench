@@ -1,0 +1,110 @@
+{
+  "status": "ok",
+  "cost": null,
+  "time_sec": 10.196506023406982,
+  "data": {
+    "invoiceId": "Snippet1",
+    "issueDate": "2017-11-13",
+    "dueDate": "2017-12-01",
+    "invoiceTypeCode": "380",
+    "documentCurrencyCode": "EUR",
+    "taxCurrencyCode": "SEK",
+    "buyerReference": "0150abc",
+    "invoicePeriodStartDate": "2017-12-01",
+    "invoicePeriodEndDate": "2017-12-31",
+    "supplierName": "SupplierTradingName Ltd.",
+    "supplierRegistrationName": "SupplierOfficialName Ltd",
+    "supplierVatId": "GB1232434",
+    "supplierCountryCode": "GB",
+    "customerName": "BuyerTradingName AS",
+    "customerRegistrationName": "Buyer Official Name",
+    "customerVatId": "SE4598375937",
+    "customerCountryCode": "SE",
+    "paymentMeansCode": "30",
+    "payeeIban": "IBAN32423940",
+    "payeeBic": "BIC324098",
+    "lineExtensionAmount": 5900,
+    "taxExclusiveAmount": 5900,
+    "taxInclusiveAmount": 7125,
+    "allowanceTotalAmount": 200,
+    "chargeTotalAmount": 200,
+    "prepaidAmount": 1000,
+    "payableAmount": 6125,
+    "taxTotalAmount": 1225,
+    "allowanceCharges": [
+      {
+        "isCharge": true,
+        "reason": "Cleaning",
+        "reasonCode": "CG",
+        "amount": 200,
+        "baseAmount": 1000,
+        "taxCategoryPercent": 25
+      },
+      {
+        "isCharge": false,
+        "reason": "Discount",
+        "reasonCode": "95",
+        "amount": 200,
+        "baseAmount": null,
+        "taxCategoryPercent": 25
+      }
+    ],
+    "invoiceLines": [
+      {
+        "lineId": "1",
+        "invoicedQuantity": 10,
+        "unitCode": "C62",
+        "lineExtensionAmount": 4000,
+        "itemName": "item name",
+        "itemDescription": "Description of item",
+        "sellersItemId": "97iugug876",
+        "priceAmount": 410,
+        "taxCategoryId": "S",
+        "taxCategoryPercent": 25
+      },
+      {
+        "lineId": "2",
+        "invoicedQuantity": 10,
+        "unitCode": "C62",
+        "lineExtensionAmount": 1000,
+        "itemName": "item name",
+        "itemDescription": "Description of item",
+        "sellersItemId": "97iugug876",
+        "priceAmount": 200,
+        "taxCategoryId": "E",
+        "taxCategoryPercent": 0
+      },
+      {
+        "lineId": "3",
+        "invoicedQuantity": 10,
+        "unitCode": "C62",
+        "lineExtensionAmount": 900,
+        "itemName": "item name",
+        "itemDescription": "Description of item",
+        "sellersItemId": "97iugug876",
+        "priceAmount": 100,
+        "taxCategoryId": "S",
+        "taxCategoryPercent": 25
+      }
+    ]
+  },
+  "meta": {
+    "provider": "openai",
+    "model": "gpt-5.5",
+    "doc_id": "C7fe2lau",
+    "file_id": "file-XamTcQHiHkfJBhcZfzTLiJ",
+    "response_id": "resp_0ada4c2d50e2bf2d016a3e94a3b91881a2a3d0965f409ef912",
+    "usage": {
+      "input_tokens": 5295,
+      "input_tokens_details": {
+        "cached_tokens": 0
+      },
+      "output_tokens": 729,
+      "output_tokens_details": {
+        "reasoning_tokens": 222
+      },
+      "total_tokens": 6024
+    },
+    "schema_mode": "openai_strict_nullable_v1"
+  }
+}

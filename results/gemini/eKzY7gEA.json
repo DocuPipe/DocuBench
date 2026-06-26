@@ -1,0 +1,91 @@
+{
+  "status": "ok",
+  "cost": null,
+  "time_sec": 5.70786714553833,
+  "data": {
+    "patientName": "Robert J. Sample",
+    "mrn": "00471829",
+    "dateOfBirth": "1958-03-14",
+    "sex": "Male",
+    "admissionDate": "2025-09-02",
+    "dischargeDate": "2025-09-08",
+    "attendingPhysician": "Dr. Elena Marsh, MD",
+    "disposition": "Home with home health",
+    "dischargeDiagnoses": [
+      {
+        "diagnosis": "Community-acquired pneumonia, right lower lobe"
+      },
+      {
+        "diagnosis": "Acute hypoxic respiratory failure"
+      },
+      {
+        "diagnosis": "Type 2 diabetes mellitus"
+      },
+      {
+        "diagnosis": "Essential hypertension"
+      },
+      {
+        "diagnosis": "Chronic kidney disease, stage 3"
+      }
+    ],
+    "allergies": [
+      {
+        "allergy": "Penicillin (rash)"
+      },
+      {
+        "allergy": "Sulfonamides (hives)"
+      }
+    ],
+    "proceduresPerformed": [
+      {
+        "procedure": "Chest radiograph, two views"
+      },
+      {
+        "procedure": "Complete blood count"
+      },
+      {
+        "procedure": "Comprehensive metabolic panel"
+      },
+      {
+        "procedure": "Blood cultures x2"
+      }
+    ],
+    "dischargeMedications": [
+      {
+        "medication": "Levofloxacin 750 mg PO daily x5 days"
+      },
+      {
+        "medication": "Metformin 1000 mg PO twice daily"
+      },
+      {
+        "medication": "Lisinopril 20 mg PO daily"
+      },
+      {
+        "medication": "Atorvastatin 40 mg PO at bedtime"
+      },
+      {
+        "medication": "Albuterol inhaler 2 puffs every 4 hours as needed"
+      }
+    ]
+  },
+  "meta": {
+    "provider": "google",
+    "model": "gemini-3.5-flash",
+    "doc_id": "eKzY7gEA",
+    "usage": {
+      "promptTokenCount": 441,
+      "candidatesTokenCount": 274,
+      "totalTokenCount": 1605,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 441
+        }
+      ],
+      "thoughtsTokenCount": 890,
+      "serviceTier": "standard"
+    },
+    "schema_mode": "gemini_response_schema_nullable_v1",
+    "input_mode": "text"
+  }
+}

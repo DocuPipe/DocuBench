@@ -1,0 +1,48 @@
+{
+  "status": "ok",
+  "cost": null,
+  "time_sec": 10.207764148712158,
+  "data": {
+    "numeroFactura": "21180613010076890",
+    "cups": "ES 0021 0000 0474 4848 NZ",
+    "periodoFacturacionStart": "2018-05-08",
+    "periodoFacturacionEnd": "2018-06-10",
+    "consumoKwh": 350,
+    "charges": [
+      {
+        "description": "ENERGÍA",
+        "amount": 66.02
+      },
+      {
+        "description": "SERVICIOS Y OTROS CONCEPTOS",
+        "amount": 0.88
+      },
+      {
+        "description": "IVA 21% s/66,9 €",
+        "amount": 14.05
+      }
+    ],
+    "baseImponible": 66.9,
+    "iva": 14.05,
+    "totalAPagar": 80.95
+  },
+  "meta": {
+    "provider": "openai",
+    "model": "gpt-5.5",
+    "doc_id": "DtfW60lS",
+    "file_id": "file-EBuP88bVtGwxMu4HVKG4vJ",
+    "response_id": "resp_0fbeddda629a913f016a3e94ae3b14819fa26bcc5c308859a4",
+    "usage": {
+      "input_tokens": 5884,
+      "input_tokens_details": {
+        "cached_tokens": 0
+      },
+      "output_tokens": 502,
+      "output_tokens_details": {
+        "reasoning_tokens": 347
+      },
+      "total_tokens": 6386
+    },
+    "schema_mode": "openai_strict_nullable_v1"
+  }
+}

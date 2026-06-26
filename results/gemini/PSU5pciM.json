@@ -1,0 +1,55 @@
+{
+  "status": "ok",
+  "cost": null,
+  "time_sec": 8.31751799583435,
+  "data": {
+    "billingPeriodStart": "2021-09-18",
+    "billingPeriodEnd": "2021-10-18",
+    "previousMeterRead": 47911,
+    "currentMeterRead": 48374,
+    "consumptionKwh": 463,
+    "charges": [
+      {
+        "description": "Service Availability Charge",
+        "amount": 8.75
+      },
+      {
+        "description": "Energy Charge 463 kWh x $0.0691",
+        "amount": 31.99
+      },
+      {
+        "description": "Fuel Adjustment 463 kWh x $0.02568",
+        "amount": 11.89
+      },
+      {
+        "description": "Regulatory Adj 463 kWh x $0.01236",
+        "amount": 5.72
+      }
+    ],
+    "totalElectricBill": 58.35
+  },
+  "meta": {
+    "provider": "google",
+    "model": "gemini-3.5-flash",
+    "doc_id": "PSU5pciM",
+    "usage": {
+      "promptTokenCount": 1093,
+      "candidatesTokenCount": 247,
+      "totalTokenCount": 2333,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 53
+        },
+        {
+          "modality": "IMAGE",
+          "tokenCount": 1040
+        }
+      ],
+      "thoughtsTokenCount": 993,
+      "serviceTier": "standard"
+    },
+    "schema_mode": "gemini_response_schema_nullable_v1",
+    "input_mode": "inline_data"
+  }
+}

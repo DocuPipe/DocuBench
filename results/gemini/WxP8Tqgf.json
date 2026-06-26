@@ -1,0 +1,112 @@
+{
+  "status": "ok",
+  "cost": null,
+  "time_sec": 25.283817291259766,
+  "data": {
+    "employeeName": "LAZIONE UNIVERSITA' 2017",
+    "employerName": "DITTA DI PROVA",
+    "codiceFiscale": "LZNNRS80A41D548V",
+    "payPeriod": "GENNAIO 2017",
+    "payLines": [
+      {
+        "voce": "0",
+        "description": "Retribuzione ordinaria",
+        "unitaDiMisura": "GIORNI",
+        "quantita": 23.0,
+        "base": 67.66808,
+        "trattenute": null,
+        "competenze": 1556.37
+      },
+      {
+        "voce": "200",
+        "description": "Ferie godute",
+        "unitaDiMisura": "ORE",
+        "quantita": 32.0,
+        "base": null,
+        "trattenute": null,
+        "competenze": null
+      },
+      {
+        "voce": "210",
+        "description": "Permessi riduz. orario goduti",
+        "unitaDiMisura": "ORE",
+        "quantita": 4.0,
+        "base": null,
+        "trattenute": null,
+        "competenze": null
+      },
+      {
+        "voce": "221",
+        "description": "Permessi ex-festivita' goduti",
+        "unitaDiMisura": "ORE",
+        "quantita": 4.0,
+        "base": null,
+        "trattenute": null,
+        "competenze": null
+      },
+      {
+        "voce": "230",
+        "description": "Festivita'",
+        "unitaDiMisura": "GIORNI",
+        "quantita": 1.0,
+        "base": 67.66808,
+        "trattenute": null,
+        "competenze": 67.67
+      },
+      {
+        "voce": "232",
+        "description": "Festivita' in domenica",
+        "unitaDiMisura": "GIORNI",
+        "quantita": 1.0,
+        "base": 67.66808,
+        "trattenute": null,
+        "competenze": 67.67
+      },
+      {
+        "voce": "400",
+        "description": "Carenza malattia",
+        "unitaDiMisura": "GIORNI",
+        "quantita": 2.0,
+        "base": 67.66808,
+        "trattenute": null,
+        "competenze": 135.34
+      },
+      {
+        "voce": "978",
+        "description": "Credito art.1 DL 66/2014",
+        "unitaDiMisura": null,
+        "quantita": null,
+        "base": 2017.0,
+        "trattenute": null,
+        "competenze": 80.0
+      }
+    ],
+    "totaleCompetenze": 1907.05,
+    "totaleTrattenute": 460.41,
+    "nettoInBusta": 1447.0
+  },
+  "meta": {
+    "provider": "google",
+    "model": "gemini-3.5-flash",
+    "doc_id": "WxP8Tqgf",
+    "usage": {
+      "promptTokenCount": 587,
+      "candidatesTokenCount": 826,
+      "totalTokenCount": 5686,
+      "promptTokensDetails": [
+        {
+          "modality": "IMAGE",
+          "tokenCount": 532
+        },
+        {
+          "modality": "TEXT",
+          "tokenCount": 55
+        }
+      ],
+      "thoughtsTokenCount": 4273,
+      "serviceTier": "standard"
+    },
+    "schema_mode": "gemini_response_schema_nullable_v1",
+    "input_mode": "inline_data"
+  }
+}

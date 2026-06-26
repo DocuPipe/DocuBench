@@ -1,309 +1,692 @@
 {
+  "benchmark": {
+    "name": "DocuBench",
+    "version": "0.1.0",
+    "doc_count": 50,
+    "metric": "macro_average_field_accuracy"
+  },
+  "engine_display_names": {
+    "claude": "Claude",
+    "docupipe_high": "DocuPipe high",
+    "docupipe_standard": "DocuPipe standard",
+    "extend": "Extend",
+    "gemini": "Gemini",
+    "gpt": "GPT"
+  },
+  "aggregates": {
+    "claude": 0.9032597450724702,
+    "docupipe_high": 0.9724422013639372,
+    "docupipe_standard": 0.9599727771503346,
+    "extend": 0.9252208706230732,
+    "gemini": 0.9579750803411575,
+    "gpt": 0.9354159088285791
+  },
+  "breakdowns": {
+    "ftype": [
+      {
+        "value": "csv",
+        "doc_count": 1,
+        "claude": 0.9,
+        "docupipe_high": 1.0,
+        "docupipe_standard": 0.9857142857142858,
+        "extend": 0.8205128205128205,
+        "gemini": 1.0,
+        "gpt": 0.9857142857142858
+      },
+      {
+        "value": "docx",
+        "doc_count": 1,
+        "claude": 1.0,
+        "docupipe_high": 1.0,
+        "docupipe_standard": 1.0,
+        "extend": 0.8333333333333334,
+        "gemini": 0.9629629629629629,
+        "gpt": 0.8333333333333334
+      },
+      {
+        "value": "html",
+        "doc_count": 1,
+        "claude": 1.0,
+        "docupipe_high": 1.0,
+        "docupipe_standard": 1.0,
+        "extend": 1.0,
+        "gemini": 1.0,
+        "gpt": 1.0
+      },
+      {
+        "value": "jpeg",
+        "doc_count": 4,
+        "claude": 0.6535365608373417,
+        "docupipe_high": 0.9743455497382199,
+        "docupipe_standard": 1.0,
+        "extend": 0.7969815572873855,
+        "gemini": 0.9769932463581044,
+        "gpt": 0.9598354231974922
+      },
+      {
+        "value": "pdf",
+        "doc_count": 37,
+        "claude": 0.937385571458486,
+        "docupipe_high": 0.9664493560629385,
+        "docupipe_standard": 0.9523594342530644,
+        "extend": 0.9337407445535354,
+        "gemini": 0.9578341247793556,
+        "gpt": 0.9296366466452302
+      },
+      {
+        "value": "png",
+        "doc_count": 1,
+        "claude": 0.9655748663101604,
+        "docupipe_high": 1.0,
+        "docupipe_standard": 1.0,
+        "extend": 1.0,
+        "gemini": 0.9769385026737968,
+        "gpt": 0.7634692513368985
+      },
+      {
+        "value": "tiff",
+        "doc_count": 1,
+        "claude": 1.0,
+        "docupipe_high": 1.0,
+        "docupipe_standard": 0.8095238095238095,
+        "extend": 0.9047619047619048,
+        "gemini": 0.95,
+        "gpt": 0.9523809523809523
+      },
+      {
+        "value": "txt",
+        "doc_count": 1,
+        "claude": 1.0,
+        "docupipe_high": 1.0,
+        "docupipe_standard": 1.0,
+        "extend": 1.0,
+        "gemini": 1.0,
+        "gpt": 1.0
+      },
+      {
+        "value": "xlsx",
+        "doc_count": 1,
+        "claude": 0.0,
+        "docupipe_high": 0.9661016949152542,
+        "docupipe_standard": 0.9661016949152542,
+        "extend": 0.9661016949152542,
+        "gemini": 0.6610169491525423,
+        "gpt": 1.0
+      },
+      {
+        "value": "xml",
+        "doc_count": 2,
+        "claude": 1.0,
+        "docupipe_high": 1.0,
+        "docupipe_standard": 1.0,
+        "extend": 1.0,
+        "gemini": 1.0,
+        "gpt": 1.0
+      }
+    ],
+    "lang": [
+      {
+        "value": "ar",
+        "doc_count": 1,
+        "claude": 1.0,
+        "docupipe_high": 1.0,
+        "docupipe_standard": 0.9836065573770492,
+        "extend": 1.0,
+        "gemini": 0.9836065573770492,
+        "gpt": 1.0
+      },
+      {
+        "value": "de",
+        "doc_count": 2,
+        "claude": 0.5843527388847949,
+        "docupipe_high": 0.9312997951286137,
+        "docupipe_standard": 0.9782608695652174,
+        "extend": 0.8683124539425202,
+        "gemini": 0.9869565217391305,
+        "gpt": 0.9869565217391305
+      },
+      {
+        "value": "en",
+        "doc_count": 33,
+        "claude": 0.9294437665834829,
+        "docupipe_high": 0.9831993914125009,
+        "docupipe_standard": 0.9640680794967392,
+        "extend": 0.9546162276667626,
+        "gemini": 0.9702680014421176,
+        "gpt": 0.9450950296947482
+      },
+      {
+        "value": "es",
+        "doc_count": 1,
+        "claude": 1.0,
+        "docupipe_high": 1.0,
+        "docupipe_standard": 1.0,
+        "extend": 1.0,
+        "gemini": 1.0,
+        "gpt": 1.0
+      },
+      {
+        "value": "fr",
+        "doc_count": 1,
+        "claude": 0.8418367346938775,
+        "docupipe_high": 1.0,
+        "docupipe_standard": 0.9551374819102749,
+        "extend": 0.8418367346938775,
+        "gemini": 0.9464544138929087,
+        "gpt": 1.0
+      },
+      {
+        "value": "he",
+        "doc_count": 6,
+        "claude": 0.7894212784939735,
+        "docupipe_high": 0.8944922852065669,
+        "docupipe_standard": 0.8906098435684645,
+        "extend": 0.7406377439368789,
+        "gemini": 0.8635959646785611,
+        "gpt": 0.837946193788312
+      },
+      {
+        "value": "it",
+        "doc_count": 1,
+        "claude": 1.0,
+        "docupipe_high": 0.9735054347826086,
+        "docupipe_standard": 0.9735054347826086,
+        "extend": 0.9429347826086957,
+        "gemini": 0.951766304347826,
+        "gpt": 0.9646739130434783
+      },
+      {
+        "value": "ja",
+        "doc_count": 2,
+        "claude": 0.8843316584218528,
+        "docupipe_high": 0.9867357076525486,
+        "docupipe_standard": 0.992005076142132,
+        "extend": 0.9035918797392992,
+        "gemini": 0.9393692203069186,
+        "gpt": 0.9368311492409289
+      },
+      {
+        "value": "nl",
+        "doc_count": 1,
+        "claude": 1.0,
+        "docupipe_high": 1.0,
+        "docupipe_standard": 1.0,
+        "extend": 0.9863013698630136,
+        "gemini": 1.0,
+        "gpt": 0.7671232876712328
+      },
+      {
+        "value": "pt",
+        "doc_count": 1,
+        "claude": 0.975609756097561,
+        "docupipe_high": 1.0,
+        "docupipe_standard": 0.9879518072289156,
+        "extend": 1.0,
+        "gemini": 0.963855421686747,
+        "gpt": 0.975609756097561
+      },
+      {
+        "value": "zh",
+        "doc_count": 1,
+        "claude": 1.0,
+        "docupipe_high": 1.0,
+        "docupipe_standard": 1.0,
+        "extend": 1.0,
+        "gemini": 1.0,
+        "gpt": 1.0
+      }
+    ]
+  },
   "per_doc": [
     {
       "doc_id": "1ZVqiyJZ",
-      "DocuPipe high": 1.0,
-      "DocuPipe standard": 1.0,
-      "extend": 1.0
+      "claude": 1.0,
+      "docupipe_high": 1.0,
+      "docupipe_standard": 1.0,
+      "extend": 1.0,
+      "gemini": 1.0,
+      "gpt": 1.0
     },
     {
       "doc_id": "45xidifn",
-      "DocuPipe high": 0.9894612630208334,
-      "DocuPipe standard": 1.0,
-      "extend": 0.9000771604938274
+      "claude": 0.8029272762345684,
+      "docupipe_high": 0.9894612630208334,
+      "docupipe_standard": 1.0,
+      "extend": 0.9000771604938274,
+      "gemini": 0.9028501157407409,
+      "gpt": 0.9028501157407409
     },
     {
       "doc_id": "4kVtTRoL",
-      "DocuPipe high": 0.9976190476190476,
-      "DocuPipe standard": 0.8108108108108109,
-      "extend": 1.0
+      "claude": 0.9214285714285714,
+      "docupipe_high": 0.9976190476190476,
+      "docupipe_standard": 0.8108108108108109,
+      "extend": 1.0,
+      "gemini": 0.919047619047619,
+      "gpt": 0.8666666666666667
     },
     {
       "doc_id": "5YJaBbNg",
-      "DocuPipe high": 1.0,
-      "DocuPipe standard": 0.9879518072289156,
-      "extend": 1.0
+      "claude": 0.975609756097561,
+      "docupipe_high": 1.0,
+      "docupipe_standard": 0.9879518072289156,
+      "extend": 1.0,
+      "gemini": 0.963855421686747,
+      "gpt": 0.975609756097561
     },
     {
       "doc_id": "5ukZftw0",
-      "DocuPipe high": 0.9661016949152542,
-      "DocuPipe standard": 0.9661016949152542,
-      "extend": 0.9661016949152542
+      "claude": 0.0,
+      "docupipe_high": 0.9661016949152542,
+      "docupipe_standard": 0.9661016949152542,
+      "extend": 0.9661016949152542,
+      "gemini": 0.6610169491525423,
+      "gpt": 1.0
     },
     {
       "doc_id": "62PhJTyf",
-      "DocuPipe high": 1.0,
-      "DocuPipe standard": 1.0,
-      "extend": 0.9863013698630136
+      "claude": 1.0,
+      "docupipe_high": 1.0,
+      "docupipe_standard": 1.0,
+      "extend": 0.9863013698630136,
+      "gemini": 1.0,
+      "gpt": 0.7671232876712328
     },
     {
       "doc_id": "7ZhgzAzp",
-      "DocuPipe high": 1.0,
-      "DocuPipe standard": 0.8095238095238095,
-      "extend": 0.9047619047619048
+      "claude": 1.0,
+      "docupipe_high": 1.0,
+      "docupipe_standard": 0.8095238095238095,
+      "extend": 0.9047619047619048,
+      "gemini": 0.95,
+      "gpt": 0.9523809523809523
     },
     {
       "doc_id": "97uZroyv",
-      "DocuPipe high": 1.0,
-      "DocuPipe standard": 1.0,
-      "extend": 1.0
+      "claude": 0.9620853080568721,
+      "docupipe_high": 1.0,
+      "docupipe_standard": 1.0,
+      "extend": 1.0,
+      "gemini": 1.0,
+      "gpt": 0.9620853080568721
     },
     {
       "doc_id": "B0nA2c30",
-      "DocuPipe high": 1.0,
-      "DocuPipe standard": 1.0,
-      "extend": 1.0
+      "claude": 0.9655748663101604,
+      "docupipe_high": 1.0,
+      "docupipe_standard": 1.0,
+      "extend": 1.0,
+      "gemini": 0.9769385026737968,
+      "gpt": 0.7634692513368985
     },
     {
       "doc_id": "BnftpXVQ",
-      "DocuPipe high": 1.0,
-      "DocuPipe standard": 1.0,
-      "extend": 1.0
+      "claude": 1.0,
+      "docupipe_high": 1.0,
+      "docupipe_standard": 1.0,
+      "extend": 1.0,
+      "gemini": 1.0,
+      "gpt": 1.0
     },
     {
       "doc_id": "C7fe2lau",
-      "DocuPipe high": 1.0,
-      "DocuPipe standard": 1.0,
-      "extend": 1.0
+      "claude": 1.0,
+      "docupipe_high": 1.0,
+      "docupipe_standard": 1.0,
+      "extend": 1.0,
+      "gemini": 1.0,
+      "gpt": 1.0
     },
     {
       "doc_id": "DtfW60lS",
-      "DocuPipe high": 1.0,
-      "DocuPipe standard": 1.0,
-      "extend": 1.0
+      "claude": 1.0,
+      "docupipe_high": 1.0,
+      "docupipe_standard": 1.0,
+      "extend": 1.0,
+      "gemini": 1.0,
+      "gpt": 1.0
     },
     {
       "doc_id": "ENoM9faK",
-      "DocuPipe high": 0.7652307692307692,
-      "DocuPipe standard": 0.804,
-      "extend": 0.816923076923077
+      "claude": 0.8635820895522388,
+      "docupipe_high": 0.7652307692307692,
+      "docupipe_standard": 0.804,
+      "extend": 0.816923076923077,
+      "gemini": 1.0,
+      "gpt": 0.8447761194029851
     },
     {
       "doc_id": "Eet2wW3x",
-      "DocuPipe high": 1.0,
-      "DocuPipe standard": 0.9836065573770492,
-      "extend": 1.0
+      "claude": 1.0,
+      "docupipe_high": 1.0,
+      "docupipe_standard": 0.9836065573770492,
+      "extend": 1.0,
+      "gemini": 0.9836065573770492,
+      "gpt": 1.0
     },
     {
       "doc_id": "FiFgt4a6",
-      "DocuPipe high": 1.0,
-      "DocuPipe standard": 0.8571428571428571,
-      "extend": 0.9
+      "claude": 0.8571428571428571,
+      "docupipe_high": 1.0,
+      "docupipe_standard": 0.8571428571428571,
+      "extend": 0.9,
+      "gemini": 1.0,
+      "gpt": 1.0
     },
     {
       "doc_id": "GW7i2xbM",
-      "DocuPipe high": 1.0,
-      "DocuPipe standard": 1.0,
-      "extend": 0.9117647058823529
+      "claude": 0.9354838709677419,
+      "docupipe_high": 1.0,
+      "docupipe_standard": 1.0,
+      "extend": 0.9117647058823529,
+      "gemini": 0.9354838709677419,
+      "gpt": 0.9354838709677419
     },
     {
       "doc_id": "IPm0MkgQ",
-      "DocuPipe high": 1.0,
-      "DocuPipe standard": 1.0,
-      "extend": 1.0
+      "claude": 1.0,
+      "docupipe_high": 1.0,
+      "docupipe_standard": 1.0,
+      "extend": 1.0,
+      "gemini": 1.0,
+      "gpt": 1.0
     },
     {
       "doc_id": "J6buHXQ4",
-      "DocuPipe high": 0.9546126471393375,
-      "DocuPipe standard": 0.951444018614837,
-      "extend": 0.7515779316608014
+      "claude": 0.929443359375,
+      "docupipe_high": 0.9546126471393375,
+      "docupipe_standard": 0.951444018614837,
+      "extend": 0.7515779316608014,
+      "gemini": 0.9029755507791509,
+      "gpt": 0.9250718578521033
     },
     {
       "doc_id": "KpewWz3R",
-      "DocuPipe high": 0.9861818181818183,
-      "DocuPipe standard": 0.9620000000000001,
-      "extend": 0.9493333333333331
+      "claude": 0.9620000000000001,
+      "docupipe_high": 0.9861818181818183,
+      "docupipe_standard": 0.9620000000000001,
+      "extend": 0.9493333333333331,
+      "gemini": 0.9620000000000001,
+      "gpt": 0.8853333333333334
     },
     {
       "doc_id": "LYeb3G3s",
-      "DocuPipe high": 1.0,
-      "DocuPipe standard": 1.0,
-      "extend": 1.0
+      "claude": 0.9807692307692307,
+      "docupipe_high": 1.0,
+      "docupipe_standard": 1.0,
+      "extend": 1.0,
+      "gemini": 1.0,
+      "gpt": 0.9807692307692307
     },
     {
       "doc_id": "M66HZlWT",
-      "DocuPipe high": 1.0,
-      "DocuPipe standard": 1.0,
-      "extend": 1.0
+      "claude": 1.0,
+      "docupipe_high": 1.0,
+      "docupipe_standard": 1.0,
+      "extend": 1.0,
+      "gemini": 1.0,
+      "gpt": 1.0
     },
     {
       "doc_id": "NNaGgwE5",
-      "DocuPipe high": 1.0,
-      "DocuPipe standard": 0.9778491171749598,
-      "extend": 0.9887640449438202
+      "claude": 0.9775280898876404,
+      "docupipe_high": 1.0,
+      "docupipe_standard": 0.9778491171749598,
+      "extend": 0.9887640449438202,
+      "gemini": 0.9887640449438202,
+      "gpt": 0.7857142857142856
     },
     {
       "doc_id": "NlWTPen5",
-      "DocuPipe high": 1.0,
-      "DocuPipe standard": 1.0,
-      "extend": 1.0
+      "claude": 1.0,
+      "docupipe_high": 1.0,
+      "docupipe_standard": 1.0,
+      "extend": 1.0,
+      "gemini": 1.0,
+      "gpt": 1.0
     },
     {
       "doc_id": "OayFbGlG",
-      "DocuPipe high": 1.0,
-      "DocuPipe standard": 0.9444444444444444,
-      "extend": 1.0
+      "claude": 1.0,
+      "docupipe_high": 1.0,
+      "docupipe_standard": 0.9444444444444444,
+      "extend": 1.0,
+      "gemini": 1.0,
+      "gpt": 1.0
     },
     {
       "doc_id": "Oe7iRM1G",
-      "DocuPipe high": 1.0,
-      "DocuPipe standard": 0.9551374819102749,
-      "extend": 0.8418367346938775
+      "claude": 0.8418367346938775,
+      "docupipe_high": 1.0,
+      "docupipe_standard": 0.9551374819102749,
+      "extend": 0.8418367346938775,
+      "gemini": 0.9464544138929087,
+      "gpt": 1.0
     },
     {
       "doc_id": "PSU5pciM",
-      "DocuPipe high": 1.0,
-      "DocuPipe standard": 1.0,
-      "extend": 1.0
+      "claude": 1.0,
+      "docupipe_high": 1.0,
+      "docupipe_standard": 1.0,
+      "extend": 1.0,
+      "gemini": 1.0,
+      "gpt": 1.0
     },
     {
       "doc_id": "PYhFptk3",
-      "DocuPipe high": 1.0,
-      "DocuPipe standard": 1.0,
-      "extend": 1.0
+      "claude": 1.0,
+      "docupipe_high": 1.0,
+      "docupipe_standard": 1.0,
+      "extend": 1.0,
+      "gemini": 1.0,
+      "gpt": 1.0
     },
     {
       "doc_id": "QxoQ6zgn",
-      "DocuPipe high": 1.0,
-      "DocuPipe standard": 1.0,
-      "extend": 1.0
+      "claude": 1.0,
+      "docupipe_high": 1.0,
+      "docupipe_standard": 1.0,
+      "extend": 1.0,
+      "gemini": 1.0,
+      "gpt": 1.0
     },
     {
       "doc_id": "SBR9L7Y8",
-      "DocuPipe high": 1.0,
-      "DocuPipe standard": 1.0,
-      "extend": 0.4482758620689655
+      "claude": 0.4482758620689655,
+      "docupipe_high": 1.0,
+      "docupipe_standard": 1.0,
+      "extend": 0.4482758620689655,
+      "gemini": 0.9310344827586207,
+      "gpt": 0.8620689655172413
     },
     {
       "doc_id": "SkD8Lz8o",
-      "DocuPipe high": 1.0,
-      "DocuPipe standard": 1.0,
-      "extend": 0.9285714285714286
+      "claude": 1.0,
+      "docupipe_high": 1.0,
+      "docupipe_standard": 1.0,
+      "extend": 0.9285714285714286,
+      "gemini": 1.0,
+      "gpt": 0.8857142857142857
     },
     {
       "doc_id": "UnG6cLfP",
-      "DocuPipe high": 1.0,
-      "DocuPipe standard": 1.0,
-      "extend": 0.9131313131313131
+      "claude": 1.0,
+      "docupipe_high": 1.0,
+      "docupipe_standard": 1.0,
+      "extend": 0.9131313131313131,
+      "gemini": 0.9393939393939394,
+      "gpt": 0.9696969696969697
     },
     {
       "doc_id": "WnxX1Buq",
-      "DocuPipe high": 1.0,
-      "DocuPipe standard": 1.0,
-      "extend": 0.8484848484848485
+      "claude": 1.0,
+      "docupipe_high": 1.0,
+      "docupipe_standard": 1.0,
+      "extend": 0.8484848484848485,
+      "gemini": 1.0,
+      "gpt": 0.975
     },
     {
       "doc_id": "WxP8Tqgf",
-      "DocuPipe high": 0.9735054347826086,
-      "DocuPipe standard": 0.9735054347826086,
-      "extend": 0.9429347826086957
+      "claude": 1.0,
+      "docupipe_high": 0.9735054347826086,
+      "docupipe_standard": 0.9735054347826086,
+      "extend": 0.9429347826086957,
+      "gemini": 0.951766304347826,
+      "gpt": 0.9646739130434783
     },
     {
       "doc_id": "XhJyv5mb",
-      "DocuPipe high": 0.9652173913043478,
-      "DocuPipe standard": 0.9565217391304348,
-      "extend": 0.9739130434782609
+      "claude": 0.991304347826087,
+      "docupipe_high": 0.9652173913043478,
+      "docupipe_standard": 0.9565217391304348,
+      "extend": 0.9739130434782609,
+      "gemini": 0.9739130434782609,
+      "gpt": 0.9739130434782609
     },
     {
       "doc_id": "ZN6HbuKp",
-      "DocuPipe high": 1.0,
-      "DocuPipe standard": 0.9857142857142858,
-      "extend": 0.8205128205128205
+      "claude": 0.9,
+      "docupipe_high": 1.0,
+      "docupipe_standard": 0.9857142857142858,
+      "extend": 0.8205128205128205,
+      "gemini": 1.0,
+      "gpt": 0.9857142857142858
     },
     {
       "doc_id": "ZXlksSpk",
-      "DocuPipe high": 1.0,
-      "DocuPipe standard": 1.0,
-      "extend": 1.0
+      "claude": 1.0,
+      "docupipe_high": 1.0,
+      "docupipe_standard": 1.0,
+      "extend": 1.0,
+      "gemini": 1.0,
+      "gpt": 1.0
     },
     {
       "doc_id": "bjBNmyNw",
-      "DocuPipe high": 0.9523809523809523,
-      "DocuPipe standard": 0.9523809523809523,
-      "extend": 0.9761904761904762
+      "claude": 1.0,
+      "docupipe_high": 0.9523809523809523,
+      "docupipe_standard": 0.9523809523809523,
+      "extend": 0.9761904761904762,
+      "gemini": 1.0,
+      "gpt": 0.6428571428571429
     },
     {
       "doc_id": "eKzY7gEA",
-      "DocuPipe high": 1.0,
-      "DocuPipe standard": 1.0,
-      "extend": 1.0
+      "claude": 1.0,
+      "docupipe_high": 1.0,
+      "docupipe_standard": 1.0,
+      "extend": 1.0,
+      "gemini": 1.0,
+      "gpt": 1.0
     },
     {
       "doc_id": "iTruRDrG",
-      "DocuPipe high": 0.8,
-      "DocuPipe standard": 0.8,
-      "extend": 0.7090909090909091
+      "claude": 0.6285714285714286,
+      "docupipe_high": 0.8,
+      "docupipe_standard": 0.8,
+      "extend": 0.7090909090909091,
+      "gemini": 1.0,
+      "gpt": 0.9818181818181818
     },
     {
       "doc_id": "jlKc8eVi",
-      "DocuPipe high": 0.9840101522842638,
-      "DocuPipe standard": 0.9840101522842638,
-      "extend": 0.9071065989847712
+      "claude": 0.9657360406091371,
+      "docupipe_high": 0.9840101522842638,
+      "docupipe_standard": 0.9840101522842638,
+      "extend": 0.9071065989847712,
+      "gemini": 0.9758883248730964,
+      "gpt": 0.9708121827411168
     },
     {
       "doc_id": "nESapyAA",
-      "DocuPipe high": 0.9545454545454546,
-      "DocuPipe standard": 0.9545454545454546,
-      "extend": 1.0
+      "claude": 0.9090909090909091,
+      "docupipe_high": 0.9545454545454546,
+      "docupipe_standard": 0.9545454545454546,
+      "extend": 1.0,
+      "gemini": 0.9090909090909091,
+      "gpt": 0.9090909090909091
     },
     {
       "doc_id": "phovuuuk",
-      "DocuPipe high": 1.0,
-      "DocuPipe standard": 1.0,
-      "extend": 1.0
+      "claude": 1.0,
+      "docupipe_high": 1.0,
+      "docupipe_standard": 1.0,
+      "extend": 1.0,
+      "gemini": 0.9615384615384616,
+      "gpt": 1.0
     },
     {
       "doc_id": "pw8elPW9",
-      "DocuPipe high": 1.0,
-      "DocuPipe standard": 1.0,
-      "extend": 0.8333333333333334
+      "claude": 1.0,
+      "docupipe_high": 1.0,
+      "docupipe_standard": 1.0,
+      "extend": 0.8333333333333334,
+      "gemini": 0.9629629629629629,
+      "gpt": 0.8333333333333334
     },
     {
       "doc_id": "qQUPWQNA",
-      "DocuPipe high": 0.7633511651101644,
-      "DocuPipe standard": 0.7814195882504955,
-      "extend": 0.7142107651296017
+      "claude": 0.7997175404289664,
+      "docupipe_high": 0.7633511651101644,
+      "docupipe_standard": 0.7814195882504955,
+      "extend": 0.7142107651296017,
+      "gemini": 0.7347711417389827,
+      "gpt": 0.7481120969362851
     },
     {
       "doc_id": "qoSTXgNE",
-      "DocuPipe high": 0.6944444444444444,
-      "DocuPipe standard": 0.65625,
-      "extend": 0.6964285714285714
+      "claude": 0.65,
+      "docupipe_high": 0.6944444444444444,
+      "docupipe_standard": 0.65625,
+      "extend": 0.6964285714285714,
+      "gemini": 0.7407407407407407,
+      "gpt": 0.75
     },
     {
       "doc_id": "tLFa76nQ",
-      "DocuPipe high": 0.9780656342846852,
-      "DocuPipe standard": 0.9442786512850209,
-      "extend": 0.8917664535878276
+      "claude": 0.729008733231296,
+      "docupipe_high": 0.9780656342846852,
+      "docupipe_standard": 0.9442786512850209,
+      "extend": 0.8917664535878276,
+      "gemini": 0.7477221571981637,
+      "gpt": 0.7933833682241328
     },
     {
       "doc_id": "vBIz5dut",
-      "DocuPipe high": 1.0,
-      "DocuPipe standard": 1.0,
-      "extend": 0.9769385026737968
+      "claude": 0.9884692513368983,
+      "docupipe_high": 1.0,
+      "docupipe_standard": 1.0,
+      "extend": 0.9769385026737968,
+      "gemini": 0.9769385026737968,
+      "gpt": 0.9772727272727273
     },
     {
       "doc_id": "wVafMvAC",
-      "DocuPipe high": 0.8973821989528795,
-      "DocuPipe standard": 1.0,
-      "extend": 0.7627118644067796
+      "claude": 0.17740112994350282,
+      "docupipe_high": 0.8973821989528795,
+      "docupipe_standard": 1.0,
+      "extend": 0.7627118644067796,
+      "gemini": 1.0,
+      "gpt": 1.0
     },
     {
       "doc_id": "yTRFKVPx",
-      "DocuPipe high": 1.0,
-      "DocuPipe standard": 1.0,
-      "extend": 1.0
+      "claude": 1.0,
+      "docupipe_high": 1.0,
+      "docupipe_standard": 1.0,
+      "extend": 1.0,
+      "gemini": 1.0,
+      "gpt": 1.0
     },
     {
       "doc_id": "zKibU88u",
-      "DocuPipe high": 1.0,
-      "DocuPipe standard": 1.0,
-      "extend": 1.0
+      "claude": 1.0,
+      "docupipe_high": 1.0,
+      "docupipe_standard": 1.0,
+      "extend": 1.0,
+      "gemini": 1.0,
+      "gpt": 1.0
     }
-  ],
-  "aggregate": {
-    "DocuPipe high": 0.9724422013639371,
-    "DocuPipe standard": 0.9599727771503344,
-    "extend": 0.9252208706230731
-  }
+  ]
 }

@@ -1,0 +1,47 @@
+{
+  "status": "ok",
+  "cost": null,
+  "time_sec": 13.062262058258057,
+  "data": {
+    "issuingCarrier": "ETHIOPIAN AIRLINES",
+    "awbNumber": "071 DXB 1276 0786",
+    "shipperName": "INTERNATIONAL FEDERATION OF RED CROSS AND RED CRESCENT LOGISTICS FLEET BASE UAE",
+    "shipperAddress": "P.O.BOX 261131, JEBEL ALI FREE ZONE, DUBAI,U.A.E. TEL:+971 4 8833887 AE",
+    "consigneeName": "THE SECRETARY GENERAL ETHIOPIA RED CROSS SOCIETY",
+    "consigneeAddress": "RAS DESTA DAMTEW AVENUE , P.O.BOX 195, ADDIS ABABA - ETHIOPIA, TEL: 251 11 551 91 44 / FAX 251 11 551 26 43",
+    "issuingAgentName": "HAWK FREIGHT SERVICES FZE",
+    "agentCity": "DUBAI",
+    "agentReference": "DXB/UE21878",
+    "airportOfDeparture": null,
+    "airportOfDestination": "ADDIS ABABA",
+    "currency": "AED",
+    "pieces": 60,
+    "grossWeightKg": 2520,
+    "chargeableWeightKg": 2520,
+    "rateClass": "Q",
+    "goodsDescription": "MOSQUITO NETS 60 @ 30 X 22 X 12 CMS",
+    "declaredValueForCarriage": "NVD",
+    "declaredValueForCustoms": "NCV",
+    "executedDate": "2006-05-27",
+    "executedAtPlace": "DUBAI"
+  },
+  "meta": {
+    "provider": "openai",
+    "model": "gpt-5.5",
+    "doc_id": "FiFgt4a6",
+    "file_id": "file-SxGeAG8bFBZA6uk4mUnkdz",
+    "response_id": "resp_003245d022429b0a016a3e950c01d4819d9a78c63ef72207c1",
+    "usage": {
+      "input_tokens": 2392,
+      "input_tokens_details": {
+        "cached_tokens": 0
+      },
+      "output_tokens": 833,
+      "output_tokens_details": {
+        "reasoning_tokens": 516
+      },
+      "total_tokens": 3225
+    },
+    "schema_mode": "openai_strict_nullable_v1"
+  }
+}

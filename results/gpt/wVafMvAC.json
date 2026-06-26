@@ -1,0 +1,115 @@
+{
+  "status": "ok",
+  "cost": null,
+  "time_sec": 52.33342909812927,
+  "data": {
+    "fileReference": "8430713-15",
+    "investmentAmount": 52,
+    "savingsAllowance": 15.6,
+    "deductionRows": [
+      {
+        "accountingMonth": "05",
+        "incomeTax": 329.4,
+        "healthInsurance": 116.82,
+        "pensionInsurance": 175.23,
+        "unemploymentInsurance": 29.21
+      },
+      {
+        "accountingMonth": "05",
+        "incomeTax": -9.3,
+        "healthInsurance": -1.56,
+        "pensionInsurance": -2.34,
+        "unemploymentInsurance": -0.39
+      },
+      {
+        "accountingMonth": "06",
+        "incomeTax": 329.4,
+        "healthInsurance": 116.82,
+        "pensionInsurance": 175.23,
+        "unemploymentInsurance": 29.21
+      },
+      {
+        "accountingMonth": "06",
+        "incomeTax": -9.3,
+        "healthInsurance": -1.56,
+        "pensionInsurance": -2.34,
+        "unemploymentInsurance": -0.39
+      },
+      {
+        "accountingMonth": "07",
+        "incomeTax": 358.7,
+        "healthInsurance": 122.04,
+        "pensionInsurance": 183.06,
+        "unemploymentInsurance": 30.51
+      },
+      {
+        "accountingMonth": "07",
+        "incomeTax": -8.7,
+        "healthInsurance": -1.56,
+        "pensionInsurance": -2.34,
+        "unemploymentInsurance": -0.39
+      },
+      {
+        "accountingMonth": "08",
+        "incomeTax": 350,
+        "healthInsurance": 120.48,
+        "pensionInsurance": 180.72,
+        "unemploymentInsurance": 30.12
+      },
+      {
+        "accountingMonth": "09",
+        "incomeTax": 350,
+        "healthInsurance": 120.48,
+        "pensionInsurance": 180.72,
+        "unemploymentInsurance": 30.12
+      },
+      {
+        "accountingMonth": "10",
+        "incomeTax": 350,
+        "healthInsurance": 120.48,
+        "pensionInsurance": 180.72,
+        "unemploymentInsurance": 30.12
+      },
+      {
+        "accountingMonth": "11",
+        "incomeTax": 350,
+        "healthInsurance": 139.5,
+        "pensionInsurance": 279,
+        "unemploymentInsurance": 46.5
+      },
+      {
+        "accountingMonth": null,
+        "incomeTax": 390,
+        "healthInsurance": null,
+        "pensionInsurance": null,
+        "unemploymentInsurance": null
+      },
+      {
+        "accountingMonth": "12",
+        "incomeTax": 315.9,
+        "healthInsurance": 120.48,
+        "pensionInsurance": 180.72,
+        "unemploymentInsurance": 30.12
+      }
+    ]
+  },
+  "meta": {
+    "provider": "openai",
+    "model": "gpt-5.5",
+    "doc_id": "wVafMvAC",
+    "file_id": null,
+    "response_id": "resp_0b1b11fd0afaaad5016a3e98a1e0048192a73cec1bc4edf9bc",
+    "usage": {
+      "input_tokens": 12231,
+      "input_tokens_details": {
+        "cached_tokens": 0
+      },
+      "output_tokens": 3514,
+      "output_tokens_details": {
+        "reasoning_tokens": 3042
+      },
+      "total_tokens": 15745
+    },
+    "schema_mode": "openai_strict_nullable_v1"
+  }
+}

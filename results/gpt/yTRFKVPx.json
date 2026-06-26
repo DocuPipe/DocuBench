@@ -1,0 +1,122 @@
+{
+  "status": "ok",
+  "cost": null,
+  "time_sec": 17.148433923721313,
+  "data": {
+    "invoiceNumber": "10001",
+    "materials": [
+      {
+        "description": "Marking of foundation layout at site",
+        "quantity": 5,
+        "rate": 200,
+        "total": 1000
+      },
+      {
+        "description": "Earth excavation up to the required depth by machine",
+        "quantity": 4,
+        "rate": 150,
+        "total": 600
+      },
+      {
+        "description": "Earth excavation and levelling of soil by hand-operated tools",
+        "quantity": 2,
+        "rate": 125,
+        "total": 250
+      },
+      {
+        "description": "Placing of PCC",
+        "quantity": 15,
+        "rate": 78,
+        "total": 1170
+      },
+      {
+        "description": "Placement of reinforcement steel",
+        "quantity": 30,
+        "rate": 165,
+        "total": 4950
+      },
+      {
+        "description": "Erection of concrete formworks for footings",
+        "quantity": 34,
+        "rate": 230,
+        "total": 7820
+      }
+    ],
+    "labor": [
+      {
+        "description": "Marking of foundation layout at site",
+        "hours": 30,
+        "rate": 60,
+        "amount": 1800
+      },
+      {
+        "description": "Earth excavation up to the required depth by machine",
+        "hours": 23,
+        "rate": 60,
+        "amount": 1380
+      },
+      {
+        "description": "Earth excavation and levelling of soil by hand-operated tools",
+        "hours": 19,
+        "rate": 60,
+        "amount": 1140
+      },
+      {
+        "description": "Placing of PCC",
+        "hours": 35,
+        "rate": 60,
+        "amount": 2100
+      },
+      {
+        "description": "Placement of reinforcement steel",
+        "hours": 76,
+        "rate": 60,
+        "amount": 4560
+      },
+      {
+        "description": "Erection of concrete formworks for footings",
+        "hours": 53,
+        "rate": 60,
+        "amount": 3180
+      }
+    ],
+    "miscellaneousCharges": [
+      {
+        "description": "Transportation of materials",
+        "amount": 430
+      },
+      {
+        "description": "Consultations with architect",
+        "amount": 760
+      }
+    ],
+    "totals": {
+      "totalMaterials": 15790,
+      "totalLabor": 14160,
+      "totalMiscellaneous": 1190,
+      "subtotal": 31140,
+      "taxRate": 3.8,
+      "totalTax": 1183.32,
+      "total": 32323.32
+    }
+  },
+  "meta": {
+    "provider": "openai",
+    "model": "gpt-5.5",
+    "doc_id": "yTRFKVPx",
+    "file_id": "file-5jG37yMMB5dchUYwmah5m9",
+    "response_id": "resp_0614cc484ebdcc49016a3e98d68ef4819289067b178df8a89f",
+    "usage": {
+      "input_tokens": 4409,
+      "input_tokens_details": {
+        "cached_tokens": 0
+      },
+      "output_tokens": 891,
+      "output_tokens_details": {
+        "reasoning_tokens": 505
+      },
+      "total_tokens": 5300
+    },
+    "schema_mode": "openai_strict_nullable_v1"
+  }
+}

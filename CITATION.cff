@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+title: "DocuBench"
+message: "If you use DocuBench, please cite this repository."
+type: dataset
+authors:
+  - name: "DocuBench maintainers"
+repository-code: "https://github.com/DocuPipe/docubench"
+abstract: "A public benchmark for schema-guided structured extraction from real-world documents."
+keywords:
+  - document extraction
+  - structured extraction
+  - benchmark
+  - JSON Schema
+license: MIT
+version: "0.1.0"
+date-released: "2026-06-26"

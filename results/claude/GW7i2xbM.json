@@ -1,0 +1,73 @@
+{
+  "status": "ok",
+  "cost": null,
+  "time_sec": 8.793818950653076,
+  "data": {
+    "insurerName": "SAFE ALL INSURANCE COMPANY",
+    "policyNumber": "FHO295000",
+    "policyForm": "HO-3",
+    "policyEffectiveDate": "3/28/20",
+    "policyExpirationDate": "3/28/2021",
+    "insuredName": "Estelle Clarion & James Delaney",
+    "insuredAddress": "596 Crossover Way, Clay, FL 17189-2021",
+    "totalAnnualPremium": 854.0,
+    "hurricanePremium": 297.0,
+    "nonHurricanePremium": 505.0,
+    "allOtherPerilsDeductible": 1000.0,
+    "hurricaneDeductiblePercentOfCoverageA": 2,
+    "hurricaneDeductibleAmount": 3200.0,
+    "coverages": [
+      {
+        "coverageLetter": "A",
+        "coverageName": "Dwelling",
+        "limitOfLiability": 160000
+      },
+      {
+        "coverageLetter": "B",
+        "coverageName": "Other Structures",
+        "limitOfLiability": 3200
+      },
+      {
+        "coverageLetter": "C",
+        "coverageName": "Personal Property",
+        "limitOfLiability": 104250
+      },
+      {
+        "coverageLetter": "D",
+        "coverageName": "Loss of Use",
+        "limitOfLiability": 20850
+      },
+      {
+        "coverageLetter": "E",
+        "coverageName": "Personal Liability",
+        "limitOfLiability": 100000
+      },
+      {
+        "coverageLetter": "F",
+        "coverageName": "Medical Payments",
+        "limitOfLiability": 1000
+      }
+    ]
+  },
+  "meta": {
+    "provider": "anthropic",
+    "model": "claude-sonnet-4-6",
+    "doc_id": "GW7i2xbM",
+    "response_id": "msg_01DXA15RRtxUWH9DKEgo6sbQ",
+    "usage": {
+      "input_tokens": 3027,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 491,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    },
+    "schema_mode": "anthropic_output_config_nullable_v1",
+    "input_mode": "pdf_document",
+    "schema_fallback": "prompt_json_schema"
+  }
+}

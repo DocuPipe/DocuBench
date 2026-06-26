@@ -1,0 +1,122 @@
+{
+  "status": "ok",
+  "cost": null,
+  "time_sec": 21.22811484336853,
+  "data": {
+    "datasetTotals": {
+      "totalProfit": 711316.5,
+      "totalUnitsSold": 43669,
+      "rowCount": 30
+    },
+    "governmentSegmentRows": [
+      {
+        "country": "Canada",
+        "product": "Carretera",
+        "quantitySold": 1618.5,
+        "grossMarginPct": 50,
+        "totalManufacturingCost": 4855.5,
+        "priceEffectiveDate": null
+      },
+      {
+        "country": "Germany",
+        "product": "Carretera",
+        "quantitySold": 1321,
+        "grossMarginPct": 50,
+        "totalManufacturingCost": 3963,
+        "priceEffectiveDate": null
+      },
+      {
+        "country": "Germany",
+        "product": "Carretera",
+        "quantitySold": 1513,
+        "grossMarginPct": 25.7,
+        "totalManufacturingCost": 4539,
+        "priceEffectiveDate": null
+      },
+      {
+        "country": "France",
+        "product": "Montana",
+        "quantitySold": 1899,
+        "grossMarginPct": 50,
+        "totalManufacturingCost": 9495,
+        "priceEffectiveDate": null
+      },
+      {
+        "country": "Germany",
+        "product": "Montana",
+        "quantitySold": 2146,
+        "grossMarginPct": 28.6,
+        "totalManufacturingCost": 10730,
+        "priceEffectiveDate": null
+      },
+      {
+        "country": "Canada",
+        "product": "Paseo",
+        "quantitySold": 292,
+        "grossMarginPct": 50,
+        "totalManufacturingCost": 2920,
+        "priceEffectiveDate": null
+      },
+      {
+        "country": "Germany",
+        "product": "Paseo",
+        "quantitySold": 1006,
+        "grossMarginPct": 25.7,
+        "totalManufacturingCost": 10060,
+        "priceEffectiveDate": null
+      },
+      {
+        "country": "Mexico",
+        "product": "Paseo",
+        "quantitySold": 883,
+        "grossMarginPct": 28.6,
+        "totalManufacturingCost": 8830,
+        "priceEffectiveDate": null
+      },
+      {
+        "country": "United States of America",
+        "product": "Paseo",
+        "quantitySold": 1143,
+        "grossMarginPct": 28.6,
+        "totalManufacturingCost": 11430,
+        "priceEffectiveDate": null
+      },
+      {
+        "country": "Canada",
+        "product": "Paseo",
+        "quantitySold": 1725,
+        "grossMarginPct": 25.7,
+        "totalManufacturingCost": 17250,
+        "priceEffectiveDate": null
+      },
+      {
+        "country": "Canada",
+        "product": "Paseo",
+        "quantitySold": 1817,
+        "grossMarginPct": 50,
+        "totalManufacturingCost": 18170,
+        "priceEffectiveDate": null
+      }
+    ],
+    "mostProfitableProduct": "Paseo"
+  },
+  "meta": {
+    "provider": "openai",
+    "model": "gpt-5.5",
+    "doc_id": "5ukZftw0",
+    "file_id": "file-2rPWjXEmhnGVfnBSWfeGbz",
+    "response_id": "resp_0f9750fff0d07af5016a3e940ce650819e942365d17caf985c",
+    "usage": {
+      "input_tokens": 2075,
+      "input_tokens_details": {
+        "cached_tokens": 0
+      },
+      "output_tokens": 1604,
+      "output_tokens_details": {
+        "reasoning_tokens": 1135
+      },
+      "total_tokens": 3679
+    },
+    "schema_mode": "openai_strict_nullable_v1"
+  }
+}

@@ -1,0 +1,83 @@
+{
+  "status": "ok",
+  "cost": null,
+  "time_sec": 12.684711217880249,
+  "data": {
+    "currency": "USD",
+    "recordCount": 200,
+    "sourceSystem": "commerce-cloud-v4",
+    "schemaVersion": "orders.v4",
+    "focusOrderDate": "2025-10-27",
+    "focusOrderChannel": "store",
+    "focusOrderStatus": "shipped",
+    "focusOrderBuyerName": "Devon Marsh",
+    "focusOrderBuyerTier": "silver",
+    "focusOrderBuyerRegion": "WEST",
+    "focusOrderShippingCarrier": "DHL",
+    "focusOrderPaymentMethod": "paypal",
+    "focusOrderLineItems": [
+      {
+        "sku": "SKU-SF-610",
+        "title": "Halden 3-Seat Sofa",
+        "category": "Seating",
+        "quantity": 4,
+        "unitPriceCents": 129900,
+        "discountCents": 1500
+      },
+      {
+        "sku": "SKU-SH-810",
+        "title": "Atlas Bookshelf",
+        "category": "Storage",
+        "quantity": 1,
+        "unitPriceCents": 33900,
+        "discountCents": 0
+      },
+      {
+        "sku": "SKU-SF-690",
+        "title": "Otis Loveseat",
+        "category": "Seating",
+        "quantity": 1,
+        "unitPriceCents": 89900,
+        "discountCents": 1000
+      },
+      {
+        "sku": "SKU-AP-205",
+        "title": "Nimbus Floor Lamp",
+        "category": "Lighting",
+        "quantity": 2,
+        "unitPriceCents": 15900,
+        "discountCents": 1500
+      },
+      {
+        "sku": "SKU-CH-340",
+        "title": "Marlow Lounge Chair",
+        "category": "Seating",
+        "quantity": 1,
+        "unitPriceCents": 38900,
+        "discountCents": 0
+      }
+    ],
+    "earlyOrderCarrier": "USPS",
+    "lateOrderPaymentMethod": "mastercard"
+  },
+  "meta": {
+    "provider": "google",
+    "model": "gemini-3.5-flash",
+    "doc_id": "zKibU88u",
+    "usage": {
+      "promptTokenCount": 82676,
+      "candidatesTokenCount": 554,
+      "totalTokenCount": 84783,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 82676
+        }
+      ],
+      "thoughtsTokenCount": 1553,
+      "serviceTier": "standard"
+    },
+    "schema_mode": "gemini_response_schema_nullable_v1",
+    "input_mode": "text"
+  }
+}

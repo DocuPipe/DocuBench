@@ -1,0 +1,82 @@
+{
+  "status": "ok",
+  "cost": null,
+  "time_sec": 78.54223704338074,
+  "data": {
+    "poNumber": "40418819",
+    "department": "6576",
+    "poType": "DO - Domestic Other",
+    "buyer": "2013 A. MARKWAY - PET/GOURMET/LUGG",
+    "orderDate": "2019-09-26",
+    "notBeforeDate": "2019-12-01",
+    "notAfterDate": "2019-12-14",
+    "terms": "0200/DUEONRC+10",
+    "shipTo": "050 NE - Omaha, Nebraska",
+    "fobPoint": "DESTINATION",
+    "lineItems": [
+      {
+        "vpn": "381218",
+        "style": "25651275",
+        "description": "MILK CHOCOLATE TABLET BAR NO COLOR NO",
+        "sku": "25651276",
+        "upc": "040000539551",
+        "packQty": null,
+        "content": 12,
+        "unitCost": 1.37,
+        "extendedCost": 1150.8
+      },
+      {
+        "vpn": "381367",
+        "style": "25651277",
+        "description": "PEANUT CHOCOLATE TABLET BAR NO COLOR NO",
+        "sku": "25651278",
+        "upc": "040000539568",
+        "packQty": null,
+        "content": 12,
+        "unitCost": 1.37,
+        "extendedCost": 1150.8
+      },
+      {
+        "vpn": "381411",
+        "style": "25651279",
+        "description": "ALMOND CHOCOLATE TABLET BAR NO COLOR NO",
+        "sku": "25651280",
+        "upc": "040000539575",
+        "packQty": null,
+        "content": 12,
+        "unitCost": 1.37,
+        "extendedCost": 1150.8
+      },
+      {
+        "vpn": "381347",
+        "style": "25651281",
+        "description": "CRISPY CHOCOLATE TABLET BAR NO COLOR NO",
+        "sku": "25651282",
+        "upc": "040000539582",
+        "packQty": null,
+        "content": 12,
+        "unitCost": 1.37,
+        "extendedCost": 1150.8
+      }
+    ]
+  },
+  "meta": {
+    "provider": "openai",
+    "model": "gpt-5.5",
+    "doc_id": "bjBNmyNw",
+    "file_id": "file-Xm2vNaYkbhreYf4nXSwbzZ",
+    "response_id": "resp_07fe5176c532acea016a3e96f2ea5c81a298b3fef64f0139ac",
+    "usage": {
+      "input_tokens": 1337,
+      "input_tokens_details": {
+        "cached_tokens": 0
+      },
+      "output_tokens": 4512,
+      "output_tokens_details": {
+        "reasoning_tokens": 4132
+      },
+      "total_tokens": 5849
+    },
+    "schema_mode": "openai_strict_nullable_v1"
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "status": "ok",
+  "cost": null,
+  "time_sec": 12.715267181396484,
+  "data": {
+    "numeroFactura": "21180613010076890",
+    "cups": "ES 0021 0000 0474 4848 NZ",
+    "periodoFacturacionStart": "2018-05-08",
+    "periodoFacturacionEnd": "2018-06-10",
+    "consumoKwh": 350,
+    "charges": [
+      {
+        "description": "ENERGÍA",
+        "amount": 66.02
+      },
+      {
+        "description": "SERVICIOS Y OTROS CONCEPTOS",
+        "amount": 0.88
+      },
+      {
+        "description": "IVA 21% s/66,9",
+        "amount": 14.05
+      }
+    ],
+    "baseImponible": 66.9,
+    "iva": 14.05,
+    "totalAPagar": 80.95
+  },
+  "meta": {
+    "provider": "anthropic",
+    "model": "claude-sonnet-4-6",
+    "doc_id": "DtfW60lS",
+    "response_id": "msg_018zRh2C7DDCjJEbUX77L8vq",
+    "usage": {
+      "input_tokens": 10472,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 152,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    },
+    "schema_mode": "anthropic_output_config_nullable_v1",
+    "input_mode": "pdf_document"
+  }
+}

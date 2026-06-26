@@ -1,0 +1,1 @@
+Extract the document into the supplied JSON schema. Use only information present in the document. Return null for fields that are not printed or cannot be determined. Preserve table rows as arrays and preserve the document language for values. Document id: {doc_id}.

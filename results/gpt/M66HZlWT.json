@@ -1,0 +1,45 @@
+{
+  "status": "ok",
+  "cost": null,
+  "time_sec": 9.29796814918518,
+  "data": {
+    "patientName": "游＊詠",
+    "medicalRecordNumber": "4226770",
+    "idNumber": "C22117****",
+    "date": "105/02/24",
+    "visitSequenceNumber": "0002",
+    "visitDate": "105/02/24",
+    "department": "27200產科",
+    "registrationFee": 100,
+    "basicCopay": 140,
+    "rehabCopay": 0,
+    "drugCopay": 0,
+    "selfPayTotal": 240,
+    "amountDue": 240,
+    "receiptAmount": 240,
+    "consultationPoints": 267,
+    "drugFeePoints": 31,
+    "treatmentPoints": 91,
+    "pharmacyServicePoints": 50,
+    "insuranceReportedTotalPoints": 439
+  },
+  "meta": {
+    "provider": "openai",
+    "model": "gpt-5.5",
+    "doc_id": "M66HZlWT",
+    "file_id": null,
+    "response_id": "resp_05715d664d581812016a3e957e293081a3a7aa0ef16c6e3541",
+    "usage": {
+      "input_tokens": 5135,
+      "input_tokens_details": {
+        "cached_tokens": 0
+      },
+      "output_tokens": 599,
+      "output_tokens_details": {
+        "reasoning_tokens": 454
+      },
+      "total_tokens": 5734
+    },
+    "schema_mode": "openai_strict_nullable_v1"
+  }
+}

@@ -1,0 +1,94 @@
+{
+  "status": "ok",
+  "cost": null,
+  "time_sec": 10.102350234985352,
+  "data": {
+    "interchangeControlNumber": "000001000",
+    "interchangeSenderId": "NOTP",
+    "interchangeReceiverId": "NOTP",
+    "groupControlNumber": "1000",
+    "functionalIdentifierCode": "PO",
+    "transactionSetControlNumber": "000000010",
+    "transactionSetCode": "850",
+    "purchaseOrderNumber": "08292243254",
+    "purchaseOrderTypeCode": "SA",
+    "purchaseOrderDate": "2001-05-01",
+    "requestedDeliveryDate": "2001-05-10",
+    "shipToName": "RETAIL STORE",
+    "shipToIdCode": "0001234567890",
+    "shipToStreet": "123 ANYWHERE AVENUE",
+    "shipToCity": "CITY",
+    "shipToState": "ST",
+    "shipToZip": "12345",
+    "lineItems": [
+      {
+        "lineNumber": 1,
+        "quantity": 120,
+        "unitOfMeasure": "EA",
+        "unitPrice": 9.25,
+        "buyerItemId": "(12) 0-083628-838",
+        "vendorItemId": "ABA18783"
+      },
+      {
+        "lineNumber": 2,
+        "quantity": 220,
+        "unitOfMeasure": "EA",
+        "unitPrice": 13.79,
+        "buyerItemId": "(69) 0-093837-991",
+        "vendorItemId": "RUP83112"
+      },
+      {
+        "lineNumber": 3,
+        "quantity": 126,
+        "unitOfMeasure": "EA",
+        "unitPrice": 10.99,
+        "buyerItemId": "(71) 0-099172-837",
+        "vendorItemId": "CPR19293"
+      },
+      {
+        "lineNumber": 4,
+        "quantity": 76,
+        "unitOfMeasure": "EA",
+        "unitPrice": 4.35,
+        "buyerItemId": "(71) 0-012110-737",
+        "vendorItemId": "PIW28173"
+      },
+      {
+        "lineNumber": 5,
+        "quantity": 72,
+        "unitOfMeasure": "EA",
+        "unitPrice": 7.5,
+        "buyerItemId": "(71) 0-084888-975",
+        "vendorItemId": "JBM19387"
+      },
+      {
+        "lineNumber": 6,
+        "quantity": 696,
+        "unitOfMeasure": "EA",
+        "unitPrice": 9.55,
+        "buyerItemId": "(71) 0-003922-121",
+        "vendorItemId": "IUI19283"
+      }
+    ],
+    "lineItemCount": 6
+  },
+  "meta": {
+    "provider": "openai",
+    "model": "gpt-5.5",
+    "doc_id": "PYhFptk3",
+    "file_id": "file-ULMdbawTrYjWAMJEq9KSJY",
+    "response_id": "resp_00227e28beea714f016a3e963904fc81a0a69beb73fb255007",
+    "usage": {
+      "input_tokens": 1141,
+      "input_tokens_details": {
+        "cached_tokens": 0
+      },
+      "output_tokens": 809,
+      "output_tokens_details": {
+        "reasoning_tokens": 363
+      },
+      "total_tokens": 1950
+    },
+    "schema_mode": "openai_strict_nullable_v1"
+  }
+}

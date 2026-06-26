@@ -1,0 +1,56 @@
+{
+  "status": "ok",
+  "cost": null,
+  "time_sec": 11.610625743865967,
+  "data": {
+    "documentType": "חשבונית מס / קבלה",
+    "documentNumber": "104880",
+    "issueDate": "04/05/2014",
+    "vendorName": "חשבונית ירוקה בע\"מ",
+    "vendorTaxId": "514756428",
+    "customerName": "אקו גורן",
+    "customerAddress": "דובנוב 20 א׳ תל אביב",
+    "customerTaxId": "043549229",
+    "subscriptionPlan": "מנוי Starter שנתי",
+    "subtotalBeforeVat": 204,
+    "vatRatePercent": 18,
+    "vatAmount": 36.72,
+    "totalAmount": 240.72,
+    "currency": "NIS",
+    "lineItems": [
+      {
+        "description": "מנוי Starter שנתי",
+        "quantity": 1,
+        "unitPrice": 204,
+        "lineTotal": 204
+      }
+    ],
+    "payments": [
+      {
+        "paymentMethod": "אשראי",
+        "paymentDescription": "כרטיס: מאסטרקארד ,8036 סוג עסקה: רגיל",
+        "paymentDate": "04/05/2014",
+        "paymentAmount": 240.72
+      }
+    ]
+  },
+  "meta": {
+    "provider": "openai",
+    "model": "gpt-5.5",
+    "doc_id": "nESapyAA",
+    "file_id": "file-KWWPPfnzJg4hfC7GtZHfah",
+    "response_id": "resp_0ab79194b0e11c86016a3e97757a8c819e92aa992ee15ab24b",
+    "usage": {
+      "input_tokens": 2357,
+      "input_tokens_details": {
+        "cached_tokens": 0
+      },
+      "output_tokens": 431,
+      "output_tokens_details": {
+        "reasoning_tokens": 220
+      },
+      "total_tokens": 2788
+    },
+    "schema_mode": "openai_strict_nullable_v1"
+  }
+}

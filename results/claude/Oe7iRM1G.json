@@ -1,0 +1,230 @@
+{
+  "status": "ok",
+  "cost": null,
+  "time_sec": 29.917553901672363,
+  "data": {
+    "employeeName": "Jecrute Aline",
+    "employerName": "Jeu d'Essai",
+    "payPeriodStart": "2017-10-01",
+    "payPeriodEnd": "2017-10-31",
+    "paymentDate": "2017-10-31",
+    "siret": "995002433 00010",
+    "totalBrut": 3450.0,
+    "totalEmployeeContributions": 800.57,
+    "totalEmployerContributions": 2076.21,
+    "netImposable": 2770.28,
+    "netAPayer": 2649.43,
+    "earnings": [
+      {
+        "designation": "Salaire mensuel",
+        "base": null,
+        "rate": null,
+        "amount": 3000.0
+      },
+      {
+        "designation": "Prime d'ancienneté",
+        "base": 3000.0,
+        "rate": 15.0,
+        "amount": 450.0
+      }
+    ],
+    "contributions": [
+      {
+        "designation": "Sécurité Sociale - Maladie Maternité Invalidité Décès",
+        "base": 3450.0,
+        "employeeRate": 0.75,
+        "employeeAmount": 25.88,
+        "employerRate": 12.89,
+        "employerAmount": 444.71
+      },
+      {
+        "designation": "Complémentaire Incapacité Invalidité Décès",
+        "base": 3269.0,
+        "employeeRate": null,
+        "employeeAmount": 0.0,
+        "employerRate": 1.5,
+        "employerAmount": 49.04
+      },
+      {
+        "designation": "Complémentaire Santé",
+        "base": 3269.0,
+        "employeeRate": 0.76,
+        "employeeAmount": 24.84,
+        "employerRate": 2.63,
+        "employerAmount": 85.98
+      },
+      {
+        "designation": "Complémentaire Santé (tranche 2)",
+        "base": 181.0,
+        "employeeRate": 0.5,
+        "employeeAmount": 0.91,
+        "employerRate": 1.3,
+        "employerAmount": 2.35
+      },
+      {
+        "designation": "ACCIDENTS DE TRAVAIL-MALADIES PROFESSIONNELLES",
+        "base": 3450.0,
+        "employeeRate": null,
+        "employeeAmount": 0.0,
+        "employerRate": 2.2,
+        "employerAmount": 75.9
+      },
+      {
+        "designation": "Sécurité Sociale plafonnée",
+        "base": 3269.0,
+        "employeeRate": 6.9,
+        "employeeAmount": 225.56,
+        "employerRate": 8.55,
+        "employerAmount": 279.5
+      },
+      {
+        "designation": "Sécurité Sociale déplafonnée",
+        "base": 3450.0,
+        "employeeRate": 0.4,
+        "employeeAmount": 13.8,
+        "employerRate": 1.9,
+        "employerAmount": 65.55
+      },
+      {
+        "designation": "Complémentaire Tranche A",
+        "base": 3269.0,
+        "employeeRate": 3.9,
+        "employeeAmount": 127.49,
+        "employerRate": 5.85,
+        "employerAmount": 191.24
+      },
+      {
+        "designation": "Complémentaire Garantie Minimale de Points",
+        "base": null,
+        "employeeRate": null,
+        "employeeAmount": 0.0,
+        "employerRate": null,
+        "employerAmount": 0.0
+      },
+      {
+        "designation": "Complémentaire Tranche B",
+        "base": 181.0,
+        "employeeRate": 8.7,
+        "employeeAmount": 15.75,
+        "employerRate": 14.05,
+        "employerAmount": 25.43
+      },
+      {
+        "designation": "Complémentaire Tranche C",
+        "base": null,
+        "employeeRate": null,
+        "employeeAmount": 0.0,
+        "employerRate": null,
+        "employerAmount": 0.0
+      },
+      {
+        "designation": "Complémentaire CET",
+        "base": 3450.0,
+        "employeeRate": 0.13,
+        "employeeAmount": 4.49,
+        "employerRate": 0.22,
+        "employerAmount": 7.59
+      },
+      {
+        "designation": "FAMILLE-SECURITE SOCIALE",
+        "base": 3450.0,
+        "employeeRate": null,
+        "employeeAmount": 0.0,
+        "employerRate": 3.45,
+        "employerAmount": 119.03
+      },
+      {
+        "designation": "Chômage",
+        "base": 3450.0,
+        "employeeRate": 2.4,
+        "employeeAmount": 82.8,
+        "employerRate": 4.2,
+        "employerAmount": 144.91
+      },
+      {
+        "designation": "APEC",
+        "base": 3450.0,
+        "employeeRate": 0.024,
+        "employeeAmount": 0.82,
+        "employerRate": 0.036,
+        "employerAmount": 1.25
+      },
+      {
+        "designation": "AUTRES CONTRIBUTIONS DUES PAR L'EMPLOYEUR",
+        "base": 3450.0,
+        "employeeRate": null,
+        "employeeAmount": 0.0,
+        "employerRate": 10.056,
+        "employerAmount": 346.95
+      },
+      {
+        "designation": "AUTRES CONTRIBUTIONS DUES PAR L'EMPLOYEUR (ligne 2)",
+        "base": 641.33,
+        "employeeRate": null,
+        "employeeAmount": 0.0,
+        "employerRate": 4.25,
+        "employerAmount": 27.26
+      },
+      {
+        "designation": "AUTRES CONTRIBUTIONS DUES PAR L'EMPLOYEUR (ligne 3)",
+        "base": 2165.25,
+        "employeeRate": null,
+        "employeeAmount": 0.0,
+        "employerRate": 9.35,
+        "employerAmount": 202.45
+      },
+      {
+        "designation": "AUTRES CONTRIBUTIONS DUES PAR L'EMPLOYEUR (ligne 4)",
+        "base": 88.33,
+        "employeeRate": null,
+        "employeeAmount": 0.0,
+        "employerRate": 8.0,
+        "employerAmount": 7.07
+      },
+      {
+        "designation": "CSG non imposable à l'impôt sur le revenu",
+        "base": 3477.96,
+        "employeeRate": 5.1,
+        "employeeAmount": 177.37,
+        "employerRate": null,
+        "employerAmount": 0.0
+      },
+      {
+        "designation": "CSG/CRDS imposable à l'impôt sur le revenu",
+        "base": 3477.96,
+        "employeeRate": 2.9,
+        "employeeAmount": 100.86,
+        "employerRate": null,
+        "employerAmount": 0.0
+      },
+      {
+        "designation": "ALLEGEMENT DES COTISATIONS",
+        "base": null,
+        "employeeRate": null,
+        "employeeAmount": 0.0,
+        "employerRate": null,
+        "employerAmount": 0.0
+      }
+    ]
+  },
+  "meta": {
+    "provider": "anthropic",
+    "model": "claude-sonnet-4-6",
+    "doc_id": "Oe7iRM1G",
+    "response_id": "msg_01RAhQHDKrHuC5KTjXUrM7pQ",
+    "usage": {
+      "input_tokens": 4673,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 1363,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    },
+    "schema_mode": "anthropic_output_config_nullable_v1",
+    "input_mode": "pdf_document"
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "status": "ok",
+  "cost": null,
+  "time_sec": 13.520704984664917,
+  "data": {
+    "accountNumber": "00001-00001",
+    "meterNumber": "300000000",
+    "serviceAddress": "123 SERVICE RD ALLENTOWN PA 18100",
+    "dueDate": "2024-06-19",
+    "billingPeriodStart": "2024-05-02",
+    "billingPeriodEnd": "2024-06-03",
+    "daysBilled": 32,
+    "totalAmountDue": 3133.19,
+    "totalSupplyCharges": 0.0,
+    "totalDeliveryCharges": 3133.19,
+    "totalKwhDelivered": 598800,
+    "peakDemandKw": 1095,
+    "charges": [
+      {
+        "amount": 169.8
+      },
+      {
+        "amount": 2788.97
+      },
+      {
+        "amount": -226.94
+      },
+      {
+        "amount": 70.0
+      },
+      {
+        "amount": 0.05
+      },
+      {
+        "amount": 9.13
+      },
+      {
+        "amount": 149.51
+      },
+      {
+        "amount": 179.2
+      },
+      {
+        "amount": -6.53
+      }
+    ]
+  },
+  "meta": {
+    "provider": "google",
+    "model": "gemini-3.5-flash",
+    "doc_id": "NlWTPen5",
+    "usage": {
+      "promptTokenCount": 1614,
+      "candidatesTokenCount": 363,
+      "totalTokenCount": 4337,
+      "promptTokensDetails": [
+        {
+          "modality": "IMAGE",
+          "tokenCount": 1560
+        },
+        {
+          "modality": "TEXT",
+          "tokenCount": 54
+        }
+      ],
+      "thoughtsTokenCount": 2360,
+      "serviceTier": "standard"
+    },
+    "schema_mode": "gemini_response_schema_nullable_v1",
+    "input_mode": "inline_data"
+  }
+}

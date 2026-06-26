@@ -1,0 +1,143 @@
+{
+  "status": "ok",
+  "cost": null,
+  "time_sec": 21.86282205581665,
+  "data": {
+    "drawingTitle": null,
+    "drawingNumber": null,
+    "revision": null,
+    "organization": "Goddard Space Flight Center",
+    "location": "Greenbelt, Maryland",
+    "listOfMaterial": [
+      {
+        "itemNo": "14",
+        "quantity": 4,
+        "partNo": "MS20500-428",
+        "description": "NUT, 1/4-28 UNF-3B",
+        "material": "CRES"
+      },
+      {
+        "itemNo": "13",
+        "quantity": 4,
+        "partNo": "MS20500-1214",
+        "description": "NUT, 3/4-16 UNF-3B",
+        "material": "CRES"
+      },
+      {
+        "itemNo": "12",
+        "quantity": 1,
+        "partNo": "MS20500-1018",
+        "description": "NUT, 5/8-18 UNF-3B",
+        "material": "CRES"
+      },
+      {
+        "itemNo": "11",
+        "quantity": 2,
+        "partNo": "MS35308-314",
+        "description": "SCREW, CAP, HEXAGON HD",
+        "material": "CRES"
+      },
+      {
+        "itemNo": "10",
+        "quantity": 1,
+        "partNo": "GC1416639-1",
+        "description": "SHIM",
+        "material": null
+      },
+      {
+        "itemNo": "9",
+        "quantity": 1,
+        "partNo": "GC1416635-1",
+        "description": "SPACER",
+        "material": null
+      },
+      {
+        "itemNo": "8",
+        "quantity": 1,
+        "partNo": "GC1416636",
+        "description": "SLEEVE",
+        "material": null
+      },
+      {
+        "itemNo": "7",
+        "quantity": 1,
+        "partNo": "GC1416637",
+        "description": "SEAT, UPPER",
+        "material": null
+      },
+      {
+        "itemNo": "6",
+        "quantity": 1,
+        "partNo": "GC1416638",
+        "description": "SEAT, LOWER",
+        "material": null
+      },
+      {
+        "itemNo": "5",
+        "quantity": 1,
+        "partNo": "GD1416679",
+        "description": "STEM, MOUNT C",
+        "material": null
+      },
+      {
+        "itemNo": "4",
+        "quantity": 2,
+        "partNo": "GC1416681",
+        "description": "SHAFT, BEARING",
+        "material": null
+      },
+      {
+        "itemNo": "3",
+        "quantity": 3,
+        "partNo": "GC1416640",
+        "description": "BEARING",
+        "material": null
+      },
+      {
+        "itemNo": "2",
+        "quantity": 2,
+        "partNo": "GC1416680",
+        "description": "SEAT, MOUNT C",
+        "material": null
+      },
+      {
+        "itemNo": "1",
+        "quantity": 1,
+        "partNo": "GD1416678",
+        "description": "BASE, MOUNT C",
+        "material": null
+      },
+      {
+        "itemNo": "X",
+        "quantity": null,
+        "partNo": "GD1416697",
+        "description": "MOUNT C, ASSEMBLY",
+        "material": null
+      }
+    ]
+  },
+  "meta": {
+    "provider": "google",
+    "model": "gemini-3.5-flash",
+    "doc_id": "ENoM9faK",
+    "usage": {
+      "promptTokenCount": 574,
+      "candidatesTokenCount": 961,
+      "totalTokenCount": 5195,
+      "promptTokensDetails": [
+        {
+          "modality": "IMAGE",
+          "tokenCount": 520
+        },
+        {
+          "modality": "TEXT",
+          "tokenCount": 54
+        }
+      ],
+      "thoughtsTokenCount": 3660,
+      "serviceTier": "standard"
+    },
+    "schema_mode": "gemini_response_schema_nullable_v1",
+    "input_mode": "inline_data"
+  }
+}

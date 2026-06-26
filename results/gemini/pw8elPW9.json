@@ -1,0 +1,111 @@
+{
+  "status": "ok",
+  "cost": null,
+  "time_sec": 10.630834102630615,
+  "data": {
+    "companyName": "אורן טכנולוגיות בע",
+    "reportYear": 2024,
+    "currencyUnits": "אלפי ש",
+    "balanceSheetLineItems": [
+      {
+        "section": "נכסים",
+        "label": "מזומנים ושווי מזומנים",
+        "currentYearAmount": 1250,
+        "priorYearAmount": 980
+      },
+      {
+        "section": "נכסים",
+        "label": "לקוחות",
+        "currentYearAmount": 3420,
+        "priorYearAmount": 2890
+      },
+      {
+        "section": "נכסים",
+        "label": "מלאי",
+        "currentYearAmount": 1870,
+        "priorYearAmount": 2100
+      },
+      {
+        "section": "נכסים",
+        "label": "רכוש קבוע, נטו",
+        "currentYearAmount": 5640,
+        "priorYearAmount": 6010
+      },
+      {
+        "section": "התחייבויות והון",
+        "label": "ספקים",
+        "currentYearAmount": 2150,
+        "priorYearAmount": 1940
+      },
+      {
+        "section": "התחייבויות והון",
+        "label": "הלוואות לזמן קצר",
+        "currentYearAmount": 1800,
+        "priorYearAmount": 2200
+      },
+      {
+        "section": "התחייבויות והון",
+        "label": "הלוואות לזמן ארוך",
+        "currentYearAmount": 3400,
+        "priorYearAmount": 3900
+      },
+      {
+        "section": "התחייבויות והון",
+        "label": "הון מניות",
+        "currentYearAmount": 2000,
+        "priorYearAmount": 2000
+      },
+      {
+        "section": "התחייבויות והון",
+        "label": "עודפים",
+        "currentYearAmount": 2830,
+        "priorYearAmount": 1940
+      }
+    ],
+    "totalAssets": 12180,
+    "totalLiabilitiesAndEquity": 12180,
+    "incomeStatementLineItems": [
+      {
+        "label": "הכנסות ממכירות",
+        "currentYearAmount": 18500,
+        "priorYearAmount": 16200
+      },
+      {
+        "label": "עלות המכר",
+        "currentYearAmount": -11100,
+        "priorYearAmount": -9720
+      },
+      {
+        "label": "הוצאות הנהלה וכלליות",
+        "currentYearAmount": -3200,
+        "priorYearAmount": -2950
+      },
+      {
+        "label": "הוצאות מימון",
+        "currentYearAmount": -480,
+        "priorYearAmount": -560
+      }
+    ],
+    "netIncome": 3720
+  },
+  "meta": {
+    "provider": "google",
+    "model": "gemini-3.5-flash",
+    "doc_id": "pw8elPW9",
+    "usage": {
+      "promptTokenCount": 438,
+      "candidatesTokenCount": 798,
+      "totalTokenCount": 2574,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 438
+        }
+      ],
+      "thoughtsTokenCount": 1338,
+      "serviceTier": "standard"
+    },
+    "schema_mode": "gemini_response_schema_nullable_v1",
+    "input_mode": "docx_text"
+  }
+}

@@ -1,0 +1,168 @@
+{
+  "status": "ok",
+  "cost": null,
+  "time_sec": 14.611976861953735,
+  "data": {
+    "merchantName": "FIVE GUYS",
+    "storeNumber": "CA-1661",
+    "storeStreetAddress": "2640 Reynolds Ranch Pkwy - Ste 140",
+    "storeCity": "Lodi",
+    "storeState": "CA",
+    "storeZip": "95240",
+    "storePhone": "(209) 333-9750",
+    "transactionDate": "2017-05-25",
+    "transactionTime": "1:00:17 PM",
+    "orderId": "AAAP2F9MAEBP",
+    "registerOrTerminal": "47 - FIVE GUYS",
+    "employeeName": "Robert C",
+    "lineItems": [
+      {
+        "quantity": 1,
+        "description": "Little Hamburger",
+        "unitPrice": null,
+        "lineTotal": 5.19,
+        "isModifier": false
+      },
+      {
+        "quantity": 1,
+        "description": "Lettuce",
+        "unitPrice": null,
+        "lineTotal": 0.0,
+        "isModifier": true
+      },
+      {
+        "quantity": 1,
+        "description": "Pickles",
+        "unitPrice": null,
+        "lineTotal": 0.0,
+        "isModifier": true
+      },
+      {
+        "quantity": 1,
+        "description": "Tomatoes",
+        "unitPrice": null,
+        "lineTotal": 0.0,
+        "isModifier": true
+      },
+      {
+        "quantity": 1,
+        "description": "Grilled Onions",
+        "unitPrice": null,
+        "lineTotal": 0.0,
+        "isModifier": true
+      },
+      {
+        "quantity": 1,
+        "description": "Grilled Mushrooms",
+        "unitPrice": null,
+        "lineTotal": 0.0,
+        "isModifier": true
+      },
+      {
+        "quantity": 1,
+        "description": "Mustard",
+        "unitPrice": null,
+        "lineTotal": 0.0,
+        "isModifier": true
+      },
+      {
+        "quantity": 1,
+        "description": "Ketchup",
+        "unitPrice": null,
+        "lineTotal": 0.0,
+        "isModifier": true
+      },
+      {
+        "quantity": 1,
+        "description": "Jalapeno Peppers",
+        "unitPrice": null,
+        "lineTotal": 0.0,
+        "isModifier": true
+      },
+      {
+        "quantity": 2,
+        "description": "Large Fry",
+        "unitPrice": 5.79,
+        "lineTotal": 11.58,
+        "isModifier": false
+      },
+      {
+        "quantity": 1,
+        "description": "Large Soda",
+        "unitPrice": null,
+        "lineTotal": 2.94,
+        "isModifier": false
+      },
+      {
+        "quantity": 1,
+        "description": "Cheeseburger",
+        "unitPrice": null,
+        "lineTotal": 7.88,
+        "isModifier": false
+      },
+      {
+        "quantity": 1,
+        "description": "Mayo",
+        "unitPrice": null,
+        "lineTotal": 0.0,
+        "isModifier": true
+      },
+      {
+        "quantity": 1,
+        "description": "Lettuce",
+        "unitPrice": null,
+        "lineTotal": 0.0,
+        "isModifier": true
+      },
+      {
+        "quantity": 1,
+        "description": "Pickles",
+        "unitPrice": null,
+        "lineTotal": 0.0,
+        "isModifier": true
+      },
+      {
+        "quantity": 1,
+        "description": "BBQ Sauce",
+        "unitPrice": null,
+        "lineTotal": 0.0,
+        "isModifier": true
+      },
+      {
+        "quantity": 1,
+        "description": "Regular Soda",
+        "unitPrice": null,
+        "lineTotal": 2.7,
+        "isModifier": false
+      }
+    ],
+    "subtotal": 30.31,
+    "salesTax": 2.35,
+    "orderTotal": 32.66,
+    "paymentMethod": "MasterCard",
+    "cardLastFour": "2931",
+    "authorizationCode": "72876Z",
+    "amountPaid": 32.66
+  },
+  "meta": {
+    "provider": "anthropic",
+    "model": "claude-sonnet-4-6",
+    "doc_id": "B0nA2c30",
+    "response_id": "msg_01AG5XMumgycJ9z6f29aPhkz",
+    "usage": {
+      "input_tokens": 1919,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 1169,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    },
+    "schema_mode": "anthropic_output_config_nullable_v1",
+    "input_mode": "image",
+    "schema_fallback": "prompt_json_schema"
+  }
+}

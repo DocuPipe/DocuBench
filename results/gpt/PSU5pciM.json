@@ -1,0 +1,50 @@
+{
+  "status": "ok",
+  "cost": null,
+  "time_sec": 7.983162879943848,
+  "data": {
+    "billingPeriodStart": "2021-09-18",
+    "billingPeriodEnd": "2021-10-18",
+    "previousMeterRead": 47911,
+    "currentMeterRead": 48374,
+    "consumptionKwh": 463,
+    "charges": [
+      {
+        "description": "Service Availability Charge",
+        "amount": 8.75
+      },
+      {
+        "description": "Energy Charge 463 kWh x $0.0691",
+        "amount": 31.99
+      },
+      {
+        "description": "Fuel Adjustment 463 kWh x $0.02568",
+        "amount": 11.89
+      },
+      {
+        "description": "Regulatory Adj 463 kWh x $0.01236",
+        "amount": 5.72
+      }
+    ],
+    "totalElectricBill": 58.35
+  },
+  "meta": {
+    "provider": "openai",
+    "model": "gpt-5.5",
+    "doc_id": "PSU5pciM",
+    "file_id": "file-KuWpL2wAT4qCnKGfcuTEdL",
+    "response_id": "resp_0f01591e7dac71a6016a3e96312b6c81a380ab616f2381465c",
+    "usage": {
+      "input_tokens": 2311,
+      "input_tokens_details": {
+        "cached_tokens": 0
+      },
+      "output_tokens": 312,
+      "output_tokens_details": {
+        "reasoning_tokens": 163
+      },
+      "total_tokens": 2623
+    },
+    "schema_mode": "openai_strict_nullable_v1"
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "status": "ok",
+  "cost": null,
+  "time_sec": 16.869606256484985,
+  "data": {
+    "accountNumber": "00001-00001",
+    "meterNumber": "300000000",
+    "serviceAddress": "123 SERVICE RD ALLENTOWN PA 18100",
+    "dueDate": "2024-06-19",
+    "billingPeriodStart": "2024-05-02",
+    "billingPeriodEnd": "2024-06-03",
+    "daysBilled": 32,
+    "totalAmountDue": 3133.19,
+    "totalSupplyCharges": 0,
+    "totalDeliveryCharges": 3133.19,
+    "totalKwhDelivered": 598800,
+    "peakDemandKw": 1095,
+    "charges": [
+      {
+        "amount": 169.8
+      },
+      {
+        "amount": 2788.97
+      },
+      {
+        "amount": -226.94
+      },
+      {
+        "amount": 70
+      },
+      {
+        "amount": 0.05
+      },
+      {
+        "amount": 9.13
+      },
+      {
+        "amount": 149.51
+      },
+      {
+        "amount": 179.2
+      },
+      {
+        "amount": -6.53
+      }
+    ]
+  },
+  "meta": {
+    "provider": "openai",
+    "model": "gpt-5.5",
+    "doc_id": "NlWTPen5",
+    "file_id": "file-BQBExPaeu5ACApmw6fmHki",
+    "response_id": "resp_0efc440b16c82485016a3e95eddadc8191b350e4a7a04c84c4",
+    "usage": {
+      "input_tokens": 4709,
+      "input_tokens_details": {
+        "cached_tokens": 0
+      },
+      "output_tokens": 1061,
+      "output_tokens_details": {
+        "reasoning_tokens": 876
+      },
+      "total_tokens": 5770
+    },
+    "schema_mode": "openai_strict_nullable_v1"
+  }
+}

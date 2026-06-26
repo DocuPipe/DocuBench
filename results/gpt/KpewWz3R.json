@@ -1,0 +1,116 @@
+{
+  "status": "ok",
+  "cost": null,
+  "time_sec": 29.792300939559937,
+  "data": {
+    "subjectPropertyAddress": "1517 Main Ct",
+    "subjectCity": "Anytown",
+    "subjectState": "IL",
+    "subjectZip": "604XX",
+    "borrowerName": "Ima Buyn",
+    "county": "Kendall",
+    "lenderClientName": "XYZ Financial Inc.",
+    "assignmentType": "Purchase Transaction",
+    "propertyRightsAppraised": "Fee Simple",
+    "contractPrice": 289250,
+    "siteAreaSqft": 10685,
+    "yearBuilt": 2017,
+    "grossLivingAreaSqft": 2488,
+    "bedrooms": 4,
+    "totalRooms": 8,
+    "indicatedValueBySalesComparison": 295000,
+    "indicatedValueByCostApproach": 342076,
+    "finalAppraisedValue": 295000,
+    "comparables": [
+      {
+        "comparableNumber": 1,
+        "address": "7403 Kempton St",
+        "proximityToSubject": "0.12 miles E",
+        "salePrice": 274323,
+        "salePricePerGla": 116.73,
+        "grossLivingAreaSqft": 2350,
+        "siteAreaSqft": 9450,
+        "locationAdjustment": 3000,
+        "glaAdjustment": 8280,
+        "conditionAdjustment": 0,
+        "netAdjustmentTotal": 20015,
+        "adjustedSalePrice": 294338
+      },
+      {
+        "comparableNumber": 2,
+        "address": "1501 Woodlily Ct",
+        "proximityToSubject": "0.44 miles W",
+        "salePrice": 297500,
+        "salePricePerGla": 129.35,
+        "grossLivingAreaSqft": 2300,
+        "siteAreaSqft": 9313,
+        "locationAdjustment": 0,
+        "glaAdjustment": 11280,
+        "conditionAdjustment": 0,
+        "netAdjustmentTotal": 12652,
+        "adjustedSalePrice": 310152
+      },
+      {
+        "comparableNumber": 3,
+        "address": "8110 Shady Oak Rd",
+        "proximityToSubject": "0.87 miles W",
+        "salePrice": 282000,
+        "salePricePerGla": 108.46,
+        "grossLivingAreaSqft": 2600,
+        "siteAreaSqft": 10092,
+        "locationAdjustment": 3000,
+        "glaAdjustment": -6720,
+        "conditionAdjustment": 5000,
+        "netAdjustmentTotal": -1130,
+        "adjustedSalePrice": 280870
+      },
+      {
+        "comparableNumber": 4,
+        "address": "1611 Seward Rd",
+        "proximityToSubject": "0.98 miles W",
+        "salePrice": 299900,
+        "salePricePerGla": 125.22,
+        "grossLivingAreaSqft": 2395,
+        "siteAreaSqft": 8125,
+        "locationAdjustment": 3000,
+        "glaAdjustment": 0,
+        "conditionAdjustment": 5000,
+        "netAdjustmentTotal": -1940,
+        "adjustedSalePrice": 297960
+      },
+      {
+        "comparableNumber": 5,
+        "address": "1411 Bellflower Ln",
+        "proximityToSubject": "0.52 miles W",
+        "salePrice": 289980,
+        "salePricePerGla": 119.33,
+        "grossLivingAreaSqft": 2430,
+        "siteAreaSqft": 9100,
+        "locationAdjustment": 3000,
+        "glaAdjustment": 0,
+        "conditionAdjustment": 0,
+        "netAdjustmentTotal": 13525,
+        "adjustedSalePrice": 303505
+      }
+    ]
+  },
+  "meta": {
+    "provider": "openai",
+    "model": "gpt-5.5",
+    "doc_id": "KpewWz3R",
+    "file_id": "file-7PYUvyJX7erJ3Ku2i6CVqY",
+    "response_id": "resp_00e828bf934a50e5016a3e955376f8819d903572cced39e3c2",
+    "usage": {
+      "input_tokens": 13801,
+      "input_tokens_details": {
+        "cached_tokens": 0
+      },
+      "output_tokens": 1942,
+      "output_tokens_details": {
+        "reasoning_tokens": 1325
+      },
+      "total_tokens": 15743
+    },
+    "schema_mode": "openai_strict_nullable_v1"
+  }
+}

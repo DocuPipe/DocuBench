@@ -1,0 +1,108 @@
+{
+  "status": "ok",
+  "cost": null,
+  "time_sec": 18.769816875457764,
+  "data": {
+    "employeeName": "LAZIONE UNIVARSITA' 2017",
+    "employerName": "DITTA DI PROVA",
+    "codiceFiscale": "LZNNRS80A41D548V",
+    "payPeriod": "GENNAIO 2017",
+    "payLines": [
+      {
+        "voce": "0",
+        "description": "Retribuzione ordinaria",
+        "unitaDiMisura": "GIORNI",
+        "quantita": 23.0,
+        "base": 67.66808,
+        "trattenute": null,
+        "competenze": 1556.37
+      },
+      {
+        "voce": "200",
+        "description": "Ferie godute",
+        "unitaDiMisura": "ORE",
+        "quantita": 32.0,
+        "base": null,
+        "trattenute": null,
+        "competenze": null
+      },
+      {
+        "voce": "210",
+        "description": "Permessi riduz. orario goduti",
+        "unitaDiMisura": "ORE",
+        "quantita": 4.0,
+        "base": null,
+        "trattenute": null,
+        "competenze": null
+      },
+      {
+        "voce": "221",
+        "description": "Permessi ex-festivita' goduti",
+        "unitaDiMisura": "ORE",
+        "quantita": 4.0,
+        "base": null,
+        "trattenute": null,
+        "competenze": null
+      },
+      {
+        "voce": "230",
+        "description": "Festivita'",
+        "unitaDiMisura": "GIORNI",
+        "quantita": 1.0,
+        "base": 67.66808,
+        "trattenute": null,
+        "competenze": 67.67
+      },
+      {
+        "voce": "232",
+        "description": "Festivita' in domenica",
+        "unitaDiMisura": "GIORNI",
+        "quantita": 1.0,
+        "base": 67.66808,
+        "trattenute": null,
+        "competenze": 67.67
+      },
+      {
+        "voce": "400",
+        "description": "Carenza malattia",
+        "unitaDiMisura": "GIORNI",
+        "quantita": 2.0,
+        "base": 67.66808,
+        "trattenute": null,
+        "competenze": 135.34
+      },
+      {
+        "voce": "978",
+        "description": "Credito art.1 DL 66/2014",
+        "unitaDiMisura": null,
+        "quantita": null,
+        "base": null,
+        "trattenute": null,
+        "competenze": 80.0
+      }
+    ],
+    "totaleCompetenze": 1907.05,
+    "totaleTrattenute": 460.41,
+    "nettoInBusta": 1447.0
+  },
+  "meta": {
+    "provider": "anthropic",
+    "model": "claude-sonnet-4-6",
+    "doc_id": "WxP8Tqgf",
+    "response_id": "msg_011AEFncVvRRdGVBwaiSyp53",
+    "usage": {
+      "input_tokens": 4706,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 517,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    },
+    "schema_mode": "anthropic_output_config_nullable_v1",
+    "input_mode": "pdf_document"
+  }
+}

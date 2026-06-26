@@ -1,0 +1,102 @@
+{
+  "status": "ok",
+  "cost": null,
+  "time_sec": 12.009945154190063,
+  "data": {
+    "customer": "FRESA DEMO DUBAI LLC",
+    "customerAddress": "AL NABHA, DUBAI\nPhone : 04-233456\nGSTIN No. : 29760737473\nCredit Term : CASH",
+    "invoiceNumber": "INV1800564",
+    "invoiceDate": "27-NOV-18 (CREATED)",
+    "paymentDueDate": "27-NOV-18",
+    "shipper": "PAHILAJRAI JAIKISHIN AND CO",
+    "consignee": "FRESA DEMO DUBAI LLC",
+    "placeOfOrigin": "NHAVA SHEVA (JAWAHARLAL NEHRU), INDIA",
+    "finalDestination": "JEBEL ALI, UAE",
+    "vesselFlight": "NORTHERN GENERAL / 0068",
+    "jobNumber": "CCDXBSI18000061 / 27-NOV-18",
+    "masterNumber": "NSA.JEA.18/26917 / 12-OCT-18",
+    "houseNumber": "500138050266 / 10-OCT-18",
+    "numberOfPacks": 12,
+    "weightKgs": 1116,
+    "volumeCbm": 1.903,
+    "currency": "AED",
+    "amountInWords": "Dirham Seven Hundred Fifty-Six and Sixteen Fils Only",
+    "charges": [
+      {
+        "description": "DELIVERY ORDER CHARGES",
+        "currency": "AED",
+        "ratePerUnit": 275,
+        "unit": 1,
+        "currencyAmount": 275,
+        "roe": 1,
+        "totalPriceExclVat": 275,
+        "vatPercent": 5,
+        "vatAmount": 13.75,
+        "total": 288.75
+      },
+      {
+        "description": "THC CHARGES",
+        "currency": "AED",
+        "ratePerUnit": 50,
+        "unit": 1.903,
+        "currencyAmount": 95.15,
+        "roe": 1,
+        "totalPriceExclVat": 95.15,
+        "vatPercent": 5,
+        "vatAmount": 4.76,
+        "total": 99.91
+      },
+      {
+        "description": "DOCUMENTATION CHARGES",
+        "currency": "AED",
+        "ratePerUnit": 100,
+        "unit": 1,
+        "currencyAmount": 100,
+        "roe": 1,
+        "totalPriceExclVat": 100,
+        "vatPercent": 5,
+        "vatAmount": 5,
+        "total": 105
+      },
+      {
+        "description": "HANDLING CHARGES",
+        "currency": "AED",
+        "ratePerUnit": 250,
+        "unit": 1,
+        "currencyAmount": 250,
+        "roe": 1,
+        "totalPriceExclVat": 250,
+        "vatPercent": 5,
+        "vatAmount": 12.5,
+        "total": 262.5
+      }
+    ],
+    "totalExclVat": 720.15,
+    "totalVat": 36.01,
+    "grandTotal": 756.16
+  },
+  "meta": {
+    "provider": "google",
+    "model": "gemini-3.5-flash",
+    "doc_id": "Eet2wW3x",
+    "usage": {
+      "promptTokenCount": 587,
+      "candidatesTokenCount": 865,
+      "totalTokenCount": 3093,
+      "promptTokensDetails": [
+        {
+          "modality": "IMAGE",
+          "tokenCount": 532
+        },
+        {
+          "modality": "TEXT",
+          "tokenCount": 55
+        }
+      ],
+      "thoughtsTokenCount": 1641,
+      "serviceTier": "standard"
+    },
+    "schema_mode": "gemini_response_schema_nullable_v1",
+    "input_mode": "inline_data"
+  }
+}

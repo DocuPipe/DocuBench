@@ -1,0 +1,51 @@
+{
+  "status": "ok",
+  "cost": null,
+  "time_sec": 5.299944162368774,
+  "data": {
+    "billingPeriodStart": "2021-09-18",
+    "billingPeriodEnd": "2021-10-18",
+    "previousMeterRead": 47911,
+    "currentMeterRead": 48374,
+    "consumptionKwh": 463,
+    "charges": [
+      {
+        "description": "Service Availability Charge",
+        "amount": 8.75
+      },
+      {
+        "description": "Energy Charge 463 kWh x $0.0691",
+        "amount": 31.99
+      },
+      {
+        "description": "Fuel Adjustment 463 kWh x $0.02568",
+        "amount": 11.89
+      },
+      {
+        "description": "Regulatory Adj 463 kWh x $0.01236",
+        "amount": 5.72
+      }
+    ],
+    "totalElectricBill": 58.35
+  },
+  "meta": {
+    "provider": "anthropic",
+    "model": "claude-sonnet-4-6",
+    "doc_id": "PSU5pciM",
+    "response_id": "msg_01K4bUfdoSJTPUeqnqMXKbmZ",
+    "usage": {
+      "input_tokens": 5066,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 165,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    },
+    "schema_mode": "anthropic_output_config_nullable_v1",
+    "input_mode": "pdf_document"
+  }
+}

@@ -1,0 +1,112 @@
+{
+  "status": "ok",
+  "cost": null,
+  "time_sec": 12.572848796844482,
+  "data": {
+    "invoiceId": "Snippet1",
+    "issueDate": "2017-11-13",
+    "dueDate": "2017-12-01",
+    "invoiceTypeCode": "380",
+    "documentCurrencyCode": "EUR",
+    "taxCurrencyCode": "SEK",
+    "buyerReference": "0150abc",
+    "invoicePeriodStartDate": "2017-12-01",
+    "invoicePeriodEndDate": "2017-12-31",
+    "supplierName": "SupplierTradingName Ltd.",
+    "supplierRegistrationName": "SupplierOfficialName Ltd",
+    "supplierVatId": "GB1232434",
+    "supplierCountryCode": "GB",
+    "customerName": "BuyerTradingName AS",
+    "customerRegistrationName": "Buyer Official Name",
+    "customerVatId": "SE4598375937",
+    "customerCountryCode": "SE",
+    "paymentMeansCode": "30",
+    "payeeIban": "IBAN32423940",
+    "payeeBic": "BIC324098",
+    "lineExtensionAmount": 5900,
+    "taxExclusiveAmount": 5900,
+    "taxInclusiveAmount": 7125,
+    "allowanceTotalAmount": 200,
+    "chargeTotalAmount": 200,
+    "prepaidAmount": 1000,
+    "payableAmount": 6125.0,
+    "taxTotalAmount": 1225.0,
+    "allowanceCharges": [
+      {
+        "isCharge": true,
+        "reason": "Cleaning",
+        "reasonCode": "CG",
+        "amount": 200,
+        "baseAmount": 1000,
+        "taxCategoryPercent": 25
+      },
+      {
+        "isCharge": false,
+        "reason": "Discount",
+        "reasonCode": "95",
+        "amount": 200,
+        "baseAmount": null,
+        "taxCategoryPercent": 25
+      }
+    ],
+    "invoiceLines": [
+      {
+        "lineId": "1",
+        "invoicedQuantity": 10,
+        "unitCode": "C62",
+        "lineExtensionAmount": 4000.0,
+        "itemName": "item name",
+        "itemDescription": "Description of item",
+        "sellersItemId": "97iugug876",
+        "priceAmount": 410,
+        "taxCategoryId": "S",
+        "taxCategoryPercent": 25.0
+      },
+      {
+        "lineId": "2",
+        "invoicedQuantity": 10,
+        "unitCode": "C62",
+        "lineExtensionAmount": 1000.0,
+        "itemName": "item name",
+        "itemDescription": "Description of item",
+        "sellersItemId": "97iugug876",
+        "priceAmount": 200,
+        "taxCategoryId": "E",
+        "taxCategoryPercent": 0.0
+      },
+      {
+        "lineId": "3",
+        "invoicedQuantity": 10,
+        "unitCode": "C62",
+        "lineExtensionAmount": 900.0,
+        "itemName": "item name",
+        "itemDescription": "Description of item",
+        "sellersItemId": "97iugug876",
+        "priceAmount": 100,
+        "taxCategoryId": "S",
+        "taxCategoryPercent": 25.0
+      }
+    ]
+  },
+  "meta": {
+    "provider": "anthropic",
+    "model": "claude-sonnet-4-6",
+    "doc_id": "C7fe2lau",
+    "response_id": "msg_01Aw6Z5zVnr8SVJ4S8dqvHbw",
+    "usage": {
+      "input_tokens": 7697,
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens": 916,
+      "service_tier": "standard",
+      "inference_geo": "global"
+    },
+    "schema_mode": "anthropic_output_config_nullable_v1",
+    "input_mode": "text",
+    "schema_fallback": "prompt_json_schema"
+  }
+}
