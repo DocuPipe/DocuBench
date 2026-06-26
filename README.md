@@ -12,6 +12,20 @@ Built and maintained by **[DocuPipe](https://www.docupipe.ai)**. Every system �
 
 Most document-AI evaluations stop at clean, single-page PDFs. DocuBench is built to break extraction systems on what real documents actually look like: multi-row arrays and multi-page tables, totals that must reconcile, right-to-left and CJK scripts, rotated scans, handwriting, and ten different file types.
 
+<br>
+
+<a href="https://htmlpreview.github.io/?https://github.com/DocuPipe/docubench/blob/main/docubench-explorer.html">
+  <img src="docs/explorer-preview.png" alt="DocuBench interactive results explorer — filter 50 documents and compare six systems" width="100%">
+</a>
+
+<h3 align="center"><a href="https://htmlpreview.github.io/?https://github.com/DocuPipe/docubench/blob/main/docubench-explorer.html">🔎&nbsp; Open the interactive results explorer &nbsp;→</a></h3>
+<p align="center">
+  Filter all 50 documents by language, length, format &amp; capability · compare six systems · drill into per-document scores.<br>
+  <sub>One self-contained file — <a href="docubench-explorer.html"><code>docubench-explorer.html</code></a> — that also opens straight from disk.</sub>
+</p>
+
+<br>
+
 **Explore:** [Leaderboard](#leaderboard) · [Results explorer](https://htmlpreview.github.io/?https://github.com/DocuPipe/docubench/blob/main/docubench-explorer.html) · [Hosted leaderboard](space)  
 **Docs:** [Dataset card](docs/dataset-card.md) · [Scoring](docs/scoring.md) · [Make a submission](#make-a-submission)
 
