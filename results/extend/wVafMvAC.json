@@ -1,90 +1,90 @@
 {
-  "score": 0.7627118644067796,
+  "score": 0.7864406779661015,
   "cost": 0.0625,
-  "time_sec": 43.622,
+  "time_sec": 39.059,
   "num_pages": 1,
   "data": {
     "deductionRows": [
       {
         "incomeTax": 329.4,
-        "accountingMonth": "05",
+        "accountingMonth": "1 05",
         "healthInsurance": 116.82,
         "pensionInsurance": 175.23,
         "unemploymentInsurance": 29.21
       },
       {
-        "incomeTax": 9.3,
-        "accountingMonth": null,
-        "healthInsurance": 1.56,
-        "pensionInsurance": 2.34,
-        "unemploymentInsurance": 0.39
+        "incomeTax": -9.3,
+        "accountingMonth": "2 05",
+        "healthInsurance": -1.56,
+        "pensionInsurance": -2.34,
+        "unemploymentInsurance": -0.39
       },
       {
         "incomeTax": 329.4,
-        "accountingMonth": "06",
+        "accountingMonth": "3 06",
         "healthInsurance": 116.82,
         "pensionInsurance": 175.23,
         "unemploymentInsurance": 29.21
       },
       {
-        "incomeTax": 9.3,
-        "accountingMonth": null,
-        "healthInsurance": 1.56,
-        "pensionInsurance": 2.34,
-        "unemploymentInsurance": 0.39
+        "incomeTax": -9.3,
+        "accountingMonth": "4 06",
+        "healthInsurance": -1.56,
+        "pensionInsurance": -2.34,
+        "unemploymentInsurance": -0.39
       },
       {
         "incomeTax": 358.7,
-        "accountingMonth": "07",
+        "accountingMonth": "5 07",
         "healthInsurance": 122.04,
         "pensionInsurance": 183.06,
         "unemploymentInsurance": 30.51
       },
       {
-        "incomeTax": 8.7,
-        "accountingMonth": null,
-        "healthInsurance": 1.56,
-        "pensionInsurance": 2.34,
-        "unemploymentInsurance": 0.39
+        "incomeTax": -8.7,
+        "accountingMonth": "6 07",
+        "healthInsurance": -1.56,
+        "pensionInsurance": -2.34,
+        "unemploymentInsurance": -0.39
       },
       {
         "incomeTax": 350,
-        "accountingMonth": "08",
+        "accountingMonth": "7 08",
         "healthInsurance": 120.48,
         "pensionInsurance": 180.72,
         "unemploymentInsurance": 30.12
       },
       {
         "incomeTax": 350,
-        "accountingMonth": "09",
+        "accountingMonth": "8 09",
         "healthInsurance": 120.48,
         "pensionInsurance": 180.72,
         "unemploymentInsurance": 30.12
       },
       {
         "incomeTax": 350,
-        "accountingMonth": "10",
+        "accountingMonth": "9 10",
         "healthInsurance": 120.48,
         "pensionInsurance": 180.72,
         "unemploymentInsurance": 30.12
       },
       {
         "incomeTax": 350,
-        "accountingMonth": "11",
+        "accountingMonth": "10 11",
         "healthInsurance": 139.5,
         "pensionInsurance": 279,
         "unemploymentInsurance": 46.5
       },
       {
         "incomeTax": 390,
-        "accountingMonth": null,
+        "accountingMonth": "11",
         "healthInsurance": null,
         "pensionInsurance": null,
         "unemploymentInsurance": null
       },
       {
         "incomeTax": 315.9,
-        "accountingMonth": "12",
+        "accountingMonth": "12 12",
         "healthInsurance": 120.48,
         "pensionInsurance": 180.72,
         "unemploymentInsurance": 30.12

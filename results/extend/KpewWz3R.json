@@ -1,7 +1,7 @@
 {
   "score": 0.9493333333333331,
   "cost": 0.4375,
-  "time_sec": 48.162,
+  "time_sec": 37.707,
   "num_pages": 7,
   "data": {
     "county": "Kendall",
@@ -35,7 +35,7 @@
         "locationAdjustment": 3000,
         "netAdjustmentTotal": 12652,
         "proximityToSubject": "0.44 miles W",
-        "conditionAdjustment": 0,
+        "conditionAdjustment": 5000,
         "grossLivingAreaSqft": 2300
       },
       {

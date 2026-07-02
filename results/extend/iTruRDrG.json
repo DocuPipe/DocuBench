@@ -1,17 +1,17 @@
 {
-  "score": 0.7090909090909091,
+  "score": 0.6153846153846154,
   "cost": 0.125,
-  "time_sec": 22.875,
+  "time_sec": 33.301,
   "num_pages": 2,
   "data": {
     "carrier": "Ocean Network Express Pte. Ltd. (ONE)",
     "cargoItems": [
       {
-        "hsCode": "620690",
+        "hsCode": null,
         "cartons": null,
         "weightKg": null,
         "measurementCbm": null,
-        "goodsDescription": "LADIES' 58% LINEN 39% COTTON 3% ELASTANE WOVEN TOP"
+        "goodsDescription": "LADIES'90% COTTON 10% SPANDEX KNITTED DRESS"
       },
       {
         "hsCode": "610442, 611020, 610452",
@@ -21,25 +21,25 @@
         "goodsDescription": "1% SPANDEX KNITTED SKIRTS"
       },
       {
-        "hsCode": null,
+        "hsCode": "610442, 611020, 610452",
         "cartons": 17,
         "weightKg": 213,
         "measurementCbm": 1.23,
-        "goodsDescription": "LADIES' 90% COTTON 10% SPANDEX KNITTED DRESS"
-      },
-      {
-        "hsCode": null,
-        "cartons": 8,
-        "weightKg": 82,
-        "measurementCbm": 1.41,
-        "goodsDescription": "LADIES' 54% COTTON 45% NYLON 1% SPANDEX KNITTED PULLOVER"
+        "goodsDescription": "LADIES'54% COTTON 45% NYLON 1% SPANDEX KNITTED SKIRTS"
       },
       {
         "hsCode": "620349",
+        "cartons": 8,
+        "weightKg": 82,
+        "measurementCbm": 1.41,
+        "goodsDescription": "59% LYOCELL 27% COTTON 14% LINEN MEN'S WOVEN SHORT"
+      },
+      {
+        "hsCode": "620640",
         "cartons": 42,
         "weightKg": 626,
         "measurementCbm": 4.59,
-        "goodsDescription": "59% LYOCELL 27% COTTON 14% LINEN MEN'S WOVEN SHORT"
+        "goodsDescription": "80% RAYON 20% NYLON WOMEN'S WOVEN SHIRT"
       },
       {
         "hsCode": "620630",
@@ -47,6 +47,20 @@
         "weightKg": 73,
         "measurementCbm": 0.73,
         "goodsDescription": "62% COTTON 38% VISCOSE. - WOMEN'S WOVEN OUTWEAR"
+      },
+      {
+        "hsCode": null,
+        "cartons": null,
+        "weightKg": null,
+        "measurementCbm": null,
+        "goodsDescription": "LADIES'54% COTTON 45% NYLON 1% SPANDEX KNITTED PULLOVER"
+      },
+      {
+        "hsCode": "620690",
+        "cartons": null,
+        "weightKg": null,
+        "measurementCbm": null,
+        "goodsDescription": "LADIES'58% LINEN 39% COTTON 3% ELASTANE WOVEN TOP"
       }
     ],
     "dateIssued": "2023-01-25",
@@ -62,13 +76,13 @@
     "grossWeightKg": 2539,
     "portOfLoading": "HONG KONG",
     "placeOfReceipt": "HONG KONG, HONG KONG",
-    "shipperAddress": "7/F, HECNY CARGO BLDG, 111 WAI YIP STREET KWUN TONG, KLN., HONG KONG",
-    "typeOfMovement": "FCL/FCL CY/CY",
+    "shipperAddress": "7/F, HECNY CARGO BLDG,111 WAI YIP STREET KWUN TONG, KLN.,HONG KONG",
+    "typeOfMovement": "FCL / FCL CY / CY",
     "containerNumber": "KKTU8245698",
     "notifyPartyName": "HECNY TRANSPORTATION INC.",
     "placeOfDelivery": "LONG BEACH",
     "portOfDischarge": "LONG BEACH, CA",
-    "consigneeAddress": "900 N CAHUENGA BLVD. LOS ANGELES, CA 90038, USA",
+    "consigneeAddress": "900 N CAHUENGA BLVD. LOS ANGELEA, CA 90038, USA",
     "dateLadenOnBoard": "2023-01-25",
     "seaWaybillNumber": "ONEYHKGCJ3680701",
     "grossMeasurementCbm": 22.52,

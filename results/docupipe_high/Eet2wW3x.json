@@ -1,13 +1,13 @@
 {
-  "score": 1.0,
-  "cost": 0.037446,
-  "time_sec": 4.058296203613281,
+  "score": 0.9836065573770492,
+  "cost": 0.019362,
+  "time_sec": 0.8453350067138672,
   "num_pages": 1,
   "data": {
     "customer": "FRESA DEMO DUBAI LLC",
     "customerAddress": "AL NABHA, DUBAI",
     "invoiceNumber": "INV1800564",
-    "invoiceDate": "27-NOV-18 (CREATED)",
+    "invoiceDate": "27-NOV-18",
     "paymentDueDate": "27-NOV-18",
     "shipper": "PAHILAJRAI JAIKISHIN AND CO",
     "consignee": "FRESA DEMO DUBAI LLC",

@@ -1,7 +1,7 @@
 {
-  "score": 0.6964285714285714,
+  "score": 0.6944444444444444,
   "cost": 0.25,
-  "time_sec": 26.971,
+  "time_sec": 39.237,
   "num_pages": 4,
   "data": {
     "reportYear": 2023,
@@ -25,7 +25,7 @@
         "currentYearAmount": 0
       },
       {
-        "lineLabel": "רכוש קבוע",
+        "lineLabel": "נכסים נטו שלא קיימת לגביהם הגבלה ששימשו לרכוש קבוע",
         "statement": "מאזנים",
         "priorYearAmount": 0,
         "currentYearAmount": 14729
@@ -55,10 +55,10 @@
         "currentYearAmount": -154353
       },
       {
-        "lineLabel": "נכסים נטו שלא קיימת לגביהם הגבלה ששימשו לרכוש קבוע",
+        "lineLabel": "סה\"כ נכסים",
         "statement": "מאזנים",
-        "priorYearAmount": 0,
-        "currentYearAmount": 14729
+        "priorYearAmount": 26239,
+        "currentYearAmount": 163549
       },
       {
         "lineLabel": "מחזור הפעילויות",
@@ -127,22 +127,16 @@
         "currentYearAmount": 122581
       },
       {
-        "lineLabel": "סה\"כ נכסים",
+        "lineLabel": "סה\"כ התחייבויות שוטפות",
         "statement": "מאזנים",
-        "priorYearAmount": 26239,
-        "currentYearAmount": 163549
+        "priorYearAmount": 7326,
+        "currentYearAmount": 303173
       },
       {
         "lineLabel": "התאמות הדרושות כדי להציג את המזומנים מפעילות שוטפת",
         "statement": "דוח על תזרים המזומנים",
         "priorYearAmount": 532,
         "currentYearAmount": 298592
-      },
-      {
-        "lineLabel": "סה\"כ התחייבויות שוטפות",
-        "statement": "מאזנים",
-        "priorYearAmount": 7326,
-        "currentYearAmount": 303173
       },
       {
         "lineLabel": "סה\"כ התחייבויות ונכסים נטו",

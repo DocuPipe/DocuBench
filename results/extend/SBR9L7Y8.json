@@ -1,10 +1,10 @@
 {
   "score": 0.4482758620689655,
   "cost": 0.0625,
-  "time_sec": 14.416,
+  "time_sec": 30.685,
   "num_pages": 1,
   "data": {
-    "grade": "03",
+    "grade": "42",
     "payments": [
       {
         "amount": 1095000,
@@ -47,12 +47,12 @@
       {
         "amount": 59571,
         "difference": null,
-        "description": "ביטוח לאומי"
+        "description": "בטוח לאומי"
       },
       {
         "amount": 55491,
         "difference": null,
-        "description": "ביטוח בריאות"
+        "description": "בטוח בריאות"
       },
       {
         "amount": 24090,
@@ -68,7 +68,7 @@
     "totalHours": 176,
     "payPeriodYear": 2008,
     "totalPayments": 1284538,
-    "payPeriodMonth": 9,
+    "payPeriodMonth": 3,
     "totalDeductions": 379210
   }
 }

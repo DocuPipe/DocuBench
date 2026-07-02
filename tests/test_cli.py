@@ -28,5 +28,5 @@ def test_validate_current_benchmark_files():
 def test_score_engines_reproduces_extend_aggregate():
     scores = score_engines(ROOT, ["extend"])
 
-    assert round(scores["aggregates"]["extend"], 4) == 0.9252
+    assert round(scores["aggregates"]["extend"], 4) == 0.9111
     assert len(scores["per_doc"]) == 50

@@ -1,7 +1,7 @@
 {
   "score": 0.9735054347826086,
-  "cost": 0.005417,
-  "time_sec": 0.43436121940612793,
+  "cost": 0.0053805,
+  "time_sec": 0.8571951389312744,
   "num_pages": 1,
   "data": {
     "employeeName": "LAZIONE UNIVARSITA' 2017",
@@ -74,7 +74,7 @@
       },
       {
         "voce": "978",
-        "description": "Credito art. 1 DL 66/2014",
+        "description": "Credito art.1 DL 66/2014",
         "unitaDiMisura": null,
         "quantita": 2017.0,
         "base": null,

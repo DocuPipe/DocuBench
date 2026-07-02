@@ -1,7 +1,7 @@
 {
-  "score": 0.9863013698630136,
+  "score": 1.0,
   "cost": 0.1875,
-  "time_sec": 19.682,
+  "time_sec": 25.711,
   "num_pages": 3,
   "data": {
     "resultaat": 50337,
@@ -133,7 +133,7 @@
       },
       {
         "amount": 207,
-        "lineItem": "opbrengsten"
+        "lineItem": "Rentebaten en soortgelijke opbrengsten"
       },
       {
         "amount": -218,

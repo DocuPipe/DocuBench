@@ -1,7 +1,7 @@
 {
   "score": 0.9000771604938274,
   "cost": 0.0625,
-  "time_sec": 49.975,
+  "time_sec": 69.013,
   "num_pages": 1,
   "data": {
     "tripRows": [
@@ -52,7 +52,7 @@
       {
         "route": "横浜－品川",
         "nights": 0,
-        "destination": "社",
+        "destination": "本社",
         "paymentAmount": 560,
         "employeeNumber": "123456",
         "returnDateTime": "08/05 17:15",
@@ -74,7 +74,7 @@
       {
         "route": "横浜－桜木町",
         "nights": 0,
-        "destination": "□□□（株）",
+        "destination": "□□□□□（株）",
         "paymentAmount": 260,
         "employeeNumber": "123567",
         "returnDateTime": "08/02 18:00",
@@ -96,7 +96,7 @@
       {
         "route": "横浜－新川崎",
         "nights": 0,
-        "destination": "○○（株）",
+        "destination": "〇〇（株）",
         "paymentAmount": 420,
         "employeeNumber": "123890",
         "returnDateTime": "08/05 17:15",
@@ -184,7 +184,7 @@
       {
         "route": "横浜－新川崎",
         "nights": 0,
-        "destination": "○○（株）",
+        "destination": "〇〇（株）",
         "paymentAmount": 420,
         "employeeNumber": "147258",
         "returnDateTime": "08/05 17:15",
@@ -221,7 +221,7 @@
         "paymentAmount": 560,
         "employeeNumber": "223344",
         "returnDateTime": "08/05 17:15",
-        "purposeCategory": null,
+        "purposeCategory": "研修",
         "distanceCategory": "附近",
         "departureDateTime": "06/25 08:00"
       },
@@ -250,7 +250,7 @@
       {
         "route": "横浜－桜木町",
         "nights": 0,
-        "destination": "□□□□（株）",
+        "destination": "□□□□□（株）",
         "paymentAmount": 260,
         "employeeNumber": "234567",
         "returnDateTime": "08/02 18:00",
@@ -272,7 +272,7 @@
       {
         "route": "横浜－東京",
         "nights": 0,
-        "destination": "◎◎◎商会",
+        "destination": "◎◎商会",
         "paymentAmount": 900,
         "employeeNumber": "456789",
         "returnDateTime": "08/02 18:00",
@@ -294,7 +294,7 @@
       {
         "route": "横浜－桜木町",
         "nights": 0,
-        "destination": "（株）",
+        "destination": "□□□□□（株）",
         "paymentAmount": 260,
         "employeeNumber": "456777",
         "returnDateTime": "08/02 18:00",
@@ -305,7 +305,7 @@
       {
         "route": "横浜－新川崎",
         "nights": 0,
-        "destination": "株式会社",
+        "destination": "〇〇株式会社",
         "paymentAmount": 420,
         "employeeNumber": "456777",
         "returnDateTime": "08/05 17:15",
@@ -327,11 +327,11 @@
       {
         "route": "横浜－桜木町",
         "nights": 0,
-        "destination": "（株）",
+        "destination": "□□□□□（株）",
         "paymentAmount": 260,
         "employeeNumber": "456777",
         "returnDateTime": "08/02 18:00",
-        "purposeCategory": null,
+        "purposeCategory": "業務",
         "distanceCategory": "地域",
         "departureDateTime": "06/26 08:30"
       },

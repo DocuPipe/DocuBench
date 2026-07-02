@@ -1,7 +1,7 @@
 {
-  "score": 1.0,
+  "score": 0.9976190476190476,
   "cost": 0.3125,
-  "time_sec": 44.706,
+  "time_sec": 80.685,
   "num_pages": 5,
   "data": {
     "salesTotal": 85952.25,
@@ -363,7 +363,7 @@
         "amount": 150,
         "itemRate": 0.75,
         "feeAmount": 6.75,
-        "description": "MOPP",
+        "description": "MCPP",
         "discountRate": 4,
         "averageTicket": 150
       },

@@ -1,7 +1,7 @@
 {
-  "score": 0.8917664535878276,
+  "score": 0.8760504374255554,
   "cost": 1.125,
-  "time_sec": 73.702,
+  "time_sec": 67.899,
   "num_pages": 18,
   "data": {
     "activity": [
@@ -91,14 +91,14 @@
         "amount": -5450,
         "quantity": 5000,
         "securityName": "MGM RESORTS INTERNATIONAL 4.25000% 4/15/2015 SR CV NT TRADE EXECUTED BY MLCO",
-        "transactionDescription": "You bought Accrued Interest: - 347.44"
+        "transactionDescription": "You bought Accrued Interest: -347.44"
       },
       {
         "date": "2015-07-30",
         "price": 1,
         "amount": -1007.95,
         "quantity": 1000,
-        "securityName": "FMPXX",
+        "securityName": null,
         "transactionDescription": "You bought"
       },
       {
@@ -318,52 +318,52 @@
         "transactionDescription": "Wire transfer to bank"
       },
       {
-        "date": "2015-07-01",
+        "date": "2015-08-01",
         "price": null,
-        "amount": 7200370.31,
+        "amount": -304,
         "quantity": null,
         "securityName": null,
-        "transactionDescription": "Daily Additions and Subtractions"
+        "transactionDescription": "ATM0058 1224 JONES RD, HOUSTON, TX, 7425612ZF6JW2BKA"
       },
       {
-        "date": "2015-07-03",
+        "date": "2015-08-11",
         "price": null,
-        "amount": 999999.99,
+        "amount": -528.12,
         "quantity": null,
         "securityName": null,
-        "transactionDescription": "Daily Additions and Subtractions"
+        "transactionDescription": "POS6600 TARGET T2066 W, HOUSTON, TX, 24251312ZF6JW2JQK"
       },
       {
-        "date": "2015-07-03",
+        "date": "2015-08-11",
         "price": null,
-        "amount": -999999.99,
+        "amount": -639.56,
         "quantity": null,
         "securityName": null,
-        "transactionDescription": "Daily Additions and Subtractions"
+        "transactionDescription": "STARBUCKS CORP00064139, SPRING, TX, 24161312ZF6JW2QJE"
       },
       {
-        "date": "2015-07-29",
+        "date": "2015-08-03",
         "price": null,
-        "amount": 999.99,
+        "amount": -203,
         "quantity": null,
         "securityName": null,
-        "transactionDescription": "Daily Additions and Subtractions"
+        "transactionDescription": "ATM0213 1224 TOWN CEN, HOUSTON, TX, 9842312ZF6JW2ZAD"
       },
       {
-        "date": "2015-07-29",
+        "date": "2015-08-06",
         "price": null,
-        "amount": -999.99,
+        "amount": -6.03,
         "quantity": null,
         "securityName": null,
-        "transactionDescription": "Daily Additions and Subtractions"
+        "transactionDescription": "BEST DONUTS, SPRING, TX, 5465542ASKD620ASD"
       },
       {
-        "date": "2015-07-31",
+        "date": "2015-08-11",
         "price": null,
-        "amount": 999.99,
+        "amount": 86.58,
         "quantity": null,
         "securityName": null,
-        "transactionDescription": "Daily Additions and Subtractions"
+        "transactionDescription": "MARSHALLS #0506, THE WOODLANDS, TX, 16510SKJF351321DDS"
       },
       {
         "date": "2015-07-10",
@@ -468,6 +468,78 @@
         "quantity": null,
         "securityName": "SPDR SER TR BARCLAYS CAP HIGH YIELD BD ETF",
         "transactionDescription": "Federal tax paid"
+      },
+      {
+        "date": null,
+        "price": null,
+        "amount": 41301.03,
+        "quantity": null,
+        "securityName": null,
+        "transactionDescription": "Total Dividends, Interest & Other Income"
+      },
+      {
+        "date": null,
+        "price": null,
+        "amount": -1637.75,
+        "quantity": null,
+        "securityName": null,
+        "transactionDescription": "Total this period"
+      },
+      {
+        "date": null,
+        "price": null,
+        "amount": -19670.87,
+        "quantity": null,
+        "securityName": null,
+        "transactionDescription": "Total year-to-date"
+      },
+      {
+        "date": "2015-07-01",
+        "price": null,
+        "amount": 7200370.31,
+        "quantity": null,
+        "securityName": null,
+        "transactionDescription": null
+      },
+      {
+        "date": "2015-07-03",
+        "price": null,
+        "amount": 999999.99,
+        "quantity": null,
+        "securityName": null,
+        "transactionDescription": null
+      },
+      {
+        "date": "2015-07-03",
+        "price": null,
+        "amount": -999999.99,
+        "quantity": null,
+        "securityName": null,
+        "transactionDescription": null
+      },
+      {
+        "date": "2015-07-29",
+        "price": null,
+        "amount": 999.99,
+        "quantity": null,
+        "securityName": null,
+        "transactionDescription": null
+      },
+      {
+        "date": "2015-07-29",
+        "price": null,
+        "amount": -999.99,
+        "quantity": null,
+        "securityName": null,
+        "transactionDescription": null
+      },
+      {
+        "date": "2015-07-31",
+        "price": null,
+        "amount": 999.99,
+        "quantity": null,
+        "securityName": null,
+        "transactionDescription": null
       }
     ],
     "holdings": [
@@ -662,6 +734,6 @@
     "statementPeriodStart": "2015-07-01",
     "beginningAccountValue": 88053.95,
     "changeInInvestmentValue": 1458.33,
-    "endingMarketValueOfHoldings": 108051
+    "endingMarketValueOfHoldings": 108051.18
   }
 }

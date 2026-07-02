@@ -35,11 +35,11 @@ The committed baselines, scored by the public scorer ([`scorer.py`](scorer.py)) 
 
 | Rank | System | Accuracy |
 |---:|---|---:|
-| 🥇 | **DocuPipe** — high effort | **97.24%** |
-| 🥈 | **DocuPipe** — standard effort | **96.00%** |
+| 🥇 | **DocuPipe** — high effort | **97.56%** |
+| 🥈 | **DocuPipe** — standard effort | **96.31%** |
 | 3 | Gemini | 95.80% |
 | 4 | GPT | 93.54% |
-| 5 | Extend | 92.52% |
+| 5 | Extend | 91.11% |
 | 6 | Claude | 90.33% |
 
 > DocuPipe built this benchmark, so we hold our own results to the same bar as everyone else: identical schemas, identical labels, the same open scorer, and every raw model output committed under [`results/`](results). Run `docubench score` and you will reproduce this table.

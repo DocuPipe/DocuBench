@@ -1,7 +1,7 @@
 {
   "score": 1.0,
   "cost": 0.0625,
-  "time_sec": 11.023,
+  "time_sec": 16.895,
   "num_pages": 1,
   "data": {
     "items": [
@@ -60,6 +60,6 @@
         "cartonDimensionCm": "43.60 X 29.20 X 34.90"
       }
     ],
-    "productCategory": "POWDER DETERGENT"
+    "productCategory": "powder detergent"
   }
 }

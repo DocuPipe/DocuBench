@@ -1,7 +1,7 @@
 {
-  "score": 0.8418367346938775,
+  "score": 0.8098159509202455,
   "cost": 0.0625,
-  "time_sec": 21.684,
+  "time_sec": 23.16,
   "num_pages": 1,
   "data": {
     "siret": "995002433 00010",
@@ -202,6 +202,14 @@
         "employerRate": 8,
         "employeeAmount": 0,
         "employerAmount": 7.07
+      },
+      {
+        "base": 3269,
+        "designation": "Réintégration frais de santé",
+        "employeeRate": 1.13,
+        "employerRate": null,
+        "employeeAmount": 36.94,
+        "employerAmount": null
       }
     ],
     "payPeriodStart": "2017-10-01",

@@ -1,7 +1,7 @@
 {
-  "score": 1.0,
+  "score": 0.8888888888888888,
   "cost": 0.037500000000000006,
-  "time_sec": 6.013,
+  "time_sec": 11.192,
   "num_pages": 1,
   "data": {
     "lineItems": [
@@ -9,7 +9,7 @@
         "quantity": 120,
         "unitPrice": 9.25,
         "lineNumber": 1,
-        "buyerItemId": "(12) 0-083628-838",
+        "buyerItemId": "0-083628-838",
         "vendorItemId": "ABA18783",
         "unitOfMeasure": "EA"
       },
@@ -17,7 +17,7 @@
         "quantity": 220,
         "unitPrice": 13.79,
         "lineNumber": 2,
-        "buyerItemId": "(69) 0-093837-991",
+        "buyerItemId": "0-093837-991",
         "vendorItemId": "RUP83112",
         "unitOfMeasure": "EA"
       },
@@ -25,7 +25,7 @@
         "quantity": 126,
         "unitPrice": 10.99,
         "lineNumber": 3,
-        "buyerItemId": "(71) 0-099172-837",
+        "buyerItemId": "0-099172-837",
         "vendorItemId": "CPR19293",
         "unitOfMeasure": "EA"
       },
@@ -33,7 +33,7 @@
         "quantity": 76,
         "unitPrice": 4.35,
         "lineNumber": 4,
-        "buyerItemId": "(71) 0-012110-737",
+        "buyerItemId": "0-012110-737",
         "vendorItemId": "PIW28173",
         "unitOfMeasure": "EA"
       },
@@ -41,7 +41,7 @@
         "quantity": 72,
         "unitPrice": 7.5,
         "lineNumber": 5,
-        "buyerItemId": "(71) 0-084888-975",
+        "buyerItemId": "0-084888-975",
         "vendorItemId": "JBM19387",
         "unitOfMeasure": "EA"
       },
@@ -49,7 +49,7 @@
         "quantity": 696,
         "unitPrice": 9.55,
         "lineNumber": 6,
-        "buyerItemId": "(71) 0-003922-121",
+        "buyerItemId": "0-003922-121",
         "vendorItemId": "IUI19283",
         "unitOfMeasure": "EA"
       }

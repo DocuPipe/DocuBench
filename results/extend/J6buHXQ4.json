@@ -1,7 +1,7 @@
 {
-  "score": 0.7515779316608014,
+  "score": 0.6278760656338802,
   "cost": 0.8125,
-  "time_sec": 39.317,
+  "time_sec": 49.959,
   "num_pages": 13,
   "data": {
     "reportYear": 2023,
@@ -49,15 +49,15 @@
       },
       {
         "section": "נכסים",
-        "lineLabel": "כולל פקדונות לזמן קצר",
+        "lineLabel": "גרעון מצטבר בתקציב הרגיל לסוף השנה",
         "priorYearAmount": null,
-        "currentYearAmount": 28
+        "currentYearAmount": 351
       },
       {
         "section": "נכסים",
-        "lineLabel": "מלוות מבנקים וממוסדות כספיים",
-        "priorYearAmount": 14910,
-        "currentYearAmount": 12116
+        "lineLabel": "גרעון בשנת הדוח",
+        "priorYearAmount": null,
+        "currentYearAmount": 366
       },
       {
         "section": "נכסים",
@@ -114,8 +114,32 @@
         "currentYearAmount": 10519
       },
       {
+        "section": "התחייבויות",
+        "lineLabel": "הכנסות מראש מפעילות",
+        "priorYearAmount": 64,
+        "currentYearAmount": null
+      },
+      {
+        "section": "התחייבויות",
+        "lineLabel": "סכומים שנתקבלו להקטנת גרעונות",
+        "priorYearAmount": null,
+        "currentYearAmount": 475
+      },
+      {
+        "section": "התחייבויות",
+        "lineLabel": "מענקים להקטנת גרעון",
+        "priorYearAmount": 237,
+        "currentYearAmount": null
+      },
+      {
         "section": "נכסים",
-        "lineLabel": "חובות פתוחים (חייבים בגין ארנונה ומיסים אחרים)",
+        "lineLabel": "מלוות מבנקים וממוסדות כספיים",
+        "priorYearAmount": 14910,
+        "currentYearAmount": 12116
+      },
+      {
+        "section": "נכסים",
+        "lineLabel": "חובות פתוחים",
         "priorYearAmount": 137635,
         "currentYearAmount": 148970
       },
@@ -133,81 +157,177 @@
       },
       {
         "section": "נכסים",
-        "lineLabel": "סך כל הנכסים הנזילים קופה ובנקים",
-        "priorYearAmount": 8536,
-        "currentYearAmount": 8770
+        "lineLabel": "כולל פקדונות לזמן קצר",
+        "priorYearAmount": null,
+        "currentYearAmount": 28
       },
       {
         "section": "נכסים",
-        "lineLabel": "משרד החינוך (הכנסות מתוקצבות שטרם נגבו)",
+        "lineLabel": "משרד החינוך",
         "priorYearAmount": 1129,
         "currentYearAmount": 573
       },
       {
         "section": "נכסים",
-        "lineLabel": "משרד הפנים (הכנסות מתוקצבות שטרם נגבו)",
+        "lineLabel": "משרד הפנים",
         "priorYearAmount": 741,
         "currentYearAmount": null
       },
       {
         "section": "נכסים",
-        "lineLabel": "מוסדות אחרים (הכנסות מתוקצבות שטרם נגבו)",
+        "lineLabel": "מוסדות אחרים",
         "priorYearAmount": 640,
         "currentYearAmount": 300
       },
       {
         "section": "נכסים",
-        "lineLabel": "משרד התרבות והספורט (הכנסות מתוקצבות שטרם נגבו)",
+        "lineLabel": "משרד התרבות והספורט",
         "priorYearAmount": 140,
         "currentYearAmount": 151
       },
       {
         "section": "נכסים",
-        "lineLabel": "המשרד לביטחון פנים (הכנסות מתוקצבות שטרם נגבו)",
+        "lineLabel": "המשרד לביטחון פנים",
         "priorYearAmount": 124,
         "currentYearAmount": 43
       },
       {
         "section": "נכסים",
-        "lineLabel": "הועדה המקומית לתכנון ובניה-מעלה חרמון (הכנסות מתוקצבות שטרם נגבו)",
+        "lineLabel": "הועדה המקומית לתכנון ובניה-מעלה חרמון",
         "priorYearAmount": 4802,
         "currentYearAmount": 3890
       },
       {
         "section": "נכסים",
-        "lineLabel": "תאגיד המים-התנור (הכנסות מתוקצבות שטרם נגבו)",
+        "lineLabel": "תאגיד המים-התנור",
         "priorYearAmount": 129,
         "currentYearAmount": 60
       },
       {
         "section": "נכסים",
-        "lineLabel": "חברות כרטיסי אשראי (הכנסות מתוקצבות שטרם נגבו)",
+        "lineLabel": "חברות כרטיסי אשראי",
         "priorYearAmount": 26,
         "currentYearAmount": 18
       },
       {
         "section": "נכסים",
-        "lineLabel": "סה\"כ הכנסות מתוקצבות שטרם נגבו",
-        "priorYearAmount": 7731,
-        "currentYearAmount": 5035
-      },
-      {
-        "section": "נכסים",
-        "lineLabel": "עובדים-משיכה על חשבון משכורת (חייבים - תשלומים לא מתוקצבים)",
+        "lineLabel": "עובדים-משיכה על חשבון משכורת",
         "priorYearAmount": 31,
         "currentYearAmount": 23
       },
       {
         "section": "נכסים",
-        "lineLabel": "חייבים אחרים (חייבים - תשלומים לא מתוקצבים)",
+        "lineLabel": "חייבים אחרים",
         "priorYearAmount": 297,
         "currentYearAmount": 427
       },
       {
         "section": "נכסים",
-        "lineLabel": "סה\"כ חייבים - תשלומים לא מתוקצבים",
-        "priorYearAmount": 328,
-        "currentYearAmount": 450
+        "lineLabel": "יתרה לתחילת השנה (השקעות במימון קרנות בלתי מתוקצבות)",
+        "priorYearAmount": 807,
+        "currentYearAmount": 779
+      },
+      {
+        "section": "נכסים",
+        "lineLabel": "הפקדות במהלך השנה (השקעות במימון קרנות בלתי מתוקצבות)",
+        "priorYearAmount": 58,
+        "currentYearAmount": 58
+      },
+      {
+        "section": "נכסים",
+        "lineLabel": "רווח (הפסד) ביעודה השנה (השקעות במימון קרנות בלתי מתוקצבות)",
+        "priorYearAmount": -86,
+        "currentYearAmount": 63
+      },
+      {
+        "section": "נכסים",
+        "lineLabel": "מניות במי התנור בע\"מ",
+        "priorYearAmount": 24,
+        "currentYearAmount": 24
+      },
+      {
+        "section": "נכסים",
+        "lineLabel": "פרמיה על מניות חברת התנור",
+        "priorYearAmount": 10495,
+        "currentYearAmount": 10495
+      },
+      {
+        "section": "נכסים",
+        "lineLabel": "בנקים מסחריים (משיכות יתר)",
+        "priorYearAmount": null,
+        "currentYearAmount": 863
+      },
+      {
+        "section": "נכסים",
+        "lineLabel": "הלוואות לזמן קצר",
+        "priorYearAmount": 2826,
+        "currentYearAmount": 2829
+      },
+      {
+        "section": "התחייבויות",
+        "lineLabel": "ספקים, קבלנים ונותני שירותים",
+        "priorYearAmount": 21191,
+        "currentYearAmount": 15442
+      },
+      {
+        "section": "התחייבויות",
+        "lineLabel": "עובדים וניכויים לשלם",
+        "priorYearAmount": 2036,
+        "currentYearAmount": 2221
+      },
+      {
+        "section": "התחייבויות",
+        "lineLabel": "מוסדות וזכאים שונים",
+        "priorYearAmount": 710,
+        "currentYearAmount": 1472
+      },
+      {
+        "section": "התחייבויות",
+        "lineLabel": "המחאות לפרעון",
+        "priorYearAmount": 26,
+        "currentYearAmount": 24
+      },
+      {
+        "section": "התחייבויות",
+        "lineLabel": "הפרשה להתחייבויות תלויות (ראה ביאור 17)",
+        "priorYearAmount": 931,
+        "currentYearAmount": 1226
+      },
+      {
+        "section": "התחייבויות",
+        "lineLabel": "הוצאות לשלם",
+        "priorYearAmount": 454,
+        "currentYearAmount": 247
+      },
+      {
+        "section": "התחייבויות",
+        "lineLabel": "זכאים בגין ארנונה",
+        "priorYearAmount": 678,
+        "currentYearAmount": 610
+      },
+      {
+        "section": "התחייבויות",
+        "lineLabel": "יתרה לתחילת השנה (קרנות בלתי מתוקצבות אחרות)",
+        "priorYearAmount": 813,
+        "currentYearAmount": 783
+      },
+      {
+        "section": "התחייבויות",
+        "lineLabel": "ניכוי מהעובדים במהלך השנה (קרנות בלתי מתוקצבות אחרות)",
+        "priorYearAmount": 56,
+        "currentYearAmount": 58
+      },
+      {
+        "section": "התחייבויות",
+        "lineLabel": "רווח (הפסד) ביעודה השנה (קרנות בלתי מתוקצבות אחרות)",
+        "priorYearAmount": -86,
+        "currentYearAmount": 63
+      },
+      {
+        "section": "התחייבויות",
+        "lineLabel": "מלוות להקטנת גרעון",
+        "priorYearAmount": 238,
+        "currentYearAmount": null
       }
     ],
     "budgetPaymentsByChapter": [
@@ -406,7 +526,7 @@
         "chapterName": "נכסים ציבוריים",
         "budgetAmount": 430,
         "chapterNumber": "24",
-        "actualPriorYear": 0,
+        "actualPriorYear": null,
         "actualCurrentYear": 421
       },
       {

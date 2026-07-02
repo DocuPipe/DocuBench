@@ -1,12 +1,12 @@
 {
-  "score": 0.9661016949152542,
+  "score": 0.9491525423728815,
   "cost": 0.07500000000000001,
-  "time_sec": 9.072,
+  "time_sec": 11.482,
   "num_pages": 3,
   "data": {
     "datasetTotals": {
       "rowCount": 30,
-      "totalProfit": 522022.5,
+      "totalProfit": 563057.5,
       "totalUnitsSold": 42041
     },
     "governmentSegmentRows": [
@@ -70,7 +70,7 @@
         "country": "Mexico",
         "product": "Paseo",
         "quantitySold": 883,
-        "grossMarginPct": 28.6,
+        "grossMarginPct": 28.5,
         "priceEffectiveDate": null,
         "totalManufacturingCost": 8830
       },

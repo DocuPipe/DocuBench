@@ -1,7 +1,7 @@
 {
-  "score": 0.9780656342846852,
-  "cost": 0.6162549,
-  "time_sec": 230.74892902374268,
+  "score": 0.9769402178806157,
+  "cost": 0.5898333,
+  "time_sec": 62.30448031425476,
   "num_pages": 18,
   "data": {
     "accountHolderName": "John W. Doe",
@@ -14,7 +14,7 @@
     "additions": 59269.64,
     "subtractions": -45430.74,
     "changeInInvestmentValue": 1458.33,
-    "endingMarketValueOfHoldings": 108051.18,
+    "endingMarketValueOfHoldings": 108051.0,
     "holdings": [
       {
         "description": "FDIC INSURED DEPOSIT AT FIFTH THIRD BANK IRA NOT COVERED BY SIPC",
@@ -187,7 +187,7 @@
         "unrealizedGainLoss": null
       },
       {
-        "description": "M VENTAS INC",
+        "description": "VENTAS INC",
         "symbol": "VTR",
         "holdingType": "Other",
         "quantity": 500.0,
@@ -336,7 +336,7 @@
       },
       {
         "date": "2015-07-31",
-        "securityName": "ENSTAR GROUP LIMITED COM STK USD 1.00",
+        "securityName": "ENSTAR GROUP LIMITED COM STK USD 1.00 Z70-666580-1",
         "transactionDescription": "Trans. from account 222-222222",
         "quantity": 100.0,
         "price": 102.96,

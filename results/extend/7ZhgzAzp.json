@@ -1,7 +1,7 @@
 {
-  "score": 0.9047619047619048,
+  "score": 0.9523809523809523,
   "cost": 0.0625,
-  "time_sec": 36.287,
+  "time_sec": 20.685,
   "num_pages": 1,
   "data": {
     "pieces": 60,
@@ -18,7 +18,7 @@
     "shipperAddress": "P.O.BOX 261131, JEBEL ALI FREE ZONE, DUBAI, U.A.E. TEL:+971 4 8833887 AE",
     "executedAtPlace": "DUBAI",
     "consigneeAddress": "RAS DESTA DAMTEW AVENUE , P.O.BOX 195, ADDIS ABABA - ETHIOPIA, TEL: 251 11 551 91 44 / FAX 251 11 551 26 43",
-    "goodsDescription": "MOSQUITO NETS",
+    "goodsDescription": "MOSQUITO NETS 60 @ 30 X 22 X 12 CMS",
     "issuingAgentName": "HAWK FREIGHT SERVICES FZE",
     "airportOfDeparture": "DUBAI",
     "chargeableWeightKg": 2520,

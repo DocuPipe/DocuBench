@@ -1,7 +1,7 @@
 {
-  "score": 1.0,
-  "cost": 0.091378,
-  "time_sec": 1.1111972332000732,
+  "score": 0.975609756097561,
+  "cost": 0.090378,
+  "time_sec": 1.049311876296997,
   "num_pages": 2,
   "data": {
     "companyName": null,
@@ -160,10 +160,6 @@
       {
         "lineItem": "Imposto sobre o rendimento do período",
         "amount": -953428.03
-      },
-      {
-        "lineItem": "Resultado líquido do período",
-        "amount": 2290070.91
       }
     ],
     "totalAtivo": 43625038.87,

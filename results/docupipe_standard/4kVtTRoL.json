@@ -1,7 +1,7 @@
 {
-  "score": 0.8108108108108109,
-  "cost": 0.054687000000000006,
-  "time_sec": 4.740299940109253,
+  "score": 1.0,
+  "cost": 0.05150250000000001,
+  "time_sec": 49.08637523651123,
   "num_pages": 5,
   "data": {
     "statementMonth": "September 2015",
@@ -475,132 +475,6 @@
         "discountRate": 0.01,
         "itemRate": 0.0,
         "feeAmount": 2.44
-      },
-      {
-        "description": "VISA AUTH ACCESS FEE",
-        "items": 90.0,
-        "amount": null,
-        "averageTicket": null,
-        "discountRate": null,
-        "itemRate": 0.0195,
-        "feeAmount": 1.76
-      },
-      {
-        "description": "VISA MSUSE",
-        "items": 1.0,
-        "amount": null,
-        "averageTicket": null,
-        "discountRate": null,
-        "itemRate": 0.045,
-        "feeAmount": 0.05
-      },
-      {
-        "description": "VISA AUTH ACCESS DEBIT",
-        "items": 153.0,
-        "amount": null,
-        "averageTicket": null,
-        "discountRate": null,
-        "itemRate": 0.0195,
-        "feeAmount": 2.98
-      },
-      {
-        "description": "MASTERCARD CVC2 FEE",
-        "items": 101.0,
-        "amount": null,
-        "averageTicket": null,
-        "discountRate": null,
-        "itemRate": 0.0025,
-        "feeAmount": 0.25
-      },
-      {
-        "description": "REJECT BATCH REENTRY",
-        "items": 1.0,
-        "amount": null,
-        "averageTicket": null,
-        "discountRate": null,
-        "itemRate": 0.25,
-        "feeAmount": 0.25
-      },
-      {
-        "description": "ONLINE DATA ENTRY",
-        "items": 7.0,
-        "amount": null,
-        "averageTicket": null,
-        "discountRate": null,
-        "itemRate": 0.0,
-        "feeAmount": 0.0
-      },
-      {
-        "description": "GLB ATLANTA",
-        "items": 17.0,
-        "amount": null,
-        "averageTicket": null,
-        "discountRate": null,
-        "itemRate": 0.25,
-        "feeAmount": 4.25
-      },
-      {
-        "description": "PCI-DSS Regulations Update",
-        "items": 1.0,
-        "amount": null,
-        "averageTicket": null,
-        "discountRate": null,
-        "itemRate": 10.0,
-        "feeAmount": 10.0
-      },
-      {
-        "description": "MONTHLY SERVICE FEE",
-        "items": 0.0,
-        "amount": null,
-        "averageTicket": null,
-        "discountRate": null,
-        "itemRate": 0.0,
-        "feeAmount": 10.0
-      },
-      {
-        "description": "REGULATORY FEE",
-        "items": 0.0,
-        "amount": null,
-        "averageTicket": null,
-        "discountRate": null,
-        "itemRate": 0.0,
-        "feeAmount": 1.95
-      },
-      {
-        "description": "CNP FANF/LIC FEE",
-        "items": 1.0,
-        "amount": null,
-        "averageTicket": null,
-        "discountRate": null,
-        "itemRate": 45.0,
-        "feeAmount": 45.0
-      },
-      {
-        "description": "INTERNET GATEWAY FEE",
-        "items": 1.0,
-        "amount": null,
-        "averageTicket": null,
-        "discountRate": null,
-        "itemRate": 20.0,
-        "feeAmount": 20.0
-      },
-      {
-        "description": "INCOMING RETRIEVALS",
-        "items": 0.0,
-        "amount": null,
-        "averageTicket": null,
-        "discountRate": null,
-        "itemRate": 0.0,
-        "feeAmount": 0.0
-      },
-      {
-        "description": "INCOMING CHARGEBACKS",
-        "items": 5.0,
-        "amount": null,
-        "averageTicket": null,
-        "discountRate": null,
-        "itemRate": 25.0,
-        "feeAmount": 125.0
       }
     ],
     "chargebacks": [

@@ -1,7 +1,7 @@
 {
-  "score": 0.9442786512850209,
-  "cost": 0.13896150000000002,
-  "time_sec": 108.74278593063354,
+  "score": 0.9469177319495793,
+  "cost": 0.1046015,
+  "time_sec": 12.500739097595215,
   "num_pages": 18,
   "data": {
     "accountHolderName": "John W. Doe",
@@ -632,7 +632,7 @@
       },
       {
         "date": "2015-07-17",
-        "securityName": null,
+        "securityName": "Baidu.com Inc Spon",
         "transactionDescription": "Baidu.com Inc Spon",
         "quantity": null,
         "price": null,

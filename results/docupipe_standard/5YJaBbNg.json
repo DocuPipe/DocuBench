@@ -1,10 +1,10 @@
 {
-  "score": 0.9879518072289156,
-  "cost": 0.014291350000000001,
-  "time_sec": 0.9760000705718994,
+  "score": 1.0,
+  "cost": 0.0160265,
+  "time_sec": 0.8681049346923828,
   "num_pages": 2,
   "data": {
-    "companyName": "bif",
+    "companyName": null,
     "balanceSheetDate": "2023-12-31",
     "balanceSheet": [
       {

@@ -1,7 +1,7 @@
 {
-  "score": 0.9652173913043478,
-  "cost": 0.141678,
-  "time_sec": 1.254406213760376,
+  "score": 0.9826086956521739,
+  "cost": 0.122706,
+  "time_sec": 1.1311349868774414,
   "num_pages": 2,
   "data": {
     "companyName": "DEG",
@@ -215,6 +215,10 @@
       {
         "lineItem": "13. Steuern vom Einkommen und vom Ertrag",
         "amount": 11802977.0
+      },
+      {
+        "lineItem": "14. Ergebnis nach Steuern",
+        "amount": 10662594.0
       },
       {
         "lineItem": "15. Sonstige Steuern",

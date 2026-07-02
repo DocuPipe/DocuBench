@@ -1,7 +1,7 @@
 {
-  "score": 0.9887640449438202,
+  "score": 0.9775280898876404,
   "cost": 0.125,
-  "time_sec": 28.189,
+  "time_sec": 34.1,
   "num_pages": 2,
   "data": {
     "date": "10/12/2000",
@@ -11,8 +11,8 @@
     "weather": "sunny",
     "drainage": "WD (Well Drained)",
     "landform": "low hill",
-    "latitude": "40 ° 49 ' 10.0 \" N",
-    "location": "NE 1/4, SW 1/4 Sec. 20 T. 10N R. 6E",
+    "latitude": "40 ° 49' 10.0 \" N",
+    "location": "NE 1/4, SW 1/4",
     "elevation": "1240 '",
     "landscape": "upland",
     "longitude": "96 ° 46 ' 06.1 \" W",

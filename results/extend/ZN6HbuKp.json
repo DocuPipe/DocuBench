@@ -1,7 +1,7 @@
 {
-  "score": 0.8205128205128205,
+  "score": 0.5396825396825397,
   "cost": 0.037500000000000006,
-  "time_sec": 7.052,
+  "time_sec": 11.391,
   "num_pages": 1,
   "data": {
     "largeDebits": [
@@ -55,11 +55,11 @@
         "debitAmountUsd": 209.35
       },
       {
-        "merchant": "ATM FEE",
-        "postedOn": "2025-01-16",
+        "merchant": "SHELL OIL 57",
+        "postedOn": "2025-02-13",
         "valueDate": null,
-        "spendCategory": "Fees",
-        "debitAmountUsd": 25
+        "spendCategory": "Transport",
+        "debitAmountUsd": 145.46
       },
       {
         "merchant": "WHOLE FOODS MKT",
@@ -118,6 +118,27 @@
         "debitAmountUsd": 182.64
       },
       {
+        "merchant": "ACME CORP DIRECT DEP",
+        "postedOn": "2025-01-03",
+        "valueDate": null,
+        "spendCategory": "Payroll",
+        "debitAmountUsd": 2217.08
+      },
+      {
+        "merchant": "ATM FEE",
+        "postedOn": "2025-01-16",
+        "valueDate": null,
+        "spendCategory": "Fees",
+        "debitAmountUsd": 25
+      },
+      {
+        "merchant": "ONLINE XFER TO SAVINGS",
+        "postedOn": "2025-01-18",
+        "valueDate": null,
+        "spendCategory": "Transfer",
+        "debitAmountUsd": 52.76
+      },
+      {
         "merchant": "ATM FEE",
         "postedOn": "2025-01-21",
         "valueDate": null,
@@ -125,15 +146,78 @@
         "debitAmountUsd": 25
       },
       {
+        "merchant": "SAFEWAY #412",
+        "postedOn": "2025-02-03",
+        "valueDate": null,
+        "spendCategory": "Groceries",
+        "debitAmountUsd": 77.44
+      },
+      {
+        "merchant": "ACME CORP DIRECT DEP",
+        "postedOn": "2025-02-07",
+        "valueDate": null,
+        "spendCategory": "Payroll",
+        "debitAmountUsd": 3094.54
+      },
+      {
+        "merchant": "AMAZON MKTPL",
+        "postedOn": "2025-02-08",
+        "valueDate": null,
+        "spendCategory": "Retail",
+        "debitAmountUsd": 73.12
+      },
+      {
+        "merchant": "MONTHLY SERVICE FEE",
+        "postedOn": "2025-02-10",
+        "valueDate": null,
+        "spendCategory": "Fees",
+        "debitAmountUsd": 25
+      },
+      {
+        "merchant": "MONTHLY SERVICE FEE",
+        "postedOn": "2025-02-14",
+        "valueDate": null,
+        "spendCategory": "Fees",
+        "debitAmountUsd": 12
+      },
+      {
+        "merchant": "CVS PHARMACY 8842",
+        "postedOn": "2025-02-16",
+        "valueDate": null,
+        "spendCategory": "Healthcare",
+        "debitAmountUsd": 22.09
+      },
+      {
+        "merchant": "NETFLIX.COM",
+        "postedOn": "2025-02-17",
+        "valueDate": null,
+        "spendCategory": "Subscription",
+        "debitAmountUsd": 48.97
+      },
+      {
         "merchant": "KAISER PERMANENTE",
         "postedOn": "2025-02-23",
         "valueDate": null,
         "spendCategory": "Healthcare",
         "debitAmountUsd": 62.42
+      },
+      {
+        "merchant": "CHIPOTLE 2231",
+        "postedOn": "2025-03-04",
+        "valueDate": null,
+        "spendCategory": "Dining",
+        "debitAmountUsd": 49.56
+      },
+      {
+        "merchant": "BART CLIPPER",
+        "postedOn": "2025-03-12",
+        "valueDate": null,
+        "spendCategory": "Transport",
+        "debitAmountUsd": 82.4
       }
     ],
     "accountSummary": {
-      "totalDebits": 2957.97,
+      "totalDebits": 2826.37,
       "totalCredits": 8338.16,
       "closingBalance": 9881.29,
       "openingBalance": 5000,

@@ -1,7 +1,7 @@
 {
-  "score": 1.0,
+  "score": 0.9836065573770492,
   "cost": 0.0625,
-  "time_sec": 16.616,
+  "time_sec": 23.8,
   "num_pages": 1,
   "data": {
     "charges": [
@@ -73,7 +73,7 @@
     "numberOfPacks": 12,
     "placeOfOrigin": "NHAVA SHEVA (JAWAHARLAL NEHRU), INDIA",
     "paymentDueDate": "27-NOV-18",
-    "customerAddress": "AL NABHA, DUBAI",
+    "customerAddress": "AL NABHA, DUBAI\nPhone : 04-233456\nGSTIN No. : 29760737473",
     "finalDestination": "JEBEL ALI, UAE"
   }
 }

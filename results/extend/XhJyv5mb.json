@@ -1,11 +1,11 @@
 {
-  "score": 0.9739130434782609,
+  "score": 0.7350427350427351,
   "cost": 0.125,
-  "time_sec": 17.982,
+  "time_sec": 36.27,
   "num_pages": 2,
   "data": {
     "netResult": 10249807,
-    "companyName": "DEG (Deutsche Investitions- und Entwicklungsgesellschaft mbH)",
+    "companyName": "DEG",
     "totalAssets": 7701888860,
     "balanceSheet": [
       {
@@ -66,7 +66,7 @@
       },
       {
         "amount": 2516308,
-        "lineItem": "Il. Sonstige Wertpapiere"
+        "lineItem": "II. Sonstige Wertpapiere"
       },
       {
         "amount": 171301263,
@@ -79,54 +79,6 @@
       {
         "amount": 375514644,
         "lineItem": "D. Treuhandvermögen"
-      },
-      {
-        "amount": 750000000,
-        "lineItem": "1. Gezeichnetes Kapital"
-      },
-      {
-        "amount": 1541036881,
-        "lineItem": "Stand 1. Januar"
-      },
-      {
-        "amount": 215585315,
-        "lineItem": "Einstellung aus dem Jahresüberschuss (i. Vj. Entnahme des Jahresfehlbetrages des Vorjahres)"
-      },
-      {
-        "amount": 1756622196,
-        "lineItem": "Stand 31. Dezember"
-      },
-      {
-        "amount": 10249807,
-        "lineItem": "III. Jahresüberschuss"
-      },
-      {
-        "amount": 166920194,
-        "lineItem": "1. Rückstellungen für Pensionen und ähnliche Verpflichtungen"
-      },
-      {
-        "amount": 9221336,
-        "lineItem": "2. Steuerrückstellungen"
-      },
-      {
-        "amount": 69291277,
-        "lineItem": "3. Sonstige Rückstellungen"
-      },
-      {
-        "amount": 4482620874,
-        "lineItem": "1. Verbindlichkeiten zur Finanzierung des Investitionsgeschäftes"
-      },
-      {
-        "amount": 484526,
-        "lineItem": "2. Verbindlichkeiten aus Lieferungen und Leistungen"
-      },
-      {
-        "amount": 80964006,
-        "lineItem": "3. Sonstige Verbindlichkeiten"
-      },
-      {
-        "amount": 375514644,
-        "lineItem": "D. Verbindlichkeiten gegenüber Treugebern"
       }
     ],
     "incomeStatement": [
@@ -219,12 +171,20 @@
         "lineItem": "13. Steuern vom Einkommen und vom Ertrag"
       },
       {
+        "amount": 15954814,
+        "lineItem": "1. Umsatzerlöse"
+      },
+      {
         "amount": 412787,
         "lineItem": "15. Sonstige Steuern"
       },
       {
-        "amount": 10249807,
-        "lineItem": "16. Jahresüberschuss"
+        "amount": 92094482,
+        "lineItem": "5. Erträge aus Zuschreibungen und der Auflösung von Rückstellungen im Kredit- und Beteiligungsgeschäft"
+      },
+      {
+        "amount": 292614658,
+        "lineItem": "8. Abschreibungen und Wertberichtigungen sowie Zuführungen zu Rückstellungen im Kredit- und Beteiligungsgeschäft"
       }
     ],
     "balanceSheetDate": "2022-12-31",

@@ -1,11 +1,11 @@
 {
-  "score": 1.0,
+  "score": 0.9807692307692307,
   "cost": 0.125,
-  "time_sec": 16.439,
+  "time_sec": 31.208,
   "num_pages": 2,
   "data": {
     "patient": {
-      "age": "27 YRS",
+      "age": "27 Y",
       "sex": "M",
       "name": "Saubhik Bhaumik"
     },

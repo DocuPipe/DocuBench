@@ -1,7 +1,7 @@
 {
-  "score": 0.816923076923077,
+  "score": 0.7953846153846155,
   "cost": 0.0625,
-  "time_sec": 22.99,
+  "time_sec": 23.209,
   "num_pages": 1,
   "data": {
     "location": "Greenbelt, Maryland",
@@ -109,7 +109,7 @@
         "description": "BASE, MOUNT C"
       },
       {
-        "itemNo": "X",
+        "itemNo": null,
         "partNo": "GD1416597",
         "material": null,
         "quantity": null,
