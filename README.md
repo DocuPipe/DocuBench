@@ -24,7 +24,7 @@ Most document-AI evaluations stop at clean, single-page PDFs. DocuBench is built
 
 <br>
 
-**Explore:** [Leaderboard](#leaderboard) · [Results explorer](https://htmlpreview.github.io/?https://github.com/DocuPipe/docubench/blob/main/docubench-explorer.html) · [Hosted leaderboard](space)  
+**Explore:** [Leaderboard](#leaderboard) · [Results explorer](https://htmlpreview.github.io/?https://github.com/DocuPipe/docubench/blob/main/docubench-explorer.html) · [Hosted leaderboard](https://huggingface.co/spaces/DocuPipe/docubench-leaderboard)  
 **Docs:** [Dataset card](docs/dataset-card.md) · [Scoring](docs/scoring.md) · [Make a submission](#make-a-submission)
 
 ---
@@ -44,7 +44,7 @@ The committed baselines, scored by the public scorer ([`scorer.py`](scorer.py)) 
 
 > DocuPipe built this benchmark, so we hold our own results to the same bar as everyone else: identical schemas, identical labels, the same open scorer, and every raw model output committed under [`results/`](results). Run `docubench score` and you will reproduce this table.
 
-**🔎 Explore it interactively.** Open the [**results explorer**](https://htmlpreview.github.io/?https://github.com/DocuPipe/docubench/blob/main/docubench-explorer.html) to filter all 50 documents by file type, language, and capability and drill into per-document scores. It is a single self-contained file ([`docubench-explorer.html`](docubench-explorer.html)) you can also open locally. A hosted [Hugging Face Space](space) renders the same leaderboard online, and full per-document numbers live in [`results/summary.json`](results/summary.json).
+**🔎 Explore it interactively.** Open the [**results explorer**](https://htmlpreview.github.io/?https://github.com/DocuPipe/docubench/blob/main/docubench-explorer.html) to filter all 50 documents by file type, language, and capability and drill into per-document scores. It is a single self-contained file ([`docubench-explorer.html`](docubench-explorer.html)) you can also open locally. A hosted [Hugging Face Space](https://huggingface.co/spaces/DocuPipe/docubench-leaderboard) renders the same leaderboard online, and full per-document numbers live in [`results/summary.json`](results/summary.json).
 
 These are baseline submissions, not a closed leaderboard — the repository is structured so any new system can be scored against the same documents.
 
