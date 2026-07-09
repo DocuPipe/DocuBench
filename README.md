@@ -9,7 +9,7 @@ Built and maintained by **[DocuPipe](https://www.docupipe.ai)**. Every system, i
 [![Data: CC BY 4.0](https://img.shields.io/badge/data-CC%20BY%204.0-blue.svg)](docs/dataset-card.md)
 [![Python 3.11+](https://img.shields.io/badge/python-3.11%2B-blue.svg)](pyproject.toml)
 
-Most document-AI evaluations stop at clean, single-page PDFs. DocuBench is built to break extraction systems on what real documents actually look like: multi-row arrays and multi-page tables, totals that must reconcile, right-to-left and CJK scripts, rotated scans, handwriting, and ten different file types.
+DocuBench is built to break extraction systems on what real documents actually look like: multi-row arrays and multi-page tables, totals that must reconcile, right-to-left and CJK scripts, rotated scans, handwriting, and ten different file types.
 
 <br>
 
