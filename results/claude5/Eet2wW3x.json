@@ -1,0 +1,106 @@
+{
+  "status": "ok",
+  "cost": 0.044235,
+  "time_sec": 10.916589975357056,
+  "data": {
+    "amountInWords": "Dirham Seven Hundred Fifty-Six and Sixteen Fils Only",
+    "charges": [
+      {
+        "description": "DELIVERY ORDER CHARGES",
+        "currency": "AED",
+        "ratePerUnit": 275.0,
+        "unit": 1,
+        "currencyAmount": 275.0,
+        "roe": 1.0,
+        "totalPriceExclVat": 275.0,
+        "vatPercent": 5,
+        "vatAmount": 13.75,
+        "total": 288.75
+      },
+      {
+        "description": "THC CHARGES",
+        "currency": "AED",
+        "ratePerUnit": 50.0,
+        "unit": 1.903,
+        "currencyAmount": 95.15,
+        "roe": 1.0,
+        "totalPriceExclVat": 95.15,
+        "vatPercent": 5,
+        "vatAmount": 4.76,
+        "total": 99.91
+      },
+      {
+        "description": "DOCUMENTATION CHARGES",
+        "currency": "AED",
+        "ratePerUnit": 100.0,
+        "unit": 1,
+        "currencyAmount": 100.0,
+        "roe": 1.0,
+        "totalPriceExclVat": 100.0,
+        "vatPercent": 5,
+        "vatAmount": 5.0,
+        "total": 105.0
+      },
+      {
+        "description": "HANDLING CHARGES",
+        "currency": "AED",
+        "ratePerUnit": 250.0,
+        "unit": 1,
+        "currencyAmount": 250.0,
+        "roe": 1.0,
+        "totalPriceExclVat": 250.0,
+        "vatPercent": 5,
+        "vatAmount": 12.5,
+        "total": 262.5
+      }
+    ],
+    "consignee": "FRESA DEMO DUBAI LLC",
+    "currency": "AED",
+    "customer": "FRESA DEMO DUBAI LLC",
+    "customerAddress": "AL NABHA, DUBAI",
+    "finalDestination": "JEBEL ALI, UAE",
+    "grandTotal": 756.16,
+    "houseNumber": "500138050266 / 10-OCT-18",
+    "invoiceDate": "27-NOV-18 (CREATED)",
+    "invoiceNumber": "INV1800564",
+    "jobNumber": "CCDXBSI18000061 / 27-NOV-18",
+    "masterNumber": "NSA.JEA.18/26917 / 12-OCT-18",
+    "numberOfPacks": 12.0,
+    "paymentDueDate": "27-NOV-18",
+    "placeOfOrigin": "NHAVA SHEVA (JAWAHARLAL NEHRU), INDIA",
+    "shipper": "PAHILAJRAI JAIKISHIN AND CO",
+    "totalExclVat": 720.15,
+    "totalVat": 36.01,
+    "vesselFlight": "NORTHERN GENERAL / 0068",
+    "volumeCbm": 1.903,
+    "weightKgs": 1116.0
+  },
+  "meta": {
+    "provider": "anthropic_bedrock",
+    "model": "claude-sonnet-5",
+    "bedrock_model_id": "global.anthropic.claude-sonnet-5",
+    "bedrock_region": "us-east-1",
+    "doc_id": "Eet2wW3x",
+    "response_id": "msg_bdrk_txcthvvicqf5ctzsi46aymtmgfxliqgwug5jxewkubmaywxz6itq",
+    "usage": {
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "input_tokens": 8655,
+      "output_tokens": 1218,
+      "server_tool_use": null,
+      "service_tier": "standard",
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens_details": {
+        "thinking_tokens": 0
+      }
+    },
+    "schema_mode": "bedrock_tool_required_nonnullable_v1",
+    "input_mode": "pdf_document",
+    "guidelines_mode": "guidelines_txt_v1",
+    "guidelines_chars": 673,
+    "guidelines_sha256": "359556bb62098fc56c1f74e67c3309bb57570d72e6455ac7174b5bc205790809"
+  }
+}

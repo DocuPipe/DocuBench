@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "cost": null,
-  "time_sec": 10.18840503692627,
+  "time_sec": 10.9878089427948,
   "data": {
     "patient": {
       "name": "Saubhik Bhaumik",
@@ -108,23 +108,26 @@
     "model": "gemini-3.5-flash",
     "doc_id": "LYeb3G3s",
     "usage": {
-      "promptTokenCount": 1118,
+      "promptTokenCount": 1179,
       "candidatesTokenCount": 833,
-      "totalTokenCount": 2983,
+      "totalTokenCount": 3471,
       "promptTokensDetails": [
-        {
-          "modality": "TEXT",
-          "tokenCount": 54
-        },
         {
           "modality": "IMAGE",
           "tokenCount": 1064
+        },
+        {
+          "modality": "TEXT",
+          "tokenCount": 115
         }
       ],
-      "thoughtsTokenCount": 1032,
+      "thoughtsTokenCount": 1459,
       "serviceTier": "standard"
     },
     "schema_mode": "gemini_response_schema_nullable_v1",
-    "input_mode": "inline_data"
+    "input_mode": "inline_data",
+    "guidelines_mode": "guidelines_txt_v1",
+    "guidelines_chars": 263,
+    "guidelines_sha256": "358cbcf4d0900e2318b7e63f8f525d08ecd2b038fa15859e134594fe0a2c193c"
   }
 }

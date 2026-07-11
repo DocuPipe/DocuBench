@@ -1,19 +1,19 @@
 {
   "status": "ok",
   "cost": null,
-  "time_sec": 49.054908990859985,
+  "time_sec": 154.6141848564148,
   "data": {
     "merchantName": "FIVE GUYS",
     "storeNumber": "CA-1661",
-    "storeStreetAddress": "2640 Fifth Street Suite 140",
-    "storeCity": "Alameda",
+    "storeStreetAddress": "2640 W Monte Vista Ave Ste 140",
+    "storeCity": "Turlock",
     "storeState": "CA",
-    "storeZip": "94501",
-    "storePhone": "(510) 338-9760",
+    "storeZip": "95382",
+    "storePhone": "(209) 353-9760",
     "transactionDate": "2017-05-25",
     "transactionTime": "1:00:17 PM",
     "orderId": "47",
-    "registerOrTerminal": "47 - FIVE GUYS",
+    "registerOrTerminal": "1 - SWAPPER/SWEEP",
     "employeeName": "Robert C",
     "lineItems": [
       {
@@ -32,7 +32,7 @@
       },
       {
         "quantity": 1,
-        "description": "Tomatoes",
+        "description": "Tomato",
         "unitPrice": null,
         "lineTotal": 0,
         "isModifier": true
@@ -60,6 +60,13 @@
       },
       {
         "quantity": 1,
+        "description": "Ketchup",
+        "unitPrice": null,
+        "lineTotal": 0,
+        "isModifier": true
+      },
+      {
+        "quantity": 1,
         "description": "Jalapeno Peppers",
         "unitPrice": null,
         "lineTotal": 0,
@@ -68,34 +75,34 @@
       {
         "quantity": 2,
         "description": "Large Fry",
-        "unitPrice": 5.84,
-        "lineTotal": 11.68,
+        "unitPrice": 5.79,
+        "lineTotal": 11.58,
         "isModifier": false
       },
       {
         "quantity": 1,
-        "description": "Little Fry",
+        "description": "Hot Dog",
         "unitPrice": null,
-        "lineTotal": 3.35,
+        "lineTotal": 3.65,
         "isModifier": false
       },
       {
         "quantity": 1,
         "description": "Cheeseburger",
         "unitPrice": null,
-        "lineTotal": 7.89,
+        "lineTotal": 7.69,
         "isModifier": false
       },
       {
         "quantity": 1,
-        "description": "Tomato",
+        "description": "Lettuce",
         "unitPrice": null,
         "lineTotal": 0,
         "isModifier": true
       },
       {
         "quantity": 1,
-        "description": "Lettuce",
+        "description": "Tomato",
         "unitPrice": null,
         "lineTotal": 0,
         "isModifier": true
@@ -126,7 +133,7 @@
     "salesTax": 2.35,
     "orderTotal": 32.66,
     "paymentMethod": "MasterCard",
-    "cardLastFour": "2931",
+    "cardLastFour": "4931",
     "authorizationCode": "728762",
     "amountPaid": 32.66
   },
@@ -135,18 +142,22 @@
     "model": "gpt-5.5",
     "doc_id": "B0nA2c30",
     "file_id": null,
-    "response_id": "resp_08b98baa77a8164b016a3e9468adec8192aebae7ea93fb2260",
+    "response_id": "resp_08a7c657c5515d3a016a47d1f3a774819eba912bc5d703a55a",
     "usage": {
-      "input_tokens": 1550,
+      "input_tokens": 1690,
       "input_tokens_details": {
         "cached_tokens": 0
       },
-      "output_tokens": 3142,
+      "output_tokens": 3679,
       "output_tokens_details": {
-        "reasoning_tokens": 2588
+        "reasoning_tokens": 3097
       },
-      "total_tokens": 4692
+      "total_tokens": 5369
     },
-    "schema_mode": "openai_strict_nullable_v1"
+    "schema_mode": "openai_strict_nullable_v1",
+    "input_mode": "image",
+    "guidelines_mode": "guidelines_txt_v1",
+    "guidelines_chars": 647,
+    "guidelines_sha256": "eb3706f99a74fa4354eb31e5fb78a50e61f5d1dc6d593ed9702000628b9875ad"
   }
 }

@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "cost": null,
-  "time_sec": 7.552137136459351,
+  "time_sec": 8.51105809211731,
   "data": {
     "namedInsured": "John Doe and Susy Doe",
     "policyNumber": "254H089SJ425",
@@ -52,9 +52,9 @@
     "model": "gemini-3.5-flash",
     "doc_id": "1ZVqiyJZ",
     "usage": {
-      "promptTokenCount": 574,
+      "promptTokenCount": 651,
       "candidatesTokenCount": 388,
-      "totalTokenCount": 1923,
+      "totalTokenCount": 2328,
       "promptTokensDetails": [
         {
           "modality": "IMAGE",
@@ -62,13 +62,16 @@
         },
         {
           "modality": "TEXT",
-          "tokenCount": 54
+          "tokenCount": 131
         }
       ],
-      "thoughtsTokenCount": 961,
+      "thoughtsTokenCount": 1289,
       "serviceTier": "standard"
     },
     "schema_mode": "gemini_response_schema_nullable_v1",
-    "input_mode": "inline_data"
+    "input_mode": "inline_data",
+    "guidelines_mode": "guidelines_txt_v1",
+    "guidelines_chars": 340,
+    "guidelines_sha256": "4fb83046825f17dfe2bdf5fb4195ad9e344a0e724d54ac8485c1484e543f4a0c"
   }
 }

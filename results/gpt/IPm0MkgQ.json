@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "cost": null,
-  "time_sec": 40.932008266448975,
+  "time_sec": 46.07544708251953,
   "data": {
     "accountHolderName": "JOHN TEST",
     "accountNumber": "6547",
@@ -353,19 +353,23 @@
     "provider": "openai",
     "model": "gpt-5.5",
     "doc_id": "IPm0MkgQ",
-    "file_id": "file-DXVbw1Q8K96zXULAwQ89AR",
-    "response_id": "resp_0374658cce046410016a3e952625cc81919cc2b69930a36396",
+    "file_id": "file-7doao991yHbszEedp3yLKt",
+    "response_id": "resp_06ccb884be5cfde2016a47d2f4748081a0abb884688451f0c0",
     "usage": {
-      "input_tokens": 6489,
+      "input_tokens": 6576,
       "input_tokens_details": {
         "cached_tokens": 0
       },
-      "output_tokens": 3368,
+      "output_tokens": 3523,
       "output_tokens_details": {
-        "reasoning_tokens": 1525
+        "reasoning_tokens": 1681
       },
-      "total_tokens": 9857
+      "total_tokens": 10099
     },
-    "schema_mode": "openai_strict_nullable_v1"
+    "schema_mode": "openai_strict_nullable_v1",
+    "input_mode": "file",
+    "guidelines_mode": "guidelines_txt_v1",
+    "guidelines_chars": 464,
+    "guidelines_sha256": "af211ef5e103f902d29444ddd7d938a1b9af7d8c3dc07f6ed544be484fd371a7"
   }
 }

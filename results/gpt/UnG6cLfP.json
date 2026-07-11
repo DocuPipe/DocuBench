@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "cost": null,
-  "time_sec": 24.536946058273315,
+  "time_sec": 26.409388780593872,
   "data": {
     "operatorName": "SAMSON EXPLORATION, LLC",
     "checkNumber": null,
@@ -52,19 +52,23 @@
     "provider": "openai",
     "model": "gpt-5.5",
     "doc_id": "UnG6cLfP",
-    "file_id": "file-1wgPab4xS7Pf4hJwKgispm",
-    "response_id": "resp_0976f95147d59737016a3e96766c4881a3812a214b5577183c",
+    "file_id": "file-LWvztvW91SW1SnndRvzULS",
+    "response_id": "resp_0634b98f4bcbd562016a47d4985ee881a38da9e3bfeabdf686",
     "usage": {
-      "input_tokens": 3334,
+      "input_tokens": 3563,
       "input_tokens_details": {
         "cached_tokens": 0
       },
-      "output_tokens": 1627,
+      "output_tokens": 1723,
       "output_tokens_details": {
-        "reasoning_tokens": 1316
+        "reasoning_tokens": 1413
       },
-      "total_tokens": 4961
+      "total_tokens": 5286
     },
-    "schema_mode": "openai_strict_nullable_v1"
+    "schema_mode": "openai_strict_nullable_v1",
+    "input_mode": "file",
+    "guidelines_mode": "guidelines_txt_v1",
+    "guidelines_chars": 942,
+    "guidelines_sha256": "fae0216e91be2177db27278e350f6c546cbe5c5219ad7772695b59d3341fdb06"
   }
 }

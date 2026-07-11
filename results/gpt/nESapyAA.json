@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "cost": null,
-  "time_sec": 11.610625743865967,
+  "time_sec": 11.36672592163086,
   "data": {
     "documentType": "חשבונית מס / קבלה",
     "documentNumber": "104880",
@@ -38,19 +38,22 @@
     "provider": "openai",
     "model": "gpt-5.5",
     "doc_id": "nESapyAA",
-    "file_id": "file-KWWPPfnzJg4hfC7GtZHfah",
-    "response_id": "resp_0ab79194b0e11c86016a3e97757a8c819e92aa992ee15ab24b",
+    "file_id": "file-NBKDYLWDbc4bBkE5NnA3iw",
+    "response_id": "resp_029db581539b56a7016a47d59ea220819c8c5c0ab4a6f1ce28",
     "usage": {
-      "input_tokens": 2357,
+      "input_tokens": 2356,
       "input_tokens_details": {
         "cached_tokens": 0
       },
-      "output_tokens": 431,
+      "output_tokens": 544,
       "output_tokens_details": {
-        "reasoning_tokens": 220
+        "reasoning_tokens": 334
       },
-      "total_tokens": 2788
+      "total_tokens": 2900
     },
-    "schema_mode": "openai_strict_nullable_v1"
+    "schema_mode": "openai_strict_nullable_v1",
+    "input_mode": "file",
+    "guidelines_mode": "none",
+    "guidelines_chars": 0
   }
 }

@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "cost": null,
-  "time_sec": 34.39983510971069,
+  "time_sec": 33.16950511932373,
   "data": {
     "companyName": "DEG",
     "balanceSheetDate": "2022-12-31",
@@ -237,9 +237,9 @@
     "provider": "anthropic",
     "model": "claude-sonnet-4-6",
     "doc_id": "XhJyv5mb",
-    "response_id": "msg_01TcrfCUadpCysfUJWjGw1iA",
+    "response_id": "msg_01Tt6A4y9B69fyY4qoJTWfDh",
     "usage": {
-      "input_tokens": 7346,
+      "input_tokens": 7331,
       "cache_creation_input_tokens": 0,
       "cache_read_input_tokens": 0,
       "cache_creation": {
@@ -250,7 +250,10 @@
       "service_tier": "standard",
       "inference_geo": "global"
     },
-    "schema_mode": "anthropic_output_config_nullable_v1",
-    "input_mode": "pdf_document"
+    "schema_mode": "anthropic_output_config_required_nonnullable_v1",
+    "input_mode": "pdf_document",
+    "guidelines_mode": "guidelines_txt_v1",
+    "guidelines_chars": 453,
+    "guidelines_sha256": "5e54804af6738164f2504704605c5576965d8d554f76fcc281c56c14805187cb"
   }
 }

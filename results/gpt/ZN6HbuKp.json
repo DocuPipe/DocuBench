@@ -1,12 +1,12 @@
 {
   "status": "ok",
   "cost": null,
-  "time_sec": 14.16174602508545,
+  "time_sec": 13.713741064071655,
   "data": {
     "accountSummary": {
       "openingBalance": 5000,
       "closingBalance": 9881.29,
-      "totalDebits": 4456.87,
+      "totalDebits": 3456.87,
       "totalCredits": 8338.16,
       "feeTransactionCount": 6
     },
@@ -130,19 +130,23 @@
     "provider": "openai",
     "model": "gpt-5.5",
     "doc_id": "ZN6HbuKp",
-    "file_id": "file-YNjYvGJ7QbnS6B76GQFeCS",
-    "response_id": "resp_02f6dd59f10193ed016a3e96dcb8848192bbbcd80cb319309f",
+    "file_id": "file-7s2QeKDWKVEVmhsTQLRrR8",
+    "response_id": "resp_0a453e62dc9a5cf0016a47d51b1a5881a383567a10cc08050a",
     "usage": {
-      "input_tokens": 1417,
+      "input_tokens": 1594,
       "input_tokens_details": {
         "cached_tokens": 0
       },
-      "output_tokens": 1207,
+      "output_tokens": 1060,
       "output_tokens_details": {
-        "reasoning_tokens": 516
+        "reasoning_tokens": 370
       },
-      "total_tokens": 2624
+      "total_tokens": 2654
     },
-    "schema_mode": "openai_strict_nullable_v1"
+    "schema_mode": "openai_strict_nullable_v1",
+    "input_mode": "file",
+    "guidelines_mode": "guidelines_txt_v1",
+    "guidelines_chars": 858,
+    "guidelines_sha256": "6e82bc691c65e58dd2189ff43a1c64edec161bf84bb6c5d50a83ab70bd2e119a"
   }
 }

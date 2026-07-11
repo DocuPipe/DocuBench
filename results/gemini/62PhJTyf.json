@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "cost": null,
-  "time_sec": 24.130708932876587,
+  "time_sec": 22.93390989303589,
   "data": {
     "companyName": "Voorbeeld onderneming te Hoofddorp",
     "balanceSheetDate": "2015-12-31",
@@ -154,9 +154,9 @@
     "model": "gemini-3.5-flash",
     "doc_id": "62PhJTyf",
     "usage": {
-      "promptTokenCount": 1651,
+      "promptTokenCount": 1789,
       "candidatesTokenCount": 1103,
-      "totalTokenCount": 6753,
+      "totalTokenCount": 6627,
       "promptTokensDetails": [
         {
           "modality": "IMAGE",
@@ -164,13 +164,16 @@
         },
         {
           "modality": "TEXT",
-          "tokenCount": 55
+          "tokenCount": 193
         }
       ],
-      "thoughtsTokenCount": 3999,
+      "thoughtsTokenCount": 3735,
       "serviceTier": "standard"
     },
     "schema_mode": "gemini_response_schema_nullable_v1",
-    "input_mode": "inline_data"
+    "input_mode": "inline_data",
+    "guidelines_mode": "guidelines_txt_v1",
+    "guidelines_chars": 607,
+    "guidelines_sha256": "12347b5a9c9d4be2acf0f027b2e6cf258c5f852038b977941d293e6846a0d604"
   }
 }

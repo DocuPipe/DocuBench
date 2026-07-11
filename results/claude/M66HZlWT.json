@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "cost": null,
-  "time_sec": 5.912475824356079,
+  "time_sec": 11.855632781982422,
   "data": {
     "patientName": "游詠",
     "medicalRecordNumber": "4226770",
@@ -27,21 +27,23 @@
     "provider": "anthropic",
     "model": "claude-sonnet-4-6",
     "doc_id": "M66HZlWT",
-    "response_id": "msg_01NSTrxYDQBJ2RKKSXLdDpZw",
+    "response_id": "msg_01SRgdmMzbZ6cbb1nKV8iGCL",
     "usage": {
-      "input_tokens": 2365,
+      "input_tokens": 3072,
       "cache_creation_input_tokens": 0,
       "cache_read_input_tokens": 0,
       "cache_creation": {
         "ephemeral_5m_input_tokens": 0,
         "ephemeral_1h_input_tokens": 0
       },
-      "output_tokens": 229,
+      "output_tokens": 147,
       "service_tier": "standard",
       "inference_geo": "global"
     },
-    "schema_mode": "anthropic_output_config_nullable_v1",
+    "schema_mode": "anthropic_output_config_required_nonnullable_v1",
     "input_mode": "image",
-    "schema_fallback": "prompt_json_schema"
+    "guidelines_mode": "guidelines_txt_v1",
+    "guidelines_chars": 578,
+    "guidelines_sha256": "e817fbc7dbdfeba55c6fb633ff14d7c11d36101560f450dc1fe6571a2363e0c7"
   }
 }

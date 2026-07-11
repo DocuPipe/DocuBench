@@ -1,10 +1,10 @@
 {
   "status": "ok",
   "cost": null,
-  "time_sec": 14.011720895767212,
+  "time_sec": 26.699464082717896,
   "data": {
     "customer": "FRESA DEMO DUBAI LLC",
-    "customerAddress": "AL NABHA, DUBAI",
+    "customerAddress": "AL NABHA, DUBAI\nPhone : 04-233456\nGSTIN No. : 29760737473\nCredit Term : CASH",
     "invoiceNumber": "INV1800564",
     "invoiceDate": "27-NOV-18 (CREATED)",
     "paymentDueDate": "27-NOV-18",
@@ -79,21 +79,23 @@
     "provider": "anthropic",
     "model": "claude-sonnet-4-6",
     "doc_id": "Eet2wW3x",
-    "response_id": "msg_01FheddU5HW2QXQqDjLc3u4k",
+    "response_id": "msg_01CD85hcwEq2kS5BEbnb6qPE",
     "usage": {
-      "input_tokens": 3962,
+      "input_tokens": 4521,
       "cache_creation_input_tokens": 0,
       "cache_read_input_tokens": 0,
       "cache_creation": {
         "ephemeral_5m_input_tokens": 0,
         "ephemeral_1h_input_tokens": 0
       },
-      "output_tokens": 861,
+      "output_tokens": 622,
       "service_tier": "standard",
       "inference_geo": "global"
     },
-    "schema_mode": "anthropic_output_config_nullable_v1",
+    "schema_mode": "anthropic_output_config_required_nonnullable_v1",
     "input_mode": "pdf_document",
-    "schema_fallback": "prompt_json_schema"
+    "guidelines_mode": "guidelines_txt_v1",
+    "guidelines_chars": 673,
+    "guidelines_sha256": "359556bb62098fc56c1f74e67c3309bb57570d72e6455ac7174b5bc205790809"
   }
 }

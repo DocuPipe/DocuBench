@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "cost": null,
-  "time_sec": 12.572848796844482,
+  "time_sec": 32.780354022979736,
   "data": {
     "invoiceId": "Snippet1",
     "issueDate": "2017-11-13",
@@ -45,7 +45,7 @@
         "reason": "Discount",
         "reasonCode": "95",
         "amount": 200,
-        "baseAmount": null,
+        "baseAmount": 200,
         "taxCategoryPercent": 25
       }
     ],
@@ -92,21 +92,23 @@
     "provider": "anthropic",
     "model": "claude-sonnet-4-6",
     "doc_id": "C7fe2lau",
-    "response_id": "msg_01Aw6Z5zVnr8SVJ4S8dqvHbw",
+    "response_id": "msg_014F3nwFcMRVAVmAq11TGdk6",
     "usage": {
-      "input_tokens": 7697,
+      "input_tokens": 8418,
       "cache_creation_input_tokens": 0,
       "cache_read_input_tokens": 0,
       "cache_creation": {
         "ephemeral_5m_input_tokens": 0,
         "ephemeral_1h_input_tokens": 0
       },
-      "output_tokens": 916,
+      "output_tokens": 604,
       "service_tier": "standard",
       "inference_geo": "global"
     },
-    "schema_mode": "anthropic_output_config_nullable_v1",
+    "schema_mode": "anthropic_output_config_required_nonnullable_v1",
     "input_mode": "text",
-    "schema_fallback": "prompt_json_schema"
+    "guidelines_mode": "guidelines_txt_v1",
+    "guidelines_chars": 888,
+    "guidelines_sha256": "c952ca57b4c68bc6c80d596bc70f07bc563212ee365856758ae25a2005b1c163"
   }
 }

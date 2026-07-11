@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "cost": null,
-  "time_sec": 14.784711122512817,
+  "time_sec": 15.227724075317383,
   "data": {
     "invoiceId": "Snippet1",
     "issueDate": "2017-11-13",
@@ -93,19 +93,22 @@
     "model": "gemini-3.5-flash",
     "doc_id": "C7fe2lau",
     "usage": {
-      "promptTokenCount": 4959,
+      "promptTokenCount": 5145,
       "candidatesTokenCount": 900,
-      "totalTokenCount": 8307,
+      "totalTokenCount": 8614,
       "promptTokensDetails": [
         {
           "modality": "TEXT",
-          "tokenCount": 4959
+          "tokenCount": 5145
         }
       ],
-      "thoughtsTokenCount": 2448,
+      "thoughtsTokenCount": 2569,
       "serviceTier": "standard"
     },
     "schema_mode": "gemini_response_schema_nullable_v1",
-    "input_mode": "text"
+    "input_mode": "text",
+    "guidelines_mode": "guidelines_txt_v1",
+    "guidelines_chars": 888,
+    "guidelines_sha256": "c952ca57b4c68bc6c80d596bc70f07bc563212ee365856758ae25a2005b1c163"
   }
 }

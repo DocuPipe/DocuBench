@@ -1,0 +1,113 @@
+{
+  "score": 0.9353846153846155,
+  "cost": 0.06,
+  "time_sec": 17.42347812652588,
+  "num_pages": 1,
+  "data": {
+    "drawingTitle": null,
+    "drawingNumber": null,
+    "revision": null,
+    "organization": "GODDARD SPACE FLIGHT CENTER",
+    "location": "Greenbelt, Maryland",
+    "listOfMaterial": [
+      {
+        "itemNo": "14",
+        "quantity": 4,
+        "partNo": "MS20500-428",
+        "description": "NUT, 1/4-28 UNF-3B",
+        "material": "CRES"
+      },
+      {
+        "itemNo": "13",
+        "quantity": 4,
+        "partNo": "MS20500-1214",
+        "description": "NUT, 3/4-16 UNF-3B",
+        "material": "CRES"
+      },
+      {
+        "itemNo": "12",
+        "quantity": 1,
+        "partNo": "MS20500-1018",
+        "description": "NUT, 5/8-18 UNF-3B",
+        "material": "CRES"
+      },
+      {
+        "itemNo": "11",
+        "quantity": 2,
+        "partNo": "MS35308-314",
+        "description": "SCREW, CAP, HEXAGON HD",
+        "material": "CRES"
+      },
+      {
+        "itemNo": "10",
+        "quantity": 1,
+        "partNo": "GC1416639-1",
+        "description": "SHIM",
+        "material": ""
+      },
+      {
+        "itemNo": "9",
+        "quantity": 1,
+        "partNo": "GC1416635-1",
+        "description": "SPACER",
+        "material": ""
+      },
+      {
+        "itemNo": "8",
+        "quantity": 1,
+        "partNo": "GC1416636",
+        "description": "SLEEVE",
+        "material": ""
+      },
+      {
+        "itemNo": "7",
+        "quantity": 1,
+        "partNo": "GC1416637",
+        "description": "SEAT, UPPER",
+        "material": ""
+      },
+      {
+        "itemNo": "6",
+        "quantity": 1,
+        "partNo": "GC1416638",
+        "description": "SEAT, LOWER",
+        "material": ""
+      },
+      {
+        "itemNo": "5",
+        "quantity": 1,
+        "partNo": "GD1416679",
+        "description": "STEM, MOUNT C",
+        "material": ""
+      },
+      {
+        "itemNo": "4",
+        "quantity": 2,
+        "partNo": "GC1416681",
+        "description": "SHAFT, BEARING",
+        "material": ""
+      },
+      {
+        "itemNo": "3",
+        "quantity": 3,
+        "partNo": "GC1416640",
+        "description": "BEARING",
+        "material": ""
+      },
+      {
+        "itemNo": "2",
+        "quantity": 2,
+        "partNo": "GC1416680",
+        "description": "SEAT, MOUNT C",
+        "material": ""
+      },
+      {
+        "itemNo": "1",
+        "quantity": 1,
+        "partNo": "GD1416678",
+        "description": "BASE, MOUNT C",
+        "material": ""
+      }
+    ]
+  }
+}

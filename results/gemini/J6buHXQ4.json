@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "cost": null,
-  "time_sec": 60.3208110332489,
+  "time_sec": 78.06764078140259,
   "data": {
     "authorityName": "מועצה מקומית מג'דל שמס",
     "reportYear": 2023,
@@ -85,7 +85,7 @@
       },
       {
         "section": "התחייבויות",
-        "lineLabel": "תקבולים לא מתוקצבים - פקדונות והכנסות מראש",
+        "lineLabel": "תקובלים לא מתוקצבים - פקדונות והכנסות מראש",
         "currentYearAmount": 610,
         "priorYearAmount": 742
       },
@@ -128,13 +128,6 @@
         "budgetAmount": 7,
         "actualCurrentYear": 6,
         "actualPriorYear": 58
-      },
-      {
-        "chapterNumber": "11",
-        "chapterName": "מיסים",
-        "budgetAmount": 18502,
-        "actualCurrentYear": 17567,
-        "actualPriorYear": 17496
       },
       {
         "chapterNumber": "12",
@@ -383,9 +376,9 @@
     "model": "gemini-3.5-flash",
     "doc_id": "J6buHXQ4",
     "usage": {
-      "promptTokenCount": 6970,
-      "candidatesTokenCount": 3614,
-      "totalTokenCount": 18586,
+      "promptTokenCount": 7076,
+      "candidatesTokenCount": 3549,
+      "totalTokenCount": 23559,
       "promptTokensDetails": [
         {
           "modality": "IMAGE",
@@ -393,13 +386,16 @@
         },
         {
           "modality": "TEXT",
-          "tokenCount": 54
+          "tokenCount": 160
         }
       ],
-      "thoughtsTokenCount": 8002,
+      "thoughtsTokenCount": 12934,
       "serviceTier": "standard"
     },
     "schema_mode": "gemini_response_schema_nullable_v1",
-    "input_mode": "inline_data"
+    "input_mode": "inline_data",
+    "guidelines_mode": "guidelines_txt_v1",
+    "guidelines_chars": 436,
+    "guidelines_sha256": "c6139b54c1952e6ce9efd64a5746aa16f76c3696c5d6a324f0ff1d32edba69d9"
   }
 }

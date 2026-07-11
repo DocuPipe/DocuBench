@@ -1,0 +1,62 @@
+{
+  "status": "ok",
+  "cost": 0.048849,
+  "time_sec": 6.0691399574279785,
+  "data": {
+    "patientName": "John Doe",
+    "mrn": "000012",
+    "age": 20,
+    "sex": "M",
+    "admitDate": "2023-01-15",
+    "dischargeDate": "2023-01-17",
+    "diagnoses": [
+      {
+        "diagnosis": "Adjustment disorder with mixed disturbance of emotions and contact"
+      },
+      {
+        "diagnosis": "Rule out bipolar disorder"
+      },
+      {
+        "diagnosis": "Homelessness"
+      }
+    ],
+    "dischargeMedications": [],
+    "vitalsTemperature": "36.6",
+    "vitalsPulseRate": 97,
+    "vitalsRespirations": 16,
+    "vitalsBloodPressure": "126/86",
+    "vitalsO2Saturation": "98% on room air",
+    "dischargeDestination": "Home with brother",
+    "conditionOfDischarge": "Stable. The patient is able to perform ADLs.",
+    "signingProvider": "Caring Provider, MD",
+    "signedDate": "2023-01-17"
+  },
+  "meta": {
+    "provider": "anthropic_bedrock",
+    "model": "claude-sonnet-5",
+    "bedrock_model_id": "global.anthropic.claude-sonnet-5",
+    "bedrock_region": "us-east-1",
+    "doc_id": "OayFbGlG",
+    "response_id": "msg_bdrk_4qd4dyhevmhh3py44udm46jix3h33godogh466x76za2azr5txzq",
+    "usage": {
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "input_tokens": 13368,
+      "output_tokens": 583,
+      "server_tool_use": null,
+      "service_tier": "standard",
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens_details": {
+        "thinking_tokens": 0
+      }
+    },
+    "schema_mode": "bedrock_tool_required_nonnullable_v1",
+    "input_mode": "pdf_document",
+    "guidelines_mode": "guidelines_txt_v1",
+    "guidelines_chars": 712,
+    "guidelines_sha256": "1b0e582c133fd10d8d85c29583ea4c71e8d0ac7ad3c15646192366ab0f4fceab"
+  }
+}

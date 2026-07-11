@@ -6,6 +6,8 @@ from PIL import Image
 
 def load_run_gpt_module():
     spec = importlib.util.spec_from_file_location("run_gpt", "scripts/run_gpt.py")
+    assert spec is not None
+    assert spec.loader is not None
     module = importlib.util.module_from_spec(spec)
     spec.loader.exec_module(module)
     return module
@@ -20,6 +22,17 @@ def test_build_prompt_uses_committed_template():
     assert "{doc_id}" in template
     assert run_gpt.build_prompt("ABC123") == template.format(doc_id="ABC123")
     assert "ABC123" in run_gpt.build_prompt("ABC123")
+
+
+def test_build_prompt_appends_guidelines(tmp_path):
+    run_gpt = load_run_gpt_module()
+    setattr(run_gpt, "GUIDELINES_DIR", tmp_path)
+    (tmp_path / "ABC123.txt").write_text("Use the invoice date, not the due date.\n", encoding="utf-8")
+
+    prompt = run_gpt.build_prompt("ABC123")
+
+    assert "Additional schema instructions:" in prompt
+    assert "Use the invoice date, not the due date." in prompt
 
 
 def test_tiff_is_converted_to_ordered_png_image_parts(tmp_path):

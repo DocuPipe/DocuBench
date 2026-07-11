@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "cost": null,
-  "time_sec": 9.757560968399048,
+  "time_sec": 5.59986424446106,
   "data": {
     "documentType": "חשבונית מס / קבלה",
     "documentNumber": "104880",
@@ -20,7 +20,7 @@
     "lineItems": [
       {
         "description": "מנוי Starter שנתי",
-        "quantity": 1,
+        "quantity": 1.0,
         "unitPrice": 204.0,
         "lineTotal": 204.0
       }
@@ -40,22 +40,24 @@
     "doc_id": "nESapyAA",
     "usage": {
       "promptTokenCount": 584,
-      "candidatesTokenCount": 369,
-      "totalTokenCount": 2268,
+      "candidatesTokenCount": 368,
+      "totalTokenCount": 1574,
       "promptTokensDetails": [
-        {
-          "modality": "IMAGE",
-          "tokenCount": 532
-        },
         {
           "modality": "TEXT",
           "tokenCount": 52
+        },
+        {
+          "modality": "IMAGE",
+          "tokenCount": 532
         }
       ],
-      "thoughtsTokenCount": 1315,
+      "thoughtsTokenCount": 622,
       "serviceTier": "standard"
     },
     "schema_mode": "gemini_response_schema_nullable_v1",
-    "input_mode": "inline_data"
+    "input_mode": "inline_data",
+    "guidelines_mode": "none",
+    "guidelines_chars": 0
   }
 }

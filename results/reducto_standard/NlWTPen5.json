@@ -1,0 +1,49 @@
+{
+  "score": 1.0,
+  "cost": 0.18,
+  "time_sec": 28.175662994384766,
+  "num_pages": 3,
+  "data": {
+    "accountNumber": "00001-00001",
+    "meterNumber": "300000000",
+    "serviceAddress": "123 SERVICE RD ALLENTOWN PA 18100",
+    "dueDate": "2024-06-19",
+    "billingPeriodStart": "2024-05-02",
+    "billingPeriodEnd": "2024-06-03",
+    "daysBilled": 32,
+    "totalAmountDue": 3133.19,
+    "totalSupplyCharges": 0,
+    "totalDeliveryCharges": 3133.19,
+    "totalKwhDelivered": 598800,
+    "peakDemandKw": 1095,
+    "charges": [
+      {
+        "amount": 169.8
+      },
+      {
+        "amount": 2788.97
+      },
+      {
+        "amount": -226.94
+      },
+      {
+        "amount": 70
+      },
+      {
+        "amount": 0.05
+      },
+      {
+        "amount": 9.13
+      },
+      {
+        "amount": 149.51
+      },
+      {
+        "amount": 179.2
+      },
+      {
+        "amount": -6.53
+      }
+    ]
+  }
+}

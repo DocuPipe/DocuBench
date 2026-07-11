@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "cost": null,
-  "time_sec": 34.50214505195618,
+  "time_sec": 38.79763388633728,
   "data": {
     "department": "横浜営業１課",
     "paymentDate": "2011 年 0 7 月 0 5 日",
@@ -417,19 +417,23 @@
     "provider": "openai",
     "model": "gpt-5.5",
     "doc_id": "45xidifn",
-    "file_id": "file-1TYHZaC7FUe7sJXcQxsiMF",
-    "response_id": "resp_0ad9e5a0d7f72f7c016a3e932a2c58819292a847297e845c9c",
+    "file_id": "file-JkfbwK2vJ5zdWTFej3kYiw",
+    "response_id": "resp_0f8a5e6c9d15056f016a47d0cb4d8881918d78edea21b157a1",
     "usage": {
-      "input_tokens": 2578,
+      "input_tokens": 2803,
       "input_tokens_details": {
         "cached_tokens": 0
       },
-      "output_tokens": 2847,
+      "output_tokens": 3986,
       "output_tokens_details": {
-        "reasoning_tokens": 493
+        "reasoning_tokens": 1633
       },
-      "total_tokens": 5425
+      "total_tokens": 6789
     },
-    "schema_mode": "openai_strict_nullable_v1"
+    "schema_mode": "openai_strict_nullable_v1",
+    "input_mode": "file",
+    "guidelines_mode": "guidelines_txt_v1",
+    "guidelines_chars": 849,
+    "guidelines_sha256": "bedb60af805f54786b49eba348be3822a2da6b7f52abbe4580d3d32338972eef"
   }
 }

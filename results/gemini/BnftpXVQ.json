@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "cost": null,
-  "time_sec": 9.172546625137329,
+  "time_sec": 9.889511108398438,
   "data": {
     "agreementType": "364-DAY CREDIT AGREEMENT",
     "aggregateCommitmentAmount": 1500000000,
@@ -32,43 +32,43 @@
       },
       {
         "lenderName": "BNP Paribas",
-        "commitment": 75000000
+        "commitment": 75000000.0
       },
       {
         "lenderName": "Deutsche Bank AG New York Branch",
-        "commitment": 75000000
+        "commitment": 75000000.0
       },
       {
         "lenderName": "Goldman Sachs Bank USA",
-        "commitment": 75000000
+        "commitment": 75000000.0
       },
       {
         "lenderName": "HSBC Bank USA, National Association",
-        "commitment": 75000000
+        "commitment": 75000000.0
       },
       {
         "lenderName": "ING Bank N.V. Dublin Branch",
-        "commitment": 75000000
+        "commitment": 75000000.0
       },
       {
         "lenderName": "Mizuho Bank, Ltd.",
-        "commitment": 75000000
+        "commitment": 75000000.0
       },
       {
         "lenderName": "Morgan Stanley Bank, N.A.",
-        "commitment": 41250000
+        "commitment": 41250000.0
       },
       {
         "lenderName": "MUFG Bank, Ltd.",
-        "commitment": 33750000
+        "commitment": 33750000.0
       },
       {
         "lenderName": "Regions Bank",
-        "commitment": 75000000
+        "commitment": 75000000.0
       },
       {
         "lenderName": "SunTrust Bank",
-        "commitment": 75000000
+        "commitment": 75000000.0
       },
       {
         "lenderName": "KBC Bank N.V., New York Branch",
@@ -105,23 +105,26 @@
     "model": "gemini-3.5-flash",
     "doc_id": "BnftpXVQ",
     "usage": {
-      "promptTokenCount": 1093,
-      "candidatesTokenCount": 920,
-      "totalTokenCount": 2835,
+      "promptTokenCount": 1273,
+      "candidatesTokenCount": 950,
+      "totalTokenCount": 3348,
       "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 233
+        },
         {
           "modality": "IMAGE",
           "tokenCount": 1040
-        },
-        {
-          "modality": "TEXT",
-          "tokenCount": 53
         }
       ],
-      "thoughtsTokenCount": 822,
+      "thoughtsTokenCount": 1125,
       "serviceTier": "standard"
     },
     "schema_mode": "gemini_response_schema_nullable_v1",
-    "input_mode": "inline_data"
+    "input_mode": "inline_data",
+    "guidelines_mode": "guidelines_txt_v1",
+    "guidelines_chars": 798,
+    "guidelines_sha256": "67641ce6b95ca51da931a3d5ea607609b587021c75188f90d8c64cbd5310cf13"
   }
 }

@@ -1,0 +1,1 @@
+Extract the policy declarations fields and all coverage limit lines. Coverages include both the property coverages (Dwelling, Other Structures, Personal Property, Loss of Use) and the liability coverages (Liability, Medical). Use the coverage name without the section-letter prefix. Limits and amounts are numeric only. Dates in YYYY-MM-DD.

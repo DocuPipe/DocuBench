@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "cost": null,
-  "time_sec": 13.267293214797974,
+  "time_sec": 11.730786085128784,
   "data": {
     "accountNumber": "00001-00001",
     "meterNumber": "300000000",
@@ -49,9 +49,9 @@
     "provider": "anthropic",
     "model": "claude-sonnet-4-6",
     "doc_id": "NlWTPen5",
-    "response_id": "msg_01WAZCYAdrjDRQfepfqEnrgx",
+    "response_id": "msg_01DS3HTdWjz4ZFAJ2E7hP32A",
     "usage": {
-      "input_tokens": 7779,
+      "input_tokens": 7684,
       "cache_creation_input_tokens": 0,
       "cache_read_input_tokens": 0,
       "cache_creation": {
@@ -62,7 +62,10 @@
       "service_tier": "standard",
       "inference_geo": "global"
     },
-    "schema_mode": "anthropic_output_config_nullable_v1",
-    "input_mode": "pdf_document"
+    "schema_mode": "anthropic_output_config_required_nonnullable_v1",
+    "input_mode": "pdf_document",
+    "guidelines_mode": "guidelines_txt_v1",
+    "guidelines_chars": 340,
+    "guidelines_sha256": "497373162747b6cb6e7f7a010608bb0d873eea1cf75d3ab9b922c1747c5d6114"
   }
 }

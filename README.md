@@ -14,12 +14,12 @@ DocuBench is built to break extraction systems on what real documents actually l
 <br>
 
 <a href="https://htmlpreview.github.io/?https://github.com/DocuPipe/docubench/blob/main/docubench-explorer.html">
-  <img src="docs/explorer-preview.png" alt="DocuBench interactive results explorer — filter 50 documents and compare six systems" width="100%">
+  <img src="docs/explorer-preview.png" alt="DocuBench interactive results explorer — filter 50 documents and compare nine systems" width="100%">
 </a>
 
 <h3 align="center"><a href="https://htmlpreview.github.io/?https://github.com/DocuPipe/docubench/blob/main/docubench-explorer.html">🔎&nbsp; Open the interactive results explorer &nbsp;→</a></h3>
 <p align="center">
-  Filter all 50 documents by language, length, format &amp; capability · compare six systems · drill into per-document scores.<br>
+  Filter all 50 documents by language, length, format &amp; capability · compare nine systems · drill into per-document scores.<br>
 </p>
 
 <br>
@@ -36,11 +36,14 @@ The committed baselines, scored by the public scorer ([`scorer.py`](scorer.py)) 
 | Rank | System | Accuracy |
 |---:|---|---:|
 | 🥇 | **DocuPipe** — high effort | **97.56%** |
-| 🥈 | **DocuPipe** — standard effort | **96.31%** |
-| 3 | Gemini | 95.80% |
-| 4 | GPT | 93.54% |
-| 5 | Extend | 91.11% |
-| 6 | Claude | 90.33% |
+| 🥈 | Gemini | 97.10% |
+| 🥉 | **DocuPipe** — standard effort | **96.31%** |
+| 4 | Reducto — Deep Extract | 95.77% |
+| 5 | GPT | 94.64% |
+| 6 | Claude Sonnet 5 | 93.68% |
+| 7 | Reducto — standard | 92.70% |
+| 8 | Extend | 91.11% |
+| 9 | Claude | 90.53% |
 
 > DocuPipe built this benchmark, so we hold our own results to the same bar as everyone else: identical schemas, identical labels, the same open scorer, and every raw model output committed under [`results/`](results). Run `docubench score` and you will reproduce this table.
 
@@ -163,7 +166,7 @@ See [`docs/submissions.md`](docs/submissions.md) for the recommended metadata an
 
 ## Reproduce the baselines
 
-The model runners send each document and its paired schema to a provider and write the result envelope to `results/<engine>/<doc_id>.json`. Failures (API/model/schema) are written with `status: "failed"` and `data: {}`, so the scorer counts every labeled field as a miss instead of silently dropping the document. TIFF inputs are converted to ordered PNG pages for providers that do not accept TIFF.
+The model runners send each document, its paired schema, and any `guidelines/<doc_id>.txt` instructions to a provider and write the result envelope to `results/<engine>/<doc_id>.json`. Failures (API/model/schema) are written with `status: "failed"` and `data: {}`, so the scorer counts every labeled field as a miss instead of silently dropping the document. TIFF inputs are converted to ordered PNG pages for providers that do not accept TIFF.
 
 | Engine | Script | API key |
 |---|---|---|
@@ -171,6 +174,7 @@ The model runners send each document and its paired schema to a provider and wri
 | Claude | `scripts/run_claude.py` | `ANTHROPIC_API_KEY` |
 | Gemini | `scripts/run_gemini.py` | `GOOGLE_API_KEY` |
 | Extend | `scripts/run_extend.py` | `EXTEND_API_KEY` |
+| Reducto | `scripts/run_reducto.py` | `REDUCTO_API_KEY` |
 
 ```bash
 export OPENAI_API_KEY=...
@@ -180,6 +184,10 @@ python3 scripts/run_gpt.py documents/PSU5pciM.pdf schemas/PSU5pciM.json results/
 python3 scripts/run_all.py --engine gpt
 python3 scripts/run_all.py --engine claude
 python3 scripts/run_all.py --engine gemini
+
+# reducto ships two modes; the output dir selects deep vs standard extract
+python3 scripts/run_all.py --engine reducto
+python3 scripts/run_all.py --engine reducto_standard
 ```
 
 Default models can be overridden via `OPENAI_MODEL`, `ANTHROPIC_MODEL`, `GEMINI_MODEL`. The exact instruction prompt and per-system configuration are committed in [`prompts/`](prompts) — the LLM runners load [`prompts/extraction_prompt.txt`](prompts/extraction_prompt.txt) at runtime, so the committed prompt is provably the one that produced the baseline results.
@@ -189,6 +197,7 @@ Default models can be overridden via `OPENAI_MODEL`, `ANTHROPIC_MODEL`, `GEMINI_
 ```text
 documents/<doc_id>.<ext>          source documents
 schemas/<doc_id>.json             extraction schemas
+guidelines/<doc_id>.txt           optional schema-level extraction instructions
 labels/<doc_id>.json              hand-verified labels
 results/<system>/<doc_id>.json    baseline system outputs
 results/summary.{json,csv}        aggregate and per-document scores

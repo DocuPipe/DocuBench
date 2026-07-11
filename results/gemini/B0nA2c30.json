@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "cost": null,
-  "time_sec": 19.061645030975342,
+  "time_sec": 15.297757863998413,
   "data": {
     "merchantName": "FIVE GUYS",
     "storeNumber": "CA-1661",
@@ -18,7 +18,7 @@
     "lineItems": [
       {
         "quantity": 1,
-        "description": "Little Hamburger",
+        "description": "1 Little Hamburger",
         "unitPrice": null,
         "lineTotal": 5.19,
         "isModifier": false
@@ -81,21 +81,21 @@
       },
       {
         "quantity": 2,
-        "description": "Large Fry",
+        "description": "2 Large Fry",
         "unitPrice": 5.79,
         "lineTotal": 11.58,
         "isModifier": false
       },
       {
         "quantity": 1,
-        "description": "Large Soda",
+        "description": "1 Large Soda",
         "unitPrice": null,
         "lineTotal": 2.95,
         "isModifier": false
       },
       {
         "quantity": 1,
-        "description": "Cheeseburger",
+        "description": "1 Cheeseburger",
         "unitPrice": null,
         "lineTotal": 7.89,
         "isModifier": false
@@ -130,7 +130,7 @@
       },
       {
         "quantity": 1,
-        "description": "Regular Soda",
+        "description": "1 Regular Soda",
         "unitPrice": null,
         "lineTotal": 2.7,
         "isModifier": false
@@ -149,23 +149,26 @@
     "model": "gemini-3.5-flash",
     "doc_id": "B0nA2c30",
     "usage": {
-      "promptTokenCount": 1119,
-      "candidatesTokenCount": 1137,
-      "totalTokenCount": 4777,
+      "promptTokenCount": 1266,
+      "candidatesTokenCount": 1128,
+      "totalTokenCount": 4491,
       "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 202
+        },
         {
           "modality": "IMAGE",
           "tokenCount": 1064
-        },
-        {
-          "modality": "TEXT",
-          "tokenCount": 55
         }
       ],
-      "thoughtsTokenCount": 2521,
+      "thoughtsTokenCount": 2097,
       "serviceTier": "standard"
     },
     "schema_mode": "gemini_response_schema_nullable_v1",
-    "input_mode": "inline_data"
+    "input_mode": "inline_data",
+    "guidelines_mode": "guidelines_txt_v1",
+    "guidelines_chars": 647,
+    "guidelines_sha256": "eb3706f99a74fa4354eb31e5fb78a50e61f5d1dc6d593ed9702000628b9875ad"
   }
 }

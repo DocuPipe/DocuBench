@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "cost": null,
-  "time_sec": 29.917553901672363,
+  "time_sec": 28.031150102615356,
   "data": {
     "employeeName": "Jecrute Aline",
     "employerName": "Jeu d'Essai",
@@ -17,8 +17,8 @@
     "earnings": [
       {
         "designation": "Salaire mensuel",
-        "base": null,
-        "rate": null,
+        "base": 3000.0,
+        "rate": 15.0,
         "amount": 3000.0
       },
       {
@@ -40,7 +40,7 @@
       {
         "designation": "Complémentaire Incapacité Invalidité Décès",
         "base": 3269.0,
-        "employeeRate": null,
+        "employeeRate": 0.0,
         "employeeAmount": 0.0,
         "employerRate": 1.5,
         "employerAmount": 49.04
@@ -54,7 +54,7 @@
         "employerAmount": 85.98
       },
       {
-        "designation": "Complémentaire Santé (tranche 2)",
+        "designation": "Complémentaire Santé",
         "base": 181.0,
         "employeeRate": 0.5,
         "employeeAmount": 0.91,
@@ -64,7 +64,7 @@
       {
         "designation": "ACCIDENTS DE TRAVAIL-MALADIES PROFESSIONNELLES",
         "base": 3450.0,
-        "employeeRate": null,
+        "employeeRate": 0.0,
         "employeeAmount": 0.0,
         "employerRate": 2.2,
         "employerAmount": 75.9
@@ -95,10 +95,10 @@
       },
       {
         "designation": "Complémentaire Garantie Minimale de Points",
-        "base": null,
-        "employeeRate": null,
+        "base": 0.0,
+        "employeeRate": 0.0,
         "employeeAmount": 0.0,
-        "employerRate": null,
+        "employerRate": 0.0,
         "employerAmount": 0.0
       },
       {
@@ -111,10 +111,10 @@
       },
       {
         "designation": "Complémentaire Tranche C",
-        "base": null,
-        "employeeRate": null,
+        "base": 0.0,
+        "employeeRate": 0.0,
         "employeeAmount": 0.0,
-        "employerRate": null,
+        "employerRate": 0.0,
         "employerAmount": 0.0
       },
       {
@@ -128,7 +128,7 @@
       {
         "designation": "FAMILLE-SECURITE SOCIALE",
         "base": 3450.0,
-        "employeeRate": null,
+        "employeeRate": 0.0,
         "employeeAmount": 0.0,
         "employerRate": 3.45,
         "employerAmount": 119.03
@@ -152,31 +152,31 @@
       {
         "designation": "AUTRES CONTRIBUTIONS DUES PAR L'EMPLOYEUR",
         "base": 3450.0,
-        "employeeRate": null,
+        "employeeRate": 0.0,
         "employeeAmount": 0.0,
         "employerRate": 10.056,
         "employerAmount": 346.95
       },
       {
-        "designation": "AUTRES CONTRIBUTIONS DUES PAR L'EMPLOYEUR (ligne 2)",
+        "designation": "AUTRES CONTRIBUTIONS DUES PAR L'EMPLOYEUR",
         "base": 641.33,
-        "employeeRate": null,
+        "employeeRate": 0.0,
         "employeeAmount": 0.0,
         "employerRate": 4.25,
         "employerAmount": 27.26
       },
       {
-        "designation": "AUTRES CONTRIBUTIONS DUES PAR L'EMPLOYEUR (ligne 3)",
+        "designation": "AUTRES CONTRIBUTIONS DUES PAR L'EMPLOYEUR",
         "base": 2165.25,
-        "employeeRate": null,
+        "employeeRate": 0.0,
         "employeeAmount": 0.0,
         "employerRate": 9.35,
         "employerAmount": 202.45
       },
       {
-        "designation": "AUTRES CONTRIBUTIONS DUES PAR L'EMPLOYEUR (ligne 4)",
+        "designation": "AUTRES CONTRIBUTIONS DUES PAR L'EMPLOYEUR",
         "base": 88.33,
-        "employeeRate": null,
+        "employeeRate": 0.0,
         "employeeAmount": 0.0,
         "employerRate": 8.0,
         "employerAmount": 7.07
@@ -186,7 +186,7 @@
         "base": 3477.96,
         "employeeRate": 5.1,
         "employeeAmount": 177.37,
-        "employerRate": null,
+        "employerRate": 0.0,
         "employerAmount": 0.0
       },
       {
@@ -194,15 +194,15 @@
         "base": 3477.96,
         "employeeRate": 2.9,
         "employeeAmount": 100.86,
-        "employerRate": null,
+        "employerRate": 0.0,
         "employerAmount": 0.0
       },
       {
         "designation": "ALLEGEMENT DES COTISATIONS",
-        "base": null,
-        "employeeRate": null,
+        "base": 0.0,
+        "employeeRate": 0.0,
         "employeeAmount": 0.0,
-        "employerRate": null,
+        "employerRate": 0.0,
         "employerAmount": 0.0
       }
     ]
@@ -211,20 +211,23 @@
     "provider": "anthropic",
     "model": "claude-sonnet-4-6",
     "doc_id": "Oe7iRM1G",
-    "response_id": "msg_01RAhQHDKrHuC5KTjXUrM7pQ",
+    "response_id": "msg_01ATj4ReiRRGnWVtnrErNrpJ",
     "usage": {
-      "input_tokens": 4673,
+      "input_tokens": 4506,
       "cache_creation_input_tokens": 0,
       "cache_read_input_tokens": 0,
       "cache_creation": {
         "ephemeral_5m_input_tokens": 0,
         "ephemeral_1h_input_tokens": 0
       },
-      "output_tokens": 1363,
+      "output_tokens": 1383,
       "service_tier": "standard",
       "inference_geo": "global"
     },
-    "schema_mode": "anthropic_output_config_nullable_v1",
-    "input_mode": "pdf_document"
+    "schema_mode": "anthropic_output_config_required_nonnullable_v1",
+    "input_mode": "pdf_document",
+    "guidelines_mode": "guidelines_txt_v1",
+    "guidelines_chars": 431,
+    "guidelines_sha256": "feec9d78c651636b77297b249290b7fe2068d1e018c193e674ae00983a9fc37c"
   }
 }

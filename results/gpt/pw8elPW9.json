@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "cost": null,
-  "time_sec": 7.112046241760254,
+  "time_sec": 13.359540939331055,
   "data": {
     "companyName": "אורן טכנולוגיות בע\"מ",
     "reportYear": 2024,
@@ -92,19 +92,23 @@
     "provider": "openai",
     "model": "gpt-5.5",
     "doc_id": "pw8elPW9",
-    "file_id": "file-NZtYY2x7hfzQLJPPNJHaNr",
-    "response_id": "resp_0333c864fe4e60bb016a3e978fd60081a0ba69d4c0a3ac7c5a",
+    "file_id": "file-RNKMkBqWKadY1cQKeEjnse",
+    "response_id": "resp_0e03ae7e0709f854016a47d5b82998819c9c39f5ecb26440f2",
     "usage": {
-      "input_tokens": 907,
+      "input_tokens": 947,
       "input_tokens_details": {
         "cached_tokens": 0
       },
-      "output_tokens": 529,
+      "output_tokens": 624,
       "output_tokens_details": {
-        "reasoning_tokens": 124
+        "reasoning_tokens": 220
       },
-      "total_tokens": 1436
+      "total_tokens": 1571
     },
-    "schema_mode": "openai_strict_nullable_v1"
+    "schema_mode": "openai_strict_nullable_v1",
+    "input_mode": "file",
+    "guidelines_mode": "guidelines_txt_v1",
+    "guidelines_chars": 391,
+    "guidelines_sha256": "ada98cbd57a7b5059031c13069088b8416335c75ee8be818fd547868fc0f2b3a"
   }
 }

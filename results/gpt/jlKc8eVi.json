@@ -1,10 +1,10 @@
 {
   "status": "ok",
   "cost": null,
-  "time_sec": 21.220585346221924,
+  "time_sec": 24.197553873062134,
   "data": {
-    "sellerName": "株式会社 ○×コンピュータ販売",
-    "sellerPhone": "（０４５）ＸＸＸ－ＸＸＸＸ",
+    "sellerName": "株式会社　○×コンピュータ販売",
+    "sellerPhone": "ＴＥＬ（０４５）ＸＸＸ－ＸＸＸＸ",
     "buyerName": "○○商会横浜南支店",
     "buyerAddress": "神奈川県横浜市◇◇区△△町１－１－１",
     "branch": "横浜南",
@@ -288,19 +288,23 @@
     "provider": "openai",
     "model": "gpt-5.5",
     "doc_id": "jlKc8eVi",
-    "file_id": "file-VajrwgSmXiCnBtJUaAnBeZ",
-    "response_id": "resp_0fe10dd6ead8ed14016a3e975fee2081a0a5d50460dd3094db",
+    "file_id": "file-5vj2WgVkUu3wv8TV2pKAHj",
+    "response_id": "resp_09383772be5ea19c016a47d586323c819cb3045e518d2e9dc4",
     "usage": {
-      "input_tokens": 2611,
+      "input_tokens": 2786,
       "input_tokens_details": {
         "cached_tokens": 0
       },
-      "output_tokens": 1913,
+      "output_tokens": 2279,
       "output_tokens_details": {
-        "reasoning_tokens": 489
+        "reasoning_tokens": 851
       },
-      "total_tokens": 4524
+      "total_tokens": 5065
     },
-    "schema_mode": "openai_strict_nullable_v1"
+    "schema_mode": "openai_strict_nullable_v1",
+    "input_mode": "file",
+    "guidelines_mode": "guidelines_txt_v1",
+    "guidelines_chars": 675,
+    "guidelines_sha256": "fd61fcd4afb3d9050cd66d2bd93f102be2c77dcdd3a8ab05f1df757b069f0235"
   }
 }

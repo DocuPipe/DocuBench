@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "cost": null,
-  "time_sec": 15.689010858535767,
+  "time_sec": 16.442800760269165,
   "data": {
     "patient": {
       "name": "Saubhik Bhaumik",
@@ -107,19 +107,23 @@
     "provider": "openai",
     "model": "gpt-5.5",
     "doc_id": "LYeb3G3s",
-    "file_id": "file-8TQAXm77zHiG96LEifx8h4",
-    "response_id": "resp_0ac18cc617f1017a016a3e956ef3c881a09b6cf3537d23c236",
+    "file_id": "file-H3KMhJM62TJ9HD1UvMnE2v",
+    "response_id": "resp_02ff690e73193b1a016a47d3aa9948819da66205c99c22b448",
     "usage": {
-      "input_tokens": 2961,
+      "input_tokens": 3021,
       "input_tokens_details": {
         "cached_tokens": 0
       },
-      "output_tokens": 995,
+      "output_tokens": 994,
       "output_tokens_details": {
         "reasoning_tokens": 516
       },
-      "total_tokens": 3956
+      "total_tokens": 4015
     },
-    "schema_mode": "openai_strict_nullable_v1"
+    "schema_mode": "openai_strict_nullable_v1",
+    "input_mode": "file",
+    "guidelines_mode": "guidelines_txt_v1",
+    "guidelines_chars": 263,
+    "guidelines_sha256": "358cbcf4d0900e2318b7e63f8f525d08ecd2b038fa15859e134594fe0a2c193c"
   }
 }

@@ -1,0 +1,119 @@
+{
+  "status": "ok",
+  "cost": 0.019425,
+  "time_sec": 10.548998832702637,
+  "data": {
+    "companyName": "אורן טכנולוגיות בע\"מ",
+    "reportYear": 2024,
+    "currencyUnits": "אלפי ש\"ח",
+    "balanceSheetLineItems": [
+      {
+        "section": "נכסים",
+        "label": "מזומנים ושווי מזומנים",
+        "currentYearAmount": 1250,
+        "priorYearAmount": 980
+      },
+      {
+        "section": "נכסים",
+        "label": "לקוחות",
+        "currentYearAmount": 3420,
+        "priorYearAmount": 2890
+      },
+      {
+        "section": "נכסים",
+        "label": "מלאי",
+        "currentYearAmount": 1870,
+        "priorYearAmount": 2100
+      },
+      {
+        "section": "נכסים",
+        "label": "רכוש קבוע, נטו",
+        "currentYearAmount": 5640,
+        "priorYearAmount": 6010
+      },
+      {
+        "section": "התחייבויות והון",
+        "label": "ספקים",
+        "currentYearAmount": 2150,
+        "priorYearAmount": 1940
+      },
+      {
+        "section": "התחייבויות והון",
+        "label": "הלוואות לזמן קצר",
+        "currentYearAmount": 1800,
+        "priorYearAmount": 2200
+      },
+      {
+        "section": "התחייבויות והון",
+        "label": "הלוואות לזמן ארוך",
+        "currentYearAmount": 3400,
+        "priorYearAmount": 3900
+      },
+      {
+        "section": "התחייבויות והון",
+        "label": "הון מניות",
+        "currentYearAmount": 2000,
+        "priorYearAmount": 2000
+      },
+      {
+        "section": "התחייבויות והון",
+        "label": "עודפים",
+        "currentYearAmount": 2830,
+        "priorYearAmount": 1940
+      }
+    ],
+    "totalAssets": 12180,
+    "totalLiabilitiesAndEquity": 12180,
+    "incomeStatementLineItems": [
+      {
+        "label": "הכנסות ממכירות",
+        "currentYearAmount": 18500,
+        "priorYearAmount": 16200
+      },
+      {
+        "label": "עלות המכר",
+        "currentYearAmount": -11100,
+        "priorYearAmount": -9720
+      },
+      {
+        "label": "הוצאות הנהלה וכלליות",
+        "currentYearAmount": -3200,
+        "priorYearAmount": -2950
+      },
+      {
+        "label": "הוצאות מימון",
+        "currentYearAmount": -480,
+        "priorYearAmount": -560
+      }
+    ],
+    "netIncome": 3720
+  },
+  "meta": {
+    "provider": "anthropic_bedrock",
+    "model": "claude-sonnet-5",
+    "bedrock_model_id": "global.anthropic.claude-sonnet-5",
+    "bedrock_region": "us-east-1",
+    "doc_id": "pw8elPW9",
+    "response_id": "msg_bdrk_sromyelvwwkkawjs7ecemkn7ypdfyzbibsanhr7qhgftq36vugja",
+    "usage": {
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "input_tokens": 1990,
+      "output_tokens": 897,
+      "server_tool_use": null,
+      "service_tier": "standard",
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens_details": {
+        "thinking_tokens": 0
+      }
+    },
+    "schema_mode": "bedrock_tool_required_nonnullable_v1",
+    "input_mode": "docx_text",
+    "guidelines_mode": "guidelines_txt_v1",
+    "guidelines_chars": 391,
+    "guidelines_sha256": "ada98cbd57a7b5059031c13069088b8416335c75ee8be818fd547868fc0f2b3a"
+  }
+}

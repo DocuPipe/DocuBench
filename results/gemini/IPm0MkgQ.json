@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "cost": null,
-  "time_sec": 51.9504828453064,
+  "time_sec": 35.93367290496826,
   "data": {
     "accountHolderName": "JOHN TEST",
     "accountNumber": "6547",
@@ -354,23 +354,26 @@
     "model": "gemini-3.5-flash",
     "doc_id": "IPm0MkgQ",
     "usage": {
-      "promptTokenCount": 3174,
-      "candidatesTokenCount": 3566,
-      "totalTokenCount": 13813,
+      "promptTokenCount": 3265,
+      "candidatesTokenCount": 3581,
+      "totalTokenCount": 11483,
       "promptTokensDetails": [
-        {
-          "modality": "TEXT",
-          "tokenCount": 54
-        },
         {
           "modality": "IMAGE",
           "tokenCount": 3120
+        },
+        {
+          "modality": "TEXT",
+          "tokenCount": 145
         }
       ],
-      "thoughtsTokenCount": 7073,
+      "thoughtsTokenCount": 4637,
       "serviceTier": "standard"
     },
     "schema_mode": "gemini_response_schema_nullable_v1",
-    "input_mode": "inline_data"
+    "input_mode": "inline_data",
+    "guidelines_mode": "guidelines_txt_v1",
+    "guidelines_chars": 464,
+    "guidelines_sha256": "af211ef5e103f902d29444ddd7d938a1b9af7d8c3dc07f6ed544be484fd371a7"
   }
 }

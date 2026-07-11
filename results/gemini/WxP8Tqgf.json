@@ -1,9 +1,9 @@
 {
   "status": "ok",
   "cost": null,
-  "time_sec": 25.283817291259766,
+  "time_sec": 9.625436067581177,
   "data": {
-    "employeeName": "LAZIONE UNIVERSITA' 2017",
+    "employeeName": "LAZIONE UNIVARSITA' 2017",
     "employerName": "DITTA DI PROVA",
     "codiceFiscale": "LZNNRS80A41D548V",
     "payPeriod": "GENNAIO 2017",
@@ -76,7 +76,7 @@
         "description": "Credito art.1 DL 66/2014",
         "unitaDiMisura": null,
         "quantita": null,
-        "base": 2017.0,
+        "base": null,
         "trattenute": null,
         "competenze": 80.0
       }
@@ -90,23 +90,26 @@
     "model": "gemini-3.5-flash",
     "doc_id": "WxP8Tqgf",
     "usage": {
-      "promptTokenCount": 587,
-      "candidatesTokenCount": 826,
-      "totalTokenCount": 5686,
+      "promptTokenCount": 803,
+      "candidatesTokenCount": 822,
+      "totalTokenCount": 2813,
       "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 271
+        },
         {
           "modality": "IMAGE",
           "tokenCount": 532
-        },
-        {
-          "modality": "TEXT",
-          "tokenCount": 55
         }
       ],
-      "thoughtsTokenCount": 4273,
+      "thoughtsTokenCount": 1188,
       "serviceTier": "standard"
     },
     "schema_mode": "gemini_response_schema_nullable_v1",
-    "input_mode": "inline_data"
+    "input_mode": "inline_data",
+    "guidelines_mode": "guidelines_txt_v1",
+    "guidelines_chars": 801,
+    "guidelines_sha256": "0b80406c0dd4f6ce0a58e0d5149e0e4573f4e853b9590ef8967b9f041241cf7d"
   }
 }

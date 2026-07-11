@@ -1,0 +1,212 @@
+{
+  "status": "ok",
+  "cost": 0.101646,
+  "time_sec": 25.99598217010498,
+  "data": {
+    "organizationName": "המכון לאסטרטגיה ציונית (ע\"ר)",
+    "reportYear": 2023,
+    "amountUnits": "ש\"ח",
+    "totalAssets": 163549,
+    "totalLiabilitiesAndNetAssets": 163549,
+    "netRevenueForYear": -158537,
+    "netAssetsEndOfYear": -139624,
+    "cashEndOfYear": 148820,
+    "statementLineItems": [
+      {
+        "statement": "מאזנים",
+        "lineLabel": "מזומנים ושווי מזומנים",
+        "currentYearAmount": 148820,
+        "priorYearAmount": 26239
+      },
+      {
+        "statement": "מאזנים",
+        "lineLabel": "חייבים ויתרות חובה",
+        "currentYearAmount": 0,
+        "priorYearAmount": 0
+      },
+      {
+        "statement": "מאזנים",
+        "lineLabel": "רכוש שוטף - סה\"כ",
+        "currentYearAmount": 148820,
+        "priorYearAmount": 26239
+      },
+      {
+        "statement": "מאזנים",
+        "lineLabel": "רכוש קבוע",
+        "currentYearAmount": 14729,
+        "priorYearAmount": 0
+      },
+      {
+        "statement": "מאזנים",
+        "lineLabel": "סה\"כ נכסים",
+        "currentYearAmount": 163549,
+        "priorYearAmount": 26239
+      },
+      {
+        "statement": "מאזנים",
+        "lineLabel": "ספקים",
+        "currentYearAmount": 191560,
+        "priorYearAmount": 7326
+      },
+      {
+        "statement": "מאזנים",
+        "lineLabel": "זכאים ויתרות זכות",
+        "currentYearAmount": 111613,
+        "priorYearAmount": 0
+      },
+      {
+        "statement": "מאזנים",
+        "lineLabel": "התחייבויות שוטפות - סה\"כ",
+        "currentYearAmount": 303173,
+        "priorYearAmount": 7326
+      },
+      {
+        "statement": "מאזנים",
+        "lineLabel": "עתודה לפיצויי פרישה וגמלאות",
+        "currentYearAmount": 0,
+        "priorYearAmount": 0
+      },
+      {
+        "statement": "מאזנים",
+        "lineLabel": "נכסים נטו שלא קיימת לגביהם הגבלה ששימשו לפעילות",
+        "currentYearAmount": -154353,
+        "priorYearAmount": 18913
+      },
+      {
+        "statement": "מאזנים",
+        "lineLabel": "נכסים נטו שלא קיימת לגביהם הגבלה ששימשו לרכוש קבוע",
+        "currentYearAmount": 14729,
+        "priorYearAmount": 0
+      },
+      {
+        "statement": "מאזנים",
+        "lineLabel": "סה\"כ נכסים נטו",
+        "currentYearAmount": -139624,
+        "priorYearAmount": 18913
+      },
+      {
+        "statement": "מאזנים",
+        "lineLabel": "סה\"כ התחייבויות ונכסים נטו",
+        "currentYearAmount": 163549,
+        "priorYearAmount": 26239
+      },
+      {
+        "statement": "דוחות על הפעילות",
+        "lineLabel": "מחזור הפעילויות",
+        "currentYearAmount": 1730983,
+        "priorYearAmount": 58000
+      },
+      {
+        "statement": "דוחות על הפעילות",
+        "lineLabel": "עלות הפעילויות",
+        "currentYearAmount": 1884836,
+        "priorYearAmount": 140256
+      },
+      {
+        "statement": "דוחות על הפעילות",
+        "lineLabel": "הכנסות נטו מפעילות",
+        "currentYearAmount": -153853,
+        "priorYearAmount": -82256
+      },
+      {
+        "statement": "דוחות על הפעילות",
+        "lineLabel": "הוצאות הנהלה וכלליות",
+        "currentYearAmount": 23205,
+        "priorYearAmount": 5100
+      },
+      {
+        "statement": "דוחות על הפעילות",
+        "lineLabel": "הכנסות נטו לפני מימון",
+        "currentYearAmount": -177058,
+        "priorYearAmount": -87356
+      },
+      {
+        "statement": "דוחות על הפעילות",
+        "lineLabel": "הוצאות מימון",
+        "currentYearAmount": -18521,
+        "priorYearAmount": -3156
+      },
+      {
+        "statement": "דוחות על הפעילות",
+        "lineLabel": "הכנסות נטו לשנה",
+        "currentYearAmount": -158537,
+        "priorYearAmount": -84200
+      },
+      {
+        "statement": "דוח על תזרים המזומנים",
+        "lineLabel": "רווח נקי",
+        "currentYearAmount": -158537,
+        "priorYearAmount": -84200
+      },
+      {
+        "statement": "דוח על תזרים המזומנים",
+        "lineLabel": "התאמות הדרושות כדי להציג את המזומנים מפעילות שוטפת",
+        "currentYearAmount": 298592,
+        "priorYearAmount": 532
+      },
+      {
+        "statement": "דוח על תזרים המזומנים",
+        "lineLabel": "מזומנים נטו שנבעו מפעילות שוטפת",
+        "currentYearAmount": 140055,
+        "priorYearAmount": -83668
+      },
+      {
+        "statement": "דוח על תזרים המזומנים",
+        "lineLabel": "רכישת נכסים קבועים ורכוש אחר",
+        "currentYearAmount": -17474,
+        "priorYearAmount": 0
+      },
+      {
+        "statement": "דוח על תזרים המזומנים",
+        "lineLabel": "(פרעון) הלוואות והתחייבויות אחרות לזמן ארוך",
+        "currentYearAmount": 0,
+        "priorYearAmount": 0
+      },
+      {
+        "statement": "דוח על תזרים המזומנים",
+        "lineLabel": "עליה במזומנים ושווי מזומנים",
+        "currentYearAmount": 122581,
+        "priorYearAmount": -83668
+      },
+      {
+        "statement": "דוח על תזרים המזומנים",
+        "lineLabel": "יתרת מזומנים ושווי מזומנים לתחילת השנה",
+        "currentYearAmount": 26239,
+        "priorYearAmount": 109907
+      },
+      {
+        "statement": "דוח על תזרים המזומנים",
+        "lineLabel": "יתרת מזומנים ושווי מזומנים לסוף השנה",
+        "currentYearAmount": 148820,
+        "priorYearAmount": 26239
+      }
+    ]
+  },
+  "meta": {
+    "provider": "anthropic_bedrock",
+    "model": "claude-sonnet-5",
+    "bedrock_model_id": "global.anthropic.claude-sonnet-5",
+    "bedrock_region": "us-east-1",
+    "doc_id": "qoSTXgNE",
+    "response_id": "msg_bdrk_qcxo3lezvywjfj5uykv7d7c6e7hc3nytjyo5imlj574anmhkuuia",
+    "usage": {
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "input_tokens": 22717,
+      "output_tokens": 2233,
+      "server_tool_use": null,
+      "service_tier": "standard",
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens_details": {
+        "thinking_tokens": 0
+      }
+    },
+    "schema_mode": "bedrock_tool_required_nonnullable_v1",
+    "input_mode": "pdf_document",
+    "guidelines_mode": "none",
+    "guidelines_chars": 0
+  }
+}

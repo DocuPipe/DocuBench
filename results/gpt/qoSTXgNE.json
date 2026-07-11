@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "cost": null,
-  "time_sec": 56.916855812072754,
+  "time_sec": 49.12117886543274,
   "data": {
     "organizationName": "המכון לאסטרטגיה ציונית (ע\"ר)",
     "reportYear": 2023,
@@ -23,6 +23,12 @@
         "lineLabel": "חייבים ויתרות חובה",
         "currentYearAmount": 0,
         "priorYearAmount": 0
+      },
+      {
+        "statement": "מאזנים",
+        "lineLabel": "רכוש שוטף",
+        "currentYearAmount": 148820,
+        "priorYearAmount": 26239
       },
       {
         "statement": "מאזנים",
@@ -50,6 +56,12 @@
       },
       {
         "statement": "מאזנים",
+        "lineLabel": "התחייבויות שוטפות",
+        "currentYearAmount": 303173,
+        "priorYearAmount": 7326
+      },
+      {
+        "statement": "מאזנים",
         "lineLabel": "עתודה לפיצויי פרישה וגמלאות",
         "currentYearAmount": 0,
         "priorYearAmount": 0
@@ -65,6 +77,12 @@
         "lineLabel": "שלא קיימת לגביהם הגבלה ששימשו לרכוש קבוע",
         "currentYearAmount": 14729,
         "priorYearAmount": 0
+      },
+      {
+        "statement": "מאזנים",
+        "lineLabel": "נכסים נטו",
+        "currentYearAmount": -139624,
+        "priorYearAmount": 18913
       },
       {
         "statement": "מאזנים",
@@ -198,19 +216,22 @@
     "provider": "openai",
     "model": "gpt-5.5",
     "doc_id": "qoSTXgNE",
-    "file_id": "file-HKRrojHX17Tr4nhdAGjvJD",
-    "response_id": "resp_0b2c90ef9189831d016a3e9807fd8881a390e6bd48547cc5c3",
+    "file_id": "file-Ey4rdpXH3tue3KjwkEuZGJ",
+    "response_id": "resp_0b0ed2bbda44a6af016a47d62f1ab881a2b916ff3501457f9a",
     "usage": {
-      "input_tokens": 6024,
+      "input_tokens": 6023,
       "input_tokens_details": {
         "cached_tokens": 0
       },
-      "output_tokens": 3174,
+      "output_tokens": 3384,
       "output_tokens_details": {
-        "reasoning_tokens": 1950
+        "reasoning_tokens": 2070
       },
-      "total_tokens": 9198
+      "total_tokens": 9407
     },
-    "schema_mode": "openai_strict_nullable_v1"
+    "schema_mode": "openai_strict_nullable_v1",
+    "input_mode": "file",
+    "guidelines_mode": "none",
+    "guidelines_chars": 0
   }
 }

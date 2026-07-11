@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "cost": null,
-  "time_sec": 7.453639030456543,
+  "time_sec": 7.975125074386597,
   "data": {
     "projectName": "Plot 6",
     "bills": [
@@ -137,19 +137,23 @@
     "provider": "openai",
     "model": "gpt-5.5",
     "doc_id": "ZXlksSpk",
-    "file_id": "file-Tf1cQbdYB6XcmsSqJodBpU",
-    "response_id": "resp_0a5d2c8bc40e94b4016a3e96eb6884819db71fd4f3736a9327",
+    "file_id": "file-RcBG9dggoUyJwjDF2ZG8Z9",
+    "response_id": "resp_0188f41cf2baa440016a47d528f360819296261ae0c491785e",
     "usage": {
-      "input_tokens": 745,
+      "input_tokens": 802,
       "input_tokens_details": {
         "cached_tokens": 0
       },
-      "output_tokens": 544,
+      "output_tokens": 543,
       "output_tokens_details": {
         "reasoning_tokens": 0
       },
-      "total_tokens": 1289
+      "total_tokens": 1345
     },
-    "schema_mode": "openai_strict_nullable_v1"
+    "schema_mode": "openai_strict_nullable_v1",
+    "input_mode": "file",
+    "guidelines_mode": "guidelines_txt_v1",
+    "guidelines_chars": 270,
+    "guidelines_sha256": "69ffd44a4e04d0c3befb871f5903cc23940f1ab23153b132665443dd3004ac17"
   }
 }

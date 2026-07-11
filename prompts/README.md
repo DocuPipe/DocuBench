@@ -25,6 +25,11 @@ table rows as arrays and preserve the document language for values. Document id:
 
 `{doc_id}` is filled with the benchmark document id at runtime.
 
+When `guidelines/<doc_id>.txt` exists and is non-empty, direct LLM runners append it after
+the canonical prompt under an `Additional schema instructions:` heading. The same
+schema-level steering text is passed to configured extraction products where their APIs
+support a guidelines or rules field.
+
 ## Per-system configuration
 
 | System | Result dir | Runner | Prompt / config |
@@ -33,6 +38,7 @@ table rows as arrays and preserve the document language for values. Document id:
 | Anthropic Claude | `results/claude` | [`scripts/run_claude.py`](../scripts/run_claude.py) | [`claude.md`](claude.md) |
 | Google Gemini | `results/gemini` | [`scripts/run_gemini.py`](../scripts/run_gemini.py) | [`gemini.md`](gemini.md) |
 | Extend | `results/extend` | [`scripts/run_extend.py`](../scripts/run_extend.py) | [`extend.md`](extend.md) |
+| Reducto | `results/reducto`, `results/reducto_standard` | [`scripts/run_reducto.py`](../scripts/run_reducto.py) | [`reducto.md`](reducto.md) |
 | DocuPipe | `results/docupipe_*` | (vendor product) | [`docupipe.md`](docupipe.md) |
 
 ## How the schema is used
@@ -42,4 +48,6 @@ the strict subset its provider accepts (every object property required, objects/
 made nullable, unsupported keywords stripped) before constraining the model output. The
 transform is part of the runner and is described in each per-system file. Extend and
 DocuPipe consume the schema through their own extraction configuration rather than a
-free-text prompt.
+free-text prompt. The separate `guidelines/<doc_id>.txt` files are prompt-side
+instructions for direct LLM runners and extractor-side rules for products that expose a
+guidelines/rules field.

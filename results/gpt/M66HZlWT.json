@@ -1,9 +1,9 @@
 {
   "status": "ok",
   "cost": null,
-  "time_sec": 9.29796814918518,
+  "time_sec": 15.62871766090393,
   "data": {
-    "patientName": "游＊詠",
+    "patientName": null,
     "medicalRecordNumber": "4226770",
     "idNumber": "C22117****",
     "date": "105/02/24",
@@ -28,18 +28,22 @@
     "model": "gpt-5.5",
     "doc_id": "M66HZlWT",
     "file_id": null,
-    "response_id": "resp_05715d664d581812016a3e957e293081a3a7aa0ef16c6e3541",
+    "response_id": "resp_01e54e91b769e05c016a47d3ba3a4c819da05f023a502e465e",
     "usage": {
-      "input_tokens": 5135,
+      "input_tokens": 5289,
       "input_tokens_details": {
         "cached_tokens": 0
       },
-      "output_tokens": 599,
+      "output_tokens": 1175,
       "output_tokens_details": {
-        "reasoning_tokens": 454
+        "reasoning_tokens": 1034
       },
-      "total_tokens": 5734
+      "total_tokens": 6464
     },
-    "schema_mode": "openai_strict_nullable_v1"
+    "schema_mode": "openai_strict_nullable_v1",
+    "input_mode": "image",
+    "guidelines_mode": "guidelines_txt_v1",
+    "guidelines_chars": 578,
+    "guidelines_sha256": "e817fbc7dbdfeba55c6fb633ff14d7c11d36101560f450dc1fe6571a2363e0c7"
   }
 }

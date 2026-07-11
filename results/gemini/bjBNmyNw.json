@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "cost": null,
-  "time_sec": 11.529668807983398,
+  "time_sec": 10.138472080230713,
   "data": {
     "poNumber": "40418819",
     "department": "6576",
@@ -65,9 +65,9 @@
     "model": "gemini-3.5-flash",
     "doc_id": "bjBNmyNw",
     "usage": {
-      "promptTokenCount": 572,
+      "promptTokenCount": 717,
       "candidatesTokenCount": 701,
-      "totalTokenCount": 2733,
+      "totalTokenCount": 2752,
       "promptTokensDetails": [
         {
           "modality": "IMAGE",
@@ -75,13 +75,16 @@
         },
         {
           "modality": "TEXT",
-          "tokenCount": 52
+          "tokenCount": 197
         }
       ],
-      "thoughtsTokenCount": 1460,
+      "thoughtsTokenCount": 1334,
       "serviceTier": "standard"
     },
     "schema_mode": "gemini_response_schema_nullable_v1",
-    "input_mode": "inline_data"
+    "input_mode": "inline_data",
+    "guidelines_mode": "guidelines_txt_v1",
+    "guidelines_chars": 572,
+    "guidelines_sha256": "3948f9d25c892e129f4e32ff88280a03dc781e158f894b857c9e02e20510e2b9"
   }
 }

@@ -1,9 +1,9 @@
 {
   "status": "ok",
   "cost": null,
-  "time_sec": 9.711500883102417,
+  "time_sec": 18.91535711288452,
   "data": {
-    "productCategory": "(POWDER DETERGENT)",
+    "productCategory": "POWDER DETERGENT",
     "items": [
       {
         "productPacking": "UIC 16 X 800gm",
@@ -65,19 +65,23 @@
     "provider": "openai",
     "model": "gpt-5.5",
     "doc_id": "QxoQ6zgn",
-    "file_id": "file-9wHRDzrkyxvzN5MjNRyHsE",
-    "response_id": "resp_07e3f17d640cd304016a3e964346e48192a861efd21c952b95",
+    "file_id": "file-K8ziSTJgvG4uM2Pk2bJNzH",
+    "response_id": "resp_0749af705b1b72a6016a47d455e0a88191a7bc7f77b5e699e4",
     "usage": {
-      "input_tokens": 1318,
+      "input_tokens": 1473,
       "input_tokens_details": {
         "cached_tokens": 0
       },
-      "output_tokens": 617,
+      "output_tokens": 465,
       "output_tokens_details": {
-        "reasoning_tokens": 147
+        "reasoning_tokens": 0
       },
-      "total_tokens": 1935
+      "total_tokens": 1938
     },
-    "schema_mode": "openai_strict_nullable_v1"
+    "schema_mode": "openai_strict_nullable_v1",
+    "input_mode": "file",
+    "guidelines_mode": "guidelines_txt_v1",
+    "guidelines_chars": 604,
+    "guidelines_sha256": "db7e79674d5a40bbff88452c0b52c68271256668b52fb1c8cfe11e783c31d649"
   }
 }

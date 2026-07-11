@@ -14,6 +14,7 @@ the run as missing.
 from __future__ import annotations
 
 import base64
+import hashlib
 import json
 import mimetypes
 import os
@@ -236,6 +237,7 @@ def input_parts_for_file(path: Path) -> tuple[list[dict[str, Any]], str | None, 
 
 
 PROMPT_TEMPLATE_PATH = Path(__file__).resolve().parent.parent / "prompts" / "extraction_prompt.txt"
+GUIDELINES_DIR = Path(__file__).resolve().parent.parent / "guidelines"
 DEFAULT_PROMPT_TEMPLATE = (
     "Extract the document into the supplied JSON schema. "
     "Use only information present in the document. "
@@ -257,11 +259,34 @@ def load_prompt_template() -> str:
         return DEFAULT_PROMPT_TEMPLATE
 
 
-def build_prompt(doc_id: str) -> str:
-    return load_prompt_template().format(doc_id=doc_id)
+def load_guidelines(doc_id: str) -> str:
+    try:
+        return (GUIDELINES_DIR / f"{doc_id}.txt").read_text(encoding="utf-8").strip()
+    except OSError:
+        return ""
 
 
-def response_payload(doc_id: str, document_parts: list[dict[str, Any]], schema: dict[str, Any]) -> dict[str, Any]:
+def guidelines_meta(guidelines: str) -> dict[str, Any]:
+    if not guidelines:
+        return {"guidelines_mode": "none", "guidelines_chars": 0}
+    digest = hashlib.sha256(guidelines.encode("utf-8")).hexdigest()
+    return {"guidelines_mode": "guidelines_txt_v1", "guidelines_chars": len(guidelines), "guidelines_sha256": digest}
+
+
+def build_prompt(doc_id: str, guidelines: str | None = None) -> str:
+    prompt = load_prompt_template().format(doc_id=doc_id)
+    if guidelines is None:
+        guidelines = load_guidelines(doc_id)
+    if guidelines:
+        prompt += f"\n\nAdditional schema instructions:\n{guidelines}"
+    return prompt
+
+
+def response_payload(
+    doc_id: str,
+    document_parts: list[dict[str, Any]],
+    schema: dict[str, Any],
+    guidelines: str | None = None) -> dict[str, Any]:
     payload: dict[str, Any] = {
         "model": openai_model(),
         "store": False,
@@ -270,7 +295,7 @@ def response_payload(doc_id: str, document_parts: list[dict[str, Any]], schema: 
                 "role": "user",
                 "content": [
                     *document_parts,
-                    {"type": "input_text", "text": build_prompt(doc_id)},
+                    {"type": "input_text", "text": build_prompt(doc_id=doc_id, guidelines=guidelines)},
                 ],
             }
         ],
@@ -450,10 +475,15 @@ def run(doc_id: str, file_path: Path, json_schema: dict[str, Any]) -> dict[str, 
     input_meta: dict[str, Any] = {}
     response: dict[str, Any] | None = None
     output_schema = normalize_output_schema(json_schema)
+    guidelines = load_guidelines(doc_id)
 
     try:
         document_parts, file_id, input_meta = input_parts_for_file(file_path)
-        response = create_response(response_payload(doc_id, document_parts, output_schema))
+        response = create_response(response_payload(
+            doc_id=doc_id,
+            document_parts=document_parts,
+            schema=output_schema,
+            guidelines=guidelines))
         data = parse_response_data(response, output_schema)
     except ExtractionFailure as exc:
         return failure_result(
@@ -463,7 +493,7 @@ def run(doc_id: str, file_path: Path, json_schema: dict[str, Any]) -> dict[str, 
             doc_id=doc_id,
             file_id=file_id,
             response=response,
-            extra_meta={**input_meta, **exc.meta},
+            extra_meta={**input_meta, **guidelines_meta(guidelines), **exc.meta},
         )
     except requests.RequestException as exc:
         return failure_result(
@@ -473,7 +503,7 @@ def run(doc_id: str, file_path: Path, json_schema: dict[str, Any]) -> dict[str, 
             doc_id=doc_id,
             file_id=file_id,
             response=response,
-            extra_meta=input_meta,
+            extra_meta={**input_meta, **guidelines_meta(guidelines)},
         )
     except Exception as exc:
         return failure_result(
@@ -483,7 +513,7 @@ def run(doc_id: str, file_path: Path, json_schema: dict[str, Any]) -> dict[str, 
             doc_id=doc_id,
             file_id=file_id,
             response=response,
-            extra_meta=input_meta,
+            extra_meta={**input_meta, **guidelines_meta(guidelines)},
         )
 
     usage = response.get("usage") or {}
@@ -501,6 +531,7 @@ def run(doc_id: str, file_path: Path, json_schema: dict[str, Any]) -> dict[str, 
             "usage": usage,
             "schema_mode": SCHEMA_MODE,
             **input_meta,
+            **guidelines_meta(guidelines),
         },
     }
 

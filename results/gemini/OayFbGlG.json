@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "cost": null,
-  "time_sec": 7.822702884674072,
+  "time_sec": 7.6828320026397705,
   "data": {
     "patientName": "John Doe",
     "mrn": "000012",
@@ -36,23 +36,26 @@
     "model": "gemini-3.5-flash",
     "doc_id": "OayFbGlG",
     "usage": {
-      "promptTokenCount": 1093,
+      "promptTokenCount": 1238,
       "candidatesTokenCount": 287,
-      "totalTokenCount": 2502,
+      "totalTokenCount": 2597,
       "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 198
+        },
         {
           "modality": "IMAGE",
           "tokenCount": 1040
-        },
-        {
-          "modality": "TEXT",
-          "tokenCount": 53
         }
       ],
-      "thoughtsTokenCount": 1122,
+      "thoughtsTokenCount": 1072,
       "serviceTier": "standard"
     },
     "schema_mode": "gemini_response_schema_nullable_v1",
-    "input_mode": "inline_data"
+    "input_mode": "inline_data",
+    "guidelines_mode": "guidelines_txt_v1",
+    "guidelines_chars": 712,
+    "guidelines_sha256": "1b0e582c133fd10d8d85c29583ea4c71e8d0ac7ad3c15646192366ab0f4fceab"
   }
 }

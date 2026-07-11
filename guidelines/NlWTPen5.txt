@@ -1,0 +1,1 @@
+Extract the electric bill header/total fields and every delivery/distribution charge line amount (positive charges and negative credits), excluding any total/summary row. The amount column is authoritative and the charge amounts sum to total delivery charges. Amounts/usage/demand are numeric. Only one bill is present despite the filename.

@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "cost": null,
-  "time_sec": 16.562161922454834,
+  "time_sec": 18.0330650806427,
   "data": {
     "amendmentNumber": "Fourth",
     "amendmentDate": "2016-09-30",
@@ -113,23 +113,26 @@
     "model": "gemini-3.5-flash",
     "doc_id": "SkD8Lz8o",
     "usage": {
-      "promptTokenCount": 1615,
+      "promptTokenCount": 1829,
       "candidatesTokenCount": 1107,
-      "totalTokenCount": 5419,
+      "totalTokenCount": 5952,
       "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 269
+        },
         {
           "modality": "IMAGE",
           "tokenCount": 1560
-        },
-        {
-          "modality": "TEXT",
-          "tokenCount": 55
         }
       ],
-      "thoughtsTokenCount": 2697,
+      "thoughtsTokenCount": 3016,
       "serviceTier": "standard"
     },
     "schema_mode": "gemini_response_schema_nullable_v1",
-    "input_mode": "inline_data"
+    "input_mode": "inline_data",
+    "guidelines_mode": "guidelines_txt_v1",
+    "guidelines_chars": 883,
+    "guidelines_sha256": "27c3f878bbdd975928ad58ddf7b38dd5c17af86532436ebb1911fee7d05b6a37"
   }
 }

@@ -1,11 +1,11 @@
 {
   "status": "ok",
   "cost": null,
-  "time_sec": 13.520704984664917,
+  "time_sec": 11.010822057723999,
   "data": {
     "accountNumber": "00001-00001",
     "meterNumber": "300000000",
-    "serviceAddress": "123 SERVICE RD ALLENTOWN PA 18100",
+    "serviceAddress": "JOHN DOE 123 SERVICE RD ALLENTOWN PA 18100",
     "dueDate": "2024-06-19",
     "billingPeriodStart": "2024-05-02",
     "billingPeriodEnd": "2024-06-03",
@@ -50,9 +50,9 @@
     "model": "gemini-3.5-flash",
     "doc_id": "NlWTPen5",
     "usage": {
-      "promptTokenCount": 1614,
-      "candidatesTokenCount": 363,
-      "totalTokenCount": 4337,
+      "promptTokenCount": 1682,
+      "candidatesTokenCount": 370,
+      "totalTokenCount": 3939,
       "promptTokensDetails": [
         {
           "modality": "IMAGE",
@@ -60,13 +60,16 @@
         },
         {
           "modality": "TEXT",
-          "tokenCount": 54
+          "tokenCount": 122
         }
       ],
-      "thoughtsTokenCount": 2360,
+      "thoughtsTokenCount": 1887,
       "serviceTier": "standard"
     },
     "schema_mode": "gemini_response_schema_nullable_v1",
-    "input_mode": "inline_data"
+    "input_mode": "inline_data",
+    "guidelines_mode": "guidelines_txt_v1",
+    "guidelines_chars": 340,
+    "guidelines_sha256": "497373162747b6cb6e7f7a010608bb0d873eea1cf75d3ab9b922c1747c5d6114"
   }
 }

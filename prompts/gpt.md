@@ -16,6 +16,9 @@ document. Return null for fields that are not printed or cannot be determined. P
 table rows as arrays and preserve the document language for values. Document id: {doc_id}.
 ```
 
+If `guidelines/<doc_id>.txt` is non-empty, it is appended to the prompt as
+`Additional schema instructions`.
+
 The document is attached as an `input_file` (PDF / native files via the Files API), an
 `input_image` (JPEG/PNG/WebP/GIF), or a sequence of PNG pages converted from multipage
 TIFF.

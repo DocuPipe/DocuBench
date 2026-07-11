@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "cost": null,
-  "time_sec": 13.303585767745972,
+  "time_sec": 10.271600008010864,
   "data": {
     "projectName": "Plot 6",
     "bills": [
@@ -138,9 +138,9 @@
     "model": "gemini-3.5-flash",
     "doc_id": "ZXlksSpk",
     "usage": {
-      "promptTokenCount": 585,
+      "promptTokenCount": 645,
       "candidatesTokenCount": 1064,
-      "totalTokenCount": 3065,
+      "totalTokenCount": 2966,
       "promptTokensDetails": [
         {
           "modality": "IMAGE",
@@ -148,13 +148,16 @@
         },
         {
           "modality": "TEXT",
-          "tokenCount": 53
+          "tokenCount": 113
         }
       ],
-      "thoughtsTokenCount": 1416,
+      "thoughtsTokenCount": 1257,
       "serviceTier": "standard"
     },
     "schema_mode": "gemini_response_schema_nullable_v1",
-    "input_mode": "inline_data"
+    "input_mode": "inline_data",
+    "guidelines_mode": "guidelines_txt_v1",
+    "guidelines_chars": 270,
+    "guidelines_sha256": "69ffd44a4e04d0c3befb871f5903cc23940f1ab23153b132665443dd3004ac17"
   }
 }

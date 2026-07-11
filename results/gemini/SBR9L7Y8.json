@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "cost": null,
-  "time_sec": 14.178722143173218,
+  "time_sec": 13.047914266586304,
   "data": {
     "payPeriodMonth": 9,
     "payPeriodYear": 2008,
@@ -9,7 +9,7 @@
     "totalPayments": 12845.38,
     "totalDeductions": 3792.1,
     "netToBank": 9053.28,
-    "totalHours": 176.0,
+    "totalHours": null,
     "payments": [
       {
         "description": "משולב אופק חדש",
@@ -76,8 +76,8 @@
     "doc_id": "SBR9L7Y8",
     "usage": {
       "promptTokenCount": 1155,
-      "candidatesTokenCount": 547,
-      "totalTokenCount": 4024,
+      "candidatesTokenCount": 541,
+      "totalTokenCount": 3942,
       "promptTokensDetails": [
         {
           "modality": "TEXT",
@@ -88,10 +88,12 @@
           "tokenCount": 1100
         }
       ],
-      "thoughtsTokenCount": 2322,
+      "thoughtsTokenCount": 2246,
       "serviceTier": "standard"
     },
     "schema_mode": "gemini_response_schema_nullable_v1",
-    "input_mode": "inline_data"
+    "input_mode": "inline_data",
+    "guidelines_mode": "none",
+    "guidelines_chars": 0
   }
 }

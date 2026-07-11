@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "cost": null,
-  "time_sec": 12.715267181396484,
+  "time_sec": 11.55525803565979,
   "data": {
     "numeroFactura": "21180613010076890",
     "cups": "ES 0021 0000 0474 4848 NZ",
@@ -30,9 +30,9 @@
     "provider": "anthropic",
     "model": "claude-sonnet-4-6",
     "doc_id": "DtfW60lS",
-    "response_id": "msg_018zRh2C7DDCjJEbUX77L8vq",
+    "response_id": "msg_01KUWT3muhNHWzvP2ddEgeZ8",
     "usage": {
-      "input_tokens": 10472,
+      "input_tokens": 10497,
       "cache_creation_input_tokens": 0,
       "cache_read_input_tokens": 0,
       "cache_creation": {
@@ -43,7 +43,10 @@
       "service_tier": "standard",
       "inference_geo": "global"
     },
-    "schema_mode": "anthropic_output_config_nullable_v1",
-    "input_mode": "pdf_document"
+    "schema_mode": "anthropic_output_config_required_nonnullable_v1",
+    "input_mode": "pdf_document",
+    "guidelines_mode": "guidelines_txt_v1",
+    "guidelines_chars": 548,
+    "guidelines_sha256": "aefb6f419f8d61c2780cdf9ad14311f245f90578d9e807c4511c71a9109ec025"
   }
 }

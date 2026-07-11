@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "cost": null,
-  "time_sec": 8.31751799583435,
+  "time_sec": 5.719135046005249,
   "data": {
     "billingPeriodStart": "2021-09-18",
     "billingPeriodEnd": "2021-10-18",
@@ -33,23 +33,26 @@
     "model": "gemini-3.5-flash",
     "doc_id": "PSU5pciM",
     "usage": {
-      "promptTokenCount": 1093,
-      "candidatesTokenCount": 247,
-      "totalTokenCount": 2333,
+      "promptTokenCount": 1140,
+      "candidatesTokenCount": 164,
+      "totalTokenCount": 2083,
       "promptTokensDetails": [
         {
           "modality": "TEXT",
-          "tokenCount": 53
+          "tokenCount": 100
         },
         {
           "modality": "IMAGE",
           "tokenCount": 1040
         }
       ],
-      "thoughtsTokenCount": 993,
+      "thoughtsTokenCount": 779,
       "serviceTier": "standard"
     },
     "schema_mode": "gemini_response_schema_nullable_v1",
-    "input_mode": "inline_data"
+    "input_mode": "inline_data",
+    "guidelines_mode": "guidelines_txt_v1",
+    "guidelines_chars": 203,
+    "guidelines_sha256": "41c2bf6a07cddd250c68c0afd93c8d12e5f16aa1e30869f05797f019e9f952d8"
   }
 }

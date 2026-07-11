@@ -1,11 +1,11 @@
 {
   "status": "ok",
   "cost": null,
-  "time_sec": 16.09347677230835,
+  "time_sec": 17.422472953796387,
   "data": {
     "employeeName": "ELIZABETH A DARLING",
     "employeeSSN": "XXX-XX-1234",
-    "employerName": "UNIVERSITY OF PITTSBURGH\n4200 FIFTH AVENUE\nPITTSBURGH, PA 15260",
+    "employerName": "UNIVERSITY OF PITTSBURGH",
     "employerEIN": "XX-XXX5591",
     "box1Wages": 44629.35,
     "box2FederalIncomeTax": 7631.62,
@@ -47,9 +47,9 @@
     "model": "gemini-3.5-flash",
     "doc_id": "phovuuuk",
     "usage": {
-      "promptTokenCount": 1612,
-      "candidatesTokenCount": 462,
-      "totalTokenCount": 4357,
+      "promptTokenCount": 1779,
+      "candidatesTokenCount": 440,
+      "totalTokenCount": 5336,
       "promptTokensDetails": [
         {
           "modality": "IMAGE",
@@ -57,13 +57,16 @@
         },
         {
           "modality": "TEXT",
-          "tokenCount": 52
+          "tokenCount": 219
         }
       ],
-      "thoughtsTokenCount": 2283,
+      "thoughtsTokenCount": 3117,
       "serviceTier": "standard"
     },
     "schema_mode": "gemini_response_schema_nullable_v1",
-    "input_mode": "inline_data"
+    "input_mode": "inline_data",
+    "guidelines_mode": "guidelines_txt_v1",
+    "guidelines_chars": 635,
+    "guidelines_sha256": "5ce24ba6eec24393cb122beec3fc5294e84a8f08f1109086d8d616d82a62b66e"
   }
 }

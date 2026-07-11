@@ -1,13 +1,13 @@
 {
   "status": "ok",
   "cost": null,
-  "time_sec": 29.792300939559937,
+  "time_sec": 25.276567697525024,
   "data": {
     "subjectPropertyAddress": "1517 Main Ct",
     "subjectCity": "Anytown",
     "subjectState": "IL",
     "subjectZip": "604XX",
-    "borrowerName": "Ima Buyn",
+    "borrowerName": "Buyn, Ima",
     "county": "Kendall",
     "lenderClientName": "XYZ Financial Inc.",
     "assignmentType": "Purchase Transaction",
@@ -98,19 +98,23 @@
     "provider": "openai",
     "model": "gpt-5.5",
     "doc_id": "KpewWz3R",
-    "file_id": "file-7PYUvyJX7erJ3Ku2i6CVqY",
-    "response_id": "resp_00e828bf934a50e5016a3e955376f8819d903572cced39e3c2",
+    "file_id": "file-Tnj4UpRWfMadMmwqB3KmSd",
+    "response_id": "resp_039db026e80c73e4016a47d39404c081a1b6070a48bc91a4aa",
     "usage": {
-      "input_tokens": 13801,
+      "input_tokens": 14019,
       "input_tokens_details": {
         "cached_tokens": 0
       },
-      "output_tokens": 1942,
+      "output_tokens": 1650,
       "output_tokens_details": {
-        "reasoning_tokens": 1325
+        "reasoning_tokens": 1034
       },
-      "total_tokens": 15743
+      "total_tokens": 15669
     },
-    "schema_mode": "openai_strict_nullable_v1"
+    "schema_mode": "openai_strict_nullable_v1",
+    "input_mode": "file",
+    "guidelines_mode": "guidelines_txt_v1",
+    "guidelines_chars": 1021,
+    "guidelines_sha256": "f08fd5eba5a41006014ebd6977cf77df8e3c390c7482a074412b2b2e6aaadc9e"
   }
 }

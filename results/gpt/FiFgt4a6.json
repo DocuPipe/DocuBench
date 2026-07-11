@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "cost": null,
-  "time_sec": 13.062262058258057,
+  "time_sec": 6.484954118728638,
   "data": {
     "issuingCarrier": "ETHIOPIAN AIRLINES",
     "awbNumber": "071 DXB 1276 0786",
@@ -12,7 +12,7 @@
     "issuingAgentName": "HAWK FREIGHT SERVICES FZE",
     "agentCity": "DUBAI",
     "agentReference": "DXB/UE21878",
-    "airportOfDeparture": null,
+    "airportOfDeparture": "DXB",
     "airportOfDestination": "ADDIS ABABA",
     "currency": "AED",
     "pieces": 60,
@@ -29,19 +29,23 @@
     "provider": "openai",
     "model": "gpt-5.5",
     "doc_id": "FiFgt4a6",
-    "file_id": "file-SxGeAG8bFBZA6uk4mUnkdz",
-    "response_id": "resp_003245d022429b0a016a3e950c01d4819d9a78c63ef72207c1",
+    "file_id": "file-LVfRMVgfH8cZaskmHfXGF5",
+    "response_id": "resp_092065a4ab053e42016a47d2e3bbc481a3b0b25e030c67fad9",
     "usage": {
-      "input_tokens": 2392,
+      "input_tokens": 2540,
       "input_tokens_details": {
         "cached_tokens": 0
       },
-      "output_tokens": 833,
+      "output_tokens": 315,
       "output_tokens_details": {
-        "reasoning_tokens": 516
+        "reasoning_tokens": 0
       },
-      "total_tokens": 3225
+      "total_tokens": 2855
     },
-    "schema_mode": "openai_strict_nullable_v1"
+    "schema_mode": "openai_strict_nullable_v1",
+    "input_mode": "file",
+    "guidelines_mode": "guidelines_txt_v1",
+    "guidelines_chars": 654,
+    "guidelines_sha256": "c7aa9257f90fe158062039f534f4ba40677911edb3be47dd30ffa9c9ab8febac"
   }
 }

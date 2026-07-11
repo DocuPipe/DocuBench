@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "cost": null,
-  "time_sec": 16.869606256484985,
+  "time_sec": 13.769092082977295,
   "data": {
     "accountNumber": "00001-00001",
     "meterNumber": "300000000",
@@ -49,19 +49,23 @@
     "provider": "openai",
     "model": "gpt-5.5",
     "doc_id": "NlWTPen5",
-    "file_id": "file-BQBExPaeu5ACApmw6fmHki",
-    "response_id": "resp_0efc440b16c82485016a3e95eddadc8191b350e4a7a04c84c4",
+    "file_id": "file-WxZRDSugWSLquDtfn6UsGE",
+    "response_id": "resp_08bf998a2a12442b016a47d40d5b1081a3b842f0d5a24a6685",
     "usage": {
-      "input_tokens": 4709,
+      "input_tokens": 4775,
       "input_tokens_details": {
         "cached_tokens": 0
       },
-      "output_tokens": 1061,
+      "output_tokens": 788,
       "output_tokens_details": {
-        "reasoning_tokens": 876
+        "reasoning_tokens": 604
       },
-      "total_tokens": 5770
+      "total_tokens": 5563
     },
-    "schema_mode": "openai_strict_nullable_v1"
+    "schema_mode": "openai_strict_nullable_v1",
+    "input_mode": "file",
+    "guidelines_mode": "guidelines_txt_v1",
+    "guidelines_chars": 340,
+    "guidelines_sha256": "497373162747b6cb6e7f7a010608bb0d873eea1cf75d3ab9b922c1747c5d6114"
   }
 }

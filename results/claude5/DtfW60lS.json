@@ -1,0 +1,57 @@
+{
+  "status": "ok",
+  "cost": 0.079935,
+  "time_sec": 7.0497941970825195,
+  "data": {
+    "numeroFactura": "21180613010076890",
+    "cups": "ES 0021 0000 0474 4848 NZ",
+    "periodoFacturacionStart": "2018-05-08",
+    "periodoFacturacionEnd": "2018-06-10",
+    "consumoKwh": 350,
+    "charges": [
+      {
+        "description": "ENERGÍA",
+        "amount": 66.02
+      },
+      {
+        "description": "SERVICIOS Y OTROS CONCEPTOS",
+        "amount": 0.88
+      },
+      {
+        "description": "IVA 21% s/66,9",
+        "amount": 14.05
+      }
+    ],
+    "baseImponible": 66.9,
+    "iva": 14.05,
+    "totalAPagar": 80.95
+  },
+  "meta": {
+    "provider": "anthropic_bedrock",
+    "model": "claude-sonnet-5",
+    "bedrock_model_id": "global.anthropic.claude-sonnet-5",
+    "bedrock_region": "us-east-1",
+    "doc_id": "DtfW60lS",
+    "response_id": "msg_bdrk_utm7arkxizzvy3osplmbdwc24whfuvpb5hxymy4hd2euo5ycmqda",
+    "usage": {
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "input_tokens": 24815,
+      "output_tokens": 366,
+      "server_tool_use": null,
+      "service_tier": "standard",
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens_details": {
+        "thinking_tokens": 0
+      }
+    },
+    "schema_mode": "bedrock_tool_required_nonnullable_v1",
+    "input_mode": "pdf_document",
+    "guidelines_mode": "guidelines_txt_v1",
+    "guidelines_chars": 548,
+    "guidelines_sha256": "aefb6f419f8d61c2780cdf9ad14311f245f90578d9e807c4511c71a9109ec025"
+  }
+}

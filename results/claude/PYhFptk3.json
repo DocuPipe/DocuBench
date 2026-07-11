@@ -1,11 +1,11 @@
 {
   "status": "ok",
   "cost": null,
-  "time_sec": 12.203688144683838,
+  "time_sec": 19.480767011642456,
   "data": {
     "interchangeControlNumber": "000001000",
-    "interchangeSenderId": "NOTP",
-    "interchangeReceiverId": "NOTP",
+    "interchangeSenderId": "NOTP           ",
+    "interchangeReceiverId": "NOTP           ",
     "groupControlNumber": "1000",
     "functionalIdentifierCode": "PO",
     "transactionSetControlNumber": "000000010",
@@ -76,21 +76,23 @@
     "provider": "anthropic",
     "model": "claude-sonnet-4-6",
     "doc_id": "PYhFptk3",
-    "response_id": "msg_01JZAH3ekk1sxVxzXBcfroch",
+    "response_id": "msg_01AUQnKxCmFQoPtfJUna1AJk",
     "usage": {
-      "input_tokens": 1573,
+      "input_tokens": 2056,
       "cache_creation_input_tokens": 0,
       "cache_read_input_tokens": 0,
       "cache_creation": {
         "ephemeral_5m_input_tokens": 0,
         "ephemeral_1h_input_tokens": 0
       },
-      "output_tokens": 735,
+      "output_tokens": 489,
       "service_tier": "standard",
       "inference_geo": "global"
     },
-    "schema_mode": "anthropic_output_config_nullable_v1",
+    "schema_mode": "anthropic_output_config_required_nonnullable_v1",
     "input_mode": "text",
-    "schema_fallback": "prompt_json_schema"
+    "guidelines_mode": "guidelines_txt_v1",
+    "guidelines_chars": 549,
+    "guidelines_sha256": "9da6d3bb6db60ee0ca1bb9272ab0e606c69b15ddedeb3f63d3f561da35c3d185"
   }
 }

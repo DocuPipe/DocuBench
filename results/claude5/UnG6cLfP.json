@@ -1,0 +1,79 @@
+{
+  "status": "ok",
+  "cost": 0.048078,
+  "time_sec": 7.0840489864349365,
+  "data": {
+    "checkDate": "",
+    "checkNumber": "",
+    "lineItems": [
+      {
+        "propertyNumber": "046907",
+        "propertyName": "ALEXANDER NO 3 OIL UNIT #3",
+        "countyName": "Orange",
+        "state": "TX",
+        "salesMonthYear": "06/2013",
+        "productCode": "1",
+        "interestType": "WI",
+        "decimalInterest": 0.00494707,
+        "unitPrice": 102.464,
+        "btu": null,
+        "ownerVolume": 37.82,
+        "ownerGrossValue": 3874.61,
+        "ownerTax": 236.2,
+        "ownerDeducts": null,
+        "ownerNetValue": 3638.41
+      },
+      {
+        "propertyNumber": "046907",
+        "propertyName": "ALEXANDER NO 3 OIL UNIT #3",
+        "countyName": "Orange",
+        "state": "TX",
+        "salesMonthYear": "06/2013",
+        "productCode": "2",
+        "interestType": "WI",
+        "decimalInterest": 0.00494707,
+        "unitPrice": 7.8,
+        "btu": 1.301,
+        "ownerVolume": 66.11,
+        "ownerGrossValue": 515.65,
+        "ownerTax": 46.74,
+        "ownerDeducts": 44.98,
+        "ownerNetValue": 423.93
+      }
+    ],
+    "operatorName": "Samson Exploration, LLC",
+    "ownerNumber": "",
+    "ownerTotalDeducts": 44.98,
+    "ownerTotalGrossValue": 4390.26,
+    "ownerTotalNetValue": 4062.34,
+    "ownerTotalTax": 282.94
+  },
+  "meta": {
+    "provider": "anthropic_bedrock",
+    "model": "claude-sonnet-5",
+    "bedrock_model_id": "global.anthropic.claude-sonnet-5",
+    "bedrock_region": "us-east-1",
+    "doc_id": "UnG6cLfP",
+    "response_id": "msg_bdrk_pjohukl5a5f5odq4cbd3dke46qphkaxqcbthfvbdcqzqbbgelfaa",
+    "usage": {
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "input_tokens": 12881,
+      "output_tokens": 629,
+      "server_tool_use": null,
+      "service_tier": "standard",
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens_details": {
+        "thinking_tokens": 0
+      }
+    },
+    "schema_mode": "bedrock_tool_required_nonnullable_v1",
+    "input_mode": "pdf_document",
+    "guidelines_mode": "guidelines_txt_v1",
+    "guidelines_chars": 942,
+    "guidelines_sha256": "fae0216e91be2177db27278e350f6c546cbe5c5219ad7772695b59d3341fdb06"
+  }
+}

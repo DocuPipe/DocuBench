@@ -1,11 +1,11 @@
 {
   "status": "ok",
   "cost": null,
-  "time_sec": 10.630834102630615,
+  "time_sec": 13.804599046707153,
   "data": {
-    "companyName": "אורן טכנולוגיות בע",
+    "companyName": "אורן טכנולוגיות בע\"מ",
     "reportYear": 2024,
-    "currencyUnits": "אלפי ש",
+    "currencyUnits": "אלפי ש\"ח",
     "balanceSheetLineItems": [
       {
         "section": "נכסים",
@@ -93,19 +93,22 @@
     "model": "gemini-3.5-flash",
     "doc_id": "pw8elPW9",
     "usage": {
-      "promptTokenCount": 438,
-      "candidatesTokenCount": 798,
-      "totalTokenCount": 2574,
+      "promptTokenCount": 531,
+      "candidatesTokenCount": 800,
+      "totalTokenCount": 3885,
       "promptTokensDetails": [
         {
           "modality": "TEXT",
-          "tokenCount": 438
+          "tokenCount": 531
         }
       ],
-      "thoughtsTokenCount": 1338,
+      "thoughtsTokenCount": 2554,
       "serviceTier": "standard"
     },
     "schema_mode": "gemini_response_schema_nullable_v1",
-    "input_mode": "docx_text"
+    "input_mode": "docx_text",
+    "guidelines_mode": "guidelines_txt_v1",
+    "guidelines_chars": 391,
+    "guidelines_sha256": "ada98cbd57a7b5059031c13069088b8416335c75ee8be818fd547868fc0f2b3a"
   }
 }

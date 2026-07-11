@@ -1,9 +1,9 @@
 {
   "status": "ok",
   "cost": null,
-  "time_sec": 16.134172916412354,
+  "time_sec": 12.166670799255371,
   "data": {
-    "operatorName": "SAMSON EXPLORATION, LLC",
+    "operatorName": "Samson Exploration, LLC",
     "checkNumber": null,
     "checkDate": null,
     "ownerNumber": null,
@@ -13,7 +13,7 @@
         "propertyName": "ALEXANDER NO 3 OIL UNIT #3",
         "countyName": "Orange",
         "state": "TX",
-        "salesMonthYear": "08/2013",
+        "salesMonthYear": "06/2013",
         "productCode": "1",
         "interestType": "WI",
         "decimalInterest": 0.00494707,
@@ -53,23 +53,26 @@
     "model": "gemini-3.5-flash",
     "doc_id": "UnG6cLfP",
     "usage": {
-      "promptTokenCount": 1106,
-      "candidatesTokenCount": 515,
-      "totalTokenCount": 4246,
+      "promptTokenCount": 1346,
+      "candidatesTokenCount": 513,
+      "totalTokenCount": 3766,
       "promptTokensDetails": [
         {
           "modality": "TEXT",
-          "tokenCount": 54
+          "tokenCount": 294
         },
         {
           "modality": "IMAGE",
           "tokenCount": 1052
         }
       ],
-      "thoughtsTokenCount": 2625,
+      "thoughtsTokenCount": 1907,
       "serviceTier": "standard"
     },
     "schema_mode": "gemini_response_schema_nullable_v1",
-    "input_mode": "inline_data"
+    "input_mode": "inline_data",
+    "guidelines_mode": "guidelines_txt_v1",
+    "guidelines_chars": 942,
+    "guidelines_sha256": "fae0216e91be2177db27278e350f6c546cbe5c5219ad7772695b59d3341fdb06"
   }
 }

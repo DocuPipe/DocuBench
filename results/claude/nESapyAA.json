@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "cost": null,
-  "time_sec": 7.894087791442871,
+  "time_sec": 18.405065059661865,
   "data": {
     "documentType": "חשבונית מס / קבלה",
     "documentNumber": "104880",
@@ -38,21 +38,22 @@
     "provider": "anthropic",
     "model": "claude-sonnet-4-6",
     "doc_id": "nESapyAA",
-    "response_id": "msg_01WikXqaA72AjJFxtNCKwJFR",
+    "response_id": "msg_01VMgBoxA1DP3P4tgEEpxz54",
     "usage": {
-      "input_tokens": 3145,
+      "input_tokens": 3946,
       "cache_creation_input_tokens": 0,
       "cache_read_input_tokens": 0,
       "cache_creation": {
         "ephemeral_5m_input_tokens": 0,
         "ephemeral_1h_input_tokens": 0
       },
-      "output_tokens": 379,
+      "output_tokens": 267,
       "service_tier": "standard",
       "inference_geo": "global"
     },
-    "schema_mode": "anthropic_output_config_nullable_v1",
+    "schema_mode": "anthropic_output_config_required_nonnullable_v1",
     "input_mode": "pdf_document",
-    "schema_fallback": "prompt_json_schema"
+    "guidelines_mode": "none",
+    "guidelines_chars": 0
   }
 }

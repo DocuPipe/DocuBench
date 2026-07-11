@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "cost": null,
-  "time_sec": 10.207764148712158,
+  "time_sec": 9.192139863967896,
   "data": {
     "numeroFactura": "21180613010076890",
     "cups": "ES 0021 0000 0474 4848 NZ",
@@ -30,19 +30,23 @@
     "provider": "openai",
     "model": "gpt-5.5",
     "doc_id": "DtfW60lS",
-    "file_id": "file-EBuP88bVtGwxMu4HVKG4vJ",
-    "response_id": "resp_0fbeddda629a913f016a3e94ae3b14819fa26bcc5c308859a4",
+    "file_id": "file-7vgywZmaXP7jGSMrcDnofc",
+    "response_id": "resp_048c15f733cbc721016a47d29c67808191b13a428d2967f56d",
     "usage": {
-      "input_tokens": 5884,
+      "input_tokens": 6020,
       "input_tokens_details": {
         "cached_tokens": 0
       },
-      "output_tokens": 502,
+      "output_tokens": 429,
       "output_tokens_details": {
-        "reasoning_tokens": 347
+        "reasoning_tokens": 275
       },
-      "total_tokens": 6386
+      "total_tokens": 6449
     },
-    "schema_mode": "openai_strict_nullable_v1"
+    "schema_mode": "openai_strict_nullable_v1",
+    "input_mode": "file",
+    "guidelines_mode": "guidelines_txt_v1",
+    "guidelines_chars": 548,
+    "guidelines_sha256": "aefb6f419f8d61c2780cdf9ad14311f245f90578d9e807c4511c71a9109ec025"
   }
 }

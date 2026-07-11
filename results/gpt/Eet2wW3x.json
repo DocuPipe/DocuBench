@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "cost": null,
-  "time_sec": 17.89343500137329,
+  "time_sec": 15.640846014022827,
   "data": {
     "customer": "FRESA DEMO DUBAI LLC",
     "customerAddress": "AL NABHA, DUBAI",
@@ -79,19 +79,23 @@
     "provider": "openai",
     "model": "gpt-5.5",
     "doc_id": "Eet2wW3x",
-    "file_id": "file-5emC2X8s8XqHC89g5KgGMg",
-    "response_id": "resp_09137b550f3ddd0a016a3e94fa0f7c819db5a2a392dee9c97f",
+    "file_id": "file-GZQsRoUvc21E9BEgnXCreH",
+    "response_id": "resp_0b2420b453d1b2de016a47d2d4158c819e882ea6b35ae8bada",
     "usage": {
-      "input_tokens": 2750,
+      "input_tokens": 2909,
       "input_tokens_details": {
         "cached_tokens": 0
       },
-      "output_tokens": 1017,
+      "output_tokens": 1016,
       "output_tokens_details": {
         "reasoning_tokens": 516
       },
-      "total_tokens": 3767
+      "total_tokens": 3925
     },
-    "schema_mode": "openai_strict_nullable_v1"
+    "schema_mode": "openai_strict_nullable_v1",
+    "input_mode": "file",
+    "guidelines_mode": "guidelines_txt_v1",
+    "guidelines_chars": 673,
+    "guidelines_sha256": "359556bb62098fc56c1f74e67c3309bb57570d72e6455ac7174b5bc205790809"
   }
 }

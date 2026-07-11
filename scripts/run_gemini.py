@@ -28,7 +28,9 @@ from run_gpt import (
     ExtractionFailure,
     build_prompt,
     content_type,
+    guidelines_meta,
     load_env_file,
+    load_guidelines,
     load_json,
     normalize_output_schema,
     sanitize_schema_literal,
@@ -134,14 +136,18 @@ def gemini_document_parts(path: Path) -> tuple[list[dict[str, Any]], dict[str, A
     return [{"text": f"Document text extracted from {path.name}:\n\n{text}"}], meta
 
 
-def create_response(doc_id: str, document_parts: list[dict[str, Any]], schema: dict[str, Any]) -> dict[str, Any]:
+def create_response(
+    doc_id: str,
+    document_parts: list[dict[str, Any]],
+    schema: dict[str, Any],
+    guidelines: str | None = None) -> dict[str, Any]:
     payload = {
         "contents": [
             {
                 "role": "user",
                 "parts": [
                     *document_parts,
-                    {"text": build_prompt(doc_id)},
+                    {"text": build_prompt(doc_id=doc_id, guidelines=guidelines)},
                 ],
             }
         ],
@@ -205,7 +211,14 @@ def estimate_cost(usage: dict[str, Any]) -> float | None:
     return (input_tokens * input_rate + output_tokens * output_rate) / 1_000_000
 
 
-def failure_result(kind: str, message: str, *, started_at: float, doc_id: str, response: dict[str, Any] | None = None, extra_meta: dict[str, Any] | None = None) -> dict[str, Any]:
+def failure_result(
+    kind: str,
+    message: str,
+    *,
+    started_at: float,
+    doc_id: str,
+    response: dict[str, Any] | None = None,
+    extra_meta: dict[str, Any] | None = None) -> dict[str, Any]:
     usage = (response or {}).get("usageMetadata") or {}
     meta = {
         "provider": "google",
@@ -231,16 +244,35 @@ def run(doc_id: str, file_path: Path, json_schema: dict[str, Any]) -> dict[str, 
     response: dict[str, Any] | None = None
     input_meta: dict[str, Any] = {}
     output_schema = normalize_output_schema(json_schema)
+    guidelines = load_guidelines(doc_id)
     try:
         document_parts, input_meta = gemini_document_parts(file_path)
-        response = create_response(doc_id, document_parts, output_schema)
+        response = create_response(doc_id=doc_id, document_parts=document_parts, schema=output_schema, guidelines=guidelines)
         data = parse_response_data(response, output_schema)
     except ExtractionFailure as exc:
-        return failure_result(exc.kind, exc.message, started_at=started_at, doc_id=doc_id, response=response, extra_meta={**input_meta, **exc.meta})
+        return failure_result(
+            exc.kind,
+            exc.message,
+            started_at=started_at,
+            doc_id=doc_id,
+            response=response,
+            extra_meta={**input_meta, **guidelines_meta(guidelines), **exc.meta})
     except requests.RequestException as exc:
-        return failure_result("request_error", str(exc), started_at=started_at, doc_id=doc_id, response=response, extra_meta=input_meta)
+        return failure_result(
+            "request_error",
+            str(exc),
+            started_at=started_at,
+            doc_id=doc_id,
+            response=response,
+            extra_meta={**input_meta, **guidelines_meta(guidelines)})
     except Exception as exc:
-        return failure_result(exc.__class__.__name__, str(exc), started_at=started_at, doc_id=doc_id, response=response, extra_meta=input_meta)
+        return failure_result(
+            exc.__class__.__name__,
+            str(exc),
+            started_at=started_at,
+            doc_id=doc_id,
+            response=response,
+            extra_meta={**input_meta, **guidelines_meta(guidelines)})
 
     usage = response.get("usageMetadata") or {}
     return {
@@ -255,6 +287,7 @@ def run(doc_id: str, file_path: Path, json_schema: dict[str, Any]) -> dict[str, 
             "usage": usage,
             "schema_mode": SCHEMA_MODE,
             **input_meta,
+            **guidelines_meta(guidelines),
         },
     }
 

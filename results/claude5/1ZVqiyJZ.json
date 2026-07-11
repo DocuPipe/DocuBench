@@ -1,0 +1,78 @@
+{
+  "status": "ok",
+  "cost": 0.030036,
+  "time_sec": 6.124243974685669,
+  "data": {
+    "namedInsured": "John Doe and Susy Doe",
+    "policyNumber": "254H089SJ425",
+    "policyForm": "HO-3",
+    "inceptionDate": "2020-03-30",
+    "expirationDate": "2021-03-30",
+    "deductible": 1000,
+    "policyPremium": 1200,
+    "yearBuilt": 2010,
+    "construction": "Masonry Veneer",
+    "propertyAddress": "1427 Sample Drive, Washington, DC 40000",
+    "agentName": "Frank Stallings",
+    "coverages": [
+      {
+        "coverageType": "Dwelling",
+        "limit": 450000,
+        "basis": null
+      },
+      {
+        "coverageType": "Other Structures",
+        "limit": 45000,
+        "basis": null
+      },
+      {
+        "coverageType": "Personal Property",
+        "limit": 225000,
+        "basis": null
+      },
+      {
+        "coverageType": "Loss of Use",
+        "limit": 90000,
+        "basis": null
+      },
+      {
+        "coverageType": "Liability",
+        "limit": 300000,
+        "basis": "Each Occurrence"
+      },
+      {
+        "coverageType": "Medical",
+        "limit": 1000,
+        "basis": "Each Person"
+      }
+    ]
+  },
+  "meta": {
+    "provider": "anthropic_bedrock",
+    "model": "claude-sonnet-5",
+    "bedrock_model_id": "global.anthropic.claude-sonnet-5",
+    "bedrock_region": "us-east-1",
+    "doc_id": "1ZVqiyJZ",
+    "response_id": "msg_bdrk_6ngzj52efddznmg22hqyzxukxfb22pisrglwpqqykmpigtx4ud3a",
+    "usage": {
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "input_tokens": 7247,
+      "output_tokens": 553,
+      "server_tool_use": null,
+      "service_tier": "standard",
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens_details": {
+        "thinking_tokens": 0
+      }
+    },
+    "schema_mode": "bedrock_tool_required_nonnullable_v1",
+    "input_mode": "pdf_document",
+    "guidelines_mode": "guidelines_txt_v1",
+    "guidelines_chars": 340,
+    "guidelines_sha256": "4fb83046825f17dfe2bdf5fb4195ad9e344a0e724d54ac8485c1484e543f4a0c"
+  }
+}

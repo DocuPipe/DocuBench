@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "cost": null,
-  "time_sec": 22.349746227264404,
+  "time_sec": 24.695996046066284,
   "data": {
     "accountSummary": {
       "openingBalance": 5000.0,
@@ -131,19 +131,22 @@
     "model": "gemini-3.5-flash",
     "doc_id": "ZN6HbuKp",
     "usage": {
-      "promptTokenCount": 1238,
-      "candidatesTokenCount": 805,
-      "totalTokenCount": 6423,
+      "promptTokenCount": 1425,
+      "candidatesTokenCount": 1227,
+      "totalTokenCount": 7783,
       "promptTokensDetails": [
         {
           "modality": "TEXT",
-          "tokenCount": 1238
+          "tokenCount": 1425
         }
       ],
-      "thoughtsTokenCount": 4380,
+      "thoughtsTokenCount": 5131,
       "serviceTier": "standard"
     },
     "schema_mode": "gemini_response_schema_nullable_v1",
-    "input_mode": "text"
+    "input_mode": "text",
+    "guidelines_mode": "guidelines_txt_v1",
+    "guidelines_chars": 858,
+    "guidelines_sha256": "6e82bc691c65e58dd2189ff43a1c64edec161bf84bb6c5d50a83ab70bd2e119a"
   }
 }

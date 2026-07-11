@@ -9,6 +9,8 @@ ROOT = Path(__file__).resolve().parent.parent
 
 def load_module(name: str, relpath: str):
     spec = importlib.util.spec_from_file_location(name, ROOT / relpath)
+    assert spec is not None
+    assert spec.loader is not None
     module = importlib.util.module_from_spec(spec)
     spec.loader.exec_module(module)
     return module

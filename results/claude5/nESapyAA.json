@@ -1,0 +1,64 @@
+{
+  "status": "ok",
+  "cost": 0.030726,
+  "time_sec": 8.318226099014282,
+  "data": {
+    "currency": "NIS",
+    "customerAddress": "דובנוב 20 א' תל אביב",
+    "customerName": "אקו גורן",
+    "customerTaxId": "043549229",
+    "documentNumber": "104880",
+    "documentType": "חשבונית מס / קבלה",
+    "issueDate": "04/05/2014",
+    "lineItems": [
+      {
+        "description": "מנוי Starter שנתי",
+        "quantity": 1,
+        "unitPrice": 204.0,
+        "lineTotal": 204.0
+      }
+    ],
+    "payments": [
+      {
+        "paymentMethod": "אשראי",
+        "paymentDescription": "כרטיס: מאסטרקארד ,8036 סוג עסקה: רגיל",
+        "paymentDate": "04/05/2014",
+        "paymentAmount": 240.72
+      }
+    ],
+    "subscriptionPlan": "מנוי Starter שנתי",
+    "subtotalBeforeVat": 204.0,
+    "vatRatePercent": 18,
+    "vatAmount": 36.72,
+    "totalAmount": 240.72,
+    "vendorName": "חשבונית ירוקה בע\"מ",
+    "vendorTaxId": "514756428"
+  },
+  "meta": {
+    "provider": "anthropic_bedrock",
+    "model": "claude-sonnet-5",
+    "bedrock_model_id": "global.anthropic.claude-sonnet-5",
+    "bedrock_region": "us-east-1",
+    "doc_id": "nESapyAA",
+    "response_id": "msg_bdrk_jn6mq7xqjtvedlnp46kmp2bd2psbwbk4yvcnl3gjagvgrawiklvq",
+    "usage": {
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "input_tokens": 7152,
+      "output_tokens": 618,
+      "server_tool_use": null,
+      "service_tier": "standard",
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens_details": {
+        "thinking_tokens": 0
+      }
+    },
+    "schema_mode": "bedrock_tool_required_nonnullable_v1",
+    "input_mode": "pdf_document",
+    "guidelines_mode": "none",
+    "guidelines_chars": 0
+  }
+}

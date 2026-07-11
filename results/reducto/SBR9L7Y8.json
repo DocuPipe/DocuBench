@@ -1,0 +1,63 @@
+{
+  "score": 0.6206896551724138,
+  "cost": 0.20477355000000003,
+  "time_sec": 129.8003077507019,
+  "num_pages": 1,
+  "data": {
+    "payPeriodMonth": 9,
+    "payPeriodYear": 2008,
+    "grade": "00 03",
+    "totalPayments": 12845.38,
+    "totalDeductions": 3792.1,
+    "netToBank": 9053.28,
+    "totalHours": 176,
+    "payments": [
+      {
+        "description": "חדש אופק משולב",
+        "amount": 10950.0
+      },
+      {
+        "description": "כיתה חינוך גמול",
+        "amount": 1095.0
+      },
+      {
+        "description": "נסיעה קצובת",
+        "amount": 616.0
+      },
+      {
+        "description": "טלפון החזר",
+        "amount": 30.38
+      },
+      {
+        "description": "בתפק. נסיעות מק",
+        "amount": 154.0
+      }
+    ],
+    "deductions": [
+      {
+        "description": "הכנסה מס",
+        "amount": 1854.67
+      },
+      {
+        "description": "ק.השתל)ארג)בינ\"ל",
+        "amount": 505.89
+      },
+      {
+        "description": "לאומי בטוח",
+        "amount": 595.71
+      },
+      {
+        "description": "בריאות בטוח",
+        "amount": 554.91
+      },
+      {
+        "description": "ת פנסיה ניהול דמי",
+        "amount": 240.9
+      },
+      {
+        "description": "רשף גמל קופת",
+        "amount": 40.02
+      }
+    ]
+  }
+}

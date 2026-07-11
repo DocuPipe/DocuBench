@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "cost": null,
-  "time_sec": 112.51619815826416,
+  "time_sec": 104.40529990196228,
   "data": {
     "rateYear": 2025,
     "rateUnit": "NIS per square meter",
@@ -75,25 +75,13 @@
         "propertyType": "דירות מגורים בכפר אז\"ר שנישומו עד 31.12.13",
         "rate": 82.51,
         "zone": null,
-        "sizeBand": "מ-181 מ\"ר"
+        "sizeBand": "מ 181 מ\"ר"
       },
       {
         "propertyType": "בריכות שחיה במגורים כפר אז\"ר רמת אפעל",
         "rate": 55.31,
         "zone": null,
         "sizeBand": null
-      },
-      {
-        "propertyType": "משרדים, בתי עסק ומסחר, מרפאות, מרכולים, בתי קפה ומסעדות ואחרים",
-        "rate": 408.16,
-        "zone": null,
-        "sizeBand": "עסקים עד 300 מ\"ר בגושים 6109,6207,6128,7277,7278,6233,6235,6236"
-      },
-      {
-        "propertyType": "משרדים, בתי עסק ומסחר, מרפאות, מרכולים, בתי קפה ומסעדות ואחרים",
-        "rate": 415.66,
-        "zone": null,
-        "sizeBand": "עסקים מ-301 מ\"ר בגושים 6109,6207,6128,7277,7278,6233,6235,6236"
       },
       {
         "propertyType": "מעברים במרכזי קניות וקניונים",
@@ -108,7 +96,7 @@
         "sizeBand": null
       },
       {
-        "propertyType": "אדמה תפוסה בתחנות דלק",
+        "propertyType": "אדמה תפוסה בתחנות דלק בכל חלקי העיר",
         "rate": 27.78,
         "zone": null,
         "sizeBand": null
@@ -138,19 +126,13 @@
         "sizeBand": null
       },
       {
-        "propertyType": "גני ילדים ומוסדות חינוך ציבוריים",
-        "rate": 128.69,
-        "zone": null,
-        "sizeBand": "בגושים 6109,6207,6128,7277,7278,6233,6235,6236"
-      },
-      {
         "propertyType": "אולמות ספורט מסחריים",
         "rate": 157.4,
         "zone": null,
         "sizeBand": null
       },
       {
-        "propertyType": "מחסני עסק",
+        "propertyType": "מחסני עסק בכל חלקי העיר",
         "rate": 190.88,
         "zone": null,
         "sizeBand": null
@@ -174,7 +156,7 @@
         "sizeBand": null
       },
       {
-        "propertyType": "הנהלת בנקים וחברות ביטוח",
+        "propertyType": "הנהלות בנקים וחב' ביטוח",
         "rate": 556.18,
         "zone": null,
         "sizeBand": null
@@ -189,22 +171,22 @@
         "propertyType": "תעשיה",
         "rate": 161.39,
         "zone": null,
-        "sizeBand": "מ-101 מ\"ר ועד 500 מ\"ר"
+        "sizeBand": "מ - 101 ועד 500 מ\"ר"
       },
       {
         "propertyType": "תעשיה",
         "rate": 141.24,
         "zone": null,
-        "sizeBand": "מ-501 מ\"ר ועד 1,000 מ\"ר"
+        "sizeBand": "מ - 501 מ\"ר ועד 1,000 מ\"ר"
       },
       {
         "propertyType": "תעשיה",
         "rate": 177.06,
         "zone": null,
-        "sizeBand": "מ-1,001 מ\"ר ומעלה"
+        "sizeBand": "מ – 1,001 מ\"ר ומעלה"
       },
       {
-        "propertyType": "מחסני תעשיה בבנייני תעשיה הצמודים למבני תעשיה",
+        "propertyType": "מחסני תעשיה הצמודים למבני תעשיה",
         "rate": 166.65,
         "zone": null,
         "sizeBand": null
@@ -219,19 +201,19 @@
         "propertyType": "בתי תוכנה",
         "rate": 161.39,
         "zone": null,
-        "sizeBand": "מ-101 מ\"ר ועד 500 מ\"ר"
+        "sizeBand": "מ - 101 מ\"ר ועד 500 מ\"ר"
       },
       {
         "propertyType": "בתי תוכנה",
         "rate": 141.24,
         "zone": null,
-        "sizeBand": "מ-501 מ\"ר ועד 1,000 מ\"ר"
+        "sizeBand": "מ - 501 מ\"ר ועד 1,000 מ\"ר"
       },
       {
         "propertyType": "בתי תוכנה",
         "rate": 177.06,
         "zone": null,
-        "sizeBand": "מ-1,001 מ\"ר ומעלה"
+        "sizeBand": "מ - 1,001 מ\"ר ומעלה"
       },
       {
         "propertyType": "בתי מלון",
@@ -252,13 +234,13 @@
         "sizeBand": "למעט בנקים"
       },
       {
-        "propertyType": "בתי מלאכה, נגריות, מסגריות וכיו\"ב",
+        "propertyType": "בתי מלאכה, גרז'ים, מסגריות וכיו\"ב",
         "rate": 254.55,
         "zone": null,
         "sizeBand": null
       },
       {
-        "propertyType": "מוסכים, תחנות סיכה",
+        "propertyType": "תחנות סיכה, מוסכים",
         "rate": 254.55,
         "zone": null,
         "sizeBand": null
@@ -276,10 +258,10 @@
         "sizeBand": null
       },
       {
-        "propertyType": "חניונים הפתוחים לציבור הרחב בתשלום",
+        "propertyType": "חניונים הפתוחים לציבור הרחב בתשלום בין שהם מקורים ובין שאינם מקורים",
         "rate": 28.63,
         "zone": null,
-        "sizeBand": "בין שהם מקורים ובין שאינם מקורים"
+        "sizeBand": null
       },
       {
         "propertyType": "חניונים סגורים ופתוחים לאוטובוסים",
@@ -288,10 +270,10 @@
         "sizeBand": null
       },
       {
-        "propertyType": "משטחי חניה",
+        "propertyType": "משטחי חניה בנכסים לא למגורים",
         "rate": 36.31,
         "zone": null,
-        "sizeBand": null
+        "sizeBand": "עבור כל 25 מ\"ר עבור כל משטח חניה"
       },
       {
         "propertyType": "סטודיו לאומנים",
@@ -336,12 +318,6 @@
         "sizeBand": null
       },
       {
-        "propertyType": "בתי חולים סיעודיים / גריאטריים",
-        "rate": 337.1,
-        "zone": null,
-        "sizeBand": "בגושים 6109,6207,6128,7277,7278,6233,6235,6236"
-      },
-      {
         "propertyType": "בתי חולים",
         "rate": 108.24,
         "zone": null,
@@ -351,25 +327,25 @@
         "propertyType": "בתי חולים",
         "rate": 82.04,
         "zone": null,
-        "sizeBand": "מ-330,001 מ\"ר"
+        "sizeBand": "מ 330,001 מ\"ר"
       },
       {
-        "propertyType": "גני אירועים",
+        "propertyType": "גני אירועים - בניין",
         "rate": 239.95,
         "zone": null,
-        "sizeBand": "בניין, למעט חניה"
+        "sizeBand": "למעט חניה"
       },
       {
-        "propertyType": "גני אירועים",
+        "propertyType": "גני אירועים - חניה",
         "rate": 15.59,
         "zone": null,
-        "sizeBand": "חניה"
+        "sizeBand": null
       },
       {
-        "propertyType": "גני אירועים",
+        "propertyType": "קרקע תפוסה המשמשת כגן אירועים ו/או המשרתת אותו",
         "rate": 65.07,
         "zone": null,
-        "sizeBand": "קרקע תפוסה המשמשת כגן אירועים ו/או המשרתת אותו למעט חניה"
+        "sizeBand": "למעט חניה"
       },
       {
         "propertyType": "אנטנות סלולאריות ומתקנים נלווים",
@@ -378,49 +354,49 @@
         "sizeBand": null
       },
       {
-        "propertyType": "מסופי אוטובוסים וסביבתם",
+        "propertyType": "מסופי אוטובוסים וסביבתם - בניין",
         "rate": 93.82,
         "zone": null,
-        "sizeBand": "בניין לרבות סככה"
+        "sizeBand": "לרבות סככה"
       },
       {
-        "propertyType": "מסופי אוטובוסים וסביבתם",
+        "propertyType": "קרקע תפוסה המשמשת את מסוף האוטובוסים ו/או המשרתת אותו",
         "rate": 54.41,
         "zone": null,
-        "sizeBand": "קרקע תפוסה המשמשת את מסוף האוטובוסים ו/או המשרתת אותו"
+        "sizeBand": null
       },
       {
-        "propertyType": "בארות מים",
+        "propertyType": "בארות מים - בניין",
         "rate": 79.35,
         "zone": null,
-        "sizeBand": "בניין לרבות סככה"
+        "sizeBand": "לרבות סככה"
       },
       {
-        "propertyType": "בארות מים",
+        "propertyType": "קרקע תפוסה המשמשת באר מים ו/או המשרתת אותו",
         "rate": 65.07,
         "zone": null,
-        "sizeBand": "קרקע תפוסה המשמשת באר מים ו/או המשרתת אותו"
+        "sizeBand": null
       },
       {
-        "propertyType": "נכסים המשמשים למסחר בצמחים ו/או מוצריהם הנלווים ו/או לאחסנתם - משתלה",
+        "propertyType": "משתלה - בניין",
         "rate": 159.08,
         "zone": null,
-        "sizeBand": "בניין - בגין 20 מ\"ר הראשונים"
+        "sizeBand": "בגין 20 מ\"ר הראשונים"
       },
       {
-        "propertyType": "נכסים המשמשים למסחר בצמחים ו/או מוצריהם הנלווים ו/או לאחסנתם - משתלה",
+        "propertyType": "משתלה - בניין",
         "rate": 119.24,
         "zone": null,
         "sizeBand": "בגין כל מ\"ר נוסף עד 200 מ\"ר"
       },
       {
-        "propertyType": "נכסים המשמשים למסחר בצמחים ו/או מוצריהם הנלווים ו/או לאחסנתם - משתלה",
+        "propertyType": "משתלה - בניין",
         "rate": 79.35,
         "zone": null,
         "sizeBand": "בגין כל מ\"ר מעבר ל-200 מ\"ר"
       },
       {
-        "propertyType": "בנין המשמש למסחר בשתילים למעט צמחי נוי הנמצא על קרקע חקלאית",
+        "propertyType": "בנין המשמש למסחר בשתילים למעט צמחי נוי והנמצא על קרקע חקלאית",
         "rate": 37.41,
         "zone": null,
         "sizeBand": null
@@ -441,13 +417,25 @@
         "propertyType": "קרקע חקלאית בנחלה",
         "rate": 0.11,
         "zone": null,
-        "sizeBand": "ל-1,000 מ\"ר הראשונים"
+        "sizeBand": "ל- 1,000 מ\"ר הראשונים"
       },
       {
         "propertyType": "קרקע חקלאית בנחלה",
         "rate": 0.02,
         "zone": null,
         "sizeBand": "לכל מ\"ר נוסף"
+      },
+      {
+        "propertyType": "אדמה חקלאית",
+        "rate": 0.11,
+        "zone": null,
+        "sizeBand": "בגין 1000 מ\"ר"
+      },
+      {
+        "propertyType": "אדמה חקלאית",
+        "rate": 0.02,
+        "zone": null,
+        "sizeBand": "בגין כל מ\"ר נוסף"
       },
       {
         "propertyType": "אדמה חקלאית שאינה חלק ממשק חקלאי",
@@ -461,19 +449,23 @@
     "provider": "openai",
     "model": "gpt-5.5",
     "doc_id": "qQUPWQNA",
-    "file_id": "file-TfQq9YXiTp16oE2r96vLy9",
-    "response_id": "resp_08c070cadea57dc6016a3e9797a0d481a291faab6247f80461",
+    "file_id": "file-NyecSixVC8YVirEBQrjYKQ",
+    "response_id": "resp_0d55a6beb290bdc0016a47d5c5a6d8819eb46e36f6f0689fb0",
     "usage": {
-      "input_tokens": 4129,
+      "input_tokens": 4252,
       "input_tokens_details": {
         "cached_tokens": 0
       },
-      "output_tokens": 7378,
+      "output_tokens": 6556,
       "output_tokens_details": {
-        "reasoning_tokens": 4660
+        "reasoning_tokens": 4100
       },
-      "total_tokens": 11507
+      "total_tokens": 10808
     },
-    "schema_mode": "openai_strict_nullable_v1"
+    "schema_mode": "openai_strict_nullable_v1",
+    "input_mode": "file",
+    "guidelines_mode": "guidelines_txt_v1",
+    "guidelines_chars": 478,
+    "guidelines_sha256": "42de3aa42c9007c0577017c5045cd4bea2abebbe521b3e0b521b23bd7b339a4d"
   }
 }

@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "cost": null,
-  "time_sec": 42.49510407447815,
+  "time_sec": 38.17131495475769,
   "data": {
     "employeeName": "Jecrute Aline",
     "employerName": "Jeu d'Essai",
@@ -179,19 +179,23 @@
     "provider": "openai",
     "model": "gpt-5.5",
     "doc_id": "Oe7iRM1G",
-    "file_id": "file-XKiLkB1VAGixPAdGw8TQNS",
-    "response_id": "resp_01f58ac6847131ad016a3e96065cc081a290ae73cc41aa5a1c",
+    "file_id": "file-843XHu8b3S8y6s71PY6SAd",
+    "response_id": "resp_03ade34bed8290df016a47d420272481a29b4d4e54e66a8f76",
     "usage": {
-      "input_tokens": 2932,
+      "input_tokens": 3022,
       "input_tokens_details": {
         "cached_tokens": 0
       },
-      "output_tokens": 3028,
+      "output_tokens": 3027,
       "output_tokens_details": {
         "reasoning_tokens": 2070
       },
-      "total_tokens": 5960
+      "total_tokens": 6049
     },
-    "schema_mode": "openai_strict_nullable_v1"
+    "schema_mode": "openai_strict_nullable_v1",
+    "input_mode": "file",
+    "guidelines_mode": "guidelines_txt_v1",
+    "guidelines_chars": 431,
+    "guidelines_sha256": "feec9d78c651636b77297b249290b7fe2068d1e018c193e674ae00983a9fc37c"
   }
 }

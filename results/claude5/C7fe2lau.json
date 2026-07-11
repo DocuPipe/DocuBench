@@ -1,0 +1,119 @@
+{
+  "status": "ok",
+  "cost": 0.054042,
+  "time_sec": 10.35193920135498,
+  "data": {
+    "allowanceCharges": [
+      {
+        "isCharge": true,
+        "reason": "Cleaning",
+        "reasonCode": "CG",
+        "amount": 200,
+        "baseAmount": 1000,
+        "taxCategoryPercent": 25
+      },
+      {
+        "isCharge": false,
+        "reason": "Discount",
+        "reasonCode": "95",
+        "amount": 200,
+        "baseAmount": null,
+        "taxCategoryPercent": 25
+      }
+    ],
+    "allowanceTotalAmount": 200,
+    "buyerReference": "0150abc",
+    "chargeTotalAmount": 200,
+    "customerCountryCode": "SE",
+    "customerName": "BuyerTradingName AS",
+    "customerRegistrationName": "Buyer Official Name",
+    "customerVatId": "SE4598375937",
+    "documentCurrencyCode": "EUR",
+    "dueDate": "2017-12-01",
+    "invoiceId": "Snippet1",
+    "invoiceLines": [
+      {
+        "lineId": "1",
+        "invoicedQuantity": 10,
+        "unitCode": "C62",
+        "lineExtensionAmount": 4000.0,
+        "itemName": "item name",
+        "itemDescription": "Description of item",
+        "sellersItemId": "97iugug876",
+        "priceAmount": 410,
+        "taxCategoryId": "S",
+        "taxCategoryPercent": 25.0
+      },
+      {
+        "lineId": "2",
+        "invoicedQuantity": 10,
+        "unitCode": "C62",
+        "lineExtensionAmount": 1000.0,
+        "itemName": "item name",
+        "itemDescription": "Description of item",
+        "sellersItemId": "97iugug876",
+        "priceAmount": 200,
+        "taxCategoryId": "E",
+        "taxCategoryPercent": 0.0
+      },
+      {
+        "lineId": "3",
+        "invoicedQuantity": 10,
+        "unitCode": "C62",
+        "lineExtensionAmount": 900.0,
+        "itemName": "item name",
+        "itemDescription": "Description of item",
+        "sellersItemId": "97iugug876",
+        "priceAmount": 100,
+        "taxCategoryId": "S",
+        "taxCategoryPercent": 25.0
+      }
+    ],
+    "invoicePeriodEndDate": "2017-12-31",
+    "invoicePeriodStartDate": "2017-12-01",
+    "invoiceTypeCode": "380",
+    "issueDate": "2017-11-13",
+    "lineExtensionAmount": 5900,
+    "payableAmount": 6125.0,
+    "payeeBic": "BIC324098",
+    "payeeIban": "IBAN32423940",
+    "paymentMeansCode": "30",
+    "prepaidAmount": 1000,
+    "supplierCountryCode": "GB",
+    "supplierName": "SupplierTradingName Ltd.",
+    "supplierRegistrationName": "SupplierOfficialName Ltd",
+    "supplierVatId": "GB1232434",
+    "taxCurrencyCode": "SEK",
+    "taxExclusiveAmount": 5900,
+    "taxInclusiveAmount": 7125,
+    "taxTotalAmount": 1225.0
+  },
+  "meta": {
+    "provider": "anthropic_bedrock",
+    "model": "claude-sonnet-5",
+    "bedrock_model_id": "global.anthropic.claude-sonnet-5",
+    "bedrock_region": "us-east-1",
+    "doc_id": "C7fe2lau",
+    "response_id": "msg_bdrk_rv32gesrunnwery24s55f4wpycr4ytnuhvjjiqrfdlaofq464k2q",
+    "usage": {
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "input_tokens": 10884,
+      "output_tokens": 1426,
+      "server_tool_use": null,
+      "service_tier": "standard",
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens_details": {
+        "thinking_tokens": 0
+      }
+    },
+    "schema_mode": "bedrock_tool_required_nonnullable_v1",
+    "input_mode": "text",
+    "guidelines_mode": "guidelines_txt_v1",
+    "guidelines_chars": 888,
+    "guidelines_sha256": "c952ca57b4c68bc6c80d596bc70f07bc563212ee365856758ae25a2005b1c163"
+  }
+}

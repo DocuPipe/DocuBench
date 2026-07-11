@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "cost": null,
-  "time_sec": 41.73729085922241,
+  "time_sec": 37.46883201599121,
   "data": {
     "department": "横浜営業１課",
     "paymentDate": "2011年07月05日",
@@ -14,7 +14,7 @@
         "distanceCategory": "隔地",
         "purposeCategory": "業務",
         "destination": "大阪営業所",
-        "route": "横浜ｰ新大阪",
+        "route": "横浜－新大阪",
         "nights": 4,
         "paymentAmount": 66300
       },
@@ -25,7 +25,7 @@
         "distanceCategory": "附近",
         "purposeCategory": "業務",
         "destination": "本社",
-        "route": "横浜ｰ品川",
+        "route": "横浜－品川",
         "nights": 0,
         "paymentAmount": 560
       },
@@ -36,7 +36,7 @@
         "distanceCategory": "地域",
         "purposeCategory": "業務",
         "destination": "小田原営業所",
-        "route": "戸塚ｰ小田原",
+        "route": "戸塚－小田原",
         "nights": 0,
         "paymentAmount": 1480
       },
@@ -47,7 +47,7 @@
         "distanceCategory": "地域",
         "purposeCategory": "業務",
         "destination": "川崎営業所",
-        "route": "横浜ｰ川崎",
+        "route": "横浜－川崎",
         "nights": 0,
         "paymentAmount": 210
       },
@@ -58,7 +58,7 @@
         "distanceCategory": "附近",
         "purposeCategory": "研修",
         "destination": "本社",
-        "route": "横浜ｰ品川",
+        "route": "横浜－品川",
         "nights": 0,
         "paymentAmount": 560
       },
@@ -69,7 +69,7 @@
         "distanceCategory": "地域",
         "purposeCategory": "業務",
         "destination": "川崎営業所",
-        "route": "横浜ｰ川崎",
+        "route": "横浜－川崎",
         "nights": 0,
         "paymentAmount": 210
       },
@@ -80,7 +80,7 @@
         "distanceCategory": "地域",
         "purposeCategory": "業務",
         "destination": "□□□□□（株）",
-        "route": "横浜ｰ桜木町",
+        "route": "横浜－桜木町",
         "nights": 0,
         "paymentAmount": 260
       },
@@ -91,7 +91,7 @@
         "distanceCategory": "附近",
         "purposeCategory": "研修",
         "destination": "本社",
-        "route": "新川崎ｰ品川",
+        "route": "新川崎－品川",
         "nights": 0,
         "paymentAmount": 420
       },
@@ -102,7 +102,7 @@
         "distanceCategory": "地域",
         "purposeCategory": "業務",
         "destination": "○○（株）",
-        "route": "横浜ｰ新川崎",
+        "route": "横浜－新川崎",
         "nights": 0,
         "paymentAmount": 420
       },
@@ -113,7 +113,7 @@
         "distanceCategory": "隔地",
         "purposeCategory": "業務",
         "destination": "◇◇◇システム",
-        "route": "横浜ｰ名古屋",
+        "route": "横浜－名古屋",
         "nights": 1,
         "paymentAmount": 39860
       },
@@ -124,7 +124,7 @@
         "distanceCategory": "附近",
         "purposeCategory": "研修",
         "destination": "本社",
-        "route": "鶴見ｰ品川",
+        "route": "鶴見－品川",
         "nights": 0,
         "paymentAmount": 420
       },
@@ -135,7 +135,7 @@
         "distanceCategory": "附近",
         "purposeCategory": "業務",
         "destination": "本社",
-        "route": "鶴見ｰ品川",
+        "route": "鶴見－品川",
         "nights": 0,
         "paymentAmount": 420
       },
@@ -146,7 +146,7 @@
         "distanceCategory": "隔地",
         "purposeCategory": "業務",
         "destination": "小田原営業所",
-        "route": "横浜ｰ小田原",
+        "route": "横浜－小田原",
         "nights": 0,
         "paymentAmount": 1900
       },
@@ -157,7 +157,7 @@
         "distanceCategory": "附近",
         "purposeCategory": "研修",
         "destination": "本社",
-        "route": "横浜ｰ品川",
+        "route": "横浜－品川",
         "nights": 0,
         "paymentAmount": 560
       },
@@ -168,7 +168,7 @@
         "distanceCategory": "隔地",
         "purposeCategory": "業務",
         "destination": "◇◇◇システム",
-        "route": "平塚ｰ名古屋",
+        "route": "平塚－名古屋",
         "nights": 1,
         "paymentAmount": 17500
       },
@@ -179,7 +179,7 @@
         "distanceCategory": "附近",
         "purposeCategory": "業務",
         "destination": "（株）△△",
-        "route": "大崎ｰ有楽町",
+        "route": "大崎－有楽町",
         "nights": 0,
         "paymentAmount": 320
       },
@@ -190,7 +190,7 @@
         "distanceCategory": "地域",
         "purposeCategory": "業務",
         "destination": "○○（株）",
-        "route": "横浜ｰ新川崎",
+        "route": "横浜－新川崎",
         "nights": 0,
         "paymentAmount": 420
       },
@@ -201,7 +201,7 @@
         "distanceCategory": "附近",
         "purposeCategory": "業務",
         "destination": "小田原営業所",
-        "route": "横浜ｰ小田原",
+        "route": "横浜－小田原",
         "nights": 0,
         "paymentAmount": 1900
       },
@@ -212,7 +212,7 @@
         "distanceCategory": "地域",
         "purposeCategory": "業務",
         "destination": "○○株式会社",
-        "route": "横浜ｰ新川崎",
+        "route": "横浜－新川崎",
         "nights": 0,
         "paymentAmount": 420
       },
@@ -223,7 +223,7 @@
         "distanceCategory": "附近",
         "purposeCategory": "研修",
         "destination": "本社",
-        "route": "横浜ｰ品川",
+        "route": "横浜－品川",
         "nights": 0,
         "paymentAmount": 560
       },
@@ -234,7 +234,7 @@
         "distanceCategory": "地域",
         "purposeCategory": "業務",
         "destination": "川崎営業所",
-        "route": "横浜ｰ川崎",
+        "route": "横浜－川崎",
         "nights": 0,
         "paymentAmount": 210
       },
@@ -245,7 +245,7 @@
         "distanceCategory": "附近",
         "purposeCategory": "研修",
         "destination": "本社",
-        "route": "横浜ｰ品川",
+        "route": "横浜－品川",
         "nights": 0,
         "paymentAmount": 560
       },
@@ -256,7 +256,7 @@
         "distanceCategory": "地域",
         "purposeCategory": "業務",
         "destination": "□□□□□（株）",
-        "route": "横浜ｰ桜木町",
+        "route": "横浜－桜木町",
         "nights": 0,
         "paymentAmount": 260
       },
@@ -267,7 +267,7 @@
         "distanceCategory": "附近",
         "purposeCategory": "業務",
         "destination": "本社",
-        "route": "西大井ｰ品川",
+        "route": "西大井－品川",
         "nights": 0,
         "paymentAmount": 300
       },
@@ -278,7 +278,7 @@
         "distanceCategory": "附近",
         "purposeCategory": "業務",
         "destination": "◎◎商会",
-        "route": "横浜ｰ東京",
+        "route": "横浜－東京",
         "nights": 0,
         "paymentAmount": 900
       },
@@ -289,7 +289,7 @@
         "distanceCategory": "附近",
         "purposeCategory": "研修",
         "destination": "本社",
-        "route": "新川崎ｰ品川",
+        "route": "新川崎－品川",
         "nights": 0,
         "paymentAmount": 420
       },
@@ -300,7 +300,7 @@
         "distanceCategory": "地域",
         "purposeCategory": "業務",
         "destination": "□□□□□（株）",
-        "route": "横浜ｰ桜木町",
+        "route": "横浜－桜木町",
         "nights": 0,
         "paymentAmount": 260
       },
@@ -311,7 +311,7 @@
         "distanceCategory": "地域",
         "purposeCategory": "業務",
         "destination": "○○株式会社",
-        "route": "横浜ｰ新川崎",
+        "route": "横浜－新川崎",
         "nights": 0,
         "paymentAmount": 420
       },
@@ -322,7 +322,7 @@
         "distanceCategory": "附近",
         "purposeCategory": "研修",
         "destination": "本社",
-        "route": "横浜ｰ品川",
+        "route": "横浜－品川",
         "nights": 0,
         "paymentAmount": 560
       },
@@ -333,7 +333,7 @@
         "distanceCategory": "地域",
         "purposeCategory": "業務",
         "destination": "□□□□□（株）",
-        "route": "横浜ｰ桜木町",
+        "route": "横浜－桜木町",
         "nights": 0,
         "paymentAmount": 260
       },
@@ -344,7 +344,7 @@
         "distanceCategory": "地域",
         "purposeCategory": "業務",
         "destination": "川崎営業所",
-        "route": "横浜ｰ川崎",
+        "route": "横浜－川崎",
         "nights": 0,
         "paymentAmount": 210
       },
@@ -355,7 +355,7 @@
         "distanceCategory": "隔地",
         "purposeCategory": "業務",
         "destination": "小田原営業所",
-        "route": "横浜ｰ小田原",
+        "route": "横浜－小田原",
         "nights": 0,
         "paymentAmount": 1900
       }
@@ -417,20 +417,23 @@
     "provider": "anthropic",
     "model": "claude-sonnet-4-6",
     "doc_id": "45xidifn",
-    "response_id": "msg_013JaVroh75JnMoE7awZJnwX",
+    "response_id": "msg_01VG2qGz5rgxiaM36vJc1Jrt",
     "usage": {
-      "input_tokens": 6173,
+      "input_tokens": 6233,
       "cache_creation_input_tokens": 0,
       "cache_read_input_tokens": 0,
       "cache_creation": {
         "ephemeral_5m_input_tokens": 0,
         "ephemeral_1h_input_tokens": 0
       },
-      "output_tokens": 2675,
+      "output_tokens": 2579,
       "service_tier": "standard",
       "inference_geo": "global"
     },
-    "schema_mode": "anthropic_output_config_nullable_v1",
-    "input_mode": "pdf_document"
+    "schema_mode": "anthropic_output_config_required_nonnullable_v1",
+    "input_mode": "pdf_document",
+    "guidelines_mode": "guidelines_txt_v1",
+    "guidelines_chars": 849,
+    "guidelines_sha256": "bedb60af805f54786b49eba348be3822a2da6b7f52abbe4580d3d32338972eef"
   }
 }

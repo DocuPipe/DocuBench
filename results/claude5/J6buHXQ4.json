@@ -1,0 +1,413 @@
+{
+  "status": "ok",
+  "cost": 0.2838,
+  "time_sec": 38.50479984283447,
+  "data": {
+    "amountUnits": "אלפי ש\"ח",
+    "authorityName": "מועצה מקומית מג'דל שמס",
+    "reportYear": 2023,
+    "totalAssets": 40408,
+    "totalLiabilitiesAndFunds": 40408,
+    "totalBudgetReceipts": 102087,
+    "totalBudgetPayments": 102453,
+    "balanceSheetLineItems": [
+      {
+        "section": "נכסים",
+        "lineLabel": "נכסים נזילים - קופה ובנקים",
+        "currentYearAmount": 8770,
+        "priorYearAmount": 8536
+      },
+      {
+        "section": "נכסים",
+        "lineLabel": "מזומנים מיועדים לשימוש בתי ספר",
+        "currentYearAmount": 1246,
+        "priorYearAmount": 303
+      },
+      {
+        "section": "נכסים",
+        "lineLabel": "הכנסות מתוקצבות שטרם נגבו",
+        "currentYearAmount": 5035,
+        "priorYearAmount": 7731
+      },
+      {
+        "section": "נכסים",
+        "lineLabel": "חייבים - תשלומים לא מתוקצבים",
+        "currentYearAmount": 450,
+        "priorYearAmount": 328
+      },
+      {
+        "section": "נכסים",
+        "lineLabel": "השקעות במימון קרנות בלתי מתוקצבות",
+        "currentYearAmount": 900,
+        "priorYearAmount": 779
+      },
+      {
+        "section": "נכסים",
+        "lineLabel": "השקעות במימון קרנות מתוקצבות",
+        "currentYearAmount": 10519,
+        "priorYearAmount": 10519
+      },
+      {
+        "section": "נכסים",
+        "lineLabel": "עודף לתחילת השנה",
+        "currentYearAmount": 0,
+        "priorYearAmount": -15
+      },
+      {
+        "section": "נכסים",
+        "lineLabel": "גרעון בשנת הדוח",
+        "currentYearAmount": 366,
+        "priorYearAmount": 0
+      },
+      {
+        "section": "נכסים",
+        "lineLabel": "גרעונות סופיים בתב\"רים שהסתיימו",
+        "currentYearAmount": 10253,
+        "priorYearAmount": 10253
+      },
+      {
+        "section": "נכסים",
+        "lineLabel": "גרעונות זמניים בתב\"רים, נטו",
+        "currentYearAmount": 2884,
+        "priorYearAmount": 7566
+      },
+      {
+        "section": "התחייבויות",
+        "lineLabel": "משיכות יתר בבנקים",
+        "currentYearAmount": 3692,
+        "priorYearAmount": 2826
+      },
+      {
+        "section": "התחייבויות",
+        "lineLabel": "הוצאות מתוקצבות שטרם שולמו",
+        "currentYearAmount": 20632,
+        "priorYearAmount": 25348
+      },
+      {
+        "section": "התחייבויות",
+        "lineLabel": "בתי ספר זכאים בגין נכסים נזילים",
+        "currentYearAmount": 1246,
+        "priorYearAmount": 303
+      },
+      {
+        "section": "התחייבויות",
+        "lineLabel": "תקבולים לא מתוקצבים - פקדונות ​​והכנסות מראש",
+        "currentYearAmount": 610,
+        "priorYearAmount": 742
+      },
+      {
+        "section": "התחייבויות",
+        "lineLabel": "קרן לעבודות פיתוח ואחרות",
+        "currentYearAmount": 2805,
+        "priorYearAmount": 5479
+      },
+      {
+        "section": "התחייבויות",
+        "lineLabel": "קרנות בלתי מתוקצבות אחרות",
+        "currentYearAmount": 904,
+        "priorYearAmount": 783
+      },
+      {
+        "section": "התחייבויות",
+        "lineLabel": "קרנות מתוקצבות",
+        "currentYearAmount": 10519,
+        "priorYearAmount": 10519
+      },
+      {
+        "section": "התחייבויות",
+        "lineLabel": "גרעון לתחילת השנה",
+        "currentYearAmount": 0,
+        "priorYearAmount": 0
+      },
+      {
+        "section": "התחייבויות",
+        "lineLabel": "סכומים שנתקבלו להקטנת גרעונות",
+        "currentYearAmount": 0,
+        "priorYearAmount": 475
+      },
+      {
+        "section": "התחייבויות",
+        "lineLabel": "עודף בשנת הדוח",
+        "currentYearAmount": 0,
+        "priorYearAmount": 15
+      }
+    ],
+    "budgetReceiptsByChapter": [
+      {
+        "chapterNumber": "11",
+        "chapterName": "מיסים",
+        "budgetAmount": 18502,
+        "actualCurrentYear": 17496,
+        "actualPriorYear": 17567
+      },
+      {
+        "chapterNumber": "12",
+        "chapterName": "אגרות",
+        "budgetAmount": 201,
+        "actualCurrentYear": 232,
+        "actualPriorYear": 164
+      },
+      {
+        "chapterNumber": "19",
+        "chapterName": "מענקים כלליים ומיוחדים",
+        "budgetAmount": 20217,
+        "actualCurrentYear": 22530,
+        "actualPriorYear": 20298
+      },
+      {
+        "chapterNumber": "21",
+        "chapterName": "תברואה",
+        "budgetAmount": 918,
+        "actualCurrentYear": 496,
+        "actualPriorYear": 817
+      },
+      {
+        "chapterNumber": "22",
+        "chapterName": "שמירה וביטחון",
+        "budgetAmount": 988,
+        "actualCurrentYear": 356,
+        "actualPriorYear": 750
+      },
+      {
+        "chapterNumber": "23",
+        "chapterName": "תכנון ובנין העיר",
+        "budgetAmount": 1150,
+        "actualCurrentYear": 1085,
+        "actualPriorYear": 1252
+      },
+      {
+        "chapterNumber": "24",
+        "chapterName": "נכסים ציבוריים",
+        "budgetAmount": 430,
+        "actualCurrentYear": 421,
+        "actualPriorYear": 421
+      },
+      {
+        "chapterNumber": "26",
+        "chapterName": "שרותים עירוניים שונים",
+        "budgetAmount": 97,
+        "actualCurrentYear": 128,
+        "actualPriorYear": 130
+      },
+      {
+        "chapterNumber": "31",
+        "chapterName": "חינוך",
+        "budgetAmount": 24796,
+        "actualCurrentYear": 19487,
+        "actualPriorYear": 23360
+      },
+      {
+        "chapterNumber": "32",
+        "chapterName": "תרבות",
+        "budgetAmount": 981,
+        "actualCurrentYear": 555,
+        "actualPriorYear": 763
+      },
+      {
+        "chapterNumber": "34",
+        "chapterName": "רווחה",
+        "budgetAmount": 9667,
+        "actualCurrentYear": 7106,
+        "actualPriorYear": 7705
+      },
+      {
+        "chapterNumber": "43",
+        "chapterName": "נכסים",
+        "budgetAmount": 12,
+        "actualCurrentYear": 18,
+        "actualPriorYear": 19
+      },
+      {
+        "chapterNumber": "46",
+        "chapterName": "חשמל",
+        "budgetAmount": 27745,
+        "actualCurrentYear": 24685,
+        "actualPriorYear": 27244
+      },
+      {
+        "chapterNumber": "99",
+        "chapterName": "תקבולים בלתי רגילים",
+        "budgetAmount": 1851,
+        "actualCurrentYear": 1648,
+        "actualPriorYear": 1597
+      }
+    ],
+    "budgetPaymentsByChapter": [
+      {
+        "chapterNumber": "61",
+        "chapterName": "מנהל כללי",
+        "budgetAmount": 5712,
+        "actualCurrentYear": 5238,
+        "actualPriorYear": 5720
+      },
+      {
+        "chapterNumber": "62",
+        "chapterName": "מנהל כספי",
+        "budgetAmount": 2797,
+        "actualCurrentYear": 2600,
+        "actualPriorYear": 2672
+      },
+      {
+        "chapterNumber": "63",
+        "chapterName": "הוצאות מימון",
+        "budgetAmount": 567,
+        "actualCurrentYear": 436,
+        "actualPriorYear": 531
+      },
+      {
+        "chapterNumber": "64",
+        "chapterName": "פרעון מלוות (למעט ביוב)",
+        "budgetAmount": 3439,
+        "actualCurrentYear": 3347,
+        "actualPriorYear": 3466
+      },
+      {
+        "chapterNumber": "71",
+        "chapterName": "תברואה",
+        "budgetAmount": 8421,
+        "actualCurrentYear": 7377,
+        "actualPriorYear": 8457
+      },
+      {
+        "chapterNumber": "72",
+        "chapterName": "שמירה וביטחון",
+        "budgetAmount": 1846,
+        "actualCurrentYear": 1059,
+        "actualPriorYear": 1588
+      },
+      {
+        "chapterNumber": "73",
+        "chapterName": "תכנון ובנין העיר",
+        "budgetAmount": 2625,
+        "actualCurrentYear": 2819,
+        "actualPriorYear": 2567
+      },
+      {
+        "chapterNumber": "74",
+        "chapterName": "נכסים ציבוריים",
+        "budgetAmount": 2987,
+        "actualCurrentYear": 2634,
+        "actualPriorYear": 2935
+      },
+      {
+        "chapterNumber": "75",
+        "chapterName": "חגיגות, מבצעים ואירועים",
+        "budgetAmount": 136,
+        "actualCurrentYear": 100,
+        "actualPriorYear": 42
+      },
+      {
+        "chapterNumber": "76",
+        "chapterName": "שרותים עירוניים שונים",
+        "budgetAmount": 163,
+        "actualCurrentYear": 100,
+        "actualPriorYear": 136
+      },
+      {
+        "chapterNumber": "77",
+        "chapterName": "פיתוח כלכלי",
+        "budgetAmount": 90,
+        "actualCurrentYear": 17,
+        "actualPriorYear": 84
+      },
+      {
+        "chapterNumber": "81",
+        "chapterName": "חינוך",
+        "budgetAmount": 30491,
+        "actualCurrentYear": 24038,
+        "actualPriorYear": 28704
+      },
+      {
+        "chapterNumber": "82",
+        "chapterName": "תרבות",
+        "budgetAmount": 2137,
+        "actualCurrentYear": 1352,
+        "actualPriorYear": 1847
+      },
+      {
+        "chapterNumber": "83",
+        "chapterName": "בריאות",
+        "budgetAmount": 39,
+        "actualCurrentYear": 51,
+        "actualPriorYear": 34
+      },
+      {
+        "chapterNumber": "84",
+        "chapterName": "רווחה",
+        "budgetAmount": 12749,
+        "actualCurrentYear": 9786,
+        "actualPriorYear": 10569
+      },
+      {
+        "chapterNumber": "85",
+        "chapterName": "דת",
+        "budgetAmount": 30,
+        "actualCurrentYear": 45,
+        "actualPriorYear": 23
+      },
+      {
+        "chapterNumber": "91",
+        "chapterName": "מים",
+        "budgetAmount": 8,
+        "actualCurrentYear": 2,
+        "actualPriorYear": 6
+      },
+      {
+        "chapterNumber": "93",
+        "chapterName": "נכסים",
+        "budgetAmount": 440,
+        "actualCurrentYear": 413,
+        "actualPriorYear": 502
+      },
+      {
+        "chapterNumber": "96",
+        "chapterName": "חשמל",
+        "budgetAmount": 22725,
+        "actualCurrentYear": 23319,
+        "actualPriorYear": 22928
+      },
+      {
+        "chapterNumber": "97",
+        "chapterName": "מפעל הביוב (כולל פרעון מלוות)",
+        "budgetAmount": 400,
+        "actualCurrentYear": 400,
+        "actualPriorYear": 401
+      },
+      {
+        "chapterNumber": "99",
+        "chapterName": "תשלומים בלתי רגילים",
+        "budgetAmount": 9789,
+        "actualCurrentYear": 10574,
+        "actualPriorYear": 9241
+      }
+    ]
+  },
+  "meta": {
+    "provider": "anthropic_bedrock",
+    "model": "claude-sonnet-5",
+    "bedrock_model_id": "global.anthropic.claude-sonnet-5",
+    "bedrock_region": "us-east-1",
+    "doc_id": "J6buHXQ4",
+    "response_id": "msg_bdrk_timwli3wycdvaz4ldecbluxvbgtixabj66noss2oy6zwcvedar6q",
+    "usage": {
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "input_tokens": 76190,
+      "output_tokens": 3682,
+      "server_tool_use": null,
+      "service_tier": "standard",
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens_details": {
+        "thinking_tokens": 0
+      }
+    },
+    "schema_mode": "bedrock_tool_required_nonnullable_v1",
+    "input_mode": "pdf_document",
+    "guidelines_mode": "guidelines_txt_v1",
+    "guidelines_chars": 436,
+    "guidelines_sha256": "c6139b54c1952e6ce9efd64a5746aa16f76c3696c5d6a324f0ff1d32edba69d9"
+  }
+}

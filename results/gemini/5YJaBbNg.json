@@ -1,9 +1,9 @@
 {
   "status": "ok",
   "cost": null,
-  "time_sec": 26.131619930267334,
+  "time_sec": 24.78539800643921,
   "data": {
-    "companyName": "btf",
+    "companyName": "bif",
     "balanceSheetDate": "2023-12-31",
     "balanceSheet": [
       {
@@ -170,23 +170,26 @@
     "model": "gemini-3.5-flash",
     "doc_id": "5YJaBbNg",
     "usage": {
-      "promptTokenCount": 1118,
-      "candidatesTokenCount": 1476,
-      "totalTokenCount": 7323,
+      "promptTokenCount": 1229,
+      "candidatesTokenCount": 1475,
+      "totalTokenCount": 6845,
       "promptTokensDetails": [
-        {
-          "modality": "TEXT",
-          "tokenCount": 54
-        },
         {
           "modality": "IMAGE",
           "tokenCount": 1064
+        },
+        {
+          "modality": "TEXT",
+          "tokenCount": 165
         }
       ],
-      "thoughtsTokenCount": 4729,
+      "thoughtsTokenCount": 4141,
       "serviceTier": "standard"
     },
     "schema_mode": "gemini_response_schema_nullable_v1",
-    "input_mode": "inline_data"
+    "input_mode": "inline_data",
+    "guidelines_mode": "guidelines_txt_v1",
+    "guidelines_chars": 419,
+    "guidelines_sha256": "4c052ec6e038641e1735aa16841d1783be480dff4403856964694d8c8d354f68"
   }
 }

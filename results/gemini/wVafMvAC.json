@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "cost": null,
-  "time_sec": 26.885418176651,
+  "time_sec": 17.811986207962036,
   "data": {
     "fileReference": "8430713-15",
     "investmentAmount": 52.0,
@@ -98,9 +98,9 @@
     "model": "gemini-3.5-flash",
     "doc_id": "wVafMvAC",
     "usage": {
-      "promptTokenCount": 1156,
-      "candidatesTokenCount": 865,
-      "totalTokenCount": 6585,
+      "promptTokenCount": 1219,
+      "candidatesTokenCount": 882,
+      "totalTokenCount": 5233,
       "promptTokensDetails": [
         {
           "modality": "IMAGE",
@@ -108,13 +108,16 @@
         },
         {
           "modality": "TEXT",
-          "tokenCount": 54
+          "tokenCount": 117
         }
       ],
-      "thoughtsTokenCount": 4564,
+      "thoughtsTokenCount": 3132,
       "serviceTier": "standard"
     },
     "schema_mode": "gemini_response_schema_nullable_v1",
-    "input_mode": "inline_data"
+    "input_mode": "inline_data",
+    "guidelines_mode": "guidelines_txt_v1",
+    "guidelines_chars": 206,
+    "guidelines_sha256": "8f2cd9de80e5592215840973161377c7c683b308a84ea8fdcec08a08cc039fdb"
   }
 }

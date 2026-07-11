@@ -1,14 +1,14 @@
 {
   "status": "ok",
   "cost": null,
-  "time_sec": 7.40484094619751,
+  "time_sec": 9.63875675201416,
   "data": {
     "issuingCarrier": "ETHIOPIAN AIRLINES",
     "awbNumber": "071 DXB 1276 0786",
     "shipperName": "INTERNATIONAL FEDERATION OF RED CROSS AND RED CRESCENT LOGISTICS FLEET BASE UAE",
-    "shipperAddress": "P.O.BOX 261131, JEBEL ALI FREE ZONE, DUBAI, U.A.E.",
+    "shipperAddress": "P.O.BOX 261131, JEBEL ALI FREE ZONE, DUBAI,U.A.E. TEL:+971 4 8833887 AE",
     "consigneeName": "THE SECRETARY GENERAL ETHIOPIA RED CROSS SOCIETY",
-    "consigneeAddress": "RAS DESTA DAMTEW AVENUE, P.O.BOX 195, ADDIS ABABA - ETHIOPIA",
+    "consigneeAddress": "RAS DESTA DAMTEW AVENUE, P.O.BOX 195, ADDIS ABABA - ETHIOPIA, TEL: 251 11 551 91 44 / FAX 251 11 551 26 43",
     "issuingAgentName": "HAWK FREIGHT SERVICES FZE",
     "agentCity": "DUBAI",
     "agentReference": "DXB/UE21878",
@@ -29,21 +29,23 @@
     "provider": "anthropic",
     "model": "claude-sonnet-4-6",
     "doc_id": "FiFgt4a6",
-    "response_id": "msg_01HB7w2tX8xo1QJ7AE2WVhUi",
+    "response_id": "msg_015mWNRkmBNWzVDroGesVKw5",
     "usage": {
-      "input_tokens": 3483,
+      "input_tokens": 3907,
       "cache_creation_input_tokens": 0,
       "cache_read_input_tokens": 0,
       "cache_creation": {
         "ephemeral_5m_input_tokens": 0,
         "ephemeral_1h_input_tokens": 0
       },
-      "output_tokens": 396,
+      "output_tokens": 348,
       "service_tier": "standard",
       "inference_geo": "global"
     },
-    "schema_mode": "anthropic_output_config_nullable_v1",
+    "schema_mode": "anthropic_output_config_required_nonnullable_v1",
     "input_mode": "pdf_document",
-    "schema_fallback": "prompt_json_schema"
+    "guidelines_mode": "guidelines_txt_v1",
+    "guidelines_chars": 654,
+    "guidelines_sha256": "c7aa9257f90fe158062039f534f4ba40677911edb3be47dd30ffa9c9ab8febac"
   }
 }

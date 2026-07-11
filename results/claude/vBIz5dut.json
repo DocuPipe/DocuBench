@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "cost": null,
-  "time_sec": 12.341583967208862,
+  "time_sec": 11.551816940307617,
   "data": {
     "merchantName": "FIVE GUYS",
     "storeNumber": "CA-1661",
@@ -19,63 +19,63 @@
       {
         "quantity": 1,
         "description": "Little Hamburger",
-        "unitPrice": null,
+        "unitPrice": 5.19,
         "lineTotal": 5.19,
         "isModifier": false
       },
       {
         "quantity": 1,
         "description": "Lettuce",
-        "unitPrice": null,
+        "unitPrice": 0.0,
         "lineTotal": 0.0,
         "isModifier": true
       },
       {
         "quantity": 1,
         "description": "Pickles",
-        "unitPrice": null,
+        "unitPrice": 0.0,
         "lineTotal": 0.0,
         "isModifier": true
       },
       {
         "quantity": 1,
         "description": "Tomatoes",
-        "unitPrice": null,
+        "unitPrice": 0.0,
         "lineTotal": 0.0,
         "isModifier": true
       },
       {
         "quantity": 1,
         "description": "Grilled Onions",
-        "unitPrice": null,
+        "unitPrice": 0.0,
         "lineTotal": 0.0,
         "isModifier": true
       },
       {
         "quantity": 1,
         "description": "Grilled Mushrooms",
-        "unitPrice": null,
+        "unitPrice": 0.0,
         "lineTotal": 0.0,
         "isModifier": true
       },
       {
         "quantity": 1,
         "description": "Mustard",
-        "unitPrice": null,
+        "unitPrice": 0.0,
         "lineTotal": 0.0,
         "isModifier": true
       },
       {
         "quantity": 1,
         "description": "Ketchup",
-        "unitPrice": null,
+        "unitPrice": 0.0,
         "lineTotal": 0.0,
         "isModifier": true
       },
       {
         "quantity": 1,
         "description": "Jalapeno Peppers",
-        "unitPrice": null,
+        "unitPrice": 0.0,
         "lineTotal": 0.0,
         "isModifier": true
       },
@@ -89,49 +89,49 @@
       {
         "quantity": 1,
         "description": "Large Soda",
-        "unitPrice": null,
+        "unitPrice": 2.99,
         "lineTotal": 2.99,
         "isModifier": false
       },
       {
         "quantity": 1,
         "description": "Cheeseburger",
-        "unitPrice": null,
-        "lineTotal": 7.89,
+        "unitPrice": 7.8,
+        "lineTotal": 7.8,
         "isModifier": false
       },
       {
         "quantity": 1,
         "description": "Mayo",
-        "unitPrice": null,
+        "unitPrice": 0.0,
         "lineTotal": 0.0,
         "isModifier": true
       },
       {
         "quantity": 1,
         "description": "Lettuce",
-        "unitPrice": null,
+        "unitPrice": 0.0,
         "lineTotal": 0.0,
         "isModifier": true
       },
       {
         "quantity": 1,
         "description": "Pickles",
-        "unitPrice": null,
+        "unitPrice": 0.0,
         "lineTotal": 0.0,
         "isModifier": true
       },
       {
         "quantity": 1,
         "description": "BBQ Sauce",
-        "unitPrice": null,
+        "unitPrice": 0.0,
         "lineTotal": 0.0,
         "isModifier": true
       },
       {
         "quantity": 1,
         "description": "Regular Soda",
-        "unitPrice": null,
+        "unitPrice": 2.7,
         "lineTotal": 2.7,
         "isModifier": false
       }
@@ -148,21 +148,23 @@
     "provider": "anthropic",
     "model": "claude-sonnet-4-6",
     "doc_id": "vBIz5dut",
-    "response_id": "msg_018w7a8xSDgJy6iTwN6waswA",
+    "response_id": "msg_0159h7kZyfaSbJfTHCMHTsPq",
     "usage": {
-      "input_tokens": 1919,
+      "input_tokens": 2390,
       "cache_creation_input_tokens": 0,
       "cache_read_input_tokens": 0,
       "cache_creation": {
         "ephemeral_5m_input_tokens": 0,
         "ephemeral_1h_input_tokens": 0
       },
-      "output_tokens": 948,
+      "output_tokens": 741,
       "service_tier": "standard",
       "inference_geo": "global"
     },
-    "schema_mode": "anthropic_output_config_nullable_v1",
+    "schema_mode": "anthropic_output_config_required_nonnullable_v1",
     "input_mode": "image",
-    "schema_fallback": "prompt_json_schema"
+    "guidelines_mode": "guidelines_txt_v1",
+    "guidelines_chars": 647,
+    "guidelines_sha256": "eb3706f99a74fa4354eb31e5fb78a50e61f5d1dc6d593ed9702000628b9875ad"
   }
 }

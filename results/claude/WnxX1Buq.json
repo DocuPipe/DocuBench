@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "cost": null,
-  "time_sec": 9.950109004974365,
+  "time_sec": 20.4900860786438,
   "data": {
     "accountNumber": "1023456789-0",
     "statementDate": "2026-03-15",
@@ -42,14 +42,14 @@
       },
       {
         "chargeType": "San Jose Utility Users' Tax (5.000%)",
-        "days": null,
-        "rate": null,
+        "days": 0,
+        "rate": 0,
         "amount": 0.25
       },
       {
         "chargeType": "San Jose Franchise Surcharge",
-        "days": null,
-        "rate": null,
+        "days": 0,
+        "rate": 0,
         "amount": 0.02
       },
       {
@@ -60,14 +60,14 @@
       },
       {
         "chargeType": "San Jose Utility Users' Tax (5.000%)",
-        "days": null,
-        "rate": null,
+        "days": 0,
+        "rate": 0,
         "amount": 0.6
       },
       {
         "chargeType": "San Jose Franchise Surcharge",
-        "days": null,
-        "rate": null,
+        "days": 0,
+        "rate": 0,
         "amount": 0.04
       }
     ]
@@ -76,21 +76,23 @@
     "provider": "anthropic",
     "model": "claude-sonnet-4-6",
     "doc_id": "WnxX1Buq",
-    "response_id": "msg_01QwruN7Hw4XjicYJvCCXoSD",
+    "response_id": "msg_016WqRssqpWigbqa2FyWqEWK",
     "usage": {
-      "input_tokens": 8816,
+      "input_tokens": 9370,
       "cache_creation_input_tokens": 0,
       "cache_read_input_tokens": 0,
       "cache_creation": {
         "ephemeral_5m_input_tokens": 0,
         "ephemeral_1h_input_tokens": 0
       },
-      "output_tokens": 731,
+      "output_tokens": 508,
       "service_tier": "standard",
       "inference_geo": "global"
     },
-    "schema_mode": "anthropic_output_config_nullable_v1",
+    "schema_mode": "anthropic_output_config_required_nonnullable_v1",
     "input_mode": "pdf_document",
-    "schema_fallback": "prompt_json_schema"
+    "guidelines_mode": "guidelines_txt_v1",
+    "guidelines_chars": 839,
+    "guidelines_sha256": "949c8aded0d406623c8ed79b893b6ba6f58622428343501d12896bde3baedf50"
   }
 }

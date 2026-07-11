@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "cost": null,
-  "time_sec": 24.324608087539673,
+  "time_sec": 27.25039005279541,
   "data": {
     "sellerName": "株式会社 ○×コンピュータ販売",
     "sellerPhone": "(045) XXX-XXXX",
@@ -289,23 +289,26 @@
     "model": "gemini-3.5-flash",
     "doc_id": "jlKc8eVi",
     "usage": {
-      "promptTokenCount": 585,
+      "promptTokenCount": 762,
       "candidatesTokenCount": 2665,
-      "totalTokenCount": 6064,
+      "totalTokenCount": 7439,
       "promptTokensDetails": [
-        {
-          "modality": "TEXT",
-          "tokenCount": 53
-        },
         {
           "modality": "IMAGE",
           "tokenCount": 532
+        },
+        {
+          "modality": "TEXT",
+          "tokenCount": 230
         }
       ],
-      "thoughtsTokenCount": 2814,
+      "thoughtsTokenCount": 4012,
       "serviceTier": "standard"
     },
     "schema_mode": "gemini_response_schema_nullable_v1",
-    "input_mode": "inline_data"
+    "input_mode": "inline_data",
+    "guidelines_mode": "guidelines_txt_v1",
+    "guidelines_chars": 675,
+    "guidelines_sha256": "fd61fcd4afb3d9050cd66d2bd93f102be2c77dcdd3a8ab05f1df757b069f0235"
   }
 }

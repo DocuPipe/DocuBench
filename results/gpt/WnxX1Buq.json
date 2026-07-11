@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "cost": null,
-  "time_sec": 28.003000736236572,
+  "time_sec": 20.999249935150146,
   "data": {
     "accountNumber": "1023456789-0",
     "statementDate": "2026-03-15",
@@ -76,19 +76,23 @@
     "provider": "openai",
     "model": "gpt-5.5",
     "doc_id": "WnxX1Buq",
-    "file_id": "file-4CzjPHbibCeFVpvVZHy5SW",
-    "response_id": "resp_0d3cb478dcbea715016a3e968f923c8192b658dff9cc7799bc",
+    "file_id": "file-QvBabmtoMh84kevt6ygNkj",
+    "response_id": "resp_01f87ca63359ec63016a47d4b2d70081a0b209b7f99206e407",
     "usage": {
-      "input_tokens": 5398,
+      "input_tokens": 5586,
       "input_tokens_details": {
         "cached_tokens": 0
       },
-      "output_tokens": 1971,
+      "output_tokens": 1452,
       "output_tokens_details": {
-        "reasoning_tokens": 1552
+        "reasoning_tokens": 1034
       },
-      "total_tokens": 7369
+      "total_tokens": 7038
     },
-    "schema_mode": "openai_strict_nullable_v1"
+    "schema_mode": "openai_strict_nullable_v1",
+    "input_mode": "file",
+    "guidelines_mode": "guidelines_txt_v1",
+    "guidelines_chars": 839,
+    "guidelines_sha256": "949c8aded0d406623c8ed79b893b6ba6f58622428343501d12896bde3baedf50"
   }
 }

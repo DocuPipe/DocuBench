@@ -11,29 +11,31 @@ from __future__ import annotations
 
 import base64
 import json
-import mimetypes
 import os
 import re
 import sys
 import time
 import zipfile
-from io import BytesIO
 from pathlib import Path
 from typing import Any
 from xml.etree import ElementTree
+
+import openpyxl
 
 import requests
 
 sys.path.insert(0, str(Path(__file__).resolve().parent))
 from run_gpt import (
     IMAGE_EXTENSIONS,
+    PRIMITIVE_TYPES,
     TIFF_EXTENSIONS,
     ExtractionFailure,
     content_type,
+    guidelines_meta,
     load_env_file,
+    load_guidelines,
     load_json,
     load_prompt_template,
-    normalize_output_schema,
     tiff_png_parts,
     validate_value,
     write_json,
@@ -44,8 +46,9 @@ ANTHROPIC_API_BASE = os.environ.get("ANTHROPIC_API_BASE", "https://api.anthropic
 DEFAULT_ANTHROPIC_MODEL = "claude-sonnet-4-6"
 ANTHROPIC_VERSION = "2023-06-01"
 DEFAULT_MAX_TOKENS = int(os.environ.get("ANTHROPIC_MAX_TOKENS", "20000"))
-SCHEMA_MODE = "anthropic_output_config_nullable_v1"
+SCHEMA_MODE = "anthropic_output_config_required_nonnullable_v1"
 TEXT_EXTENSIONS = {".txt", ".csv", ".xml", ".html", ".htm", ".md", ".json", ".tsv", ".yaml", ".yml"}
+CLAUDE_DROP_SCHEMA_KEYS = {"$schema", "examples", "default", "title", "name"}
 
 
 def api_key() -> str:
@@ -92,36 +95,22 @@ def docx_text(path: Path) -> str:
 
 
 def xlsx_text(path: Path) -> str:
-    with zipfile.ZipFile(path) as zf:
-        shared_strings: list[str] = []
-        if "xl/sharedStrings.xml" in zf.namelist():
-            root = ElementTree.fromstring(zf.read("xl/sharedStrings.xml"))
-            for si in root:
-                shared_strings.append("".join(node.text or "" for node in si.iter() if node.tag.endswith("}t")))
+    """Render an xlsx the way a human sees it: resolved labels + formatted dates, tab-separated per sheet.
 
-        lines: list[str] = []
-        for name in sorted(n for n in zf.namelist() if re.match(r"xl/worksheets/sheet\d+\.xml$", n)):
-            root = ElementTree.fromstring(zf.read(name))
-            lines.append(f"# {name}")
-            for row in root.iter():
-                if not row.tag.endswith("}row"):
-                    continue
-                values: list[str] = []
-                for cell in row:
-                    if not cell.tag.endswith("}c"):
-                        continue
-                    cell_type = cell.attrib.get("t")
-                    value_node = next((child for child in cell if child.tag.endswith("}v")), None)
-                    if value_node is None or value_node.text is None:
-                        values.append("")
-                    elif cell_type == "s":
-                        idx = int(value_node.text)
-                        values.append(shared_strings[idx] if idx < len(shared_strings) else value_node.text)
-                    else:
-                        values.append(value_node.text)
-                if any(v.strip() for v in values):
-                    lines.append("\t".join(values))
-        return "\n".join(lines)
+    Uses openpyxl (data_only) so shared/inline strings resolve and formula cells return their cached
+    computed values with real dates. A raw-XML reader drops inline-string label columns and leaves dates
+    as raw Excel serials, feeding the model a headerless number grid.
+    """
+    wb = openpyxl.load_workbook(path, data_only=True, read_only=True)
+    lines: list[str] = []
+    for ws in wb.worksheets:
+        lines.append(f"# sheet: {ws.title}")
+        for row in ws.iter_rows(values_only=True):
+            cells = ["" if value is None else str(value) for value in row]
+            if any(cell.strip() for cell in cells):
+                lines.append("\t".join(cells))
+    wb.close()
+    return "\n".join(lines)
 
 
 def extracted_text_for_file(path: Path) -> tuple[str, dict[str, Any]]:
@@ -181,16 +170,120 @@ def claude_document_parts(path: Path) -> tuple[list[dict[str, Any]], dict[str, A
     return [{"type": "text", "text": f"Document text extracted from {path.name}:\n\n{text}"}], meta
 
 
-def build_prompt(doc_id: str, schema: dict[str, Any] | None = None) -> str:
+def primitive_type(spec: dict[str, Any]) -> str:
+    type_value = spec.get("type", "object" if "properties" in spec else "string")
+    type_list = [type_value] if isinstance(type_value, str) else list(type_value or [])
+    return next((item for item in type_list if item in PRIMITIVE_TYPES), "string")
+
+
+def schema_metadata(spec: dict[str, Any]) -> dict[str, Any]:
+    out: dict[str, Any] = {}
+    for key, value in spec.items():
+        if key in CLAUDE_DROP_SCHEMA_KEYS or key.startswith("x_"):
+            continue
+        if key in {"properties", "items", "required", "additionalProperties", "format", "type"}:
+            continue
+        if key == "enum" and isinstance(value, list):
+            enum_values = [item for item in value if item is not None]
+            if enum_values:
+                out[key] = enum_values
+            continue
+        out[key] = value
+    return out
+
+
+def claude_compatible_schema_node(spec: Any) -> dict[str, Any]:
+    if not isinstance(spec, dict):
+        return {"type": "string"}
+
+    out = schema_metadata(spec)
+    type_value = spec.get("type", "object" if "properties" in spec else "string")
+    type_list = [type_value] if isinstance(type_value, str) else list(type_value or [])
+
+    if "object" in type_list:
+        properties = spec.get("properties") or {}
+        normalized_props = {name: claude_compatible_schema_node(child) for name, child in properties.items()}
+        out["type"] = "object"
+        out["properties"] = normalized_props
+        out["required"] = list(normalized_props.keys())
+        out["additionalProperties"] = False
+        return out
+
+    if "array" in type_list:
+        out["type"] = "array"
+        out["items"] = claude_compatible_schema_node(spec.get("items", {"type": "string"}))
+        return out
+
+    out["type"] = primitive_type(spec)
+    return out
+
+
+def normalize_claude_output_schema(schema: dict[str, Any]) -> dict[str, Any]:
+    return claude_compatible_schema_node(schema)
+
+
+def nullable_type(type_value: str | list[str], nullable: bool) -> str | list[str]:
+    types = [type_value] if isinstance(type_value, str) else list(type_value)
+    if nullable and "null" not in types:
+        types.append("null")
+    return types[0] if len(types) == 1 else types
+
+
+def claude_validation_schema_node(spec: Any, *, nullable: bool = True) -> dict[str, Any]:
+    if not isinstance(spec, dict):
+        return {"type": nullable_type("string", nullable)}
+
+    out = schema_metadata(spec)
+    type_value = spec.get("type", "object" if "properties" in spec else "string")
+    type_list = [type_value] if isinstance(type_value, str) else list(type_value or [])
+
+    if "object" in type_list:
+        properties = spec.get("properties") or {}
+        normalized_props = {name: claude_validation_schema_node(child, nullable=True) for name, child in properties.items()}
+        out["type"] = nullable_type("object", nullable)
+        out["properties"] = normalized_props
+        out["required"] = list(normalized_props.keys())
+        out["additionalProperties"] = False
+        return out
+
+    if "array" in type_list:
+        out["type"] = nullable_type("array", nullable)
+        out["items"] = claude_validation_schema_node(spec.get("items", {"type": "string"}), nullable=True)
+        return out
+
+    out["type"] = nullable_type(primitive_type(spec), nullable)
+    enum_values = spec.get("enum")
+    if isinstance(enum_values, list):
+        out["enum"] = list(enum_values)
+        if nullable and None not in out["enum"]:
+            out["enum"].append(None)
+    return out
+
+
+def normalize_claude_validation_schema(schema: dict[str, Any]) -> dict[str, Any]:
+    return claude_validation_schema_node(schema, nullable=False)
+
+
+def build_prompt(doc_id: str, guidelines: str | None = None) -> str:
     # canonical prompt (prompts/extraction_prompt.txt) plus one Claude-specific sentence,
     # since Claude returns conversational text unless told to emit only the JSON object.
-    prompt = load_prompt_template().format(doc_id=doc_id) + " Return only the JSON object, with no prose or markdown."
-    if schema is not None:
-        prompt += "\n\nJSON schema:\n" + json.dumps(schema, ensure_ascii=False)
+    prompt = (
+        load_prompt_template().format(doc_id=doc_id)
+        + " Return only the JSON object, with no prose or markdown."
+    )
+    if guidelines is None:
+        guidelines = load_guidelines(doc_id)
+    if guidelines:
+        prompt += f"\n\nAdditional schema instructions:\n{guidelines}"
     return prompt
 
 
-def create_message(doc_id: str, document_parts: list[dict[str, Any]], schema: dict[str, Any], *, strict_output: bool = True) -> dict[str, Any]:
+def create_message(
+    doc_id: str,
+    document_parts: list[dict[str, Any]],
+    schema: dict[str, Any],
+    *,
+    guidelines: str | None = None) -> dict[str, Any]:
     payload = {
         "model": anthropic_model(),
         "max_tokens": DEFAULT_MAX_TOKENS,
@@ -199,18 +292,17 @@ def create_message(doc_id: str, document_parts: list[dict[str, Any]], schema: di
                 "role": "user",
                 "content": [
                     *document_parts,
-                    {"type": "text", "text": build_prompt(doc_id, None if strict_output else schema)},
+                    {"type": "text", "text": build_prompt(doc_id=doc_id, guidelines=guidelines)},
                 ],
             }
         ],
-    }
-    if strict_output:
-        payload["output_config"] = {
+        "output_config": {
             "format": {
                 "type": "json_schema",
                 "schema": schema,
             }
-        }
+        },
+    }
     resp = requests.post(f"{ANTHROPIC_API_BASE}/messages", headers=headers(), json=payload, timeout=900)
     if resp.status_code >= 300:
         try:
@@ -221,23 +313,6 @@ def create_message(doc_id: str, document_parts: list[dict[str, Any]], schema: di
         message = err.get("message") if isinstance(err, dict) else str(body)[:800]
         raise ExtractionFailure("api_error", f"message creation failed {resp.status_code}: {message}", {"http_status": resp.status_code})
     return resp.json()
-
-
-def should_retry_with_prompt_schema(exc: ExtractionFailure) -> bool:
-    if exc.kind != "api_error":
-        return False
-    message = exc.message.lower()
-    return any(
-        marker in message
-        for marker in [
-            "compiled grammar",
-            "output_config",
-            "invalid schema",
-            "schema contains",
-            "schemas contains",
-            "union",
-        ]
-    )
 
 
 def extract_output_text(message: dict[str, Any]) -> str:
@@ -261,6 +336,23 @@ def normalize_json_text(text: str) -> str:
     return text
 
 
+def repair_hebrew_abbreviation_quotes(text: str) -> str:
+    return re.sub(r"(?<!\\)(?<=[\u0590-\u05ff])\"(?=[\u0590-\u05ff])", lambda match: '\\"', text)
+
+
+def parse_json_text(text: str) -> dict[str, Any]:
+    try:
+        return json.loads(text)
+    except json.JSONDecodeError as exc:
+        repaired = repair_hebrew_abbreviation_quotes(text)
+        if repaired == text:
+            raise exc
+        try:
+            return json.loads(repaired)
+        except json.JSONDecodeError:
+            raise exc
+
+
 def parse_response_data(message: dict[str, Any], output_schema: dict[str, Any]) -> dict[str, Any]:
     if message.get("stop_reason") in {"max_tokens", "model_context_window_exceeded"}:
         raise ExtractionFailure("incomplete_response", f"stop_reason was {message.get('stop_reason')}")
@@ -269,13 +361,37 @@ def parse_response_data(message: dict[str, Any], output_schema: dict[str, Any]) 
         raise ExtractionFailure("empty_response", "response contained no output text")
     text = normalize_json_text(text)
     try:
-        data = json.loads(text)
+        data = parse_json_text(text)
     except json.JSONDecodeError as exc:
         raise ExtractionFailure("invalid_json", f"response was not valid JSON: {exc}") from exc
+    data = fill_missing_nullable_fields(data, output_schema)
     errors = validate_value(data, output_schema)
     if errors:
         raise ExtractionFailure("schema_mismatch", "; ".join(errors[:20]), {"validation_errors": errors[:200]})
     return data
+
+
+def fill_missing_nullable_fields(value: Any, schema: dict[str, Any]) -> Any:
+    type_value = schema.get("type")
+    type_list = [type_value] if isinstance(type_value, str) else list(type_value or [])
+    expected = next((item for item in type_list if item != "null"), "string")
+
+    if expected == "object" and isinstance(value, dict):
+        out = dict(value)
+        for name, child_schema in (schema.get("properties") or {}).items():
+            child_type = child_schema.get("type")
+            child_types = [child_type] if isinstance(child_type, str) else list(child_type or [])
+            if name in out:
+                out[name] = fill_missing_nullable_fields(out[name], child_schema)
+            elif "null" in child_types:
+                out[name] = None
+        return out
+
+    if expected == "array" and isinstance(value, list):
+        item_schema = schema.get("items") or {}
+        return [fill_missing_nullable_fields(item, item_schema) for item in value]
+
+    return value
 
 
 def estimate_cost(usage: dict[str, Any]) -> float | None:
@@ -289,7 +405,14 @@ def estimate_cost(usage: dict[str, Any]) -> float | None:
     return (input_tokens * input_rate + output_tokens * output_rate) / 1_000_000
 
 
-def failure_result(kind: str, message: str, *, started_at: float, doc_id: str, response: dict[str, Any] | None = None, extra_meta: dict[str, Any] | None = None) -> dict[str, Any]:
+def failure_result(
+    kind: str,
+    message: str,
+    *,
+    started_at: float,
+    doc_id: str,
+    response: dict[str, Any] | None = None,
+    extra_meta: dict[str, Any] | None = None) -> dict[str, Any]:
     usage = (response or {}).get("usage") or {}
     meta = {
         "provider": "anthropic",
@@ -315,23 +438,37 @@ def run(doc_id: str, file_path: Path, json_schema: dict[str, Any]) -> dict[str, 
     started_at = time.time()
     response: dict[str, Any] | None = None
     input_meta: dict[str, Any] = {}
-    output_schema = normalize_output_schema(json_schema)
+    validation_schema = normalize_claude_validation_schema(json_schema)
+    output_schema = normalize_claude_output_schema(json_schema)
+    guidelines = load_guidelines(doc_id)
     try:
         document_parts, input_meta = claude_document_parts(file_path)
-        try:
-            response = create_message(doc_id, document_parts, output_schema)
-        except ExtractionFailure as exc:
-            if not should_retry_with_prompt_schema(exc):
-                raise
-            input_meta["schema_fallback"] = "prompt_json_schema"
-            response = create_message(doc_id, document_parts, output_schema, strict_output=False)
-        data = parse_response_data(response, output_schema)
+        response = create_message(doc_id=doc_id, document_parts=document_parts, schema=output_schema, guidelines=guidelines)
+        data = parse_response_data(response, validation_schema)
     except ExtractionFailure as exc:
-        return failure_result(exc.kind, exc.message, started_at=started_at, doc_id=doc_id, response=response, extra_meta={**input_meta, **exc.meta})
+        return failure_result(
+            exc.kind,
+            exc.message,
+            started_at=started_at,
+            doc_id=doc_id,
+            response=response,
+            extra_meta={**input_meta, **guidelines_meta(guidelines), **exc.meta})
     except requests.RequestException as exc:
-        return failure_result("request_error", str(exc), started_at=started_at, doc_id=doc_id, response=response, extra_meta=input_meta)
+        return failure_result(
+            "request_error",
+            str(exc),
+            started_at=started_at,
+            doc_id=doc_id,
+            response=response,
+            extra_meta={**input_meta, **guidelines_meta(guidelines)})
     except Exception as exc:
-        return failure_result(exc.__class__.__name__, str(exc), started_at=started_at, doc_id=doc_id, response=response, extra_meta=input_meta)
+        return failure_result(
+            exc.__class__.__name__,
+            str(exc),
+            started_at=started_at,
+            doc_id=doc_id,
+            response=response,
+            extra_meta={**input_meta, **guidelines_meta(guidelines)})
 
     usage = response.get("usage") or {}
     return {
@@ -347,6 +484,7 @@ def run(doc_id: str, file_path: Path, json_schema: dict[str, Any]) -> dict[str, 
             "usage": usage,
             "schema_mode": SCHEMA_MODE,
             **input_meta,
+            **guidelines_meta(guidelines),
         },
     }
 

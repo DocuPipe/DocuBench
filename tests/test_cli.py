@@ -17,11 +17,14 @@ def test_validate_current_benchmark_files():
     assert summary["sources"] == 50
     assert set(summary["engines"]) == {
         "claude",
+        "claude5",
         "docupipe_high",
         "docupipe_standard",
         "extend",
         "gemini",
         "gpt",
+        "reducto",
+        "reducto_standard",
     }
 
 

@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "cost": null,
-  "time_sec": 10.111637830734253,
+  "time_sec": 14.517645120620728,
   "data": {
     "namedInsured": "John Doe and Susy Doe",
     "policyNumber": "254H089SJ425",
@@ -51,19 +51,23 @@
     "provider": "openai",
     "model": "gpt-5.5",
     "doc_id": "1ZVqiyJZ",
-    "file_id": "file-Hv1Za6bYXvLZvfQinsTkLs",
-    "response_id": "resp_05a95930b3f7cf64016a3e931f65bc819f83a2a71279eba507",
+    "file_id": "file-GJuRhB5aMoVvCYBaksoCYz",
+    "response_id": "resp_06a250a95dad648a016a47d0bd929481919c82d29250c9ce61",
     "usage": {
-      "input_tokens": 1954,
+      "input_tokens": 2024,
       "input_tokens_details": {
         "cached_tokens": 0
       },
-      "output_tokens": 388,
+      "output_tokens": 465,
       "output_tokens_details": {
-        "reasoning_tokens": 174
+        "reasoning_tokens": 252
       },
-      "total_tokens": 2342
+      "total_tokens": 2489
     },
-    "schema_mode": "openai_strict_nullable_v1"
+    "schema_mode": "openai_strict_nullable_v1",
+    "input_mode": "file",
+    "guidelines_mode": "guidelines_txt_v1",
+    "guidelines_chars": 340,
+    "guidelines_sha256": "4fb83046825f17dfe2bdf5fb4195ad9e344a0e724d54ac8485c1484e543f4a0c"
   }
 }

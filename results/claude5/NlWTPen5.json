@@ -1,0 +1,76 @@
+{
+  "status": "ok",
+  "cost": 0.063819,
+  "time_sec": 6.7071802616119385,
+  "data": {
+    "accountNumber": "00001-00001",
+    "meterNumber": "300000000",
+    "serviceAddress": "123 SERVICE RD, ALLENTOWN PA 18100",
+    "dueDate": "2024-06-19",
+    "billingPeriodStart": "2024-05-02",
+    "billingPeriodEnd": "2024-06-03",
+    "daysBilled": 32,
+    "totalAmountDue": 3133.19,
+    "totalSupplyCharges": 0.0,
+    "totalDeliveryCharges": 3133.19,
+    "totalKwhDelivered": 598800,
+    "peakDemandKw": 1095.0,
+    "charges": [
+      {
+        "amount": 169.8
+      },
+      {
+        "amount": 2788.97
+      },
+      {
+        "amount": -226.94
+      },
+      {
+        "amount": 70.0
+      },
+      {
+        "amount": 0.05
+      },
+      {
+        "amount": 9.13
+      },
+      {
+        "amount": 149.51
+      },
+      {
+        "amount": 179.2
+      },
+      {
+        "amount": -6.53
+      }
+    ]
+  },
+  "meta": {
+    "provider": "anthropic_bedrock",
+    "model": "claude-sonnet-5",
+    "bedrock_model_id": "global.anthropic.claude-sonnet-5",
+    "bedrock_region": "us-east-1",
+    "doc_id": "NlWTPen5",
+    "response_id": "msg_bdrk_s767sa6pe66sg3rb2ghcedp5hyka7fchr24i7la2gpfu56tfi62a",
+    "usage": {
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "input_tokens": 18713,
+      "output_tokens": 512,
+      "server_tool_use": null,
+      "service_tier": "standard",
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens_details": {
+        "thinking_tokens": 0
+      }
+    },
+    "schema_mode": "bedrock_tool_required_nonnullable_v1",
+    "input_mode": "pdf_document",
+    "guidelines_mode": "guidelines_txt_v1",
+    "guidelines_chars": 340,
+    "guidelines_sha256": "497373162747b6cb6e7f7a010608bb0d873eea1cf75d3ab9b922c1747c5d6114"
+  }
+}

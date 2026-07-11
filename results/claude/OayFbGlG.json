@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "cost": null,
-  "time_sec": 6.321194887161255,
+  "time_sec": 16.7436261177063,
   "data": {
     "patientName": "John Doe",
     "mrn": "000012",
@@ -35,21 +35,23 @@
     "provider": "anthropic",
     "model": "claude-sonnet-4-6",
     "doc_id": "OayFbGlG",
-    "response_id": "msg_01JQJc5nsBv7Wn7GNu2enFZY",
+    "response_id": "msg_017oPQA6QeNrYmqQHJPvBAXg",
     "usage": {
-      "input_tokens": 5277,
+      "input_tokens": 5735,
       "cache_creation_input_tokens": 0,
       "cache_read_input_tokens": 0,
       "cache_creation": {
         "ephemeral_5m_input_tokens": 0,
         "ephemeral_1h_input_tokens": 0
       },
-      "output_tokens": 299,
+      "output_tokens": 200,
       "service_tier": "standard",
       "inference_geo": "global"
     },
-    "schema_mode": "anthropic_output_config_nullable_v1",
+    "schema_mode": "anthropic_output_config_required_nonnullable_v1",
     "input_mode": "pdf_document",
-    "schema_fallback": "prompt_json_schema"
+    "guidelines_mode": "guidelines_txt_v1",
+    "guidelines_chars": 712,
+    "guidelines_sha256": "1b0e582c133fd10d8d85c29583ea4c71e8d0ac7ad3c15646192366ab0f4fceab"
   }
 }

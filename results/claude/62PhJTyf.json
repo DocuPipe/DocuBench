@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "cost": null,
-  "time_sec": 18.588123083114624,
+  "time_sec": 15.7170090675354,
   "data": {
     "companyName": "Voorbeeld onderneming te Hoofddorp",
     "balanceSheetDate": "2015-12-31",
@@ -153,9 +153,9 @@
     "provider": "anthropic",
     "model": "claude-sonnet-4-6",
     "doc_id": "62PhJTyf",
-    "response_id": "msg_01T7ZiKrRPS9eZHup9uUY4Bf",
+    "response_id": "msg_01UxtejccxWFuCiviyhLoKLa",
     "usage": {
-      "input_tokens": 6960,
+      "input_tokens": 6958,
       "cache_creation_input_tokens": 0,
       "cache_read_input_tokens": 0,
       "cache_creation": {
@@ -166,7 +166,10 @@
       "service_tier": "standard",
       "inference_geo": "global"
     },
-    "schema_mode": "anthropic_output_config_nullable_v1",
-    "input_mode": "pdf_document"
+    "schema_mode": "anthropic_output_config_required_nonnullable_v1",
+    "input_mode": "pdf_document",
+    "guidelines_mode": "guidelines_txt_v1",
+    "guidelines_chars": 607,
+    "guidelines_sha256": "12347b5a9c9d4be2acf0f027b2e6cf258c5f852038b977941d293e6846a0d604"
   }
 }

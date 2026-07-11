@@ -1,21 +1,21 @@
 {
   "status": "ok",
   "cost": null,
-  "time_sec": 8.793818950653076,
+  "time_sec": 15.090481996536255,
   "data": {
     "insurerName": "SAFE ALL INSURANCE COMPANY",
     "policyNumber": "FHO295000",
     "policyForm": "HO-3",
-    "policyEffectiveDate": "3/28/20",
-    "policyExpirationDate": "3/28/2021",
+    "policyEffectiveDate": "2020-03-28",
+    "policyExpirationDate": "2021-03-28",
     "insuredName": "Estelle Clarion & James Delaney",
     "insuredAddress": "596 Crossover Way, Clay, FL 17189-2021",
     "totalAnnualPremium": 854.0,
     "hurricanePremium": 297.0,
     "nonHurricanePremium": 505.0,
-    "allOtherPerilsDeductible": 1000.0,
+    "allOtherPerilsDeductible": 1000,
     "hurricaneDeductiblePercentOfCoverageA": 2,
-    "hurricaneDeductibleAmount": 3200.0,
+    "hurricaneDeductibleAmount": 3200,
     "coverages": [
       {
         "coverageLetter": "A",
@@ -53,21 +53,23 @@
     "provider": "anthropic",
     "model": "claude-sonnet-4-6",
     "doc_id": "GW7i2xbM",
-    "response_id": "msg_01DXA15RRtxUWH9DKEgo6sbQ",
+    "response_id": "msg_01BHmaSWnqiHLWTTiKd7wPDB",
     "usage": {
-      "input_tokens": 3027,
+      "input_tokens": 3468,
       "cache_creation_input_tokens": 0,
       "cache_read_input_tokens": 0,
       "cache_creation": {
         "ephemeral_5m_input_tokens": 0,
         "ephemeral_1h_input_tokens": 0
       },
-      "output_tokens": 491,
+      "output_tokens": 328,
       "service_tier": "standard",
       "inference_geo": "global"
     },
-    "schema_mode": "anthropic_output_config_nullable_v1",
+    "schema_mode": "anthropic_output_config_required_nonnullable_v1",
     "input_mode": "pdf_document",
-    "schema_fallback": "prompt_json_schema"
+    "guidelines_mode": "guidelines_txt_v1",
+    "guidelines_chars": 719,
+    "guidelines_sha256": "875bcffbf94188434e5bb9d11d026b7708cafbcb17b34cde6b8d3b1c67d45c74"
   }
 }

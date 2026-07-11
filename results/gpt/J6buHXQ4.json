@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "cost": null,
-  "time_sec": 92.44137406349182,
+  "time_sec": 109.88051581382751,
   "data": {
     "authorityName": "מועצה מקומית מג'דל שמס",
     "reportYear": 2023,
@@ -49,18 +49,6 @@
       },
       {
         "section": "נכסים",
-        "lineLabel": "עודף לתחילת השנה",
-        "currentYearAmount": -15,
-        "priorYearAmount": null
-      },
-      {
-        "section": "נכסים",
-        "lineLabel": "גרעון בשנת הדוח",
-        "currentYearAmount": 366,
-        "priorYearAmount": null
-      },
-      {
-        "section": "נכסים",
         "lineLabel": "גרעון מצטבר בתקציב הרגיל לסוף השנה",
         "currentYearAmount": 351,
         "priorYearAmount": null
@@ -79,7 +67,7 @@
       },
       {
         "section": "התחייבויות",
-        "lineLabel": "משיכות יתר בבנקים",
+        "lineLabel": "בנקים משיכות יתר",
         "currentYearAmount": 3692,
         "priorYearAmount": 2826
       },
@@ -91,7 +79,7 @@
       },
       {
         "section": "התחייבויות",
-        "lineLabel": "בתי ספר זכאים בגין כספים שונים",
+        "lineLabel": "בתי ספר זכאים בגין כספים ייעודיים",
         "currentYearAmount": 1246,
         "priorYearAmount": 303
       },
@@ -109,7 +97,7 @@
       },
       {
         "section": "התחייבויות",
-        "lineLabel": "קרנות בלתי מתוקצבות",
+        "lineLabel": "קרנות מיועדות",
         "currentYearAmount": 904,
         "priorYearAmount": 783
       },
@@ -118,24 +106,6 @@
         "lineLabel": "קרנות מתוקצבות",
         "currentYearAmount": 10519,
         "priorYearAmount": 10519
-      },
-      {
-        "section": "התחייבויות",
-        "lineLabel": "עודף לתחילת השנה",
-        "currentYearAmount": null,
-        "priorYearAmount": -475
-      },
-      {
-        "section": "התחייבויות",
-        "lineLabel": "סכומים שנתקבלו להקטנת גרעונות",
-        "currentYearAmount": null,
-        "priorYearAmount": 475
-      },
-      {
-        "section": "התחייבויות",
-        "lineLabel": "עודף בשנת הדוח",
-        "currentYearAmount": null,
-        "priorYearAmount": 15
       },
       {
         "section": "התחייבויות",
@@ -158,13 +128,6 @@
         "budgetAmount": 7,
         "actualCurrentYear": 6,
         "actualPriorYear": 58
-      },
-      {
-        "chapterNumber": "11",
-        "chapterName": "מיסים",
-        "budgetAmount": 18502,
-        "actualCurrentYear": 17567,
-        "actualPriorYear": 17496
       },
       {
         "chapterNumber": "12",
@@ -412,19 +375,23 @@
     "provider": "openai",
     "model": "gpt-5.5",
     "doc_id": "J6buHXQ4",
-    "file_id": "file-BaocYWQKpzcScWw2rjRcjf",
-    "response_id": "resp_00d983e1697ce639016a3e99039d24819cb456ef819a02c4a4",
+    "file_id": "file-CxFYKPt9w4kdDEQpVeahUR",
+    "response_id": "resp_073a9b0401a2f302016a47d3232938819da3cea02f9e8050dd",
     "usage": {
-      "input_tokens": 10784,
+      "input_tokens": 10884,
       "input_tokens_details": {
         "cached_tokens": 0
       },
-      "output_tokens": 7094,
+      "output_tokens": 8217,
       "output_tokens_details": {
-        "reasoning_tokens": 5063
+        "reasoning_tokens": 6370
       },
-      "total_tokens": 17878
+      "total_tokens": 19101
     },
-    "schema_mode": "openai_strict_nullable_v1"
+    "schema_mode": "openai_strict_nullable_v1",
+    "input_mode": "file",
+    "guidelines_mode": "guidelines_txt_v1",
+    "guidelines_chars": 436,
+    "guidelines_sha256": "c6139b54c1952e6ce9efd64a5746aa16f76c3696c5d6a324f0ff1d32edba69d9"
   }
 }

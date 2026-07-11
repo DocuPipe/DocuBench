@@ -1,12 +1,12 @@
 {
   "status": "ok",
   "cost": null,
-  "time_sec": 9.982139825820923,
+  "time_sec": 17.73840308189392,
   "data": {
-    "operatorName": "SAMSON EXPLORATION, LLC",
-    "checkNumber": null,
-    "checkDate": null,
-    "ownerNumber": null,
+    "operatorName": "Samson Exploration, LLC",
+    "checkNumber": "",
+    "checkDate": "",
+    "ownerNumber": "",
     "lineItems": [
       {
         "propertyNumber": "046907",
@@ -18,11 +18,11 @@
         "interestType": "WI",
         "decimalInterest": 0.00494707,
         "unitPrice": 102.464,
-        "btu": null,
+        "btu": 0.0,
         "ownerVolume": 37.82,
         "ownerGrossValue": 3874.61,
         "ownerTax": 236.2,
-        "ownerDeducts": null,
+        "ownerDeducts": 0.0,
         "ownerNetValue": 3638.41
       },
       {
@@ -52,21 +52,23 @@
     "provider": "anthropic",
     "model": "claude-sonnet-4-6",
     "doc_id": "UnG6cLfP",
-    "response_id": "msg_016QDo1N5UgZs69MnnDT2M3S",
+    "response_id": "msg_01V4xo2RMCcoUSr4tmefYbqs",
     "usage": {
-      "input_tokens": 5055,
+      "input_tokens": 5633,
       "cache_creation_input_tokens": 0,
       "cache_read_input_tokens": 0,
       "cache_creation": {
         "ephemeral_5m_input_tokens": 0,
         "ephemeral_1h_input_tokens": 0
       },
-      "output_tokens": 509,
+      "output_tokens": 348,
       "service_tier": "standard",
       "inference_geo": "global"
     },
-    "schema_mode": "anthropic_output_config_nullable_v1",
+    "schema_mode": "anthropic_output_config_required_nonnullable_v1",
     "input_mode": "pdf_document",
-    "schema_fallback": "prompt_json_schema"
+    "guidelines_mode": "guidelines_txt_v1",
+    "guidelines_chars": 942,
+    "guidelines_sha256": "fae0216e91be2177db27278e350f6c546cbe5c5219ad7772695b59d3341fdb06"
   }
 }

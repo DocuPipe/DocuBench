@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "cost": null,
-  "time_sec": 26.415937900543213,
+  "time_sec": 24.438503980636597,
   "data": {
     "sheetNumber": "CS002",
     "sheetTitle": "Schedules",
@@ -11,28 +11,28 @@
         "doorType": "Exterior Glass Door",
         "width": "3' - 0\"",
         "height": "7' - 0\"",
-        "comments": null
+        "comments": ""
       },
       {
         "mark": "102",
         "doorType": "Solid Core Flush Door",
         "width": "2' - 6\"",
         "height": "7' - 0\"",
-        "comments": null
+        "comments": ""
       },
       {
         "mark": "103",
         "doorType": "Sliding Barn Door",
         "width": "3' - 0\"",
         "height": "7' - 0\"",
-        "comments": null
+        "comments": ""
       },
       {
         "mark": "104",
         "doorType": "Sliding Barn Door",
         "width": "3' - 0\"",
         "height": "7' - 0\"",
-        "comments": null
+        "comments": ""
       },
       {
         "mark": "105",
@@ -46,84 +46,84 @@
         "doorType": "Cased Opening",
         "width": "5' - 0\"",
         "height": "7' - 0\"",
-        "comments": null
+        "comments": ""
       },
       {
         "mark": "107",
         "doorType": "Exterior Glass Door",
         "width": "3' - 0\"",
         "height": "7' - 0\"",
-        "comments": null
+        "comments": ""
       },
       {
         "mark": "201",
         "doorType": "Solid Core Flush Door",
         "width": "2' - 6\"",
         "height": "7' - 0\"",
-        "comments": null
+        "comments": ""
       },
       {
         "mark": "203",
         "doorType": "Solid Core Flush Door",
         "width": "2' - 6\"",
         "height": "7' - 0\"",
-        "comments": null
+        "comments": ""
       },
       {
         "mark": "204",
         "doorType": "Solid Core Flush Door",
         "width": "2' - 6\"",
         "height": "7' - 0\"",
-        "comments": null
+        "comments": ""
       },
       {
         "mark": "205",
         "doorType": "Solid Core Flush Door",
         "width": "2' - 6\"",
         "height": "7' - 0\"",
-        "comments": null
+        "comments": ""
       },
       {
         "mark": "206",
         "doorType": "Solid Core Flush Door",
         "width": "2' - 6\"",
         "height": "7' - 0\"",
-        "comments": null
+        "comments": ""
       },
       {
         "mark": "207",
         "doorType": "Sliding Closet Door",
         "width": "5' - 8\"",
         "height": "6' - 8\"",
-        "comments": null
+        "comments": ""
       },
       {
         "mark": "208",
         "doorType": "Cased Opening",
         "width": "3' - 0\"",
         "height": "6' - 8\"",
-        "comments": null
+        "comments": ""
       },
       {
         "mark": "209",
         "doorType": "Double Door",
         "width": "3' - 6\"",
         "height": "6' - 8\"",
-        "comments": null
+        "comments": ""
       },
       {
         "mark": "210",
         "doorType": "Cased Opening",
         "width": "5' - 0\"",
         "height": "7' - 0\"",
-        "comments": null
+        "comments": ""
       },
       {
         "mark": "211",
         "doorType": "Solid Core Flush Door",
         "width": "2' - 6\"",
         "height": "7' - 0\"",
-        "comments": null
+        "comments": ""
       }
     ],
     "roomSchedule": [
@@ -308,7 +308,7 @@
         "shgcMax": 0.4,
         "uFactorMax": 0.35,
         "tempered": false,
-        "comments": null
+        "comments": ""
       },
       {
         "mark": "B",
@@ -319,7 +319,7 @@
         "shgcMax": 0.4,
         "uFactorMax": 0.35,
         "tempered": false,
-        "comments": null
+        "comments": ""
       },
       {
         "mark": "C",
@@ -330,7 +330,7 @@
         "shgcMax": 0.4,
         "uFactorMax": 0.35,
         "tempered": false,
-        "comments": null
+        "comments": ""
       },
       {
         "mark": "G",
@@ -341,7 +341,7 @@
         "shgcMax": 0.4,
         "uFactorMax": 0.35,
         "tempered": false,
-        "comments": null
+        "comments": ""
       },
       {
         "mark": "H",
@@ -352,7 +352,7 @@
         "shgcMax": 0.4,
         "uFactorMax": 0.35,
         "tempered": false,
-        "comments": null
+        "comments": ""
       },
       {
         "mark": "Ht",
@@ -363,7 +363,7 @@
         "shgcMax": 0.4,
         "uFactorMax": 0.35,
         "tempered": true,
-        "comments": null
+        "comments": ""
       },
       {
         "mark": "J",
@@ -374,7 +374,7 @@
         "shgcMax": 0.4,
         "uFactorMax": 0.35,
         "tempered": false,
-        "comments": null
+        "comments": ""
       },
       {
         "mark": "K",
@@ -385,7 +385,7 @@
         "shgcMax": 0.4,
         "uFactorMax": 0.35,
         "tempered": false,
-        "comments": null
+        "comments": ""
       },
       {
         "mark": "Kt",
@@ -396,7 +396,7 @@
         "shgcMax": 0.4,
         "uFactorMax": 0.35,
         "tempered": false,
-        "comments": null
+        "comments": ""
       }
     ]
   },
@@ -405,9 +405,9 @@
     "model": "gemini-3.5-flash",
     "doc_id": "97uZroyv",
     "usage": {
-      "promptTokenCount": 586,
-      "candidatesTokenCount": 3252,
-      "totalTokenCount": 6477,
+      "promptTokenCount": 729,
+      "candidatesTokenCount": 3253,
+      "totalTokenCount": 6387,
       "promptTokensDetails": [
         {
           "modality": "IMAGE",
@@ -415,13 +415,16 @@
         },
         {
           "modality": "TEXT",
-          "tokenCount": 54
+          "tokenCount": 197
         }
       ],
-      "thoughtsTokenCount": 2639,
+      "thoughtsTokenCount": 2405,
       "serviceTier": "standard"
     },
     "schema_mode": "gemini_response_schema_nullable_v1",
-    "input_mode": "inline_data"
+    "input_mode": "inline_data",
+    "guidelines_mode": "guidelines_txt_v1",
+    "guidelines_chars": 582,
+    "guidelines_sha256": "ad15cf4a6f8f7042e0cb156c83a77b2e34dcbe2df405810b6ef858ecec759d59"
   }
 }

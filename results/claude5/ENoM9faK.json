@@ -1,0 +1,147 @@
+{
+  "status": "ok",
+  "cost": 0.038229,
+  "time_sec": 8.2642502784729,
+  "data": {
+    "drawingNumber": "null",
+    "drawingTitle": "null",
+    "revision": "null",
+    "organization": "National Aeronautics and Space Administration",
+    "location": "Greenbelt, Maryland",
+    "listOfMaterial": [
+      {
+        "itemNo": "X",
+        "quantity": 1,
+        "partNo": "GD1416697",
+        "description": "MOUNT C, ASSEMBLY",
+        "material": ""
+      },
+      {
+        "itemNo": "1",
+        "quantity": 1,
+        "partNo": "GD1416678",
+        "description": "BASE, MOUNT C",
+        "material": ""
+      },
+      {
+        "itemNo": "2",
+        "quantity": 2,
+        "partNo": "GC1416680",
+        "description": "SEAT, MOUNT C",
+        "material": ""
+      },
+      {
+        "itemNo": "3",
+        "quantity": 3,
+        "partNo": "GC1416640",
+        "description": "BEARING",
+        "material": ""
+      },
+      {
+        "itemNo": "4",
+        "quantity": 2,
+        "partNo": "GC1416681",
+        "description": "SHAFT, BEARING",
+        "material": ""
+      },
+      {
+        "itemNo": "5",
+        "quantity": 1,
+        "partNo": "GD1416679",
+        "description": "STEM, MOUNT C",
+        "material": ""
+      },
+      {
+        "itemNo": "6",
+        "quantity": 1,
+        "partNo": "GC1416638",
+        "description": "SEAT, LOWER",
+        "material": ""
+      },
+      {
+        "itemNo": "7",
+        "quantity": 1,
+        "partNo": "GC1416637",
+        "description": "SEAT, UPPER",
+        "material": ""
+      },
+      {
+        "itemNo": "8",
+        "quantity": 1,
+        "partNo": "GC1416636",
+        "description": "SLEEVE",
+        "material": ""
+      },
+      {
+        "itemNo": "9",
+        "quantity": 1,
+        "partNo": "GC1416635-1",
+        "description": "SPACER",
+        "material": ""
+      },
+      {
+        "itemNo": "10",
+        "quantity": 1,
+        "partNo": "GC1416639-1",
+        "description": "SHIM",
+        "material": ""
+      },
+      {
+        "itemNo": "11",
+        "quantity": 2,
+        "partNo": "MS35308-314",
+        "description": "SCREW, CAP, HEXAGON HD",
+        "material": "CRES"
+      },
+      {
+        "itemNo": "12",
+        "quantity": 1,
+        "partNo": "MS20500-1018",
+        "description": "NUT, 5/8-18 UNF-3B",
+        "material": "CRES"
+      },
+      {
+        "itemNo": "13",
+        "quantity": 4,
+        "partNo": "MS20500-1214",
+        "description": "SCREW, CAP, HEXAGON HD",
+        "material": "CRES"
+      },
+      {
+        "itemNo": "14",
+        "quantity": 4,
+        "partNo": "MS20500-428",
+        "description": "NUT, 1/4-2B UNF-3B",
+        "material": "CRES"
+      }
+    ]
+  },
+  "meta": {
+    "provider": "anthropic_bedrock",
+    "model": "claude-sonnet-5",
+    "bedrock_model_id": "global.anthropic.claude-sonnet-5",
+    "bedrock_region": "us-east-1",
+    "doc_id": "ENoM9faK",
+    "response_id": "msg_bdrk_yhmedddk4cgfokym6oavjtcrfg3uhho6y26fscsiufiicnfqpj5q",
+    "usage": {
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "input_tokens": 7788,
+      "output_tokens": 991,
+      "server_tool_use": null,
+      "service_tier": "standard",
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens_details": {
+        "thinking_tokens": 0
+      }
+    },
+    "schema_mode": "bedrock_tool_required_nonnullable_v1",
+    "input_mode": "pdf_document",
+    "guidelines_mode": "guidelines_txt_v1",
+    "guidelines_chars": 845,
+    "guidelines_sha256": "a528fd4502c5c789386fbda6eccb06130da821b6259dcdd058be591e3e9889e5"
+  }
+}

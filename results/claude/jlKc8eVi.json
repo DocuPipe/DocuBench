@@ -1,9 +1,9 @@
 {
   "status": "ok",
   "cost": null,
-  "time_sec": 34.38154125213623,
+  "time_sec": 32.06391716003418,
   "data": {
-    "sellerName": "株式会社　○×コンピュータ販売",
+    "sellerName": "株式会社 ○×コンピュータ販売",
     "sellerPhone": "（０４５）ＸＸＸ－ＸＸＸＸ",
     "buyerName": "○○商会横浜南支店",
     "buyerAddress": "神奈川県横浜市◇◇区△△町１－１－１",
@@ -288,20 +288,23 @@
     "provider": "anthropic",
     "model": "claude-sonnet-4-6",
     "doc_id": "jlKc8eVi",
-    "response_id": "msg_01PtZWbmLR5vYWhxtLSm47xn",
+    "response_id": "msg_01RGJFp8w8G2i68PwSTaXXpW",
     "usage": {
-      "input_tokens": 4499,
+      "input_tokens": 4521,
       "cache_creation_input_tokens": 0,
       "cache_read_input_tokens": 0,
       "cache_creation": {
         "ephemeral_5m_input_tokens": 0,
         "ephemeral_1h_input_tokens": 0
       },
-      "output_tokens": 1692,
+      "output_tokens": 1693,
       "service_tier": "standard",
       "inference_geo": "global"
     },
-    "schema_mode": "anthropic_output_config_nullable_v1",
-    "input_mode": "pdf_document"
+    "schema_mode": "anthropic_output_config_required_nonnullable_v1",
+    "input_mode": "pdf_document",
+    "guidelines_mode": "guidelines_txt_v1",
+    "guidelines_chars": 675,
+    "guidelines_sha256": "fd61fcd4afb3d9050cd66d2bd93f102be2c77dcdd3a8ab05f1df757b069f0235"
   }
 }

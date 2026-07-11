@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "cost": null,
-  "time_sec": 8.246322870254517,
+  "time_sec": 5.544137001037598,
   "data": {
     "patientName": "John Doe",
     "mrn": "000012",
@@ -35,19 +35,23 @@
     "provider": "openai",
     "model": "gpt-5.5",
     "doc_id": "OayFbGlG",
-    "file_id": "file-72gz5kb3Zv13VAj5aK68EX",
-    "response_id": "resp_04bde7e7682b9548016a3e95fe082c819dabae9c4226f7ae16",
+    "file_id": "file-GcoeDBsjTBcxUUbz1kQ4tV",
+    "response_id": "resp_024a4eccbab46e0e016a47d41a96e8819c83620cd16265d0ce",
     "usage": {
-      "input_tokens": 1727,
+      "input_tokens": 1862,
       "input_tokens_details": {
         "cached_tokens": 0
       },
-      "output_tokens": 322,
+      "output_tokens": 185,
       "output_tokens_details": {
-        "reasoning_tokens": 134
+        "reasoning_tokens": 0
       },
-      "total_tokens": 2049
+      "total_tokens": 2047
     },
-    "schema_mode": "openai_strict_nullable_v1"
+    "schema_mode": "openai_strict_nullable_v1",
+    "input_mode": "file",
+    "guidelines_mode": "guidelines_txt_v1",
+    "guidelines_chars": 712,
+    "guidelines_sha256": "1b0e582c133fd10d8d85c29583ea4c71e8d0ac7ad3c15646192366ab0f4fceab"
   }
 }

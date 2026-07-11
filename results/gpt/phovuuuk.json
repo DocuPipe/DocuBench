@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "cost": null,
-  "time_sec": 14.555372953414917,
+  "time_sec": 14.132268905639648,
   "data": {
     "employeeName": "ELIZABETH A DARLING",
     "employeeSSN": "XXX-XX-1234",
@@ -46,19 +46,23 @@
     "provider": "openai",
     "model": "gpt-5.5",
     "doc_id": "phovuuuk",
-    "file_id": "file-BiZM9gwFzcjrWWbXet7exc",
-    "response_id": "resp_05a63e69e7ffef30016a3e9781b9d081a3ad30e51fa5939bd5",
+    "file_id": "file-Fb3fiGv5u8roCaT2Nvvr21",
+    "response_id": "resp_09712a4af1c336d9016a47d5aa6918819c9047bdbe02fe1a63",
     "usage": {
-      "input_tokens": 5805,
+      "input_tokens": 5961,
       "input_tokens_details": {
         "cached_tokens": 0
       },
-      "output_tokens": 662,
+      "output_tokens": 764,
       "output_tokens_details": {
-        "reasoning_tokens": 413
+        "reasoning_tokens": 516
       },
-      "total_tokens": 6467
+      "total_tokens": 6725
     },
-    "schema_mode": "openai_strict_nullable_v1"
+    "schema_mode": "openai_strict_nullable_v1",
+    "input_mode": "file",
+    "guidelines_mode": "guidelines_txt_v1",
+    "guidelines_chars": 635,
+    "guidelines_sha256": "5ce24ba6eec24393cb122beec3fc5294e84a8f08f1109086d8d616d82a62b66e"
   }
 }

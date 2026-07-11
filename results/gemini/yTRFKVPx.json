@@ -1,100 +1,100 @@
 {
   "status": "ok",
   "cost": null,
-  "time_sec": 12.333762168884277,
+  "time_sec": 17.21501898765564,
   "data": {
     "invoiceNumber": "10001",
     "materials": [
       {
         "description": "Marking of foundation layout at site",
         "quantity": 5,
-        "rate": 200,
-        "total": 1000
+        "rate": 200.0,
+        "total": 1000.0
       },
       {
         "description": "Earth excavation up to the required depth by machine",
         "quantity": 4,
-        "rate": 150,
-        "total": 600
+        "rate": 150.0,
+        "total": 600.0
       },
       {
         "description": "Earth excavation and levelling of soil by hand-operated tools",
         "quantity": 2,
-        "rate": 125,
-        "total": 250
+        "rate": 125.0,
+        "total": 250.0
       },
       {
         "description": "Placing of PCC",
         "quantity": 15,
-        "rate": 78,
-        "total": 1170
+        "rate": 78.0,
+        "total": 1170.0
       },
       {
         "description": "Placement of reinforcement steel",
         "quantity": 30,
-        "rate": 165,
-        "total": 4950
+        "rate": 165.0,
+        "total": 4950.0
       },
       {
         "description": "Erection of concrete formworks for footings",
         "quantity": 34,
-        "rate": 230,
-        "total": 7820
+        "rate": 230.0,
+        "total": 7820.0
       }
     ],
     "labor": [
       {
         "description": "Marking of foundation layout at site",
-        "hours": 30,
-        "rate": 60,
-        "amount": 1800
+        "hours": 30.0,
+        "rate": 60.0,
+        "amount": 1800.0
       },
       {
         "description": "Earth excavation up to the required depth by machine",
-        "hours": 23,
-        "rate": 60,
-        "amount": 1380
+        "hours": 23.0,
+        "rate": 60.0,
+        "amount": 1380.0
       },
       {
         "description": "Earth excavation and levelling of soil by hand-operated tools",
-        "hours": 19,
-        "rate": 60,
-        "amount": 1140
+        "hours": 19.0,
+        "rate": 60.0,
+        "amount": 1140.0
       },
       {
         "description": "Placing of PCC",
-        "hours": 35,
-        "rate": 60,
-        "amount": 2100
+        "hours": 35.0,
+        "rate": 60.0,
+        "amount": 2100.0
       },
       {
         "description": "Placement of reinforcement steel",
-        "hours": 76,
-        "rate": 60,
-        "amount": 4560
+        "hours": 76.0,
+        "rate": 60.0,
+        "amount": 4560.0
       },
       {
         "description": "Erection of concrete formworks for footings",
-        "hours": 53,
-        "rate": 60,
-        "amount": 3180
+        "hours": 53.0,
+        "rate": 60.0,
+        "amount": 3180.0
       }
     ],
     "miscellaneousCharges": [
       {
         "description": "Transportation of materials",
-        "amount": 430
+        "amount": 430.0
       },
       {
         "description": "Consultations with architect",
-        "amount": 760
+        "amount": 760.0
       }
     ],
     "totals": {
-      "totalMaterials": 15790,
-      "totalLabor": 14160,
-      "totalMiscellaneous": 1190,
-      "subtotal": 31140,
+      "totalMaterials": 15790.0,
+      "totalLabor": 14160.0,
+      "totalMiscellaneous": 1190.0,
+      "subtotal": 31140.0,
       "taxRate": 3.8,
       "totalTax": 1183.32,
       "total": 32323.32
@@ -105,23 +105,26 @@
     "model": "gemini-3.5-flash",
     "doc_id": "yTRFKVPx",
     "usage": {
-      "promptTokenCount": 2133,
-      "candidatesTokenCount": 442,
-      "totalTokenCount": 4573,
+      "promptTokenCount": 2217,
+      "candidatesTokenCount": 850,
+      "totalTokenCount": 6082,
       "promptTokensDetails": [
         {
           "modality": "TEXT",
-          "tokenCount": 53
+          "tokenCount": 137
         },
         {
           "modality": "IMAGE",
           "tokenCount": 2080
         }
       ],
-      "thoughtsTokenCount": 1998,
+      "thoughtsTokenCount": 3015,
       "serviceTier": "standard"
     },
     "schema_mode": "gemini_response_schema_nullable_v1",
-    "input_mode": "inline_data"
+    "input_mode": "inline_data",
+    "guidelines_mode": "guidelines_txt_v1",
+    "guidelines_chars": 387,
+    "guidelines_sha256": "2d7f2c35a4a862d31cf95e45ba7af85d75941113ad9121f71f24dca8fc5923ec"
   }
 }

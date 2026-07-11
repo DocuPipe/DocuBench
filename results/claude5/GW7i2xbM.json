@@ -1,0 +1,80 @@
+{
+  "status": "ok",
+  "cost": 0.033663,
+  "time_sec": 7.21291708946228,
+  "data": {
+    "insurerName": "SAFE ALL INSURANCE COMPANY",
+    "policyNumber": "FHO295000",
+    "policyForm": "HO-3",
+    "policyEffectiveDate": "2020-03-28",
+    "policyExpirationDate": "2021-03-28",
+    "insuredName": "Estelle Clarion & James Delaney",
+    "insuredAddress": "596 Crossover Way, Clay, FL 17189-2021",
+    "totalAnnualPremium": 854.0,
+    "hurricanePremium": 297.0,
+    "nonHurricanePremium": 505.0,
+    "allOtherPerilsDeductible": 1000,
+    "hurricaneDeductiblePercentOfCoverageA": 2,
+    "hurricaneDeductibleAmount": 3200,
+    "coverages": [
+      {
+        "coverageLetter": "A",
+        "coverageName": "Dwelling",
+        "limitOfLiability": 160000
+      },
+      {
+        "coverageLetter": "B",
+        "coverageName": "Other Structures",
+        "limitOfLiability": 3200
+      },
+      {
+        "coverageLetter": "C",
+        "coverageName": "Personal Property",
+        "limitOfLiability": 104250
+      },
+      {
+        "coverageLetter": "D",
+        "coverageName": "Loss of Use",
+        "limitOfLiability": 20850
+      },
+      {
+        "coverageLetter": "E",
+        "coverageName": "Personal Liability",
+        "limitOfLiability": 100000
+      },
+      {
+        "coverageLetter": "F",
+        "coverageName": "Medical Payments",
+        "limitOfLiability": 1000
+      }
+    ]
+  },
+  "meta": {
+    "provider": "anthropic_bedrock",
+    "model": "claude-sonnet-5",
+    "bedrock_model_id": "global.anthropic.claude-sonnet-5",
+    "bedrock_region": "us-east-1",
+    "doc_id": "GW7i2xbM",
+    "response_id": "msg_bdrk_eynyibwkngtftlyfeix65ssgtcojlptaezzskye6mcmdtiuhwsfq",
+    "usage": {
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "input_tokens": 7601,
+      "output_tokens": 724,
+      "server_tool_use": null,
+      "service_tier": "standard",
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens_details": {
+        "thinking_tokens": 0
+      }
+    },
+    "schema_mode": "bedrock_tool_required_nonnullable_v1",
+    "input_mode": "pdf_document",
+    "guidelines_mode": "guidelines_txt_v1",
+    "guidelines_chars": 719,
+    "guidelines_sha256": "875bcffbf94188434e5bb9d11d026b7708cafbcb17b34cde6b8d3b1c67d45c74"
+  }
+}

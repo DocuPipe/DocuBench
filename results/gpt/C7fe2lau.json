@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "cost": null,
-  "time_sec": 10.196506023406982,
+  "time_sec": 5.164384126663208,
   "data": {
     "invoiceId": "Snippet1",
     "issueDate": "2017-11-13",
@@ -92,19 +92,23 @@
     "provider": "openai",
     "model": "gpt-5.5",
     "doc_id": "C7fe2lau",
-    "file_id": "file-XamTcQHiHkfJBhcZfzTLiJ",
-    "response_id": "resp_0ada4c2d50e2bf2d016a3e94a3b91881a2a3d0965f409ef912",
+    "file_id": "file-X9ouCjadUJvwvmV5UGdKnF",
+    "response_id": "resp_03827de49442d7ee016a47d296ef048191a8efab9963340fed",
     "usage": {
-      "input_tokens": 5295,
+      "input_tokens": 5475,
       "input_tokens_details": {
         "cached_tokens": 0
       },
-      "output_tokens": 729,
+      "output_tokens": 504,
       "output_tokens_details": {
-        "reasoning_tokens": 222
+        "reasoning_tokens": 0
       },
-      "total_tokens": 6024
+      "total_tokens": 5979
     },
-    "schema_mode": "openai_strict_nullable_v1"
+    "schema_mode": "openai_strict_nullable_v1",
+    "input_mode": "file",
+    "guidelines_mode": "guidelines_txt_v1",
+    "guidelines_chars": 888,
+    "guidelines_sha256": "c952ca57b4c68bc6c80d596bc70f07bc563212ee365856758ae25a2005b1c163"
   }
 }

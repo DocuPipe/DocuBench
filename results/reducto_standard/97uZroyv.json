@@ -1,0 +1,404 @@
+{
+  "score": 0.995260663507109,
+  "cost": 0.06,
+  "time_sec": 22.577696084976196,
+  "num_pages": 1,
+  "data": {
+    "sheetNumber": "BN",
+    "sheetTitle": "Schedules",
+    "doorSchedule": [
+      {
+        "mark": "101",
+        "doorType": "Exterior Glass Door",
+        "width": "3' - 0\"",
+        "height": "7' - 0\"",
+        "comments": ""
+      },
+      {
+        "mark": "102",
+        "doorType": "Solid Core Flush Door",
+        "width": "2' - 6\"",
+        "height": "7' - 0\"",
+        "comments": ""
+      },
+      {
+        "mark": "103",
+        "doorType": "Sliding Barn Door",
+        "width": "3' - 0\"",
+        "height": "7' - 0\"",
+        "comments": ""
+      },
+      {
+        "mark": "104",
+        "doorType": "Sliding Barn Door",
+        "width": "3' - 0\"",
+        "height": "7' - 0\"",
+        "comments": ""
+      },
+      {
+        "mark": "105",
+        "doorType": "Glass Door",
+        "width": "4' - 9 1/2\"",
+        "height": "6' - 8 1/4\"",
+        "comments": "In custom glazing system"
+      },
+      {
+        "mark": "106",
+        "doorType": "Cased Opening",
+        "width": "5' - 0\"",
+        "height": "7' - 0\"",
+        "comments": ""
+      },
+      {
+        "mark": "107",
+        "doorType": "Exterior Glass Door",
+        "width": "3' - 0\"",
+        "height": "7' - 0\"",
+        "comments": ""
+      },
+      {
+        "mark": "201",
+        "doorType": "Solid Core Flush Door",
+        "width": "2' - 6\"",
+        "height": "7' - 0\"",
+        "comments": ""
+      },
+      {
+        "mark": "203",
+        "doorType": "Solid Core Flush Door",
+        "width": "2' - 6\"",
+        "height": "7' - 0\"",
+        "comments": ""
+      },
+      {
+        "mark": "204",
+        "doorType": "Solid Core Flush Door",
+        "width": "2' - 6\"",
+        "height": "7' - 0\"",
+        "comments": ""
+      },
+      {
+        "mark": "205",
+        "doorType": "Solid Core Flush Door",
+        "width": "2' - 6\"",
+        "height": "7' - 0\"",
+        "comments": ""
+      },
+      {
+        "mark": "206",
+        "doorType": "Solid Core Flush Door",
+        "width": "2' - 6\"",
+        "height": "7' - 0\"",
+        "comments": ""
+      },
+      {
+        "mark": "207",
+        "doorType": "Sliding Closet Door",
+        "width": "5' - 8\"",
+        "height": "6' - 8\"",
+        "comments": ""
+      },
+      {
+        "mark": "208",
+        "doorType": "Cased Opening",
+        "width": "3' - 0\"",
+        "height": "6' - 8\"",
+        "comments": ""
+      },
+      {
+        "mark": "209",
+        "doorType": "Double Door",
+        "width": "3' - 6\"",
+        "height": "6' - 8\"",
+        "comments": ""
+      },
+      {
+        "mark": "210",
+        "doorType": "Cased Opening",
+        "width": "5' - 0\"",
+        "height": "7' - 0\"",
+        "comments": ""
+      },
+      {
+        "mark": "211",
+        "doorType": "Solid Core Flush Door",
+        "width": "2' - 6\"",
+        "height": "7' - 0\"",
+        "comments": ""
+      }
+    ],
+    "roomSchedule": [
+      {
+        "roomNo": "101",
+        "name": "HALL",
+        "area": "307 SF",
+        "perimeter": "89' - 6\"",
+        "floorFinish": "",
+        "wallFinish": "",
+        "ceilingFinish": "",
+        "comments": ""
+      },
+      {
+        "roomNo": "102",
+        "name": "DINING",
+        "area": "134 SF",
+        "perimeter": "47' - 0\"",
+        "floorFinish": "",
+        "wallFinish": "",
+        "ceilingFinish": "",
+        "comments": ""
+      },
+      {
+        "roomNo": "103",
+        "name": "KITCHEN",
+        "area": "172 SF",
+        "perimeter": "52' - 6\"",
+        "floorFinish": "",
+        "wallFinish": "",
+        "ceilingFinish": "",
+        "comments": ""
+      },
+      {
+        "roomNo": "104",
+        "name": "PANTRY",
+        "area": "37 SF",
+        "perimeter": "24' - 6\"",
+        "floorFinish": "",
+        "wallFinish": "",
+        "ceilingFinish": "",
+        "comments": ""
+      },
+      {
+        "roomNo": "105",
+        "name": "PWDER",
+        "area": "27 SF",
+        "perimeter": "20' - 6\"",
+        "floorFinish": "",
+        "wallFinish": "",
+        "ceilingFinish": "",
+        "comments": ""
+      },
+      {
+        "roomNo": "106",
+        "name": "LAUNDRY/MECH",
+        "area": "109 SF",
+        "perimeter": "42' - 6\"",
+        "floorFinish": "",
+        "wallFinish": "",
+        "ceilingFinish": "",
+        "comments": ""
+      },
+      {
+        "roomNo": "107",
+        "name": "LIVING ROOM",
+        "area": "370 SF",
+        "perimeter": "77' - 0\"",
+        "floorFinish": "",
+        "wallFinish": "",
+        "ceilingFinish": "",
+        "comments": ""
+      },
+      {
+        "roomNo": "108",
+        "name": "OFFICE",
+        "area": "348 SF",
+        "perimeter": "76' - 6\"",
+        "floorFinish": "",
+        "wallFinish": "",
+        "ceilingFinish": "",
+        "comments": ""
+      },
+      {
+        "roomNo": "201",
+        "name": "HALL",
+        "area": "122 SF",
+        "perimeter": "62' - 6\"",
+        "floorFinish": "",
+        "wallFinish": "",
+        "ceilingFinish": "",
+        "comments": ""
+      },
+      {
+        "roomNo": "202",
+        "name": "BATH",
+        "area": "40 SF",
+        "perimeter": "26' - 0\"",
+        "floorFinish": "",
+        "wallFinish": "",
+        "ceilingFinish": "",
+        "comments": ""
+      },
+      {
+        "roomNo": "203",
+        "name": "LIN",
+        "area": "9 SF",
+        "perimeter": "13' - 6\"",
+        "floorFinish": "",
+        "wallFinish": "",
+        "ceilingFinish": "",
+        "comments": ""
+      },
+      {
+        "roomNo": "204",
+        "name": "BEDROOM 2",
+        "area": "105 SF",
+        "perimeter": "42' - 0\"",
+        "floorFinish": "",
+        "wallFinish": "",
+        "ceilingFinish": "",
+        "comments": ""
+      },
+      {
+        "roomNo": "205",
+        "name": "MASTER BEDROOM",
+        "area": "174 SF",
+        "perimeter": "53' - 0\"",
+        "floorFinish": "",
+        "wallFinish": "",
+        "ceilingFinish": "",
+        "comments": ""
+      },
+      {
+        "roomNo": "206",
+        "name": "W.I.C.",
+        "area": "47 SF",
+        "perimeter": "29' - 0\"",
+        "floorFinish": "",
+        "wallFinish": "",
+        "ceilingFinish": "",
+        "comments": ""
+      },
+      {
+        "roomNo": "207",
+        "name": "BATHROOM",
+        "area": "75 SF",
+        "perimeter": "42' - 0\"",
+        "floorFinish": "",
+        "wallFinish": "",
+        "ceilingFinish": "",
+        "comments": ""
+      },
+      {
+        "roomNo": "208",
+        "name": "LOFT",
+        "area": "69 SF",
+        "perimeter": "33' - 6\"",
+        "floorFinish": "",
+        "wallFinish": "",
+        "ceilingFinish": "",
+        "comments": ""
+      },
+      {
+        "roomNo": "209",
+        "name": "STORAGE",
+        "area": "68 SF",
+        "perimeter": "33' - 6\"",
+        "floorFinish": "",
+        "wallFinish": "",
+        "ceilingFinish": "",
+        "comments": ""
+      }
+    ],
+    "windowSchedule": [
+      {
+        "mark": "A",
+        "type": "FIXED",
+        "quantity": 7,
+        "width": "3' - 0\"",
+        "height": "6' - 0\"",
+        "shgcMax": 0.4,
+        "uFactorMax": 0.35,
+        "tempered": false,
+        "comments": ""
+      },
+      {
+        "mark": "B",
+        "type": "FIXED",
+        "quantity": 3,
+        "width": "2' - 0\"",
+        "height": "6' - 0\"",
+        "shgcMax": 0.4,
+        "uFactorMax": 0.35,
+        "tempered": false,
+        "comments": ""
+      },
+      {
+        "mark": "C",
+        "type": "FIXED",
+        "quantity": 6,
+        "width": "4' - 0\"",
+        "height": "6' - 0\"",
+        "shgcMax": 0.4,
+        "uFactorMax": 0.35,
+        "tempered": false,
+        "comments": ""
+      },
+      {
+        "mark": "G",
+        "type": "FIXED",
+        "quantity": 1,
+        "width": "2' - 0\"",
+        "height": "5' - 0\"",
+        "shgcMax": 0.4,
+        "uFactorMax": 0.35,
+        "tempered": false,
+        "comments": ""
+      },
+      {
+        "mark": "H",
+        "type": "FIXED",
+        "quantity": 5,
+        "width": "3' - 0\"",
+        "height": "5' - 0\"",
+        "shgcMax": 0.4,
+        "uFactorMax": 0.35,
+        "tempered": false,
+        "comments": ""
+      },
+      {
+        "mark": "Ht",
+        "type": "FIXED",
+        "quantity": 1,
+        "width": "3' - 0\"",
+        "height": "5' - 0\"",
+        "shgcMax": 0.4,
+        "uFactorMax": 0.35,
+        "tempered": true,
+        "comments": ""
+      },
+      {
+        "mark": "J",
+        "type": "Casement",
+        "quantity": 4,
+        "width": "3' - 0\"",
+        "height": "5' - 0\"",
+        "shgcMax": 0.4,
+        "uFactorMax": 0.35,
+        "tempered": false,
+        "comments": ""
+      },
+      {
+        "mark": "K",
+        "type": "AWNING",
+        "quantity": 12,
+        "width": "3' - 0\"",
+        "height": "1' - 6\"",
+        "shgcMax": 0.4,
+        "uFactorMax": 0.35,
+        "tempered": false,
+        "comments": ""
+      },
+      {
+        "mark": "Kt",
+        "type": "AWNING",
+        "quantity": 1,
+        "width": "3' - 6\"",
+        "height": "1' - 6\"",
+        "shgcMax": 0.4,
+        "uFactorMax": 0.35,
+        "tempered": false,
+        "comments": ""
+      }
+    ]
+  }
+}

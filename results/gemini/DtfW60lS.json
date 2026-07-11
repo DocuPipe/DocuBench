@@ -1,13 +1,13 @@
 {
   "status": "ok",
   "cost": null,
-  "time_sec": 14.091244220733643,
+  "time_sec": 10.094274759292603,
   "data": {
     "numeroFactura": "21180613010076890",
     "cups": "ES 0021 0000 0474 4848 NZ",
     "periodoFacturacionStart": "2018-05-08",
     "periodoFacturacionEnd": "2018-06-10",
-    "consumoKwh": 350,
+    "consumoKwh": 350.0,
     "charges": [
       {
         "description": "ENERGÍA",
@@ -18,7 +18,7 @@
         "amount": 0.88
       },
       {
-        "description": "IVA 21% s/66,9",
+        "description": "IVA 21% s/66,9 €",
         "amount": 14.05
       }
     ],
@@ -31,23 +31,26 @@
     "model": "gemini-3.5-flash",
     "doc_id": "DtfW60lS",
     "usage": {
-      "promptTokenCount": 2183,
-      "candidatesTokenCount": 255,
-      "totalTokenCount": 4817,
+      "promptTokenCount": 2328,
+      "candidatesTokenCount": 259,
+      "totalTokenCount": 4206,
       "promptTokensDetails": [
-        {
-          "modality": "TEXT",
-          "tokenCount": 55
-        },
         {
           "modality": "IMAGE",
           "tokenCount": 2128
+        },
+        {
+          "modality": "TEXT",
+          "tokenCount": 200
         }
       ],
-      "thoughtsTokenCount": 2379,
+      "thoughtsTokenCount": 1619,
       "serviceTier": "standard"
     },
     "schema_mode": "gemini_response_schema_nullable_v1",
-    "input_mode": "inline_data"
+    "input_mode": "inline_data",
+    "guidelines_mode": "guidelines_txt_v1",
+    "guidelines_chars": 548,
+    "guidelines_sha256": "aefb6f419f8d61c2780cdf9ad14311f245f90578d9e807c4511c71a9109ec025"
   }
 }

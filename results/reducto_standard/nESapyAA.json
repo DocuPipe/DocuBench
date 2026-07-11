@@ -1,0 +1,38 @@
+{
+  "score": 0.8636363636363636,
+  "cost": 0.06,
+  "time_sec": 11.774821996688843,
+  "num_pages": 1,
+  "data": {
+    "documentType": "חשבונית מס / קבלה",
+    "documentNumber": "104880",
+    "issueDate": "2014-05-04",
+    "vendorName": "חשבונית ירוקה בע\"מ",
+    "vendorTaxId": "514756428",
+    "customerName": "אקו גור",
+    "customerAddress": "דובנוב 20 א' תל אביב",
+    "customerTaxId": "043549229",
+    "subscriptionPlan": "מנוי Starter שנתי",
+    "subtotalBeforeVat": 204,
+    "vatRatePercent": 18,
+    "vatAmount": 36.72,
+    "totalAmount": 240.72,
+    "currency": "NIS",
+    "lineItems": [
+      {
+        "description": "שנתי Starter מנוי",
+        "quantity": 1,
+        "unitPrice": 204,
+        "lineTotal": 204
+      }
+    ],
+    "payments": [
+      {
+        "paymentMethod": "אשראי",
+        "paymentDescription": "רגיל עסקה: סוג 8036, מאסטרקארד כרטיס:",
+        "paymentDate": "2014-05-04",
+        "paymentAmount": 240.72
+      }
+    ]
+  }
+}

@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "cost": null,
-  "time_sec": 36.594598054885864,
+  "time_sec": 41.4352388381958,
   "data": {
     "department": "横浜営業１課",
     "paymentDate": "2011年07月05日",
@@ -418,23 +418,26 @@
     "model": "gemini-3.5-flash",
     "doc_id": "45xidifn",
     "usage": {
-      "promptTokenCount": 587,
+      "promptTokenCount": 806,
       "candidatesTokenCount": 4198,
-      "totalTokenCount": 9038,
+      "totalTokenCount": 11150,
       "promptTokensDetails": [
-        {
-          "modality": "TEXT",
-          "tokenCount": 55
-        },
         {
           "modality": "IMAGE",
           "tokenCount": 532
+        },
+        {
+          "modality": "TEXT",
+          "tokenCount": 274
         }
       ],
-      "thoughtsTokenCount": 4253,
+      "thoughtsTokenCount": 6146,
       "serviceTier": "standard"
     },
     "schema_mode": "gemini_response_schema_nullable_v1",
-    "input_mode": "inline_data"
+    "input_mode": "inline_data",
+    "guidelines_mode": "guidelines_txt_v1",
+    "guidelines_chars": 849,
+    "guidelines_sha256": "bedb60af805f54786b49eba348be3822a2da6b7f52abbe4580d3d32338972eef"
   }
 }

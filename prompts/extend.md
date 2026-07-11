@@ -13,6 +13,7 @@ benchmark schema. The committed configuration is:
 - `baseProcessor: extraction_performance`
 - `baseVersion: 4.1.1`
 - `parseConfig.engine: parse_performance`
+- `extractionRules: guidelines/<doc_id>.txt` when the guideline file is non-empty
 
 ## Schema handling
 
@@ -32,8 +33,7 @@ Each run uploads the source file with a **fresh `file_id`** (the first `/extract
 file id caches the parse output, so reusing it would silently serve a stale parse) and
 creates a uniquely named extractor so the current schema is always used. The runner then
 calls `/extract`, polls `/extract_runs/<id>` until `PROCESSED`, and maps the output back
-to the original field names. Cost is derived from reported credits at
-`$0.0125`/credit.
+to the original field names. Cost is derived from reported credits at `$0.0125`/credit.
 
 ## Run knobs (environment)
 

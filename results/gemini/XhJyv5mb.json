@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "cost": null,
-  "time_sec": 50.542237281799316,
+  "time_sec": 26.14056706428528,
   "data": {
     "companyName": "DEG",
     "balanceSheetDate": "2022-12-31",
@@ -220,6 +220,10 @@
         "amount": 11802977
       },
       {
+        "lineItem": "14. Ergebnis nach Steuern",
+        "amount": 10662594
+      },
+      {
         "lineItem": "15. Sonstige Steuern",
         "amount": 412787
       },
@@ -234,9 +238,9 @@
     "model": "gemini-3.5-flash",
     "doc_id": "XhJyv5mb",
     "usage": {
-      "promptTokenCount": 1118,
-      "candidatesTokenCount": 2190,
-      "totalTokenCount": 13225,
+      "promptTokenCount": 1236,
+      "candidatesTokenCount": 2225,
+      "totalTokenCount": 7651,
       "promptTokensDetails": [
         {
           "modality": "IMAGE",
@@ -244,13 +248,16 @@
         },
         {
           "modality": "TEXT",
-          "tokenCount": 54
+          "tokenCount": 172
         }
       ],
-      "thoughtsTokenCount": 9917,
+      "thoughtsTokenCount": 4190,
       "serviceTier": "standard"
     },
     "schema_mode": "gemini_response_schema_nullable_v1",
-    "input_mode": "inline_data"
+    "input_mode": "inline_data",
+    "guidelines_mode": "guidelines_txt_v1",
+    "guidelines_chars": 453,
+    "guidelines_sha256": "5e54804af6738164f2504704605c5576965d8d554f76fcc281c56c14805187cb"
   }
 }

@@ -1,0 +1,1 @@
+Extract the billing period, meter reading, the electric charge line items, and the total electric bill. Do not include the total/summary row as a charge line. Charge amounts and meter values are numeric.

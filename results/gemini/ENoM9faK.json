@@ -1,13 +1,13 @@
 {
   "status": "ok",
   "cost": null,
-  "time_sec": 21.86282205581665,
+  "time_sec": 17.275556087493896,
   "data": {
     "drawingTitle": null,
     "drawingNumber": null,
     "revision": null,
     "organization": "Goddard Space Flight Center",
-    "location": "Greenbelt, Maryland",
+    "location": "GREENBELT, MARYLAND",
     "listOfMaterial": [
       {
         "itemNo": "14",
@@ -19,8 +19,8 @@
       {
         "itemNo": "13",
         "quantity": 4,
-        "partNo": "MS20500-1214",
-        "description": "NUT, 3/4-16 UNF-3B",
+        "partNo": "MS35308-314",
+        "description": "SCREW, CAP, HEXAGON HD",
         "material": "CRES"
       },
       {
@@ -33,8 +33,8 @@
       {
         "itemNo": "11",
         "quantity": 2,
-        "partNo": "MS35308-314",
-        "description": "SCREW, CAP, HEXAGON HD",
+        "partNo": "MS20500-1214",
+        "description": "NUT, 3/4-16 UNF-3B",
         "material": "CRES"
       },
       {
@@ -121,9 +121,9 @@
     "model": "gemini-3.5-flash",
     "doc_id": "ENoM9faK",
     "usage": {
-      "promptTokenCount": 574,
-      "candidatesTokenCount": 961,
-      "totalTokenCount": 5195,
+      "promptTokenCount": 766,
+      "candidatesTokenCount": 963,
+      "totalTokenCount": 4520,
       "promptTokensDetails": [
         {
           "modality": "IMAGE",
@@ -131,13 +131,16 @@
         },
         {
           "modality": "TEXT",
-          "tokenCount": 54
+          "tokenCount": 246
         }
       ],
-      "thoughtsTokenCount": 3660,
+      "thoughtsTokenCount": 2791,
       "serviceTier": "standard"
     },
     "schema_mode": "gemini_response_schema_nullable_v1",
-    "input_mode": "inline_data"
+    "input_mode": "inline_data",
+    "guidelines_mode": "guidelines_txt_v1",
+    "guidelines_chars": 845,
+    "guidelines_sha256": "a528fd4502c5c789386fbda6eccb06130da821b6259dcdd058be591e3e9889e5"
   }
 }

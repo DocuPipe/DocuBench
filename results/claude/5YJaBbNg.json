@@ -1,9 +1,9 @@
 {
   "status": "ok",
   "cost": null,
-  "time_sec": 23.507592916488647,
+  "time_sec": 21.679012060165405,
   "data": {
-    "companyName": null,
+    "companyName": "\bif",
     "balanceSheetDate": "2023-12-31",
     "balanceSheet": [
       {
@@ -169,20 +169,23 @@
     "provider": "anthropic",
     "model": "claude-sonnet-4-6",
     "doc_id": "5YJaBbNg",
-    "response_id": "msg_01URx86ZMqfRA9Q4ToWJAnuk",
+    "response_id": "msg_011bWxikN7PyzgCBmwsj1Z3k",
     "usage": {
-      "input_tokens": 5904,
+      "input_tokens": 5881,
       "cache_creation_input_tokens": 0,
       "cache_read_input_tokens": 0,
       "cache_creation": {
         "ephemeral_5m_input_tokens": 0,
         "ephemeral_1h_input_tokens": 0
       },
-      "output_tokens": 875,
+      "output_tokens": 877,
       "service_tier": "standard",
       "inference_geo": "global"
     },
-    "schema_mode": "anthropic_output_config_nullable_v1",
-    "input_mode": "pdf_document"
+    "schema_mode": "anthropic_output_config_required_nonnullable_v1",
+    "input_mode": "pdf_document",
+    "guidelines_mode": "guidelines_txt_v1",
+    "guidelines_chars": 419,
+    "guidelines_sha256": "4c052ec6e038641e1735aa16841d1783be480dff4403856964694d8c8d354f68"
   }
 }

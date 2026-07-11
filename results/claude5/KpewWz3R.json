@@ -1,0 +1,125 @@
+{
+  "status": "ok",
+  "cost": 0.17271,
+  "time_sec": 21.57332706451416,
+  "data": {
+    "assignmentType": "Purchase Transaction",
+    "bedrooms": 4,
+    "borrowerName": "Buyn, Ima",
+    "comparables": [
+      {
+        "comparableNumber": 1,
+        "address": "7403 Kempton St, Anytown, IL 604XX",
+        "proximityToSubject": "0.12 miles E",
+        "salePrice": 274323,
+        "salePricePerGla": 116.73,
+        "grossLivingAreaSqft": 2350,
+        "siteAreaSqft": 9450,
+        "locationAdjustment": 3000,
+        "glaAdjustment": 8280,
+        "conditionAdjustment": 0,
+        "netAdjustmentTotal": 20015,
+        "adjustedSalePrice": 294338
+      },
+      {
+        "comparableNumber": 2,
+        "address": "1501 Woodlily Ct, Anytown, IL 604XX",
+        "proximityToSubject": "0.44 miles W",
+        "salePrice": 297500,
+        "salePricePerGla": 129.35,
+        "grossLivingAreaSqft": 2300,
+        "siteAreaSqft": 9313,
+        "locationAdjustment": 0,
+        "glaAdjustment": 11280,
+        "conditionAdjustment": 0,
+        "netAdjustmentTotal": 12652,
+        "adjustedSalePrice": 310152
+      },
+      {
+        "comparableNumber": 3,
+        "address": "8110 Shady Oak Rd, Anytown, IL 604XX",
+        "proximityToSubject": "0.87 miles W",
+        "salePrice": 282000,
+        "salePricePerGla": 108.46,
+        "grossLivingAreaSqft": 2600,
+        "siteAreaSqft": 10092,
+        "locationAdjustment": 3000,
+        "glaAdjustment": -6720,
+        "conditionAdjustment": 5000,
+        "netAdjustmentTotal": -1130,
+        "adjustedSalePrice": 280870
+      },
+      {
+        "comparableNumber": 4,
+        "address": "1611 Seward Rd, Anytown, IL 604XX",
+        "proximityToSubject": "0.98 miles W",
+        "salePrice": 299900,
+        "salePricePerGla": 125.22,
+        "grossLivingAreaSqft": 2395,
+        "siteAreaSqft": 8125,
+        "locationAdjustment": 3000,
+        "glaAdjustment": 0,
+        "conditionAdjustment": 5000,
+        "netAdjustmentTotal": -1940,
+        "adjustedSalePrice": 297960
+      },
+      {
+        "comparableNumber": 5,
+        "address": "1411 Bellflower Ln, Anytown, IL 604XX",
+        "proximityToSubject": "0.52 miles W",
+        "salePrice": 289980,
+        "salePricePerGla": 119.33,
+        "grossLivingAreaSqft": 2430,
+        "siteAreaSqft": 9100,
+        "locationAdjustment": 3000,
+        "glaAdjustment": 0,
+        "conditionAdjustment": 0,
+        "netAdjustmentTotal": 13525,
+        "adjustedSalePrice": 303505
+      }
+    ],
+    "contractPrice": 289250,
+    "county": "Kendall",
+    "finalAppraisedValue": 295000,
+    "grossLivingAreaSqft": 2488,
+    "indicatedValueByCostApproach": 342076,
+    "indicatedValueBySalesComparison": 295000,
+    "lenderClientName": "XYZ Financial Inc.",
+    "propertyRightsAppraised": "Fee Simple",
+    "siteAreaSqft": 10685,
+    "subjectCity": "Anytown",
+    "subjectPropertyAddress": "1517 Main Ct",
+    "subjectState": "IL",
+    "subjectZip": "604XX",
+    "totalRooms": 8,
+    "yearBuilt": 2017
+  },
+  "meta": {
+    "provider": "anthropic_bedrock",
+    "model": "claude-sonnet-5",
+    "bedrock_model_id": "global.anthropic.claude-sonnet-5",
+    "bedrock_region": "us-east-1",
+    "doc_id": "KpewWz3R",
+    "response_id": "msg_bdrk_274qeozoodvxsp6dbxwwyy5utdvth5zhf7c2o3pvowq2ax4qcrsa",
+    "usage": {
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "input_tokens": 50445,
+      "output_tokens": 1425,
+      "server_tool_use": null,
+      "service_tier": "standard",
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens_details": {
+        "thinking_tokens": 0
+      }
+    },
+    "schema_mode": "bedrock_tool_required_nonnullable_v1",
+    "input_mode": "pdf_document",
+    "guidelines_mode": "guidelines_txt_v1",
+    "guidelines_chars": 1021,
+    "guidelines_sha256": "f08fd5eba5a41006014ebd6977cf77df8e3c390c7482a074412b2b2e6aaadc9e"
+  }
+}

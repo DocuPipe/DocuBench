@@ -1,0 +1,124 @@
+{
+  "status": "ok",
+  "cost": 0.031839,
+  "time_sec": 8.472230911254883,
+  "data": {
+    "fileReference": "8430713-15",
+    "investmentAmount": 52.0,
+    "savingsAllowance": 15.6,
+    "deductionRows": [
+      {
+        "accountingMonth": "05",
+        "incomeTax": 329.4,
+        "healthInsurance": 116.82,
+        "pensionInsurance": 175.23,
+        "unemploymentInsurance": 29.21
+      },
+      {
+        "accountingMonth": "05",
+        "incomeTax": -9.3,
+        "healthInsurance": -1.56,
+        "pensionInsurance": -2.34,
+        "unemploymentInsurance": -0.39
+      },
+      {
+        "accountingMonth": "06",
+        "incomeTax": 329.4,
+        "healthInsurance": 116.82,
+        "pensionInsurance": 175.23,
+        "unemploymentInsurance": 29.21
+      },
+      {
+        "accountingMonth": "06",
+        "incomeTax": -9.3,
+        "healthInsurance": -1.56,
+        "pensionInsurance": -2.34,
+        "unemploymentInsurance": -0.39
+      },
+      {
+        "accountingMonth": "07",
+        "incomeTax": 358.7,
+        "healthInsurance": 122.04,
+        "pensionInsurance": 183.06,
+        "unemploymentInsurance": 30.51
+      },
+      {
+        "accountingMonth": "07",
+        "incomeTax": -8.7,
+        "healthInsurance": -1.56,
+        "pensionInsurance": -2.34,
+        "unemploymentInsurance": -0.39
+      },
+      {
+        "accountingMonth": "08",
+        "incomeTax": 350.0,
+        "healthInsurance": 120.48,
+        "pensionInsurance": 180.72,
+        "unemploymentInsurance": 30.12
+      },
+      {
+        "accountingMonth": "09",
+        "incomeTax": 350.0,
+        "healthInsurance": 120.48,
+        "pensionInsurance": 180.72,
+        "unemploymentInsurance": 30.12
+      },
+      {
+        "accountingMonth": "10",
+        "incomeTax": 350.0,
+        "healthInsurance": 120.48,
+        "pensionInsurance": 180.72,
+        "unemploymentInsurance": 30.12
+      },
+      {
+        "accountingMonth": "11",
+        "incomeTax": 350.0,
+        "healthInsurance": 139.5,
+        "pensionInsurance": 279.0,
+        "unemploymentInsurance": 46.5
+      },
+      {
+        "accountingMonth": null,
+        "incomeTax": 390.0,
+        "healthInsurance": null,
+        "pensionInsurance": null,
+        "unemploymentInsurance": null
+      },
+      {
+        "accountingMonth": "12",
+        "incomeTax": 315.9,
+        "healthInsurance": 120.48,
+        "pensionInsurance": 180.72,
+        "unemploymentInsurance": 30.12
+      }
+    ]
+  },
+  "meta": {
+    "provider": "anthropic_bedrock",
+    "model": "claude-sonnet-5",
+    "bedrock_model_id": "global.anthropic.claude-sonnet-5",
+    "bedrock_region": "us-east-1",
+    "doc_id": "wVafMvAC",
+    "response_id": "msg_bdrk_k7z7w56qpngsjkxmjgxezclo35j36dioj4cdk7bn473femx27tuq",
+    "usage": {
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "input_tokens": 6188,
+      "output_tokens": 885,
+      "server_tool_use": null,
+      "service_tier": "standard",
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens_details": {
+        "thinking_tokens": 0
+      }
+    },
+    "schema_mode": "bedrock_tool_required_nonnullable_v1",
+    "input_mode": "image",
+    "guidelines_mode": "guidelines_txt_v1",
+    "guidelines_chars": 206,
+    "guidelines_sha256": "8f2cd9de80e5592215840973161377c7c683b308a84ea8fdcec08a08cc039fdb"
+  }
+}

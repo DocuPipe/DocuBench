@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "cost": null,
-  "time_sec": 7.983162879943848,
+  "time_sec": 6.787603855133057,
   "data": {
     "billingPeriodStart": "2021-09-18",
     "billingPeriodEnd": "2021-10-18",
@@ -32,19 +32,23 @@
     "provider": "openai",
     "model": "gpt-5.5",
     "doc_id": "PSU5pciM",
-    "file_id": "file-KuWpL2wAT4qCnKGfcuTEdL",
-    "response_id": "resp_0f01591e7dac71a6016a3e96312b6c81a380ab616f2381465c",
+    "file_id": "file-G9cCydwcLeaZxxw4kLZXEJ",
+    "response_id": "resp_09f14c288c202d31016a47d4466694819db2dbf3ba353f4bc5",
     "usage": {
-      "input_tokens": 2311,
+      "input_tokens": 2355,
       "input_tokens_details": {
         "cached_tokens": 0
       },
-      "output_tokens": 312,
+      "output_tokens": 297,
       "output_tokens_details": {
-        "reasoning_tokens": 163
+        "reasoning_tokens": 149
       },
-      "total_tokens": 2623
+      "total_tokens": 2652
     },
-    "schema_mode": "openai_strict_nullable_v1"
+    "schema_mode": "openai_strict_nullable_v1",
+    "input_mode": "file",
+    "guidelines_mode": "guidelines_txt_v1",
+    "guidelines_chars": 203,
+    "guidelines_sha256": "41c2bf6a07cddd250c68c0afd93c8d12e5f16aa1e30869f05797f019e9f952d8"
   }
 }

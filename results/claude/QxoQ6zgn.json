@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "cost": null,
-  "time_sec": 13.522821187973022,
+  "time_sec": 12.148325204849243,
   "data": {
     "productCategory": "POWDER DETERGENT",
     "items": [
@@ -65,20 +65,23 @@
     "provider": "anthropic",
     "model": "claude-sonnet-4-6",
     "doc_id": "QxoQ6zgn",
-    "response_id": "msg_01Fxff9FgCsaGMJojBiMhWrv",
+    "response_id": "msg_018cptpG5qMmsT5W5SNvBBV8",
     "usage": {
-      "input_tokens": 2765,
+      "input_tokens": 2847,
       "cache_creation_input_tokens": 0,
       "cache_read_input_tokens": 0,
       "cache_creation": {
         "ephemeral_5m_input_tokens": 0,
         "ephemeral_1h_input_tokens": 0
       },
-      "output_tokens": 567,
+      "output_tokens": 566,
       "service_tier": "standard",
       "inference_geo": "global"
     },
-    "schema_mode": "anthropic_output_config_nullable_v1",
-    "input_mode": "pdf_document"
+    "schema_mode": "anthropic_output_config_required_nonnullable_v1",
+    "input_mode": "pdf_document",
+    "guidelines_mode": "guidelines_txt_v1",
+    "guidelines_chars": 604,
+    "guidelines_sha256": "db7e79674d5a40bbff88452c0b52c68271256668b52fb1c8cfe11e783c31d649"
   }
 }

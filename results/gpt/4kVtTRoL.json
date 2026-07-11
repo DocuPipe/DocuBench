@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "cost": null,
-  "time_sec": 172.0894808769226,
+  "time_sec": 129.05495309829712,
   "data": {
     "statementMonth": "September 2015",
     "salesTotal": 85952.25,
@@ -15,7 +15,7 @@
     "amountDebited": 523.46,
     "depositsByDay": [
       {
-        "datePosted": "09/01",
+        "datePosted": "2015-09-01",
         "referenceNumber": "24489774",
         "tickets": 5,
         "grossAmount": 1661,
@@ -25,7 +25,7 @@
         "settledAmount": 1192.06
       },
       {
-        "datePosted": "09/02",
+        "datePosted": "2015-09-02",
         "referenceNumber": "24573664",
         "tickets": 16,
         "grossAmount": 4617,
@@ -35,8 +35,8 @@
         "settledAmount": 3888
       },
       {
-        "datePosted": "09/03",
-        "referenceNumber": "24604525",
+        "datePosted": "2015-09-03",
+        "referenceNumber": "24684525",
         "tickets": 10,
         "grossAmount": 4094,
         "adjustments": 499,
@@ -45,17 +45,17 @@
         "settledAmount": 3369.08
       },
       {
-        "datePosted": "09/04",
+        "datePosted": "2015-09-04",
         "referenceNumber": "24777299",
         "tickets": 4,
         "grossAmount": 1248,
         "adjustments": 0,
         "nonSettlement": 0,
-        "discount": 73.08,
+        "discount": 73.98,
         "settledAmount": 1174.92
       },
       {
-        "datePosted": "09/08",
+        "datePosted": "2015-09-08",
         "referenceNumber": "24805039",
         "tickets": 1,
         "grossAmount": 899,
@@ -65,17 +65,17 @@
         "settledAmount": 844.66
       },
       {
-        "datePosted": "09/08",
-        "referenceNumber": "24906074",
-        "tickets": 30,
+        "datePosted": "2015-09-08",
+        "referenceNumber": "24960674",
+        "tickets": 37,
         "grossAmount": 11703.5,
         "adjustments": 0,
         "nonSettlement": 607,
-        "discount": 635.65,
+        "discount": 636.65,
         "settledAmount": 10460.85
       },
       {
-        "datePosted": "09/10",
+        "datePosted": "2015-09-10",
         "referenceNumber": "25355620",
         "tickets": 1,
         "grossAmount": 399,
@@ -85,17 +85,17 @@
         "settledAmount": 0
       },
       {
-        "datePosted": "09/10",
-        "referenceNumber": "25418940",
+        "datePosted": "2015-09-10",
+        "referenceNumber": "25416940",
         "tickets": 19,
         "grossAmount": 6612.75,
         "adjustments": 0,
         "nonSettlement": 325,
-        "discount": 306.76,
-        "settledAmount": 5981.99
+        "discount": 308.76,
+        "settledAmount": 5978.99
       },
       {
-        "datePosted": "09/14",
+        "datePosted": "2015-09-14",
         "referenceNumber": "25416959",
         "tickets": 1,
         "grossAmount": 0,
@@ -105,7 +105,7 @@
         "settledAmount": -399
       },
       {
-        "datePosted": "09/14",
+        "datePosted": "2015-09-14",
         "referenceNumber": "25637025",
         "tickets": 19,
         "grossAmount": 6276.5,
@@ -115,7 +115,7 @@
         "settledAmount": 5910.95
       },
       {
-        "datePosted": "09/18",
+        "datePosted": "2015-09-18",
         "referenceNumber": "26105556",
         "tickets": 30,
         "grossAmount": 11069.5,
@@ -125,7 +125,7 @@
         "settledAmount": 9033.26
       },
       {
-        "datePosted": "09/21",
+        "datePosted": "2015-09-21",
         "referenceNumber": "26203377",
         "tickets": 12,
         "grossAmount": 4190,
@@ -135,7 +135,7 @@
         "settledAmount": 3487.77
       },
       {
-        "datePosted": "09/21",
+        "datePosted": "2015-09-21",
         "referenceNumber": "26328245",
         "tickets": 18,
         "grossAmount": 5210,
@@ -145,7 +145,7 @@
         "settledAmount": 4230.85
       },
       {
-        "datePosted": "09/22",
+        "datePosted": "2015-09-22",
         "referenceNumber": "26540152",
         "tickets": 1,
         "grossAmount": 299,
@@ -155,7 +155,7 @@
         "settledAmount": 280.81
       },
       {
-        "datePosted": "09/23",
+        "datePosted": "2015-09-23",
         "referenceNumber": "26671467",
         "tickets": 11,
         "grossAmount": 5082,
@@ -165,17 +165,17 @@
         "settledAmount": 3475.23
       },
       {
-        "datePosted": "09/25",
+        "datePosted": "2015-09-25",
         "referenceNumber": "26853884",
-        "tickets": 29,
+        "tickets": 25,
         "grossAmount": 9308,
         "adjustments": 0,
         "nonSettlement": 425,
-        "discount": 518.08,
-        "settledAmount": 8362.92
+        "discount": 516.08,
+        "settledAmount": 8366.92
       },
       {
-        "datePosted": "09/28",
+        "datePosted": "2015-09-28",
         "referenceNumber": "27078496",
         "tickets": 38,
         "grossAmount": 13284,
@@ -185,14 +185,14 @@
         "settledAmount": 11860.88
       },
       {
-        "datePosted": "09/30",
+        "datePosted": "2015-09-30",
         "referenceNumber": "27883009",
         "tickets": 1,
         "grossAmount": 0,
         "adjustments": 454,
         "nonSettlement": 0,
-        "discount": 0,
-        "settledAmount": -454
+        "discount": -6.51,
+        "settledAmount": -447.49
       }
     ],
     "cardSummaryByType": [
@@ -242,7 +242,7 @@
         "feeAmount": 28.71
       },
       {
-        "description": "VISB",
+        "description": "VISA",
         "items": 1,
         "amount": 348,
         "averageTicket": 348,
@@ -287,7 +287,7 @@
         "feeAmount": 85.43
       },
       {
-        "description": "VPP",
+        "description": "VIPP",
         "items": 2,
         "amount": 399,
         "averageTicket": 199.5,
@@ -478,67 +478,67 @@
     ],
     "chargebacks": [
       {
-        "datePosted": "09/08",
-        "chargebackDate": "09/08",
+        "datePosted": "2015-09-08",
+        "chargebackDate": "2015-09-08",
         "referenceNumber": "21301980",
         "tickets": 1,
         "amount": 0,
         "adjustments": 499,
-        "settledAmount": -499
+        "settledAmount": 499
       },
       {
-        "datePosted": "09/14",
-        "chargebackDate": "09/14",
+        "datePosted": "2015-09-14",
+        "chargebackDate": "2015-09-14",
         "referenceNumber": "25500747",
         "tickets": 1,
         "amount": 458,
         "adjustments": 0,
-        "settledAmount": 458
+        "settledAmount": -458
       },
       {
-        "datePosted": "09/15",
-        "chargebackDate": "09/15",
+        "datePosted": "2015-09-15",
+        "chargebackDate": "2015-09-15",
         "referenceNumber": "22000996",
         "tickets": 1,
-        "amount": 399,
+        "amount": 0,
         "adjustments": 399,
-        "settledAmount": 0
+        "settledAmount": 399
       },
       {
-        "datePosted": "09/16",
-        "chargebackDate": "09/16",
+        "datePosted": "2015-09-16",
+        "chargebackDate": "2015-09-16",
         "referenceNumber": "25800429",
         "tickets": 1,
         "amount": 399,
         "adjustments": 0,
-        "settledAmount": 399
+        "settledAmount": -399
       },
       {
-        "datePosted": "09/23",
-        "chargebackDate": "09/23",
+        "datePosted": "2015-09-23",
+        "chargebackDate": "2015-09-23",
         "referenceNumber": "26500204",
         "tickets": 1,
         "amount": 219,
         "adjustments": 0,
-        "settledAmount": 219
+        "settledAmount": -219
       },
       {
-        "datePosted": "09/29",
-        "chargebackDate": "09/28",
+        "datePosted": "2015-09-29",
+        "chargebackDate": "2015-09-28",
         "referenceNumber": "26802367",
         "tickets": 1,
-        "amount": 399,
+        "amount": 798,
         "adjustments": 0,
-        "settledAmount": 399
+        "settledAmount": -798
       },
       {
-        "datePosted": "09/29",
-        "chargebackDate": "09/28",
+        "datePosted": "2015-09-29",
+        "chargebackDate": "2015-09-28",
         "referenceNumber": "26902387",
         "tickets": 1,
         "amount": 399,
         "adjustments": 0,
-        "settledAmount": 399
+        "settledAmount": -399
       }
     ]
   },
@@ -546,19 +546,23 @@
     "provider": "openai",
     "model": "gpt-5.5",
     "doc_id": "4kVtTRoL",
-    "file_id": "file-VXLggAYYKnt1Gkgf6HA4c1",
-    "response_id": "resp_09d956ca47b61c94016a3e9352fdc481a0abc077820d7f42d9",
+    "file_id": "file-X9aCV3wKmVYSiwWhVBhc2A",
+    "response_id": "resp_0b487eef3e418a99016a47d0f689d0819f84fec14159d223c6",
     "usage": {
-      "input_tokens": 5478,
+      "input_tokens": 5689,
       "input_tokens_details": {
         "cached_tokens": 0
       },
-      "output_tokens": 11468,
+      "output_tokens": 9404,
       "output_tokens_details": {
-        "reasoning_tokens": 8900
+        "reasoning_tokens": 6732
       },
-      "total_tokens": 16946
+      "total_tokens": 15093
     },
-    "schema_mode": "openai_strict_nullable_v1"
+    "schema_mode": "openai_strict_nullable_v1",
+    "input_mode": "file",
+    "guidelines_mode": "guidelines_txt_v1",
+    "guidelines_chars": 947,
+    "guidelines_sha256": "d9dce74869586c8dd0dc859ca1c25e28e4dc0bb460e2b65fe87efc5842ff62e5"
   }
 }

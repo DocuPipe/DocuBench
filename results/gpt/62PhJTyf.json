@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "cost": null,
-  "time_sec": 40.66448092460632,
+  "time_sec": 45.584951639175415,
   "data": {
     "companyName": "Voorbeeld onderneming te Hoofddorp",
     "balanceSheetDate": "2015-12-31",
@@ -153,19 +153,23 @@
     "provider": "openai",
     "model": "gpt-5.5",
     "doc_id": "62PhJTyf",
-    "file_id": "file-MPRkC9tLZskoy5wG9Pocus",
-    "response_id": "resp_09f38df96dacd759016a3e94222d0081918a02caa58c64411b",
+    "file_id": "file-Up5o46dRthLaSvDS3rsXVL",
+    "response_id": "resp_0cff82b1eb54b71a016a47d19e2c4881a3bc7ebe52104e18a6",
     "usage": {
-      "input_tokens": 1548,
+      "input_tokens": 1675,
       "input_tokens_details": {
         "cached_tokens": 0
       },
-      "output_tokens": 2436,
+      "output_tokens": 3176,
       "output_tokens_details": {
-        "reasoning_tokens": 1847
+        "reasoning_tokens": 2588
       },
-      "total_tokens": 3984
+      "total_tokens": 4851
     },
-    "schema_mode": "openai_strict_nullable_v1"
+    "schema_mode": "openai_strict_nullable_v1",
+    "input_mode": "file",
+    "guidelines_mode": "guidelines_txt_v1",
+    "guidelines_chars": 607,
+    "guidelines_sha256": "12347b5a9c9d4be2acf0f027b2e6cf258c5f852038b977941d293e6846a0d604"
   }
 }

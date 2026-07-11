@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "cost": null,
-  "time_sec": 28.931806802749634,
+  "time_sec": 31.974117755889893,
   "data": {
     "payPeriodMonth": 9,
     "payPeriodYear": 2008,
@@ -32,7 +32,7 @@
         "difference": null
       },
       {
-        "description": "מק. נסיעות בתפק.",
+        "description": "מ. פיצויים בהפק.",
         "amount": 154,
         "difference": null
       }
@@ -44,17 +44,17 @@
         "difference": null
       },
       {
-        "description": "ק.השתל(ארג)ב\"ל",
+        "description": "ק.השתל.(ארג)ב\"ל",
         "amount": 505.89,
         "difference": null
       },
       {
-        "description": "ביטוח לאומי",
+        "description": "בטוח לאומי",
         "amount": 595.71,
         "difference": null
       },
       {
-        "description": "ביטוח בריאות",
+        "description": "בטוח בריאות",
         "amount": 554.91,
         "difference": null
       },
@@ -75,18 +75,21 @@
     "model": "gpt-5.5",
     "doc_id": "SBR9L7Y8",
     "file_id": null,
-    "response_id": "resp_05d0b14f1c9164c5016a3e964c8fd8819c932d2d374487ffa0",
+    "response_id": "resp_02da4c9da83ca258016a47d46834c8819c87496d08d707dca8",
     "usage": {
-      "input_tokens": 1181,
+      "input_tokens": 1180,
       "input_tokens_details": {
         "cached_tokens": 0
       },
-      "output_tokens": 1835,
+      "output_tokens": 1833,
       "output_tokens_details": {
         "reasoning_tokens": 1552
       },
-      "total_tokens": 3016
+      "total_tokens": 3013
     },
-    "schema_mode": "openai_strict_nullable_v1"
+    "schema_mode": "openai_strict_nullable_v1",
+    "input_mode": "image",
+    "guidelines_mode": "none",
+    "guidelines_chars": 0
   }
 }

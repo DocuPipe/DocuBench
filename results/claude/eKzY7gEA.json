@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "cost": null,
-  "time_sec": 14.539697885513306,
+  "time_sec": 11.879826307296753,
   "data": {
     "patientName": "Robert J. Sample",
     "mrn": "00471829",
@@ -72,9 +72,9 @@
     "provider": "anthropic",
     "model": "claude-sonnet-4-6",
     "doc_id": "eKzY7gEA",
-    "response_id": "msg_01MqCrXTqydzbkWdeou4phVj",
+    "response_id": "msg_01Di6kUEJengDu8QUaceiBNt",
     "usage": {
-      "input_tokens": 1778,
+      "input_tokens": 1658,
       "cache_creation_input_tokens": 0,
       "cache_read_input_tokens": 0,
       "cache_creation": {
@@ -85,7 +85,10 @@
       "service_tier": "standard",
       "inference_geo": "global"
     },
-    "schema_mode": "anthropic_output_config_nullable_v1",
-    "input_mode": "text"
+    "schema_mode": "anthropic_output_config_required_nonnullable_v1",
+    "input_mode": "text",
+    "guidelines_mode": "guidelines_txt_v1",
+    "guidelines_chars": 413,
+    "guidelines_sha256": "46e6b58b53cb9bcae1fbfe1144a9ad1183b5412a4af59c1e291c82af2cf04611"
   }
 }

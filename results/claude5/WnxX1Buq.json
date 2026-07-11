@@ -1,0 +1,103 @@
+{
+  "status": "ok",
+  "cost": 0.085089,
+  "time_sec": 11.083343029022217,
+  "data": {
+    "accountNumber": "1023456789-0",
+    "statementDate": "2026-03-15",
+    "dueDate": "2026-04-06",
+    "serviceAddress": "1234 Main Street",
+    "serviceAgreementId": "9087654321",
+    "rateSchedule": "EV2A Home Charging",
+    "previousUnpaidBalance": 13.2,
+    "currentElectricMonthlyCharges": 17.9,
+    "totalAmountDue": 31.1,
+    "ytdNemChargesBeforeTaxes": -4.84,
+    "totalElectricMinimumDeliveryCharges": 17.62,
+    "ytdEstimatedNemChargesAtTrueUp": 0.0,
+    "meterNumber": "1098765432",
+    "meterImportsKwh": 13.3768,
+    "meterExportsKwh": -19.828,
+    "meterNetUsageKwh": -6.4512,
+    "nemCharges": [
+      {
+        "billPeriodEndDate": "2026-02-15",
+        "netUsageKwh": -6,
+        "estimatedNemChargesBeforeTaxes": -2.42,
+        "estimatedTotalNemCharges": -2.55
+      },
+      {
+        "billPeriodEndDate": "2026-03-15",
+        "netUsageKwh": -6,
+        "estimatedNemChargesBeforeTaxes": -2.42,
+        "estimatedTotalNemCharges": -2.55
+      }
+    ],
+    "monthlyChargeLines": [
+      {
+        "chargeType": "Minimum Delivery Charge",
+        "days": 13,
+        "rate": 0.39167,
+        "amount": 5.09
+      },
+      {
+        "chargeType": "San Jose Utility Users' Tax",
+        "days": null,
+        "rate": null,
+        "amount": 0.25
+      },
+      {
+        "chargeType": "San Jose Franchise Surcharge",
+        "days": null,
+        "rate": null,
+        "amount": 0.02
+      },
+      {
+        "chargeType": "Base Services Charge",
+        "days": 15,
+        "rate": 0.7935,
+        "amount": 11.9
+      },
+      {
+        "chargeType": "San Jose Utility Users' Tax",
+        "days": null,
+        "rate": null,
+        "amount": 0.6
+      },
+      {
+        "chargeType": "San Jose Franchise Surcharge",
+        "days": null,
+        "rate": null,
+        "amount": 0.04
+      }
+    ]
+  },
+  "meta": {
+    "provider": "anthropic_bedrock",
+    "model": "claude-sonnet-5",
+    "bedrock_model_id": "global.anthropic.claude-sonnet-5",
+    "bedrock_region": "us-east-1",
+    "doc_id": "WnxX1Buq",
+    "response_id": "msg_bdrk_dpvhs3acutonhkebex5ndk3lydblem7mn2n7bvw3wmi535htthxq",
+    "usage": {
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "input_tokens": 23288,
+      "output_tokens": 1015,
+      "server_tool_use": null,
+      "service_tier": "standard",
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens_details": {
+        "thinking_tokens": 0
+      }
+    },
+    "schema_mode": "bedrock_tool_required_nonnullable_v1",
+    "input_mode": "pdf_document",
+    "guidelines_mode": "guidelines_txt_v1",
+    "guidelines_chars": 839,
+    "guidelines_sha256": "949c8aded0d406623c8ed79b893b6ba6f58622428343501d12896bde3baedf50"
+  }
+}

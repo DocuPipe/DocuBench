@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "cost": null,
-  "time_sec": 26.99665403366089,
+  "time_sec": 19.833482027053833,
   "data": {
     "sheetNumber": "CS002",
     "sheetTitle": "Schedules",
@@ -307,7 +307,7 @@
         "height": "6' - 0\"",
         "shgcMax": 0.4,
         "uFactorMax": 0.35,
-        "tempered": null,
+        "tempered": false,
         "comments": null
       },
       {
@@ -318,7 +318,7 @@
         "height": "6' - 0\"",
         "shgcMax": 0.4,
         "uFactorMax": 0.35,
-        "tempered": null,
+        "tempered": false,
         "comments": null
       },
       {
@@ -329,7 +329,7 @@
         "height": "6' - 0\"",
         "shgcMax": 0.4,
         "uFactorMax": 0.35,
-        "tempered": null,
+        "tempered": false,
         "comments": null
       },
       {
@@ -340,7 +340,7 @@
         "height": "5' - 0\"",
         "shgcMax": 0.4,
         "uFactorMax": 0.35,
-        "tempered": null,
+        "tempered": false,
         "comments": null
       },
       {
@@ -351,7 +351,7 @@
         "height": "5' - 0\"",
         "shgcMax": 0.4,
         "uFactorMax": 0.35,
-        "tempered": null,
+        "tempered": false,
         "comments": null
       },
       {
@@ -373,7 +373,7 @@
         "height": "5' - 0\"",
         "shgcMax": 0.4,
         "uFactorMax": 0.35,
-        "tempered": null,
+        "tempered": false,
         "comments": null
       },
       {
@@ -384,7 +384,7 @@
         "height": "1' - 6\"",
         "shgcMax": 0.4,
         "uFactorMax": 0.35,
-        "tempered": null,
+        "tempered": false,
         "comments": null
       },
       {
@@ -395,7 +395,7 @@
         "height": "1' - 6\"",
         "shgcMax": 0.4,
         "uFactorMax": 0.35,
-        "tempered": null,
+        "tempered": false,
         "comments": null
       }
     ]
@@ -404,19 +404,23 @@
     "provider": "openai",
     "model": "gpt-5.5",
     "doc_id": "97uZroyv",
-    "file_id": "file-GhP1Fs3z4SructvGrxnaNW",
-    "response_id": "resp_039d33ab1953f411016a3e944e24e0819eb974504c1c5b984c",
+    "file_id": "file-A9KwSnsvKkcScK6xEGBFC6",
+    "response_id": "resp_0515a674941bca73016a47d1def674819f9b9a9f53dbc79153",
     "usage": {
-      "input_tokens": 2664,
+      "input_tokens": 2807,
       "input_tokens_details": {
         "cached_tokens": 0
       },
-      "output_tokens": 2169,
+      "output_tokens": 2016,
       "output_tokens_details": {
-        "reasoning_tokens": 267
+        "reasoning_tokens": 115
       },
-      "total_tokens": 4833
+      "total_tokens": 4823
     },
-    "schema_mode": "openai_strict_nullable_v1"
+    "schema_mode": "openai_strict_nullable_v1",
+    "input_mode": "file",
+    "guidelines_mode": "guidelines_txt_v1",
+    "guidelines_chars": 582,
+    "guidelines_sha256": "ad15cf4a6f8f7042e0cb156c83a77b2e34dcbe2df405810b6ef858ecec759d59"
   }
 }

@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "cost": null,
-  "time_sec": 20.556342840194702,
+  "time_sec": 17.92998504638672,
   "data": {
     "companyName": null,
     "balanceSheetDate": "2023-12-31",
@@ -169,19 +169,23 @@
     "provider": "openai",
     "model": "gpt-5.5",
     "doc_id": "5YJaBbNg",
-    "file_id": "file-HHmjxFaVL6hrwAfCVYEsnb",
-    "response_id": "resp_0cae7b9f87f013c9016a3e93f889c481a1a2a7c0b12a6add3a",
+    "file_id": "file-Hxod7m6hoRNCJhtbB8UAJv",
+    "response_id": "resp_018c2072d7cd00f0016a47d173b9dc81a3affc3ac3907a1bd6",
     "usage": {
-      "input_tokens": 3930,
+      "input_tokens": 4026,
       "input_tokens_details": {
         "cached_tokens": 0
       },
-      "output_tokens": 1216,
+      "output_tokens": 1271,
       "output_tokens_details": {
-        "reasoning_tokens": 460
+        "reasoning_tokens": 516
       },
-      "total_tokens": 5146
+      "total_tokens": 5297
     },
-    "schema_mode": "openai_strict_nullable_v1"
+    "schema_mode": "openai_strict_nullable_v1",
+    "input_mode": "file",
+    "guidelines_mode": "guidelines_txt_v1",
+    "guidelines_chars": 419,
+    "guidelines_sha256": "4c052ec6e038641e1735aa16841d1783be480dff4403856964694d8c8d354f68"
   }
 }

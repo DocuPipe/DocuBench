@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "cost": null,
-  "time_sec": 6.570340156555176,
+  "time_sec": 8.220129013061523,
   "data": {
     "patientName": "游 詠",
     "medicalRecordNumber": "4226770",
@@ -28,23 +28,26 @@
     "model": "gemini-3.5-flash",
     "doc_id": "M66HZlWT",
     "usage": {
-      "promptTokenCount": 1143,
-      "candidatesTokenCount": 164,
-      "totalTokenCount": 2220,
+      "promptTokenCount": 1297,
+      "candidatesTokenCount": 240,
+      "totalTokenCount": 2573,
       "promptTokensDetails": [
         {
           "modality": "TEXT",
-          "tokenCount": 54
+          "tokenCount": 208
         },
         {
           "modality": "IMAGE",
           "tokenCount": 1089
         }
       ],
-      "thoughtsTokenCount": 913,
+      "thoughtsTokenCount": 1036,
       "serviceTier": "standard"
     },
     "schema_mode": "gemini_response_schema_nullable_v1",
-    "input_mode": "inline_data"
+    "input_mode": "inline_data",
+    "guidelines_mode": "guidelines_txt_v1",
+    "guidelines_chars": 578,
+    "guidelines_sha256": "e817fbc7dbdfeba55c6fb633ff14d7c11d36101560f450dc1fe6571a2363e0c7"
   }
 }

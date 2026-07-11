@@ -1,7 +1,7 @@
 """run a single document through the Extend (extend.ai) extraction API.
 
 transforms a JSON Schema into Extend's accepted subset (recursively — these schemas are
-nested arrays-of-objects), uploads the source file with a FRESH file_id per run (the first
+nested arrays-of-objects), uploads the source file with a fresh file_id per run (the first
 /extract on a file_id caches the parse output — the parse-cache trap), creates an extractor,
 runs /extract, polls, and maps the output back into the original field shape.
 
@@ -19,6 +19,9 @@ from typing import Any, Optional
 
 import requests
 
+sys.path.insert(0, str(Path(__file__).resolve().parent))
+from run_gpt import guidelines_meta, load_guidelines
+
 EXTEND_API_BASE = "https://api.extend.ai"
 EXTEND_API_VERSION = "2026-02-09"
 EXTEND_PER_CREDIT_USD = 0.0125
@@ -33,7 +36,7 @@ RESERVED_PROPERTY_NAMES = {"id"}
 RENAME_SUFFIX = "__renamed"
 
 
-# --- schema transform: our JSON schema -> Extend's accepted subset (RECURSIVE) ---
+# --- schema transform: our json schema -> extend's accepted subset ---
 
 def transform_node(spec: dict) -> dict:
     """recursively transform one schema node into Extend's subset:
@@ -112,9 +115,19 @@ def upload_file(file_path: Path, h: dict) -> str:
     return resp.json()["id"]
 
 
-def create_extractor(name: str, schema: dict, h: dict) -> str:
-    cfg = {"baseProcessor": EXTEND_BASE_PROCESSOR, "baseVersion": EXTEND_BASE_VERSION, "schema": schema, "parseConfig": {"engine": EXTEND_PARSE_ENGINE}}
-    resp = requests.post(f"{EXTEND_API_BASE}/extractors", headers={**h, "Content-Type": "application/json"}, json={"name": name, "config": cfg}, timeout=60)
+def create_extractor(name: str, schema: dict, h: dict, guidelines: Optional[str] = None) -> str:
+    cfg = {
+        "baseProcessor": EXTEND_BASE_PROCESSOR,
+        "baseVersion": EXTEND_BASE_VERSION,
+        "schema": schema,
+        "parseConfig": {"engine": EXTEND_PARSE_ENGINE}}
+    if guidelines is not None and guidelines.strip():
+        cfg["extractionRules"] = guidelines.strip()
+    resp = requests.post(
+        f"{EXTEND_API_BASE}/extractors",
+        headers={**h, "Content-Type": "application/json"},
+        json={"name": name, "config": cfg},
+        timeout=60)
     if resp.status_code >= 300:
         raise RuntimeError(f"/extractors failed {resp.status_code}: {resp.text[:600]}")
     return resp.json()["id"]
@@ -156,10 +169,15 @@ def run(doc_id: str, file_path: Path, json_schema: dict) -> Optional[dict]:
     """
     h = headers()
     extend_schema, field_renames = transform_schema(json_schema)
+    guidelines = load_guidelines(doc_id)
     try:
         file_id = upload_file(file_path, h)  # fresh file_id per run (parse-cache trap)
-        # unique name per run: extend rejects duplicate processor names, and a fresh extractor guarantees the CURRENT schema
-        extractor_id = create_extractor(name=f"public__{doc_id}__{int(time.time() * 1000)}", schema=extend_schema, h=h)
+        # unique name per run: extend rejects duplicate processor names, and a fresh extractor guarantees the current schema
+        extractor_id = create_extractor(
+            name=f"public__{doc_id}__{int(time.time() * 1000)}",
+            schema=extend_schema,
+            h=h,
+            guidelines=guidelines)
     except Exception as e:
         print(f"    extend setup FAILED on {doc_id}: {e}")
         return None
@@ -178,8 +196,17 @@ def run(doc_id: str, file_path: Path, json_schema: dict) -> Optional[dict]:
         tsec = max(0.0, (t1 - t0).total_seconds())
     except (ValueError, TypeError):
         tsec = 0.0
-    return {"data": data, "cost": cost, "time_sec": tsec,
-            "meta": {"file_id": file_id, "extractor_id": extractor_id, "run_id": rec.get("id"), "credits": credits}}
+    return {
+        "data": data,
+        "cost": cost,
+        "time_sec": tsec,
+        "meta": {
+            "file_id": file_id,
+            "extractor_id": extractor_id,
+            "run_id": rec.get("id"),
+            "credits": credits,
+            **guidelines_meta(guidelines),
+        }}
 
 
 def main():

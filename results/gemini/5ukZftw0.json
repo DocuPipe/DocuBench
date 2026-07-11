@@ -1,11 +1,11 @@
 {
   "status": "ok",
-  "cost": null,
-  "time_sec": 53.69737195968628,
+  "cost": 0.011469,
+  "time_sec": 34.7516770362854,
   "data": {
     "datasetTotals": {
       "totalProfit": 711316.5,
-      "totalUnitsSold": 43669.0,
+      "totalUnitsSold": 43669,
       "rowCount": 30
     },
     "governmentSegmentRows": [
@@ -20,96 +20,107 @@
       {
         "country": "Germany",
         "product": "Carretera",
-        "quantitySold": 1321.0,
+        "quantitySold": 1321,
         "grossMarginPct": 50.0,
-        "totalManufacturingCost": 3963.0,
+        "totalManufacturingCost": 3963,
         "priceEffectiveDate": null
       },
       {
         "country": "Germany",
         "product": "Carretera",
-        "quantitySold": 1513.0,
+        "quantitySold": 1513,
         "grossMarginPct": 25.7,
-        "totalManufacturingCost": 4539.0,
-        "priceEffectiveDate": null
-      },
-      {
-        "country": "Canada",
-        "product": "Montana",
-        "quantitySold": 1899.0,
-        "grossMarginPct": 50.0,
-        "totalManufacturingCost": 9495.0,
-        "priceEffectiveDate": null
-      },
-      {
-        "country": "Canada",
-        "product": "Paseo",
-        "quantitySold": 958.0,
-        "grossMarginPct": 16.7,
-        "totalManufacturingCost": 4790.0,
-        "priceEffectiveDate": null
-      },
-      {
-        "country": "Canada",
-        "product": "Paseo",
-        "quantitySold": 292.0,
-        "grossMarginPct": 50.0,
-        "totalManufacturingCost": 2920.0,
-        "priceEffectiveDate": null
-      },
-      {
-        "country": "Germany",
-        "product": "Paseo",
-        "quantitySold": 1006.0,
-        "grossMarginPct": 25.7,
-        "totalManufacturingCost": 10060.0,
+        "totalManufacturingCost": 4539,
         "priceEffectiveDate": null
       },
       {
         "country": "France",
-        "product": "Velo",
-        "quantitySold": 788.0,
-        "grossMarginPct": 16.7,
-        "totalManufacturingCost": 7880.0,
-        "priceEffectiveDate": null
-      },
-      {
-        "country": "Mexico",
-        "product": "Velo",
-        "quantitySold": 1725.0,
-        "grossMarginPct": 25.7,
-        "totalManufacturingCost": 17250.0,
+        "product": "Montana",
+        "quantitySold": 1899,
+        "grossMarginPct": 50.0,
+        "totalManufacturingCost": 9495,
         "priceEffectiveDate": null
       },
       {
         "country": "Germany",
-        "product": "Velo",
-        "quantitySold": 1817.0,
+        "product": "Montana",
+        "quantitySold": 2146,
+        "grossMarginPct": 28.6,
+        "totalManufacturingCost": 10730,
+        "priceEffectiveDate": null
+      },
+      {
+        "country": "Canada",
+        "product": "Paseo",
+        "quantitySold": 292,
         "grossMarginPct": 50.0,
-        "totalManufacturingCost": 18170.0,
+        "totalManufacturingCost": 2920,
+        "priceEffectiveDate": null
+      },
+      {
+        "country": "Germany",
+        "product": "Paseo",
+        "quantitySold": 1006,
+        "grossMarginPct": 25.7,
+        "totalManufacturingCost": 10060,
+        "priceEffectiveDate": null
+      },
+      {
+        "country": "Mexico",
+        "product": "Paseo",
+        "quantitySold": 883,
+        "grossMarginPct": 28.6,
+        "totalManufacturingCost": 8830,
+        "priceEffectiveDate": null
+      },
+      {
+        "country": "United States of America",
+        "product": "Paseo",
+        "quantitySold": 1143,
+        "grossMarginPct": 28.6,
+        "totalManufacturingCost": 11430,
+        "priceEffectiveDate": null
+      },
+      {
+        "country": "Canada",
+        "product": "Paseo",
+        "quantitySold": 1725,
+        "grossMarginPct": 25.7,
+        "totalManufacturingCost": 17250,
+        "priceEffectiveDate": null
+      },
+      {
+        "country": "Canada",
+        "product": "Paseo",
+        "quantitySold": 1817,
+        "grossMarginPct": 50.0,
+        "totalManufacturingCost": 18170,
         "priceEffectiveDate": null
       }
     ],
-    "mostProfitableProduct": "Velo"
+    "mostProfitableProduct": "Paseo"
   },
   "meta": {
     "provider": "google",
     "model": "gemini-3.5-flash",
     "doc_id": "5ukZftw0",
     "usage": {
-      "promptTokenCount": 1467,
-      "candidatesTokenCount": 811,
-      "totalTokenCount": 14689,
+      "promptTokenCount": 2534,
+      "candidatesTokenCount": 852,
+      "totalTokenCount": 11681,
       "promptTokensDetails": [
         {
           "modality": "TEXT",
-          "tokenCount": 1467
+          "tokenCount": 2534
         }
       ],
-      "thoughtsTokenCount": 12411,
+      "thoughtsTokenCount": 8295,
       "serviceTier": "standard"
     },
     "schema_mode": "gemini_response_schema_nullable_v1",
-    "input_mode": "xlsx_text"
+    "input_mode": "xlsx_text",
+    "guidelines_mode": "guidelines_txt_v1",
+    "guidelines_chars": 675,
+    "guidelines_sha256": "470a0cde7624220e565ef230ba4cd0c10e9839184e6c98f06d860afc39902e75"
   }
 }

@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "cost": null,
-  "time_sec": 30.751277208328247,
+  "time_sec": 67.62426495552063,
   "data": {
     "companyName": "DEG",
     "balanceSheetDate": "2022-12-31",
@@ -222,10 +222,6 @@
       {
         "lineItem": "15. Sonstige Steuern",
         "amount": 412787
-      },
-      {
-        "lineItem": "16. Jahresüberschuss",
-        "amount": 10249807
       }
     ]
   },
@@ -233,19 +229,23 @@
     "provider": "openai",
     "model": "gpt-5.5",
     "doc_id": "XhJyv5mb",
-    "file_id": "file-4mnbrUurxdBcNcuRpTcw73",
-    "response_id": "resp_0cdd2088c0ca344c016a3e96be2a7c8192a3b476c091367c41",
+    "file_id": "file-AhkAwGxSiv64nt5zVZNemQ",
+    "response_id": "resp_0176206deb44c6fb016a47d4d74d4081a3a216e83f7493c89e",
     "usage": {
-      "input_tokens": 4854,
+      "input_tokens": 4964,
       "input_tokens_details": {
         "cached_tokens": 0
       },
-      "output_tokens": 2211,
+      "output_tokens": 4717,
       "output_tokens_details": {
-        "reasoning_tokens": 1034
+        "reasoning_tokens": 3557
       },
-      "total_tokens": 7065
+      "total_tokens": 9681
     },
-    "schema_mode": "openai_strict_nullable_v1"
+    "schema_mode": "openai_strict_nullable_v1",
+    "input_mode": "file",
+    "guidelines_mode": "guidelines_txt_v1",
+    "guidelines_chars": 453,
+    "guidelines_sha256": "5e54804af6738164f2504704605c5576965d8d554f76fcc281c56c14805187cb"
   }
 }

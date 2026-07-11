@@ -1,0 +1,91 @@
+{
+  "status": "ok",
+  "cost": 0.32217,
+  "time_sec": 7.427421808242798,
+  "data": {
+    "currency": "USD",
+    "recordCount": 200,
+    "sourceSystem": "commerce-cloud-v4",
+    "schemaVersion": "orders.v4",
+    "focusOrderDate": "2025-10-27",
+    "focusOrderChannel": "store",
+    "focusOrderStatus": "shipped",
+    "focusOrderBuyerName": "Devon Marsh",
+    "focusOrderBuyerTier": "silver",
+    "focusOrderBuyerRegion": "WEST",
+    "focusOrderShippingCarrier": "DHL",
+    "focusOrderPaymentMethod": "paypal",
+    "focusOrderLineItems": [
+      {
+        "sku": "SKU-SF-610",
+        "title": "Halden 3-Seat Sofa",
+        "category": "Seating",
+        "quantity": 4,
+        "unitPriceCents": 129900,
+        "discountCents": 1500
+      },
+      {
+        "sku": "SKU-SH-810",
+        "title": "Atlas Bookshelf",
+        "category": "Storage",
+        "quantity": 1,
+        "unitPriceCents": 33900,
+        "discountCents": 0
+      },
+      {
+        "sku": "SKU-SF-690",
+        "title": "Otis Loveseat",
+        "category": "Seating",
+        "quantity": 1,
+        "unitPriceCents": 89900,
+        "discountCents": 1000
+      },
+      {
+        "sku": "SKU-AP-205",
+        "title": "Nimbus Floor Lamp",
+        "category": "Lighting",
+        "quantity": 2,
+        "unitPriceCents": 15900,
+        "discountCents": 1500
+      },
+      {
+        "sku": "SKU-CH-340",
+        "title": "Marlow Lounge Chair",
+        "category": "Seating",
+        "quantity": 1,
+        "unitPriceCents": 38900,
+        "discountCents": 0
+      }
+    ],
+    "earlyOrderCarrier": "USPS",
+    "lateOrderPaymentMethod": "mastercard"
+  },
+  "meta": {
+    "provider": "anthropic_bedrock",
+    "model": "claude-sonnet-5",
+    "bedrock_model_id": "global.anthropic.claude-sonnet-5",
+    "bedrock_region": "us-east-1",
+    "doc_id": "zKibU88u",
+    "response_id": "msg_bdrk_daqz42ft7stxlvvz474jaz56rhsfbde7vc3efvocaqhpcgkfhgua",
+    "usage": {
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "input_tokens": 103345,
+      "output_tokens": 809,
+      "server_tool_use": null,
+      "service_tier": "standard",
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens_details": {
+        "thinking_tokens": 0
+      }
+    },
+    "schema_mode": "bedrock_tool_required_nonnullable_v1",
+    "input_mode": "text",
+    "guidelines_mode": "guidelines_txt_v1",
+    "guidelines_chars": 791,
+    "guidelines_sha256": "3be125238bef5ebc4a43ee100e702c4fe21e61ed996e39b40bed21afc020e580"
+  }
+}

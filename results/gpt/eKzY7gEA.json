@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "cost": null,
-  "time_sec": 4.58627724647522,
+  "time_sec": 4.344476938247681,
   "data": {
     "patientName": "Robert J. Sample",
     "mrn": "00471829",
@@ -72,19 +72,23 @@
     "provider": "openai",
     "model": "gpt-5.5",
     "doc_id": "eKzY7gEA",
-    "file_id": "file-3PzXMNp6DsgYk7UMq4Lc2d",
-    "response_id": "resp_0d1f8c4d5932f5fd016a3e974184e4819e96067b4f15779537",
+    "file_id": "file-3DE5whq4qUKDMgK9jJrr5L",
+    "response_id": "resp_0d47ae056dd42b05016a47d56479bc81a291271a78048caa86",
     "usage": {
-      "input_tokens": 955,
+      "input_tokens": 1047,
       "input_tokens_details": {
         "cached_tokens": 0
       },
-      "output_tokens": 290,
+      "output_tokens": 289,
       "output_tokens_details": {
         "reasoning_tokens": 0
       },
-      "total_tokens": 1245
+      "total_tokens": 1336
     },
-    "schema_mode": "openai_strict_nullable_v1"
+    "schema_mode": "openai_strict_nullable_v1",
+    "input_mode": "file",
+    "guidelines_mode": "guidelines_txt_v1",
+    "guidelines_chars": 413,
+    "guidelines_sha256": "46e6b58b53cb9bcae1fbfe1144a9ad1183b5412a4af59c1e291c82af2cf04611"
   }
 }

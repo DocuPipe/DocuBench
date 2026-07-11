@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "cost": null,
-  "time_sec": 19.444831132888794,
+  "time_sec": 33.36781096458435,
   "data": {
     "seriesOrComponentName": "Caveat Emptor",
     "mapUnitSymbol": "CaC",
@@ -120,21 +120,23 @@
     "provider": "anthropic",
     "model": "claude-sonnet-4-6",
     "doc_id": "NNaGgwE5",
-    "response_id": "msg_01XLunThELjfc7muSi6juskZ",
+    "response_id": "msg_0181V7chYBTKN9FPWoB35MyG",
     "usage": {
-      "input_tokens": 7114,
+      "input_tokens": 7612,
       "cache_creation_input_tokens": 0,
       "cache_read_input_tokens": 0,
       "cache_creation": {
         "ephemeral_5m_input_tokens": 0,
         "ephemeral_1h_input_tokens": 0
       },
-      "output_tokens": 1296,
+      "output_tokens": 877,
       "service_tier": "standard",
       "inference_geo": "global"
     },
-    "schema_mode": "anthropic_output_config_nullable_v1",
+    "schema_mode": "anthropic_output_config_required_nonnullable_v1",
     "input_mode": "pdf_document",
-    "schema_fallback": "prompt_json_schema"
+    "guidelines_mode": "guidelines_txt_v1",
+    "guidelines_chars": 593,
+    "guidelines_sha256": "bee866a329a303488f7d2cb320aa46fb1a9b02ddc29a6a4aab19de98414eaf6e"
   }
 }

@@ -1,0 +1,35 @@
+{
+  "score": 1.0,
+  "cost": 0.105,
+  "time_sec": 11.803025960922241,
+  "num_pages": 2,
+  "data": {
+    "patientName": "John Doe",
+    "mrn": "000012",
+    "age": 20,
+    "sex": "M",
+    "admitDate": "2023-01-15",
+    "dischargeDate": "2023-01-17",
+    "diagnoses": [
+      {
+        "diagnosis": "Adjustment disorder with mixed disturbance of emotions and contact"
+      },
+      {
+        "diagnosis": "Rule out bipolar disorder"
+      },
+      {
+        "diagnosis": "Homelessness"
+      }
+    ],
+    "dischargeMedications": [],
+    "vitalsTemperature": "36.6",
+    "vitalsPulseRate": 97,
+    "vitalsRespirations": 16,
+    "vitalsBloodPressure": "126/86",
+    "vitalsO2Saturation": "98% on room air",
+    "dischargeDestination": "Home with brother.",
+    "conditionOfDischarge": "Stable. The patient is able to perform ADLs.",
+    "signingProvider": "Caring Provider, MD",
+    "signedDate": "2023-01-17"
+  }
+}

@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "cost": null,
-  "time_sec": 15.457552909851074,
+  "time_sec": 13.721745014190674,
   "data": {
     "merchantName": "FIVE GUYS",
     "storeNumber": "CA-1661",
@@ -149,23 +149,26 @@
     "model": "gemini-3.5-flash",
     "doc_id": "vBIz5dut",
     "usage": {
-      "promptTokenCount": 1117,
+      "promptTokenCount": 1264,
       "candidatesTokenCount": 1124,
-      "totalTokenCount": 4116,
+      "totalTokenCount": 4309,
       "promptTokensDetails": [
-        {
-          "modality": "TEXT",
-          "tokenCount": 53
-        },
         {
           "modality": "IMAGE",
           "tokenCount": 1064
+        },
+        {
+          "modality": "TEXT",
+          "tokenCount": 200
         }
       ],
-      "thoughtsTokenCount": 1875,
+      "thoughtsTokenCount": 1921,
       "serviceTier": "standard"
     },
     "schema_mode": "gemini_response_schema_nullable_v1",
-    "input_mode": "inline_data"
+    "input_mode": "inline_data",
+    "guidelines_mode": "guidelines_txt_v1",
+    "guidelines_chars": 647,
+    "guidelines_sha256": "eb3706f99a74fa4354eb31e5fb78a50e61f5d1dc6d593ed9702000628b9875ad"
   }
 }

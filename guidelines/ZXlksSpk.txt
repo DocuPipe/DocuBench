@@ -1,0 +1,1 @@
+Extract each work-section bill from the summary page (bill number, name, total amount) into the bills array, and the project grand total separately. Do not include the grand total row as a bill. Amounts are numeric only, without currency symbols or thousands separators.

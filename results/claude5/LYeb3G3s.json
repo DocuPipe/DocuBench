@@ -1,0 +1,134 @@
+{
+  "status": "ok",
+  "cost": 0.048741,
+  "time_sec": 8.529428005218506,
+  "data": {
+    "patient": {
+      "name": "Saubhik Bhaumik",
+      "age": "27 YRS",
+      "sex": "M"
+    },
+    "registrationNumber": "1001",
+    "results": [
+      {
+        "testName": "HEMOGLOBIN",
+        "value": 15,
+        "units": "g/dl",
+        "referenceRange": "13 - 17",
+        "flag": null
+      },
+      {
+        "testName": "TOTAL LEUKOCYTE COUNT",
+        "value": 5100,
+        "units": "cumm",
+        "referenceRange": "4,800 - 10,800",
+        "flag": null
+      },
+      {
+        "testName": "NEUTROPHILS",
+        "value": 79,
+        "units": "%",
+        "referenceRange": "40 - 80",
+        "flag": null
+      },
+      {
+        "testName": "LYMPHOCYTE",
+        "value": 18,
+        "units": "%",
+        "referenceRange": "20 - 40",
+        "flag": "L"
+      },
+      {
+        "testName": "EOSINOPHILS",
+        "value": 1,
+        "units": "%",
+        "referenceRange": "1 - 6",
+        "flag": null
+      },
+      {
+        "testName": "MONOCYTES",
+        "value": 1,
+        "units": "%",
+        "referenceRange": "2 - 10",
+        "flag": "L"
+      },
+      {
+        "testName": "BASOPHILS",
+        "value": 1,
+        "units": "%",
+        "referenceRange": "< 2",
+        "flag": null
+      },
+      {
+        "testName": "PLATELET COUNT",
+        "value": 3.5,
+        "units": "lakhs/cumm",
+        "referenceRange": "1.5 - 4.1",
+        "flag": null
+      },
+      {
+        "testName": "TOTAL RBC COUNT",
+        "value": 5,
+        "units": "million/cumm",
+        "referenceRange": "4.5 - 5.5",
+        "flag": null
+      },
+      {
+        "testName": "HEMATOCRIT VALUE, HCT",
+        "value": 42,
+        "units": "%",
+        "referenceRange": "40 - 50",
+        "flag": null
+      },
+      {
+        "testName": "MEAN CORPUSCULAR VOLUME, MCV",
+        "value": 84.0,
+        "units": "fL",
+        "referenceRange": "83 - 101",
+        "flag": null
+      },
+      {
+        "testName": "MEAN CELL HAEMOGLOBIN, MCH",
+        "value": 30.0,
+        "units": "Pg",
+        "referenceRange": "27 - 32",
+        "flag": null
+      },
+      {
+        "testName": "MEAN CELL HAEMOGLOBIN CON, MCHC",
+        "value": 35.7,
+        "units": "%",
+        "referenceRange": "31.5 - 34.5",
+        "flag": "H"
+      }
+    ]
+  },
+  "meta": {
+    "provider": "anthropic_bedrock",
+    "model": "claude-sonnet-5",
+    "bedrock_model_id": "global.anthropic.claude-sonnet-5",
+    "bedrock_region": "us-east-1",
+    "doc_id": "LYeb3G3s",
+    "response_id": "msg_bdrk_chil43pozlxfgwtmiar7b2o57gdtu4tca4p4ai3w4jzjfwnysoaq",
+    "usage": {
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "input_tokens": 11937,
+      "output_tokens": 862,
+      "server_tool_use": null,
+      "service_tier": "standard",
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      },
+      "output_tokens_details": {
+        "thinking_tokens": 0
+      }
+    },
+    "schema_mode": "bedrock_tool_required_nonnullable_v1",
+    "input_mode": "pdf_document",
+    "guidelines_mode": "guidelines_txt_v1",
+    "guidelines_chars": 263,
+    "guidelines_sha256": "358cbcf4d0900e2318b7e63f8f525d08ecd2b038fa15859e134594fe0a2c193c"
+  }
+}

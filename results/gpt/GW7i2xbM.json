@@ -1,13 +1,13 @@
 {
   "status": "ok",
   "cost": null,
-  "time_sec": 12.191426038742065,
+  "time_sec": 9.874102592468262,
   "data": {
     "insurerName": "SAFE ALL INSURANCE COMPANY",
     "policyNumber": "FHO295000",
     "policyForm": "HO-3",
-    "policyEffectiveDate": "3/28/20",
-    "policyExpirationDate": "3/28/2021",
+    "policyEffectiveDate": "2020-03-28",
+    "policyExpirationDate": "2021-03-28",
     "insuredName": "Estelle Clarion & James Delaney",
     "insuredAddress": "596 Crossover Way Clay, FL 17189-2021",
     "totalAnnualPremium": 854,
@@ -53,19 +53,23 @@
     "provider": "openai",
     "model": "gpt-5.5",
     "doc_id": "GW7i2xbM",
-    "file_id": "file-BDduQroezSuFrCeBhRnUCB",
-    "response_id": "resp_05a4c001ac08743f016a3e951979d4819c9d1dda7b5260e0b4",
+    "file_id": "file-2DHpim9H6ENZYGzUZEErk5",
+    "response_id": "resp_00b2964eef3c3344016a47d2eaaa7c819f8ecf90ae48544650",
     "usage": {
-      "input_tokens": 1093,
+      "input_tokens": 1238,
       "input_tokens_details": {
         "cached_tokens": 0
       },
-      "output_tokens": 480,
+      "output_tokens": 489,
       "output_tokens_details": {
-        "reasoning_tokens": 213
+        "reasoning_tokens": 222
       },
-      "total_tokens": 1573
+      "total_tokens": 1727
     },
-    "schema_mode": "openai_strict_nullable_v1"
+    "schema_mode": "openai_strict_nullable_v1",
+    "input_mode": "file",
+    "guidelines_mode": "guidelines_txt_v1",
+    "guidelines_chars": 719,
+    "guidelines_sha256": "875bcffbf94188434e5bb9d11d026b7708cafbcb17b34cde6b8d3b1c67d45c74"
   }
 }

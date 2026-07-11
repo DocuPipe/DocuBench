@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "cost": null,
-  "time_sec": 28.0322527885437,
+  "time_sec": 20.8723361492157,
   "data": {
     "organizationName": "המכון לאסטרטגיה ציונית (ע\"ר)",
     "reportYear": 2023,
@@ -140,12 +140,6 @@
       },
       {
         "statement": "דוח על תזרים המזומנים",
-        "lineLabel": "(פרעון) הלוואות והתחייבויות אחרות לזמן ארוך",
-        "currentYearAmount": 0,
-        "priorYearAmount": 0
-      },
-      {
-        "statement": "דוח על תזרים המזומנים",
         "lineLabel": "עליה במזומנים ושווי מזומנים",
         "currentYearAmount": 122581,
         "priorYearAmount": -83668
@@ -170,8 +164,8 @@
     "doc_id": "qoSTXgNE",
     "usage": {
       "promptTokenCount": 2181,
-      "candidatesTokenCount": 1744,
-      "totalTokenCount": 8444,
+      "candidatesTokenCount": 1672,
+      "totalTokenCount": 6779,
       "promptTokensDetails": [
         {
           "modality": "TEXT",
@@ -182,10 +176,12 @@
           "tokenCount": 2128
         }
       ],
-      "thoughtsTokenCount": 4519,
+      "thoughtsTokenCount": 2926,
       "serviceTier": "standard"
     },
     "schema_mode": "gemini_response_schema_nullable_v1",
-    "input_mode": "inline_data"
+    "input_mode": "inline_data",
+    "guidelines_mode": "none",
+    "guidelines_chars": 0
   }
 }

@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "cost": null,
-  "time_sec": 5.299944162368774,
+  "time_sec": 9.234133005142212,
   "data": {
     "billingPeriodStart": "2021-09-18",
     "billingPeriodEnd": "2021-10-18",
@@ -32,9 +32,9 @@
     "provider": "anthropic",
     "model": "claude-sonnet-4-6",
     "doc_id": "PSU5pciM",
-    "response_id": "msg_01K4bUfdoSJTPUeqnqMXKbmZ",
+    "response_id": "msg_01SL2pNihJ2wnbN615HvN11f",
     "usage": {
-      "input_tokens": 5066,
+      "input_tokens": 5004,
       "cache_creation_input_tokens": 0,
       "cache_read_input_tokens": 0,
       "cache_creation": {
@@ -45,7 +45,10 @@
       "service_tier": "standard",
       "inference_geo": "global"
     },
-    "schema_mode": "anthropic_output_config_nullable_v1",
-    "input_mode": "pdf_document"
+    "schema_mode": "anthropic_output_config_required_nonnullable_v1",
+    "input_mode": "pdf_document",
+    "guidelines_mode": "guidelines_txt_v1",
+    "guidelines_chars": 203,
+    "guidelines_sha256": "41c2bf6a07cddd250c68c0afd93c8d12e5f16aa1e30869f05797f019e9f952d8"
   }
 }

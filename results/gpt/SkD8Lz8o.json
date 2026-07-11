@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "cost": null,
-  "time_sec": 11.921217679977417,
+  "time_sec": 14.844082117080688,
   "data": {
     "amendmentNumber": "Fourth",
     "amendmentDate": "2016-09-30",
@@ -59,49 +59,49 @@
         "monthlyRent": 22544.74
       },
       {
-        "premisesName": "PR Second Floor Expansion Premises (or respective portions thereof)",
+        "premisesName": "PR Second Floor Expansion Premises",
         "periodMonths": "1 - 12",
         "annualRatePerSquareFoot": 25,
         "monthlyRent": 15612.5
       },
       {
-        "premisesName": "PR Second Floor Expansion Premises (or respective portions thereof)",
+        "premisesName": "PR Second Floor Expansion Premises",
         "periodMonths": "13 - 24",
         "annualRatePerSquareFoot": 25.69,
         "monthlyRent": 16043.41
       },
       {
-        "premisesName": "PR Second Floor Expansion Premises (or respective portions thereof)",
+        "premisesName": "PR Second Floor Expansion Premises",
         "periodMonths": "25 - 36",
         "annualRatePerSquareFoot": 26.39,
         "monthlyRent": 16480.56
       },
       {
-        "premisesName": "PR Second Floor Expansion Premises (or respective portions thereof)",
+        "premisesName": "PR Second Floor Expansion Premises",
         "periodMonths": "37 - 48",
         "annualRatePerSquareFoot": 27.12,
         "monthlyRent": 16936.44
       },
       {
-        "premisesName": "PR Second Floor Expansion Premises (or respective portions thereof)",
+        "premisesName": "PR Second Floor Expansion Premises",
         "periodMonths": "49 - 60",
         "annualRatePerSquareFoot": 27.87,
         "monthlyRent": 17404.82
       },
       {
-        "premisesName": "PR Second Floor Expansion Premises (or respective portions thereof)",
+        "premisesName": "PR Second Floor Expansion Premises",
         "periodMonths": "61 - 72",
         "annualRatePerSquareFoot": 28.63,
         "monthlyRent": 17879.44
       },
       {
-        "premisesName": "PR Second Floor Expansion Premises (or respective portions thereof)",
+        "premisesName": "PR Second Floor Expansion Premises",
         "periodMonths": "73 - 84",
         "annualRatePerSquareFoot": 29.42,
         "monthlyRent": 18372.79
       },
       {
-        "premisesName": "PR Second Floor Expansion Premises (or respective portions thereof)",
+        "premisesName": "PR Second Floor Expansion Premises",
         "periodMonths": "85 - Expiration Date",
         "annualRatePerSquareFoot": 30.23,
         "monthlyRent": 18878.64
@@ -112,19 +112,23 @@
     "provider": "openai",
     "model": "gpt-5.5",
     "doc_id": "SkD8Lz8o",
-    "file_id": "file-VSnf45Ktdu2dWZ6fdj2GZY",
-    "response_id": "resp_05961495e4c4be4b016a3e966a6d788192b25de39e42fe837a",
+    "file_id": "file-Pqe4uUzeTcYUzMjX1F9yiW",
+    "response_id": "resp_099845552c31b747016a47d4893940819ebd3f56f53e3020ea",
     "usage": {
-      "input_tokens": 2463,
+      "input_tokens": 2665,
       "input_tokens_details": {
         "cached_tokens": 0
       },
-      "output_tokens": 870,
+      "output_tokens": 1106,
       "output_tokens_details": {
-        "reasoning_tokens": 161
+        "reasoning_tokens": 446
       },
-      "total_tokens": 3333
+      "total_tokens": 3771
     },
-    "schema_mode": "openai_strict_nullable_v1"
+    "schema_mode": "openai_strict_nullable_v1",
+    "input_mode": "file",
+    "guidelines_mode": "guidelines_txt_v1",
+    "guidelines_chars": 883,
+    "guidelines_sha256": "27c3f878bbdd975928ad58ddf7b38dd5c17af86532436ebb1911fee7d05b6a37"
   }
 }

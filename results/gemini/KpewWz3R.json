@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "cost": null,
-  "time_sec": 24.03961682319641,
+  "time_sec": 21.337939739227295,
   "data": {
     "subjectPropertyAddress": "1517 Main Ct",
     "subjectCity": "Anytown",
@@ -99,9 +99,9 @@
     "model": "gemini-3.5-flash",
     "doc_id": "KpewWz3R",
     "usage": {
-      "promptTokenCount": 3835,
+      "promptTokenCount": 4062,
       "candidatesTokenCount": 1127,
-      "totalTokenCount": 7650,
+      "totalTokenCount": 8088,
       "promptTokensDetails": [
         {
           "modality": "IMAGE",
@@ -109,13 +109,16 @@
         },
         {
           "modality": "TEXT",
-          "tokenCount": 55
+          "tokenCount": 282
         }
       ],
-      "thoughtsTokenCount": 2688,
+      "thoughtsTokenCount": 2899,
       "serviceTier": "standard"
     },
     "schema_mode": "gemini_response_schema_nullable_v1",
-    "input_mode": "inline_data"
+    "input_mode": "inline_data",
+    "guidelines_mode": "guidelines_txt_v1",
+    "guidelines_chars": 1021,
+    "guidelines_sha256": "f08fd5eba5a41006014ebd6977cf77df8e3c390c7482a074412b2b2e6aaadc9e"
   }
 }

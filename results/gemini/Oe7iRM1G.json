@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "cost": null,
-  "time_sec": 25.803711891174316,
+  "time_sec": 35.46367692947388,
   "data": {
     "employeeName": "Jecrute Aline",
     "employerName": "Jeu d'Essai",
@@ -17,7 +17,7 @@
     "earnings": [
       {
         "designation": "Salaire mensuel",
-        "base": 3000.0,
+        "base": null,
         "rate": null,
         "amount": 3000.0
       },
@@ -40,7 +40,7 @@
       {
         "designation": "Complémentaire Incapacité Invalidité Décès",
         "base": 3269.0,
-        "employeeRate": null,
+        "employeeRate": 0.0,
         "employeeAmount": 0.0,
         "employerRate": 1.5,
         "employerAmount": 49.04
@@ -177,7 +177,7 @@
         "designation": "Réintégration frais de santé",
         "base": 3269.0,
         "employeeRate": 1.13,
-        "employeeAmount": null,
+        "employeeAmount": -36.94,
         "employerRate": null,
         "employerAmount": null
       }
@@ -188,23 +188,26 @@
     "model": "gemini-3.5-flash",
     "doc_id": "Oe7iRM1G",
     "usage": {
-      "promptTokenCount": 586,
-      "candidatesTokenCount": 1799,
-      "totalTokenCount": 6838,
+      "promptTokenCount": 685,
+      "candidatesTokenCount": 1801,
+      "totalTokenCount": 8793,
       "promptTokensDetails": [
-        {
-          "modality": "TEXT",
-          "tokenCount": 54
-        },
         {
           "modality": "IMAGE",
           "tokenCount": 532
+        },
+        {
+          "modality": "TEXT",
+          "tokenCount": 153
         }
       ],
-      "thoughtsTokenCount": 4453,
+      "thoughtsTokenCount": 6307,
       "serviceTier": "standard"
     },
     "schema_mode": "gemini_response_schema_nullable_v1",
-    "input_mode": "inline_data"
+    "input_mode": "inline_data",
+    "guidelines_mode": "guidelines_txt_v1",
+    "guidelines_chars": 431,
+    "guidelines_sha256": "feec9d78c651636b77297b249290b7fe2068d1e018c193e674ae00983a9fc37c"
   }
 }

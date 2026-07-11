@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "cost": null,
-  "time_sec": 14.574667930603027,
+  "time_sec": 14.10187292098999,
   "data": {
     "projectName": "Plot 6",
     "bills": [
@@ -137,9 +137,9 @@
     "provider": "anthropic",
     "model": "claude-sonnet-4-6",
     "doc_id": "ZXlksSpk",
-    "response_id": "msg_014yjwS48QYpp8VdhFNcp3pM",
+    "response_id": "msg_011Uo114fVvDyqH2LW2GaLAr",
     "usage": {
-      "input_tokens": 2703,
+      "input_tokens": 2688,
       "cache_creation_input_tokens": 0,
       "cache_read_input_tokens": 0,
       "cache_creation": {
@@ -150,7 +150,10 @@
       "service_tier": "standard",
       "inference_geo": "global"
     },
-    "schema_mode": "anthropic_output_config_nullable_v1",
-    "input_mode": "pdf_document"
+    "schema_mode": "anthropic_output_config_required_nonnullable_v1",
+    "input_mode": "pdf_document",
+    "guidelines_mode": "guidelines_txt_v1",
+    "guidelines_chars": 270,
+    "guidelines_sha256": "69ffd44a4e04d0c3befb871f5903cc23940f1ab23153b132665443dd3004ac17"
   }
 }

@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "cost": null,
-  "time_sec": 5.70786714553833,
+  "time_sec": 5.865764856338501,
   "data": {
     "patientName": "Robert J. Sample",
     "mrn": "00471829",
@@ -73,19 +73,22 @@
     "model": "gemini-3.5-flash",
     "doc_id": "eKzY7gEA",
     "usage": {
-      "promptTokenCount": 441,
-      "candidatesTokenCount": 274,
-      "totalTokenCount": 1605,
+      "promptTokenCount": 537,
+      "candidatesTokenCount": 490,
+      "totalTokenCount": 1874,
       "promptTokensDetails": [
         {
           "modality": "TEXT",
-          "tokenCount": 441
+          "tokenCount": 537
         }
       ],
-      "thoughtsTokenCount": 890,
+      "thoughtsTokenCount": 847,
       "serviceTier": "standard"
     },
     "schema_mode": "gemini_response_schema_nullable_v1",
-    "input_mode": "text"
+    "input_mode": "text",
+    "guidelines_mode": "guidelines_txt_v1",
+    "guidelines_chars": 413,
+    "guidelines_sha256": "46e6b58b53cb9bcae1fbfe1144a9ad1183b5412a4af59c1e291c82af2cf04611"
   }
 }

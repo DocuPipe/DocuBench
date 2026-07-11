@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "cost": null,
-  "time_sec": 20.339547872543335,
+  "time_sec": 24.567873239517212,
   "data": {
     "currency": "USD",
     "recordCount": 200,
@@ -64,9 +64,9 @@
     "provider": "anthropic",
     "model": "claude-sonnet-4-6",
     "doc_id": "zKibU88u",
-    "response_id": "msg_013VSbTVYNYPEYq3Rs23aaRQ",
+    "response_id": "msg_01P5e72ciGYgit1jfTC8UPyS",
     "usage": {
-      "input_tokens": 82357,
+      "input_tokens": 82317,
       "cache_creation_input_tokens": 0,
       "cache_read_input_tokens": 0,
       "cache_creation": {
@@ -77,7 +77,10 @@
       "service_tier": "standard",
       "inference_geo": "global"
     },
-    "schema_mode": "anthropic_output_config_nullable_v1",
-    "input_mode": "text"
+    "schema_mode": "anthropic_output_config_required_nonnullable_v1",
+    "input_mode": "text",
+    "guidelines_mode": "guidelines_txt_v1",
+    "guidelines_chars": 791,
+    "guidelines_sha256": "3be125238bef5ebc4a43ee100e702c4fe21e61ed996e39b40bed21afc020e580"
   }
 }

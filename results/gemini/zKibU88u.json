@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "cost": null,
-  "time_sec": 12.684711217880249,
+  "time_sec": 12.504971027374268,
   "data": {
     "currency": "USD",
     "recordCount": 200,
@@ -65,19 +65,22 @@
     "model": "gemini-3.5-flash",
     "doc_id": "zKibU88u",
     "usage": {
-      "promptTokenCount": 82676,
+      "promptTokenCount": 82872,
       "candidatesTokenCount": 554,
-      "totalTokenCount": 84783,
+      "totalTokenCount": 85631,
       "promptTokensDetails": [
         {
           "modality": "TEXT",
-          "tokenCount": 82676
+          "tokenCount": 82872
         }
       ],
-      "thoughtsTokenCount": 1553,
+      "thoughtsTokenCount": 2205,
       "serviceTier": "standard"
     },
     "schema_mode": "gemini_response_schema_nullable_v1",
-    "input_mode": "text"
+    "input_mode": "text",
+    "guidelines_mode": "guidelines_txt_v1",
+    "guidelines_chars": 791,
+    "guidelines_sha256": "3be125238bef5ebc4a43ee100e702c4fe21e61ed996e39b40bed21afc020e580"
   }
 }

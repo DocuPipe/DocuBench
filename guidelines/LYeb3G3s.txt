@@ -1,0 +1,1 @@
+Extract the patient demographics (name without honorific), the registration number (printed as 'Regd. No.'), and every CBC analyte result row (test name, numeric value, units, reference range, abnormal flag). Use null for the flag when the result is within range.

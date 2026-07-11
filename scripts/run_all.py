@@ -1,10 +1,11 @@
 """run an extraction engine across the full benchmark with idempotent skips.
 
-Currently supports GPT, Claude, and Gemini:
+Currently supports GPT, Claude, Claude 5 on Bedrock, and Gemini:
 
     python3 scripts/run_all.py
     python3 scripts/run_all.py --engine gpt --doc-id PSU5pciM
     python3 scripts/run_all.py --engine claude
+    python3 scripts/run_all.py --engine claude5
     python3 scripts/run_all.py --engine gemini
 
 Existing successful result files are skipped and printed. Failed or malformed result
@@ -22,8 +23,11 @@ from pathlib import Path
 
 ENGINE_RUNNERS = {
     "claude": "scripts/run_claude.py",
+    "claude5": "scripts/run_claude_bedrock.py",
     "gemini": "scripts/run_gemini.py",
     "gpt": "scripts/run_gpt.py",
+    "reducto": "scripts/run_reducto.py",
+    "reducto_standard": "scripts/run_reducto.py",
 }
 
 

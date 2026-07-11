@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "cost": null,
-  "time_sec": 10.102350234985352,
+  "time_sec": 8.248809099197388,
   "data": {
     "interchangeControlNumber": "000001000",
     "interchangeSenderId": "NOTP",
@@ -76,19 +76,23 @@
     "provider": "openai",
     "model": "gpt-5.5",
     "doc_id": "PYhFptk3",
-    "file_id": "file-ULMdbawTrYjWAMJEq9KSJY",
-    "response_id": "resp_00227e28beea714f016a3e963904fc81a0a69beb73fb255007",
+    "file_id": "file-5mcvnscy2EN6gzVYUdjNu1",
+    "response_id": "resp_0de30c16f99b1e10016a47d44d232081a29785b0e020f28110",
     "usage": {
-      "input_tokens": 1141,
+      "input_tokens": 1277,
       "input_tokens_details": {
         "cached_tokens": 0
       },
-      "output_tokens": 809,
+      "output_tokens": 800,
       "output_tokens_details": {
-        "reasoning_tokens": 363
+        "reasoning_tokens": 355
       },
-      "total_tokens": 1950
+      "total_tokens": 2077
     },
-    "schema_mode": "openai_strict_nullable_v1"
+    "schema_mode": "openai_strict_nullable_v1",
+    "input_mode": "file",
+    "guidelines_mode": "guidelines_txt_v1",
+    "guidelines_chars": 549,
+    "guidelines_sha256": "9da6d3bb6db60ee0ca1bb9272ab0e606c69b15ddedeb3f63d3f561da35c3d185"
   }
 }

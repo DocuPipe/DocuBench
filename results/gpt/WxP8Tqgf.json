@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "cost": null,
-  "time_sec": 18.92577576637268,
+  "time_sec": 15.809877872467041,
   "data": {
     "employeeName": "LAZIONE UNIVARSITA' 2017",
     "employerName": "DITTA DI PROVA",
@@ -89,19 +89,23 @@
     "provider": "openai",
     "model": "gpt-5.5",
     "doc_id": "WxP8Tqgf",
-    "file_id": "file-5ewtPA3D2G1zndQQ2588Zs",
-    "response_id": "resp_00a1c20fea69eba1016a3e96ab5fbc819f8ae0860f8e9e64b4",
+    "file_id": "file-7Hg3ZwpGMwco8ep4j7bURe",
+    "response_id": "resp_007ba1cc01b3d438016a47d4c7577c81918ba3ad7c2c045f48",
     "usage": {
-      "input_tokens": 3233,
+      "input_tokens": 3448,
       "input_tokens_details": {
         "cached_tokens": 0
       },
-      "output_tokens": 1258,
+      "output_tokens": 1339,
       "output_tokens_details": {
-        "reasoning_tokens": 768
+        "reasoning_tokens": 850
       },
-      "total_tokens": 4491
+      "total_tokens": 4787
     },
-    "schema_mode": "openai_strict_nullable_v1"
+    "schema_mode": "openai_strict_nullable_v1",
+    "input_mode": "file",
+    "guidelines_mode": "guidelines_txt_v1",
+    "guidelines_chars": 801,
+    "guidelines_sha256": "0b80406c0dd4f6ce0a58e0d5149e0e4573f4e853b9590ef8967b9f041241cf7d"
   }
 }

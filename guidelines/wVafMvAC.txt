@@ -1,0 +1,1 @@
+deduction-table amounts are printed without a decimal separator; the last two digits are cents, so divide by 100 (a printed value of 8940 means 89.40). leave a field null when its cell is blank on the form.

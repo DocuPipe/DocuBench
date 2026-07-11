@@ -1,10 +1,10 @@
 {
   "status": "ok",
   "cost": null,
-  "time_sec": 12.009945154190063,
+  "time_sec": 10.193856000900269,
   "data": {
     "customer": "FRESA DEMO DUBAI LLC",
-    "customerAddress": "AL NABHA, DUBAI\nPhone : 04-233456\nGSTIN No. : 29760737473\nCredit Term : CASH",
+    "customerAddress": "AL NABHA, DUBAI",
     "invoiceNumber": "INV1800564",
     "invoiceDate": "27-NOV-18 (CREATED)",
     "paymentDueDate": "27-NOV-18",
@@ -80,23 +80,26 @@
     "model": "gemini-3.5-flash",
     "doc_id": "Eet2wW3x",
     "usage": {
-      "promptTokenCount": 587,
-      "candidatesTokenCount": 865,
-      "totalTokenCount": 3093,
+      "promptTokenCount": 754,
+      "candidatesTokenCount": 826,
+      "totalTokenCount": 2935,
       "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 222
+        },
         {
           "modality": "IMAGE",
           "tokenCount": 532
-        },
-        {
-          "modality": "TEXT",
-          "tokenCount": 55
         }
       ],
-      "thoughtsTokenCount": 1641,
+      "thoughtsTokenCount": 1355,
       "serviceTier": "standard"
     },
     "schema_mode": "gemini_response_schema_nullable_v1",
-    "input_mode": "inline_data"
+    "input_mode": "inline_data",
+    "guidelines_mode": "guidelines_txt_v1",
+    "guidelines_chars": 673,
+    "guidelines_sha256": "359556bb62098fc56c1f74e67c3309bb57570d72e6455ac7174b5bc205790809"
   }
 }

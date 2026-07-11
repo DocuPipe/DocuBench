@@ -1,7 +1,7 @@
 {
   "status": "ok",
   "cost": null,
-  "time_sec": 9.714977741241455,
+  "time_sec": 9.272116899490356,
   "data": {
     "agreementType": "364-DAY CREDIT AGREEMENT",
     "aggregateCommitmentAmount": 1500000000,
@@ -104,19 +104,23 @@
     "provider": "openai",
     "model": "gpt-5.5",
     "doc_id": "BnftpXVQ",
-    "file_id": "file-2BSYRKntxkZf3wtHfp93Pj",
-    "response_id": "resp_0f19b7abc22ae9f8016a3e949a6420819e8bc65d38ba7de470",
+    "file_id": "file-TGxwkPyGCWYcuEnZ3JdZYj",
+    "response_id": "resp_0d7cac05bc70e31e016a47d28dcb9c81a0932c280caf2443d8",
     "usage": {
-      "input_tokens": 1001,
+      "input_tokens": 1172,
       "input_tokens_details": {
         "cached_tokens": 0
       },
-      "output_tokens": 606,
+      "output_tokens": 500,
       "output_tokens_details": {
-        "reasoning_tokens": 103
+        "reasoning_tokens": 0
       },
-      "total_tokens": 1607
+      "total_tokens": 1672
     },
-    "schema_mode": "openai_strict_nullable_v1"
+    "schema_mode": "openai_strict_nullable_v1",
+    "input_mode": "file",
+    "guidelines_mode": "guidelines_txt_v1",
+    "guidelines_chars": 798,
+    "guidelines_sha256": "67641ce6b95ca51da931a3d5ea607609b587021c75188f90d8c64cbd5310cf13"
   }
 }
