@@ -1,0 +1,40 @@
+{
+  "type": "object",
+  "properties": {
+    "entries": {
+      "type": "array",
+      "description": "every commercial/professional listing in the alphabetical directory body, read down the left column of the page first then the right column, page by page in printed order. each listing head is a name printed flush to the column, and a listing may run onto several wrapped lines before the next listing begins. one listing is one item. SKIP: the running page header line (surname-range words, the words POST OFFICE LONDON or COMMERCIAL DIRECTORY, the year, and the page number), any marginal text printed sideways along the outer edge, and any pictorial advertisement/trademark block. words split across a line wrap are rejoined without the hyphen; a comma or period that merely separates parts of the listing is not part of any field value.",
+      "items": {
+        "type": "object",
+        "properties": {
+          "name": {
+            "type": "string",
+            "description": "the person or firm name that opens the listing, transcribed verbatim as printed including its punctuation and abbreviations. for a person it is the surname followed by the given names/initials, any parenthetical marker printed with the name, and any post-nominal qualification or honour abbreviations printed immediately after the personal name (academic degrees, professional memberships, and the like). for a firm/company/institution it is the whole business name up to the first comma that introduces the trade or address."
+          },
+          "occupation": {
+            "type": "string",
+            "description": "the trade, profession, or business descriptor printed after the name (and after any post-nominal qualifications) and before the street address, transcribed verbatim including the directory's standard abbreviations. if the listing prints a house/establishment name in quotation marks and/or a P.H. tag as part of the trade, include it here. null when the listing goes straight from the name to an address with no trade descriptor."
+          },
+          "streetNumber": {
+            "type": "string",
+            "description": "the building or house number token printed immediately before the street name of the listing's PRINCIPAL address. the principal address is the FIRST complete street address printed in the listing after the occupation; ignore every later address. may be a range or list of numbers exactly as printed. null when the principal address prints no leading number."
+          },
+          "streetName": {
+            "type": "string",
+            "description": "the thoroughfare portion of the PRINCIPAL (first) address only: the verbatim printed text of that address falling after its leading street number (if any) and before its trailing postal-district code, transcribed exactly as printed including any locality/area words printed as part of that first address. do NOT include any later address in the listing (secondary addresses are typically introduced by '&', ';', 'and', 'also at', or a further 'at'), nor telegraphic-address notes, telephone notes, 'see advertisement', or pure 'see OtherName' cross-references. null when the listing prints no street address at all."
+          },
+          "postalDistrict": {
+            "type": "string",
+            "description": "the London postal-district code printed at the end of the PRINCIPAL (first) address, transcribed as a single token of capital letters with NO internal spaces and no full stops (for example a two-letter compass code is written as the two letters joined). null when the principal address prints no such code."
+          }
+        },
+        "required": [
+          "name"
+        ]
+      }
+    }
+  },
+  "required": [
+    "entries"
+  ]
+}

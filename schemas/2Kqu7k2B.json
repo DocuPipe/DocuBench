@@ -1,0 +1,38 @@
+{
+  "type": "object",
+  "properties": {
+    "lots": {
+      "type": "array",
+      "description": "every numbered lot entry in the auction catalogue; each lot begins with a printed lot number and runs until the next numbered lot; ignore indented smaller-type note paragraphs printed below an entry (provenance, copy-count, contents, or condition notes); in every field, rejoin words hyphenated at a line break without the hyphen, and write every size-of-volume notation with the degree sign °",
+      "items": {
+        "type": "object",
+        "properties": {
+          "lotNumber": {
+            "type": "integer",
+            "description": "the printed number at the start of the entry"
+          },
+          "entryTitle": {
+            "type": "string",
+            "description": "all printed text of the entry from immediately after the lot number up to but excluding the physical-description clause; the physical-description clause begins at the size-of-volume notation, which is either a numeral immediately followed by a degree sign or a bare format word such as folio or quarto, and any size, shape, or thickness words printed immediately before that notation belong to the physical-description clause, not to this field; include the lead heading, any given names, subtitle, editor, volume count, and illustration or edition notes; transcribe verbatim"
+          },
+          "binding": {
+            "type": "string",
+            "description": "the physical-description clause of the entry, running up to but excluding the publication imprint; it begins at the size-of-volume notation (a numeral immediately followed by a degree sign, or a bare format word such as folio or quarto) and includes any size, shape, or thickness words printed immediately before that notation, the notation itself, and the binding material, condition, and edge or top notes that follow; transcribe verbatim"
+          },
+          "imprint": {
+            "type": "string",
+            "description": "the publication imprint printed at the end of the entry after the binding clause: any publisher name, place of publication, and date, transcribed verbatim exactly as printed including punctuation, parentheses, and abbreviations such as a no-date marker; null if the entry prints no imprint"
+          }
+        },
+        "required": [
+          "lotNumber",
+          "entryTitle",
+          "binding"
+        ]
+      }
+    }
+  },
+  "required": [
+    "lots"
+  ]
+}

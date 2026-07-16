@@ -1,0 +1,68 @@
+{
+  "type": "object",
+  "properties": {
+    "issueNumber": {
+      "type": "integer",
+      "description": "the gazette running issue number printed in the masthead, converted to arabic digits"
+    },
+    "issueDate": {
+      "type": "string",
+      "description": "the gazette publication date printed in the masthead, normalized to iso YYYY-MM-DD; convert the japanese era year to the gregorian year"
+    },
+    "weekday": {
+      "type": "string",
+      "description": "the day-of-week printed in the masthead, given as the english weekday name"
+    },
+    "imperialOrdinanceNumber": {
+      "type": "integer",
+      "description": "the number of the imperial ordinance (勅令) on the page, converted to arabic digits"
+    },
+    "imperialOrdinancePromulgationDate": {
+      "type": "string",
+      "description": "the promulgation date stated under the imperial ordinance signatures, normalized to iso YYYY-MM-DD"
+    },
+    "ministerialOrdinanceNumber": {
+      "type": "integer",
+      "description": "the number of the ministry ordinance (省令) on the page, converted to arabic digits"
+    },
+    "coinFaceValueSen": {
+      "type": "integer",
+      "description": "the face value of the auxiliary coin specified by the imperial ordinance, in sen, as an integer"
+    },
+    "coinMaterial": {
+      "type": "string",
+      "description": "the material (素材) of the coin as printed in the specification table"
+    },
+    "coinWeightGrams": {
+      "type": "number",
+      "description": "the coin weight (量目) in grams as printed in the specification table"
+    },
+    "coinDiameterMm": {
+      "type": "number",
+      "description": "the coin diameter (直径) in millimetres as printed in the specification table"
+    },
+    "courseTables": {
+      "type": "array",
+      "description": "one entry per subject-row across every curriculum hours table on the page; a page carries several such tables, each headed by a course/track name",
+      "items": {
+        "type": "object",
+        "properties": {
+          "trackName": {
+            "type": "string",
+            "description": "the course/track name heading the table this row belongs to, as printed"
+          },
+          "subject": {
+            "type": "string",
+            "description": "the subject label (学科目) in this row, exactly as printed; include the total row whose label is the summation character"
+          },
+          "totalHours": {
+            "type": "integer",
+            "description": "the total class hours (授業総時数) for this subject, converting the printed kanji numerals to an arabic integer"
+          }
+        },
+        "required": ["trackName", "subject", "totalHours"]
+      }
+    }
+  },
+  "required": ["issueNumber", "issueDate", "coinMaterial", "courseTables"]
+}

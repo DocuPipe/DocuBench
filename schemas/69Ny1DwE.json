@@ -1,0 +1,254 @@
+{
+  "type": "object",
+  "title": "Weather Bureau Monthly Summary form (handwritten, scanned)",
+  "properties": {
+    "reportMonth": {
+      "type": "string",
+      "description": "the name of the month written on the blank in the summary header line"
+    },
+    "reportYear": {
+      "type": "integer",
+      "description": "the four-digit year printed or written in the summary header line"
+    },
+    "observerName": {
+      "type": "string",
+      "description": "the observer's name as signed on the signature blank at the bottom of the form"
+    },
+    "meanActualPressure": {
+      "type": "number",
+      "description": "handwritten value in the 'mean actual' pressure blank under atmospheric pressure"
+    },
+    "meanActualPressure8am": {
+      "type": "number",
+      "description": "handwritten value in the 8 a.m. blank on the mean actual pressure line"
+    },
+    "meanActualPressure8pm": {
+      "type": "number",
+      "description": "handwritten value in the 8 p.m. blank on the mean actual pressure line"
+    },
+    "meanReducedPressure": {
+      "type": "number",
+      "description": "handwritten value in the 'mean reduced' pressure blank"
+    },
+    "meanReducedPressure8am": {
+      "type": "number",
+      "description": "handwritten value in the 8 a.m. blank on the mean reduced pressure line"
+    },
+    "meanReducedPressure8pm": {
+      "type": "number",
+      "description": "handwritten value in the 8 p.m. blank on the mean reduced pressure line"
+    },
+    "highestActualPressure": {
+      "type": "number",
+      "description": "handwritten value in the 'highest actual' pressure blank"
+    },
+    "highestActualPressureDay": {
+      "type": "integer",
+      "description": "day-of-month on which the highest actual pressure occurred, as an integer ignoring any ordinal suffix"
+    },
+    "lowestActualPressure": {
+      "type": "number",
+      "description": "handwritten value in the 'lowest' actual pressure blank"
+    },
+    "lowestActualPressureDay": {
+      "type": "integer",
+      "description": "day-of-month on which the lowest actual pressure occurred, as an integer ignoring any ordinal suffix"
+    },
+    "actualPressureRange": {
+      "type": "number",
+      "description": "handwritten value in the actual-pressure absolute range blank"
+    },
+    "highestReducedPressure": {
+      "type": "number",
+      "description": "handwritten value in the 'highest reduced' pressure blank"
+    },
+    "lowestReducedPressure": {
+      "type": "number",
+      "description": "handwritten value in the 'lowest' reduced pressure blank"
+    },
+    "reducedPressureRange": {
+      "type": "number",
+      "description": "handwritten value in the reduced-pressure absolute range blank"
+    },
+    "meanTemperature": {
+      "type": "number",
+      "description": "handwritten value in the 'mean (max. and min.)' temperature blank"
+    },
+    "meanMaxTemperature": {
+      "type": "number",
+      "description": "handwritten value in the 'mean maximum' temperature blank"
+    },
+    "meanMinTemperature": {
+      "type": "number",
+      "description": "handwritten value in the 'mean minimum' temperature blank"
+    },
+    "temperature8am": {
+      "type": "number",
+      "description": "handwritten value in the 8 a.m. temperature blank"
+    },
+    "temperature8pm": {
+      "type": "number",
+      "description": "handwritten value in the 8 p.m. temperature blank"
+    },
+    "highestTemperature": {
+      "type": "number",
+      "description": "handwritten value in the 'highest' temperature blank"
+    },
+    "highestTemperatureDay": {
+      "type": "integer",
+      "description": "day-of-month on which the highest temperature occurred, as an integer ignoring any ordinal suffix"
+    },
+    "lowestTemperature": {
+      "type": "number",
+      "description": "handwritten value in the 'lowest' temperature blank"
+    },
+    "lowestTemperatureDay": {
+      "type": "integer",
+      "description": "day-of-month on which the lowest temperature occurred, as an integer ignoring any ordinal suffix"
+    },
+    "temperatureRange": {
+      "type": "number",
+      "description": "handwritten value in the temperature absolute range blank"
+    },
+    "greatestDailyRange": {
+      "type": "number",
+      "description": "handwritten value in the 'greatest daily range' blank"
+    },
+    "greatestDailyRangeDay": {
+      "type": "integer",
+      "description": "day-of-month of the greatest daily range, as an integer ignoring any ordinal suffix"
+    },
+    "leastDailyRange": {
+      "type": "number",
+      "description": "handwritten value in the 'least' daily range blank"
+    },
+    "leastDailyRangeDay": {
+      "type": "integer",
+      "description": "day-of-month of the least daily range, as an integer ignoring any ordinal suffix"
+    },
+    "totalPrecipitation": {
+      "type": "number",
+      "description": "handwritten value in the total precipitation blank, in inches"
+    },
+    "greatest24HourPrecipitation": {
+      "type": "number",
+      "description": "handwritten value for greatest precipitation in any 24 consecutive hours, in inches"
+    },
+    "greatest24HourPrecipitationDay": {
+      "type": "integer",
+      "description": "day-of-month of the greatest 24-hour precipitation, as an integer ignoring any ordinal suffix"
+    },
+    "totalWindMovement": {
+      "type": "integer",
+      "description": "handwritten value in the total wind movement blank, in miles"
+    },
+    "maxWindVelocity": {
+      "type": "number",
+      "description": "handwritten value in the maximum wind velocity blank"
+    },
+    "maxWindDirection": {
+      "type": "string",
+      "description": "the compass direction written next to the maximum wind velocity, as a compass abbreviation"
+    },
+    "maxWindDay": {
+      "type": "integer",
+      "description": "day-of-month on which the maximum wind velocity occurred, as an integer ignoring any ordinal suffix"
+    },
+    "windObservationsN": {
+      "type": "integer",
+      "description": "handwritten count of observations blowing from the N in the wind-direction tally line"
+    },
+    "windObservationsNE": {
+      "type": "integer",
+      "description": "handwritten count of observations blowing from the NE in the wind-direction tally line"
+    },
+    "windObservationsE": {
+      "type": "integer",
+      "description": "handwritten count of observations blowing from the E in the wind-direction tally line"
+    },
+    "windObservationsSE": {
+      "type": "integer",
+      "description": "handwritten count of observations blowing from the SE in the wind-direction tally line"
+    },
+    "windObservationsS": {
+      "type": "integer",
+      "description": "handwritten count of observations blowing from the S in the wind-direction tally line"
+    },
+    "windObservationsSW": {
+      "type": "integer",
+      "description": "handwritten count of observations blowing from the SW in the wind-direction tally line"
+    },
+    "windObservationsW": {
+      "type": "integer",
+      "description": "handwritten count of observations blowing from the W in the wind-direction tally line"
+    },
+    "windObservationsNW": {
+      "type": "integer",
+      "description": "handwritten count of observations blowing from the NW in the wind-direction tally line"
+    },
+    "windObservationsCalm": {
+      "type": "integer",
+      "description": "handwritten count in the 'calm' slot of the wind-direction tally line"
+    },
+    "averageCloudiness": {
+      "type": "number",
+      "description": "handwritten value in the 'average cloudiness (0 to 10)' blank"
+    },
+    "averageCloudiness8am": {
+      "type": "number",
+      "description": "handwritten value in the 8 a.m. average cloudiness blank"
+    },
+    "averageCloudiness8pm": {
+      "type": "number",
+      "description": "handwritten value in the 8 p.m. average cloudiness blank"
+    },
+    "cloudlessDays": {
+      "type": "integer",
+      "description": "handwritten count in the 'number of cloudless days' blank"
+    },
+    "partlyCloudyDays": {
+      "type": "integer",
+      "description": "handwritten count in the 'partly cloudy' days blank on the cloudiness summary line"
+    },
+    "cloudyDays": {
+      "type": "integer",
+      "description": "handwritten count in the 'cloudy' days blank on the cloudiness summary line"
+    },
+    "totalDaysWithRainfall": {
+      "type": "integer",
+      "description": "handwritten value in the 'total days with rainfall' blank"
+    },
+    "averageSnowDepthEndOfMonth": {
+      "type": "number",
+      "description": "handwritten value in the 'average depth of snow on ground at end of month' blank, in inches"
+    },
+    "highestRiverLevel": {
+      "type": "number",
+      "description": "handwritten value in the 'highest water in river (ft. and tenths)' blank"
+    },
+    "highestRiverDay": {
+      "type": "integer",
+      "description": "day-of-month of the highest river level, as an integer ignoring any ordinal suffix"
+    },
+    "lowestRiverLevel": {
+      "type": "number",
+      "description": "handwritten value in the 'lowest' river level blank"
+    },
+    "solarHalos": {
+      "type": "integer",
+      "description": "handwritten count in the 'dates of solar halos' blank; use the number written even when it is zero"
+    },
+    "lunarHalos": {
+      "type": "integer",
+      "description": "handwritten count in the 'lunar halos' blank; use the number written even when it is zero"
+    },
+    "monthlyMeanDewPoint": {
+      "type": "number",
+      "description": "handwritten value written for monthly mean dew point in the phenomena section"
+    },
+    "monthlyMeanRelativeHumidity": {
+      "type": "number",
+      "description": "handwritten value written for monthly mean relative humidity in the phenomena section"
+    }
+  }
+}

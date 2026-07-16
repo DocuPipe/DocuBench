@@ -1,0 +1,7642 @@
+{
+  "score": 0.8723794549266247,
+  "cost": 0.6875,
+  "time_sec": 87.233,
+  "num_pages": 11,
+  "data": {
+    "items": [
+      {
+        "form": "Tungstate",
+        "size": "per oz",
+        "price": 3,
+        "article": "CALCIUM"
+      },
+      {
+        "form": "Whole",
+        "size": "per lb",
+        "price": 0.72,
+        "article": "CALENDULA"
+      },
+      {
+        "form": "Ground",
+        "size": "per lb",
+        "price": 0.75,
+        "article": "CALENDULA"
+      },
+      {
+        "form": "Whole",
+        "size": "per lb",
+        "price": 0.3,
+        "article": "CALUMBA"
+      },
+      {
+        "form": "Ground",
+        "size": "per lb",
+        "price": 0.32,
+        "article": "CALUMBA"
+      },
+      {
+        "form": null,
+        "size": "per lb",
+        "price": 1.35,
+        "article": "CAMPHOR"
+      },
+      {
+        "form": "Monobromated, Crystals",
+        "size": "per lb",
+        "price": 2,
+        "article": "CAMPHOR"
+      },
+      {
+        "form": "Monobromated, Crystals",
+        "size": "per 1/2 lb",
+        "price": 1.04,
+        "article": "CAMPHOR"
+      },
+      {
+        "form": "Monobromated, Crystals",
+        "size": "per 1/4 lb",
+        "price": 0.55,
+        "article": "CAMPHOR"
+      },
+      {
+        "form": "Monobromated, Crystals",
+        "size": "per oz",
+        "price": 0.25,
+        "article": "CAMPHOR"
+      },
+      {
+        "form": "Powdered",
+        "size": "per lb",
+        "price": 2.08,
+        "article": "CAMPHOR"
+      },
+      {
+        "form": "Powdered",
+        "size": "per 1/2 lb",
+        "price": 1.08,
+        "article": "CAMPHOR"
+      },
+      {
+        "form": "Powdered",
+        "size": "per 1/4 lb",
+        "price": 0.57,
+        "article": "CAMPHOR"
+      },
+      {
+        "form": "Powdered",
+        "size": "per oz",
+        "price": 0.25,
+        "article": "CAMPHOR"
+      },
+      {
+        "form": "Ground",
+        "size": "per lb",
+        "price": 2.1,
+        "article": "CANNABIS INDICA"
+      },
+      {
+        "form": "Ground",
+        "size": "per 1/2 lb",
+        "price": 1.1,
+        "article": "CANNABIS INDICA"
+      },
+      {
+        "form": "Ground",
+        "size": "per 1/4 lb",
+        "price": 0.6,
+        "article": "CANNABIS INDICA"
+      },
+      {
+        "form": "Whole",
+        "size": "per lb",
+        "price": 2.5,
+        "article": "CANTHARIDES"
+      },
+      {
+        "form": "Whole",
+        "size": "per 1/2 lb",
+        "price": 1.28,
+        "article": "CANTHARIDES"
+      },
+      {
+        "form": "Whole",
+        "size": "per 1/4 lb",
+        "price": 0.66,
+        "article": "CANTHARIDES"
+      },
+      {
+        "form": "Powdered",
+        "size": "per lb",
+        "price": 2.6,
+        "article": "CANTHARIDES"
+      },
+      {
+        "form": "Powdered",
+        "size": "per 1/2 lb",
+        "price": 1.33,
+        "article": "CANTHARIDES"
+      },
+      {
+        "form": "Powdered",
+        "size": "per 1/4 lb",
+        "price": 0.69,
+        "article": "CANTHARIDES"
+      },
+      {
+        "form": null,
+        "size": "per 15 gr. vial",
+        "price": 2.15,
+        "article": "CANTHARIDIN"
+      },
+      {
+        "form": null,
+        "size": "per 5-grain vial",
+        "price": 0.9,
+        "article": "CANTHARIDIN"
+      },
+      {
+        "form": "Powdered",
+        "size": "per lb",
+        "price": 0.45,
+        "article": "CAPSICUM"
+      },
+      {
+        "form": "Powdered",
+        "size": "per doz. small",
+        "price": 1.7,
+        "article": "CAPSICUM"
+      },
+      {
+        "form": "Whole",
+        "size": "per lb",
+        "price": 0.27,
+        "article": "CARAWAY"
+      },
+      {
+        "form": "Powdered",
+        "size": "per lb",
+        "price": 0.29,
+        "article": "CARAWAY"
+      },
+      {
+        "form": null,
+        "size": "per lb",
+        "price": 0.62,
+        "article": "CARBON DISULPHIDE"
+      },
+      {
+        "form": "Whole",
+        "size": "per lb",
+        "price": 1.7,
+        "article": "CARDAMON"
+      },
+      {
+        "form": "Whole",
+        "size": "per 1/2 lb",
+        "price": 0.89,
+        "article": "CARDAMON"
+      },
+      {
+        "form": "Whole",
+        "size": "per 1/4 lb",
+        "price": 0.49,
+        "article": "CARDAMON"
+      },
+      {
+        "form": "Powdered",
+        "size": "per lb",
+        "price": 1.75,
+        "article": "CARDAMON"
+      },
+      {
+        "form": "Powdered",
+        "size": "per 1/2 lb",
+        "price": 0.92,
+        "article": "CARDAMON"
+      },
+      {
+        "form": "Powdered",
+        "size": "per 1/4 lb",
+        "price": 0.5,
+        "article": "CARDAMON"
+      },
+      {
+        "form": "Whole",
+        "size": "per lb",
+        "price": 0.28,
+        "article": "CASCARA SAGRADA"
+      },
+      {
+        "form": "Ground",
+        "size": "per lb",
+        "price": 0.3,
+        "article": "CASCARA SAGRADA"
+      },
+      {
+        "form": "Powdered",
+        "size": "per lb",
+        "price": 0.32,
+        "article": "CASCARA SAGRADA"
+      },
+      {
+        "form": null,
+        "size": "per lb",
+        "price": 0.4,
+        "article": "CASSIA FISTULA"
+      },
+      {
+        "form": null,
+        "size": "per lb",
+        "price": 0.48,
+        "article": "CATAPLASM KAOLIN"
+      },
+      {
+        "form": null,
+        "size": "per lb",
+        "price": 0.9,
+        "article": "CERATE"
+      },
+      {
+        "form": "Camphor",
+        "size": "per lb",
+        "price": 0.95,
+        "article": "CERATE"
+      },
+      {
+        "form": "Camphor Compound",
+        "size": "per lb",
+        "price": 1.2,
+        "article": "CERATE"
+      },
+      {
+        "form": "Cantharides",
+        "size": "per lb",
+        "price": 1.1,
+        "article": "CERATE"
+      },
+      {
+        "form": "Cantharides",
+        "size": "per 1/2 lb",
+        "price": 0.64,
+        "article": "CERATE"
+      },
+      {
+        "form": "Cantharides",
+        "size": "per 1/4 lb",
+        "price": 0.34,
+        "article": "CERATE"
+      },
+      {
+        "form": "Lead Subacetate",
+        "size": "per lb",
+        "price": 0.85,
+        "article": "CERATE"
+      },
+      {
+        "form": "Resin",
+        "size": "per lb",
+        "price": 0.85,
+        "article": "CERATE"
+      },
+      {
+        "form": "Resin Compound",
+        "size": "per lb",
+        "price": 0.65,
+        "article": "CERATE"
+      },
+      {
+        "form": null,
+        "size": "per lb",
+        "price": 0.57,
+        "article": "CERIUM OXALATE"
+      },
+      {
+        "form": null,
+        "size": "per 1/2 lb",
+        "price": 0.32,
+        "article": "CERIUM OXALATE"
+      },
+      {
+        "form": null,
+        "size": "per 1/4 lb",
+        "price": 0.2,
+        "article": "CERIUM OXALATE"
+      },
+      {
+        "form": null,
+        "size": "per oz",
+        "price": 0.1,
+        "article": "CERIUM OXALATE"
+      },
+      {
+        "form": null,
+        "size": "per lb",
+        "price": 0.18,
+        "article": "CHALK, PREPARED"
+      },
+      {
+        "form": null,
+        "size": "per lb",
+        "price": 0.4,
+        "article": "CHARCOAL"
+      },
+      {
+        "form": null,
+        "size": "per 1/4 lb",
+        "price": 0.25,
+        "article": "CHARCOAL"
+      },
+      {
+        "form": "Animal",
+        "size": "per lb",
+        "price": 0.28,
+        "article": "CHARCOAL"
+      },
+      {
+        "form": "Animal, Purified",
+        "size": "per lb",
+        "price": 3.25,
+        "article": "CHARCOAL"
+      },
+      {
+        "form": "Ground",
+        "size": "per lb",
+        "price": 0.32,
+        "article": "CHIMAPHILA"
+      },
+      {
+        "form": "Ground",
+        "size": "per lb",
+        "price": 0.36,
+        "article": "CHIRATA"
+      },
+      {
+        "form": "Camphorated",
+        "size": "per oz",
+        "price": 0.5,
+        "article": "CHLORAL"
+      },
+      {
+        "form": "Hydrate, Crystals",
+        "size": "per lb",
+        "price": 1.55,
+        "article": "CHLORAL"
+      },
+      {
+        "form": "Hydrate, Crystals",
+        "size": "per 1/2 lb",
+        "price": 0.85,
+        "article": "CHLORAL"
+      },
+      {
+        "form": "Hydrate, Crystals",
+        "size": "per 1/4 lb",
+        "price": 0.48,
+        "article": "CHLORAL"
+      },
+      {
+        "form": "Hydrate, Crystals",
+        "size": "per oz",
+        "price": 0.16,
+        "article": "CHLORAL"
+      },
+      {
+        "form": null,
+        "size": "per lb",
+        "price": 0.96,
+        "article": "CHLOROFORM"
+      },
+      {
+        "form": null,
+        "size": "per 1/2 lb",
+        "price": 0.51,
+        "article": "CHLOROFORM"
+      },
+      {
+        "form": null,
+        "size": "per 1/4 lb",
+        "price": 0.28,
+        "article": "CHLOROFORM"
+      },
+      {
+        "form": null,
+        "size": "per oz",
+        "price": 0.12,
+        "article": "CHLOROFORM"
+      },
+      {
+        "form": null,
+        "size": "per 600 gms",
+        "price": 1,
+        "article": "CHLOROFORM"
+      },
+      {
+        "form": null,
+        "size": "per 250 gms",
+        "price": 0.53,
+        "article": "CHLOROFORM"
+      },
+      {
+        "form": null,
+        "size": "per 100 gms",
+        "price": 0.25,
+        "article": "CHLOROFORM"
+      },
+      {
+        "form": null,
+        "size": "per 25 gms",
+        "price": 0.1,
+        "article": "CHLOROFORM"
+      },
+      {
+        "form": null,
+        "size": "per 500 gms",
+        "price": 1,
+        "article": "CHLOROFORM"
+      },
+      {
+        "form": "For Aqueous Solutions",
+        "size": "per oz",
+        "price": 0.42,
+        "article": "CHLOROFORM"
+      },
+      {
+        "form": "For Alcoholic Solutions",
+        "size": "per oz",
+        "price": 0.42,
+        "article": "CHLOROFORM"
+      },
+      {
+        "form": "Cut",
+        "size": "per lb",
+        "price": 0.24,
+        "article": "CHONDRUS"
+      },
+      {
+        "form": "Chloride",
+        "size": "per oz",
+        "price": 1.15,
+        "article": "CHROMIUM"
+      },
+      {
+        "form": "Trioxide",
+        "size": "per oz",
+        "price": 0.4,
+        "article": "CHROMIUM"
+      },
+      {
+        "form": null,
+        "size": "per lb",
+        "price": 3.15,
+        "article": "CHRYSAROBIN"
+      },
+      {
+        "form": null,
+        "size": "per 1/2 lb",
+        "price": 1.63,
+        "article": "CHRYSAROBIN"
+      },
+      {
+        "form": null,
+        "size": "per 1/4 lb",
+        "price": 0.85,
+        "article": "CHRYSAROBIN"
+      },
+      {
+        "form": null,
+        "size": "per oz",
+        "price": 0.24,
+        "article": "CHRYSAROBIN"
+      },
+      {
+        "form": "Whole",
+        "size": "per lb",
+        "price": 0.53,
+        "article": "CIMIFUGA"
+      },
+      {
+        "form": "Ground",
+        "size": "per lb",
+        "price": 0.55,
+        "article": "CIMIFUGA"
+      },
+      {
+        "form": "Powdered",
+        "size": "per lb",
+        "price": 0.56,
+        "article": "CIMIFUGA"
+      },
+      {
+        "form": "Whole",
+        "size": "per lb",
+        "price": 0.72,
+        "article": "CINCHONA"
+      },
+      {
+        "form": "Ground",
+        "size": "per lb",
+        "price": 0.75,
+        "article": "CINCHONA"
+      },
+      {
+        "form": "Powdered",
+        "size": "per lb",
+        "price": 0.77,
+        "article": "CINCHONA"
+      },
+      {
+        "form": "Red, Whole",
+        "size": "per lb",
+        "price": 0.81,
+        "article": "CINCHONA"
+      },
+      {
+        "form": "Red, Ground",
+        "size": "per lb",
+        "price": 0.84,
+        "article": "CINCHONA"
+      },
+      {
+        "form": "Red, Powdered",
+        "size": "per lb",
+        "price": 0.86,
+        "article": "CINCHONA"
+      },
+      {
+        "form": "Alkaloid",
+        "size": "per oz",
+        "price": 0.63,
+        "article": "CINCHONIDINE"
+      },
+      {
+        "form": "Salicylate",
+        "size": "per oz",
+        "price": 0.44,
+        "article": "CINCHONIDINE"
+      },
+      {
+        "form": "Sulphate",
+        "size": "per oz",
+        "price": 0.4,
+        "article": "CINCHONIDINE"
+      },
+      {
+        "form": null,
+        "size": "per oz",
+        "price": 0.3,
+        "article": "CINCHONINE"
+      },
+      {
+        "form": "Bisulphate",
+        "size": "per oz",
+        "price": 0.22,
+        "article": "CINCHONINE"
+      },
+      {
+        "form": "Hydrochloride",
+        "size": "per oz",
+        "price": 0.21,
+        "article": "CINCHONINE"
+      },
+      {
+        "form": "Salicylate",
+        "size": "per oz",
+        "price": 0.36,
+        "article": "CINCHONINE"
+      },
+      {
+        "form": "Sulphate",
+        "size": "per oz",
+        "price": 0.21,
+        "article": "CINCHONINE"
+      },
+      {
+        "form": null,
+        "size": "per oz",
+        "price": 2.4,
+        "article": "CINNAMIC ALDEHYDE"
+      },
+      {
+        "form": "Cassia, Whole",
+        "size": "per lb",
+        "price": 0.35,
+        "article": "CINNAMON"
+      },
+      {
+        "form": "Cassia, Ground",
+        "size": "per lb",
+        "price": 0.38,
+        "article": "CINNAMON"
+      },
+      {
+        "form": "Cassia, Powdered",
+        "size": "per lb",
+        "price": 0.4,
+        "article": "CINNAMON"
+      },
+      {
+        "form": "Cassia, Powdered",
+        "size": "per doz. small",
+        "price": 1.6,
+        "article": "CINNAMON"
+      },
+      {
+        "form": "Ceylon, Whole",
+        "size": "per lb",
+        "price": 0.55,
+        "article": "CINNAMON"
+      },
+      {
+        "form": "Ceylon, Ground",
+        "size": "per lb",
+        "price": 0.58,
+        "article": "CINNAMON"
+      },
+      {
+        "form": "Ceylon, Powdered",
+        "size": "per lb",
+        "price": 0.6,
+        "article": "CINNAMON"
+      },
+      {
+        "form": "Ceylon, Powdered",
+        "size": "per doz. small",
+        "price": 1.8,
+        "article": "CINNAMON"
+      },
+      {
+        "form": "Saigon, Whole",
+        "size": "per lb.",
+        "price": 1.1,
+        "article": "CINNAMON"
+      },
+      {
+        "form": "Ground",
+        "size": "per lb.",
+        "price": 1.13,
+        "article": "CINNAMON"
+      },
+      {
+        "form": "Powdered",
+        "size": "per lb.",
+        "price": 1.15,
+        "article": "CINNAMON"
+      },
+      {
+        "form": "Whole",
+        "size": "per lb.",
+        "price": 0.35,
+        "article": "CLOVES"
+      },
+      {
+        "form": "Ground",
+        "size": "per lb.",
+        "price": 0.38,
+        "article": "CLOVES"
+      },
+      {
+        "form": "Powdered",
+        "size": "per lb.",
+        "price": 0.4,
+        "article": "CLOVES"
+      },
+      {
+        "form": "Powdered",
+        "size": "per doz. small",
+        "price": 1.6,
+        "article": "CLOVES"
+      },
+      {
+        "form": "Whole",
+        "size": "per lb.",
+        "price": 0.62,
+        "article": "COCA"
+      },
+      {
+        "form": "Ground",
+        "size": "per lb.",
+        "price": 0.64,
+        "article": "COCA"
+      },
+      {
+        "form": "Ground",
+        "size": "per 1/2 lb.",
+        "price": 0.36,
+        "article": "COCA"
+      },
+      {
+        "form": "Ground",
+        "size": "per 1/4 lb.",
+        "price": 0.21,
+        "article": "COCA"
+      },
+      {
+        "form": "Alkaloid",
+        "size": "per oz.",
+        "price": 5.5,
+        "article": "COCAINE"
+      },
+      {
+        "form": "Alkaloid",
+        "size": "per 1/8 oz.",
+        "price": 0.72,
+        "article": "COCAINE"
+      },
+      {
+        "form": "Hydrochloride, Large Crystals",
+        "size": "per oz.",
+        "price": 4.55,
+        "article": "COCAINE"
+      },
+      {
+        "form": "Hydrochloride, Large Crystals",
+        "size": "per 1/2 oz.",
+        "price": 2.3,
+        "article": "COCAINE"
+      },
+      {
+        "form": "Hydrochloride, Large Crystals",
+        "size": "per 1/4 oz.",
+        "price": 1.18,
+        "article": "COCAINE"
+      },
+      {
+        "form": "Hydrochloride, Large Crystals",
+        "size": "per 1/8 oz.",
+        "price": 0.6,
+        "article": "COCAINE"
+      },
+      {
+        "form": "Small Crystals",
+        "size": "per oz.",
+        "price": 4.55,
+        "article": "COCAINE"
+      },
+      {
+        "form": "Small Crystals",
+        "size": "per 1/2 oz.",
+        "price": 2.3,
+        "article": "COCAINE"
+      },
+      {
+        "form": "Small Crystals",
+        "size": "per 1/4 oz.",
+        "price": 1.18,
+        "article": "COCAINE"
+      },
+      {
+        "form": "Small Crystals",
+        "size": "per 1/8 oz.",
+        "price": 0.6,
+        "article": "COCAINE"
+      },
+      {
+        "form": "Whole",
+        "size": "per lb.",
+        "price": 1.15,
+        "article": "COCHINEAL"
+      },
+      {
+        "form": "Whole",
+        "size": "per 1/2 lb.",
+        "price": 0.63,
+        "article": "COCHINEAL"
+      },
+      {
+        "form": "Whole",
+        "size": "per 1/4 lb.",
+        "price": 0.34,
+        "article": "COCHINEAL"
+      },
+      {
+        "form": "Powdered",
+        "size": "per lb.",
+        "price": 1.2,
+        "article": "COCHINEAL"
+      },
+      {
+        "form": "Powdered",
+        "size": "per 1/2 lb.",
+        "price": 0.65,
+        "article": "COCHINEAL"
+      },
+      {
+        "form": "Powdered",
+        "size": "per 1/4 lb.",
+        "price": 0.35,
+        "article": "COCHINEAL"
+      },
+      {
+        "form": null,
+        "size": "per oz.",
+        "price": 5,
+        "article": "CODEINE"
+      },
+      {
+        "form": null,
+        "size": "per 1/8 oz.",
+        "price": 0.65,
+        "article": "CODEINE"
+      },
+      {
+        "form": "Hydrochloride",
+        "size": "per oz.",
+        "price": 4.75,
+        "article": "CODEINE"
+      },
+      {
+        "form": "Hydrochloride",
+        "size": "per 1/8 oz.",
+        "price": 0.62,
+        "article": "CODEINE"
+      },
+      {
+        "form": "Phosphate",
+        "size": "per oz.",
+        "price": 4.46,
+        "article": "CODEINE"
+      },
+      {
+        "form": "Phosphate",
+        "size": "per 1/8 oz.",
+        "price": 0.59,
+        "article": "CODEINE"
+      },
+      {
+        "form": "Sulphate",
+        "size": "per oz.",
+        "price": 4.75,
+        "article": "CODEINE"
+      },
+      {
+        "form": "Sulphate",
+        "size": "per 1/8 oz.",
+        "price": 0.62,
+        "article": "CODEINE"
+      },
+      {
+        "form": null,
+        "size": "per oz.",
+        "price": 30,
+        "article": "COLCHICINE"
+      },
+      {
+        "form": null,
+        "size": "5-gr. vial, per grain",
+        "price": 0.17,
+        "article": "COLCHICINE"
+      },
+      {
+        "form": "Root, Ground",
+        "size": "per lb.",
+        "price": 0.52,
+        "article": "COLCHICUM"
+      },
+      {
+        "form": "Root, Ground",
+        "size": "per 1/2 lb.",
+        "price": 0.3,
+        "article": "COLCHICUM"
+      },
+      {
+        "form": "Root, Ground",
+        "size": "per 1/4 lb.",
+        "price": 0.18,
+        "article": "COLCHICUM"
+      },
+      {
+        "form": "Seed, Ground",
+        "size": "per lb.",
+        "price": 0.9,
+        "article": "COLCHICUM"
+      },
+      {
+        "form": "Seed, Ground",
+        "size": "per 1/2 lb.",
+        "price": 0.49,
+        "article": "COLCHICUM"
+      },
+      {
+        "form": "Seed, Ground",
+        "size": "per 1/4 lb.",
+        "price": 0.27,
+        "article": "COLCHICUM"
+      },
+      {
+        "form": null,
+        "size": "per lb.",
+        "price": 1.18,
+        "article": "COLLODIN"
+      },
+      {
+        "form": null,
+        "size": "per 1/2 lb.",
+        "price": 0.64,
+        "article": "COLLODIN"
+      },
+      {
+        "form": null,
+        "size": "per 1/4 lb.",
+        "price": 0.35,
+        "article": "COLLODIN"
+      },
+      {
+        "form": null,
+        "size": "oz. vials, per doz.",
+        "price": 1.5,
+        "article": "COLLODIN"
+      },
+      {
+        "form": "Cantharidal",
+        "size": "per lb.",
+        "price": 3,
+        "article": "COLLODIN"
+      },
+      {
+        "form": "Cantharidal",
+        "size": "per 1/2 lb.",
+        "price": 1.55,
+        "article": "COLLODIN"
+      },
+      {
+        "form": "Cantharidal",
+        "size": "per 1/4 lb.",
+        "price": 0.8,
+        "article": "COLLODIN"
+      },
+      {
+        "form": "Cantharidal",
+        "size": "per oz.",
+        "price": 0.22,
+        "article": "COLLODIN"
+      },
+      {
+        "form": "Croton Oil",
+        "size": "per oz.",
+        "price": 0.35,
+        "article": "COLLODIN"
+      },
+      {
+        "form": "Flexible",
+        "size": "per lb.",
+        "price": 1.36,
+        "article": "COLLODIN"
+      },
+      {
+        "form": "Flexible",
+        "size": "per 1/2 lb.",
+        "price": 0.73,
+        "article": "COLLODIN"
+      },
+      {
+        "form": "Flexible",
+        "size": "per 1/4 lb.",
+        "price": 0.4,
+        "article": "COLLODIN"
+      },
+      {
+        "form": "Flexible",
+        "size": "oz. vials, per doz.",
+        "price": 2,
+        "article": "COLLODIN"
+      },
+      {
+        "form": "Flexible",
+        "size": "1/2 oz. vials, per doz.",
+        "price": 1.4,
+        "article": "COLLODIN"
+      },
+      {
+        "form": "Iodized",
+        "size": "per oz. vial",
+        "price": 0.35,
+        "article": "COLLODIN"
+      },
+      {
+        "form": "Iodoform",
+        "size": "per lb",
+        "price": 1.8,
+        "article": "COLLODIN"
+      },
+      {
+        "form": "Iodoform",
+        "size": "per 1/2 lb",
+        "price": 0.94,
+        "article": "COLLODIN"
+      },
+      {
+        "form": "Iodoform",
+        "size": "per 1/4 lb",
+        "price": 0.5,
+        "article": "COLLODIN"
+      },
+      {
+        "form": "Iodoform",
+        "size": "per oz",
+        "price": 0.18,
+        "article": "COLLODIN"
+      },
+      {
+        "form": "Salicylated",
+        "size": "per lb",
+        "price": 1.8,
+        "article": "COLLODIN"
+      },
+      {
+        "form": "Salicylated",
+        "size": "per 1/2 lb",
+        "price": 0.94,
+        "article": "COLLODIN"
+      },
+      {
+        "form": "Salicylated",
+        "size": "per 1/4 lb",
+        "price": 0.5,
+        "article": "COLLODIN"
+      },
+      {
+        "form": "Salicylated",
+        "size": "per oz",
+        "price": 0.18,
+        "article": "COLLODIN"
+      },
+      {
+        "form": "Styptic",
+        "size": "per lb",
+        "price": 1.36,
+        "article": "COLLODIN"
+      },
+      {
+        "form": "Styptic",
+        "size": "per 1/2 lb",
+        "price": 0.72,
+        "article": "COLLODIN"
+      },
+      {
+        "form": "Styptic",
+        "size": "per 1/4 lb",
+        "price": 0.39,
+        "article": "COLLODIN"
+      },
+      {
+        "form": "Styptic",
+        "size": "per oz",
+        "price": 0.15,
+        "article": "COLLODIN"
+      },
+      {
+        "form": "Whole",
+        "size": "per lb",
+        "price": 2.5,
+        "article": "COLOCYNTH"
+      },
+      {
+        "form": "Whole",
+        "size": "per 1/2 lb",
+        "price": 1.28,
+        "article": "COLOCYNTH"
+      },
+      {
+        "form": "Whole",
+        "size": "per 1/4 lb",
+        "price": 0.66,
+        "article": "COLOCYNTH"
+      },
+      {
+        "form": "Powdered",
+        "size": "per lb",
+        "price": 2.6,
+        "article": "COLOCYNTH"
+      },
+      {
+        "form": "Powdered",
+        "size": "per 1/2 lb",
+        "price": 1.33,
+        "article": "COLOCYNTH"
+      },
+      {
+        "form": "Powdered",
+        "size": "per 1/4 lb",
+        "price": 0.69,
+        "article": "COLOCYNTH"
+      },
+      {
+        "form": "Rose",
+        "size": "per lb",
+        "price": 1.05,
+        "article": "CONFECTION"
+      },
+      {
+        "form": "Sienna",
+        "size": "per lb",
+        "price": 0.75,
+        "article": "CONFECTION"
+      },
+      {
+        "form": null,
+        "size": "per 1/8 oz. vial",
+        "price": 1.2,
+        "article": "CONIINE"
+      },
+      {
+        "form": "Hydrobromide, Crystals,",
+        "size": "per 15 gr. vial",
+        "price": 0.6,
+        "article": "CONIINE"
+      },
+      {
+        "form": "Ground",
+        "size": "per lb",
+        "price": 0.65,
+        "article": "CONIUM"
+      },
+      {
+        "form": "Ground",
+        "size": "per lb",
+        "price": 0.48,
+        "article": "CONVALLARIA"
+      },
+      {
+        "form": null,
+        "size": "per lb",
+        "price": 0.9,
+        "article": "COPAIBA"
+      },
+      {
+        "form": "Acetate",
+        "size": "per lb",
+        "price": 0.84,
+        "article": "COPPER"
+      },
+      {
+        "form": "Acetate",
+        "size": "per 1/2 lb",
+        "price": 0.46,
+        "article": "COPPER"
+      },
+      {
+        "form": "Acetate",
+        "size": "per 1/4 lb",
+        "price": 0.27,
+        "article": "COPPER"
+      },
+      {
+        "form": "Acetate",
+        "size": "per oz",
+        "price": 0.17,
+        "article": "COPPER"
+      },
+      {
+        "form": "Aluminated",
+        "size": "per lb",
+        "price": 0.72,
+        "article": "COPPER"
+      },
+      {
+        "form": "Aluminated",
+        "size": "per 1/2 lb",
+        "price": 0.4,
+        "article": "COPPER"
+      },
+      {
+        "form": "Aluminated",
+        "size": "per 1/4 lb",
+        "price": 0.24,
+        "article": "COPPER"
+      },
+      {
+        "form": "Arsenite",
+        "size": "per oz",
+        "price": 0.24,
+        "article": "COPPER"
+      },
+      {
+        "form": "Citrate",
+        "size": "per oz",
+        "price": 0.35,
+        "article": "COPPER"
+      },
+      {
+        "form": "Oxide, Black",
+        "size": "per lb",
+        "price": 1,
+        "article": "COPPER"
+      },
+      {
+        "form": "Oxide, Black",
+        "size": "per oz",
+        "price": 0.15,
+        "article": "COPPER"
+      },
+      {
+        "form": "Red",
+        "size": "per lb",
+        "price": 1.85,
+        "article": "COPPER"
+      },
+      {
+        "form": "Sulphate, Crystals",
+        "size": "per lb",
+        "price": 0.32,
+        "article": "COPPER"
+      },
+      {
+        "form": "Granular",
+        "size": "per lb",
+        "price": 0.32,
+        "article": "COPPER"
+      },
+      {
+        "form": "Tartrate",
+        "size": "per lb",
+        "price": 1.6,
+        "article": "COPPER"
+      },
+      {
+        "form": "Tartrate",
+        "size": "per 1/2 lb",
+        "price": 0.83,
+        "article": "COPPER"
+      },
+      {
+        "form": "Tartrate",
+        "size": "per 1/4 lb",
+        "price": 0.49,
+        "article": "COPPER"
+      },
+      {
+        "form": "Whole",
+        "size": "per lb",
+        "price": 0.44,
+        "article": "CORIANDER"
+      },
+      {
+        "form": "Ground",
+        "size": "per lb",
+        "price": 0.46,
+        "article": "CORIANDER"
+      },
+      {
+        "form": "Styptic",
+        "size": "per oz",
+        "price": 0.25,
+        "article": "COTTON"
+      },
+      {
+        "form": "Root Bark, Ground",
+        "size": "per lb",
+        "price": 0.7,
+        "article": "COTTON"
+      },
+      {
+        "form": null,
+        "size": "per lb",
+        "price": 1,
+        "article": "CREAM, COLD"
+      },
+      {
+        "form": null,
+        "size": "per lb",
+        "price": 1.35,
+        "article": "CREOSOTE"
+      },
+      {
+        "form": null,
+        "size": "per 1/2 lb",
+        "price": 0.71,
+        "article": "CREOSOTE"
+      },
+      {
+        "form": null,
+        "size": "per 1/4 lb",
+        "price": 0.39,
+        "article": "CREOSOTE"
+      },
+      {
+        "form": null,
+        "size": "per oz",
+        "price": 0.18,
+        "article": "CREOSOTE"
+      },
+      {
+        "form": null,
+        "size": "per lb",
+        "price": 0.95,
+        "article": "CRESOL"
+      },
+      {
+        "form": "Whole",
+        "size": "per lb",
+        "price": 0.28,
+        "article": "CUBEB"
+      },
+      {
+        "form": "Ground",
+        "size": "per lb",
+        "price": 0.32,
+        "article": "CUBEB"
+      },
+      {
+        "form": "Ground",
+        "size": "per lb",
+        "price": 0.72,
+        "article": "CYPRIPEDIUM"
+      },
+      {
+        "form": null,
+        "size": "per 15 gr. vial",
+        "price": 1.85,
+        "article": "DATURINE"
+      },
+      {
+        "form": null,
+        "size": "per 10 gr. vial",
+        "price": 1.45,
+        "article": "DATURINE"
+      },
+      {
+        "form": "Sulphate",
+        "size": "per 15 gr. vial",
+        "price": 1.85,
+        "article": "DATURINE"
+      },
+      {
+        "form": "Sulphate",
+        "size": "per 10 gr. vial",
+        "price": 1.45,
+        "article": "DATURINE"
+      },
+      {
+        "form": "Sulphate",
+        "size": "per 5 gr. vial",
+        "price": 0.95,
+        "article": "DATURINE"
+      },
+      {
+        "form": null,
+        "size": "per pint",
+        "price": 1.35,
+        "article": "DECOCTION ALOES COMPOUND"
+      },
+      {
+        "form": null,
+        "size": "per 1/2 pint",
+        "price": 0.72,
+        "article": "DECOCTION ALOES COMPOUND"
+      },
+      {
+        "form": null,
+        "size": "per 1/4 pint",
+        "price": 0.4,
+        "article": "DECOCTION ALOES COMPOUND"
+      },
+      {
+        "form": null,
+        "size": "per lb",
+        "price": 2.55,
+        "article": "DEXTROSE"
+      },
+      {
+        "form": null,
+        "size": "per 1/2 lb",
+        "price": 1.31,
+        "article": "DEXTROSE"
+      },
+      {
+        "form": null,
+        "size": "per 1/4 lb",
+        "price": 0.69,
+        "article": "DEXTROSE"
+      },
+      {
+        "form": null,
+        "size": "per 1/8 oz. vial",
+        "price": 1.05,
+        "article": "DIGITALIN"
+      },
+      {
+        "form": null,
+        "size": "per 15 gr. vial",
+        "price": 0.48,
+        "article": "DIGITALIN"
+      },
+      {
+        "form": null,
+        "size": "per lb",
+        "price": 0.52,
+        "article": "DIGITALIS—Whole"
+      },
+      {
+        "form": "Ground",
+        "size": "per lb",
+        "price": 0.54,
+        "article": "DIGITALIS—Whole"
+      },
+      {
+        "form": null,
+        "size": "per 1 gr. vial",
+        "price": 1.8,
+        "article": "DIGITOXIN"
+      },
+      {
+        "form": null,
+        "size": "per 15 gr. vial",
+        "price": 1.8,
+        "article": "DUBOISINE SULPHATE"
+      },
+      {
+        "form": null,
+        "size": "per 10 gr. vial",
+        "price": 1.3,
+        "article": "DUBOISINE SULPHATE"
+      },
+      {
+        "form": null,
+        "size": "per 5 gr. vial",
+        "price": 0.85,
+        "article": "DUBOISINE SULPHATE"
+      },
+      {
+        "form": null,
+        "size": "per doz.",
+        "price": 8,
+        "article": "EMULSION—Cod Liver Oil with Extract Malt."
+      },
+      {
+        "form": "Cod Liver Oil with Hypophosphites",
+        "size": "per doz",
+        "price": 7,
+        "article": "EMULSION—Cod Liver Oil with Extract Malt."
+      },
+      {
+        "form": "Cod Liver Oil with Wild Cherry",
+        "size": "per doz",
+        "price": 7,
+        "article": "EMULSION—Cod Liver Oil with Extract Malt."
+      },
+      {
+        "form": "Oil Turpentine",
+        "size": "per doz",
+        "price": 15,
+        "article": "EMULSION—Cod Liver Oil with Extract Malt."
+      },
+      {
+        "form": null,
+        "size": "per lb",
+        "price": 1.5,
+        "article": "ERGOT—Whole"
+      },
+      {
+        "form": null,
+        "size": "per 1/2 lb",
+        "price": 0.8,
+        "article": "ERGOT—Whole"
+      },
+      {
+        "form": null,
+        "size": "per 1/4 lb",
+        "price": 0.45,
+        "article": "ERGOT—Whole"
+      },
+      {
+        "form": "Ground",
+        "size": "per lb",
+        "price": 1.7,
+        "article": "ERGOT—Whole"
+      },
+      {
+        "form": "Ground",
+        "size": "per 1/2 lb",
+        "price": 0.9,
+        "article": "ERGOT—Whole"
+      },
+      {
+        "form": "Ground",
+        "size": "per 1/4 lb",
+        "price": 0.5,
+        "article": "ERGOT—Whole"
+      },
+      {
+        "form": null,
+        "size": "per lb",
+        "price": 0.38,
+        "article": "ERIODICTYON—Ground"
+      },
+      {
+        "form": null,
+        "size": "per lb",
+        "price": 1.23,
+        "article": "ETHER"
+      },
+      {
+        "form": null,
+        "size": "per 1/2 lb",
+        "price": 0.66,
+        "article": "ETHER"
+      },
+      {
+        "form": null,
+        "size": "per 1/4 lb",
+        "price": 0.36,
+        "article": "ETHER"
+      },
+      {
+        "form": null,
+        "size": "per 2 kilo",
+        "price": 5.2,
+        "article": "ETHER"
+      },
+      {
+        "form": null,
+        "size": "per kilo",
+        "price": 2.65,
+        "article": "ETHER"
+      },
+      {
+        "form": null,
+        "size": "per 500 gms",
+        "price": 1.35,
+        "article": "ETHER"
+      },
+      {
+        "form": null,
+        "size": "per 250 gms",
+        "price": 0.72,
+        "article": "ETHER"
+      },
+      {
+        "form": null,
+        "size": "per 100 gms",
+        "price": 0.33,
+        "article": "ETHER"
+      },
+      {
+        "form": null,
+        "size": "per lb",
+        "price": 0.98,
+        "article": "Acetic"
+      },
+      {
+        "form": null,
+        "size": "per 1/2 lb",
+        "price": 0.53,
+        "article": "Acetic"
+      },
+      {
+        "form": null,
+        "size": "per 1/4 lb",
+        "price": 0.3,
+        "article": "Acetic"
+      },
+      {
+        "form": null,
+        "size": "per oz",
+        "price": 0.12,
+        "article": "Acetic"
+      },
+      {
+        "form": null,
+        "size": "per lb",
+        "price": 2.52,
+        "article": "ETHYL—Bromide"
+      },
+      {
+        "form": null,
+        "size": "per 1/2 lb",
+        "price": 1.3,
+        "article": "ETHYL—Bromide"
+      },
+      {
+        "form": null,
+        "size": "per 1/4 lb",
+        "price": 0.84,
+        "article": "OXGALL—Powdered"
+      },
+      {
+        "form": null,
+        "size": "per oz",
+        "price": 0.38,
+        "article": "ETHYL—Bromide"
+      },
+      {
+        "form": null,
+        "size": "per 1/4 oz",
+        "price": 0.18,
+        "article": "ETHYL—Bromide"
+      },
+      {
+        "form": "Carbamate",
+        "size": "per oz",
+        "price": 0.4,
+        "article": "ETHYL—Bromide"
+      },
+      {
+        "form": "Chloride",
+        "size": "per oz",
+        "price": 0.4,
+        "article": "ETHYL—Bromide"
+      },
+      {
+        "form": "2Cc. capillary tubes, for local anesthesia",
+        "size": "per box of 12",
+        "price": 3,
+        "article": "ETHYL—Bromide"
+      },
+      {
+        "form": "5Cc glass capsules, for general anesthesia.",
+        "size": "per box of 6",
+        "price": 1.2,
+        "article": "ETHYL—Bromide"
+      },
+      {
+        "form": "Iodide",
+        "size": "per oz",
+        "price": 0.75,
+        "article": "ETHYL—Bromide"
+      },
+      {
+        "form": null,
+        "size": "per lb",
+        "price": 2.1,
+        "article": "EUCALYPTOL"
+      },
+      {
+        "form": null,
+        "size": "per 1/2 lb",
+        "price": 1.1,
+        "article": "EUCALYPTOL"
+      },
+      {
+        "form": null,
+        "size": "per 1/4 lb",
+        "price": 0.58,
+        "article": "EUCALYPTOL"
+      },
+      {
+        "form": null,
+        "size": "per oz",
+        "price": 0.23,
+        "article": "EUCALYPTOL"
+      },
+      {
+        "form": null,
+        "size": "per lb",
+        "price": 0.28,
+        "article": "EUCALYPTUS—Whole"
+      },
+      {
+        "form": "Ground",
+        "size": "per lb",
+        "price": 0.32,
+        "article": "EUCALYPTUS—Whole"
+      },
+      {
+        "form": null,
+        "size": "per oz",
+        "price": 0.48,
+        "article": "EUGENOL"
+      },
+      {
+        "form": null,
+        "size": "per lb",
+        "price": 0.54,
+        "article": "EUONYMUS—Ground"
+      },
+      {
+        "form": null,
+        "size": "per lb",
+        "price": 0.28,
+        "article": "EUPATORIUM—Cut"
+      },
+      {
+        "form": "Ground",
+        "size": "per lb",
+        "price": 0.3,
+        "article": "EUPATORIUM—Cut"
+      },
+      {
+        "form": null,
+        "size": "per lb",
+        "price": 4.8,
+        "article": "EXTRACT—Aconite Root"
+      },
+      {
+        "form": null,
+        "size": "per 1/2 lb",
+        "price": 2.46,
+        "article": "EXTRACT—Aconite Root"
+      },
+      {
+        "form": null,
+        "size": "per 1/4 lb",
+        "price": 1.26,
+        "article": "EXTRACT—Aconite Root"
+      },
+      {
+        "form": null,
+        "size": "per oz",
+        "price": 0.36,
+        "article": "EXTRACT—Aconite Root"
+      },
+      {
+        "form": null,
+        "size": "per lb",
+        "price": 2,
+        "article": "Aloes, Powdered"
+      },
+      {
+        "form": null,
+        "size": "per 1/2 lb",
+        "price": 1.16,
+        "article": "Aloes, Powdered"
+      },
+      {
+        "form": null,
+        "size": "per 1/4 lb",
+        "price": 0.61,
+        "article": "Aloes, Powdered"
+      },
+      {
+        "form": null,
+        "size": "per oz",
+        "price": 0.2,
+        "article": "Aloes, Powdered"
+      },
+      {
+        "form": null,
+        "size": "per lb",
+        "price": 4.3,
+        "article": "Belladonna Leaves"
+      },
+      {
+        "form": null,
+        "size": "per 1/2 lb",
+        "price": 2.21,
+        "article": "Belladonna Leaves"
+      },
+      {
+        "form": null,
+        "size": "per 1/4 lb",
+        "price": 1.14,
+        "article": "Belladonna Leaves"
+      },
+      {
+        "form": null,
+        "size": "per oz",
+        "price": 0.32,
+        "article": "Belladonna Leaves"
+      },
+      {
+        "form": null,
+        "size": "per lb",
+        "price": 22,
+        "article": "Cannabis Indica"
+      },
+      {
+        "form": null,
+        "size": "per 1/2 lb",
+        "price": 11.06,
+        "article": "Cannabis Indica"
+      },
+      {
+        "form": null,
+        "size": "per 1/4 lb",
+        "price": 5.56,
+        "article": "Cannabis Indica"
+      },
+      {
+        "form": null,
+        "size": "per oz",
+        "price": 1.45,
+        "article": "Cannabis Indica"
+      },
+      {
+        "form": null,
+        "size": "per lb",
+        "price": 3.3,
+        "article": "Cascara Sagrada, Powdered"
+      },
+      {
+        "form": null,
+        "size": "per 1/2 lb",
+        "price": 1.7,
+        "article": "Cascara Sagrada, Powdered"
+      },
+      {
+        "form": null,
+        "size": "per 1/4 lb",
+        "price": 0.88,
+        "article": "Cascara Sagrada, Powdered"
+      },
+      {
+        "form": null,
+        "size": "per oz",
+        "price": 0.4,
+        "article": "Cascara Sagrada, Powdered"
+      },
+      {
+        "form": null,
+        "size": "per lb",
+        "price": 4,
+        "article": "Cimifuga, Powdered"
+      },
+      {
+        "form": null,
+        "size": "per oz",
+        "price": 0.4,
+        "article": "Cimifuga, Powdered"
+      },
+      {
+        "form": null,
+        "size": "per oz",
+        "price": 0.26,
+        "article": "Cinchona Compound"
+      },
+      {
+        "form": null,
+        "size": "per lb",
+        "price": 3.6,
+        "article": "Colchicum Root"
+      },
+      {
+        "form": null,
+        "size": "per 1/2 lb",
+        "price": 1.86,
+        "article": "Colchicum Root"
+      },
+      {
+        "form": null,
+        "size": "per 1/4 lb",
+        "price": 0.96,
+        "article": "Colchicum Root"
+      },
+      {
+        "form": null,
+        "size": "per oz",
+        "price": 0.3,
+        "article": "Colchicum Root"
+      },
+      {
+        "form": "HELIOTROPIN",
+        "size": "per oz",
+        "price": 0.6,
+        "article": "GLYCERITE"
+      },
+      {
+        "form": null,
+        "size": "per oz",
+        "price": 0.49,
+        "article": "Colocynth, Powdered"
+      },
+      {
+        "form": null,
+        "size": "per lb",
+        "price": 4.05,
+        "article": "Colocynth Compound, Powdered"
+      },
+      {
+        "form": null,
+        "size": "per 1/2 lb",
+        "price": 2.08,
+        "article": "Colocynth Compound, Powdered"
+      },
+      {
+        "form": null,
+        "size": "per 1/4 lb",
+        "price": 1.07,
+        "article": "Colocynth Compound, Powdered"
+      },
+      {
+        "form": "GLYCYRRHIZIN AMMONIATED",
+        "size": "per oz",
+        "price": 0.35,
+        "article": "GLYCERITE"
+      },
+      {
+        "form": null,
+        "size": "per lb",
+        "price": 6.05,
+        "article": "Digitalis"
+      },
+      {
+        "form": null,
+        "size": "per 1/2 lb",
+        "price": 3.1,
+        "article": "Digitalis"
+      },
+      {
+        "form": null,
+        "size": "per 1/4 lb",
+        "price": 1.6,
+        "article": "Digitalis"
+      },
+      {
+        "form": null,
+        "size": "per oz",
+        "price": 0.55,
+        "article": "Digitalis"
+      },
+      {
+        "form": null,
+        "size": "per lb",
+        "price": 12.1,
+        "article": "Ergot"
+      },
+      {
+        "form": null,
+        "size": "per 1/2 lb",
+        "price": 6.13,
+        "article": "Ergot"
+      },
+      {
+        "form": null,
+        "size": "per 1/4 lb",
+        "price": 3.12,
+        "article": "Ergot"
+      },
+      {
+        "form": null,
+        "size": "per oz",
+        "price": 0.8,
+        "article": "Ergot"
+      },
+      {
+        "form": "FLUID—Ginger for Syrup,",
+        "size": "per pint",
+        "price": 0.8,
+        "article": "EXTRACT"
+      },
+      {
+        "form": null,
+        "size": "per oz",
+        "price": 0.4,
+        "article": "Euonymus, Powdered"
+      },
+      {
+        "form": null,
+        "size": "per lb",
+        "price": 2.4,
+        "article": "Frangula"
+      },
+      {
+        "form": null,
+        "size": "per 1/2 lb",
+        "price": 1.26,
+        "article": "Frangula"
+      },
+      {
+        "form": null,
+        "size": "per 1/4 lb",
+        "price": 0.66,
+        "article": "Frangula"
+      },
+      {
+        "form": null,
+        "size": "per oz",
+        "price": 0.22,
+        "article": "Frangula"
+      },
+      {
+        "form": null,
+        "size": "per lb",
+        "price": 1,
+        "article": "Gentian"
+      },
+      {
+        "form": null,
+        "size": "per 1/2 lb",
+        "price": 0.56,
+        "article": "Gentian"
+      },
+      {
+        "form": null,
+        "size": "per 1/4 lb",
+        "price": 0.31,
+        "article": "Gentian"
+      },
+      {
+        "form": null,
+        "size": "per oz",
+        "price": 0.18,
+        "article": "Gentian"
+      },
+      {
+        "form": null,
+        "size": "per lb",
+        "price": 0.72,
+        "article": "Glycyrrhiza, Powdered"
+      },
+      {
+        "form": null,
+        "size": "per 1/2 lb",
+        "price": 0.42,
+        "article": "Glycyrrhiza, Powdered"
+      },
+      {
+        "form": null,
+        "size": "per 1/4 lb",
+        "price": 0.24,
+        "article": "Glycyrrhiza, Powdered"
+      },
+      {
+        "form": null,
+        "size": "per oz",
+        "price": 0.18,
+        "article": "Glycyrrhiza, Powdered"
+      },
+      {
+        "form": null,
+        "size": "per lb",
+        "price": 1.1,
+        "article": "Glycyrrhiza, Pure"
+      },
+      {
+        "form": null,
+        "size": "per 1/2 lb",
+        "price": 0.61,
+        "article": "Glycyrrhiza, Pure"
+      },
+      {
+        "form": null,
+        "size": "per 1/4 lb",
+        "price": 0.34,
+        "article": "Glycyrrhiza, Pure"
+      },
+      {
+        "form": null,
+        "size": "per oz",
+        "price": 0.18,
+        "article": "Glycyrrhiza, Pure"
+      },
+      {
+        "form": null,
+        "size": "per oz",
+        "price": 0.18,
+        "article": "Hematoxylon, Powdered"
+      },
+      {
+        "form": null,
+        "size": "per lb",
+        "price": 3.9,
+        "article": "Hyoscyamus"
+      },
+      {
+        "form": null,
+        "size": "per 1/2 lb",
+        "price": 2,
+        "article": "Hyoscyamus"
+      },
+      {
+        "form": null,
+        "size": "per 1/4 lb",
+        "price": 1.04,
+        "article": "Hyoscyamus"
+      },
+      {
+        "form": null,
+        "size": "per oz",
+        "price": 0.35,
+        "article": "Colocynth Compound, Powdered"
+      },
+      {
+        "form": "Jalap, Powdered",
+        "size": "per lb",
+        "price": 4.8,
+        "article": "EXTRACT"
+      },
+      {
+        "form": "Jalap, Powdered",
+        "size": "per 1/2 lb",
+        "price": 2.46,
+        "article": "EXTRACT"
+      },
+      {
+        "form": "Jalap, Powdered",
+        "size": "per 1/4 lb",
+        "price": 1.26,
+        "article": "EXTRACT"
+      },
+      {
+        "form": "Jalap, Powdered",
+        "size": "per oz",
+        "price": 0.36,
+        "article": "EXTRACT"
+      },
+      {
+        "form": "Krameria, Powdered,",
+        "size": "per oz",
+        "price": 0.25,
+        "article": "EXTRACT"
+      },
+      {
+        "form": "Leptandra, Powdered,",
+        "size": "per oz",
+        "price": 0.36,
+        "article": "EXTRACT"
+      },
+      {
+        "form": "Malt",
+        "size": "per doz. pints",
+        "price": 7.2,
+        "article": "EXTRACT"
+      },
+      {
+        "form": "Malt, Dry, Powdered..",
+        "size": "per lb",
+        "price": 1,
+        "article": "EXTRACT"
+      },
+      {
+        "form": "Malt, Dry, Powdered..",
+        "size": "per 1/2 lb",
+        "price": 0.56,
+        "article": "EXTRACT"
+      },
+      {
+        "form": "Malt, Dry, Powdered..",
+        "size": "per 1/4 lb",
+        "price": 0.31,
+        "article": "EXTRACT"
+      },
+      {
+        "form": "Nux Vomica, Powdered,",
+        "size": "per lb",
+        "price": 2.9,
+        "article": "EXTRACT"
+      },
+      {
+        "form": "Nux Vomica, Powdered,",
+        "size": "per 1/2 lb",
+        "price": 1.51,
+        "article": "EXTRACT"
+      },
+      {
+        "form": "Nux Vomica, Powdered,",
+        "size": "per 1/4 lb",
+        "price": 0.79,
+        "article": "EXTRACT"
+      },
+      {
+        "form": "Nux Vomica, Powdered,",
+        "size": "per oz",
+        "price": 0.25,
+        "article": "EXTRACT"
+      },
+      {
+        "form": "Opium, Powdered",
+        "size": "per lb",
+        "price": 12.3,
+        "article": "EXTRACT"
+      },
+      {
+        "form": "Opium, Powdered",
+        "size": "per 1/2 lb",
+        "price": 6.2,
+        "article": "EXTRACT"
+      },
+      {
+        "form": "Opium, Powdered",
+        "size": "per 1/4 lb",
+        "price": 3.15,
+        "article": "EXTRACT"
+      },
+      {
+        "form": "Opium, Powdered",
+        "size": "per oz",
+        "price": 1.3,
+        "article": "EXTRACT"
+      },
+      {
+        "form": "Physostigma, Powdered,",
+        "size": "per oz",
+        "price": 1.8,
+        "article": "EXTRACT"
+      },
+      {
+        "form": "Quassia",
+        "size": "per oz",
+        "price": 0.28,
+        "article": "EXTRACT"
+      },
+      {
+        "form": "Rhubarb",
+        "size": "per lb",
+        "price": 10,
+        "article": "EXTRACT"
+      },
+      {
+        "form": "Rhubarb",
+        "size": "per 1/2 lb",
+        "price": 5.06,
+        "article": "EXTRACT"
+      },
+      {
+        "form": "Rhubarb",
+        "size": "per 1/4 lb",
+        "price": 2.56,
+        "article": "EXTRACT"
+      },
+      {
+        "form": "Rhubarb",
+        "size": "per oz",
+        "price": 0.75,
+        "article": "EXTRACT"
+      },
+      {
+        "form": "Scopola",
+        "size": "per oz",
+        "price": 0.36,
+        "article": "EXTRACT"
+      },
+      {
+        "form": "Strammonium",
+        "size": "per lb",
+        "price": 4.8,
+        "article": "EXTRACT"
+      },
+      {
+        "form": "Strammonium",
+        "size": "per 1/2 lb",
+        "price": 2.46,
+        "article": "EXTRACT"
+      },
+      {
+        "form": "Strammonium",
+        "size": "per 1/4 lb",
+        "price": 1.26,
+        "article": "EXTRACT"
+      },
+      {
+        "form": "Strammonium",
+        "size": "per oz",
+        "price": 0.4,
+        "article": "EXTRACT"
+      },
+      {
+        "form": "Sumbul",
+        "size": "per oz",
+        "price": 0.72,
+        "article": "EXTRACT"
+      },
+      {
+        "form": "Taraxacum",
+        "size": "per lb",
+        "price": 2.25,
+        "article": "EXTRACT"
+      },
+      {
+        "form": "Taraxacum",
+        "size": "per 1/2 lb",
+        "price": 1.2,
+        "article": "EXTRACT"
+      },
+      {
+        "form": "Taraxacum",
+        "size": "per 1/4 lb",
+        "price": 0.63,
+        "article": "EXTRACT"
+      },
+      {
+        "form": "Taraxacum",
+        "size": "per oz",
+        "price": 0.3,
+        "article": "EXTRACT"
+      },
+      {
+        "form": "FEHLING'S TEST SOLUTION ELEMENTS, Copper Sulphate Solution,",
+        "size": "per 500Cc",
+        "price": 0.55,
+        "article": "EXTRACT"
+      },
+      {
+        "form": "FEHLING'S TEST SOLUTION ELEMENTS, Copper Sulphate Solution,",
+        "size": "per 100 Cc",
+        "price": 0.25,
+        "article": "EXTRACT"
+      },
+      {
+        "form": "FEHLING'S TEST SOLUTION ELEMENTS, Alkaline Tartrate Solution,",
+        "size": "per 500 Cc",
+        "price": 0.55,
+        "article": "EXTRACT"
+      },
+      {
+        "form": "FEHLING'S TEST SOLUTION ELEMENTS, Alkaline Tartrate Solution,",
+        "size": "per 100 Cc",
+        "price": 0.25,
+        "article": "EXTRACT"
+      },
+      {
+        "form": "FENNEL—Powdered",
+        "size": "per lb",
+        "price": 0.4,
+        "article": "EXTRACT"
+      },
+      {
+        "form": "In capsules holding 60 grs., 5 in a vial, vial",
+        "size": null,
+        "price": 0.8,
+        "article": "Ergot"
+      },
+      {
+        "form": "FLUID—Ginger for Syrup,",
+        "size": "per 1/2 pint",
+        "price": 0.44,
+        "article": "EXTRACT"
+      },
+      {
+        "form": "FLUID—Ginger for Syrup,",
+        "size": "per 1/4 pint",
+        "price": 0.25,
+        "article": "EXTRACT"
+      },
+      {
+        "form": "Hydrastis, Colorless,",
+        "size": "per pint",
+        "price": 2.25,
+        "article": "EXTRACT"
+      },
+      {
+        "form": "Hydrastis, Colorless,",
+        "size": "per 1/2 pint",
+        "price": 1.17,
+        "article": "EXTRACT"
+      },
+      {
+        "form": "Hydrastis, Colorless,",
+        "size": "per 1/4 pint",
+        "price": 0.6,
+        "article": "EXTRACT"
+      },
+      {
+        "form": "Opium for Tincture",
+        "size": "per pint",
+        "price": 6,
+        "article": "EXTRACT"
+      },
+      {
+        "form": "Opium for Tincture",
+        "size": "per 1/2 pint",
+        "price": 3.04,
+        "article": "EXTRACT"
+      },
+      {
+        "form": "Opium for Tincture",
+        "size": "per 1/4 pint",
+        "price": 1.59,
+        "article": "EXTRACT"
+      },
+      {
+        "form": "Wild Cherry for Syrup",
+        "size": "per pint",
+        "price": 0.85,
+        "article": "EXTRACT"
+      },
+      {
+        "form": "Wild Cherry for Syrup",
+        "size": "per 1/2 pint",
+        "price": 0.47,
+        "article": "EXTRACT"
+      },
+      {
+        "form": "Wild Cherry for Syrup",
+        "size": "per 1/4 pint",
+        "price": 0.26,
+        "article": "EXTRACT"
+      },
+      {
+        "form": "FLUID EXTRACT—Aconite,",
+        "size": "per pint",
+        "price": 1.25,
+        "article": "EXTRACT"
+      },
+      {
+        "form": "FLUID EXTRACT—Aconite,",
+        "size": "per 1/2 pint",
+        "price": 0.67,
+        "article": "EXTRACT"
+      },
+      {
+        "form": "FLUID EXTRACT—Aconite,",
+        "size": "per 1/4 pint",
+        "price": 0.36,
+        "article": "EXTRACT"
+      },
+      {
+        "form": "Arnica Flowers",
+        "size": "per pint",
+        "price": 1,
+        "article": "EXTRACT"
+      },
+      {
+        "form": "Arnica Flowers",
+        "size": "per 1/2 pint",
+        "price": 0.54,
+        "article": "EXTRACT"
+      },
+      {
+        "form": "Arnica Flowers",
+        "size": "per 1/4 pint",
+        "price": 0.29,
+        "article": "EXTRACT"
+      },
+      {
+        "form": "Arnica Root, U. S. P., 1890,",
+        "size": "per pint",
+        "price": 1.25,
+        "article": "FLUID EXTRACT"
+      },
+      {
+        "form": "Arnica Root, U. S. P., 1890,",
+        "size": "per ½ pint",
+        "price": 0.67,
+        "article": "FLUID EXTRACT"
+      },
+      {
+        "form": "Arnica Root, U. S. P., 1890,",
+        "size": "per ¼ pint",
+        "price": 0.36,
+        "article": "FLUID EXTRACT"
+      },
+      {
+        "form": "Belladonna Leaves",
+        "size": "per pint",
+        "price": 1.25,
+        "article": "FLUID EXTRACT"
+      },
+      {
+        "form": "Belladonna Leaves",
+        "size": "per ½ pint",
+        "price": 0.67,
+        "article": "FLUID EXTRACT"
+      },
+      {
+        "form": "Belladonna Leaves",
+        "size": "per ¼ pint",
+        "price": 0.36,
+        "article": "FLUID EXTRACT"
+      },
+      {
+        "form": "Belladonna Root",
+        "size": "per pint",
+        "price": 1.25,
+        "article": "FLUID EXTRACT"
+      },
+      {
+        "form": "Belladonna Root",
+        "size": "per ½ pint",
+        "price": 0.67,
+        "article": "FLUID EXTRACT"
+      },
+      {
+        "form": "Belladonna Root",
+        "size": "per ¼ pint",
+        "price": 0.36,
+        "article": "FLUID EXTRACT"
+      },
+      {
+        "form": "Black Cohosh",
+        "size": "per pint",
+        "price": 1.2,
+        "article": "FLUID EXTRACT"
+      },
+      {
+        "form": "Black Cohosh",
+        "size": "per ½ pint",
+        "price": 0.64,
+        "article": "FLUID EXTRACT"
+      },
+      {
+        "form": "Black Cohosh",
+        "size": "per ¼ pint",
+        "price": 0.34,
+        "article": "FLUID EXTRACT"
+      },
+      {
+        "form": "Black Haw",
+        "size": "per pint",
+        "price": 1.45,
+        "article": "FLUID EXTRACT"
+      },
+      {
+        "form": "Black Haw",
+        "size": "per ½ pint",
+        "price": 0.77,
+        "article": "FLUID EXTRACT"
+      },
+      {
+        "form": "Black Haw",
+        "size": "per ¼ pint",
+        "price": 0.41,
+        "article": "FLUID EXTRACT"
+      },
+      {
+        "form": "Buchu",
+        "size": "per pint",
+        "price": 1.85,
+        "article": "FLUID EXTRACT"
+      },
+      {
+        "form": "Buchu",
+        "size": "per ½ pint",
+        "price": 0.97,
+        "article": "FLUID EXTRACT"
+      },
+      {
+        "form": "Buchu",
+        "size": "per ¼ pint",
+        "price": 0.5,
+        "article": "FLUID EXTRACT"
+      },
+      {
+        "form": "Cascara Sagrada",
+        "size": "per pint",
+        "price": 1.25,
+        "article": "FLUID EXTRACT"
+      },
+      {
+        "form": "Cascara Sagrada",
+        "size": "per ½ pint",
+        "price": 0.67,
+        "article": "FLUID EXTRACT"
+      },
+      {
+        "form": "Cascara Sagrada",
+        "size": "per ¼ pint",
+        "price": 0.36,
+        "article": "FLUID EXTRACT"
+      },
+      {
+        "form": "Cascara Sagrada Aromatic,",
+        "size": "per pint",
+        "price": 1.25,
+        "article": "FLUID EXTRACT"
+      },
+      {
+        "form": "Cascara Sagrada Aromatic,",
+        "size": "per ½ pint",
+        "price": 0.67,
+        "article": "FLUID EXTRACT"
+      },
+      {
+        "form": "Cascara Sagrada Aromatic,",
+        "size": "per ¼ pint",
+        "price": 0.36,
+        "article": "FLUID EXTRACT"
+      },
+      {
+        "form": "Ergot",
+        "size": "per gal.",
+        "price": 13.6,
+        "article": "FLUID EXTRACT"
+      },
+      {
+        "form": "Ergot",
+        "size": "per pint",
+        "price": 2.74,
+        "article": "FLUID EXTRACT"
+      },
+      {
+        "form": "Ergot",
+        "size": "per ½ pint",
+        "price": 1.41,
+        "article": "FLUID EXTRACT"
+      },
+      {
+        "form": "Ergot",
+        "size": "per ¼ pint",
+        "price": 0.75,
+        "article": "FLUID EXTRACT"
+      },
+      {
+        "form": "Ergot",
+        "size": "per oz.",
+        "price": 0.25,
+        "article": "FLUID EXTRACT"
+      },
+      {
+        "form": "Gentian",
+        "size": "per pint",
+        "price": 0.85,
+        "article": "FLUID EXTRACT"
+      },
+      {
+        "form": "Gentian",
+        "size": "per ½ pint",
+        "price": 0.47,
+        "article": "FLUID EXTRACT"
+      },
+      {
+        "form": "Gentian",
+        "size": "per ¼ pint",
+        "price": 0.26,
+        "article": "FLUID EXTRACT"
+      },
+      {
+        "form": "Ginger",
+        "size": "per pint",
+        "price": 1.4,
+        "article": "FLUID EXTRACT"
+      },
+      {
+        "form": "Ginger",
+        "size": "per ½ pint",
+        "price": 0.77,
+        "article": "FLUID EXTRACT"
+      },
+      {
+        "form": "Ginger",
+        "size": "per ¼ pint",
+        "price": 0.4,
+        "article": "FLUID EXTRACT"
+      },
+      {
+        "form": "Hydrastis",
+        "size": "per pint",
+        "price": 5.75,
+        "article": "FLUID EXTRACT"
+      },
+      {
+        "form": "Hydrastis",
+        "size": "per ½ pint",
+        "price": 2.92,
+        "article": "FLUID EXTRACT"
+      },
+      {
+        "form": "Hydrastis",
+        "size": "per ¼ pint",
+        "price": 1.48,
+        "article": "FLUID EXTRACT"
+      },
+      {
+        "form": "Ipecacuanha",
+        "size": "per pint",
+        "price": 4,
+        "article": "FLUID EXTRACT"
+      },
+      {
+        "form": "Ipecacuanha",
+        "size": "per ½ pint",
+        "price": 2.04,
+        "article": "FLUID EXTRACT"
+      },
+      {
+        "form": "Ipecacuanha",
+        "size": "per ¼ pint",
+        "price": 1.04,
+        "article": "FLUID EXTRACT"
+      },
+      {
+        "form": "Licorice",
+        "size": "per pint",
+        "price": 0.85,
+        "article": "FLUID EXTRACT"
+      },
+      {
+        "form": "Licorice",
+        "size": "per ½ pint",
+        "price": 0.47,
+        "article": "FLUID EXTRACT"
+      },
+      {
+        "form": "Licorice",
+        "size": "per ¼ pint",
+        "price": 0.26,
+        "article": "FLUID EXTRACT"
+      },
+      {
+        "form": "Lobelia",
+        "size": "per pint",
+        "price": 0.55,
+        "article": "FLUID EXTRACT"
+      },
+      {
+        "form": "Lobelia",
+        "size": "per ½ pint",
+        "price": 0.32,
+        "article": "FLUID EXTRACT"
+      },
+      {
+        "form": "Lobelia",
+        "size": "per ¼ pint",
+        "price": 0.18,
+        "article": "FLUID EXTRACT"
+      },
+      {
+        "form": "Lobelia, Alcoholic 1890,",
+        "size": "per pint",
+        "price": 0.85,
+        "article": "FLUID EXTRACT"
+      },
+      {
+        "form": "Lobelia, Alcoholic 1890,",
+        "size": "per ½ pint",
+        "price": 0.47,
+        "article": "FLUID EXTRACT"
+      },
+      {
+        "form": "Lobelia, Alcoholic 1890,",
+        "size": "per ¼ pint",
+        "price": 0.26,
+        "article": "FLUID EXTRACT"
+      },
+      {
+        "form": "Mandrake",
+        "size": "per pint",
+        "price": 1.25,
+        "article": "FLUID EXTRACT"
+      },
+      {
+        "form": "Mandrake",
+        "size": "per ½ pint",
+        "price": 0.67,
+        "article": "FLUID EXTRACT"
+      },
+      {
+        "form": "Mandrake",
+        "size": "per ¼ pint",
+        "price": 0.36,
+        "article": "FLUID EXTRACT"
+      },
+      {
+        "form": "Nux Vomica",
+        "size": "per pint",
+        "price": 1.1,
+        "article": "FLUID EXTRACT"
+      },
+      {
+        "form": "Nux Vomica",
+        "size": "per ½ pint",
+        "price": 0.59,
+        "article": "FLUID EXTRACT"
+      },
+      {
+        "form": "Nux Vomica",
+        "size": "per ¼ pint",
+        "price": 0.32,
+        "article": "FLUID EXTRACT"
+      },
+      {
+        "form": "Opium",
+        "size": "per pint",
+        "price": 6.1,
+        "article": "FLUID EXTRACT"
+      },
+      {
+        "form": "Opium",
+        "size": "per ½ pint",
+        "price": 3.09,
+        "article": "FLUID EXTRACT"
+      },
+      {
+        "form": "Opium",
+        "size": "per ¼ pint",
+        "price": 1.57,
+        "article": "FLUID EXTRACT"
+      },
+      {
+        "form": "Rhubarb",
+        "size": "per pint",
+        "price": 1.85,
+        "article": "FLUID EXTRACT"
+      },
+      {
+        "form": "Rhubarb",
+        "size": "per ½ pint",
+        "price": 0.97,
+        "article": "FLUID EXTRACT"
+      },
+      {
+        "form": "Rhubarb",
+        "size": "per ¼ pint",
+        "price": 0.5,
+        "article": "FLUID EXTRACT"
+      },
+      {
+        "form": "Rose",
+        "size": "per pint",
+        "price": 2,
+        "article": "FLUID EXTRACT"
+      },
+      {
+        "form": "Rose",
+        "size": "per ½ pint",
+        "price": 1.04,
+        "article": "FLUID EXTRACT"
+      },
+      {
+        "form": "Rose",
+        "size": "per ¼ pint",
+        "price": 0.54,
+        "article": "FLUID EXTRACT"
+      },
+      {
+        "form": "Sanguinaria",
+        "size": "per pint",
+        "price": 0.5,
+        "article": "FLUID EXTRACT"
+      },
+      {
+        "form": "Sanguinaria",
+        "size": "per ½ pint",
+        "price": 0.29,
+        "article": "FLUID EXTRACT"
+      },
+      {
+        "form": "Sanguinaria",
+        "size": "per ¼ pint",
+        "price": 0.17,
+        "article": "FLUID EXTRACT"
+      },
+      {
+        "form": "Sanguinaria Alcoholic.",
+        "size": "per pint",
+        "price": 1.6,
+        "article": "FLUID EXTRACT"
+      },
+      {
+        "form": "Sanguinaria Alcoholic.",
+        "size": "per ½ pint",
+        "price": 0.84,
+        "article": "FLUID EXTRACT"
+      },
+      {
+        "form": "Sanguinaria Alcoholic.",
+        "size": "per ¼ pint",
+        "price": 0.44,
+        "article": "FLUID EXTRACT"
+      },
+      {
+        "form": "Sarsaparilla",
+        "size": "per pint",
+        "price": 1.25,
+        "article": "FLUID EXTRACT"
+      },
+      {
+        "form": "Sarsaparilla",
+        "size": "per ½ pint",
+        "price": 0.67,
+        "article": "FLUID EXTRACT"
+      },
+      {
+        "form": "Sarsaparilla",
+        "size": "per ¼ pint",
+        "price": 0.36,
+        "article": "FLUID EXTRACT"
+      },
+      {
+        "form": "Sarsaparilla Compound.",
+        "size": "per pint",
+        "price": 1.25,
+        "article": "FLUID EXTRACT"
+      },
+      {
+        "form": "Sarsaparilla Compound.",
+        "size": "per ½ pint",
+        "price": 0.67,
+        "article": "FLUID EXTRACT"
+      },
+      {
+        "form": "Sarsaparilla Compound.",
+        "size": "per ¼ pint",
+        "price": 0.36,
+        "article": "FLUID EXTRACT"
+      },
+      {
+        "form": "Sarsaparilla Compound for Syrup,",
+        "size": "per pint",
+        "price": 1.25,
+        "article": "FLUID EXTRACT"
+      },
+      {
+        "form": "Sarsaparilla Compound for Syrup,",
+        "size": "per ½ pint",
+        "price": 0.67,
+        "article": "FLUID EXTRACT"
+      },
+      {
+        "form": "Sarsaparilla Compound for Syrup,",
+        "size": "per ¼ pint",
+        "price": 0.36,
+        "article": "FLUID EXTRACT"
+      },
+      {
+        "form": "Squill",
+        "size": "per pint",
+        "price": 0.6,
+        "article": "FLUID EXTRACT"
+      },
+      {
+        "form": "Squill",
+        "size": "per ½ pint",
+        "price": 0.34,
+        "article": "FLUID EXTRACT"
+      },
+      {
+        "form": "Squill",
+        "size": "per ¼ pint",
+        "price": 0.19,
+        "article": "FLUID EXTRACT"
+      },
+      {
+        "form": "Squill Alcoholic, 1890,",
+        "size": "per pint",
+        "price": 0.8,
+        "article": "FLUID EXTRACT"
+      },
+      {
+        "form": "Squill Alcoholic, 1890,",
+        "size": "per ½ pint",
+        "price": 0.44,
+        "article": "FLUID EXTRACT"
+      },
+      {
+        "form": "Squill Alcoholic, 1890,",
+        "size": "per ¼ pint",
+        "price": 0.24,
+        "article": "FLUID EXTRACT"
+      },
+      {
+        "form": "Squill Compound",
+        "size": "per pint",
+        "price": 2,
+        "article": "FLUID EXTRACT"
+      },
+      {
+        "form": "Squill Compound",
+        "size": "per ½ pint",
+        "price": 1.04,
+        "article": "FLUID EXTRACT"
+      },
+      {
+        "form": "Squill Compound",
+        "size": "per ¼ pint",
+        "price": 0.54,
+        "article": "FLUID EXTRACT"
+      },
+      {
+        "form": "Trifolium Compound",
+        "size": "per pint",
+        "price": 1.65,
+        "article": "FLUID EXTRACT"
+      },
+      {
+        "form": "Trifolium Compound",
+        "size": "per ½ pint",
+        "price": 0.87,
+        "article": "FLUID EXTRACT"
+      },
+      {
+        "form": "Trifolium Compound",
+        "size": "per ¼ pint",
+        "price": 0.45,
+        "article": "FLUID EXTRACT"
+      },
+      {
+        "form": "White Pine Compound",
+        "size": "per pint",
+        "price": 1.45,
+        "article": "FLUID EXTRACT"
+      },
+      {
+        "form": "White Pine Compound",
+        "size": "per ½ pint",
+        "price": 0.77,
+        "article": "FLUID EXTRACT"
+      },
+      {
+        "form": "White Pine Compound",
+        "size": "per ¼ pint",
+        "price": 0.41,
+        "article": "FLUID EXTRACT"
+      },
+      {
+        "form": "Wild Cherry",
+        "size": "per pint",
+        "price": 0.85,
+        "article": "FLUID EXTRACT"
+      },
+      {
+        "form": "Wild Cherry",
+        "size": "per ½ pint",
+        "price": 0.47,
+        "article": "FLUID EXTRACT"
+      },
+      {
+        "form": "Wild Cherry",
+        "size": "per ¼ pint",
+        "price": 0.26,
+        "article": "FLUID EXTRACT"
+      },
+      {
+        "form": "Wild Indigo",
+        "size": "per pint",
+        "price": 0.8,
+        "article": "FLUID EXTRACT"
+      },
+      {
+        "form": "Wild Indigo",
+        "size": "per ½ pint",
+        "price": 0.44,
+        "article": "FLUID EXTRACT"
+      },
+      {
+        "form": "Wild Indigo",
+        "size": "per ¼ pint",
+        "price": 0.24,
+        "article": "FLUID EXTRACT"
+      },
+      {
+        "form": "Witch Hazel",
+        "size": "per pint",
+        "price": 0.85,
+        "article": "FLUID EXTRACT"
+      },
+      {
+        "form": "Witch Hazel",
+        "size": "per ½ pint",
+        "price": 0.47,
+        "article": "FLUID EXTRACT"
+      },
+      {
+        "form": "Witch Hazel",
+        "size": "per ¼ pint",
+        "price": 0.26,
+        "article": "FLUID EXTRACT"
+      },
+      {
+        "form": "Aconite Root",
+        "size": "per pint",
+        "price": 0.8,
+        "article": "FLUID-ACET-EXTRACTS, SQUIBB."
+      },
+      {
+        "form": "Aconite Root",
+        "size": "per ½ pint",
+        "price": 0.44,
+        "article": "FLUID-ACET-EXTRACTS, SQUIBB."
+      },
+      {
+        "form": "Aconite Root",
+        "size": "per ¼ pint",
+        "price": 0.24,
+        "article": "FLUID-ACET-EXTRACTS, SQUIBB."
+      },
+      {
+        "form": "Arnica Root",
+        "size": "per pint",
+        "price": 0.65,
+        "article": "FLUID-ACET-EXTRACTS, SQUIBB."
+      },
+      {
+        "form": "Arnica Root",
+        "size": "per ½ pint",
+        "price": 0.37,
+        "article": "FLUID-ACET-EXTRACTS, SQUIBB."
+      },
+      {
+        "form": "Arnica Root",
+        "size": "per ¼ pint",
+        "price": 0.21,
+        "article": "FLUID-ACET-EXTRACTS, SQUIBB."
+      },
+      {
+        "form": "Belladonna Leaves",
+        "size": "per pint",
+        "price": 0.75,
+        "article": "FLUID-ACET-EXTRACTS, SQUIBB."
+      },
+      {
+        "form": "Belladonna Leaves",
+        "size": "per ½ pint",
+        "price": 0.42,
+        "article": "FLUID-ACET-EXTRACTS, SQUIBB."
+      },
+      {
+        "form": "Belladonna Leaves",
+        "size": "per ¼ pint",
+        "price": 0.23,
+        "article": "FLUID-ACET-EXTRACTS, SQUIBB."
+      },
+      {
+        "form": "Belladonna Root",
+        "size": "per pint",
+        "price": 0.75,
+        "article": "FLUID-ACET-EXTRACTS, SQUIBB."
+      },
+      {
+        "form": "Belladonna Root",
+        "size": "per ½ pint",
+        "price": 0.42,
+        "article": "FLUID-ACET-EXTRACTS, SQUIBB."
+      },
+      {
+        "form": "Belladonna Root",
+        "size": "per ¼ pint",
+        "price": 0.23,
+        "article": "FLUID-ACET-EXTRACTS, SQUIBB."
+      },
+      {
+        "form": "Black Cohosh",
+        "size": "per pint",
+        "price": 0.42,
+        "article": "FLUID-ACET-EXTRACTS, SQUIBB."
+      },
+      {
+        "form": "Black Cohosh",
+        "size": "per ½ pint",
+        "price": 0.25,
+        "article": "FLUID-ACET-EXTRACTS, SQUIBB."
+      },
+      {
+        "form": "Black Cohosh",
+        "size": "per ¼ pint",
+        "price": 0.15,
+        "article": "FLUID-ACET-EXTRACTS, SQUIBB."
+      },
+      {
+        "form": "Black Haw",
+        "size": "per pint",
+        "price": 0.8,
+        "article": "FLUID-ACET-EXTRACTS, SQUIBB."
+      },
+      {
+        "form": "Black Haw",
+        "size": "per ½ pint",
+        "price": 0.44,
+        "article": "FLUID-ACET-EXTRACTS, SQUIBB."
+      },
+      {
+        "form": "Black Haw",
+        "size": "per ¼ pint",
+        "price": 0.24,
+        "article": "FLUID-ACET-EXTRACTS, SQUIBB."
+      },
+      {
+        "form": "Buchu",
+        "size": "per pint",
+        "price": 1.1,
+        "article": "FLUID-ACET-EXTRACTS, SQUIBB."
+      },
+      {
+        "form": "Buchu",
+        "size": "per ½ pint",
+        "price": 0.59,
+        "article": "FLUID-ACET-EXTRACTS, SQUIBB."
+      },
+      {
+        "form": "Buchu",
+        "size": "per ¼ pint",
+        "price": 0.32,
+        "article": "FLUID-ACET-EXTRACTS, SQUIBB."
+      },
+      {
+        "form": "Buchu with Potassium Acetate,",
+        "size": "per pint",
+        "price": 1.1,
+        "article": "FLUID-ACET-EXTRACTS, SQUIBB."
+      },
+      {
+        "form": "Buchu with Potassium Acetate,",
+        "size": "per ½ pint",
+        "price": 0.57,
+        "article": "FLUID-ACET-EXTRACTS, SQUIBB."
+      },
+      {
+        "form": "Buchu with Potassium Acetate,",
+        "size": "per ¼ pint",
+        "price": 0.32,
+        "article": "FLUID-ACET-EXTRACTS, SQUIBB."
+      },
+      {
+        "form": "Burdock",
+        "size": "per pint",
+        "price": 0.6,
+        "article": "FLUID-ACET-EXTRACTS, SQUIBB."
+      },
+      {
+        "form": "Burdock",
+        "size": "per ½ pint",
+        "price": 0.34,
+        "article": "FLUID-ACET-EXTRACTS, SQUIBB."
+      },
+      {
+        "form": "Burdock",
+        "size": "per ¼ pint",
+        "price": 0.19,
+        "article": "FLUID-ACET-EXTRACTS, SQUIBB."
+      },
+      {
+        "form": "Cannabis Indica",
+        "size": "per pint",
+        "price": 3.42,
+        "article": "FLUID-ACET-EXTRACTS, SQUIBB."
+      },
+      {
+        "form": "Cannabis Indica",
+        "size": "per ½ pint",
+        "price": 1.75,
+        "article": "FLUID-ACET-EXTRACTS, SQUIBB."
+      },
+      {
+        "form": "Cannabis Indica",
+        "size": "per ¼ pint",
+        "price": 0.9,
+        "article": "FLUID-ACET-EXTRACTS, SQUIBB."
+      },
+      {
+        "form": "Capsicum",
+        "size": "per pint",
+        "price": 0.95,
+        "article": "FLUID-ACET-EXTRACTS, SQUIBB."
+      },
+      {
+        "form": "Capsicum",
+        "size": "per ½ pint",
+        "price": 0.52,
+        "article": "FLUID-ACET-EXTRACTS, SQUIBB."
+      },
+      {
+        "form": "Capsicum",
+        "size": "per ¼ pint",
+        "price": 0.28,
+        "article": "FLUID-ACET-EXTRACTS, SQUIBB."
+      },
+      {
+        "form": "Cascara Sagrada",
+        "size": "per pint",
+        "price": 0.75,
+        "article": "FLUID-ACET-EXTRACTS, SQUIBB."
+      },
+      {
+        "form": "Cascara Sagrada",
+        "size": "per ½ pint",
+        "price": 0.42,
+        "article": "FLUID-ACET-EXTRACTS, SQUIBB."
+      },
+      {
+        "form": "Cascara Sagrada",
+        "size": "per ¼ pint",
+        "price": 0.23,
+        "article": "FLUID-ACET-EXTRACTS, SQUIBB."
+      },
+      {
+        "form": "Cascara Sagrada Aromatic,",
+        "size": "per pint",
+        "price": 0.85,
+        "article": "FLUID-ACET-EXTRACTS, SQUIBB."
+      },
+      {
+        "form": "Cascara Sagrada Aromatic,",
+        "size": "per ½ pint",
+        "price": 0.47,
+        "article": "FLUID-ACET-EXTRACTS, SQUIBB."
+      },
+      {
+        "form": "Cascara Sagrada Aromatic,",
+        "size": "per ¼ pint",
+        "price": 0.26,
+        "article": "FLUID-ACET-EXTRACTS, SQUIBB."
+      },
+      {
+        "form": "Cinchona",
+        "size": "per pint",
+        "price": 1.1,
+        "article": "FLUID-ACET-EXTRACTS, SQUIBB."
+      },
+      {
+        "form": "Cinchona",
+        "size": "per ½ pint",
+        "price": 0.59,
+        "article": "FLUID-ACET-EXTRACTS, SQUIBB."
+      },
+      {
+        "form": "Cinchona",
+        "size": "per ¼ pint",
+        "price": 0.32,
+        "article": "FLUID-ACET-EXTRACTS, SQUIBB."
+      },
+      {
+        "form": "Cinchona Red",
+        "size": "per pint",
+        "price": 0.95,
+        "article": "FLUID-ACET-EXTRACTS, SQUIBB."
+      },
+      {
+        "form": "Cinchona Red",
+        "size": "per ½ pint",
+        "price": 0.52,
+        "article": "FLUID-ACET-EXTRACTS, SQUIBB."
+      },
+      {
+        "form": "Cinchona Red",
+        "size": "per ¼ pint",
+        "price": 0.28,
+        "article": "FLUID-ACET-EXTRACTS, SQUIBB."
+      },
+      {
+        "form": "Cinchona Red Compound,",
+        "size": "per pint",
+        "price": 1.9,
+        "article": "FLUID-ACET-EXTRACTS, SQUIBB."
+      },
+      {
+        "form": "Cinchona Red Compound,",
+        "size": "per ½ pint",
+        "price": 0.99,
+        "article": "FLUID-ACET-EXTRACTS, SQUIBB."
+      },
+      {
+        "form": "Cinchona Red Compound,",
+        "size": "per ¼ pint",
+        "price": 0.52,
+        "article": "FLUID-ACET-EXTRACTS, SQUIBB."
+      },
+      {
+        "form": "Cinchona Yellow Compound,",
+        "size": "per pint",
+        "price": 1.1,
+        "article": "FLUID-ACET-EXTRACTS, SQUIBB."
+      },
+      {
+        "form": "Cinchona Yellow Compound,",
+        "size": "per ½ pint",
+        "price": 0.59,
+        "article": "FLUID-ACET-EXTRACTS, SQUIBB."
+      },
+      {
+        "form": "Cinchona Yellow Compound,",
+        "size": "per ¼ pint",
+        "price": 0.32,
+        "article": "FLUID-ACET-EXTRACTS, SQUIBB."
+      },
+      {
+        "form": "Coca",
+        "size": "per pint",
+        "price": 0.85,
+        "article": "FLUID-ACET-EXTRACTS, SQUIBB."
+      },
+      {
+        "form": "Coca",
+        "size": "per ½ pint",
+        "price": 0.47,
+        "article": "FLUID-ACET-EXTRACTS, SQUIBB."
+      },
+      {
+        "form": "Coca",
+        "size": "per ¼ pint",
+        "price": 0.26,
+        "article": "FLUID-ACET-EXTRACTS, SQUIBB."
+      },
+      {
+        "form": "Colchicum Seed",
+        "size": "per pint",
+        "price": 1.6,
+        "article": "FLUID-ACET-EXTRACTS, SQUIBB."
+      },
+      {
+        "form": "Colchicum Seed",
+        "size": "per ½ pint",
+        "price": 0.84,
+        "article": "FLUID-ACET-EXTRACTS, SQUIBB."
+      },
+      {
+        "form": "Colchicum Seed",
+        "size": "per ¼ pint",
+        "price": 0.44,
+        "article": "FLUID-ACET-EXTRACTS, SQUIBB."
+      },
+      {
+        "form": "Corn Silk",
+        "size": "per pint",
+        "price": 0.85,
+        "article": "FLUID-ACET-EXTRACTS, SQUIBB."
+      },
+      {
+        "form": "Corn Silk",
+        "size": "per ½ pint",
+        "price": 0.47,
+        "article": "FLUID-ACET-EXTRACTS, SQUIBB."
+      },
+      {
+        "form": "Corn Silk",
+        "size": "per ¼ pint",
+        "price": 0.26,
+        "article": "FLUID-ACET-EXTRACTS, SQUIBB."
+      },
+      {
+        "form": "Cotton-Root Bark",
+        "size": "per pint",
+        "price": 0.6,
+        "article": "FLUID-ACET-EXTRACTS, SQUIBB."
+      },
+      {
+        "form": "Cotton-Root Bark",
+        "size": "per ½ pint",
+        "price": 0.34,
+        "article": "FLUID-ACET-EXTRACTS, SQUIBB."
+      },
+      {
+        "form": "Cotton-Root Bark",
+        "size": "per ¼ pint",
+        "price": 0.19,
+        "article": "FLUID-ACET-EXTRACTS, SQUIBB."
+      },
+      {
+        "form": "Couch Grass",
+        "size": "per pint",
+        "price": 0.7,
+        "article": "FLUID-ACET-EXTRACTS, SQUIBB."
+      },
+      {
+        "form": "Couch Grass",
+        "size": "per ½ pint",
+        "price": 0.39,
+        "article": "FLUID-ACET-EXTRACTS, SQUIBB."
+      },
+      {
+        "form": "Couch Grass",
+        "size": "per ¼ pint",
+        "price": 0.22,
+        "article": "FLUID-ACET-EXTRACTS, SQUIBB."
+      },
+      {
+        "form": "Cramp Bark",
+        "size": "per pint",
+        "price": 0.7,
+        "article": "FLUID-ACET-EXTRACTS, SQUIBB."
+      },
+      {
+        "form": "Cramp Bark",
+        "size": "per ½ pint",
+        "price": 0.39,
+        "article": "FLUID-ACET-EXTRACTS, SQUIBB."
+      },
+      {
+        "form": "Cramp Bark",
+        "size": "per ¼ pint",
+        "price": 0.22,
+        "article": "FLUID-ACET-EXTRACTS, SQUIBB."
+      },
+      {
+        "form": "Dandelion",
+        "size": "per pint",
+        "price": 0.63,
+        "article": "FLUID-ACET-EXTRACTS, SQUIBB."
+      },
+      {
+        "form": "Dandelion",
+        "size": "per ½ pint",
+        "price": 0.36,
+        "article": "FLUID-ACET-EXTRACTS, SQUIBB."
+      },
+      {
+        "form": "Dandelion",
+        "size": "per ¼ pint",
+        "price": 0.2,
+        "article": "FLUID-ACET-EXTRACTS, SQUIBB."
+      },
+      {
+        "form": "Digitalis",
+        "size": "per pint",
+        "price": 0.6,
+        "article": "FLUID-ACET-EXTRACTS, SQUIBB."
+      },
+      {
+        "form": "Digitalis",
+        "size": "per ½ pint",
+        "price": 0.34,
+        "article": "FLUID-ACET-EXTRACTS, SQUIBB."
+      },
+      {
+        "form": "Digitalis",
+        "size": "per ¼ pint",
+        "price": 0.19,
+        "article": "FLUID-ACET-EXTRACTS, SQUIBB."
+      },
+      {
+        "form": "Ergot",
+        "size": "per pint",
+        "price": 2.2,
+        "article": "FLUID-ACET-EXTRACTS, SQUIBB."
+      },
+      {
+        "form": "Ergot",
+        "size": "per ½ pint",
+        "price": 1.14,
+        "article": "FLUID-ACET-EXTRACTS, SQUIBB."
+      },
+      {
+        "form": "Ergot",
+        "size": "per ¼ pint",
+        "price": 0.59,
+        "article": "FLUID-ACET-EXTRACTS, SQUIBB."
+      },
+      {
+        "form": "Eucalyptus",
+        "size": "per pint",
+        "price": 0.45,
+        "article": "FLUID-ACET-EXTRACTS, SQUIBB."
+      },
+      {
+        "form": "Eucalyptus",
+        "size": "per ½ pint",
+        "price": 0.27,
+        "article": "FLUID-ACET-EXTRACTS, SQUIBB."
+      },
+      {
+        "form": "Eucalyptus",
+        "size": "per ¼ pint",
+        "price": 0.16,
+        "article": "FLUID-ACET-EXTRACTS, SQUIBB."
+      },
+      {
+        "form": "Gelsemium",
+        "size": "per pint",
+        "price": 0.7,
+        "article": "FLUID-ACET-EXTRACTS, SQUIBB."
+      },
+      {
+        "form": "Gelsemium",
+        "size": "per ½ pint",
+        "price": 0.39,
+        "article": "FLUID-ACET-EXTRACTS, SQUIBB."
+      },
+      {
+        "form": "Gelsemium",
+        "size": "per ¼ pint",
+        "price": 0.22,
+        "article": "FLUID-ACET-EXTRACTS, SQUIBB."
+      },
+      {
+        "form": "Gentian",
+        "size": "per pint",
+        "price": 0.55,
+        "article": "FLUID-ACET-EXTRACTS, SQUIBB."
+      },
+      {
+        "form": "Gentian",
+        "size": "per ½ pint",
+        "price": 0.32,
+        "article": "FLUID-ACET-EXTRACTS, SQUIBB."
+      },
+      {
+        "form": "Gentian",
+        "size": "per ¼ pint",
+        "price": 0.18,
+        "article": "FLUID-ACET-EXTRACTS, SQUIBB."
+      },
+      {
+        "form": "Gentian Compound",
+        "size": "per pint",
+        "price": 0.6,
+        "article": "FLUID-ACET-EXTRACTS, SQUIBB."
+      },
+      {
+        "form": "Gentian Compound",
+        "size": "per ½ pint",
+        "price": 0.34,
+        "article": "FLUID-ACET-EXTRACTS, SQUIBB."
+      },
+      {
+        "form": "Gentian Compound",
+        "size": "per ¼ pint",
+        "price": 0.19,
+        "article": "FLUID-ACET-EXTRACTS, SQUIBB."
+      },
+      {
+        "form": "Ginger",
+        "size": "per pint",
+        "price": 0.65,
+        "article": "FLUID-ACET-EXTRACTS, SQUIBB."
+      },
+      {
+        "form": "Ginger",
+        "size": "per ½ pint",
+        "price": 0.37,
+        "article": "FLUID-ACET-EXTRACTS, SQUIBB."
+      },
+      {
+        "form": "Ginger",
+        "size": "per ¼ pint",
+        "price": 0.21,
+        "article": "FLUID-ACET-EXTRACTS, SQUIBB."
+      },
+      {
+        "form": "Hydrangea",
+        "size": "per pint",
+        "price": 0.48,
+        "article": "FLUID-ACET-EXTRACTS, SQUIBB."
+      },
+      {
+        "form": "Hydrangea",
+        "size": "per ½ pint",
+        "price": 0.28,
+        "article": "FLUID-ACET-EXTRACTS, SQUIBB."
+      },
+      {
+        "form": "Hydrangea",
+        "size": "per ¼ pint",
+        "price": 0.16,
+        "article": "FLUID-ACET-EXTRACTS, SQUIBB."
+      },
+      {
+        "form": "Hyoscyamus",
+        "size": "per pint",
+        "price": 0.8,
+        "article": "FLUID-ACET-EXTRACTS, SQUIBB."
+      },
+      {
+        "form": "Hyoscyamus",
+        "size": "per ½ pint",
+        "price": 0.44,
+        "article": "FLUID-ACET-EXTRACTS, SQUIBB."
+      },
+      {
+        "form": "Hyoscyamus",
+        "size": "per ¼ pint",
+        "price": 0.24,
+        "article": "FLUID-ACET-EXTRACTS, SQUIBB."
+      },
+      {
+        "form": "Ipecacuanha",
+        "size": "per pint",
+        "price": 3.15,
+        "article": "FLUID-ACET-EXTRACTS, SQUIBB."
+      },
+      {
+        "form": "Ipecacuanha",
+        "size": "per ½ pint",
+        "price": 1.62,
+        "article": "FLUID-ACET-EXTRACTS, SQUIBB."
+      },
+      {
+        "form": "Ipecacuanha",
+        "size": "per ¼ pint",
+        "price": 0.83,
+        "article": "FLUID-ACET-EXTRACTS, SQUIBB."
+      },
+      {
+        "form": "Jaborand",
+        "size": "per pint",
+        "price": 0.85,
+        "article": "FLUID-ACET-EXTRACTS, SQUIBB."
+      },
+      {
+        "form": "Jaborand",
+        "size": "per ½ pint",
+        "price": 0.47,
+        "article": "FLUID-ACET-EXTRACTS, SQUIBB."
+      },
+      {
+        "form": "Jaborand",
+        "size": "per ¼ pint",
+        "price": 0.26,
+        "article": "FLUID-ACET-EXTRACTS, SQUIBB."
+      },
+      {
+        "form": "Nux Vomica",
+        "size": "per pint",
+        "price": 0.55,
+        "article": "FLUID-ACET-EXTRACTS, SQUIBB."
+      },
+      {
+        "form": "Nux Vomica",
+        "size": "per ½ pint",
+        "price": 0.32,
+        "article": "FLUID-ACET-EXTRACTS, SQUIBB."
+      },
+      {
+        "form": "Nux Vomica",
+        "size": "per ¼ pint",
+        "price": 0.18,
+        "article": "FLUID-ACET-EXTRACTS, SQUIBB."
+      },
+      {
+        "form": "Pinkroot",
+        "size": "per pint",
+        "price": 0.9,
+        "article": "FLUID-ACET-EXTRACTS, SQUIBB."
+      },
+      {
+        "form": "Pinkroot",
+        "size": "per ½ pint",
+        "price": 0.49,
+        "article": "FLUID-ACET-EXTRACTS, SQUIBB."
+      },
+      {
+        "form": "Pinkroot",
+        "size": "per ¼ pint",
+        "price": 0.27,
+        "article": "FLUID-ACET-EXTRACTS, SQUIBB."
+      },
+      {
+        "form": "Poke Root",
+        "size": "per pint",
+        "price": 0.55,
+        "article": "FLUID-ACET-EXTRACTS, SQUIBB."
+      },
+      {
+        "form": "Poke Root",
+        "size": "per ½ pint",
+        "price": 0.32,
+        "article": "FLUID-ACET-EXTRACTS, SQUIBB."
+      },
+      {
+        "form": "Poke Root",
+        "size": "per ¼ pint",
+        "price": 0.18,
+        "article": "FLUID-ACET-EXTRACTS, SQUIBB."
+      },
+      {
+        "form": "Prickly Ash",
+        "size": "per pint",
+        "price": 0.55,
+        "article": "FLUID-ACET-EXTRACTS, SQUIBB."
+      },
+      {
+        "form": "Prickly Ash",
+        "size": "per ½ pint",
+        "price": 0.32,
+        "article": "FLUID-ACET-EXTRACTS, SQUIBB."
+      },
+      {
+        "form": "Prickly Ash",
+        "size": "per ¼ pint",
+        "price": 0.18,
+        "article": "FLUID-ACET-EXTRACTS, SQUIBB."
+      },
+      {
+        "form": "Rhubarb",
+        "size": "per pint",
+        "price": 1.65,
+        "article": "FLUID-ACET-EXTRACTS, SQUIBB."
+      },
+      {
+        "form": "Rhubarb",
+        "size": "per ½ pint",
+        "price": 0.87,
+        "article": "FLUID-ACET-EXTRACTS, SQUIBB."
+      },
+      {
+        "form": "Rhubarb",
+        "size": "per ¼ pint",
+        "price": 0.46,
+        "article": "FLUID-ACET-EXTRACTS, SQUIBB."
+      },
+      {
+        "form": "Sarsaparilla",
+        "size": "per pint",
+        "price": 0.55,
+        "article": "FLUID-ACET-EXTRACTS, SQUIBB."
+      },
+      {
+        "form": "Sarsaparilla",
+        "size": "per ½ pint",
+        "price": 0.32,
+        "article": "FLUID-ACET-EXTRACTS, SQUIBB."
+      },
+      {
+        "form": "Sarsaparilla",
+        "size": "per ¼ pint",
+        "price": 0.18,
+        "article": "FLUID-ACET-EXTRACTS, SQUIBB."
+      },
+      {
+        "form": "Serpentaria",
+        "size": "per pint",
+        "price": 1.43,
+        "article": "FLUID-ACET-EXTRACTS, SQUIBB."
+      },
+      {
+        "form": "Serpentaria",
+        "size": "per ½ pint",
+        "price": 0.76,
+        "article": "FLUID-ACET-EXTRACTS, SQUIBB."
+      },
+      {
+        "form": "Serpentaria",
+        "size": "per ¼ pint",
+        "price": 0.4,
+        "article": "FLUID-ACET-EXTRACTS, SQUIBB."
+      },
+      {
+        "form": "Stillingia",
+        "size": "per pint",
+        "price": 0.8,
+        "article": "FLUID-ACET-EXTRACTS, SQUIBB."
+      },
+      {
+        "form": "Stillingia",
+        "size": "per ½ pint",
+        "price": 0.44,
+        "article": "FLUID-ACET-EXTRACTS, SQUIBB."
+      },
+      {
+        "form": "Stillingia",
+        "size": "per ¼ pint",
+        "price": 0.24,
+        "article": "FLUID-ACET-EXTRACTS, SQUIBB."
+      },
+      {
+        "form": "Stramonium Seed",
+        "size": "per pint",
+        "price": 0.6,
+        "article": "FLUID-ACET-EXTRACTS, SQUIBB."
+      },
+      {
+        "form": "Stramonium Seed",
+        "size": "per ½ pint",
+        "price": 0.34,
+        "article": "FLUID-ACET-EXTRACTS, SQUIBB."
+      },
+      {
+        "form": "Stramonium Seed",
+        "size": "per ¼ pint",
+        "price": 0.19,
+        "article": "FLUID-ACET-EXTRACTS, SQUIBB."
+      },
+      {
+        "form": "Uva Ursi",
+        "size": "per pint",
+        "price": 0.45,
+        "article": "FLUID-ACET-EXTRACTS, SQUIBB."
+      },
+      {
+        "form": "Uva Ursi",
+        "size": "per 1/2 pint",
+        "price": 0.27,
+        "article": "FLUID-ACET-EXTRACTS, SQUIBB."
+      },
+      {
+        "form": "Uva Ursi",
+        "size": "per 1/4 pint",
+        "price": 0.15,
+        "article": "FLUID-ACET-EXTRACTS, SQUIBB."
+      },
+      {
+        "form": "Valerian",
+        "size": "per pint",
+        "price": 0.8,
+        "article": "FLUID-ACET-EXTRACTS, SQUIBB."
+      },
+      {
+        "form": "Valerian",
+        "size": "per 1/2 pint",
+        "price": 0.44,
+        "article": "FLUID-ACET-EXTRACTS, SQUIBB."
+      },
+      {
+        "form": "Valerian",
+        "size": "per 1/4 pint",
+        "price": 0.24,
+        "article": "FLUID-ACET-EXTRACTS, SQUIBB."
+      },
+      {
+        "form": "Veratrum",
+        "size": "per pint",
+        "price": 0.8,
+        "article": "FLUID-ACET-EXTRACTS, SQUIBB."
+      },
+      {
+        "form": "Veratrum",
+        "size": "per 1/2 pint",
+        "price": 0.44,
+        "article": "FLUID-ACET-EXTRACTS, SQUIBB."
+      },
+      {
+        "form": "Veratrum",
+        "size": "per 1/4 pint",
+        "price": 0.24,
+        "article": "FLUID-ACET-EXTRACTS, SQUIBB."
+      },
+      {
+        "form": "Wild Cherry",
+        "size": "per pint",
+        "price": 0.65,
+        "article": "FLUID-ACET-EXTRACTS, SQUIBB."
+      },
+      {
+        "form": "Wild Cherry",
+        "size": "per 1/2 pint",
+        "price": 0.37,
+        "article": "FLUID-ACET-EXTRACTS, SQUIBB."
+      },
+      {
+        "form": "Wild Cherry",
+        "size": "per 1/4 pint",
+        "price": 0.21,
+        "article": "FLUID-ACET-EXTRACTS, SQUIBB."
+      },
+      {
+        "form": null,
+        "size": "per oz",
+        "price": 0.62,
+        "article": "MUCHSINE, MEDICINAL."
+      },
+      {
+        "form": null,
+        "size": "per lb",
+        "price": 1.9,
+        "article": "GAMBOGE—Whole"
+      },
+      {
+        "form": null,
+        "size": "per 1/2 lb",
+        "price": 1,
+        "article": "GAMBOGE—Whole"
+      },
+      {
+        "form": null,
+        "size": "per 1/4 lb",
+        "price": 0.52,
+        "article": "GAMBOGE—Whole"
+      },
+      {
+        "form": null,
+        "size": "per oz",
+        "price": 0.3,
+        "article": "GAMBOGE—Whole"
+      },
+      {
+        "form": "Powdered",
+        "size": "per lb",
+        "price": 1.95,
+        "article": "GAMBOGE—Whole"
+      },
+      {
+        "form": "Powdered",
+        "size": "per 1/2 lb",
+        "price": 1.03,
+        "article": "GAMBOGE—Whole"
+      },
+      {
+        "form": "Powdered",
+        "size": "per 1/4 lb",
+        "price": 0.53,
+        "article": "GAMBOGE—Whole"
+      },
+      {
+        "form": "Powdered",
+        "size": "per oz",
+        "price": 0.3,
+        "article": "GAMBOGE—Whole"
+      },
+      {
+        "form": null,
+        "size": "per lb",
+        "price": 2.15,
+        "article": "GELATIN"
+      },
+      {
+        "form": null,
+        "size": "per 1/2 lb",
+        "price": 1.12,
+        "article": "GELATIN"
+      },
+      {
+        "form": null,
+        "size": "per 1/4 lb",
+        "price": 0.6,
+        "article": "GELATIN"
+      },
+      {
+        "form": null,
+        "size": "per lb",
+        "price": 1.75,
+        "article": "GELATIN GLYCERINATED"
+      },
+      {
+        "form": null,
+        "size": "per 1/2 lb",
+        "price": 0.92,
+        "article": "GELATIN GLYCERINATED"
+      },
+      {
+        "form": null,
+        "size": "per 1/4 lb",
+        "price": 0.5,
+        "article": "GELATIN GLYCERINATED"
+      },
+      {
+        "form": null,
+        "size": "per oz",
+        "price": 3.1,
+        "article": "GELSEMIN RESINOLD"
+      },
+      {
+        "form": null,
+        "size": "per 15 gr. vial",
+        "price": 3.1,
+        "article": "GELSEMININE—Alkaloid"
+      },
+      {
+        "form": "Hydrochloride",
+        "size": "per 15 gr. vial",
+        "price": 3.1,
+        "article": "GELSEMININE—Alkaloid"
+      },
+      {
+        "form": "Sulphate",
+        "size": "per 15 gr. vial",
+        "price": 3.1,
+        "article": "GELSEMININE—Alkaloid"
+      },
+      {
+        "form": null,
+        "size": "per lb",
+        "price": 0.26,
+        "article": "GELSEMIUM—Whole"
+      },
+      {
+        "form": "Ground",
+        "size": "per lb",
+        "price": 0.28,
+        "article": "GELSEMIUM—Whole"
+      },
+      {
+        "form": null,
+        "size": "per lb",
+        "price": 0.21,
+        "article": "GENTIAN—Whole"
+      },
+      {
+        "form": "Ground",
+        "size": "per lb",
+        "price": 0.23,
+        "article": "GENTIAN—Whole"
+      },
+      {
+        "form": null,
+        "size": "per lb",
+        "price": 0.32,
+        "article": "GINGER—Ground"
+      },
+      {
+        "form": "Powdered",
+        "size": "per lb",
+        "price": 0.35,
+        "article": "GINGER—Ground"
+      },
+      {
+        "form": "Powdered",
+        "size": "per doz. small",
+        "price": 1.6,
+        "article": "GINGER—Ground"
+      },
+      {
+        "form": null,
+        "size": "per lb",
+        "price": 0.4,
+        "article": "GLYCERIN"
+      },
+      {
+        "form": null,
+        "size": "per 1/2 lb",
+        "price": 0.24,
+        "article": "GLYCERIN"
+      },
+      {
+        "form": null,
+        "size": "per 1/4 lb",
+        "price": 0.15,
+        "article": "GLYCERIN"
+      },
+      {
+        "form": null,
+        "size": "per lb",
+        "price": 1.05,
+        "article": "GLYCERITE—Acid Carbolic"
+      },
+      {
+        "form": null,
+        "size": "per 1/2 lb",
+        "price": 0.58,
+        "article": "GLYCERITE—Acid Carbolic"
+      },
+      {
+        "form": null,
+        "size": "per 1/4 lb",
+        "price": 0.33,
+        "article": "GLYCERITE—Acid Carbolic"
+      },
+      {
+        "form": null,
+        "size": "per lb",
+        "price": 1.05,
+        "article": "Acid Tannic"
+      },
+      {
+        "form": null,
+        "size": "per 1/2 lb",
+        "price": 0.58,
+        "article": "Acid Tannic"
+      },
+      {
+        "form": null,
+        "size": "per 1/4 lb",
+        "price": 0.33,
+        "article": "Acid Tannic"
+      },
+      {
+        "form": null,
+        "size": "per lb",
+        "price": 1.9,
+        "article": "Bismuth"
+      },
+      {
+        "form": null,
+        "size": "per 1/2 lb",
+        "price": 1,
+        "article": "Bismuth"
+      },
+      {
+        "form": null,
+        "size": "per 1/4 lb",
+        "price": 0.54,
+        "article": "Bismuth"
+      },
+      {
+        "form": null,
+        "size": "per lb",
+        "price": 0.9,
+        "article": "Boroglycerin"
+      },
+      {
+        "form": null,
+        "size": "per 1/2 lb",
+        "price": 0.5,
+        "article": "Boroglycerin"
+      },
+      {
+        "form": null,
+        "size": "per 1/4 lb",
+        "price": 0.24,
+        "article": "Boroglycerin"
+      },
+      {
+        "form": null,
+        "size": "per lb",
+        "price": 1.05,
+        "article": "Guaiac"
+      },
+      {
+        "form": null,
+        "size": "per 1/2 lb",
+        "price": 0.58,
+        "article": "Guaiac"
+      },
+      {
+        "form": null,
+        "size": "per 1/4 lb",
+        "price": 0.33,
+        "article": "Guaiac"
+      },
+      {
+        "form": "Hydrastis",
+        "size": "per lb",
+        "price": 4.1,
+        "article": "GLYCERITE"
+      },
+      {
+        "form": "Hydrastis",
+        "size": "per 1/2 lb",
+        "price": 2.1,
+        "article": "GLYCERITE"
+      },
+      {
+        "form": "Hydrastis",
+        "size": "per 1/4 lb",
+        "price": 1.08,
+        "article": "GLYCERITE"
+      },
+      {
+        "form": "Hydrastis",
+        "size": "per oz",
+        "price": 0.4,
+        "article": "GLYCERITE"
+      },
+      {
+        "form": "Iron, Quinine and Strychnine Phosphates",
+        "size": "per lb",
+        "price": 1.8,
+        "article": "GLYCERITE"
+      },
+      {
+        "form": "Iron, Quinine and Strychnine Phosphates",
+        "size": "per 1/2 lb",
+        "price": 0.95,
+        "article": "GLYCERITE"
+      },
+      {
+        "form": "Iron, Quinine and Strychnine Phosphates",
+        "size": "per 1/4 lb",
+        "price": 0.52,
+        "article": "GLYCERITE"
+      },
+      {
+        "form": "Pancreatin",
+        "size": "per lb",
+        "price": 1.5,
+        "article": "GLYCERITE"
+      },
+      {
+        "form": "Pancreatin",
+        "size": "per 1/2 lb",
+        "price": 0.8,
+        "article": "GLYCERITE"
+      },
+      {
+        "form": "Pancreatin",
+        "size": "per 1/4 lb",
+        "price": 0.45,
+        "article": "GLYCERITE"
+      },
+      {
+        "form": "Pepsin",
+        "size": "per lb",
+        "price": 1.05,
+        "article": "GLYCERITE"
+      },
+      {
+        "form": "Pepsin",
+        "size": "per 1/2 lb",
+        "price": 0.57,
+        "article": "GLYCERITE"
+      },
+      {
+        "form": "Pepsin",
+        "size": "per 1/4 lb",
+        "price": 0.32,
+        "article": "GLYCERITE"
+      },
+      {
+        "form": "Starch",
+        "size": "per lb",
+        "price": 0.72,
+        "article": "GLYCERITE"
+      },
+      {
+        "form": "Starch",
+        "size": "per 1/2 lb",
+        "price": 0.41,
+        "article": "GLYCERITE"
+      },
+      {
+        "form": "Starch",
+        "size": "per 1/4 lb",
+        "price": 0.24,
+        "article": "GLYCERITE"
+      },
+      {
+        "form": "Tar",
+        "size": "per lb",
+        "price": 0.72,
+        "article": "GLYCERITE"
+      },
+      {
+        "form": "Tar",
+        "size": "per 1/2 lb",
+        "price": 0.41,
+        "article": "GLYCERITE"
+      },
+      {
+        "form": "Tar",
+        "size": "per 1/4 lb",
+        "price": 0.24,
+        "article": "GLYCERITE"
+      },
+      {
+        "form": "Tragacanth",
+        "size": "per lb",
+        "price": 1.05,
+        "article": "GLYCERITE"
+      },
+      {
+        "form": "Tragacanth",
+        "size": "per 1/2 lb",
+        "price": 0.58,
+        "article": "GLYCERITE"
+      },
+      {
+        "form": "Tragacanth",
+        "size": "per 1/4 lb",
+        "price": 0.33,
+        "article": "GLYCERITE"
+      },
+      {
+        "form": "GLYCYRRHIZA—Powdered",
+        "size": "per lb",
+        "price": 0.35,
+        "article": "GLYCERITE"
+      },
+      {
+        "form": "GLYCYRRHIZIN AMMONIATED",
+        "size": "per lb",
+        "price": 3.85,
+        "article": "GLYCERITE"
+      },
+      {
+        "form": "GLYCYRRHIZIN AMMONIATED",
+        "size": "per 1/2 lb",
+        "price": 1.96,
+        "article": "GLYCERITE"
+      },
+      {
+        "form": "GLYCYRRHIZIN AMMONIATED",
+        "size": "per 1/4 lb",
+        "price": 1.01,
+        "article": "GLYCERITE"
+      },
+      {
+        "form": null,
+        "size": "per oz",
+        "price": 0.35,
+        "article": "Hyoscyamus"
+      },
+      {
+        "form": "GOLD—Chloride",
+        "size": "per 15 gr. vial",
+        "price": 0.52,
+        "article": "GLYCERITE"
+      },
+      {
+        "form": "Monobromide",
+        "size": "per 15 gr. vial",
+        "price": 1.5,
+        "article": "GLYCERITE"
+      },
+      {
+        "form": "Monobromide",
+        "size": "per 10 gr. vial",
+        "price": 1.05,
+        "article": "GLYCERITE"
+      },
+      {
+        "form": "Monobromide",
+        "size": "per 5 gr. vial",
+        "price": 0.6,
+        "article": "GLYCERITE"
+      },
+      {
+        "form": "Monocyanide",
+        "size": "per 15 gr. vial",
+        "price": 2.45,
+        "article": "GLYCERITE"
+      },
+      {
+        "form": "Monocyanide",
+        "size": "per 10 gr. vial",
+        "price": 1.82,
+        "article": "GLYCERITE"
+      },
+      {
+        "form": "Monocyanide",
+        "size": "per 5 gr. vial",
+        "price": 1,
+        "article": "GLYCERITE"
+      },
+      {
+        "form": "Tribromide",
+        "size": "per 15 gr. vial",
+        "price": 1.25,
+        "article": "GLYCERITE"
+      },
+      {
+        "form": "Tribromide",
+        "size": "per 10 gr. vial",
+        "price": 1,
+        "article": "GLYCERITE"
+      },
+      {
+        "form": "Tribromide",
+        "size": "per 5 gr. vial",
+        "price": 0.55,
+        "article": "GLYCERITE"
+      },
+      {
+        "form": "Tricanide",
+        "size": "per 15 gr. vial",
+        "price": 2.45,
+        "article": "GLYCERITE"
+      },
+      {
+        "form": "Tricanide",
+        "size": "per 10 gr. vial",
+        "price": 1.82,
+        "article": "GLYCERITE"
+      },
+      {
+        "form": "Tricanide",
+        "size": "per 5 gr. vial",
+        "price": 1,
+        "article": "GLYCERITE"
+      },
+      {
+        "form": "and Sodium Chloride",
+        "size": "per 1/8 oz. vial",
+        "price": 0.92,
+        "article": "GLYCERITE"
+      },
+      {
+        "form": "and Sodium Chloride",
+        "size": "per 15 gr. vial",
+        "price": 0.28,
+        "article": "GLYCERITE"
+      },
+      {
+        "form": "GRINDELIA—Ground",
+        "size": "per lb",
+        "price": 0.4,
+        "article": "GLYCERITE"
+      },
+      {
+        "form": "GUAIAC RESIN—Powdered",
+        "size": "per lb",
+        "price": 0.55,
+        "article": "GLYCERITE"
+      },
+      {
+        "form": "GUAIACOL",
+        "size": "per lb",
+        "price": 2.9,
+        "article": "GLYCERITE"
+      },
+      {
+        "form": "GUAIACOL",
+        "size": "per 1/2 lb",
+        "price": 1.5,
+        "article": "GLYCERITE"
+      },
+      {
+        "form": "GUAIACOL",
+        "size": "per 1/4 lb",
+        "price": 0.78,
+        "article": "GLYCERITE"
+      },
+      {
+        "form": "GUAIACOL",
+        "size": "per oz",
+        "price": 0.27,
+        "article": "GLYCERITE"
+      },
+      {
+        "form": "GUARANA—Coarse Powder",
+        "size": "per lb",
+        "price": 1.85,
+        "article": "GLYCERITE"
+      },
+      {
+        "form": "GUARANA—Coarse Powder",
+        "size": "per 1/2 lb",
+        "price": 0.96,
+        "article": "GLYCERITE"
+      },
+      {
+        "form": "GUARANA—Coarse Powder",
+        "size": "per 1/4 lb",
+        "price": 0.5,
+        "article": "GLYCERITE"
+      },
+      {
+        "form": null,
+        "size": "per oz",
+        "price": 0.6,
+        "article": "Colchicum Seed"
+      },
+      {
+        "form": "HEMATOXYLIN",
+        "size": "per 1/8 oz. vial",
+        "price": 0.3,
+        "article": "GLYCERITE"
+      },
+      {
+        "form": "Chips",
+        "size": "per lb",
+        "price": 0.18,
+        "article": "GLYCERITE"
+      },
+      {
+        "form": "Ground",
+        "size": "per lb",
+        "price": 0.2,
+        "article": "GLYCERITE"
+      },
+      {
+        "form": null,
+        "size": "per lb",
+        "price": 1.3,
+        "article": "HEMOGLOBIN"
+      },
+      {
+        "form": null,
+        "size": "per 1/2 lb",
+        "price": 0.7,
+        "article": "HEMOGLOBIN"
+      },
+      {
+        "form": null,
+        "size": "per 1/4 lb",
+        "price": 0.38,
+        "article": "HEMOGLOBIN"
+      },
+      {
+        "form": null,
+        "size": "per lb",
+        "price": 2.25,
+        "article": "HEXAMETHYLENAMINE"
+      },
+      {
+        "form": null,
+        "size": "per 1/2 lb",
+        "price": 1.2,
+        "article": "HEXAMETHYLENAMINE"
+      },
+      {
+        "form": null,
+        "size": "per 1/4 lb",
+        "price": 0.64,
+        "article": "HEXAMETHYLENAMINE"
+      },
+      {
+        "form": null,
+        "size": "per oz",
+        "price": 0.27,
+        "article": "HEXAMETHYLENAMINE"
+      },
+      {
+        "form": null,
+        "size": "per 15 gr. vial",
+        "price": 7.25,
+        "article": "HOMATROPINE"
+      },
+      {
+        "form": null,
+        "size": "per 10 gr. vial",
+        "price": 5.1,
+        "article": "HOMATROPINE"
+      },
+      {
+        "form": null,
+        "size": "per 5 gr. vial",
+        "price": 2.75,
+        "article": "HOMATROPINE"
+      },
+      {
+        "form": "Hydrobromide",
+        "size": "per 15 gr. vial",
+        "price": 5.45,
+        "article": "HOMATROPINE"
+      },
+      {
+        "form": "Hydrobromide",
+        "size": "per 10 gr. vial",
+        "price": 3.95,
+        "article": "HOMATROPINE"
+      },
+      {
+        "form": "Hydrobromide",
+        "size": "per 5 gr. vial",
+        "price": 2.12,
+        "article": "HOMATROPINE"
+      },
+      {
+        "form": "Hydrochloride",
+        "size": "per 15 gr. vial",
+        "price": 6.6,
+        "article": "HOMATROPINE"
+      },
+      {
+        "form": "Hydrochloride",
+        "size": "per 10 gr. vial",
+        "price": 4.85,
+        "article": "HOMATROPINE"
+      },
+      {
+        "form": "Hydrochloride",
+        "size": "per 5 gr. vial",
+        "price": 2.55,
+        "article": "HOMATROPINE"
+      },
+      {
+        "form": "Salicylate",
+        "size": "per 15 gr. vial",
+        "price": 6.6,
+        "article": "HOMATROPINE"
+      },
+      {
+        "form": "Salicylate",
+        "size": "per 10 gr. vial",
+        "price": 4.85,
+        "article": "HOMATROPINE"
+      },
+      {
+        "form": "Salicylate",
+        "size": "per 5 gr. vial",
+        "price": 2.55,
+        "article": "HOMATROPINE"
+      },
+      {
+        "form": "Sulphate",
+        "size": "per 15 gr. vial",
+        "price": 6.6,
+        "article": "HOMATROPINE"
+      },
+      {
+        "form": "Sulphate",
+        "size": "per 10 gr. vial",
+        "price": 4.85,
+        "article": "HOMATROPINE"
+      },
+      {
+        "form": "Sulphate",
+        "size": "per 5 gr. vial",
+        "price": 2.55,
+        "article": "HOMATROPINE"
+      },
+      {
+        "form": null,
+        "size": "per lb",
+        "price": 0.32,
+        "article": "HONEY"
+      },
+      {
+        "form": "Clarified",
+        "size": "per lb",
+        "price": 0.42,
+        "article": "HONEY"
+      },
+      {
+        "form": "Rose",
+        "size": "per lb",
+        "price": 0.75,
+        "article": "HONEY"
+      },
+      {
+        "form": null,
+        "size": "per oz",
+        "price": 15,
+        "article": "HYDRASTINE"
+      },
+      {
+        "form": null,
+        "size": "per 15 gr. vial",
+        "price": 0.8,
+        "article": "HYDRASTINE"
+      },
+      {
+        "form": null,
+        "size": "per 1/8 oz. vial",
+        "price": 6.5,
+        "article": "HYDRASTININE HYDROCHLORIDE"
+      },
+      {
+        "form": null,
+        "size": "per 15 gr. vial",
+        "price": 2.1,
+        "article": "HYDRASTININE HYDROCHLORIDE"
+      },
+      {
+        "form": null,
+        "size": "per 10 gr. vial",
+        "price": 1.5,
+        "article": "HYDRASTININE HYDROCHLORIDE"
+      },
+      {
+        "form": null,
+        "size": "per 5 gr. vial",
+        "price": 0.8,
+        "article": "HYDRASTININE HYDROCHLORIDE"
+      },
+      {
+        "form": null,
+        "size": "per lb",
+        "price": 2.7,
+        "article": "HYDRASTIS—Whole"
+      },
+      {
+        "form": "Ground",
+        "size": "per lb",
+        "price": 2.75,
+        "article": "HYDRASTIS—Whole"
+      },
+      {
+        "form": "Powdered",
+        "size": "per lb",
+        "price": 2.77,
+        "article": "HYDRASTIS—Whole"
+      },
+      {
+        "form": null,
+        "size": "per 15 gr. vial",
+        "price": 6.6,
+        "article": "HYOSCINE—Alkaloid"
+      },
+      {
+        "form": "Hydriodide",
+        "size": "per 15 gr. vial",
+        "price": 5.75,
+        "article": "HYOSCINE—Alkaloid"
+      },
+      {
+        "form": "Hydriodide",
+        "size": "per 10 gr. vial",
+        "price": 4.25,
+        "article": "HYOSCINE—Alkaloid"
+      },
+      {
+        "form": "Hydriodide",
+        "size": "per 5 gr. vial",
+        "price": 2.45,
+        "article": "HYOSCINE—Alkaloid"
+      },
+      {
+        "form": "Hydriodide",
+        "size": "per 3 gr. vial",
+        "price": 1.75,
+        "article": "HYOSCINE—Alkaloid"
+      },
+      {
+        "form": "Hydrobromide",
+        "size": "per 15 gr. vial",
+        "price": 5.75,
+        "article": "HYOSCINE—Alkaloid"
+      },
+      {
+        "form": "Hydrobromide",
+        "size": "per 10 gr. vial",
+        "price": 4.25,
+        "article": "HYOSCINE—Alkaloid"
+      },
+      {
+        "form": "Hydrobromide",
+        "size": "per 5 gr. vial",
+        "price": 2.45,
+        "article": "HYOSCINE—Alkaloid"
+      },
+      {
+        "form": "Hydrobromide",
+        "size": "per 3 gr. vial",
+        "price": 1.75,
+        "article": "HYOSCINE—Alkaloid"
+      },
+      {
+        "form": "Hydrobromide",
+        "size": "per 1 gr. vial",
+        "price": 0.75,
+        "article": "HYOSCINE—Alkaloid"
+      },
+      {
+        "form": "Hydrochloride",
+        "size": "per 15 gr. vial",
+        "price": 5.75,
+        "article": "HYOSCINE—Alkaloid"
+      },
+      {
+        "form": "Hydrochloride",
+        "size": "per 10 gr. vial",
+        "price": 4.25,
+        "article": "HYOSCINE—Alkaloid"
+      },
+      {
+        "form": "Hydrochloride",
+        "size": "per 5 gr. vial",
+        "price": 2.45,
+        "article": "HYOSCINE—Alkaloid"
+      },
+      {
+        "form": "Hydrochloride",
+        "size": "per 3 gr. vial",
+        "price": 1.75,
+        "article": "HYOSCINE—Alkaloid"
+      },
+      {
+        "form": "Sulphate",
+        "size": "per 15 gr. vial",
+        "price": 5.75,
+        "article": "HYOSCINE—Alkaloid"
+      },
+      {
+        "form": "Sulphate",
+        "size": "per 10 gr. vial",
+        "price": 4.25,
+        "article": "HYOSCINE—Alkaloid"
+      },
+      {
+        "form": "Sulphate",
+        "size": "per 5 gr. vial",
+        "price": 2.45,
+        "article": "HYOSCINE—Alkaloid"
+      },
+      {
+        "form": "Sulphate",
+        "size": "per 3 gr. vial",
+        "price": 1.75,
+        "article": "HYOSCINE—Alkaloid"
+      },
+      {
+        "form": null,
+        "size": "per 15 gr. vial",
+        "price": 5.75,
+        "article": "HYOSCYAMINE—Crystals"
+      },
+      {
+        "form": null,
+        "size": "per 10 gr. vial",
+        "price": 4.25,
+        "article": "HYOSCYAMINE—Crystals"
+      },
+      {
+        "form": null,
+        "size": "per 5 gr. vial",
+        "price": 2.45,
+        "article": "HYOSCYAMINE—Crystals"
+      },
+      {
+        "form": "Amorphous",
+        "size": "per 15 gr. vial",
+        "price": 3.65,
+        "article": "HYOSCYAMINE—Crystals"
+      },
+      {
+        "form": "Amorphous",
+        "size": "per 10 gr. vial",
+        "price": 2.75,
+        "article": "HYOSCYAMINE—Crystals"
+      },
+      {
+        "form": "Amorphous",
+        "size": "per 5 gr. vial",
+        "price": 1.5,
+        "article": "HYOSCYAMINE—Crystals"
+      },
+      {
+        "form": "Hydriodide",
+        "size": "per 15 gr. vial",
+        "price": 5.75,
+        "article": "HYOSCYAMINE"
+      },
+      {
+        "form": "Hydriodide",
+        "size": "per 10 gr. vial",
+        "price": 4.25,
+        "article": "HYOSCYAMINE"
+      },
+      {
+        "form": "Hydriodide",
+        "size": "per 5 gr. vial",
+        "price": 2.45,
+        "article": "HYOSCYAMINE"
+      },
+      {
+        "form": "Hydrobromide Crystals",
+        "size": "per 15 gr. vial",
+        "price": 3.65,
+        "article": "HYOSCYAMINE"
+      },
+      {
+        "form": "Hydrobromide Crystals",
+        "size": "per 10 gr. vial",
+        "price": 2.75,
+        "article": "HYOSCYAMINE"
+      },
+      {
+        "form": "Hydrobromide Crystals",
+        "size": "per 5 gr. vial",
+        "price": 1.5,
+        "article": "HYOSCYAMINE"
+      },
+      {
+        "form": "Hydrobromide Amorphous",
+        "size": "per 15 gr. vial",
+        "price": 3.65,
+        "article": "HYOSCYAMINE"
+      },
+      {
+        "form": "Hydrobromide Amorphous",
+        "size": "per 10 gr. vial",
+        "price": 2.75,
+        "article": "HYOSCYAMINE"
+      },
+      {
+        "form": "Hydrobromide Amorphous",
+        "size": "per 5 gr. vial",
+        "price": 1.5,
+        "article": "HYOSCYAMINE"
+      },
+      {
+        "form": "Hydrochloride",
+        "size": "per 15 gr. vial",
+        "price": 3.65,
+        "article": "HYOSCYAMINE"
+      },
+      {
+        "form": "Hydrochloride",
+        "size": "per 10 gr. vial",
+        "price": 2.75,
+        "article": "HYOSCYAMINE"
+      },
+      {
+        "form": "Hydrochloride",
+        "size": "per 5 gr. vial",
+        "price": 1.5,
+        "article": "HYOSCYAMINE"
+      },
+      {
+        "form": "Sulphate Crystals",
+        "size": "per 15 gr. vial",
+        "price": 5.75,
+        "article": "HYOSCYAMINE"
+      },
+      {
+        "form": "Sulphate Crystals",
+        "size": "per 10 gr. vial",
+        "price": 4.25,
+        "article": "HYOSCYAMINE"
+      },
+      {
+        "form": "Sulphate Crystals",
+        "size": "per 5 gr. vial",
+        "price": 2.45,
+        "article": "HYOSCYAMINE"
+      },
+      {
+        "form": "Sulphate Amorphous",
+        "size": "per 15 gr. vial",
+        "price": 3.65,
+        "article": "HYOSCYAMINE"
+      },
+      {
+        "form": "Sulphate Amorphous",
+        "size": "per 10 gr. vial",
+        "price": 2.75,
+        "article": "HYOSCYAMINE"
+      },
+      {
+        "form": "Sulphate Amorphous",
+        "size": "per 5 gr. vial",
+        "price": 1.5,
+        "article": "HYOSCYAMINE"
+      },
+      {
+        "form": "Whole",
+        "size": "per lb",
+        "price": 0.6,
+        "article": "HYASCYAMUS"
+      },
+      {
+        "form": "Ground",
+        "size": "per lb",
+        "price": 0.62,
+        "article": "HYASCYAMUS"
+      },
+      {
+        "form": null,
+        "size": "per lb",
+        "price": 4.65,
+        "article": "IODINE RESUBLIMED"
+      },
+      {
+        "form": null,
+        "size": "per 1/2 lb",
+        "price": 2.4,
+        "article": "IODINE RESUBLIMED"
+      },
+      {
+        "form": null,
+        "size": "per 1/4 lb",
+        "price": 1.3,
+        "article": "IODINE RESUBLIMED"
+      },
+      {
+        "form": null,
+        "size": "per oz",
+        "price": 0.48,
+        "article": "IODINE RESUBLIMED"
+      },
+      {
+        "form": null,
+        "size": "per lb",
+        "price": 6.35,
+        "article": "IODOFORM"
+      },
+      {
+        "form": null,
+        "size": "per 1/2 lb",
+        "price": 3.23,
+        "article": "IODOFORM"
+      },
+      {
+        "form": null,
+        "size": "per 1/4 lb",
+        "price": 1.67,
+        "article": "IODOFORM"
+      },
+      {
+        "form": null,
+        "size": "per oz",
+        "price": 0.48,
+        "article": "IODOFORM"
+      },
+      {
+        "form": "Ground",
+        "size": "per lb",
+        "price": 2.5,
+        "article": "IPECACUANHA"
+      },
+      {
+        "form": "Ground",
+        "size": "per 1/2 lb",
+        "price": 1.29,
+        "article": "IPECACUANHA"
+      },
+      {
+        "form": "Ground",
+        "size": "per 1/4 lb",
+        "price": 0.69,
+        "article": "IPECACUANHA"
+      },
+      {
+        "form": "Powdered",
+        "size": "per lb",
+        "price": 2.55,
+        "article": "IPECACUANHA"
+      },
+      {
+        "form": "Powdered",
+        "size": "per 1/2 lb",
+        "price": 1.32,
+        "article": "IPECACUANHA"
+      },
+      {
+        "form": "Powdered",
+        "size": "per 1/4 lb",
+        "price": 0.7,
+        "article": "IPECACUANHA"
+      },
+      {
+        "form": null,
+        "size": "per lb",
+        "price": 0.4,
+        "article": "IRON"
+      },
+      {
+        "form": null,
+        "size": "per 1/2 lb",
+        "price": 0.24,
+        "article": "IRON"
+      },
+      {
+        "form": null,
+        "size": "per 1/4 lb",
+        "price": 0.14,
+        "article": "IRON"
+      },
+      {
+        "form": "Powder",
+        "size": "per lb",
+        "price": 0.44,
+        "article": "IRON"
+      },
+      {
+        "form": "Powder",
+        "size": "per 1/2 lb",
+        "price": 0.26,
+        "article": "IRON"
+      },
+      {
+        "form": "Powder",
+        "size": "per 1/4 lb",
+        "price": 0.15,
+        "article": "IRON"
+      },
+      {
+        "form": "Reduced",
+        "size": "per lb",
+        "price": 0.75,
+        "article": "IRON"
+      },
+      {
+        "form": "Reduced",
+        "size": "per 1/2 lb",
+        "price": 0.42,
+        "article": "IRON"
+      },
+      {
+        "form": "Reduced",
+        "size": "per 1/4 lb",
+        "price": 0.23,
+        "article": "IRON"
+      },
+      {
+        "form": "Reduced",
+        "size": "per oz",
+        "price": 0.1,
+        "article": "IRON"
+      },
+      {
+        "form": "Acetate Neutral",
+        "size": "per lb",
+        "price": 3.15,
+        "article": "IRON"
+      },
+      {
+        "form": "Acetate Neutral",
+        "size": "per 1/2 lb",
+        "price": 1.61,
+        "article": "IRON"
+      },
+      {
+        "form": "Acetate Neutral",
+        "size": "per 1/4 lb",
+        "price": 0.84,
+        "article": "IRON"
+      },
+      {
+        "form": "Acetate Neutral",
+        "size": "per oz",
+        "price": 0.3,
+        "article": "IRON"
+      },
+      {
+        "form": "Albuminate",
+        "size": "per lb",
+        "price": 2.55,
+        "article": "IRON"
+      },
+      {
+        "form": "Albuminate",
+        "size": "per 1/2 lb",
+        "price": 1.32,
+        "article": "IRON"
+      },
+      {
+        "form": "Albuminate",
+        "size": "per 1/4 lb",
+        "price": 0.7,
+        "article": "IRON"
+      },
+      {
+        "form": "Albuminate",
+        "size": "per oz",
+        "price": 0.25,
+        "article": "IRON"
+      },
+      {
+        "form": "Arsenate",
+        "size": "per oz",
+        "price": 0.2,
+        "article": "IRON"
+      },
+      {
+        "form": "Bromide",
+        "size": "per lb",
+        "price": 1.7,
+        "article": "IRON"
+      },
+      {
+        "form": "Bromide",
+        "size": "per oz",
+        "price": 0.26,
+        "article": "IRON"
+      },
+      {
+        "form": "Carbonate Saccharated",
+        "size": "per lb",
+        "price": 0.45,
+        "article": "IRON"
+      },
+      {
+        "form": "Chloride Ferric",
+        "size": "per lb",
+        "price": 0.42,
+        "article": "IRON"
+      },
+      {
+        "form": "Chloride Ferric",
+        "size": "per 1/2 lb",
+        "price": 0.25,
+        "article": "IRON"
+      },
+      {
+        "form": "Chloride Ferric",
+        "size": "per 1/4 lb",
+        "price": 0.15,
+        "article": "IRON"
+      },
+      {
+        "form": "Chloride Ferric",
+        "size": "per oz",
+        "price": 0.11,
+        "article": "IRON"
+      },
+      {
+        "form": "Chloride Ferrous",
+        "size": "per lb",
+        "price": 0.72,
+        "article": "IRON"
+      },
+      {
+        "form": "Chloride Ferrous",
+        "size": "per 1/2 lb",
+        "price": 0.4,
+        "article": "IRON"
+      },
+      {
+        "form": "Chloride Ferrous",
+        "size": "per 1/4 lb",
+        "price": 0.22,
+        "article": "IRON"
+      },
+      {
+        "form": "Chloride Ferrous",
+        "size": "per oz",
+        "price": 0.15,
+        "article": "IRON"
+      },
+      {
+        "form": "Citrate",
+        "size": "per lb",
+        "price": 0.82,
+        "article": "IRON"
+      },
+      {
+        "form": "Citrate",
+        "size": "per 1/2 lb",
+        "price": 0.44,
+        "article": "IRON"
+      },
+      {
+        "form": "Citrate",
+        "size": "per 1/4 lb",
+        "price": 0.25,
+        "article": "IRON"
+      },
+      {
+        "form": "Citrate",
+        "size": "per oz",
+        "price": 0.15,
+        "article": "IRON"
+      },
+      {
+        "form": "Glycerophosphate",
+        "size": "per lb",
+        "price": 5.25,
+        "article": "IRON"
+      },
+      {
+        "form": "Glycerophosphate",
+        "size": "per 1/2 lb",
+        "price": 2.67,
+        "article": "IRON"
+      },
+      {
+        "form": "Glycerophosphate",
+        "size": "per 1/4 lb",
+        "price": 1.36,
+        "article": "IRON"
+      },
+      {
+        "form": "Glycerophosphate",
+        "size": "per oz",
+        "price": 0.44,
+        "article": "IRON"
+      },
+      {
+        "form": "Hypophosphite",
+        "size": "per lb",
+        "price": 1.95,
+        "article": "IRON"
+      },
+      {
+        "form": "Hypophosphite",
+        "size": "per 1/2 lb",
+        "price": 1.02,
+        "article": "IRON"
+      },
+      {
+        "form": "Hypophosphite",
+        "size": "per 1/4 lb",
+        "price": 0.55,
+        "article": "IRON"
+      },
+      {
+        "form": "Hypophosphite",
+        "size": "per oz",
+        "price": 0.25,
+        "article": "IRON"
+      },
+      {
+        "form": "Lactate, Powdered",
+        "size": "per lb",
+        "price": 0.75,
+        "article": "IRON"
+      },
+      {
+        "form": "Lactate, Powdered",
+        "size": "per 1/2 lb",
+        "price": 0.43,
+        "article": "IRON"
+      },
+      {
+        "form": "Lactate, Powdered",
+        "size": "per 1/4 lb",
+        "price": 0.24,
+        "article": "IRON"
+      },
+      {
+        "form": "Lactate, Powdered",
+        "size": "per oz",
+        "price": 0.13,
+        "article": "IRON"
+      },
+      {
+        "form": "Lactophosphate",
+        "size": "per lb",
+        "price": 2.55,
+        "article": "IRON"
+      },
+      {
+        "form": "Lactophosphate",
+        "size": "per oz",
+        "price": 0.25,
+        "article": "IRON"
+      },
+      {
+        "form": "Oxalate",
+        "size": "per lb",
+        "price": 1.58,
+        "article": "IRON"
+      },
+      {
+        "form": "Oxalate",
+        "size": "per oz",
+        "price": 0.2,
+        "article": "IRON"
+      },
+      {
+        "form": "Oxide Black, Dry Process",
+        "size": "per lb",
+        "price": 0.51,
+        "article": "IRON"
+      },
+      {
+        "form": "Wet Process",
+        "size": "per lb",
+        "price": 1.15,
+        "article": "IRON"
+      },
+      {
+        "form": "Oxide Red Saccharated",
+        "size": "per lb",
+        "price": 0.55,
+        "article": "IRON"
+      },
+      {
+        "form": "Peptonized",
+        "size": "per lb",
+        "price": 2.35,
+        "article": "IRON"
+      },
+      {
+        "form": "Peptonized",
+        "size": "per 1/2 lb",
+        "price": 1.23,
+        "article": "IRON"
+      },
+      {
+        "form": "Peptonized",
+        "size": "per 1/4 lb",
+        "price": 0.63,
+        "article": "IRON"
+      },
+      {
+        "form": "Peptonized",
+        "size": "per oz",
+        "price": 0.22,
+        "article": "IRON"
+      },
+      {
+        "form": "Phosphate",
+        "size": "per lb",
+        "price": 0.77,
+        "article": "IRON"
+      },
+      {
+        "form": "Phosphate",
+        "size": "per 1/2 lb",
+        "price": 0.42,
+        "article": "IRON"
+      },
+      {
+        "form": "Phosphate",
+        "size": "per 1/4 lb",
+        "price": 0.24,
+        "article": "IRON"
+      },
+      {
+        "form": "Phosphate",
+        "size": "per oz",
+        "price": 0.15,
+        "article": "IRON"
+      },
+      {
+        "form": "Pyrophosphate",
+        "size": "per lb",
+        "price": 0.77,
+        "article": "IRON"
+      },
+      {
+        "form": "Pyrophosphate",
+        "size": "per 1/2 lb",
+        "price": 0.42,
+        "article": "IRON"
+      },
+      {
+        "form": "Pyrophosphate",
+        "size": "per 1/4 lb",
+        "price": 0.24,
+        "article": "IRON"
+      },
+      {
+        "form": "Pyrophosphate",
+        "size": "per oz",
+        "price": 0.15,
+        "article": "IRON"
+      },
+      {
+        "form": "Salicylate",
+        "size": "per oz",
+        "price": 0.2,
+        "article": "IRON"
+      },
+      {
+        "form": "Subsulphate",
+        "size": "per lb",
+        "price": 0.75,
+        "article": "IRON"
+      },
+      {
+        "form": "Subsulphate",
+        "size": "per 1/2 lb",
+        "price": 0.43,
+        "article": "IRON"
+      },
+      {
+        "form": "Subsulphate",
+        "size": "per 1/4 lb",
+        "price": 0.27,
+        "article": "IRON"
+      },
+      {
+        "form": "Subsulphate",
+        "size": "per oz",
+        "price": 0.15,
+        "article": "IRON"
+      },
+      {
+        "form": "Succinate",
+        "size": "per lb",
+        "price": 3.1,
+        "article": "IRON"
+      },
+      {
+        "form": "Succinate",
+        "size": "per 1/2 lb",
+        "price": 1.6,
+        "article": "IRON"
+      },
+      {
+        "form": "Succinate",
+        "size": "per 1/4 lb",
+        "price": 0.85,
+        "article": "IRON"
+      },
+      {
+        "form": "Succinate",
+        "size": "per oz",
+        "price": 0.35,
+        "article": "IRON"
+      },
+      {
+        "form": "Sulphate",
+        "size": "per lb",
+        "price": 0.18,
+        "article": "IRON"
+      },
+      {
+        "form": "Sulphate, Dried",
+        "size": "per lb",
+        "price": 0.3,
+        "article": "IRON"
+      },
+      {
+        "form": "Sulphate Granulated",
+        "size": "per lb",
+        "price": 0.42,
+        "article": "IRON"
+      },
+      {
+        "form": "Sulphide, Lumps",
+        "size": "per lb",
+        "price": 0.28,
+        "article": "IRON"
+      },
+      {
+        "form": "Sticks",
+        "size": "per lb",
+        "price": 0.3,
+        "article": "IRON"
+      },
+      {
+        "form": "Tannate",
+        "size": "per oz",
+        "price": 0.27,
+        "article": "IRON"
+      },
+      {
+        "form": "Valerianate",
+        "size": "per oz",
+        "price": 0.24,
+        "article": "IRON"
+      },
+      {
+        "form": "and Ammonium Citrate",
+        "size": "per lb",
+        "price": 0.77,
+        "article": "IRON"
+      },
+      {
+        "form": "and Ammonium Citrate",
+        "size": "per 1/2 lb",
+        "price": 0.42,
+        "article": "IRON"
+      },
+      {
+        "form": "and Ammonium Citrate",
+        "size": "per 1/4 lb",
+        "price": 0.24,
+        "article": "IRON"
+      },
+      {
+        "form": "and Ammonium Citrate",
+        "size": "per oz",
+        "price": 0.15,
+        "article": "IRON"
+      },
+      {
+        "form": "and Ammonium Sulphate",
+        "size": "per lb",
+        "price": 0.5,
+        "article": "IRON"
+      },
+      {
+        "form": "and Ammonium Sulphate",
+        "size": "per 1/2 lb",
+        "price": 0.29,
+        "article": "IRON"
+      },
+      {
+        "form": "and Ammonium Sulphate",
+        "size": "per 1/4 lb",
+        "price": 0.18,
+        "article": "IRON"
+      },
+      {
+        "form": "and Ammonium Tartrate",
+        "size": "per lb",
+        "price": 0.9,
+        "article": "IRON"
+      },
+      {
+        "form": "and Ammonium Tartrate",
+        "size": "per 1/2 lb",
+        "price": 0.5,
+        "article": "IRON"
+      },
+      {
+        "form": "and Ammonium Tartrate",
+        "size": "per 1/4 lb",
+        "price": 0.3,
+        "article": "IRON"
+      },
+      {
+        "form": "and Manganese Citrate",
+        "size": "per oz",
+        "price": 0.24,
+        "article": "IRON"
+      },
+      {
+        "form": "and Manganese Peptonized",
+        "size": "per lb",
+        "price": 2.5,
+        "article": "IRON"
+      },
+      {
+        "form": "and Manganese Peptonized",
+        "size": "per 1/2 lb",
+        "price": 1.3,
+        "article": "IRON"
+      },
+      {
+        "form": "and Manganese Peptonized",
+        "size": "per 1/4 lb",
+        "price": 0.68,
+        "article": "IRON"
+      },
+      {
+        "form": "and Manganese Peptonized",
+        "size": "per oz",
+        "price": 0.44,
+        "article": "IRON"
+      },
+      {
+        "form": "and Potassium Tartrate",
+        "size": "per lb",
+        "price": 0.72,
+        "article": "IRON"
+      },
+      {
+        "form": "and Potassium Tartrate",
+        "size": "per 1/2 lb",
+        "price": 0.4,
+        "article": "IRON"
+      },
+      {
+        "form": "and Potassium Tartrate",
+        "size": "per 1/4 lb",
+        "price": 0.23,
+        "article": "IRON"
+      },
+      {
+        "form": "and Potassium Tartrate",
+        "size": "per oz",
+        "price": 0.14,
+        "article": "IRON"
+      },
+      {
+        "form": "and Quinine Citrate",
+        "size": "per lb",
+        "price": 2.4,
+        "article": "IRON"
+      },
+      {
+        "form": "and Quinine Citrate",
+        "size": "per 1/2 lb",
+        "price": 1.25,
+        "article": "IRON"
+      },
+      {
+        "form": "and Quinine Citrate",
+        "size": "per 1/4 lb",
+        "price": 0.67,
+        "article": "IRON"
+      },
+      {
+        "form": "and Quinine Citrate",
+        "size": "per oz",
+        "price": 0.28,
+        "article": "IRON"
+      },
+      {
+        "form": "and Quinine Citrate Soluble",
+        "size": "per lb",
+        "price": 2.42,
+        "article": "IRON"
+      },
+      {
+        "form": "and Quinine Citrate Soluble",
+        "size": "per 1/2 lb",
+        "price": 1.26,
+        "article": "IRON"
+      },
+      {
+        "form": "and Quinine Citrate Soluble",
+        "size": "per 1/4 lb",
+        "price": 0.67,
+        "article": "IRON"
+      },
+      {
+        "form": "and Quinine Citrate Soluble",
+        "size": "per oz",
+        "price": 0.28,
+        "article": "IRON"
+      },
+      {
+        "form": "Quinine and Strychnine Citrate",
+        "size": "per lb",
+        "price": 3,
+        "article": "IRON"
+      },
+      {
+        "form": "Quinine and Strychnine Citrate",
+        "size": "per 1/2 lb",
+        "price": 1.55,
+        "article": "IRON"
+      },
+      {
+        "form": "Quinine and Strychnine Citrate",
+        "size": "per 1/4 lb",
+        "price": 0.81,
+        "article": "IRON"
+      },
+      {
+        "form": "Quinine and Strychnine Citrate",
+        "size": "per oz",
+        "price": 0.3,
+        "article": "IRON"
+      },
+      {
+        "form": "and Strychnine Citrate",
+        "size": "per lb",
+        "price": 1.35,
+        "article": "IRON"
+      },
+      {
+        "form": "and Strychnine Citrate",
+        "size": "per 1/2 lb",
+        "price": 0.73,
+        "article": "IRON"
+      },
+      {
+        "form": "and Strychnine Citrate",
+        "size": "per 1/4 lb",
+        "price": 0.4,
+        "article": "IRON"
+      },
+      {
+        "form": "and Strychnine Citrate",
+        "size": "per oz",
+        "price": 0.18,
+        "article": "IRON"
+      },
+      {
+        "form": "Powdered",
+        "size": "per lb",
+        "price": 0.55,
+        "article": "JALAP"
+      },
+      {
+        "form": "Powdered",
+        "size": "per 1/2 lb",
+        "price": 0.31,
+        "article": "JALAP"
+      },
+      {
+        "form": "Powdered",
+        "size": "per 1/4 lb",
+        "price": 0.18,
+        "article": "JALAP"
+      },
+      {
+        "form": null,
+        "size": "per oz",
+        "price": 0.95,
+        "article": "JUICE PAPAW"
+      },
+      {
+        "form": null,
+        "size": "per lb",
+        "price": 0.15,
+        "article": "KAOLIN"
+      },
+      {
+        "form": null,
+        "size": "per oz",
+        "price": 0.95,
+        "article": "KEFIR FUNGI"
+      },
+      {
+        "form": null,
+        "size": "per 1/8 oz. vial",
+        "price": 0.8,
+        "article": "KERATIN PEPSINIZED"
+      },
+      {
+        "form": null,
+        "size": "per lb",
+        "price": 0.62,
+        "article": "KINO"
+      },
+      {
+        "form": null,
+        "size": "per lb",
+        "price": 4.6,
+        "article": "LACTUCARIUM"
+      },
+      {
+        "form": null,
+        "size": "per 1/2 lb",
+        "price": 2.35,
+        "article": "LACTUCARIUM"
+      },
+      {
+        "form": null,
+        "size": "per 1/4 lb",
+        "price": 1.2,
+        "article": "LACTUCARIUM"
+      },
+      {
+        "form": null,
+        "size": "per oz",
+        "price": 0.45,
+        "article": "LACTUCARIUM"
+      },
+      {
+        "form": "Acetate",
+        "size": "per lb",
+        "price": 0.24,
+        "article": "LEAD"
+      },
+      {
+        "form": "Acetate",
+        "size": "per 1/2 lb",
+        "price": 0.16,
+        "article": "LEAD"
+      },
+      {
+        "form": "Acetate",
+        "size": "per 1/4 lb",
+        "price": 0.11,
+        "article": "LEAD"
+      },
+      {
+        "form": "Carbonate",
+        "size": "per lb",
+        "price": 0.8,
+        "article": "LEAD"
+      },
+      {
+        "form": "Carbonate",
+        "size": "per 1/2 lb",
+        "price": 0.44,
+        "article": "LEAD"
+      },
+      {
+        "form": "Carbonate",
+        "size": "per 1/4 lb",
+        "price": 0.24,
+        "article": "LEAD"
+      },
+      {
+        "form": "Iodide",
+        "size": "per lb",
+        "price": 3.7,
+        "article": "LEAD"
+      },
+      {
+        "form": "Iodide",
+        "size": "per 1/2 lb",
+        "price": 1.9,
+        "article": "LEAD"
+      },
+      {
+        "form": "Iodide",
+        "size": "per 1/4 lb",
+        "price": 1,
+        "article": "LEAD"
+      },
+      {
+        "form": "Iodide",
+        "size": "per oz",
+        "price": 0.35,
+        "article": "LEAD"
+      },
+      {
+        "form": "Nitrate",
+        "size": "per lb",
+        "price": 0.55,
+        "article": "LEAD"
+      },
+      {
+        "form": "Nitrate",
+        "size": "per 1/2 lb",
+        "price": 0.3,
+        "article": "LEAD"
+      },
+      {
+        "form": "Nitrate",
+        "size": "per 1/4 lb",
+        "price": 0.18,
+        "article": "LEAD"
+      },
+      {
+        "form": "Oxide, Yellow",
+        "size": "per lb",
+        "price": 1.02,
+        "article": "LEAD"
+      },
+      {
+        "form": "Oxide, Yellow",
+        "size": "per 1/2 lb",
+        "price": 0.54,
+        "article": "LEAD"
+      },
+      {
+        "form": "Oxide, Yellow",
+        "size": "per 1/4 lb",
+        "price": 0.3,
+        "article": "LEAD"
+      },
+      {
+        "form": "Subacetate",
+        "size": "per lb.",
+        "price": 0.59,
+        "article": "LEAD"
+      },
+      {
+        "form": "Subacetate",
+        "size": "per 1/2 lb.",
+        "price": 0.33,
+        "article": "LEAD"
+      },
+      {
+        "form": "Subacetate",
+        "size": "per 1/4 lb.",
+        "price": 0.19,
+        "article": "LEAD"
+      },
+      {
+        "form": null,
+        "size": "per oz.",
+        "price": 8.4,
+        "article": "LECITHIN"
+      },
+      {
+        "form": null,
+        "size": "per 1/2 oz.",
+        "price": 4.25,
+        "article": "LECITHIN"
+      },
+      {
+        "form": null,
+        "size": "per 1/4 oz.",
+        "price": 2.2,
+        "article": "LECITHIN"
+      },
+      {
+        "form": null,
+        "size": "per 1/8 oz.",
+        "price": 1.15,
+        "article": "LECITHIN"
+      },
+      {
+        "form": null,
+        "size": "per 15 gr. vial.",
+        "price": 0.6,
+        "article": "LECITHIN"
+      },
+      {
+        "form": "Ground",
+        "size": "per lb.",
+        "price": 0.36,
+        "article": "LEPTANDRA"
+      },
+      {
+        "form": "Ground",
+        "size": "per 1/2 lb.",
+        "price": 0.22,
+        "article": "LEPTANDRA"
+      },
+      {
+        "form": "Ground",
+        "size": "per 1/4 lb.",
+        "price": 0.14,
+        "article": "LEPTANDRA"
+      },
+      {
+        "form": null,
+        "size": "per oz.",
+        "price": 1.85,
+        "article": "LEVULOSE"
+      },
+      {
+        "form": "Chlorinated",
+        "size": "per lb.",
+        "price": 0.23,
+        "article": "LIME"
+      },
+      {
+        "form": "Sulphurated",
+        "size": "per lb.",
+        "price": 0.47,
+        "article": "LIME"
+      },
+      {
+        "form": "Sulphurated",
+        "size": "per 1/2 lb.",
+        "price": 0.28,
+        "article": "LIME"
+      },
+      {
+        "form": "Sulphurated",
+        "size": "per 1/4 lb.",
+        "price": 0.18,
+        "article": "LIME"
+      },
+      {
+        "form": "Sulphurated",
+        "size": "per oz.",
+        "price": 0.12,
+        "article": "LIME"
+      },
+      {
+        "form": "Water",
+        "size": "per pint.",
+        "price": 0.2,
+        "article": "LIME"
+      },
+      {
+        "form": "Water",
+        "size": "per gal.",
+        "price": 1,
+        "article": "LIME"
+      },
+      {
+        "form": "Benzoate (Natural)",
+        "size": "per lb.",
+        "price": 4.55,
+        "article": "LITHIUM"
+      },
+      {
+        "form": "Benzoate (Natural)",
+        "size": "per 1/2 lb.",
+        "price": 2.32,
+        "article": "LITHIUM"
+      },
+      {
+        "form": "Benzoate (Natural)",
+        "size": "per 1/4 lb.",
+        "price": 1.2,
+        "article": "LITHIUM"
+      },
+      {
+        "form": "Benzoate (Natural)",
+        "size": "per oz.",
+        "price": 0.42,
+        "article": "LITHIUM"
+      },
+      {
+        "form": "Benzoate (Synthetic)",
+        "size": "per lb.",
+        "price": 1.85,
+        "article": "LITHIUM"
+      },
+      {
+        "form": "Benzoate (Synthetic)",
+        "size": "per 1/2 lb.",
+        "price": 0.97,
+        "article": "LITHIUM"
+      },
+      {
+        "form": "Benzoate (Synthetic)",
+        "size": "per 1/4 lb.",
+        "price": 0.52,
+        "article": "LITHIUM"
+      },
+      {
+        "form": "Benzoate (Synthetic)",
+        "size": "per oz.",
+        "price": 0.19,
+        "article": "LITHIUM"
+      },
+      {
+        "form": "Benzosalicylate",
+        "size": "per lb.",
+        "price": 3.25,
+        "article": "LITHIUM"
+      },
+      {
+        "form": "Benzosalicylate",
+        "size": "per 1/2 lb.",
+        "price": 1.72,
+        "article": "LITHIUM"
+      },
+      {
+        "form": "Benzosalicylate",
+        "size": "per 1/4 lb.",
+        "price": 0.9,
+        "article": "LITHIUM"
+      },
+      {
+        "form": "Benzosalicylate",
+        "size": "per oz.",
+        "price": 0.3,
+        "article": "LITHIUM"
+      },
+      {
+        "form": "Bitartrate",
+        "size": "per oz.",
+        "price": 0.45,
+        "article": "LITHIUM"
+      },
+      {
+        "form": "Bromide",
+        "size": "per lb.",
+        "price": 3.1,
+        "article": "LITHIUM"
+      },
+      {
+        "form": "Bromide",
+        "size": "per 1/2 lb.",
+        "price": 1.6,
+        "article": "LITHIUM"
+      },
+      {
+        "form": "Bromide",
+        "size": "per 1/4 lb.",
+        "price": 0.82,
+        "article": "LITHIUM"
+      },
+      {
+        "form": "Bromide",
+        "size": "per oz.",
+        "price": 0.32,
+        "article": "LITHIUM"
+      },
+      {
+        "form": "Carbonate",
+        "size": "per lb.",
+        "price": 2.55,
+        "article": "LITHIUM"
+      },
+      {
+        "form": "Carbonate",
+        "size": "per 1/2 lb.",
+        "price": 1.32,
+        "article": "LITHIUM"
+      },
+      {
+        "form": "Carbonate",
+        "size": "per 1/4 lb.",
+        "price": 0.68,
+        "article": "LITHIUM"
+      },
+      {
+        "form": "Carbonate",
+        "size": "per oz.",
+        "price": 0.28,
+        "article": "LITHIUM"
+      },
+      {
+        "form": "Citrate",
+        "size": "per lb.",
+        "price": 2.4,
+        "article": "LITHIUM"
+      },
+      {
+        "form": "Citrate",
+        "size": "per 1/2 lb.",
+        "price": 1.25,
+        "article": "LITHIUM"
+      },
+      {
+        "form": "Citrate",
+        "size": "per 1/4 lb.",
+        "price": 0.64,
+        "article": "LITHIUM"
+      },
+      {
+        "form": "Citrate",
+        "size": "per oz.",
+        "price": 0.32,
+        "article": "LITHIUM"
+      },
+      {
+        "form": "Glycerophosphate",
+        "size": "per oz.",
+        "price": 0.92,
+        "article": "LITHIUM"
+      },
+      {
+        "form": "Iodide",
+        "size": "per lb.",
+        "price": 7.9,
+        "article": "LITHIUM"
+      },
+      {
+        "form": "Iodide",
+        "size": "per 1/2 lb.",
+        "price": 4.02,
+        "article": "LITHIUM"
+      },
+      {
+        "form": "Iodide",
+        "size": "per 1/4 lb.",
+        "price": 2.07,
+        "article": "LITHIUM"
+      },
+      {
+        "form": "Iodide",
+        "size": "per oz.",
+        "price": 0.6,
+        "article": "LITHIUM"
+      },
+      {
+        "form": "Salicylate",
+        "size": "per lb.",
+        "price": 1.9,
+        "article": "LITHIUM"
+      },
+      {
+        "form": "Salicylate",
+        "size": "per 1/2 lb.",
+        "price": 1,
+        "article": "LITHIUM"
+      },
+      {
+        "form": "Salicylate",
+        "size": "per 1/4 lb.",
+        "price": 0.52,
+        "article": "LITHIUM"
+      },
+      {
+        "form": "Salicylate",
+        "size": "per oz.",
+        "price": 0.24,
+        "article": "LITHIUM"
+      },
+      {
+        "form": "Tartrate",
+        "size": "per oz.",
+        "price": 0.36,
+        "article": "LITHIUM"
+      },
+      {
+        "form": "Whole",
+        "size": "per lb.",
+        "price": 0.33,
+        "article": "LOBELIA"
+      },
+      {
+        "form": "Powdered",
+        "size": "per lb.",
+        "price": 0.36,
+        "article": "LOBELIA"
+      },
+      {
+        "form": null,
+        "size": "per lb.",
+        "price": 0.6,
+        "article": "LUPULIN"
+      },
+      {
+        "form": null,
+        "size": "per 1/2 lb.",
+        "price": 0.33,
+        "article": "LUPULIN"
+      },
+      {
+        "form": null,
+        "size": "per 1/4 lb.",
+        "price": 0.19,
+        "article": "LUPULIN"
+      },
+      {
+        "form": null,
+        "size": "per lb.",
+        "price": 0.85,
+        "article": "LYCOPODIUM"
+      },
+      {
+        "form": "Whole",
+        "size": "per lb",
+        "price": 0.92,
+        "article": "MACE"
+      },
+      {
+        "form": "Ground",
+        "size": "per lb",
+        "price": 0.96,
+        "article": "MACE"
+      },
+      {
+        "form": "Ground",
+        "size": "per doz. small",
+        "price": 2.25,
+        "article": "MACE"
+      },
+      {
+        "form": "Calcined",
+        "size": "per lb",
+        "price": 0.92,
+        "article": "MAGNESIA"
+      },
+      {
+        "form": "Calcined",
+        "size": "per 1/2 lb",
+        "price": 0.5,
+        "article": "MAGNESIA"
+      },
+      {
+        "form": "Calcined",
+        "size": "per 1/4 lb",
+        "price": 0.29,
+        "article": "MAGNESIA"
+      },
+      {
+        "form": "Ponderous",
+        "size": "per lb",
+        "price": 0.85,
+        "article": "MAGNESIA"
+      },
+      {
+        "form": "Ponderous",
+        "size": "per 1/2 lb",
+        "price": 0.47,
+        "article": "MAGNESIA"
+      },
+      {
+        "form": "Ponderous",
+        "size": "per 1/4 lb",
+        "price": 0.28,
+        "article": "MAGNESIA"
+      },
+      {
+        "form": "Metal, Coarse Powder",
+        "size": "per lb",
+        "price": 2.25,
+        "article": "MAGNESIUM"
+      },
+      {
+        "form": "Metal, Coarse Powder",
+        "size": "per oz",
+        "price": 0.24,
+        "article": "MAGNESIUM"
+      },
+      {
+        "form": "Fine Powder",
+        "size": "per lb",
+        "price": 2.8,
+        "article": "MAGNESIUM"
+      },
+      {
+        "form": "Fine Powder",
+        "size": "per oz",
+        "price": 0.26,
+        "article": "MAGNESIUM"
+      },
+      {
+        "form": "Sticks",
+        "size": "per lb",
+        "price": 2.55,
+        "article": "MAGNESIUM"
+      },
+      {
+        "form": "Sticks",
+        "size": "per oz",
+        "price": 0.24,
+        "article": "MAGNESIUM"
+      },
+      {
+        "form": "Plates",
+        "size": "per lb",
+        "price": 2.55,
+        "article": "MAGNESIUM"
+      },
+      {
+        "form": "Ribbon",
+        "size": "per oz",
+        "price": 0.65,
+        "article": "MAGNESIUM"
+      },
+      {
+        "form": "Wire",
+        "size": "per oz",
+        "price": 0.65,
+        "article": "MAGNESIUM"
+      },
+      {
+        "form": "Borocitrate",
+        "size": "per lb",
+        "price": 1.65,
+        "article": "MAGNESIUM"
+      },
+      {
+        "form": "Borocitrate",
+        "size": "per 1/2 lb",
+        "price": 0.88,
+        "article": "MAGNESIUM"
+      },
+      {
+        "form": "Borocitrate",
+        "size": "per 1/4 lb",
+        "price": 0.49,
+        "article": "MAGNESIUM"
+      },
+      {
+        "form": "Borocitrate",
+        "size": "per oz",
+        "price": 0.23,
+        "article": "MAGNESIUM"
+      },
+      {
+        "form": "Bromide",
+        "size": "per oz",
+        "price": 0.31,
+        "article": "MAGNESIUM"
+      },
+      {
+        "form": "Carbonate",
+        "size": "per lb",
+        "price": 0.54,
+        "article": "MAGNESIUM"
+      },
+      {
+        "form": "Glycerophosphate",
+        "size": "per oz",
+        "price": 0.55,
+        "article": "MAGNESIUM"
+      },
+      {
+        "form": "Hypophosphite",
+        "size": "per lb",
+        "price": 3.4,
+        "article": "MAGNESIUM"
+      },
+      {
+        "form": "Hypophosphite",
+        "size": "per 1/2 lb",
+        "price": 1.75,
+        "article": "MAGNESIUM"
+      },
+      {
+        "form": "Hypophosphite",
+        "size": "per 1/4 lb",
+        "price": 0.89,
+        "article": "MAGNESIUM"
+      },
+      {
+        "form": "Hypophosphite",
+        "size": "per oz",
+        "price": 0.3,
+        "article": "MAGNESIUM"
+      },
+      {
+        "form": "Nitrate",
+        "size": "per lb",
+        "price": 0.72,
+        "article": "MAGNESIUM"
+      },
+      {
+        "form": "Nitrate",
+        "size": "per 1/2 lb",
+        "price": 0.41,
+        "article": "MAGNESIUM"
+      },
+      {
+        "form": "Nitrate",
+        "size": "per 1/4 lb",
+        "price": 0.23,
+        "article": "MAGNESIUM"
+      },
+      {
+        "form": "Nitrate",
+        "size": "per oz",
+        "price": 0.15,
+        "article": "MAGNESIUM"
+      },
+      {
+        "form": "Phosphate",
+        "size": "per lb",
+        "price": 0.72,
+        "article": "MAGNESIUM"
+      },
+      {
+        "form": "Phosphate",
+        "size": "per 1/2 lb",
+        "price": 0.41,
+        "article": "MAGNESIUM"
+      },
+      {
+        "form": "Phosphate",
+        "size": "per 1/4 lb",
+        "price": 0.23,
+        "article": "MAGNESIUM"
+      },
+      {
+        "form": "Phosphate",
+        "size": "per oz",
+        "price": 0.15,
+        "article": "MAGNESIUM"
+      },
+      {
+        "form": "Salicylate",
+        "size": "per lb",
+        "price": 2.9,
+        "article": "MAGNESIUM"
+      },
+      {
+        "form": "Salicylate",
+        "size": "per 1/2 lb",
+        "price": 1.5,
+        "article": "MAGNESIUM"
+      },
+      {
+        "form": "Salicylate",
+        "size": "per 1/4 lb",
+        "price": 0.77,
+        "article": "MAGNESIUM"
+      },
+      {
+        "form": "Salicylate",
+        "size": "per oz",
+        "price": 0.32,
+        "article": "MAGNESIUM"
+      },
+      {
+        "form": "Sulphate",
+        "size": "per lb",
+        "price": 0.18,
+        "article": "MAGNESIUM"
+      },
+      {
+        "form": "Sulphate",
+        "size": "per 1/2 lb",
+        "price": 0.14,
+        "article": "MAGNESIUM"
+      },
+      {
+        "form": "Sulphate",
+        "size": "per 1/4 lb",
+        "price": 0.12,
+        "article": "MAGNESIUM"
+      },
+      {
+        "form": "Sulphite",
+        "size": "per lb",
+        "price": 0.9,
+        "article": "MAGNESIUM"
+      },
+      {
+        "form": "Whole",
+        "size": "per lb",
+        "price": 0.13,
+        "article": "MALT"
+      },
+      {
+        "form": "Ground",
+        "size": "per lb",
+        "price": 0.15,
+        "article": "MALT"
+      },
+      {
+        "form": "Carbonate",
+        "size": "per oz",
+        "price": 0.18,
+        "article": "MANGANESE"
+      },
+      {
+        "form": "Chloride",
+        "size": "per lb",
+        "price": 0.6,
+        "article": "MANGANESE"
+      },
+      {
+        "form": "Chloride",
+        "size": "per 1/2 lb",
+        "price": 0.35,
+        "article": "MANGANESE"
+      },
+      {
+        "form": "Chloride",
+        "size": "per 1/4 lb",
+        "price": 0.19,
+        "article": "MANGANESE"
+      },
+      {
+        "form": "Chloride",
+        "size": "per oz",
+        "price": 0.12,
+        "article": "MANGANESE"
+      },
+      {
+        "form": "Citrate",
+        "size": "per oz",
+        "price": 0.35,
+        "article": "MANGANESE"
+      },
+      {
+        "form": "Dioxide Precipitated",
+        "size": "per lb",
+        "price": 1.25,
+        "article": "MANGANESE"
+      },
+      {
+        "form": "Dioxide Precipitated",
+        "size": "per 1/2 lb",
+        "price": 0.66,
+        "article": "MANGANESE"
+      },
+      {
+        "form": "Dioxide Precipitated",
+        "size": "per 1/4 lb",
+        "price": 0.37,
+        "article": "MANGANESE"
+      },
+      {
+        "form": "Dioxide Precipitated",
+        "size": "per oz",
+        "price": 0.21,
+        "article": "MANGANESE"
+      },
+      {
+        "form": "Glycerophosphate",
+        "size": "per oz",
+        "price": 0.52,
+        "article": "MANGANESE"
+      },
+      {
+        "form": "Hypophosphite",
+        "size": "per lb",
+        "price": 1.95,
+        "article": "MANGANESE"
+      },
+      {
+        "form": "Hypophosphite",
+        "size": "per 1/2 lb",
+        "price": 1.02,
+        "article": "MANGANESE"
+      },
+      {
+        "form": "Hypophosphite",
+        "size": "per 1/4 lb",
+        "price": 0.55,
+        "article": "MANGANESE"
+      },
+      {
+        "form": "Hypophosphite",
+        "size": "per oz",
+        "price": 0.25,
+        "article": "MANGANESE"
+      },
+      {
+        "form": "Peptonized",
+        "size": "per lb",
+        "price": 3.1,
+        "article": "MANGANESE"
+      },
+      {
+        "form": "Peptonized",
+        "size": "per 1/2 lb",
+        "price": 1.6,
+        "article": "MANGANESE"
+      },
+      {
+        "form": "Peptonized",
+        "size": "per 1/4 lb",
+        "price": 0.82,
+        "article": "MANGANESE"
+      },
+      {
+        "form": "Peptonized",
+        "size": "per oz",
+        "price": 0.38,
+        "article": "MANGANESE"
+      },
+      {
+        "form": "Phosphate",
+        "size": "per oz",
+        "price": 0.3,
+        "article": "MANGANESE"
+      },
+      {
+        "form": "Sulphate",
+        "size": "per lb",
+        "price": 0.55,
+        "article": "MANGANESE"
+      },
+      {
+        "form": "Sulphate",
+        "size": "per 1/2 lb",
+        "price": 0.33,
+        "article": "MANGANESE"
+      },
+      {
+        "form": "Sulphate",
+        "size": "per 1/4 lb",
+        "price": 0.18,
+        "article": "MANGANESE"
+      },
+      {
+        "form": "Sulphate",
+        "size": "per oz",
+        "price": 0.1,
+        "article": "MANGANESE"
+      },
+      {
+        "form": null,
+        "size": "per lb",
+        "price": 0.75,
+        "article": "MANNA"
+      },
+      {
+        "form": null,
+        "size": "per lb",
+        "price": 3.25,
+        "article": "MANNITE"
+      },
+      {
+        "form": null,
+        "size": "per 1/2 lb",
+        "price": 1.68,
+        "article": "MANNITE"
+      },
+      {
+        "form": null,
+        "size": "per 1/4 lb",
+        "price": 0.85,
+        "article": "MANNITE"
+      },
+      {
+        "form": null,
+        "size": "per oz",
+        "price": 0.3,
+        "article": "MANNITE"
+      },
+      {
+        "form": "Whole",
+        "size": "per lb",
+        "price": 0.2,
+        "article": "MARRUBIUM"
+      },
+      {
+        "form": "Ground",
+        "size": "per lb",
+        "price": 0.22,
+        "article": "MARRUBIUM"
+      },
+      {
+        "form": "Ferrous Carbonate",
+        "size": "per lb",
+        "price": 0.75,
+        "article": "MASS"
+      },
+      {
+        "form": "Ferrous Carbonate",
+        "size": "per 1/2 lb",
+        "price": 0.45,
+        "article": "MASS"
+      },
+      {
+        "form": "Ferrous Carbonate",
+        "size": "per 1/4 lb",
+        "price": 0.3,
+        "article": "MASS"
+      },
+      {
+        "form": "Mercury, Pilular",
+        "size": "per lb",
+        "price": 0.8,
+        "article": "MASS"
+      },
+      {
+        "form": "Mercury, Pilular",
+        "size": "per 1/2 lb",
+        "price": 0.45,
+        "article": "MASS"
+      },
+      {
+        "form": "Mercury, Pilular",
+        "size": "per 1/4 lb",
+        "price": 0.24,
+        "article": "MASS"
+      },
+      {
+        "form": "Powdered",
+        "size": "per lb",
+        "price": 0.85,
+        "article": "MASS"
+      },
+      {
+        "form": "Powdered",
+        "size": "per 1/2 lb",
+        "price": 0.48,
+        "article": "MASS"
+      },
+      {
+        "form": "Powdered",
+        "size": "per 1/4 lb",
+        "price": 0.26,
+        "article": "MASS"
+      },
+      {
+        "form": null,
+        "size": "per lb",
+        "price": 0.85,
+        "article": "MASTIC"
+      },
+      {
+        "form": null,
+        "size": "per 1/2 lb",
+        "price": 0.47,
+        "article": "MASTIC"
+      },
+      {
+        "form": null,
+        "size": "per 1/4 lb",
+        "price": 0.26,
+        "article": "MASTIC"
+      },
+      {
+        "form": null,
+        "size": "per lb",
+        "price": 5,
+        "article": "MENTHOL"
+      },
+      {
+        "form": null,
+        "size": "per 1/2 lb",
+        "price": 2.54,
+        "article": "MENTHOL"
+      },
+      {
+        "form": null,
+        "size": "per 1/4 lb",
+        "price": 1.31,
+        "article": "MENTHOL"
+      },
+      {
+        "form": null,
+        "size": "per oz",
+        "price": 0.4,
+        "article": "MENTHOL"
+      },
+      {
+        "form": null,
+        "size": "per lb",
+        "price": 1.2,
+        "article": "MERCURY"
+      },
+      {
+        "form": "Acetate",
+        "size": "per oz",
+        "price": 0.4,
+        "article": "MERCURY"
+      },
+      {
+        "form": "Ammoniated",
+        "size": "per lb",
+        "price": 1.6,
+        "article": "MERCURY"
+      },
+      {
+        "form": "Ammoniated",
+        "size": "per 1/2 lb",
+        "price": 0.84,
+        "article": "MERCURY"
+      },
+      {
+        "form": "Ammoniated",
+        "size": "per 1/4 lb",
+        "price": 0.44,
+        "article": "MERCURY"
+      },
+      {
+        "form": "Chloride Corrosive, Crystals",
+        "size": "per lb",
+        "price": 1.18,
+        "article": "MERCURY"
+      },
+      {
+        "form": "Chloride Corrosive, Crystals",
+        "size": "per 1/2 lb",
+        "price": 0.64,
+        "article": "MERCURY"
+      },
+      {
+        "form": "Chloride Corrosive, Crystals",
+        "size": "per 1/4 lb",
+        "price": 0.36,
+        "article": "MERCURY"
+      },
+      {
+        "form": "Powdered",
+        "size": "per lb",
+        "price": 1.18,
+        "article": "MERCURY"
+      },
+      {
+        "form": "Powdered",
+        "size": "per 1/2 lb",
+        "price": 0.64,
+        "article": "MERCURY"
+      },
+      {
+        "form": "Powdered",
+        "size": "per 1/4 lb",
+        "price": 0.36,
+        "article": "MERCURY"
+      },
+      {
+        "form": "Chloride, Mild",
+        "size": "per lb",
+        "price": 1.22,
+        "article": "MERCURY"
+      },
+      {
+        "form": "Chloride, Mild",
+        "size": "per 1/2 lb",
+        "price": 0.66,
+        "article": "MERCURY"
+      },
+      {
+        "form": "Chloride, Mild",
+        "size": "per 1/4 lb",
+        "price": 0.37,
+        "article": "MERCURY"
+      },
+      {
+        "form": "Cyanide",
+        "size": "per oz",
+        "price": 0.38,
+        "article": "MERCURY"
+      },
+      {
+        "form": "Iodide Red",
+        "size": "per lb",
+        "price": 3.9,
+        "article": "MERCURY"
+      },
+      {
+        "form": "Iodide Red",
+        "size": "per 1/2 lb",
+        "price": 2,
+        "article": "MERCURY"
+      },
+      {
+        "form": "Iodide Red",
+        "size": "per 1/4 lb",
+        "price": 1.05,
+        "article": "MERCURY"
+      },
+      {
+        "form": "Iodide Red",
+        "size": "per oz",
+        "price": 0.33,
+        "article": "MERCURY"
+      },
+      {
+        "form": "Iodide Yellow",
+        "size": "per lb",
+        "price": 3.6,
+        "article": "MERCURY"
+      },
+      {
+        "form": "Iodide Yellow",
+        "size": "per 1/2 lb",
+        "price": 1.85,
+        "article": "MERCURY"
+      },
+      {
+        "form": "Iodide Yellow",
+        "size": "per 1/4 lb",
+        "price": 0.98,
+        "article": "MERCURY"
+      },
+      {
+        "form": "Iodide Yellow",
+        "size": "per oz",
+        "price": 0.3,
+        "article": "MERCURY"
+      },
+      {
+        "form": "Nitrate Mercuric",
+        "size": "per oz",
+        "price": 0.34,
+        "article": "MERCURY"
+      },
+      {
+        "form": "Nitrate Mercurous",
+        "size": "per oz",
+        "price": 0.34,
+        "article": "MERCURY"
+      },
+      {
+        "form": "Oxide Black",
+        "size": "per lb",
+        "price": 3.4,
+        "article": "MERCURY"
+      },
+      {
+        "form": "Oxide Black",
+        "size": "per 1/2 lb",
+        "price": 1.74,
+        "article": "MERCURY"
+      },
+      {
+        "form": "Oxide Black",
+        "size": "per 1/4 lb",
+        "price": 0.9,
+        "article": "MERCURY"
+      },
+      {
+        "form": "Oxide Black",
+        "size": "per oz",
+        "price": 0.34,
+        "article": "MERCURY"
+      },
+      {
+        "form": "Oxide Red",
+        "size": "per lb",
+        "price": 1.88,
+        "article": "MERCURY"
+      },
+      {
+        "form": "Oxide Red",
+        "size": "per 1/2 lb",
+        "price": 0.98,
+        "article": "MERCURY"
+      },
+      {
+        "form": "Oxide Red",
+        "size": "per 1/4 lb",
+        "price": 0.52,
+        "article": "MERCURY"
+      },
+      {
+        "form": "Oxide Red",
+        "size": "per oz",
+        "price": 0.2,
+        "article": "MERCURY"
+      },
+      {
+        "form": "Oxide Yellow",
+        "size": "per lb",
+        "price": 1.8,
+        "article": "MERCURY"
+      },
+      {
+        "form": "Oxide Yellow",
+        "size": "per 1/2 lb",
+        "price": 0.95,
+        "article": "MERCURY"
+      },
+      {
+        "form": "Oxide Yellow",
+        "size": "per 1/4 lb",
+        "price": 0.52,
+        "article": "MERCURY"
+      },
+      {
+        "form": "Oxide Yellow",
+        "size": "per oz",
+        "price": 0.2,
+        "article": "MERCURY"
+      },
+      {
+        "form": "Oxycyanide",
+        "size": "per oz",
+        "price": 0.72,
+        "article": "MERCURY"
+      },
+      {
+        "form": "Salicylate",
+        "size": "per oz",
+        "price": 0.36,
+        "article": "MERCURY"
+      },
+      {
+        "form": "Subsulphate Yellow",
+        "size": "per lb",
+        "price": 1.25,
+        "article": "MERCURY"
+      },
+      {
+        "form": "Subsulphate Yellow",
+        "size": "per 1/2 lb",
+        "price": 0.67,
+        "article": "MERCURY"
+      },
+      {
+        "form": "Subsulphate Yellow",
+        "size": "per 1/4 lb",
+        "price": 0.36,
+        "article": "MERCURY"
+      },
+      {
+        "form": "Subsulphate Yellow",
+        "size": "per oz",
+        "price": 0.18,
+        "article": "MERCURY"
+      },
+      {
+        "form": "Sulphide Red",
+        "size": "per lb",
+        "price": 1.92,
+        "article": "MERCURY"
+      },
+      {
+        "form": "Sulphide Red",
+        "size": "per 1/2 lb",
+        "price": 1,
+        "article": "MERCURY"
+      },
+      {
+        "form": "Sulphide Red",
+        "size": "per 1/4 lb",
+        "price": 0.53,
+        "article": "MERCURY"
+      },
+      {
+        "form": "Sulphocyanate",
+        "size": "per oz",
+        "price": 0.35,
+        "article": "MERCURY"
+      },
+      {
+        "form": "Tannate",
+        "size": "per oz",
+        "price": 0.26,
+        "article": "MERCURY"
+      },
+      {
+        "form": "with Chalk",
+        "size": "per lb",
+        "price": 0.7,
+        "article": "MERCURY"
+      },
+      {
+        "form": "with Chalk",
+        "size": "per 1/2 lb",
+        "price": 0.4,
+        "article": "MERCURY"
+      },
+      {
+        "form": "with Chalk",
+        "size": "per 1/4 lb",
+        "price": 0.22,
+        "article": "MERCURY"
+      },
+      {
+        "form": "with Chalk",
+        "size": "per oz",
+        "price": 0.12,
+        "article": "MERCURY"
+      },
+      {
+        "form": null,
+        "size": "per oz",
+        "price": 0.96,
+        "article": "METHYLENE BLUE MEDICINAL"
+      },
+      {
+        "form": null,
+        "size": "per lb",
+        "price": 0.85,
+        "article": "METHYL SALICYLATE"
+      },
+      {
+        "form": null,
+        "size": "per 1/2 lb",
+        "price": 0.48,
+        "article": "METHYL SALICYLATE"
+      },
+      {
+        "form": null,
+        "size": "per 1/4 lb",
+        "price": 0.3,
+        "article": "METHYL SALICYLATE"
+      },
+      {
+        "form": null,
+        "size": "per lb",
+        "price": 0.35,
+        "article": "MEZEREUM"
+      },
+      {
+        "form": "Sulphate",
+        "size": "per oz",
+        "price": 3.3,
+        "article": "MORPHINE"
+      },
+      {
+        "form": "Sulphate",
+        "size": "per 1/8 oz. vial",
+        "price": 0.45,
+        "article": "MORPHINE"
+      },
+      {
+        "form": null,
+        "size": "per 1/8 oz",
+        "price": 4.35,
+        "article": "MUSK—Tonquin"
+      },
+      {
+        "form": null,
+        "size": "per lb",
+        "price": 0.18,
+        "article": "MUSTARD—Black, Whole"
+      },
+      {
+        "form": null,
+        "size": "per lb",
+        "price": 0.2,
+        "article": "MUSTARD—White, Whole"
+      },
+      {
+        "form": null,
+        "size": "per lb",
+        "price": 0.45,
+        "article": "MYRSTICA—Whole"
+      },
+      {
+        "form": null,
+        "size": "per doz. small",
+        "price": 1.7,
+        "article": "MYRSTICA—Whole"
+      },
+      {
+        "form": null,
+        "size": "per lb",
+        "price": 0.55,
+        "article": "MYRRH—Tears"
+      },
+      {
+        "form": null,
+        "size": "per lb",
+        "price": 0.58,
+        "article": "MYRRH—Powdered"
+      },
+      {
+        "form": null,
+        "size": "per lb",
+        "price": 0.55,
+        "article": "NAPHTHALENE"
+      },
+      {
+        "form": null,
+        "size": "per oz",
+        "price": 0.36,
+        "article": "NAPHTHYLAMINE, ALPHA"
+      },
+      {
+        "form": null,
+        "size": "per 1/8 oz. vial",
+        "price": 1.5,
+        "article": "NARCEINE"
+      },
+      {
+        "form": "Hydrochloride",
+        "size": "per 1/8 oz. vial",
+        "price": 1.6,
+        "article": "NARCEINE"
+      },
+      {
+        "form": null,
+        "size": "per oz",
+        "price": 0.46,
+        "article": "NICKEL BROMIDE"
+      },
+      {
+        "form": null,
+        "size": "per 1/8 oz. vial",
+        "price": 0.6,
+        "article": "NICOTINE"
+      },
+      {
+        "form": null,
+        "size": "per lb",
+        "price": 0.54,
+        "article": "NUTGALL—Powdered"
+      },
+      {
+        "form": null,
+        "size": "per lb",
+        "price": 0.24,
+        "article": "NUX VOMICA—Whole"
+      },
+      {
+        "form": null,
+        "size": "per lb",
+        "price": 0.3,
+        "article": "NUX VOMICA—Coarse Powder"
+      },
+      {
+        "form": null,
+        "size": "per 1/2 lb",
+        "price": 0.19,
+        "article": "NUX VOMICA—Coarse Powder"
+      },
+      {
+        "form": null,
+        "size": "per 1/4 lb",
+        "price": 0.14,
+        "article": "NUX VOMICA—Coarse Powder"
+      },
+      {
+        "form": null,
+        "size": "per lb",
+        "price": 6.75,
+        "article": "OLEORESIN—Aspidium"
+      },
+      {
+        "form": null,
+        "size": "per 1/2 lb",
+        "price": 3.43,
+        "article": "OLEORESIN—Aspidium"
+      },
+      {
+        "form": null,
+        "size": "per 1/4 lb",
+        "price": 1.75,
+        "article": "OLEORESIN—Aspidium"
+      },
+      {
+        "form": null,
+        "size": "per oz",
+        "price": 0.6,
+        "article": "OLEORESIN—Aspidium"
+      },
+      {
+        "form": null,
+        "size": "per lb",
+        "price": 7.2,
+        "article": "OLEORESIN—Capsicum"
+      },
+      {
+        "form": null,
+        "size": "per 1/2 lb",
+        "price": 3.65,
+        "article": "OLEORESIN—Capsicum"
+      },
+      {
+        "form": null,
+        "size": "per 1/4 lb",
+        "price": 1.88,
+        "article": "OLEORESIN—Capsicum"
+      },
+      {
+        "form": null,
+        "size": "per oz",
+        "price": 0.72,
+        "article": "OLEORESIN—Capsicum"
+      },
+      {
+        "form": null,
+        "size": "per lb",
+        "price": 1.8,
+        "article": "OLEORESIN—Cubeb"
+      },
+      {
+        "form": null,
+        "size": "per 1/2 lb",
+        "price": 0.95,
+        "article": "OLEORESIN—Cubeb"
+      },
+      {
+        "form": null,
+        "size": "per 1/4 lb",
+        "price": 0.51,
+        "article": "OLEORESIN—Cubeb"
+      },
+      {
+        "form": null,
+        "size": "per oz",
+        "price": 0.2,
+        "article": "OLEORESIN—Cubeb"
+      },
+      {
+        "form": null,
+        "size": "per lb",
+        "price": 8.5,
+        "article": "OLEORESIN—Ginger"
+      },
+      {
+        "form": null,
+        "size": "per 1/2 lb",
+        "price": 4.3,
+        "article": "OLEORESIN—Ginger"
+      },
+      {
+        "form": null,
+        "size": "per 1/4 lb",
+        "price": 2.2,
+        "article": "OLEORESIN—Ginger"
+      },
+      {
+        "form": null,
+        "size": "per oz",
+        "price": 0.6,
+        "article": "OLEORESIN—Ginger"
+      },
+      {
+        "form": null,
+        "size": "per oz",
+        "price": 0.5,
+        "article": "OLEORESIN—Lupulin"
+      },
+      {
+        "form": null,
+        "size": "per oz",
+        "price": 0.65,
+        "article": "OLEORESIN—Pepper"
+      },
+      {
+        "form": null,
+        "size": "per lb",
+        "price": 5.2,
+        "article": "OPIUM"
+      },
+      {
+        "form": null,
+        "size": "per 1/2 lb",
+        "price": 2.65,
+        "article": "OPIUM"
+      },
+      {
+        "form": null,
+        "size": "per 1/4 lb",
+        "price": 1.38,
+        "article": "OPIUM"
+      },
+      {
+        "form": null,
+        "size": "per lb",
+        "price": 11.25,
+        "article": "OPIUM—Deodorized"
+      },
+      {
+        "form": null,
+        "size": "per 1/2 lb",
+        "price": 5.68,
+        "article": "OPIUM—Deodorized"
+      },
+      {
+        "form": null,
+        "size": "per 1/4 lb",
+        "price": 2.88,
+        "article": "OPIUM—Deodorized"
+      },
+      {
+        "form": null,
+        "size": "per oz",
+        "price": 0.85,
+        "article": "OPIUM—Deodorized"
+      },
+      {
+        "form": null,
+        "size": "per lb",
+        "price": 6.4,
+        "article": "OPIUM—Granulated"
+      },
+      {
+        "form": null,
+        "size": "per 1/2 lb",
+        "price": 3.25,
+        "article": "OPIUM—Granulated"
+      },
+      {
+        "form": null,
+        "size": "per 1/4 lb",
+        "price": 1.88,
+        "article": "OPIUM—Granulated"
+      },
+      {
+        "form": null,
+        "size": "per oz",
+        "price": 0.6,
+        "article": "OPIUM—Granulated"
+      },
+      {
+        "form": null,
+        "size": "per lb",
+        "price": 6.4,
+        "article": "OPIUM—Powdered"
+      },
+      {
+        "form": null,
+        "size": "per 1/2 lb",
+        "price": 3.25,
+        "article": "OPIUM—Powdered"
+      },
+      {
+        "form": null,
+        "size": "per 1/4 lb",
+        "price": 1.88,
+        "article": "OPIUM—Powdered"
+      },
+      {
+        "form": null,
+        "size": "per oz",
+        "price": 0.6,
+        "article": "OPIUM—Powdered"
+      },
+      {
+        "form": null,
+        "size": "per lb",
+        "price": 0.22,
+        "article": "ORANGE PEEL—Bitter, Whole"
+      },
+      {
+        "form": null,
+        "size": "per lb",
+        "price": 0.24,
+        "article": "ORANGE PEEL—Ground"
+      },
+      {
+        "form": null,
+        "size": "per lb",
+        "price": 0.22,
+        "article": "ORANGE PEEL—Sweet, Whole"
+      },
+      {
+        "form": null,
+        "size": "per lb",
+        "price": 2.65,
+        "article": "OXGALL"
+      },
+      {
+        "form": null,
+        "size": "per 1/2 lb",
+        "price": 1.36,
+        "article": "OXGALL"
+      },
+      {
+        "form": null,
+        "size": "per 1/4 lb",
+        "price": 0.72,
+        "article": "ETHYL—Bromide"
+      },
+      {
+        "form": null,
+        "size": "per oz",
+        "price": 0.24,
+        "article": "OXGALL"
+      },
+      {
+        "form": null,
+        "size": "per lb",
+        "price": 2.7,
+        "article": "OXGALL—Purified, Pilular"
+      },
+      {
+        "form": null,
+        "size": "per 1/2 lb",
+        "price": 1.42,
+        "article": "OXGALL—Purified, Pilular"
+      },
+      {
+        "form": null,
+        "size": "per 1/4 lb",
+        "price": 0.73,
+        "article": "OXGALL—Purified, Pilular"
+      },
+      {
+        "form": null,
+        "size": "per oz",
+        "price": 0.25,
+        "article": "OXGALL—Purified, Pilular"
+      },
+      {
+        "form": null,
+        "size": "per lb",
+        "price": 3.1,
+        "article": "OXGALL—Powdered"
+      },
+      {
+        "form": null,
+        "size": "per 1/2 lb",
+        "price": 1.62,
+        "article": "OXGALL—Powdered"
+      },
+      {
+        "form": null,
+        "size": "per 1/4 lb",
+        "price": 0.22,
+        "article": "OXGALL"
+      },
+      {
+        "form": null,
+        "size": "per oz",
+        "price": 0.28,
+        "article": "OXGALL—Powdered"
+      },
+      {
+        "form": null,
+        "size": "per 1/8 oz. vial",
+        "price": null,
+        "article": "MORPHINE"
+      },
+      {
+        "form": "Acetate",
+        "size": "per 1/8 oz. vial",
+        "price": null,
+        "article": "MORPHINE"
+      },
+      {
+        "form": "Hydrobromide",
+        "size": "per 1/8 oz. vial",
+        "price": null,
+        "article": "MORPHINE"
+      },
+      {
+        "form": "Hydrochloride",
+        "size": "per 1/8 oz. vial",
+        "price": null,
+        "article": "MORPHINE"
+      }
+    ]
+  }
+}

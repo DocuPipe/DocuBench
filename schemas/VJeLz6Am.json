@@ -1,0 +1,50 @@
+{
+  "type": "object",
+  "properties": {
+    "entries": {
+      "type": "array",
+      "description": "every bibliographic entry printed in the class list, in printed order. an entry begins with an author heading printed in bold (or a continuation dash standing in for the same author as the entry above) and runs through its title, imprint, price, and any small-type annotation printed beneath it. do not create an entry for a section or subsection heading (whether or not it carries a class number).",
+      "items": {
+        "type": "object",
+        "properties": {
+          "authorName": {
+            "type": "string",
+            "description": "the author or main-entry heading printed in bold at the start of the entry, surname first, exactly as printed including the period that terminates the heading. when the entry begins with a long dash standing in for a repeated heading, repeat the author name of the most recent entry that printed one.",
+            "examples": ["Smith, John", "United States. Bureau of the census"]
+          },
+          "title": {
+            "type": "string",
+            "description": "the title and subtitle of the work as printed, including any edition statement, up to but not including the publication year. omit the series abbreviation printed in parentheses and omit the height.",
+            "examples": ["A history of trade; with an introduction. 2d ed."]
+          },
+          "publicationYear": {
+            "type": ["integer", "null"],
+            "description": "the four-digit publication year printed after the title, as an integer. null if no year is printed for the entry."
+          },
+          "publisher": {
+            "type": "string",
+            "description": "the publisher name printed just before the price, as abbreviated in the text. empty string if no publisher is printed.",
+            "examples": ["Chapman & Hall", "Cassell"]
+          },
+          "price": {
+            "type": "string",
+            "description": "the price as printed, including the leading currency mark and any trailing net or other flag letter. empty string if no price is printed.",
+            "examples": ["$4.50 n", "$5.25 n", "2/6"]
+          },
+          "note": {
+            "type": "string",
+            "description": "the annotation printed in small type beneath the entry, transcribed verbatim as printed, excluding any single standalone capital-letter character code printed immediately before it and excluding the source credit captured in noteSource. empty string if the entry has no annotation.",
+            "examples": ["Reviews the leading theories and states the author's own position clearly."]
+          },
+          "noteSource": {
+            "type": "string",
+            "description": "the source credit printed at the very end of the annotation, identifying where the note was quoted or condensed from (a periodical citation, a set citation, or an authority's abbreviation or initials), exactly as printed including any terminal period. empty string if the annotation has no source credit.",
+            "examples": ["Outlook, 74: 220", "Dial, 41: 88"]
+          }
+        },
+        "required": ["authorName", "title", "publicationYear", "publisher", "price", "note", "noteSource"]
+      }
+    }
+  },
+  "required": ["entries"]
+}

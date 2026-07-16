@@ -1,0 +1,40 @@
+{
+  "type": "object",
+  "properties": {
+    "entries": {
+      "type": "array",
+      "description": "every resident and business listing in the alphabetical name section, read straight down the single column top to bottom; each listing is one item, including listings whose line begins with a ditto mark (a short leading double-dot or double-quote mark standing in for the surname); skip running page-header words and page numbers at the top of the page, and skip the advertisement banner printed across the bottom of the page; also skip pure cross-reference lines of the form 'Name see OtherName' that carry no occupation, status, or address. general transcription rules for every field: words broken across a line wrap are rejoined without the hyphen, and punctuation that merely separates or terminates parts of the listing (a trailing comma or period) is not part of any field value",
+      "items": {
+        "type": "object",
+        "properties": {
+          "surname": {
+            "type": "string",
+            "description": "the governing family surname for this listing. a listing that begins with a ditto mark (a short leading double-dot/double-quote mark) repeats the surname of the most recent preceding full listing whose surname was printed in full; a bold word printed alone with no rest-of-listing at the very top of a surname group is a group heading that states the current surname and is itself the surname for the ditto listings that follow. a listing printed entirely in bold small-capitals for a person splits into surname and given names exactly like an ordinary listing. only when the listing head is an organization or business name (a company, store, firm, church, association, or institution) does the entire organization name go here, with no personal given name split off"
+          },
+          "givenNames": {
+            "type": "string",
+            "description": "the personal given name(s) and initials printed immediately after the surname and before any occupation, status notation, or residence marker, transcribed exactly as printed; null for an organization or business listing that has no personal given name"
+          },
+          "occupationOrStatus": {
+            "type": "string",
+            "description": "the occupation-and-employer text OR the personal-status notation of the listing, transcribed verbatim as printed including the directory's standard abbreviations. this covers both an occupation/employer phrase and any status notation the directory prints in the same position (for example a widow notation, a widow-of-a-named-person notation, a died-on-a-date notation, or a removed-to-a-place notation). when the listing contains a residence-marker token, this field is everything printed between the name and that marker. when the listing contains NO residence-marker token, this field is ALL remaining text of the listing after the name, including any street address, cross-reference note, or place printed there. null only when the listing goes straight from the name to a residence marker with no intervening text"
+          },
+          "residenceWord": {
+            "type": "string",
+            "description": "the single residence-marker token printed immediately before the home address, transcribed exactly as printed (the directory uses short words or one-or-few-letter abbreviations that distinguish whether the person keeps house at, rooms at, or boards at the address); null when the listing has no such marker"
+          },
+          "address": {
+            "type": "string",
+            "description": "filled only when a residence-marker token is present: the address text following that marker through the end of the listing, transcribed verbatim as printed. if the address is printed as a two-letter ditto word standing in for the preceding listing's address, transcribe that ditto word exactly as printed and do NOT resolve it to the actual address. null whenever the listing has no residence marker (any address printed in a marker-less listing belongs to the occupationOrStatus field instead)"
+          }
+        },
+        "required": [
+          "surname"
+        ]
+      }
+    }
+  },
+  "required": [
+    "entries"
+  ]
+}

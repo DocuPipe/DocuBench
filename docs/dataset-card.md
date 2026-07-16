@@ -2,17 +2,17 @@
 
 ## Dataset Summary
 
-DocuBench is a 50-document benchmark for schema-guided structured extraction. Each example contains a source document, a JSON Schema, and a hand-verified JSON label. The task is to extract the labeled structured data from the document according to the schema.
+DocuBench is a 72-document benchmark for schema-guided structured extraction. Each example contains a source document, a JSON Schema, and a hand-verified JSON label. The task is to extract the labeled structured data from the document according to the schema.
 
 ## Composition
 
-- 50 documents
-- 50 schemas
-- 50 labels
+- 72 documents
+- 72 schemas
+- 72 labels
 - 10 file types: PDF, JPEG, PNG, TIFF, XLSX, CSV, XML, TXT, DOCX, HTML
-- 11 languages/scripts: English, Hebrew, Japanese, Chinese, Arabic, French, German, Portuguese, Dutch, Italian, Spanish
+- 12 languages/scripts: English, Hebrew, Japanese, Chinese, Arabic, French, German, Portuguese, Dutch, Italian, Spanish, Hindi/Devanagari
 
-Documents cover invoices, bank and brokerage statements, utility bills, annual reports, payslips, purchase orders, waybills, lab reports, discharge summaries, engineering drawings, insurance declarations, tax forms, spreadsheets, XML, CSV, text, and HTML.
+Documents cover invoices, statements, utility bills, annual reports, payslips, purchase orders, waybills, healthcare forms, engineering drawings, insurance declarations, dictionaries, directories, auction catalogs, government registers, spreadsheets, XML, CSV, text, and HTML.
 
 ## Motivation
 
@@ -36,7 +36,7 @@ Labels were authored for the benchmark and manually checked field by field again
 - Training models on the test labels
 - Claiming broad document AI superiority from the headline aggregate alone
 - Evaluating privacy handling, security, or compliance controls
-- Treating these 50 documents as representative of all enterprise documents
+- Treating these 72 documents as representative of all enterprise documents
 
 ## Licensing
 

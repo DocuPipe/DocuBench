@@ -1,0 +1,32 @@
+{
+  "type": "object",
+  "properties": {
+    "items": {
+      "type": "array",
+      "description": "one element per PRICED LINE in the two-column net price list. Every line that ends in a right-justified decimal price is its own item, including each successive size/unit line printed beneath a form. Read the full left column top-to-bottom, then the full right column. Do not merge multiple priced lines into one item and do not skip any priced line.",
+      "items": {
+        "type": "object",
+        "properties": {
+          "article": {
+            "type": "string",
+            "description": "the base article name from the bold ALL-CAPS header that begins the group this line belongs to (the header printed at the far left, often followed by a dash). Repeat this exact header text on EVERY priced line in the group, including all indented form and size sub-lines, until the next bold ALL-CAPS header appears. Copy it verbatim in the printed capitalization without the trailing dash."
+          },
+          "form": {
+            "type": "string",
+            "description": "the full preparation/variety qualifier in force for this priced line, excluding the bold article header and the 'per ...' unit. Build it from the qualifier text that governs the line: if the line sits under a variety/type sub-heading (a descriptor that itself begins a sub-group of forms), include that governing sub-heading followed by the line's own descriptor, as printed (for example a variety heading combined with a physical-form word). Copy all qualifier text verbatim in printed order. When a priced line shows only a 'per ...' unit and no new descriptor, repeat the full qualifier that governs it. Use an empty string when the governing line carries a price with no qualifier at all."
+          },
+          "size": {
+            "type": "string",
+            "description": "the quantity/unit basis that the price applies to on this line — the 'per ...' phrase printed immediately left of the price (the weight, volume, count, or pack unit). Copy it verbatim including any fraction and unit abbreviation (for example a per-pound, per-fractional-pound, per-ounce, per-pint, per-gram, or per-vial basis). Empty string only if genuinely absent."
+          },
+          "price": {
+            "type": "number",
+            "description": "the right-justified decimal amount printed at the end of this line, as a number with no currency symbol. A price printed with a leading decimal point and no leading zero is a value below one dollar."
+          }
+        },
+        "required": ["article", "size", "price"]
+      }
+    }
+  },
+  "required": ["items"]
+}

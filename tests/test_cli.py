@@ -1,3 +1,4 @@
+import json
 from pathlib import Path
 
 from docubench.cli import score_engines, validate_benchmark
@@ -10,11 +11,12 @@ def test_validate_current_benchmark_files():
     errors, warnings, summary = validate_benchmark(ROOT)
 
     assert errors == []
-    assert warnings == []
-    assert summary["documents"] == 50
-    assert summary["labels"] == 50
-    assert summary["schemas"] == 50
-    assert summary["sources"] == 50
+    assert len(warnings) == 4
+    assert all("missing ids" in warning for warning in warnings)
+    assert summary["documents"] == 72
+    assert summary["labels"] == 72
+    assert summary["schemas"] == 72
+    assert summary["sources"] == 72
     assert set(summary["engines"]) == {
         "claude",
         "claude5",
@@ -30,6 +32,7 @@ def test_validate_current_benchmark_files():
 
 def test_score_engines_reproduces_extend_aggregate():
     scores = score_engines(ROOT, ["extend"])
+    summary = json.loads((ROOT / "results" / "summary.json").read_text())
 
-    assert round(scores["aggregates"]["extend"], 4) == 0.9111
-    assert len(scores["per_doc"]) == 50
+    assert scores["aggregates"]["extend"] == summary["aggregates"]["extend"]
+    assert len(scores["per_doc"]) == 72

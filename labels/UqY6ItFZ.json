@@ -1,0 +1,5319 @@
+{
+ "entries": [
+  {
+   "headword": "कर्मशील",
+   "grammaticalTag": "adj.",
+   "englishGloss": "assiduous, laborious."
+  },
+  {
+   "headword": "कर्म्महीन",
+   "grammaticalTag": "adj.",
+   "englishGloss": "unfortunate, unlucky."
+  },
+  {
+   "headword": "कर्म्माधर्म्मी",
+   "grammaticalTag": "adj.",
+   "englishGloss": "devout, virtuous, fortunate."
+  },
+  {
+   "headword": "कर्म्मिष्ठ",
+   "grammaticalTag": "adj.",
+   "englishGloss": "active, diligent."
+  },
+  {
+   "headword": "कर्म्मी",
+   "grammaticalTag": "adj.",
+   "englishGloss": "relating to work."
+  },
+  {
+   "headword": "कर्मेन्द्रिय",
+   "grammaticalTag": "m.",
+   "englishGloss": "an organ of action as the hand, foot, etc."
+  },
+  {
+   "headword": "कर्षक",
+   "grammaticalTag": "m.",
+   "englishGloss": "a ploughman, cultivator."
+  },
+  {
+   "headword": "कर्षया",
+   "grammaticalTag": "m.",
+   "englishGloss": "drawing, attracting, ploughing."
+  },
+  {
+   "headword": "कर्षणी",
+   "grammaticalTag": "f.",
+   "englishGloss": "the bit of a bridle."
+  },
+  {
+   "headword": "कल",
+   "grammaticalTag": "m.",
+   "englishGloss": "yesterday, to-morrow, ease, peace, rest, a machine."
+  },
+  {
+   "headword": "कलकल",
+   "grammaticalTag": "m.",
+   "englishGloss": "confused noise, wrangling."
+  },
+  {
+   "headword": "कलकी",
+   "grammaticalTag": "m.",
+   "englishGloss": "the 10th Hindu incarnation."
+  },
+  {
+   "headword": "कल की बात",
+   "grammaticalTag": "f.",
+   "englishGloss": "a matter of yesterday."
+  },
+  {
+   "headword": "कलगा",
+   "grammaticalTag": "m.",
+   "englishGloss": "a flower, cockscomb."
+  },
+  {
+   "headword": "कलङ्क",
+   "grammaticalTag": "m.",
+   "englishGloss": "a spot, mark, blemish, stigma."
+  },
+  {
+   "headword": "कलजहवां",
+   "grammaticalTag": "adj.",
+   "englishGloss": "dark complexioned."
+  },
+  {
+   "headword": "कलजिमा",
+   "grammaticalTag": "adj.",
+   "englishGloss": "malignant, ill-omened."
+  },
+  {
+   "headword": "कलजुग",
+   "grammaticalTag": "m.",
+   "englishGloss": "the fourth or iron age."
+  },
+  {
+   "headword": "कलञ्ज",
+   "grammaticalTag": "adj.",
+   "englishGloss": "struck with a poisoned arrow."
+  },
+  {
+   "headword": "कलटना",
+   "grammaticalTag": "v.",
+   "englishGloss": "to tantalize."
+  },
+  {
+   "headword": "कलत्र",
+   "grammaticalTag": "f.",
+   "englishGloss": "a wife."
+  },
+  {
+   "headword": "कलप",
+   "grammaticalTag": "m.",
+   "englishGloss": "starch, dye for the hair."
+  },
+  {
+   "headword": "कलपना",
+   "grammaticalTag": "v.",
+   "englishGloss": "to be grieved or sorry."
+  },
+  {
+   "headword": "कलपाना",
+   "grammaticalTag": "v.",
+   "englishGloss": "to grieve, to sorrow."
+  },
+  {
+   "headword": "कलम",
+   "grammaticalTag": "m.",
+   "englishGloss": "a pen."
+  },
+  {
+   "headword": "कलमकल",
+   "grammaticalTag": "f.",
+   "englishGloss": "trouble, perplexity."
+  },
+  {
+   "headword": "कलमल",
+   "grammaticalTag": "m.",
+   "englishGloss": "fidget, flutter."
+  },
+  {
+   "headword": "कलमलाना",
+   "grammaticalTag": "v.",
+   "englishGloss": "to fidget, to flutter."
+  },
+  {
+   "headword": "कलमी",
+   "grammaticalTag": "f.",
+   "englishGloss": "a kind of vegetable."
+  },
+  {
+   "headword": "कलरव",
+   "grammaticalTag": "f.",
+   "englishGloss": "murmur, buzz."
+  },
+  {
+   "headword": "कलवल",
+   "grammaticalTag": "f.",
+   "englishGloss": "misfortune, calamity."
+  },
+  {
+   "headword": "कलवार",
+   "grammaticalTag": "m.",
+   "englishGloss": "a distiller, seller of liquors."
+  },
+  {
+   "headword": "कलश",
+   "grammaticalTag": "m.",
+   "englishGloss": "a dome, cupola, spire, waterpot."
+  },
+  {
+   "headword": "कलशी",
+   "grammaticalTag": "f.",
+   "englishGloss": "a little spire, a small waterpot."
+  },
+  {
+   "headword": "कलश",
+   "grammaticalTag": null,
+   "englishGloss": "see कलश."
+  },
+  {
+   "headword": "कलसा",
+   "grammaticalTag": "m.",
+   "englishGloss": "spire, pinnacle, waterpot."
+  },
+  {
+   "headword": "कलहंस",
+   "grammaticalTag": "m.",
+   "englishGloss": "a bird, the swan."
+  },
+  {
+   "headword": "कलह",
+   "grammaticalTag": "m.",
+   "englishGloss": "quarrel, contention."
+  },
+  {
+   "headword": "कलद्वारा",
+   "grammaticalTag": "adj.",
+   "englishGloss": "quarrelsome, contentious."
+  },
+  {
+   "headword": "कलही",
+   "grammaticalTag": "f.",
+   "englishGloss": "a scold, a vixen."
+  },
+  {
+   "headword": "कला",
+   "grammaticalTag": "f.",
+   "englishGloss": "the 16th part of a degree, part, portion."
+  },
+  {
+   "headword": "कलाई",
+   "grammaticalTag": "f.",
+   "englishGloss": "wrist, a kind of pulse."
+  },
+  {
+   "headword": "कलाना",
+   "grammaticalTag": "v.",
+   "englishGloss": "to parch grain."
+  },
+  {
+   "headword": "कलाप",
+   "grammaticalTag": "m.",
+   "englishGloss": "an assemblage, a multitude."
+  },
+  {
+   "headword": "कलाबत्तुन",
+   "grammaticalTag": "m.",
+   "englishGloss": "gold or silver thread."
+  },
+  {
+   "headword": "कलार",
+   "grammaticalTag": null,
+   "englishGloss": "see कलवार."
+  },
+  {
+   "headword": "कलावन्त",
+   "grammaticalTag": "m.",
+   "englishGloss": "a musician, a kind of singing."
+  },
+  {
+   "headword": "कलि",
+   "grammaticalTag": "m.",
+   "englishGloss": "the 4th age, age of sin."
+  },
+  {
+   "headword": "कलिका",
+   "grammaticalTag": "m.",
+   "englishGloss": "an unblown flower, part of a pipe."
+  },
+  {
+   "headword": "कलिङ्ग",
+   "grammaticalTag": "m.",
+   "englishGloss": "the febrifuge nut plant."
+  },
+  {
+   "headword": "कलिन्द्रा",
+   "grammaticalTag": "m.",
+   "englishGloss": "a water melon."
+  },
+  {
+   "headword": "कलियाना",
+   "grammaticalTag": "v.",
+   "englishGloss": "to bud, to blossom."
+  },
+  {
+   "headword": "कलियुग",
+   "grammaticalTag": "m.",
+   "englishGloss": "the 4th or present age."
+  },
+  {
+   "headword": "कलिहारी",
+   "grammaticalTag": "f.",
+   "englishGloss": "a quarrelsome woman."
+  },
+  {
+   "headword": "कली",
+   "grammaticalTag": "f.",
+   "englishGloss": "a bud, unblown flower."
+  },
+  {
+   "headword": "कलटा",
+   "grammaticalTag": "adj.",
+   "englishGloss": "black (complexioned)."
+  },
+  {
+   "headword": "कलेऊ",
+   "grammaticalTag": "m.",
+   "englishGloss": "stale or left food."
+  },
+  {
+   "headword": "कलेजा",
+   "grammaticalTag": "m.",
+   "englishGloss": "the liver, courage, spirit."
+  },
+  {
+   "headword": "कलेजा चलनी होना",
+   "grammaticalTag": "v.",
+   "englishGloss": "to be pierced through the heart (as a sieve)."
+  },
+  {
+   "headword": "कलेजा छेदना",
+   "grammaticalTag": "v.",
+   "englishGloss": "to pierce one's heart (sorrow)."
+  },
+  {
+   "headword": "कलेजा जलना",
+   "grammaticalTag": "v.",
+   "englishGloss": "to burn (one's heart)."
+  },
+  {
+   "headword": "कलेजा धक से होना",
+   "grammaticalTag": "v.",
+   "englishGloss": "to be stunned (with grief or terror)."
+  },
+  {
+   "headword": "कलेजा धड़कना",
+   "grammaticalTag": "v.",
+   "englishGloss": "to beat or throb (the heart)."
+  },
+  {
+   "headword": "कलेजा फटना",
+   "grammaticalTag": "v.",
+   "englishGloss": "to be touched, to feel pity or compassion."
+  },
+  {
+   "headword": "कलेजी",
+   "grammaticalTag": "f.",
+   "englishGloss": "the liver of animals used as food."
+  },
+  {
+   "headword": "कलेजे से लगाना",
+   "grammaticalTag": "v.",
+   "englishGloss": "to embrace, to hug, to caress."
+  },
+  {
+   "headword": "कलेवर",
+   "grammaticalTag": "m.",
+   "englishGloss": "the body."
+  },
+  {
+   "headword": "कलेवा",
+   "grammaticalTag": "m.",
+   "englishGloss": "breakfast, luncheon."
+  },
+  {
+   "headword": "कलेश",
+   "grammaticalTag": null,
+   "englishGloss": "see क्लेश."
+  },
+  {
+   "headword": "कलोर",
+   "grammaticalTag": "m.",
+   "englishGloss": "a heifer."
+  },
+  {
+   "headword": "कलोल",
+   "grammaticalTag": "f.",
+   "englishGloss": "sport, play, gambol."
+  },
+  {
+   "headword": "कलौंजी",
+   "grammaticalTag": "f.",
+   "englishGloss": "a kind of seed."
+  },
+  {
+   "headword": "कल्फ",
+   "grammaticalTag": "m.",
+   "englishGloss": "sediment, ordure, sin."
+  },
+  {
+   "headword": "कल्कल",
+   "grammaticalTag": "m.",
+   "englishGloss": "hum, buzz, hubbub."
+  },
+  {
+   "headword": "कल्प",
+   "grammaticalTag": "m.",
+   "englishGloss": "a day of Brahma or 4,320,000 years, purpose, contrivance."
+  },
+  {
+   "headword": "कल्पतरु",
+   "grammaticalTag": "m.",
+   "englishGloss": "name of a fabulous tree."
+  },
+  {
+   "headword": "कल्पना",
+   "grammaticalTag": "m.",
+   "englishGloss": "plan, scheme, contrivance."
+  },
+  {
+   "headword": "कल्पान्त",
+   "grammaticalTag": "m.",
+   "englishGloss": "the end or destruction of the world."
+  },
+  {
+   "headword": "कल्पित",
+   "grammaticalTag": "adj.",
+   "englishGloss": "artificially made or produced."
+  },
+  {
+   "headword": "कल्मलाना",
+   "grammaticalTag": "v.",
+   "englishGloss": "to fidget, to writhe, to flutter."
+  },
+  {
+   "headword": "कल्मष",
+   "grammaticalTag": "m.",
+   "englishGloss": "sin, filth, hell."
+  },
+  {
+   "headword": "कल्य",
+   "grammaticalTag": "m.",
+   "englishGloss": "yesterday, to-morrow."
+  },
+  {
+   "headword": "कल्याण",
+   "grammaticalTag": "m.",
+   "englishGloss": "happiness, prosperity."
+  },
+  {
+   "headword": "कल्लर",
+   "grammaticalTag": "f.",
+   "englishGloss": "barren land."
+  },
+  {
+   "headword": "कल्ला",
+   "grammaticalTag": "m.",
+   "englishGloss": "the head, cheek, gills of a fish."
+  },
+  {
+   "headword": "कल्लाना",
+   "grammaticalTag": "v.",
+   "englishGloss": "to burn, to be inflamed."
+  },
+  {
+   "headword": "कल्लापरवर",
+   "grammaticalTag": "m.",
+   "englishGloss": "a kind of sweetmeat."
+  },
+  {
+   "headword": "कल्लोल",
+   "grammaticalTag": "m.",
+   "englishGloss": "joy, happiness, pleasure."
+  },
+  {
+   "headword": "कल्ह",
+   "grammaticalTag": "m.",
+   "englishGloss": "yesterday or to-morrow."
+  },
+  {
+   "headword": "कवच",
+   "grammaticalTag": "m.",
+   "englishGloss": "armour, mail, a kettledrum."
+  },
+  {
+   "headword": "कवर्ग",
+   "grammaticalTag": null,
+   "englishGloss": "the letters from क to ङ."
+  },
+  {
+   "headword": "कवयी",
+   "grammaticalTag": "f.",
+   "englishGloss": "a kind of flat fish."
+  },
+  {
+   "headword": "कवल",
+   "grammaticalTag": "m.",
+   "englishGloss": "a mouthful, a wash for the mouth."
+  },
+  {
+   "headword": "कवलगट्टा",
+   "grammaticalTag": "m.",
+   "englishGloss": "the edible seed of the lotus."
+  },
+  {
+   "headword": "कवि",
+   "grammaticalTag": "m.",
+   "englishGloss": "a poet."
+  },
+  {
+   "headword": "कविता",
+   "grammaticalTag": "f.",
+   "englishGloss": "poetry, a poem."
+  },
+  {
+   "headword": "कविताई",
+   "grammaticalTag": "f.",
+   "englishGloss": "poetry, a poem."
+  },
+  {
+   "headword": "कशा",
+   "grammaticalTag": "m.",
+   "englishGloss": "a whip."
+  },
+  {
+   "headword": "कशेरु",
+   "grammaticalTag": "m.",
+   "englishGloss": "a kind of grass, a fruit."
+  },
+  {
+   "headword": "कष",
+   "grammaticalTag": "m.",
+   "englishGloss": "touchstone, trial, assay."
+  },
+  {
+   "headword": "कषया",
+   "grammaticalTag": "m.",
+   "englishGloss": "touch or test of gold."
+  },
+  {
+   "headword": "कषा",
+   "grammaticalTag": "adj.",
+   "englishGloss": "astringent."
+  },
+  {
+   "headword": "कषाय",
+   "grammaticalTag": "m.",
+   "englishGloss": "astringency."
+  },
+  {
+   "headword": "कषौटी",
+   "grammaticalTag": "f.",
+   "englishGloss": "a touchstone."
+  },
+  {
+   "headword": "कष्ट",
+   "grammaticalTag": "m.",
+   "englishGloss": "want, poverty, pain, distress."
+  },
+  {
+   "headword": "कस",
+   "grammaticalTag": "m.",
+   "englishGloss": "the decoction of a colouring substance, essence, labour, test (of a metal &c)."
+  },
+  {
+   "headword": "कसक",
+   "grammaticalTag": "f.",
+   "englishGloss": "pain, affliction, the stitch."
+  },
+  {
+   "headword": "कसक मिटना",
+   "grammaticalTag": "v.",
+   "englishGloss": "to be removed a pain (of enmity or jealousy)."
+  },
+  {
+   "headword": "कसकसा",
+   "grammaticalTag": "adj.",
+   "englishGloss": "gritty, sandy."
+  },
+  {
+   "headword": "कसकुट",
+   "grammaticalTag": "m.",
+   "englishGloss": "mixed metal."
+  },
+  {
+   "headword": "कसकूत",
+   "grammaticalTag": "m.",
+   "englishGloss": "bell-metal."
+  },
+  {
+   "headword": "कसम",
+   "grammaticalTag": "m.",
+   "englishGloss": "rack, torture, torment."
+  },
+  {
+   "headword": "कसना",
+   "grammaticalTag": "v.",
+   "englishGloss": "to tie, to tighten, to try, to prove."
+  },
+  {
+   "headword": "कसमसाना",
+   "grammaticalTag": "v.",
+   "englishGloss": "to move, to shake."
+  },
+  {
+   "headword": "कसवाना",
+   "grammaticalTag": "v.",
+   "englishGloss": "to cause to make tight, to cause to tie, to cause to bind."
+  },
+  {
+   "headword": "कसा",
+   "grammaticalTag": "adj.",
+   "englishGloss": "tight, tense, straight."
+  },
+  {
+   "headword": "कसाई",
+   "grammaticalTag": "m.",
+   "englishGloss": "a butcher, adj. cruel-hearted."
+  },
+  {
+   "headword": "कसार",
+   "grammaticalTag": "m.",
+   "englishGloss": "a sweetmeat."
+  },
+  {
+   "headword": "कसाला",
+   "grammaticalTag": "m.",
+   "englishGloss": "labour, toil, trouble."
+  },
+  {
+   "headword": "कसाव",
+   "grammaticalTag": "f.",
+   "englishGloss": "astringency, pungency."
+  },
+  {
+   "headword": "कसावट",
+   "grammaticalTag": "f.",
+   "englishGloss": "tightness, tightening."
+  },
+  {
+   "headword": "कसीस",
+   "grammaticalTag": "m.",
+   "englishGloss": "green vitriol, sulphate of iron."
+  },
+  {
+   "headword": "कसेरा",
+   "grammaticalTag": "m.",
+   "englishGloss": "a brazier."
+  },
+  {
+   "headword": "कसेरू",
+   "grammaticalTag": "m.",
+   "englishGloss": "a root eaten as a fruit, Cyperus tuberosus."
+  },
+  {
+   "headword": "कसैला",
+   "grammaticalTag": "adj.",
+   "englishGloss": "astringent, pungent."
+  },
+  {
+   "headword": "कसौंदी",
+   "grammaticalTag": "f.",
+   "englishGloss": "a kind of pickle."
+  },
+  {
+   "headword": "कसौटी",
+   "grammaticalTag": "f.",
+   "englishGloss": "a touch-stone, test."
+  },
+  {
+   "headword": "कस्तूरा",
+   "grammaticalTag": "f.",
+   "englishGloss": "an oyster."
+  },
+  {
+   "headword": "कस्तूरी",
+   "grammaticalTag": "f.",
+   "englishGloss": "the musk deer."
+  },
+  {
+   "headword": "कस्सन",
+   "grammaticalTag": "f.",
+   "englishGloss": "the leather thong of a bucket."
+  },
+  {
+   "headword": "कहना",
+   "grammaticalTag": "v.",
+   "englishGloss": "to say, to tell, to assert; n. m. advice, order."
+  },
+  {
+   "headword": "कहनावत",
+   "grammaticalTag": "f.",
+   "englishGloss": "a saying, proverb, adage."
+  },
+  {
+   "headword": "कहने को",
+   "grammaticalTag": "adv.",
+   "englishGloss": "for the sake of saying."
+  },
+  {
+   "headword": "कहराना",
+   "grammaticalTag": "v.",
+   "englishGloss": "to groan."
+  },
+  {
+   "headword": "कहलाना",
+   "grammaticalTag": "v. a.",
+   "englishGloss": "to send a message, to inform ; v. to cause to say, to be called."
+  },
+  {
+   "headword": "कहला भेजना",
+   "grammaticalTag": "v. a.",
+   "englishGloss": "to send a message, to inform ; v. to cause to say, to be called."
+  },
+  {
+   "headword": "कहवैया",
+   "grammaticalTag": "adj.",
+   "englishGloss": "bold, fearless; m. one who says or tells, teller."
+  },
+  {
+   "headword": "कहां",
+   "grammaticalTag": "adj.",
+   "englishGloss": "where ?"
+  },
+  {
+   "headword": "कहां तक",
+   "grammaticalTag": "adv.",
+   "englishGloss": "how far, how long, to what extent."
+  },
+  {
+   "headword": "कहां से",
+   "grammaticalTag": "adv.",
+   "englishGloss": "whence, wherefrom."
+  },
+  {
+   "headword": "कहा",
+   "grammaticalTag": "m.",
+   "englishGloss": "word, call, order, advice."
+  },
+  {
+   "headword": "कहाकही",
+   "grammaticalTag": "f.",
+   "englishGloss": "dispute, altercation."
+  },
+  {
+   "headword": "कहाना",
+   "grammaticalTag": "v. a.",
+   "englishGloss": "to be called or named."
+  },
+  {
+   "headword": "कहानी",
+   "grammaticalTag": "f.",
+   "englishGloss": "a tale, story, fable."
+  },
+  {
+   "headword": "कहार",
+   "grammaticalTag": "m.",
+   "englishGloss": "a carrier, palki-bearer."
+  },
+  {
+   "headword": "कहा सुना",
+   "grammaticalTag": "n.m.",
+   "englishGloss": "inappropriate speech, harsh language."
+  },
+  {
+   "headword": "कहा सुनी",
+   "grammaticalTag": "n. f.",
+   "englishGloss": "harsh words, altercation."
+  },
+  {
+   "headword": "कहावत",
+   "grammaticalTag": "f.",
+   "englishGloss": "a saying, proverb, adage."
+  },
+  {
+   "headword": "कहीं",
+   "grammaticalTag": "adv.",
+   "englishGloss": "somewhere, wherever."
+  },
+  {
+   "headword": "कही",
+   "grammaticalTag": "f.",
+   "englishGloss": "a foraging party."
+  },
+  {
+   "headword": "कहूं",
+   "grammaticalTag": "adv.",
+   "englishGloss": "somewhere, anywhere."
+  },
+  {
+   "headword": "कक्ष",
+   "grammaticalTag": "m.",
+   "englishGloss": "the armpit, side, flank."
+  },
+  {
+   "headword": "कक्षा",
+   "grammaticalTag": "f.",
+   "englishGloss": "a woman's girdle."
+  },
+  {
+   "headword": "का",
+   "grammaticalTag": "postpos.",
+   "englishGloss": "of, belonging to."
+  },
+  {
+   "headword": "काई",
+   "grammaticalTag": "f.",
+   "englishGloss": "green scum on pools, fur, paste."
+  },
+  {
+   "headword": "काईयां",
+   "grammaticalTag": "m.",
+   "englishGloss": "a very sharp clever fellow."
+  },
+  {
+   "headword": "कांकर",
+   "grammaticalTag": null,
+   "englishGloss": "see कंकर."
+  },
+  {
+   "headword": "कांख",
+   "grammaticalTag": null,
+   "englishGloss": "see कक्ष."
+  },
+  {
+   "headword": "कांखना",
+   "grammaticalTag": "v.",
+   "englishGloss": "to grunt, to groan."
+  },
+  {
+   "headword": "कांगन",
+   "grammaticalTag": "m.",
+   "englishGloss": "a plant and its seed."
+  },
+  {
+   "headword": "कांग्री",
+   "grammaticalTag": "f.",
+   "englishGloss": "a chafing dish."
+  },
+  {
+   "headword": "कांच",
+   "grammaticalTag": "m.",
+   "englishGloss": "glass, a disease."
+  },
+  {
+   "headword": "कांचा",
+   "grammaticalTag": null,
+   "englishGloss": "see कच्चा."
+  },
+  {
+   "headword": "कांचुली",
+   "grammaticalTag": "f.",
+   "englishGloss": "a bodice, waistcoat."
+  },
+  {
+   "headword": "कांजी",
+   "grammaticalTag": "f.",
+   "englishGloss": "a kind of vinegar or pickle."
+  },
+  {
+   "headword": "कांटा",
+   "grammaticalTag": "m.",
+   "englishGloss": "a thorn, fork, spine, spur, a small scale, balance."
+  },
+  {
+   "headword": "कांटा छूरी",
+   "grammaticalTag": "m.",
+   "englishGloss": "knife and fork."
+  },
+  {
+   "headword": "कांटी",
+   "grammaticalTag": "f.",
+   "englishGloss": "small hook, a small scale, refuse of cotton."
+  },
+  {
+   "headword": "कांठा",
+   "grammaticalTag": "adj.",
+   "englishGloss": "near, close by."
+  },
+  {
+   "headword": "कांड़ना",
+   "grammaticalTag": "v.",
+   "englishGloss": "to tread, to trample."
+  },
+  {
+   "headword": "कांडी",
+   "grammaticalTag": "f.",
+   "englishGloss": "a beam, a rafter."
+  },
+  {
+   "headword": "कांदा",
+   "grammaticalTag": "m.",
+   "englishGloss": "an onion."
+  },
+  {
+   "headword": "कांडू",
+   "grammaticalTag": "m.",
+   "englishGloss": "a sugar-boiler, confectioner."
+  },
+  {
+   "headword": "कांदा",
+   "grammaticalTag": "m.",
+   "englishGloss": "mud, slime."
+  },
+  {
+   "headword": "कांधना",
+   "grammaticalTag": "v.",
+   "englishGloss": "to assist, to protect."
+  },
+  {
+   "headword": "कांधा",
+   "grammaticalTag": "m.",
+   "englishGloss": "the shoulder."
+  },
+  {
+   "headword": "कांपना",
+   "grammaticalTag": "v.",
+   "englishGloss": "to shiver, to shake, to tremble."
+  },
+  {
+   "headword": "कांयकंप",
+   "grammaticalTag": "f.",
+   "englishGloss": "the cawing of a crow, noise."
+  },
+  {
+   "headword": "कांवर",
+   "grammaticalTag": "f.",
+   "englishGloss": "two baskets attached to either end of a pole used by Hindú pilgrims."
+  },
+  {
+   "headword": "कांस",
+   "grammaticalTag": "f.",
+   "englishGloss": "a kind of grass."
+  },
+  {
+   "headword": "कांसा",
+   "grammaticalTag": "m.",
+   "englishGloss": "bell-metal."
+  },
+  {
+   "headword": "कांस्यकार",
+   "grammaticalTag": "m.",
+   "englishGloss": "a brazier."
+  },
+  {
+   "headword": "कांक्षा",
+   "grammaticalTag": "f.",
+   "englishGloss": "wish, desire, inclination."
+  },
+  {
+   "headword": "काक",
+   "grammaticalTag": "m.",
+   "englishGloss": "a crow."
+  },
+  {
+   "headword": "काकड़ा",
+   "grammaticalTag": "m.",
+   "englishGloss": "a kind of leather."
+  },
+  {
+   "headword": "काकड़ा सिंगी",
+   "grammaticalTag": "f.",
+   "englishGloss": "a medicine."
+  },
+  {
+   "headword": "काकण",
+   "grammaticalTag": "m.",
+   "englishGloss": "a kind of leprosy."
+  },
+  {
+   "headword": "काकतालीय",
+   "grammaticalTag": "adv.",
+   "englishGloss": "suddenly, unexpectedly."
+  },
+  {
+   "headword": "काकपक्ष",
+   "grammaticalTag": "m.",
+   "englishGloss": "single locks of hair."
+  },
+  {
+   "headword": "काकबन्ध्या",
+   "grammaticalTag": "f.",
+   "englishGloss": "a woman with only one child."
+  },
+  {
+   "headword": "काकरेजी",
+   "grammaticalTag": "adj.",
+   "englishGloss": "dark purple."
+  },
+  {
+   "headword": "काका",
+   "grammaticalTag": "m.",
+   "englishGloss": "a paternal uncle."
+  },
+  {
+   "headword": "काकातुआ",
+   "grammaticalTag": "m.",
+   "englishGloss": "cockatoo."
+  },
+  {
+   "headword": "काकिणी",
+   "grammaticalTag": "f.",
+   "englishGloss": "twenty kauries."
+  },
+  {
+   "headword": "काकी",
+   "grammaticalTag": "f.",
+   "englishGloss": "an aunt."
+  },
+  {
+   "headword": "काकोली",
+   "grammaticalTag": "f.",
+   "englishGloss": "a medicinal plant."
+  },
+  {
+   "headword": "काख",
+   "grammaticalTag": "f.",
+   "englishGloss": "the armpit."
+  },
+  {
+   "headword": "काग",
+   "grammaticalTag": "m.",
+   "englishGloss": "a crow, raven."
+  },
+  {
+   "headword": "काच",
+   "grammaticalTag": "m.",
+   "englishGloss": "glass, crystal, a disease."
+  },
+  {
+   "headword": "काचमणि",
+   "grammaticalTag": "m.",
+   "englishGloss": "crystal, quartz."
+  },
+  {
+   "headword": "काचा",
+   "grammaticalTag": null,
+   "englishGloss": "see कच्चा."
+  },
+  {
+   "headword": "काछ",
+   "grammaticalTag": "m.",
+   "englishGloss": "a cloth worn round the waist."
+  },
+  {
+   "headword": "काछन",
+   "grammaticalTag": "f.",
+   "englishGloss": "a female gardener."
+  },
+  {
+   "headword": "काछना",
+   "grammaticalTag": "v.",
+   "englishGloss": "to bind on the káchh, to gather, to skim, to wash."
+  },
+  {
+   "headword": "काछनी",
+   "grammaticalTag": "f.",
+   "englishGloss": "a cloth worn round the waist."
+  },
+  {
+   "headword": "काछी",
+   "grammaticalTag": "m.",
+   "englishGloss": "a gardener."
+  },
+  {
+   "headword": "काज",
+   "grammaticalTag": "m.",
+   "englishGloss": "a work, action, business."
+  },
+  {
+   "headword": "काजल",
+   "grammaticalTag": "m.",
+   "englishGloss": "lampblack for the eyes."
+  },
+  {
+   "headword": "काजी",
+   "grammaticalTag": "adj.",
+   "englishGloss": "busy, laborious, employed."
+  },
+  {
+   "headword": "काजे",
+   "grammaticalTag": "prep.",
+   "englishGloss": "on account of, for the sake of."
+  },
+  {
+   "headword": "काञ्चन",
+   "grammaticalTag": "m.",
+   "englishGloss": "gold; adj. golden."
+  },
+  {
+   "headword": "काट",
+   "grammaticalTag": "f.",
+   "englishGloss": "a cut, incision."
+  },
+  {
+   "headword": "काटकूट",
+   "grammaticalTag": "f.",
+   "englishGloss": "chips, scraps, clippings."
+  },
+  {
+   "headword": "काट खाना",
+   "grammaticalTag": "v.",
+   "englishGloss": "to bite, to cut."
+  },
+  {
+   "headword": "काटना",
+   "grammaticalTag": "v.",
+   "englishGloss": "to cut, to clip, to bite, to corrode, to reap, to saw, to spend, to pass away."
+  },
+  {
+   "headword": "काट फांस",
+   "grammaticalTag": "f.",
+   "englishGloss": "cutting and clipping, back biting."
+  },
+  {
+   "headword": "काटू",
+   "grammaticalTag": "m.",
+   "englishGloss": "a cutter ; adj. corrosive."
+  },
+  {
+   "headword": "काठ",
+   "grammaticalTag": "m.",
+   "englishGloss": "wood, timber, stock."
+  },
+  {
+   "headword": "काठ कबाड़",
+   "grammaticalTag": "m.",
+   "englishGloss": "a heap of broken furniture."
+  },
+  {
+   "headword": "काठ की हांडी",
+   "grammaticalTag": "f.",
+   "englishGloss": "lit. a wooden pot, any thing frail."
+  },
+  {
+   "headword": "काठ होना",
+   "grammaticalTag": "v. a.",
+   "englishGloss": "to be petrified with astonishment, sorrow, &c."
+  },
+  {
+   "headword": "काठिन्य",
+   "grammaticalTag": "f.",
+   "englishGloss": "difficulty, hardness, cruelty."
+  },
+  {
+   "headword": "काठी",
+   "grammaticalTag": "f.",
+   "englishGloss": "body, scabbard, shape."
+  },
+  {
+   "headword": "काड़ा",
+   "grammaticalTag": "m.",
+   "englishGloss": "a young buffalo."
+  },
+  {
+   "headword": "काढ़ना",
+   "grammaticalTag": "v.",
+   "englishGloss": "to draw, to draw off, to draw forth, to do needle work."
+  },
+  {
+   "headword": "काढ़ा",
+   "grammaticalTag": "m.",
+   "englishGloss": "a decoction."
+  },
+  {
+   "headword": "काणा",
+   "grammaticalTag": "m. and adj.",
+   "englishGloss": "blind of one eye."
+  },
+  {
+   "headword": "काणड़",
+   "grammaticalTag": "f.",
+   "englishGloss": "a woman blind of an eye."
+  },
+  {
+   "headword": "कातना",
+   "grammaticalTag": "v.",
+   "englishGloss": "to spin."
+  },
+  {
+   "headword": "कातर",
+   "grammaticalTag": "adj.",
+   "englishGloss": "distressed, agitated, confused."
+  },
+  {
+   "headword": "कातराई",
+   "grammaticalTag": "f.",
+   "englishGloss": "fear, timidity."
+  },
+  {
+   "headword": "कादा",
+   "grammaticalTag": "m.",
+   "englishGloss": "slime, mud, mire."
+  },
+  {
+   "headword": "कान",
+   "grammaticalTag": "m.",
+   "englishGloss": "the ear."
+  },
+  {
+   "headword": "कान ऐंठना",
+   "grammaticalTag": "v. a.",
+   "englishGloss": "to pull by the ears."
+  },
+  {
+   "headword": "कान देना",
+   "grammaticalTag": "v.",
+   "englishGloss": "to give ear to, to listen, to attend."
+  },
+  {
+   "headword": "कान करना",
+   "grammaticalTag": "v.",
+   "englishGloss": "to give ear to, to listen, to attend."
+  },
+  {
+   "headword": "कानन",
+   "grammaticalTag": "m.",
+   "englishGloss": "a forest, wood."
+  },
+  {
+   "headword": "कान में कहना",
+   "grammaticalTag": "v.",
+   "englishGloss": "to whisper in one's ear."
+  },
+  {
+   "headword": "काना फूसी",
+   "grammaticalTag": "f.",
+   "englishGloss": "whispering, intrigue, plot."
+  },
+  {
+   "headword": "कानी",
+   "grammaticalTag": "f.",
+   "englishGloss": "spite, resentment. one-eyed woman."
+  },
+  {
+   "headword": "कान्त",
+   "grammaticalTag": "m.",
+   "englishGloss": "a husband; adj. agreeable, beautiful."
+  },
+  {
+   "headword": "कान्ता",
+   "grammaticalTag": "f.",
+   "englishGloss": "wife, beauty, splendour, light."
+  },
+  {
+   "headword": "कान्ति",
+   "grammaticalTag": "f.",
+   "englishGloss": "splendour, lustre."
+  },
+  {
+   "headword": "कान्य कुब्ज",
+   "grammaticalTag": "m.",
+   "englishGloss": "a class of Brahman of Kanouj."
+  },
+  {
+   "headword": "कापट्य",
+   "grammaticalTag": "m.",
+   "englishGloss": "deceit, trick."
+  },
+  {
+   "headword": "कापुरुष",
+   "grammaticalTag": "m.",
+   "englishGloss": "a contemptible person."
+  },
+  {
+   "headword": "काबर",
+   "grammaticalTag": "m.",
+   "englishGloss": "stiff black clay with sand, a black bird with white spots."
+  },
+  {
+   "headword": "काबुक",
+   "grammaticalTag": "f.",
+   "englishGloss": "a dove cot."
+  },
+  {
+   "headword": "काबेरी",
+   "grammaticalTag": "f.",
+   "englishGloss": "name of a river, the Cavery."
+  },
+  {
+   "headword": "काम",
+   "grammaticalTag": "m.",
+   "englishGloss": "lust, desire, wish, inclination, act, work, affair."
+  },
+  {
+   "headword": "काम आना",
+   "grammaticalTag": "v.",
+   "englishGloss": "to come into use or service."
+  },
+  {
+   "headword": "काम करना",
+   "grammaticalTag": "v. a.",
+   "englishGloss": "to work, to operate, to be busy."
+  },
+  {
+   "headword": "काम का",
+   "grammaticalTag": "adj.",
+   "englishGloss": "useful, important."
+  },
+  {
+   "headword": "काम चलना",
+   "grammaticalTag": "v.",
+   "englishGloss": "to be carried on (a work), to be managed."
+  },
+  {
+   "headword": "काम चलाऊ",
+   "grammaticalTag": "adj.",
+   "englishGloss": "serviceable."
+  },
+  {
+   "headword": "काम चलाना",
+   "grammaticalTag": "v. a.",
+   "englishGloss": "to manage, to manage by hook or by crook."
+  },
+  {
+   "headword": "काम तमाम करना",
+   "grammaticalTag": "v. a.",
+   "englishGloss": "to finish a work or business, to despatch, to kill, to put an end to."
+  },
+  {
+   "headword": "कामदार",
+   "grammaticalTag": "m.",
+   "englishGloss": "manager, agent, adj. embroidered, worked."
+  },
+  {
+   "headword": "कामदेव",
+   "grammaticalTag": "m.",
+   "englishGloss": "the Indian Cupid."
+  },
+  {
+   "headword": "कामधेनु",
+   "grammaticalTag": "f.",
+   "englishGloss": "a fabulous cow."
+  },
+  {
+   "headword": "कामना",
+   "grammaticalTag": "f.",
+   "englishGloss": "wish, desire, inclination."
+  },
+  {
+   "headword": "कामरी",
+   "grammaticalTag": "f.",
+   "englishGloss": "a blanket."
+  },
+  {
+   "headword": "कामरूपी",
+   "grammaticalTag": "adj.",
+   "englishGloss": "pleasing, beautiful."
+  },
+  {
+   "headword": "कामला",
+   "grammaticalTag": "f.",
+   "englishGloss": "a disease, jaundice."
+  },
+  {
+   "headword": "काम सिखाना",
+   "grammaticalTag": "v. a.",
+   "englishGloss": "to teach one a trade."
+  },
+  {
+   "headword": "कामातुर",
+   "grammaticalTag": "adj.",
+   "englishGloss": "agitated with love or lust, lustful."
+  },
+  {
+   "headword": "कामार्थी",
+   "grammaticalTag": "m.",
+   "englishGloss": "person who carries Ganges water to offer to an idol."
+  },
+  {
+   "headword": "कामिनी",
+   "grammaticalTag": "f.",
+   "englishGloss": "a loving woman, libidinous."
+  },
+  {
+   "headword": "कामी",
+   "grammaticalTag": "adj.",
+   "englishGloss": "lustful, wanton."
+  },
+  {
+   "headword": "कामुक",
+   "grammaticalTag": "adj.",
+   "englishGloss": "lustful, wanton."
+  },
+  {
+   "headword": "कामोदा",
+   "grammaticalTag": "f.",
+   "englishGloss": "a mode in music."
+  },
+  {
+   "headword": "काम्पना",
+   "grammaticalTag": null,
+   "englishGloss": "see कांपना."
+  },
+  {
+   "headword": "काम्य",
+   "grammaticalTag": "adj.",
+   "englishGloss": "agreeable, amiable."
+  },
+  {
+   "headword": "काम्यकर्म्म",
+   "grammaticalTag": "m.",
+   "englishGloss": "a work of merit."
+  },
+  {
+   "headword": "काय",
+   "grammaticalTag": "m.",
+   "englishGloss": "the body, person, appearance."
+  },
+  {
+   "headword": "कायक",
+   "grammaticalTag": "adj.",
+   "englishGloss": "bodily, personal."
+  },
+  {
+   "headword": "कायफल",
+   "grammaticalTag": "m.",
+   "englishGloss": "a medicine, aromatic bark."
+  },
+  {
+   "headword": "कायर",
+   "grammaticalTag": "adj.",
+   "englishGloss": "timid, cowardly."
+  },
+  {
+   "headword": "कायस्थ",
+   "grammaticalTag": "m.",
+   "englishGloss": "the writer caste."
+  },
+  {
+   "headword": "कारक",
+   "grammaticalTag": "m.",
+   "englishGloss": "an agent, action, case (in gram)."
+  },
+  {
+   "headword": "कारज",
+   "grammaticalTag": "m.",
+   "englishGloss": "work, business, affair."
+  },
+  {
+   "headword": "कारण",
+   "grammaticalTag": "m.",
+   "englishGloss": "cause, motive, reason."
+  },
+  {
+   "headword": "कारागार",
+   "grammaticalTag": "m.",
+   "englishGloss": "a gaol."
+  },
+  {
+   "headword": "कारु",
+   "grammaticalTag": "m.",
+   "englishGloss": "a maker, artificer, artist."
+  },
+  {
+   "headword": "कारुणिक",
+   "grammaticalTag": "adj.",
+   "englishGloss": "kind, tender, merciful."
+  },
+  {
+   "headword": "कार्कश्य",
+   "grammaticalTag": "m.",
+   "englishGloss": "hard-heartedness, cruelty."
+  },
+  {
+   "headword": "कार्त्तिक",
+   "grammaticalTag": "m.",
+   "englishGloss": "the 8th Hindú month, October-November."
+  },
+  {
+   "headword": "कार्पण्य",
+   "grammaticalTag": "m.",
+   "englishGloss": "want, penury."
+  },
+  {
+   "headword": "कार्पास",
+   "grammaticalTag": "f.",
+   "englishGloss": "the cotton plant."
+  },
+  {
+   "headword": "कार्म्मिक",
+   "grammaticalTag": "adj.",
+   "englishGloss": "worked, embroidered."
+  },
+  {
+   "headword": "कार्म्मुक",
+   "grammaticalTag": "m.",
+   "englishGloss": "a bow."
+  },
+  {
+   "headword": "कार्य्य",
+   "grammaticalTag": "m.",
+   "englishGloss": "a work, action, affair, business."
+  },
+  {
+   "headword": "कार्षक",
+   "grammaticalTag": "m.",
+   "englishGloss": "a cultivator, farmer."
+  },
+  {
+   "headword": "कार्षापन",
+   "grammaticalTag": "m.",
+   "englishGloss": "a weight for silver."
+  },
+  {
+   "headword": "काल",
+   "grammaticalTag": "m.",
+   "englishGloss": "time, season, age, dearth, famine, death."
+  },
+  {
+   "headword": "काल आना",
+   "grammaticalTag": "v.",
+   "englishGloss": "to come (one's time or death)."
+  },
+  {
+   "headword": "कालक",
+   "grammaticalTag": "f.",
+   "englishGloss": "blackness, freckle, mark, spot."
+  },
+  {
+   "headword": "कालकोल",
+   "grammaticalTag": "m.",
+   "englishGloss": "a confused sound, tumult."
+  },
+  {
+   "headword": "कालकूट",
+   "grammaticalTag": "m.",
+   "englishGloss": "a kind of poison."
+  },
+  {
+   "headword": "कालख",
+   "grammaticalTag": "m.",
+   "englishGloss": "freckle, mark, spot, stain."
+  },
+  {
+   "headword": "कालञ्जर",
+   "grammaticalTag": "m.",
+   "englishGloss": "a name of Siva."
+  },
+  {
+   "headword": "कालधर्म्म",
+   "grammaticalTag": "m.",
+   "englishGloss": "death, dying."
+  },
+  {
+   "headword": "काल प्रभात",
+   "grammaticalTag": "m.",
+   "englishGloss": "the sultry season."
+  },
+  {
+   "headword": "कालमा",
+   "grammaticalTag": "m.",
+   "englishGloss": "suspicion, calamity."
+  },
+  {
+   "headword": "कालराति",
+   "grammaticalTag": "f.",
+   "englishGloss": "a particular night which occurs after every 77 years."
+  },
+  {
+   "headword": "कालवेला",
+   "grammaticalTag": "m.",
+   "englishGloss": "an unlucky time."
+  },
+  {
+   "headword": "कालसूत्र",
+   "grammaticalTag": "m.",
+   "englishGloss": "one of the 21 hells."
+  },
+  {
+   "headword": "कालक्षेप",
+   "grammaticalTag": "m.",
+   "englishGloss": "the spending of time, enduring, suffering."
+  },
+  {
+   "headword": "काला",
+   "grammaticalTag": "adj.",
+   "englishGloss": "black, dark; m. a snake, name of Krishna."
+  },
+  {
+   "headword": "काला कलोटा",
+   "grammaticalTag": "adj.",
+   "englishGloss": "black as lamp-black."
+  },
+  {
+   "headword": "कालाग्नि",
+   "grammaticalTag": "m.",
+   "englishGloss": "the final conflagration."
+  },
+  {
+   "headword": "काला नान",
+   "grammaticalTag": "m.",
+   "englishGloss": "black rock-salt."
+  },
+  {
+   "headword": "कालापत्ती",
+   "grammaticalTag": "f.",
+   "englishGloss": "the act of calking a boat or ship."
+  },
+  {
+   "headword": "कालापानी",
+   "grammaticalTag": "m.",
+   "englishGloss": "beyond the sea, transportation beyond India."
+  },
+  {
+   "headword": "काला मुहं करना",
+   "grammaticalTag": "v. a.",
+   "englishGloss": "to blacken one's face, disgrace."
+  },
+  {
+   "headword": "कालिक",
+   "grammaticalTag": "m.",
+   "englishGloss": "blackness, fault in gold, ink, soot."
+  },
+  {
+   "headword": "कालिका",
+   "grammaticalTag": "f.",
+   "englishGloss": "the goddess Kali, ink, soot."
+  },
+  {
+   "headword": "कालिया",
+   "grammaticalTag": "f.",
+   "englishGloss": "a certain serpent."
+  },
+  {
+   "headword": "काली",
+   "grammaticalTag": "f.",
+   "englishGloss": "the goddess Kali,"
+  },
+  {
+   "headword": "कालीन",
+   "grammaticalTag": "adj.",
+   "englishGloss": "relating to time, ancient,"
+  },
+  {
+   "headword": "काले कोस",
+   "grammaticalTag": "m.",
+   "englishGloss": "great distance."
+  },
+  {
+   "headword": "कालेश्वर",
+   "grammaticalTag": "m.",
+   "englishGloss": "the god Siva, a drug."
+  },
+  {
+   "headword": "काल्पनिक",
+   "grammaticalTag": "adj.",
+   "englishGloss": "forged, feigned, fictitious."
+  },
+  {
+   "headword": "कावर",
+   "grammaticalTag": "f.",
+   "englishGloss": "a basket in which Ganges water is carried."
+  },
+  {
+   "headword": "कावादेना",
+   "grammaticalTag": "v.",
+   "englishGloss": "to ring or lounge (a horse), to trick, to sham."
+  },
+  {
+   "headword": "काव्य",
+   "grammaticalTag": "m.",
+   "englishGloss": "a poem, poetry."
+  },
+  {
+   "headword": "काश",
+   "grammaticalTag": "m.",
+   "englishGloss": "cough, catarrh, a kind of grass."
+  },
+  {
+   "headword": "काशी",
+   "grammaticalTag": "m.",
+   "englishGloss": "a name of Benares."
+  },
+  {
+   "headword": "काष्ट",
+   "grammaticalTag": "m.",
+   "englishGloss": "wood."
+  },
+  {
+   "headword": "कासनी",
+   "grammaticalTag": "f.",
+   "englishGloss": "endive, Cichorum endivia."
+  },
+  {
+   "headword": "कासबी",
+   "grammaticalTag": "m.",
+   "englishGloss": "a weaver."
+  },
+  {
+   "headword": "कासी",
+   "grammaticalTag": "f.",
+   "englishGloss": "cough, cold, catarrh."
+  },
+  {
+   "headword": "काहण",
+   "grammaticalTag": "m.",
+   "englishGloss": "16 pans, or 1280 cowris."
+  },
+  {
+   "headword": "काहल",
+   "grammaticalTag": "adj.",
+   "englishGloss": "mischievous."
+  },
+  {
+   "headword": "काहार",
+   "grammaticalTag": "m.",
+   "englishGloss": "a bearer, a carrier."
+  },
+  {
+   "headword": "काहू",
+   "grammaticalTag": "pron.",
+   "englishGloss": "some, any, any one."
+  },
+  {
+   "headword": "काहे",
+   "grammaticalTag": "adv.",
+   "englishGloss": "why? wherefore?"
+  },
+  {
+   "headword": "कि",
+   "grammaticalTag": "conj.",
+   "englishGloss": "that, so that, or, as."
+  },
+  {
+   "headword": "किकियाना",
+   "grammaticalTag": "v.",
+   "englishGloss": "to shriek, to scream."
+  },
+  {
+   "headword": "किङ्कर",
+   "grammaticalTag": "m.",
+   "englishGloss": "a servant, a slave."
+  },
+  {
+   "headword": "किङ्किणी",
+   "grammaticalTag": "f.",
+   "englishGloss": "a girdle of small bells worn by women."
+  },
+  {
+   "headword": "किङ्गी",
+   "grammaticalTag": "f.",
+   "englishGloss": "a kind of fiddle."
+  },
+  {
+   "headword": "किचकिचाना",
+   "grammaticalTag": "v.",
+   "englishGloss": "to grind or gnash the teeth."
+  },
+  {
+   "headword": "किचड़ाना",
+   "grammaticalTag": "v.",
+   "englishGloss": "to have a running from the eyes."
+  },
+  {
+   "headword": "किचपिच",
+   "grammaticalTag": "f.",
+   "englishGloss": "mud, mire; adj. dirty, illegible."
+  },
+  {
+   "headword": "किचरा",
+   "grammaticalTag": "m.",
+   "englishGloss": "the gummy matter that comes from the eyes."
+  },
+  {
+   "headword": "किञ्चित",
+   "grammaticalTag": "adj.",
+   "englishGloss": "a little, a part, somewhat."
+  },
+  {
+   "headword": "किटकिटाना",
+   "grammaticalTag": "v.",
+   "englishGloss": "to gnash or grind (the teeth)."
+  },
+  {
+   "headword": "किट्ट",
+   "grammaticalTag": "m.",
+   "englishGloss": "dirt, excretion."
+  },
+  {
+   "headword": "किड़किड़ाना",
+   "grammaticalTag": "v.",
+   "englishGloss": "to grind or gnash the teeth."
+  },
+  {
+   "headword": "कित",
+   "grammaticalTag": "adv.",
+   "englishGloss": "where? how many? how much?"
+  },
+  {
+   "headword": "कितई",
+   "grammaticalTag": "prep.",
+   "englishGloss": "to, up to."
+  },
+  {
+   "headword": "कितना",
+   "grammaticalTag": "adv.",
+   "englishGloss": "how much? how many?"
+  },
+  {
+   "headword": "किदारा",
+   "grammaticalTag": "m.",
+   "englishGloss": "a musical mode."
+  },
+  {
+   "headword": "किधर",
+   "grammaticalTag": "adv.",
+   "englishGloss": "where? whither?"
+  },
+  {
+   "headword": "किन",
+   "grammaticalTag": "pron.",
+   "englishGloss": "who? which?"
+  },
+  {
+   "headword": "किनवैया",
+   "grammaticalTag": "m.",
+   "englishGloss": "a purchaser."
+  },
+  {
+   "headword": "किनारदार",
+   "grammaticalTag": "adj.",
+   "englishGloss": "bordered (a cloth)."
+  },
+  {
+   "headword": "किनारा",
+   "grammaticalTag": "m.",
+   "englishGloss": "edge, side, shore."
+  },
+  {
+   "headword": "किनारी",
+   "grammaticalTag": "f.",
+   "englishGloss": "gold or silver lace, edge, border."
+  },
+  {
+   "headword": "किनारे किनारे",
+   "grammaticalTag": "adv.",
+   "englishGloss": "along the shore."
+  },
+  {
+   "headword": "किनारेपर",
+   "grammaticalTag": "adv.",
+   "englishGloss": "ashore, aside."
+  },
+  {
+   "headword": "किनारे लगना",
+   "grammaticalTag": "v.",
+   "englishGloss": "to come ashore."
+  },
+  {
+   "headword": "किनारे लगाना",
+   "grammaticalTag": "v. a.",
+   "englishGloss": "to bring or drag to shore (a boat &c.)"
+  },
+  {
+   "headword": "किरकिराना",
+   "grammaticalTag": "v.",
+   "englishGloss": "to grate, to be gritty."
+  },
+  {
+   "headword": "किरकी",
+   "grammaticalTag": "f.",
+   "englishGloss": "a pendent to a nose ring."
+  },
+  {
+   "headword": "किन्तु",
+   "grammaticalTag": "conj.",
+   "englishGloss": "but."
+  },
+  {
+   "headword": "किन्नर",
+   "grammaticalTag": "m.",
+   "englishGloss": "a celestial chorister."
+  },
+  {
+   "headword": "किम",
+   "grammaticalTag": "pron.",
+   "englishGloss": "what? who? which?"
+  },
+  {
+   "headword": "किम्पुरुष",
+   "grammaticalTag": "m.",
+   "englishGloss": "a low man, one of the 9 divisions of the world."
+  },
+  {
+   "headword": "कियारी",
+   "grammaticalTag": "f.",
+   "englishGloss": "a garden bed, a frame."
+  },
+  {
+   "headword": "किरकिटी",
+   "grammaticalTag": "f.",
+   "englishGloss": "a mote or particle of dust."
+  },
+  {
+   "headword": "किरकिरा",
+   "grammaticalTag": "adj.",
+   "englishGloss": "gritty, sandy."
+  },
+  {
+   "headword": "किरण",
+   "grammaticalTag": "f.",
+   "englishGloss": "a ray of light, sun or moon beam."
+  },
+  {
+   "headword": "किरवान",
+   "grammaticalTag": "f.",
+   "englishGloss": "a sword."
+  },
+  {
+   "headword": "किरांची",
+   "grammaticalTag": "f.",
+   "englishGloss": "a superior description of goods cart made of wood."
+  },
+  {
+   "headword": "किरानी",
+   "grammaticalTag": "m.",
+   "englishGloss": "a clerk."
+  },
+  {
+   "headword": "किराव",
+   "grammaticalTag": "m.",
+   "englishGloss": "a small pea."
+  },
+  {
+   "headword": "किरात",
+   "grammaticalTag": "m.",
+   "englishGloss": "a savage, a tribe of mountaineers."
+  },
+  {
+   "headword": "किराना",
+   "grammaticalTag": "m.",
+   "englishGloss": "grocery; v. to sift."
+  },
+  {
+   "headword": "किरिया",
+   "grammaticalTag": "f.",
+   "englishGloss": "an oath."
+  },
+  {
+   "headword": "किरिया खाना",
+   "grammaticalTag": "v.",
+   "englishGloss": "to take an oath, to swear."
+  },
+  {
+   "headword": "किरीट",
+   "grammaticalTag": "m.",
+   "englishGloss": "a crest, diadem."
+  },
+  {
+   "headword": "किरैश",
+   "grammaticalTag": "m.",
+   "englishGloss": "a hollow tooth; adj. broken, rugged."
+  },
+  {
+   "headword": "किर्च",
+   "grammaticalTag": "f.",
+   "englishGloss": "a splinter, a straight sword."
+  },
+  {
+   "headword": "किल",
+   "grammaticalTag": "adv.",
+   "englishGloss": "certainly, indeed, probably."
+  },
+  {
+   "headword": "किलक",
+   "grammaticalTag": "f.",
+   "englishGloss": "splendour, lustre of a gem."
+  },
+  {
+   "headword": "किलबिलाना",
+   "grammaticalTag": "v.",
+   "englishGloss": "to creep, to crawl."
+  },
+  {
+   "headword": "किलाना",
+   "grammaticalTag": "v.",
+   "englishGloss": "to winnow."
+  },
+  {
+   "headword": "किलोल",
+   "grammaticalTag": "f.",
+   "englishGloss": "gambel, wantonness, revelry."
+  },
+  {
+   "headword": "किल्कारना",
+   "grammaticalTag": "v.",
+   "englishGloss": "to call out loud."
+  },
+  {
+   "headword": "किल्किश्चित",
+   "grammaticalTag": "m.",
+   "englishGloss": "dalliance, blandishment, coition."
+  },
+  {
+   "headword": "किल्किलाना",
+   "grammaticalTag": "v.",
+   "englishGloss": "to be fretful; adj. peevish, snappish."
+  },
+  {
+   "headword": "किल्नी",
+   "grammaticalTag": "f.",
+   "englishGloss": "a tick, dog-louse."
+  },
+  {
+   "headword": "किल्लाना",
+   "grammaticalTag": "v.",
+   "englishGloss": "to shriek, to scream."
+  },
+  {
+   "headword": "किल्ली",
+   "grammaticalTag": "f.",
+   "englishGloss": "a key."
+  },
+  {
+   "headword": "किशोर",
+   "grammaticalTag": "m.",
+   "englishGloss": "a youth, a lad, a minor."
+  },
+  {
+   "headword": "किस",
+   "grammaticalTag": "pron.",
+   "englishGloss": "whom? which? what?"
+  },
+  {
+   "headword": "किसनई",
+   "grammaticalTag": "f.",
+   "englishGloss": "farming, agriculture."
+  },
+  {
+   "headword": "किसान",
+   "grammaticalTag": "m.",
+   "englishGloss": "a farmer, ploughman, peasant."
+  },
+  {
+   "headword": "किसे",
+   "grammaticalTag": "pron.",
+   "englishGloss": "to whom? to what? to which?"
+  },
+  {
+   "headword": "कोकड़",
+   "grammaticalTag": "m.",
+   "englishGloss": "the acacia tree."
+  },
+  {
+   "headword": "कोकना",
+   "grammaticalTag": "v.",
+   "englishGloss": "to scream."
+  },
+  {
+   "headword": "कीच",
+   "grammaticalTag": "m.",
+   "englishGloss": "dirt, mud, mire."
+  },
+  {
+   "headword": "कीचड़",
+   "grammaticalTag": "n. f.",
+   "englishGloss": "mud, mire."
+  },
+  {
+   "headword": "कीट",
+   "grammaticalTag": "m.",
+   "englishGloss": "an insect, worm, reptile, dregs."
+  },
+  {
+   "headword": "कीड़हा",
+   "grammaticalTag": "m.",
+   "englishGloss": "wormy, worm-eaten."
+  },
+  {
+   "headword": "कीड़ा",
+   "grammaticalTag": "m.",
+   "englishGloss": "a worm, maggot, reptile, snake."
+  },
+  {
+   "headword": "कीड़ा पड़ना",
+   "grammaticalTag": "v.",
+   "englishGloss": "to have worms (in a fruit, sore &c)."
+  },
+  {
+   "headword": "कीड़ा लगना",
+   "grammaticalTag": "v.",
+   "englishGloss": "to be worm eaten."
+  },
+  {
+   "headword": "कीड़ी",
+   "grammaticalTag": "n. f.",
+   "englishGloss": "a tiny insect (as in water &c.), a leech."
+  },
+  {
+   "headword": "कीड़ों लगाना",
+   "grammaticalTag": "v. a.",
+   "englishGloss": "to apply leeches."
+  },
+  {
+   "headword": "कीड़ी वाली",
+   "grammaticalTag": "n. f.",
+   "englishGloss": "a woman who applies leeches."
+  },
+  {
+   "headword": "कीड़क",
+   "grammaticalTag": "adv.",
+   "englishGloss": "how? in what way?"
+  },
+  {
+   "headword": "कीना",
+   "grammaticalTag": "adj.",
+   "englishGloss": "bought, purchased; m. enmity."
+  },
+  {
+   "headword": "कीचा",
+   "grammaticalTag": "v.",
+   "englishGloss": "to buy, to purchase."
+  },
+  {
+   "headword": "कीप",
+   "grammaticalTag": "n. f.",
+   "englishGloss": "a funnel."
+  },
+  {
+   "headword": "कीर",
+   "grammaticalTag": "m.",
+   "englishGloss": "a parrot."
+  },
+  {
+   "headword": "कीर्तन",
+   "grammaticalTag": "m.",
+   "englishGloss": "speech, words, singing, praising."
+  },
+  {
+   "headword": "कीर्ति",
+   "grammaticalTag": "f.",
+   "englishGloss": "fame, renown, glory."
+  },
+  {
+   "headword": "कील",
+   "grammaticalTag": "f.",
+   "englishGloss": "a small nail, tack, stake."
+  },
+  {
+   "headword": "कीलक",
+   "grammaticalTag": "m.",
+   "englishGloss": "a peg, spike, stake."
+  },
+  {
+   "headword": "कीलना",
+   "grammaticalTag": "v.",
+   "englishGloss": "to stop, to close, to charm a snake."
+  },
+  {
+   "headword": "कीली",
+   "grammaticalTag": "n. f.",
+   "englishGloss": "a pivot, screw."
+  },
+  {
+   "headword": "कु",
+   "grammaticalTag": null,
+   "englishGloss": "(a prefix) contempt, reproach."
+  },
+  {
+   "headword": "कुंभारा",
+   "grammaticalTag": "m.",
+   "englishGloss": "a bachelor."
+  },
+  {
+   "headword": "कुंभारी",
+   "grammaticalTag": "f.",
+   "englishGloss": "a virgin, spinster."
+  },
+  {
+   "headword": "कुश्रा खोदना",
+   "grammaticalTag": "v. a.",
+   "englishGloss": "lit. to dig a well, to dig a pit for another."
+  },
+  {
+   "headword": "कुश्रा झकाना",
+   "grammaticalTag": "v. a.",
+   "englishGloss": "to lead one by the nose."
+  },
+  {
+   "headword": "कुश्राभा",
+   "grammaticalTag": "f.",
+   "englishGloss": "vain hope."
+  },
+  {
+   "headword": "कुंभड़",
+   "grammaticalTag": "adj.",
+   "englishGloss": "shrivelling, contracting."
+  },
+  {
+   "headword": "कुंगड़ा",
+   "grammaticalTag": "adj.",
+   "englishGloss": "strong, robust, stout."
+  },
+  {
+   "headword": "कुंचकी",
+   "grammaticalTag": "f.",
+   "englishGloss": "a bodice."
+  },
+  {
+   "headword": "कुंचि",
+   "grammaticalTag": "m.",
+   "englishGloss": "a brush, a tooth brush."
+  },
+  {
+   "headword": "कुंजड़ा",
+   "grammaticalTag": "m.",
+   "englishGloss": "a caste of vegetable sellers."
+  },
+  {
+   "headword": "कुंघर",
+   "grammaticalTag": "m.",
+   "englishGloss": "an unmarried boy, a son of a prince, see कुमार."
+  },
+  {
+   "headword": "कुंवारी",
+   "grammaticalTag": "f.",
+   "englishGloss": "a maid, daughter, princess."
+  },
+  {
+   "headword": "कुकर्म",
+   "grammaticalTag": "m.",
+   "englishGloss": "evil conduct, sin, vice."
+  },
+  {
+   "headword": "कुकुरमुसा",
+   "grammaticalTag": "m.",
+   "englishGloss": "a mushroom."
+  },
+  {
+   "headword": "कुक्कुट",
+   "grammaticalTag": "m.",
+   "englishGloss": "a gallinaceous fowl, a cook."
+  },
+  {
+   "headword": "कुक्कुर",
+   "grammaticalTag": "m.",
+   "englishGloss": "a dog."
+  },
+  {
+   "headword": "कुक्रिया",
+   "grammaticalTag": "f.",
+   "englishGloss": "a wicked action, sin, crime."
+  },
+  {
+   "headword": "कुडूम",
+   "grammaticalTag": "m.",
+   "englishGloss": "saffron."
+  },
+  {
+   "headword": "कुड्डूमा",
+   "grammaticalTag": "m.",
+   "englishGloss": "a vessel for holding the red mixture used at the Holi festival."
+  },
+  {
+   "headword": "कुख",
+   "grammaticalTag": "m. f.",
+   "englishGloss": "a breast, pap, bosom."
+  },
+  {
+   "headword": "कुचन",
+   "grammaticalTag": "adj.",
+   "englishGloss": "cutting into bits, shrinking."
+  },
+  {
+   "headword": "कुचर",
+   "grammaticalTag": "adj.",
+   "englishGloss": "censorious, detracting."
+  },
+  {
+   "headword": "कुचलना",
+   "grammaticalTag": "v.",
+   "englishGloss": "to bruise, to crush."
+  },
+  {
+   "headword": "कुचला",
+   "grammaticalTag": "m.",
+   "englishGloss": "the Nux vomica nut."
+  },
+  {
+   "headword": "कुचाय",
+   "grammaticalTag": "m.",
+   "englishGloss": "a nipple,"
+  },
+  {
+   "headword": "कुचाल",
+   "grammaticalTag": "f.",
+   "englishGloss": "bad conduct, misbehaviour."
+  },
+  {
+   "headword": "कुचि",
+   "grammaticalTag": "m.",
+   "englishGloss": "a chip, bit, morsel."
+  },
+  {
+   "headword": "कुचिया",
+   "grammaticalTag": "m.",
+   "englishGloss": "the lobe of the ear."
+  },
+  {
+   "headword": "कुचेला",
+   "grammaticalTag": "adj.",
+   "englishGloss": "ill-clothed, shabby."
+  },
+  {
+   "headword": "कुछकि",
+   "grammaticalTag": "m.",
+   "englishGloss": "the hollow of the hips."
+  },
+  {
+   "headword": "कुछ",
+   "grammaticalTag": "adj.",
+   "englishGloss": "any, anything, some, a little, whatever."
+  },
+  {
+   "headword": "कुज",
+   "grammaticalTag": "m.",
+   "englishGloss": "Tuesday, the planet Mars."
+  },
+  {
+   "headword": "कुजाति",
+   "grammaticalTag": "adj.",
+   "englishGloss": "of low caste, base, an outcast."
+  },
+  {
+   "headword": "कुञ्ज",
+   "grammaticalTag": "m.",
+   "englishGloss": "a bower, an arbour."
+  },
+  {
+   "headword": "कुञ्जर",
+   "grammaticalTag": "m.",
+   "englishGloss": "an elephant."
+  },
+  {
+   "headword": "कुञ्जी",
+   "grammaticalTag": "f.",
+   "englishGloss": "a key."
+  },
+  {
+   "headword": "कुट",
+   "grammaticalTag": "m.",
+   "englishGloss": "a medicine."
+  },
+  {
+   "headword": "कुटकी",
+   "grammaticalTag": "f.",
+   "englishGloss": "a medicine, a gnat."
+  },
+  {
+   "headword": "कुटना",
+   "grammaticalTag": "m.",
+   "englishGloss": "a pimp, a go-between."
+  },
+  {
+   "headword": "कुटनाई",
+   "grammaticalTag": "f.",
+   "englishGloss": "the pay or conduct of a pimp."
+  },
+  {
+   "headword": "कुट नाना",
+   "grammaticalTag": "v.",
+   "englishGloss": "to entice, to seduce, to wheedle."
+  },
+  {
+   "headword": "कुटनी",
+   "grammaticalTag": "f.",
+   "englishGloss": "a bawd, procuress."
+  },
+  {
+   "headword": "कुटांट",
+   "grammaticalTag": "adj.",
+   "englishGloss": "wicked."
+  },
+  {
+   "headword": "कुटिल",
+   "grammaticalTag": "adj.",
+   "englishGloss": "crooked, perverse, fraudulent."
+  },
+  {
+   "headword": "कुटी",
+   "grammaticalTag": "m.",
+   "englishGloss": "hut, mud-house, hovel."
+  },
+  {
+   "headword": "कुटीर",
+   "grammaticalTag": "m.",
+   "englishGloss": "hut, mud-house, hovel."
+  },
+  {
+   "headword": "कुटुम्ब",
+   "grammaticalTag": "m.",
+   "englishGloss": "family, tribe, connexions."
+  },
+  {
+   "headword": "कुटुम्बी",
+   "grammaticalTag": "m.",
+   "englishGloss": "head of a family, pater familias; adj. having a family."
+  },
+  {
+   "headword": "कुटेव",
+   "grammaticalTag": "m.",
+   "englishGloss": "bad conduct, evil course."
+  },
+  {
+   "headword": "कुट्टनी",
+   "grammaticalTag": "f.",
+   "englishGloss": "see कुटनी."
+  },
+  {
+   "headword": "कुठला",
+   "grammaticalTag": "m.",
+   "englishGloss": "a small earthen granary."
+  },
+  {
+   "headword": "कुठार",
+   "grammaticalTag": "m.",
+   "englishGloss": "a hatchet."
+  },
+  {
+   "headword": "कुठारी",
+   "grammaticalTag": "f.",
+   "englishGloss": "a small earthen vessel, a crucible."
+  },
+  {
+   "headword": "कुठियार",
+   "grammaticalTag": "m.",
+   "englishGloss": "a store house."
+  },
+  {
+   "headword": "कुठौर",
+   "grammaticalTag": "adj.",
+   "englishGloss": "misplaced, out of place; m. bad place."
+  },
+  {
+   "headword": "कुड़कना",
+   "grammaticalTag": "v.",
+   "englishGloss": "to cluck (as a hen), to grumble."
+  },
+  {
+   "headword": "कुड़मा",
+   "grammaticalTag": "m.",
+   "englishGloss": "tribe, family."
+  },
+  {
+   "headword": "कुढंग",
+   "grammaticalTag": "adj.",
+   "englishGloss": "ill-behaved, ill-bred, rude; m. ill behaviour."
+  },
+  {
+   "headword": "कुढ़न",
+   "grammaticalTag": "f.",
+   "englishGloss": "fret, grief, cause of sorrow."
+  },
+  {
+   "headword": "कुढ़ना",
+   "grammaticalTag": "v.",
+   "englishGloss": "to mourn, to lament, to repine."
+  },
+  {
+   "headword": "कुढ़ब",
+   "grammaticalTag": "adj.",
+   "englishGloss": "ill-formed, ugly, rude."
+  },
+  {
+   "headword": "कुढ़ाना",
+   "grammaticalTag": "v.",
+   "englishGloss": "to vex, to anger, to displease."
+  },
+  {
+   "headword": "कुणबा",
+   "grammaticalTag": "m.",
+   "englishGloss": "tribe, family, race."
+  },
+  {
+   "headword": "कुण्ठित",
+   "grammaticalTag": "adj.",
+   "englishGloss": "ashamed, lazy, dissatisfied."
+  },
+  {
+   "headword": "कुण्ड",
+   "grammaticalTag": "m.",
+   "englishGloss": "a pool, a pit, a well."
+  },
+  {
+   "headword": "कुण्डल",
+   "grammaticalTag": "m.",
+   "englishGloss": "a large ear-ring, a circle, halo round the sun or moon."
+  },
+  {
+   "headword": "कुण्डलिया",
+   "grammaticalTag": "m.",
+   "englishGloss": "a kind of poetical measure."
+  },
+  {
+   "headword": "कुण्डली",
+   "grammaticalTag": "m.",
+   "englishGloss": "a coil, ring, curl, a snake, horoscope."
+  },
+  {
+   "headword": "कुण्डा",
+   "grammaticalTag": "m.",
+   "englishGloss": "a large earthen vessel for holding water &c."
+  },
+  {
+   "headword": "कुण्डी",
+   "grammaticalTag": "f.",
+   "englishGloss": "a chain for a door."
+  },
+  {
+   "headword": "कुतना",
+   "grammaticalTag": "v. a.",
+   "englishGloss": "to estimate, to appraise, to be estimated."
+  },
+  {
+   "headword": "कुतप",
+   "grammaticalTag": "m.",
+   "englishGloss": "the 8th division of the day, noon."
+  },
+  {
+   "headword": "कुतरना",
+   "grammaticalTag": "v.",
+   "englishGloss": "to cut with the teeth, to gnaw."
+  },
+  {
+   "headword": "कुतरु",
+   "grammaticalTag": "m.",
+   "englishGloss": "a puppy, a cutter."
+  },
+  {
+   "headword": "कुतिया",
+   "grammaticalTag": "f.",
+   "englishGloss": "a bitch."
+  },
+  {
+   "headword": "कुतूहल",
+   "grammaticalTag": "m.",
+   "englishGloss": "eagerness, merriment, gratification."
+  },
+  {
+   "headword": "कुत्ता",
+   "grammaticalTag": "m.",
+   "englishGloss": "a dog."
+  },
+  {
+   "headword": "कुत्रापि",
+   "grammaticalTag": "adv.",
+   "englishGloss": "wherever, anywhere."
+  },
+  {
+   "headword": "कुत्सा",
+   "grammaticalTag": "f.",
+   "englishGloss": "reproach, contempt."
+  },
+  {
+   "headword": "कुत्सित",
+   "grammaticalTag": "adj.",
+   "englishGloss": "low, vile, contemned."
+  },
+  {
+   "headword": "कुदकना",
+   "grammaticalTag": "v.",
+   "englishGloss": "to leap, to jump, to skip."
+  },
+  {
+   "headword": "कुदराना",
+   "grammaticalTag": "v.",
+   "englishGloss": "to leap, to jump, to skip."
+  },
+  {
+   "headword": "कुदाना",
+   "grammaticalTag": "v.",
+   "englishGloss": "to dandle (a child)."
+  },
+  {
+   "headword": "कुदाल",
+   "grammaticalTag": "m.",
+   "englishGloss": "hoe or spade."
+  },
+  {
+   "headword": "कुदृष्टी",
+   "grammaticalTag": "f.",
+   "englishGloss": "an evil eye."
+  },
+  {
+   "headword": "कुनकुना",
+   "grammaticalTag": "adj.",
+   "englishGloss": "lukewarm, tepid."
+  },
+  {
+   "headword": "कुनबा",
+   "grammaticalTag": "m.",
+   "englishGloss": "a family."
+  },
+  {
+   "headword": "कुनमुनाना",
+   "grammaticalTag": "v.",
+   "englishGloss": "to cry, to be restless, to demur."
+  },
+  {
+   "headword": "कुनबेती",
+   "grammaticalTag": "m.",
+   "englishGloss": "one who has a large family."
+  },
+  {
+   "headword": "कुनह",
+   "grammaticalTag": "f.",
+   "englishGloss": "malice, spite."
+  },
+  {
+   "headword": "कुनह निकालना",
+   "grammaticalTag": "v.",
+   "englishGloss": "to vent one's spite on."
+  },
+  {
+   "headword": "कुनीति",
+   "grammaticalTag": "f.",
+   "englishGloss": "bad behaviour, misgovernment."
+  },
+  {
+   "headword": "कुन्तल",
+   "grammaticalTag": "m.",
+   "englishGloss": "hair."
+  },
+  {
+   "headword": "कुन्द",
+   "grammaticalTag": "m.",
+   "englishGloss": "a white flower, jasmine."
+  },
+  {
+   "headword": "कुन्दड़ा",
+   "grammaticalTag": "m.",
+   "englishGloss": "a stock, a rick, a heap."
+  },
+  {
+   "headword": "कुन्दन",
+   "grammaticalTag": "m.",
+   "englishGloss": "unalloyed gold."
+  },
+  {
+   "headword": "कुन्दर",
+   "grammaticalTag": "m.",
+   "englishGloss": "a wild gourd, a vegetable."
+  },
+  {
+   "headword": "कुन्दला",
+   "grammaticalTag": "m.",
+   "englishGloss": "a kind of tent."
+  },
+  {
+   "headword": "कुन्दी",
+   "grammaticalTag": "f.",
+   "englishGloss": "the act of calendering cloth."
+  },
+  {
+   "headword": "कुपथ",
+   "grammaticalTag": "m.",
+   "englishGloss": "a bad way, heresy."
+  },
+  {
+   "headword": "कुपरामर्श",
+   "grammaticalTag": "m.",
+   "englishGloss": "bad advice."
+  },
+  {
+   "headword": "कुपात्र",
+   "grammaticalTag": "adj.",
+   "englishGloss": "unworthy, unfit."
+  },
+  {
+   "headword": "कुपित",
+   "grammaticalTag": "adj.",
+   "englishGloss": "angry, offended."
+  },
+  {
+   "headword": "कुप्पा",
+   "grammaticalTag": "m.",
+   "englishGloss": "a large leathern vessel."
+  },
+  {
+   "headword": "कुब",
+   "grammaticalTag": "m.",
+   "englishGloss": "a hump."
+  },
+  {
+   "headword": "कुबजा",
+   "grammaticalTag": "adj.",
+   "englishGloss": "hump-backed."
+  },
+  {
+   "headword": "कुबड़ा",
+   "grammaticalTag": "adj.",
+   "englishGloss": "hump-backed."
+  },
+  {
+   "headword": "कुबुद्धी",
+   "grammaticalTag": "adj.",
+   "englishGloss": "destitute of understanding, stupid, wicked."
+  },
+  {
+   "headword": "कुभार्या",
+   "grammaticalTag": "f.",
+   "englishGloss": "a bad wife."
+  },
+  {
+   "headword": "कुभाव",
+   "grammaticalTag": "m.",
+   "englishGloss": "ill-temper, bad disposition."
+  },
+  {
+   "headword": "कुमत",
+   "grammaticalTag": "f.",
+   "englishGloss": "disunion, discord."
+  },
+  {
+   "headword": "कुमति",
+   "grammaticalTag": "f.",
+   "englishGloss": "foolishness, stupidity."
+  },
+  {
+   "headword": "कुमद",
+   "grammaticalTag": "m.",
+   "englishGloss": "a white esculent lotus."
+  },
+  {
+   "headword": "कुमन्त्रणा",
+   "grammaticalTag": "m.",
+   "englishGloss": "bad counsel, ill advice."
+  },
+  {
+   "headword": "कुमाच",
+   "grammaticalTag": "m.",
+   "englishGloss": "a kind of bread or cakes."
+  },
+  {
+   "headword": "कुमार",
+   "grammaticalTag": "m.",
+   "englishGloss": "a boy, a prince."
+  },
+  {
+   "headword": "कुमारिका",
+   "grammaticalTag": "f.",
+   "englishGloss": "a maiden, daughter, princess."
+  },
+  {
+   "headword": "कुमारी",
+   "grammaticalTag": "f.",
+   "englishGloss": "an unmarried girl, a princess."
+  },
+  {
+   "headword": "कुमार्ग",
+   "grammaticalTag": "m.",
+   "englishGloss": "a bad road, bad course."
+  },
+  {
+   "headword": "कुमुद",
+   "grammaticalTag": null,
+   "englishGloss": "see कुमद."
+  },
+  {
+   "headword": "कुमुदिनी",
+   "grammaticalTag": "f.",
+   "englishGloss": "a place abounding in lotuses."
+  },
+  {
+   "headword": "कुमेड़या",
+   "grammaticalTag": "m.",
+   "englishGloss": "a small elephant."
+  },
+  {
+   "headword": "कुमेर",
+   "grammaticalTag": "m.",
+   "englishGloss": "the southern pole."
+  },
+  {
+   "headword": "कुम्भ",
+   "grammaticalTag": "m.",
+   "englishGloss": "water-pot, the sign Aquarius."
+  },
+  {
+   "headword": "कुम्भकार",
+   "grammaticalTag": "m.",
+   "englishGloss": "a potter."
+  },
+  {
+   "headword": "कुम्भीपाक",
+   "grammaticalTag": "m.",
+   "englishGloss": "kind of hell."
+  },
+  {
+   "headword": "कुम्भीर",
+   "grammaticalTag": "m.",
+   "englishGloss": "the alligator."
+  },
+  {
+   "headword": "कुम्हलाना",
+   "grammaticalTag": "v.",
+   "englishGloss": "to wither, to fade, to droop."
+  },
+  {
+   "headword": "कुम्हार",
+   "grammaticalTag": null,
+   "englishGloss": "see कुम्भकार."
+  },
+  {
+   "headword": "कुम्हारी",
+   "grammaticalTag": "f.",
+   "englishGloss": "an insect that is like a wasp."
+  },
+  {
+   "headword": "कुर",
+   "grammaticalTag": "m.",
+   "englishGloss": "a deer, antelope."
+  },
+  {
+   "headword": "कुरण्ड",
+   "grammaticalTag": "m.",
+   "englishGloss": "corundum stones, a whetstone."
+  },
+  {
+   "headword": "कुरता",
+   "grammaticalTag": "m.",
+   "englishGloss": "a shirt, jacket."
+  },
+  {
+   "headword": "कुरती",
+   "grammaticalTag": "f.",
+   "englishGloss": "a woman's bodice, a soldier's jacket."
+  },
+  {
+   "headword": "कुरस",
+   "grammaticalTag": "m.",
+   "englishGloss": "bad savour, distaste; adj. distasteful."
+  },
+  {
+   "headword": "कुरितु",
+   "grammaticalTag": "adj.",
+   "englishGloss": "unseasonable, ill-timed."
+  },
+  {
+   "headword": "कुरी",
+   "grammaticalTag": "f.",
+   "englishGloss": "gristle, cartilage."
+  },
+  {
+   "headword": "कुरीति",
+   "grammaticalTag": "f.",
+   "englishGloss": "a bad custom, evil habit, ill manners."
+  },
+  {
+   "headword": "कुरुचि",
+   "grammaticalTag": "f.",
+   "englishGloss": "disgust, dislike, loss of appetite."
+  },
+  {
+   "headword": "कुरुल",
+   "grammaticalTag": "m.",
+   "englishGloss": "a curl or lock of hair."
+  },
+  {
+   "headword": "कुरुवंश",
+   "grammaticalTag": "m.",
+   "englishGloss": "descendants of Kuru, an ancient king of Delhi."
+  },
+  {
+   "headword": "कुर्वक",
+   "grammaticalTag": "m.",
+   "englishGloss": "a kind of flower."
+  },
+  {
+   "headword": "कुरूप",
+   "grammaticalTag": "adj.",
+   "englishGloss": "ill-formed, ugly."
+  },
+  {
+   "headword": "कुरेदना",
+   "grammaticalTag": "v. a.",
+   "englishGloss": "to scrape, to scratch, to scoop out."
+  },
+  {
+   "headword": "कुरेलना",
+   "grammaticalTag": "v.",
+   "englishGloss": "to poke."
+  },
+  {
+   "headword": "कुर्कुट",
+   "grammaticalTag": "f.",
+   "englishGloss": "sweepings, rubbish."
+  },
+  {
+   "headword": "कुर्कुरी",
+   "grammaticalTag": "adj.",
+   "englishGloss": "brittle, crispy."
+  },
+  {
+   "headword": "कुर्काल",
+   "grammaticalTag": "f.",
+   "englishGloss": "a bound, leap, jump."
+  },
+  {
+   "headword": "कुर्म्मी",
+   "grammaticalTag": "m.",
+   "englishGloss": "a tribe of husbandmen."
+  },
+  {
+   "headword": "कुर्याल",
+   "grammaticalTag": "f.",
+   "englishGloss": "ease, security, confidence."
+  },
+  {
+   "headword": "कुल",
+   "grammaticalTag": "m.",
+   "englishGloss": "race, tribe, family."
+  },
+  {
+   "headword": "कुलकर्म्म",
+   "grammaticalTag": "m.",
+   "englishGloss": "the duties of a family."
+  },
+  {
+   "headword": "कुल की रीति",
+   "grammaticalTag": "m.",
+   "englishGloss": "practice or religion of a family."
+  },
+  {
+   "headword": "कुलकुला",
+   "grammaticalTag": "m.",
+   "englishGloss": "gargling."
+  },
+  {
+   "headword": "कुलकुलाना",
+   "grammaticalTag": "v.",
+   "englishGloss": "to itch."
+  },
+  {
+   "headword": "कुलकुली",
+   "grammaticalTag": "f.",
+   "englishGloss": "the itch."
+  },
+  {
+   "headword": "कुलचा",
+   "grammaticalTag": "m.",
+   "englishGloss": "capital, principal."
+  },
+  {
+   "headword": "कुलज्ञ",
+   "grammaticalTag": "m.",
+   "englishGloss": "genealogist, family registrar."
+  },
+  {
+   "headword": "कुलञ्जन",
+   "grammaticalTag": "m.",
+   "englishGloss": "name of a plant, a seed."
+  },
+  {
+   "headword": "कुलटा",
+   "grammaticalTag": "f.",
+   "englishGloss": "an impure woman, prostitute."
+  },
+  {
+   "headword": "कुलतारण",
+   "grammaticalTag": "m.",
+   "englishGloss": "a good and virtuous son."
+  },
+  {
+   "headword": "कुलथी",
+   "grammaticalTag": "f.",
+   "englishGloss": "a kind of vetch."
+  },
+  {
+   "headword": "कुलद्रोही",
+   "grammaticalTag": "m.",
+   "englishGloss": "one who disgraces his family."
+  },
+  {
+   "headword": "कुलधर्म",
+   "grammaticalTag": "m.",
+   "englishGloss": "a practice or observance peculiar to a tribe or caste."
+  },
+  {
+   "headword": "कुलनाथ",
+   "grammaticalTag": "m.",
+   "englishGloss": "a reprobate, outcast."
+  },
+  {
+   "headword": "कुलपुञ्ज",
+   "grammaticalTag": "m.",
+   "englishGloss": "the object of worship or reverence in a family."
+  },
+  {
+   "headword": "कुलपूजक",
+   "grammaticalTag": "m.",
+   "englishGloss": "a family priest."
+  },
+  {
+   "headword": "कुलबधू",
+   "grammaticalTag": "f.",
+   "englishGloss": "a virtuous woman, or one of noble family."
+  },
+  {
+   "headword": "कुलबुलाना",
+   "grammaticalTag": "v.",
+   "englishGloss": "to itch, to fidget, to writhe."
+  },
+  {
+   "headword": "कुलबुलाहट",
+   "grammaticalTag": "f.",
+   "englishGloss": "vermicular motion."
+  },
+  {
+   "headword": "कुलबोड़",
+   "grammaticalTag": "m.",
+   "englishGloss": "one who disgraces his family."
+  },
+  {
+   "headword": "कुलबोरना",
+   "grammaticalTag": "v.",
+   "englishGloss": "to bring disgrace upon one's family."
+  },
+  {
+   "headword": "कुलमा",
+   "grammaticalTag": "m.",
+   "englishGloss": "a sausage."
+  },
+  {
+   "headword": "कुलवन्त",
+   "grammaticalTag": "adj.",
+   "englishGloss": "of good family, of noble descent."
+  },
+  {
+   "headword": "कुलवन्ती",
+   "grammaticalTag": "f.",
+   "englishGloss": "a virtuous woman of a noble family."
+  },
+  {
+   "headword": "कुल्हड़",
+   "grammaticalTag": "m.",
+   "englishGloss": "a kind of fire-work."
+  },
+  {
+   "headword": "कुल्हिया",
+   "grammaticalTag": "f.",
+   "englishGloss": "a small cup."
+  },
+  {
+   "headword": "कुलक्षय",
+   "grammaticalTag": "m.",
+   "englishGloss": "an evil sign, ugliness."
+  },
+  {
+   "headword": "कुलांच",
+   "grammaticalTag": "f.",
+   "englishGloss": "a bound, leap, jump."
+  },
+  {
+   "headword": "कुलाचार",
+   "grammaticalTag": null,
+   "englishGloss": "see कुलधर्म."
+  },
+  {
+   "headword": "कुलाचार्य्य",
+   "grammaticalTag": "m.",
+   "englishGloss": "a family priest or registrar."
+  },
+  {
+   "headword": "कुलाल",
+   "grammaticalTag": "m.",
+   "englishGloss": "a potter."
+  },
+  {
+   "headword": "कुलाहल",
+   "grammaticalTag": "m.",
+   "englishGloss": "tumult, uproar."
+  },
+  {
+   "headword": "कुलीन",
+   "grammaticalTag": "adj.",
+   "englishGloss": "noble, well-born, gentle."
+  },
+  {
+   "headword": "कुलीनाई",
+   "grammaticalTag": "f.",
+   "englishGloss": "nobility, gentility."
+  },
+  {
+   "headword": "कुल्ला",
+   "grammaticalTag": "m.",
+   "englishGloss": "gargling, washing the mouth."
+  },
+  {
+   "headword": "कुल्ली",
+   "grammaticalTag": "f.",
+   "englishGloss": "a mouthful of any liquid, a gargle."
+  },
+  {
+   "headword": "कुल्हड़ा",
+   "grammaticalTag": "m.",
+   "englishGloss": "an earthen drinking vessel."
+  },
+  {
+   "headword": "कुल्हाड़ी",
+   "grammaticalTag": "f.",
+   "englishGloss": "an axe, hatchet."
+  },
+  {
+   "headword": "कुबेर",
+   "grammaticalTag": "m.",
+   "englishGloss": "the god of wealth."
+  },
+  {
+   "headword": "कुश",
+   "grammaticalTag": "m.",
+   "englishGloss": "sacred grass of the Hindus."
+  },
+  {
+   "headword": "कुशल",
+   "grammaticalTag": "m.",
+   "englishGloss": "welfare, happiness, health."
+  },
+  {
+   "headword": "कुशलता",
+   "grammaticalTag": "f.",
+   "englishGloss": "welfare, happiness, health."
+  },
+  {
+   "headword": "कुशासन",
+   "grammaticalTag": "m.",
+   "englishGloss": "a seat or mat made of kusha grass."
+  },
+  {
+   "headword": "कुशील",
+   "grammaticalTag": "adj.",
+   "englishGloss": "ill-behaved, rude, wicked."
+  },
+  {
+   "headword": "कुषीद",
+   "grammaticalTag": "m.",
+   "englishGloss": "usury, lending at interest."
+  },
+  {
+   "headword": "कुष्टी",
+   "grammaticalTag": "m.",
+   "englishGloss": "a leper, adj. leprous."
+  },
+  {
+   "headword": "कुष्ठ",
+   "grammaticalTag": "m.",
+   "englishGloss": "leprosy."
+  },
+  {
+   "headword": "कुष्माण्ड",
+   "grammaticalTag": "m.",
+   "englishGloss": "a gourd, a drug, a ceremony."
+  },
+  {
+   "headword": "कुसङ्ग",
+   "grammaticalTag": "m.",
+   "englishGloss": "bad company."
+  },
+  {
+   "headword": "कुसुम",
+   "grammaticalTag": "m.",
+   "englishGloss": "safflower, the menses."
+  },
+  {
+   "headword": "कुसुम्भा",
+   "grammaticalTag": "m.",
+   "englishGloss": "the dye of safflower."
+  },
+  {
+   "headword": "कुस्वप्न",
+   "grammaticalTag": "m.",
+   "englishGloss": "a bad dream, nightmare."
+  },
+  {
+   "headword": "कुहक",
+   "grammaticalTag": "m.",
+   "englishGloss": "sorcery, juggling."
+  },
+  {
+   "headword": "कुहर",
+   "grammaticalTag": "m.",
+   "englishGloss": "cave, cavern."
+  },
+  {
+   "headword": "कुहरा",
+   "grammaticalTag": "m.",
+   "englishGloss": "fog, mist."
+  },
+  {
+   "headword": "कुहराम",
+   "grammaticalTag": "m.",
+   "englishGloss": "weeping, lamentation."
+  },
+  {
+   "headword": "कुहासा",
+   "grammaticalTag": "m.",
+   "englishGloss": "fog, mist."
+  },
+  {
+   "headword": "कुही",
+   "grammaticalTag": "f.",
+   "englishGloss": "a species of hawk."
+  },
+  {
+   "headword": "कुहुक",
+   "grammaticalTag": "m.",
+   "englishGloss": "the note of the kokila."
+  },
+  {
+   "headword": "कुहुकना",
+   "grammaticalTag": "v.",
+   "englishGloss": "to imitate the note of the kokila, to cry out."
+  },
+  {
+   "headword": "कुक्षि",
+   "grammaticalTag": "m.",
+   "englishGloss": "the belly, abdomen, arm-pit."
+  },
+  {
+   "headword": "कुंआ",
+   "grammaticalTag": "m.",
+   "englishGloss": "a well."
+  },
+  {
+   "headword": "कुंआर",
+   "grammaticalTag": "m.",
+   "englishGloss": "the 7th Hindu month, Sep.-Oct."
+  },
+  {
+   "headword": "कुंच",
+   "grammaticalTag": "m.",
+   "englishGloss": "small seed used as a goldsmith's weight."
+  },
+  {
+   "headword": "कुंचा",
+   "grammaticalTag": "m.",
+   "englishGloss": "a sweeper's brush."
+  },
+  {
+   "headword": "कुंची",
+   "grammaticalTag": "f.",
+   "englishGloss": "a brush."
+  },
+  {
+   "headword": "कुकना",
+   "grammaticalTag": "adj.",
+   "englishGloss": "to sob, to cry, to wind up a watch."
+  },
+  {
+   "headword": "कूकर",
+   "grammaticalTag": "m.",
+   "englishGloss": "a dog."
+  },
+  {
+   "headword": "कूकरी",
+   "grammaticalTag": "f.",
+   "englishGloss": "a bundle of thread, maize."
+  },
+  {
+   "headword": "कूकू",
+   "grammaticalTag": "m.",
+   "englishGloss": "cooing, a dove."
+  },
+  {
+   "headword": "कूचिका",
+   "grammaticalTag": "f.",
+   "englishGloss": "a small brush, hair-pencil."
+  },
+  {
+   "headword": "कूचिया",
+   "grammaticalTag": "f.",
+   "englishGloss": "a small tamarind, lobe of the ear."
+  },
+  {
+   "headword": "कूट",
+   "grammaticalTag": "f.",
+   "englishGloss": "trick, deceit ; m. waste paper."
+  },
+  {
+   "headword": "कूटना",
+   "grammaticalTag": "v.",
+   "englishGloss": "to pound, to beat, to cudgel."
+  },
+  {
+   "headword": "कूटार्थ",
+   "grammaticalTag": "f.",
+   "englishGloss": "fiction, story, ambiguity."
+  },
+  {
+   "headword": "कूटू",
+   "grammaticalTag": "m.",
+   "englishGloss": "a kind of corn used by Hindus on fast days."
+  },
+  {
+   "headword": "कूठड़ा",
+   "grammaticalTag": "m.",
+   "englishGloss": "a tub, tray, plate."
+  },
+  {
+   "headword": "कूंड़",
+   "grammaticalTag": "m.",
+   "englishGloss": "a tub or bucket."
+  },
+  {
+   "headword": "कूड़ा",
+   "grammaticalTag": "m.",
+   "englishGloss": "sweepings, rubbish."
+  },
+  {
+   "headword": "कूड़ी",
+   "grammaticalTag": "f.",
+   "englishGloss": "a small stone mortar used by bhang-drinkers."
+  },
+  {
+   "headword": "कूढ़",
+   "grammaticalTag": "adj.",
+   "englishGloss": "foolish, stupid."
+  },
+  {
+   "headword": "कूत",
+   "grammaticalTag": "m.",
+   "englishGloss": "a survey, v. to guess, to estimate."
+  },
+  {
+   "headword": "कूतना",
+   "grammaticalTag": "v.",
+   "englishGloss": "to value, to appraise."
+  },
+  {
+   "headword": "कूथन",
+   "grammaticalTag": "adj.",
+   "englishGloss": "groaning, grunting."
+  },
+  {
+   "headword": "कूदना",
+   "grammaticalTag": "v.",
+   "englishGloss": "to leap, to bound, to jump."
+  },
+  {
+   "headword": "कूप",
+   "grammaticalTag": "m.",
+   "englishGloss": "a well, a hole, hollow."
+  },
+  {
+   "headword": "कूर",
+   "grammaticalTag": "adj.",
+   "englishGloss": "cruel, savage, pitiless."
+  },
+  {
+   "headword": "कूर्नी",
+   "grammaticalTag": "f.",
+   "englishGloss": "a large ladle, scoop."
+  },
+  {
+   "headword": "कूर्म्म",
+   "grammaticalTag": "m.",
+   "englishGloss": "a tortoise, turtle."
+  },
+  {
+   "headword": "कूल",
+   "grammaticalTag": "m.",
+   "englishGloss": "a bank, a shore, a heap, a mound."
+  },
+  {
+   "headword": "कूला",
+   "grammaticalTag": "m.",
+   "englishGloss": "the hip."
+  },
+  {
+   "headword": "कूली",
+   "grammaticalTag": "m.",
+   "englishGloss": "a labourer, carrier, cooly."
+  },
+  {
+   "headword": "कृकलास",
+   "grammaticalTag": "m.",
+   "englishGloss": "a lizard, a chameleon."
+  },
+  {
+   "headword": "कृत",
+   "grammaticalTag": "adj.",
+   "englishGloss": "done, made."
+  },
+  {
+   "headword": "कृतघ्न",
+   "grammaticalTag": "adj.",
+   "englishGloss": "ungrateful, unthankful."
+  },
+  {
+   "headword": "कृतज्ञ",
+   "grammaticalTag": "adj.",
+   "englishGloss": "grateful, thankful."
+  },
+  {
+   "headword": "कृतयुग",
+   "grammaticalTag": "m.",
+   "englishGloss": "the first-age, sat yug."
+  },
+  {
+   "headword": "कृताञ्जली",
+   "grammaticalTag": "adj.",
+   "englishGloss": "with the hands joined, supplicating."
+  },
+  {
+   "headword": "कृतान्त",
+   "grammaticalTag": "m.",
+   "englishGloss": "death, destruction, Yama."
+  },
+  {
+   "headword": "कृतार्थ",
+   "grammaticalTag": "adj.",
+   "englishGloss": "successful, prosperous."
+  },
+  {
+   "headword": "कृत्तिका",
+   "grammaticalTag": "n. f.",
+   "englishGloss": "the third lunar mansion."
+  },
+  {
+   "headword": "कृत्रिम",
+   "grammaticalTag": "adj.",
+   "englishGloss": "made, artificial."
+  },
+  {
+   "headword": "कृदन्त",
+   "grammaticalTag": "m.",
+   "englishGloss": "a part of grammar."
+  },
+  {
+   "headword": "कृपण",
+   "grammaticalTag": "adj.",
+   "englishGloss": "mean, miserly, stingy."
+  },
+  {
+   "headword": "कृपा",
+   "grammaticalTag": "f.",
+   "englishGloss": "favour, pity, mercy, bounty."
+  },
+  {
+   "headword": "कृपाण",
+   "grammaticalTag": "m.",
+   "englishGloss": "a sword, scimitar."
+  },
+  {
+   "headword": "कृपालु",
+   "grammaticalTag": "adj.",
+   "englishGloss": "merciful, compassionate, kind."
+  },
+  {
+   "headword": "कृमि",
+   "grammaticalTag": "m.",
+   "englishGloss": "a worm, insect in general."
+  },
+  {
+   "headword": "कृमिल",
+   "grammaticalTag": "adj.",
+   "englishGloss": "having worms, wormy."
+  },
+  {
+   "headword": "कृश",
+   "grammaticalTag": "adj.",
+   "englishGloss": "thin, spare, small."
+  },
+  {
+   "headword": "कृशाङ्गी",
+   "grammaticalTag": "f.",
+   "englishGloss": "a woman with a slender shape."
+  },
+  {
+   "headword": "कृशानु",
+   "grammaticalTag": "m.",
+   "englishGloss": "fire."
+  },
+  {
+   "headword": "कृषक",
+   "grammaticalTag": "m.",
+   "englishGloss": "a peasant, ploughman."
+  },
+  {
+   "headword": "कृषाण",
+   "grammaticalTag": "m.",
+   "englishGloss": "a peasant, ploughman."
+  },
+  {
+   "headword": "कृषि",
+   "grammaticalTag": "f.",
+   "englishGloss": "agriculture, farming."
+  },
+  {
+   "headword": "कृष्ण",
+   "grammaticalTag": "adj.",
+   "englishGloss": "black coloured, m. Krishn."
+  },
+  {
+   "headword": "कृष्णजीरा",
+   "grammaticalTag": "m.",
+   "englishGloss": "a small black seed used medicinally."
+  },
+  {
+   "headword": "कृष्णपक्ष",
+   "grammaticalTag": "m.",
+   "englishGloss": "the fortnight of the moon's wane."
+  },
+  {
+   "headword": "कृष्णलोह",
+   "grammaticalTag": "m.",
+   "englishGloss": "loadstone."
+  },
+  {
+   "headword": "कृष्णसार",
+   "grammaticalTag": "m.",
+   "englishGloss": "the black antelope."
+  },
+  {
+   "headword": "केंचुवा",
+   "grammaticalTag": "m.",
+   "englishGloss": "an earthworm, a worm in the stomach."
+  },
+  {
+   "headword": "केंचुली",
+   "grammaticalTag": "n. f.",
+   "englishGloss": "the slough (of a snake)."
+  },
+  {
+   "headword": "केंचुली छोड़ना",
+   "grammaticalTag": "v.",
+   "englishGloss": "to cast the old skin."
+  },
+  {
+   "headword": "केकड़ा",
+   "grammaticalTag": "m.",
+   "englishGloss": "a crab."
+  },
+  {
+   "headword": "केकर",
+   "grammaticalTag": "adj.",
+   "englishGloss": "squint-eyed."
+  },
+  {
+   "headword": "केका",
+   "grammaticalTag": "f.",
+   "englishGloss": "the cry of the peacock."
+  },
+  {
+   "headword": "केकी",
+   "grammaticalTag": "m.",
+   "englishGloss": "a peacock."
+  },
+  {
+   "headword": "केचित",
+   "grammaticalTag": "adj.",
+   "englishGloss": "some."
+  },
+  {
+   "headword": "केतकी",
+   "grammaticalTag": "n. f.",
+   "englishGloss": "a sweet-scented flower."
+  },
+  {
+   "headword": "केता",
+   "grammaticalTag": "adj.",
+   "englishGloss": "how much ? how many ?"
+  },
+  {
+   "headword": "केतिक",
+   "grammaticalTag": "adj.",
+   "englishGloss": "some, a few, a little."
+  },
+  {
+   "headword": "केतु",
+   "grammaticalTag": "m.",
+   "englishGloss": "the 9th planet in the Hindú system, a comet."
+  },
+  {
+   "headword": "केतुतारा",
+   "grammaticalTag": "f.",
+   "englishGloss": "a comet."
+  },
+  {
+   "headword": "केतुमाल",
+   "grammaticalTag": "m.",
+   "englishGloss": "one of the 9 divisions of the world."
+  },
+  {
+   "headword": "केतुरत्न",
+   "grammaticalTag": "n. m.",
+   "englishGloss": "lapis lazuli."
+  },
+  {
+   "headword": "केदार",
+   "grammaticalTag": "m.",
+   "englishGloss": "a field, a mountain."
+  },
+  {
+   "headword": "केन्दु",
+   "grammaticalTag": "m.",
+   "englishGloss": "a sort of ebony."
+  },
+  {
+   "headword": "केन्द्र",
+   "grammaticalTag": "n. v.",
+   "englishGloss": "the centre of a circle, the pole."
+  },
+  {
+   "headword": "केयूर",
+   "grammaticalTag": "m.",
+   "englishGloss": "a bracelet for the upper arm."
+  },
+  {
+   "headword": "केराया",
+   "grammaticalTag": "m.",
+   "englishGloss": "hire."
+  },
+  {
+   "headword": "केराया करना",
+   "grammaticalTag": "v. a.",
+   "englishGloss": "to rent, to hire."
+  },
+  {
+   "headword": "किराये की गाड़ी",
+   "grammaticalTag": "m.",
+   "englishGloss": "a hackney coach."
+  },
+  {
+   "headword": "केला",
+   "grammaticalTag": "m.",
+   "englishGloss": "a plantain tree and fruit."
+  },
+  {
+   "headword": "केलि",
+   "grammaticalTag": "f.",
+   "englishGloss": "play, sport, amorous dalliance."
+  },
+  {
+   "headword": "केवट",
+   "grammaticalTag": "m.",
+   "englishGloss": "a fisherman."
+  },
+  {
+   "headword": "केवटी",
+   "grammaticalTag": "n. f.",
+   "englishGloss": "different kinds of pulses mixed together."
+  },
+  {
+   "headword": "केवड़ा",
+   "grammaticalTag": "m.",
+   "englishGloss": "name of a plant or flower, strong-scented."
+  },
+  {
+   "headword": "केवल",
+   "grammaticalTag": "adj.",
+   "englishGloss": "one, alone, only, all, whole."
+  },
+  {
+   "headword": "केवली",
+   "grammaticalTag": "f.",
+   "englishGloss": "horoscope, nativity."
+  },
+  {
+   "headword": "केवांच",
+   "grammaticalTag": "f.",
+   "englishGloss": "cowitch, a vegetable."
+  },
+  {
+   "headword": "केवाड़",
+   "grammaticalTag": "m.",
+   "englishGloss": "a door, fold of a door."
+  },
+  {
+   "headword": "केश",
+   "grammaticalTag": "m.",
+   "englishGloss": "hair of the head, a cock's comb."
+  },
+  {
+   "headword": "केशरी",
+   "grammaticalTag": "m.",
+   "englishGloss": "lion."
+  },
+  {
+   "headword": "केशरिया",
+   "grammaticalTag": "f.",
+   "englishGloss": "a kind of yellow colour."
+  },
+  {
+   "headword": "केशाकेशी",
+   "grammaticalTag": "f.",
+   "englishGloss": "mutual pulling of hair."
+  },
+  {
+   "headword": "केशो",
+   "grammaticalTag": "f.",
+   "englishGloss": "a tuft of hair on the crown."
+  },
+  {
+   "headword": "केसर",
+   "grammaticalTag": "n. (m. f.)",
+   "englishGloss": "saffron."
+  },
+  {
+   "headword": "केसरी",
+   "grammaticalTag": "adj.",
+   "englishGloss": "dyed with saffron, yellow."
+  },
+  {
+   "headword": "केसरीबाना",
+   "grammaticalTag": "n. f.",
+   "englishGloss": "a yellow dress worn by ancient heroes in battle."
+  },
+  {
+   "headword": "केहरी",
+   "grammaticalTag": "m.",
+   "englishGloss": "a lion."
+  },
+  {
+   "headword": "कै",
+   "grammaticalTag": "adj.",
+   "englishGloss": "how many ?"
+  },
+  {
+   "headword": "केंचली",
+   "grammaticalTag": "f.",
+   "englishGloss": "the skin of a snake."
+  },
+  {
+   "headword": "कैंची",
+   "grammaticalTag": "f.",
+   "englishGloss": "scissors."
+  },
+  {
+   "headword": "कैत, कैथा",
+   "grammaticalTag": "n. m.",
+   "englishGloss": "a sort of wood apple."
+  },
+  {
+   "headword": "कैतव",
+   "grammaticalTag": "m.",
+   "englishGloss": "deceit, deception, illusion."
+  },
+  {
+   "headword": "कैथी",
+   "grammaticalTag": "f.",
+   "englishGloss": "the type of Hindi characters used by Kayasths."
+  },
+  {
+   "headword": "कैरी",
+   "grammaticalTag": "f.",
+   "englishGloss": "an unripe mango."
+  },
+  {
+   "headword": "कैल",
+   "grammaticalTag": "f.",
+   "englishGloss": "a sprout, a shoot."
+  },
+  {
+   "headword": "कैलास",
+   "grammaticalTag": "m.",
+   "englishGloss": "a fabulous mountain."
+  },
+  {
+   "headword": "कैवर्त्त",
+   "grammaticalTag": "m.",
+   "englishGloss": "a fisherman."
+  },
+  {
+   "headword": "कैवल्य",
+   "grammaticalTag": "m.",
+   "englishGloss": "emancipation, future bliss."
+  },
+  {
+   "headword": "कैसा",
+   "grammaticalTag": "adv.",
+   "englishGloss": "how? in what why? like what?"
+  },
+  {
+   "headword": "कैसी",
+   "grammaticalTag": "adv.",
+   "englishGloss": "how? in what why? like what?"
+  },
+  {
+   "headword": "कैसे हो",
+   "grammaticalTag": "intj.",
+   "englishGloss": "how are you ?"
+  },
+  {
+   "headword": "कोई",
+   "grammaticalTag": "pron.",
+   "englishGloss": "any, any one, some one."
+  },
+  {
+   "headword": "कोंचना",
+   "grammaticalTag": "v.",
+   "englishGloss": "to prick, to pierce, to stab."
+  },
+  {
+   "headword": "कोंढ़ा",
+   "grammaticalTag": "m.",
+   "englishGloss": "a gourd, sweet pumpkin."
+  },
+  {
+   "headword": "कोंपल",
+   "grammaticalTag": "f.",
+   "englishGloss": "a shoot, a bud."
+  },
+  {
+   "headword": "कोका",
+   "grammaticalTag": "m.",
+   "englishGloss": "a foster brother, a nail, tack, a lotus."
+  },
+  {
+   "headword": "कोकिल",
+   "grammaticalTag": "m.",
+   "englishGloss": "the Indian cuckoo."
+  },
+  {
+   "headword": "कोकिलबैनी",
+   "grammaticalTag": "n. f.",
+   "englishGloss": "a woman speaking like a kokil, eloquent."
+  },
+  {
+   "headword": "कोख",
+   "grammaticalTag": "f.",
+   "englishGloss": "the womb, the abdomen."
+  },
+  {
+   "headword": "कोख की आंच",
+   "grammaticalTag": "f.",
+   "englishGloss": "maternal love."
+  },
+  {
+   "headword": "कोख खुलना",
+   "grammaticalTag": "v.",
+   "englishGloss": "to give birth to a child, to have a child, to lose barrenness."
+  },
+  {
+   "headword": "कोखबन्ध",
+   "grammaticalTag": "adj.",
+   "englishGloss": "barren."
+  },
+  {
+   "headword": "कोख मारीजाना",
+   "grammaticalTag": "v.",
+   "englishGloss": "to become barren."
+  },
+  {
+   "headword": "कोचना",
+   "grammaticalTag": "v. a.",
+   "englishGloss": "to prick, to thrust."
+  },
+  {
+   "headword": "कोजागरी",
+   "grammaticalTag": "m.",
+   "englishGloss": "the day of full moon in the month Aswin."
+  },
+  {
+   "headword": "कोट",
+   "grammaticalTag": "m.",
+   "englishGloss": "a fort, stronghold, castle."
+  },
+  {
+   "headword": "कोटर",
+   "grammaticalTag": "m.",
+   "englishGloss": "a kind of vegetable."
+  },
+  {
+   "headword": "कोटि",
+   "grammaticalTag": "adj.",
+   "englishGloss": "ten millions."
+  },
+  {
+   "headword": "कोठरी",
+   "grammaticalTag": "f.",
+   "englishGloss": "a room, apartment."
+  },
+  {
+   "headword": "कोठा",
+   "grammaticalTag": "m.",
+   "englishGloss": "a house, a story, a floor."
+  },
+  {
+   "headword": "कोठी",
+   "grammaticalTag": "f.",
+   "englishGloss": "a small brick house, a bank."
+  },
+  {
+   "headword": "कोड़ना",
+   "grammaticalTag": "v.",
+   "englishGloss": "to dig out, to excavate."
+  },
+  {
+   "headword": "कोड़ा",
+   "grammaticalTag": "m.",
+   "englishGloss": "a whip, lash."
+  },
+  {
+   "headword": "कोड़ी",
+   "grammaticalTag": "f.",
+   "englishGloss": "a score, twenty."
+  },
+  {
+   "headword": "कोढ़",
+   "grammaticalTag": "m.",
+   "englishGloss": "the leprosy."
+  },
+  {
+   "headword": "कोढ़ी",
+   "grammaticalTag": "m.",
+   "englishGloss": "a leper."
+  },
+  {
+   "headword": "कोण",
+   "grammaticalTag": "m.",
+   "englishGloss": "a corner, angle."
+  },
+  {
+   "headword": "कोतल",
+   "grammaticalTag": "m.",
+   "englishGloss": "a led horse."
+  },
+  {
+   "headword": "कोथली",
+   "grammaticalTag": "f.",
+   "englishGloss": "a purse, small bag."
+  },
+  {
+   "headword": "कोदो",
+   "grammaticalTag": "m.",
+   "englishGloss": "a kind of grain."
+  },
+  {
+   "headword": "कोदो दरना छातीपर",
+   "grammaticalTag": "v.",
+   "englishGloss": "to oppress, to treat cruelly."
+  },
+  {
+   "headword": "कोना",
+   "grammaticalTag": "m.",
+   "englishGloss": "a corner, angle."
+  },
+  {
+   "headword": "कोन्त",
+   "grammaticalTag": "f.",
+   "englishGloss": "a spear."
+  },
+  {
+   "headword": "कोप",
+   "grammaticalTag": "m.",
+   "englishGloss": "anger, wrath, passion."
+  },
+  {
+   "headword": "कोपी",
+   "grammaticalTag": "adj.",
+   "englishGloss": "angry, passionate."
+  },
+  {
+   "headword": "कोपीन",
+   "grammaticalTag": "f.",
+   "englishGloss": "a cloth worn between the legs."
+  },
+  {
+   "headword": "कोबी",
+   "grammaticalTag": "f.",
+   "englishGloss": "a cabbage."
+  },
+  {
+   "headword": "कोमल",
+   "grammaticalTag": "adj.",
+   "englishGloss": "soft, tender, mild, placid."
+  },
+  {
+   "headword": "कोयला",
+   "grammaticalTag": null,
+   "englishGloss": "see कोना."
+  },
+  {
+   "headword": "कोयरी",
+   "grammaticalTag": "m.",
+   "englishGloss": "a Hindú caste whose profession is husbandry."
+  },
+  {
+   "headword": "कोयल",
+   "grammaticalTag": null,
+   "englishGloss": "see कोकिल."
+  },
+  {
+   "headword": "कोयला",
+   "grammaticalTag": "m.",
+   "englishGloss": "charcoal."
+  },
+  {
+   "headword": "कोया",
+   "grammaticalTag": "m.",
+   "englishGloss": "corner of the eye, the eye of the jack fruit, the cocoon of the silkworm."
+  },
+  {
+   "headword": "कोर",
+   "grammaticalTag": "f.",
+   "englishGloss": "edge, border, margin."
+  },
+  {
+   "headword": "कोरक",
+   "grammaticalTag": "m.",
+   "englishGloss": "a bud, unblown flower."
+  },
+  {
+   "headword": "कोरहो",
+   "grammaticalTag": "f.",
+   "englishGloss": "small cardamums."
+  },
+  {
+   "headword": "कोरा",
+   "grammaticalTag": "m.",
+   "englishGloss": "new, unused cloth ; adj. untaught."
+  },
+  {
+   "headword": "कोराबचना",
+   "grammaticalTag": "v.",
+   "englishGloss": "to escape unhurt."
+  },
+  {
+   "headword": "कोल",
+   "grammaticalTag": "m.",
+   "englishGloss": "a creek, a bay, a tribe of hill men."
+  },
+  {
+   "headword": "कोला",
+   "grammaticalTag": "m.",
+   "englishGloss": "a jackal."
+  },
+  {
+   "headword": "कोलाहल",
+   "grammaticalTag": "m.",
+   "englishGloss": "tumult, uproar."
+  },
+  {
+   "headword": "कोलियाना",
+   "grammaticalTag": "v.",
+   "englishGloss": "to embrace, to take in the lap."
+  },
+  {
+   "headword": "कोली",
+   "grammaticalTag": "m.",
+   "englishGloss": "a weaver."
+  },
+  {
+   "headword": "कोल्हू",
+   "grammaticalTag": "m.",
+   "englishGloss": "an oilman's press, a sugar mill."
+  },
+  {
+   "headword": "कोल्हू में पेरवाना",
+   "grammaticalTag": "v. a.",
+   "englishGloss": "to crush in a mill."
+  },
+  {
+   "headword": "कोविद",
+   "grammaticalTag": "m.",
+   "englishGloss": "a poet, learned man."
+  },
+  {
+   "headword": "कोश",
+   "grammaticalTag": "m.",
+   "englishGloss": "end of a sleeve, a cuff."
+  },
+  {
+   "headword": "कोसना",
+   "grammaticalTag": "v.",
+   "englishGloss": "to curse."
+  },
+  {
+   "headword": "कोशला",
+   "grammaticalTag": "f.",
+   "englishGloss": "the modern Oudh."
+  },
+  {
+   "headword": "कोष",
+   "grammaticalTag": "m.",
+   "englishGloss": "a sheath, a scabbard, a dictionary."
+  },
+  {
+   "headword": "कोष्ठ",
+   "grammaticalTag": "m.",
+   "englishGloss": "a granary, an apartment, ordure."
+  },
+  {
+   "headword": "कोस",
+   "grammaticalTag": "m.",
+   "englishGloss": "a measure of distance, two miles."
+  },
+  {
+   "headword": "कोसली",
+   "grammaticalTag": "m.",
+   "englishGloss": "young sprouting leaves."
+  },
+  {
+   "headword": "कोसा",
+   "grammaticalTag": "m.",
+   "englishGloss": "curse, malediction."
+  },
+  {
+   "headword": "कोहनी",
+   "grammaticalTag": "f.",
+   "englishGloss": "the elbow."
+  },
+  {
+   "headword": "कोहरा",
+   "grammaticalTag": "f.",
+   "englishGloss": "a fog, mist."
+  },
+  {
+   "headword": "कोंचा",
+   "grammaticalTag": "m.",
+   "englishGloss": "the iron hook of a grain parcher."
+  },
+  {
+   "headword": "कौंध",
+   "grammaticalTag": "f.",
+   "englishGloss": "splendour, brightness."
+  },
+  {
+   "headword": "कौंधना",
+   "grammaticalTag": "v.",
+   "englishGloss": "to lighten, to flash."
+  },
+  {
+   "headword": "कौंधा",
+   "grammaticalTag": "m.",
+   "englishGloss": "lightning."
+  },
+  {
+   "headword": "कौँला",
+   "grammaticalTag": "m.",
+   "englishGloss": "a kind of orange."
+  },
+  {
+   "headword": "कौड़ा",
+   "grammaticalTag": "m.",
+   "englishGloss": "a kind of large shell."
+  },
+  {
+   "headword": "कौड़ियाला",
+   "grammaticalTag": "m.",
+   "englishGloss": "a kind of snake, a rich man."
+  },
+  {
+   "headword": "कौड़ी",
+   "grammaticalTag": "f.",
+   "englishGloss": "a small shell used as a coin, money, fare, hire."
+  },
+  {
+   "headword": "कौड़ी के तीन होना",
+   "grammaticalTag": "v.",
+   "englishGloss": "to be held very cheap."
+  },
+  {
+   "headword": "दो कौड़ी का",
+   "grammaticalTag": "adj.",
+   "englishGloss": "worthless."
+  },
+  {
+   "headword": "कौड़ी को तंग होना",
+   "grammaticalTag": "v.",
+   "englishGloss": "to be reduced to beggary."
+  },
+  {
+   "headword": "कौड़ी को न पूछना",
+   "grammaticalTag": "v.",
+   "englishGloss": "to set not even a kauri's value on a thing."
+  },
+  {
+   "headword": "कौड़ी कौड़ी जोड़ना",
+   "grammaticalTag": "v.",
+   "englishGloss": "to save up every farthing."
+  },
+  {
+   "headword": "कौड़ी कौड़ी लेना",
+   "grammaticalTag": "v. a.",
+   "englishGloss": "to exact every farthing, to be paid in full."
+  },
+  {
+   "headword": "कौड़ीभर",
+   "grammaticalTag": "adj.",
+   "englishGloss": "a little, very little."
+  },
+  {
+   "headword": "कौड़ियों के मोल",
+   "grammaticalTag": "adj.",
+   "englishGloss": "very cheap."
+  },
+  {
+   "headword": "कौतुक",
+   "grammaticalTag": "m.",
+   "englishGloss": "joy, happiness, sport, trick, play."
+  },
+  {
+   "headword": "कोतुकी",
+   "grammaticalTag": "n. m.",
+   "englishGloss": "a trickster, one who performs anticks for diversion."
+  },
+  {
+   "headword": "कौन",
+   "grammaticalTag": "pron.",
+   "englishGloss": "who? which? what?"
+  },
+  {
+   "headword": "कोपीन",
+   "grammaticalTag": "m.",
+   "englishGloss": "a cloth worn to hide the private parts."
+  },
+  {
+   "headword": "कोमार",
+   "grammaticalTag": "m.",
+   "englishGloss": "youth, childhood."
+  },
+  {
+   "headword": "कौमुदी",
+   "grammaticalTag": "f.",
+   "englishGloss": "moonlight."
+  },
+  {
+   "headword": "कौर",
+   "grammaticalTag": "m.",
+   "englishGloss": "mouthful."
+  },
+  {
+   "headword": "कौरव",
+   "grammaticalTag": "m.",
+   "englishGloss": "a descendant of Kuru."
+  },
+  {
+   "headword": "कौल",
+   "grammaticalTag": "adj.",
+   "englishGloss": "of good family, well-born."
+  },
+  {
+   "headword": "कोला",
+   "grammaticalTag": "m.",
+   "englishGloss": "a superior kind of orange, corner, side, embrace, bosom."
+  },
+  {
+   "headword": "कोलिक",
+   "grammaticalTag": "adj.",
+   "englishGloss": "ancestral."
+  },
+  {
+   "headword": "कोली",
+   "grammaticalTag": "f.",
+   "englishGloss": "embrace, grasp of the arms."
+  },
+  {
+   "headword": "कोवा",
+   "grammaticalTag": "m.",
+   "englishGloss": "a crow."
+  },
+  {
+   "headword": "कोशल",
+   "grammaticalTag": "m.",
+   "englishGloss": "happiness, welfare."
+  },
+  {
+   "headword": "कौशली",
+   "grammaticalTag": "f.",
+   "englishGloss": "greeting, salutation."
+  },
+  {
+   "headword": "कौशल्य",
+   "grammaticalTag": "m.",
+   "englishGloss": "good fortune, well-being."
+  },
+  {
+   "headword": "कौशिकी",
+   "grammaticalTag": "f.",
+   "englishGloss": "name of a river."
+  },
+  {
+   "headword": "कोशेय",
+   "grammaticalTag": "adj.",
+   "englishGloss": "silken, of silk."
+  },
+  {
+   "headword": "कौस्तुभ",
+   "grammaticalTag": "m.",
+   "englishGloss": "the jewel of Krishna."
+  },
+  {
+   "headword": "क्या",
+   "grammaticalTag": "adv.",
+   "englishGloss": "what? why?"
+  },
+  {
+   "headword": "क्या जाने",
+   "grammaticalTag": "intj.",
+   "englishGloss": "who knows!"
+  },
+  {
+   "headword": "क्यारी",
+   "grammaticalTag": null,
+   "englishGloss": "see कियारी."
+  },
+  {
+   "headword": "क्या है",
+   "grammaticalTag": "intj.",
+   "englishGloss": "what is the matter?"
+  },
+  {
+   "headword": "क्या हुआ",
+   "grammaticalTag": "intj.",
+   "englishGloss": "what has happened? what is the matter? no wonder."
+  },
+  {
+   "headword": "क्यों",
+   "grammaticalTag": "adv.",
+   "englishGloss": "why? wherefore? how?"
+  },
+  {
+   "headword": "क्योंकर",
+   "grammaticalTag": "adj.",
+   "englishGloss": "how? why?"
+  },
+  {
+   "headword": "क्योंकि",
+   "grammaticalTag": "conj.",
+   "englishGloss": "because, that."
+  },
+  {
+   "headword": "क्रकच",
+   "grammaticalTag": "m.",
+   "englishGloss": "a saw."
+  },
+  {
+   "headword": "क्रन्दन",
+   "grammaticalTag": "m.",
+   "englishGloss": "weeping, lamenting."
+  },
+  {
+   "headword": "क्रम",
+   "grammaticalTag": "m.",
+   "englishGloss": "order, method."
+  },
+  {
+   "headword": "क्रमशः",
+   "grammaticalTag": "adv.",
+   "englishGloss": "in order, slowly, gradually."
+  },
+  {
+   "headword": "क्रय",
+   "grammaticalTag": "m.",
+   "englishGloss": "buying, purchase."
+  },
+  {
+   "headword": "क्रयविक्रय",
+   "grammaticalTag": "m.",
+   "englishGloss": "trade, traffic, buying and selling."
+  },
+  {
+   "headword": "क्रान्त",
+   "grammaticalTag": "adj.",
+   "englishGloss": "gone, passed over."
+  },
+  {
+   "headword": "क्रान्ति",
+   "grammaticalTag": "f.",
+   "englishGloss": "ascending, excelling, the ecliptic."
+  },
+  {
+   "headword": "क्रान्तिवृत्ति",
+   "grammaticalTag": "m.",
+   "englishGloss": "the ecliptic."
+  },
+  {
+   "headword": "क्रिया",
+   "grammaticalTag": "f.",
+   "englishGloss": "a deed, act, a verb."
+  },
+  {
+   "headword": "क्रीड़ा",
+   "grammaticalTag": "f.",
+   "englishGloss": "sport, play, game."
+  },
+  {
+   "headword": "क्रीत",
+   "grammaticalTag": "adj.",
+   "englishGloss": "bought, purchased."
+  },
+  {
+   "headword": "क्रुद्ध",
+   "grammaticalTag": "adj.",
+   "englishGloss": "angry, impassioned."
+  },
+  {
+   "headword": "क्रूर",
+   "grammaticalTag": "adj.",
+   "englishGloss": "cruel, pitiless, heartless."
+  },
+  {
+   "headword": "क्रोड",
+   "grammaticalTag": "m.",
+   "englishGloss": "the bosom, embrace, lap."
+  },
+  {
+   "headword": "क्रोडपत्र",
+   "grammaticalTag": "m.",
+   "englishGloss": "a postscript, codicil."
+  },
+  {
+   "headword": "क्रोध",
+   "grammaticalTag": "m.",
+   "englishGloss": "anger, rage, passion."
+  },
+  {
+   "headword": "क्रोधी",
+   "grammaticalTag": "adj.",
+   "englishGloss": "angry, wrathful."
+  },
+  {
+   "headword": "क्रोश",
+   "grammaticalTag": "m.",
+   "englishGloss": "a measure of distance, a kos."
+  },
+  {
+   "headword": "क्रौञ्च",
+   "grammaticalTag": "m.",
+   "englishGloss": "one of the principal divisions of the world."
+  },
+  {
+   "headword": "क्रान्त",
+   "grammaticalTag": "adj.",
+   "englishGloss": "wearied, depressed."
+  },
+  {
+   "headword": "क्रान्ति",
+   "grammaticalTag": "f.",
+   "englishGloss": "fatigue, weariness."
+  },
+  {
+   "headword": "क्लिष्ट",
+   "grammaticalTag": "adj.",
+   "englishGloss": "distressed, afflicted, wearied."
+  },
+  {
+   "headword": "क्लीब",
+   "grammaticalTag": "m.",
+   "englishGloss": "the neuter gender, an eunuch."
+  },
+  {
+   "headword": "क्लेद",
+   "grammaticalTag": "m.",
+   "englishGloss": "wetness, moisture, dampness."
+  },
+  {
+   "headword": "क्लेश",
+   "grammaticalTag": "m.",
+   "englishGloss": "pain, trouble, distress."
+  },
+  {
+   "headword": "क्वचित",
+   "grammaticalTag": "adv.",
+   "englishGloss": "somewhere, seldom, rarely."
+  },
+  {
+   "headword": "क्वाथ",
+   "grammaticalTag": "m.",
+   "englishGloss": "a decoction, extract, resin."
+  },
+  {
+   "headword": "ख",
+   "grammaticalTag": null,
+   "englishGloss": "the 2nd Nágari consonant; m. sky, atmosphere."
+  },
+  {
+   "headword": "खई",
+   "grammaticalTag": "f.",
+   "englishGloss": "parched or fried grain."
+  },
+  {
+   "headword": "खंडला",
+   "grammaticalTag": "n. m.",
+   "englishGloss": "a piece, slice."
+  },
+  {
+   "headword": "खंडहर",
+   "grammaticalTag": "n. m.",
+   "englishGloss": "a tumble-down building, a ruin."
+  },
+  {
+   "headword": "खखोरना",
+   "grammaticalTag": "v.",
+   "englishGloss": "to dig out, to hollow, to excavate."
+  },
+  {
+   "headword": "खग",
+   "grammaticalTag": "m.",
+   "englishGloss": "a bird, air, wind."
+  },
+  {
+   "headword": "खगोल",
+   "grammaticalTag": "m.",
+   "englishGloss": "the planisphere, starry heavens."
+  },
+  {
+   "headword": "खङ्कड़",
+   "grammaticalTag": "n. m.",
+   "englishGloss": "a skeleton; adj. dried up, hard."
+  },
+  {
+   "headword": "खङ्गर",
+   "grammaticalTag": "m.",
+   "englishGloss": "vitrified bricks."
+  },
+  {
+   "headword": "खङ्गार",
+   "grammaticalTag": "m.",
+   "englishGloss": "spittle, phlegm."
+  },
+  {
+   "headword": "खङ्गालना",
+   "grammaticalTag": "v.",
+   "englishGloss": "to wash, to rinse."
+  },
+  {
+   "headword": "खडतेल",
+   "grammaticalTag": "adj.",
+   "englishGloss": "tusked, having long teeth."
+  },
+  {
+   "headword": "खचना",
+   "grammaticalTag": "v.",
+   "englishGloss": "to be set as a stone."
+  },
+  {
+   "headword": "खच्चर",
+   "grammaticalTag": "m.",
+   "englishGloss": "cloud."
+  },
+  {
+   "headword": "खच्चर",
+   "grammaticalTag": "m.",
+   "englishGloss": "a mule."
+  },
+  {
+   "headword": "खचा",
+   "grammaticalTag": "v.",
+   "englishGloss": "to set as a stone or jewel."
+  },
+  {
+   "headword": "खचाखच",
+   "grammaticalTag": "adj.",
+   "englishGloss": "crowded, crammed."
+  },
+  {
+   "headword": "खजरा",
+   "grammaticalTag": "m.",
+   "englishGloss": "the ridge of a house."
+  },
+  {
+   "headword": "खजूर",
+   "grammaticalTag": "m.",
+   "englishGloss": "a date, date-tree."
+  },
+  {
+   "headword": "खजुरा",
+   "grammaticalTag": "m.",
+   "englishGloss": "a centipede."
+  },
+  {
+   "headword": "खञ्ज",
+   "grammaticalTag": "adj.",
+   "englishGloss": "lame, crippled."
+  },
+  {
+   "headword": "खञ्जन",
+   "grammaticalTag": "m.",
+   "englishGloss": "the wagtail."
+  },
+  {
+   "headword": "खञ्जर",
+   "grammaticalTag": "f.",
+   "englishGloss": "a kind of dagger."
+  },
+  {
+   "headword": "खञ्जरी",
+   "grammaticalTag": "f.",
+   "englishGloss": "a small tambourine, timbrel."
+  },
+  {
+   "headword": "खञ्जरीट",
+   "grammaticalTag": "m.",
+   "englishGloss": "the wagtail."
+  },
+  {
+   "headword": "खट",
+   "grammaticalTag": "adj.",
+   "englishGloss": "six, f. phlegm, a sound."
+  },
+  {
+   "headword": "खटक",
+   "grammaticalTag": "m.",
+   "englishGloss": "doubt, suspicion."
+  },
+  {
+   "headword": "खटकना",
+   "grammaticalTag": "v.",
+   "englishGloss": "to doubt, to wrangle, to offend."
+  },
+  {
+   "headword": "खटका",
+   "grammaticalTag": "m.",
+   "englishGloss": "doubt, uncertainty."
+  },
+  {
+   "headword": "खटकाना",
+   "grammaticalTag": "m.",
+   "englishGloss": "rapping, thumping."
+  },
+  {
+   "headword": "खटखट",
+   "grammaticalTag": "n. f.",
+   "englishGloss": "pat a-tat-tap noise, sound, adj. difficult, perplexing."
+  },
+  {
+   "headword": "खटखट करना",
+   "grammaticalTag": "v.",
+   "englishGloss": "to make a rattling noise."
+  },
+  {
+   "headword": "खट खटाना",
+   "grammaticalTag": "v.",
+   "englishGloss": "to knock, to rap, to tap."
+  },
+  {
+   "headword": "खटछप्पर",
+   "grammaticalTag": "m.",
+   "englishGloss": "a curtained bedstead."
+  },
+  {
+   "headword": "खटना",
+   "grammaticalTag": "v.",
+   "englishGloss": "to last."
+  },
+  {
+   "headword": "खटपट",
+   "grammaticalTag": "f.",
+   "englishGloss": "wrangling, quarrel, contention."
+  },
+  {
+   "headword": "खटमल",
+   "grammaticalTag": "m.",
+   "englishGloss": "a bug."
+  },
+  {
+   "headword": "खटराग",
+   "grammaticalTag": "adj.",
+   "englishGloss": "wrangling, singing discordantly."
+  },
+  {
+   "headword": "खटवा",
+   "grammaticalTag": "f.",
+   "englishGloss": "a bedstead."
+  },
+  {
+   "headword": "खटवारा",
+   "grammaticalTag": "m.",
+   "englishGloss": "a dunghill."
+  },
+  {
+   "headword": "खटाई",
+   "grammaticalTag": "f.",
+   "englishGloss": "acidity, sourness."
+  },
+  {
+   "headword": "खटाका",
+   "grammaticalTag": "m.",
+   "englishGloss": "a crash."
+  },
+  {
+   "headword": "खटापटी",
+   "grammaticalTag": "f.",
+   "englishGloss": "wrangling."
+  },
+  {
+   "headword": "खटाव",
+   "grammaticalTag": "m.",
+   "englishGloss": "a post to which boats are fastened."
+  },
+  {
+   "headword": "खटास",
+   "grammaticalTag": "m.",
+   "englishGloss": "a polecat."
+  },
+  {
+   "headword": "खटिया",
+   "grammaticalTag": "f.",
+   "englishGloss": "a bedstead, bier."
+  },
+  {
+   "headword": "खटिया पड़ना",
+   "grammaticalTag": "v.",
+   "englishGloss": "to be confined to one's bed."
+  },
+  {
+   "headword": "खटिया सेना",
+   "grammaticalTag": "v.",
+   "englishGloss": "to be confined to one's bed."
+  },
+  {
+   "headword": "खटिया से लग जाना",
+   "grammaticalTag": "v.",
+   "englishGloss": "to be bedridden."
+  },
+  {
+   "headword": "खटीक",
+   "grammaticalTag": "m.",
+   "englishGloss": "one who lives by killing and selling game."
+  },
+  {
+   "headword": "खटोला",
+   "grammaticalTag": "m.",
+   "englishGloss": "a small bedstead."
+  },
+  {
+   "headword": "खट्टा",
+   "grammaticalTag": "adj.",
+   "englishGloss": "acid, sour."
+  },
+  {
+   "headword": "खट्टाचुङ्",
+   "grammaticalTag": "adj.",
+   "englishGloss": "very sour."
+  },
+  {
+   "headword": "जी खट्टा होना",
+   "grammaticalTag": "v.",
+   "englishGloss": "to be soured, to be offended, to be displeased."
+  },
+  {
+   "headword": "खटिक",
+   "grammaticalTag": null,
+   "englishGloss": "see खटीक."
+  },
+  {
+   "headword": "खाटू",
+   "grammaticalTag": "m.",
+   "englishGloss": "a labourer."
+  },
+  {
+   "headword": "खटवा",
+   "grammaticalTag": "f.",
+   "englishGloss": "a bedstead."
+  },
+  {
+   "headword": "खड़",
+   "grammaticalTag": "f.",
+   "englishGloss": "straw, stubble."
+  },
+  {
+   "headword": "खाड़क",
+   "grammaticalTag": "f.",
+   "englishGloss": "a cow-shed."
+  },
+  {
+   "headword": "खड़कना",
+   "grammaticalTag": "v.",
+   "englishGloss": "to rustle, to rattle."
+  },
+  {
+   "headword": "खड़खड़ाना",
+   "grammaticalTag": "v.",
+   "englishGloss": "to creak, to clatter, to rattle."
+  },
+  {
+   "headword": "खड़खड़िया",
+   "grammaticalTag": "adj.",
+   "englishGloss": "gnashing, grinding the teeth ; f. a palki."
+  },
+  {
+   "headword": "खड़बड़",
+   "grammaticalTag": "n. f.",
+   "englishGloss": "clatter, clash."
+  },
+  {
+   "headword": "खड़सान",
+   "grammaticalTag": "m.",
+   "englishGloss": "a whetstone, grindstone."
+  },
+  {
+   "headword": "खड़ा",
+   "grammaticalTag": "adj.",
+   "englishGloss": "erect, standing up, steep, high."
+  },
+  {
+   "headword": "खड़ाऊं",
+   "grammaticalTag": "m.",
+   "englishGloss": "wooden pattens."
+  },
+  {
+   "headword": "खड़ा करना",
+   "grammaticalTag": "v. a.",
+   "englishGloss": "to set up, to station, to place, to stop, to establish."
+  },
+  {
+   "headword": "खड़िया",
+   "grammaticalTag": "f.",
+   "englishGloss": "chalk."
+  },
+  {
+   "headword": "खडुमरा",
+   "grammaticalTag": "m.",
+   "englishGloss": "a bracelet for the wrist."
+  },
+  {
+   "headword": "खड़ेखड़े",
+   "grammaticalTag": "adv.",
+   "englishGloss": "soon, instantly, presently."
+  },
+  {
+   "headword": "खड्ग",
+   "grammaticalTag": "f.",
+   "englishGloss": "a sword."
+  },
+  {
+   "headword": "खण्ड",
+   "grammaticalTag": "m.",
+   "englishGloss": "a division, piece, part, side, quarter, sugar."
+  },
+  {
+   "headword": "खण्डखण्ड",
+   "grammaticalTag": "adv.",
+   "englishGloss": "in pieces, piece by piece."
+  },
+  {
+   "headword": "खण्डन",
+   "grammaticalTag": "adj.",
+   "englishGloss": "dividing, breaking; m. refutation."
+  },
+  {
+   "headword": "खण्डना",
+   "grammaticalTag": "v.",
+   "englishGloss": "to refute."
+  },
+  {
+   "headword": "खण्डित",
+   "grammaticalTag": "adj.",
+   "englishGloss": "broken, destroyed, refuted."
+  },
+  {
+   "headword": "खण्डिता",
+   "grammaticalTag": "f.",
+   "englishGloss": "an abusive woman."
+  },
+  {
+   "headword": "खतराणी",
+   "grammaticalTag": "f.",
+   "englishGloss": "the wife of a Khatri."
+  },
+  {
+   "headword": "खतान",
+   "grammaticalTag": "f.",
+   "englishGloss": "reckoning, accounts."
+  },
+  {
+   "headword": "खतियान",
+   "grammaticalTag": "f.",
+   "englishGloss": "an account book, ledger."
+  },
+  {
+   "headword": "खतियाना",
+   "grammaticalTag": "v. a.",
+   "englishGloss": "to enter in the ledger."
+  },
+  {
+   "headword": "खतौनी",
+   "grammaticalTag": "n. f.",
+   "englishGloss": "an account of the total village lands with particulars of their distribution."
+  },
+  {
+   "headword": "खत्ता",
+   "grammaticalTag": "m.",
+   "englishGloss": "a grain-pit, large hole in the ground in which grain is kept."
+  },
+  {
+   "headword": "खत्री",
+   "grammaticalTag": null,
+   "englishGloss": "see क्षत्री."
+  },
+  {
+   "headword": "खदबद",
+   "grammaticalTag": "n. f.",
+   "englishGloss": "the bubbling sound of a pot on the fire."
+  },
+  {
+   "headword": "खदिर",
+   "grammaticalTag": "m.",
+   "englishGloss": "a resinous tree."
+  },
+  {
+   "headword": "खदेड़",
+   "grammaticalTag": "f.",
+   "englishGloss": "pursuit, chase."
+  },
+  {
+   "headword": "खदेड़ना",
+   "grammaticalTag": "v. a.",
+   "englishGloss": "to drive out."
+  },
+  {
+   "headword": "खद्योत",
+   "grammaticalTag": "f.",
+   "englishGloss": "the sun, a fire-fly."
+  },
+  {
+   "headword": "खन",
+   "grammaticalTag": "m.",
+   "englishGloss": "a story, set of rooms, a mine."
+  },
+  {
+   "headword": "खनकना",
+   "grammaticalTag": "v.",
+   "englishGloss": "to jingle, to ring."
+  },
+  {
+   "headword": "खनकाना",
+   "grammaticalTag": "v. a.",
+   "englishGloss": "to chink."
+  },
+  {
+   "headword": "खन्दाना",
+   "grammaticalTag": "m.",
+   "englishGloss": "a pit from which earth for bricks. etc. is dug."
+  },
+  {
+   "headword": "खपटा",
+   "grammaticalTag": "m.",
+   "englishGloss": "a broken tile."
+  },
+  {
+   "headword": "खपत",
+   "grammaticalTag": "f.",
+   "englishGloss": "vent, sale."
+  },
+  {
+   "headword": "खपती",
+   "grammaticalTag": "f.",
+   "englishGloss": "vent, sale, expense."
+  },
+  {
+   "headword": "खपना",
+   "grammaticalTag": "v.",
+   "englishGloss": "to sell, to dry up, to remain."
+  },
+  {
+   "headword": "खपरा",
+   "grammaticalTag": "m.",
+   "englishGloss": "a tile."
+  },
+  {
+   "headword": "खपरैल",
+   "grammaticalTag": "f.",
+   "englishGloss": "tiling, a tiled house."
+  },
+  {
+   "headword": "खपाच",
+   "grammaticalTag": "f.",
+   "englishGloss": "a thin slip of bamboo, a slender person."
+  },
+  {
+   "headword": "खपाना",
+   "grammaticalTag": "v.",
+   "englishGloss": "to dry up, to destroy, to make away with."
+  },
+  {
+   "headword": "खपुर",
+   "grammaticalTag": "m.",
+   "englishGloss": "the betel tree."
+  },
+  {
+   "headword": "खपुष्प",
+   "grammaticalTag": "m.",
+   "englishGloss": "an absurdity, impossibility."
+  },
+  {
+   "headword": "खप्पर",
+   "grammaticalTag": "m.",
+   "englishGloss": "crown of the head, a knave, a gourd shell used by jogis."
+  },
+  {
+   "headword": "खबसा",
+   "grammaticalTag": "m.",
+   "englishGloss": "slime."
+  },
+  {
+   "headword": "खब्बा",
+   "grammaticalTag": "adj.",
+   "englishGloss": "left-handed."
+  },
+  {
+   "headword": "खम",
+   "grammaticalTag": null,
+   "englishGloss": "see खम्भ."
+  },
+  {
+   "headword": "खमठोकना",
+   "grammaticalTag": "v.",
+   "englishGloss": "to strike the hands against the arms before wrestling."
+  },
+  {
+   "headword": "खमस",
+   "grammaticalTag": "adj.",
+   "englishGloss": "sultry."
+  },
+  {
+   "headword": "खमीलन",
+   "grammaticalTag": "m.",
+   "englishGloss": "lassitude, weariness."
+  },
+  {
+   "headword": "खम्भ",
+   "grammaticalTag": "m.",
+   "englishGloss": "a pillar, a post."
+  },
+  {
+   "headword": "खर",
+   "grammaticalTag": "m.",
+   "englishGloss": "grass, straw, an ass."
+  },
+  {
+   "headword": "खरक",
+   "grammaticalTag": "m.",
+   "englishGloss": "a cow-shed."
+  },
+  {
+   "headword": "खरकाना",
+   "grammaticalTag": "v.",
+   "englishGloss": "to thumb, to shake, to put to flight."
+  },
+  {
+   "headword": "खरखरा",
+   "grammaticalTag": "m.",
+   "englishGloss": "a curry-comb."
+  },
+  {
+   "headword": "खरकूरा",
+   "grammaticalTag": "adj.",
+   "englishGloss": "rough."
+  },
+  {
+   "headword": "खरज्जा",
+   "grammaticalTag": "m.",
+   "englishGloss": "pavement."
+  },
+  {
+   "headword": "खरतल",
+   "grammaticalTag": "adj.",
+   "englishGloss": "pure, honest, independent."
+  },
+  {
+   "headword": "खरतल कहना",
+   "grammaticalTag": "v.",
+   "englishGloss": "to speak freely."
+  },
+  {
+   "headword": "खरपा",
+   "grammaticalTag": "m.",
+   "englishGloss": "a sandal."
+  },
+  {
+   "headword": "खरबर",
+   "grammaticalTag": "f.",
+   "englishGloss": "noise of horse's hoofs in galloping."
+  },
+  {
+   "headword": "खरल",
+   "grammaticalTag": "m.",
+   "englishGloss": "a mortar."
+  },
+  {
+   "headword": "खरल करना",
+   "grammaticalTag": "v. a.",
+   "englishGloss": "to grind fine in a mortar."
+  },
+  {
+   "headword": "खरहरा",
+   "grammaticalTag": "m.",
+   "englishGloss": "a curry-comb."
+  },
+  {
+   "headword": "खरहा",
+   "grammaticalTag": "m.",
+   "englishGloss": "a hare, a rabbit."
+  },
+  {
+   "headword": "खरहारना",
+   "grammaticalTag": "v.",
+   "englishGloss": "to sweep."
+  },
+  {
+   "headword": "खरही",
+   "grammaticalTag": "f.",
+   "englishGloss": "a rick, a kind of grass."
+  },
+  {
+   "headword": "खरा",
+   "grammaticalTag": "adj.",
+   "englishGloss": "pure, prime, candid, genuine."
+  },
+  {
+   "headword": "खराई",
+   "grammaticalTag": "f.",
+   "englishGloss": "purity, excellence, rectitude."
+  },
+  {
+   "headword": "खराका",
+   "grammaticalTag": "m.",
+   "englishGloss": "a crashing noise."
+  },
+  {
+   "headword": "खरापन",
+   "grammaticalTag": "n. f.",
+   "englishGloss": "purity, honesty."
+  },
+  {
+   "headword": "खराहन्द",
+   "grammaticalTag": "f.",
+   "englishGloss": "the stalk of burnt grass."
+  },
+  {
+   "headword": "खरी",
+   "grammaticalTag": "f.",
+   "englishGloss": "oil-cake, chalk."
+  },
+  {
+   "headword": "खरोंट",
+   "grammaticalTag": "f.",
+   "englishGloss": "a scratch with a nail."
+  },
+  {
+   "headword": "खरोचना",
+   "grammaticalTag": "v.",
+   "englishGloss": "to scrape, to scratch."
+  },
+  {
+   "headword": "खर्जूर",
+   "grammaticalTag": null,
+   "englishGloss": "see खजूर."
+  },
+  {
+   "headword": "खर्पर",
+   "grammaticalTag": "m.",
+   "englishGloss": "the skull, a beggar's dish."
+  },
+  {
+   "headword": "खर्रा",
+   "grammaticalTag": "m.",
+   "englishGloss": "a curry-comb, an ulcer, rough account, schedule."
+  },
+  {
+   "headword": "खर्राटा",
+   "grammaticalTag": "m.",
+   "englishGloss": "snoring."
+  },
+  {
+   "headword": "खर्व्व",
+   "grammaticalTag": "m.",
+   "englishGloss": "a large number, a billion."
+  },
+  {
+   "headword": "खल",
+   "grammaticalTag": "m.",
+   "englishGloss": "a worthless person, sediment."
+  },
+  {
+   "headword": "खलंगा",
+   "grammaticalTag": "m.",
+   "englishGloss": "a park."
+  },
+  {
+   "headword": "खलखल",
+   "grammaticalTag": "adj.",
+   "englishGloss": "rumbling of the bowels."
+  },
+  {
+   "headword": "खलड़ा",
+   "grammaticalTag": "m.",
+   "englishGloss": "skin, hide."
+  },
+  {
+   "headword": "खलता",
+   "grammaticalTag": "m.",
+   "englishGloss": "wickedness, villainy."
+  },
+  {
+   "headword": "खलबल",
+   "grammaticalTag": "f.",
+   "englishGloss": "hurry, bustle, commotion."
+  },
+  {
+   "headword": "खलबलाना",
+   "grammaticalTag": "v.",
+   "englishGloss": "to boil, to bubble, to be agitated."
+  },
+  {
+   "headword": "खलार",
+   "grammaticalTag": "f.",
+   "englishGloss": "a hollow, bottom."
+  },
+  {
+   "headword": "खलियान",
+   "grammaticalTag": "m.",
+   "englishGloss": "a granary."
+  },
+  {
+   "headword": "खलियाना",
+   "grammaticalTag": "v.",
+   "englishGloss": "to skin, to flay."
+  },
+  {
+   "headword": "खलिहान",
+   "grammaticalTag": "m.",
+   "englishGloss": "a threshing-floor."
+  },
+  {
+   "headword": "खली",
+   "grammaticalTag": "f.",
+   "englishGloss": "the dregs of mustard seed."
+  },
+  {
+   "headword": "खलीता",
+   "grammaticalTag": "m.",
+   "englishGloss": "a pocket, bag, den of thieves."
+  },
+  {
+   "headword": "खलेल",
+   "grammaticalTag": "m.",
+   "englishGloss": "scented-oil."
+  },
+  {
+   "headword": "खल्लिद",
+   "grammaticalTag": "adj.",
+   "englishGloss": "bald."
+  },
+  {
+   "headword": "खवा",
+   "grammaticalTag": "m.",
+   "englishGloss": "the shoulder."
+  },
+  {
+   "headword": "खसकन्त",
+   "grammaticalTag": "f.",
+   "englishGloss": "a separation, running away."
+  },
+  {
+   "headword": "खसकाना",
+   "grammaticalTag": "v.",
+   "englishGloss": "to remove out of the way."
+  },
+  {
+   "headword": "खसखस",
+   "grammaticalTag": "f.",
+   "englishGloss": "the poppy-head, a kind of aromatic grass."
+  },
+  {
+   "headword": "खसखसा",
+   "grammaticalTag": "m.",
+   "englishGloss": "grinding the teeth."
+  },
+  {
+   "headword": "खसना",
+   "grammaticalTag": "v.",
+   "englishGloss": "to be pierced, to thrust into."
+  },
+  {
+   "headword": "खसरा",
+   "grammaticalTag": "m.",
+   "englishGloss": "a day-book, waste-book, measles."
+  },
+  {
+   "headword": "खसाना",
+   "grammaticalTag": "v.",
+   "englishGloss": "to ruin, to fall in, to sink."
+  },
+  {
+   "headword": "खसोटना",
+   "grammaticalTag": "v.",
+   "englishGloss": "to pull the hair, to scratch."
+  },
+  {
+   "headword": "खस्फटिक",
+   "grammaticalTag": "m.",
+   "englishGloss": "crystal, the sun gem."
+  },
+  {
+   "headword": "खांग",
+   "grammaticalTag": "m.",
+   "englishGloss": "a tusk."
+  },
+  {
+   "headword": "खांच",
+   "grammaticalTag": "m.",
+   "englishGloss": "slime, mud."
+  },
+  {
+   "headword": "खांचा",
+   "grammaticalTag": "m.",
+   "englishGloss": "a tray, basket, hen-coop."
+  },
+  {
+   "headword": "खांड़",
+   "grammaticalTag": "m.",
+   "englishGloss": "coarse sugar."
+  },
+  {
+   "headword": "खांड़ना",
+   "grammaticalTag": "v.",
+   "englishGloss": "to excavate, to pound."
+  },
+  {
+   "headword": "खांड़ा",
+   "grammaticalTag": "m.",
+   "englishGloss": "a straight sword, cutlass."
+  },
+  {
+   "headword": "खांसना",
+   "grammaticalTag": "v.",
+   "englishGloss": "to cough."
+  },
+  {
+   "headword": "खांसी",
+   "grammaticalTag": "f.",
+   "englishGloss": "a cough."
+  },
+  {
+   "headword": "खाई",
+   "grammaticalTag": "f.",
+   "englishGloss": "a ditch, moat, trench."
+  },
+  {
+   "headword": "खाऊ",
+   "grammaticalTag": "m.",
+   "englishGloss": "a glutton."
+  },
+  {
+   "headword": "खागा",
+   "grammaticalTag": "m.",
+   "englishGloss": "the horn of a rhinoceros."
+  },
+  {
+   "headword": "खाज",
+   "grammaticalTag": "f.",
+   "englishGloss": "the itch."
+  }
+ ]
+}

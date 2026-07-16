@@ -129,13 +129,13 @@ return JSON matching the schema. The scorer compares it to the hand-verified lab
 - arrays are matched order-independently (greedy best-pair assignment)
 - the headline number is the macro average of per-document field accuracy
 
-The 50 documents are deliberately hard: arrays and multi-page tables, totals that must
+The 72 documents are deliberately hard: arrays and multi-page tables, totals that must
 reconcile, right-to-left and CJK scripts, rotated scans, handwriting, and ten file types
 (PDF, JPEG, PNG, TIFF, XLSX, CSV, XML, TXT, DOCX, HTML).
 
 ## Submitting a new system
 
-1. Run your system over the 50 documents using the paired schemas.
+1. Run your system over the 72 documents using the paired schemas.
 2. Write `results/<your_system>/<doc_id>.json` with a top-level `data` object.
 3. `docubench validate && docubench score --engine <your_system>`
 4. Open a pull request.

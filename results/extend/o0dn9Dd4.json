@@ -1,0 +1,983 @@
+{
+  "score": 0.24488601355514478,
+  "cost": 0.1875,
+  "time_sec": 88.658,
+  "num_pages": 3,
+  "data": {
+    "entries": [
+      {
+        "name": "Frost Hy. Frederic",
+        "occupation": "professor of music",
+        "streetName": "Southampton st.Strand",
+        "streetNumber": "6",
+        "postalDistrict": "WC"
+      },
+      {
+        "name": "Frost Hy. Smith",
+        "occupation": "engineer",
+        "streetName": "Berners mews, Berners st. Oxford st",
+        "streetNumber": "13",
+        "postalDistrict": "W"
+      },
+      {
+        "name": "Frost James Robert",
+        "occupation": "blacksmith",
+        "streetName": "Melbourne place, Old Kent rd",
+        "streetNumber": null,
+        "postalDistrict": "SE"
+      },
+      {
+        "name": "Frost John",
+        "occupation": "boot & shoe mkr.",
+        "streetName": "Bristow st. N&49Cropley st.Hoxton",
+        "streetNumber": "16",
+        "postalDistrict": "N"
+      },
+      {
+        "name": "Frost John",
+        "occupation": "dining rooms",
+        "streetName": "Emmett street, Poplar",
+        "streetNumber": "9",
+        "postalDistrict": "E"
+      },
+      {
+        "name": "Frost John",
+        "occupation": "greengrocer",
+        "streetName": "Claro ter. Richmond rd. West Brompton",
+        "streetNumber": "3",
+        "postalDistrict": "SW"
+      },
+      {
+        "name": "Frost John",
+        "occupation": "shirtmaker",
+        "streetName": "Myrtle street, Hoxton street",
+        "streetNumber": "3",
+        "postalDistrict": "N"
+      },
+      {
+        "name": "Frost John",
+        "occupation": "solicitor",
+        "streetName": "Leadenhall street",
+        "streetNumber": "150",
+        "postalDistrict": "EC"
+      },
+      {
+        "name": "Frost John Arthur",
+        "occupation": "butcher",
+        "streetName": "St. James' road",
+        "streetNumber": "128",
+        "postalDistrict": "N"
+      },
+      {
+        "name": "Frost John Robert",
+        "occupation": "newsagent",
+        "streetName": "Mercer street, Long acre",
+        "streetNumber": "11",
+        "postalDistrict": "WC"
+      },
+      {
+        "name": "Frost Joseph",
+        "occupation": "tailor",
+        "streetName": "Great Marlborough street",
+        "streetNumber": "25",
+        "postalDistrict": "W"
+      },
+      {
+        "name": "Frost Joseph",
+        "occupation": "tailor",
+        "streetName": "Remington street, City road",
+        "streetNumber": "29",
+        "postalDistrict": "N"
+      },
+      {
+        "name": "Frost Joseph Ingo",
+        "occupation": "brandy agent",
+        "streetName": "Mark lane",
+        "streetNumber": "79",
+        "postalDistrict": "EC"
+      },
+      {
+        "name": "Frost Joseph William",
+        "occupation": "brassfounder",
+        "streetName": "White Lion st. Bishopsgate",
+        "streetNumber": "58",
+        "postalDistrict": "E"
+      },
+      {
+        "name": "Frost Louisa (Mrs.)",
+        "occupation": "lodging house",
+        "streetName": "Denbigh street, Pimlico",
+        "streetNumber": "5",
+        "postalDistrict": "SW"
+      },
+      {
+        "name": "Frost Mary Ann (Mrs.)",
+        "occupation": "laundress",
+        "streetName": "Upper Grange road",
+        "streetNumber": "13",
+        "postalDistrict": "SE"
+      },
+      {
+        "name": "Frost Nathan",
+        "occupation": "flour factor, foreign provision & pickle merchant",
+        "streetName": "Bell lane",
+        "streetNumber": "16A, & 17A",
+        "postalDistrict": "E"
+      },
+      {
+        "name": "Frost Richd.' Lion& Lamb'P.H.",
+        "occupation": "public house",
+        "streetName": "Margaret st. Wilmington sq",
+        "streetNumber": "14&15",
+        "postalDistrict": "WC"
+      },
+      {
+        "name": "Frost Richard Geo.",
+        "occupation": "timber agent & merchant",
+        "streetName": "see Woolley & Frost",
+        "streetNumber": null,
+        "postalDistrict": null
+      },
+      {
+        "name": "Frost Robert",
+        "occupation": "barrister",
+        "streetName": "King's Bench walk, Temple",
+        "streetNumber": "6",
+        "postalDistrict": "EC"
+      },
+      {
+        "name": "Frost Robert",
+        "occupation": "butcher",
+        "streetName": "Commercial road east",
+        "streetNumber": "420",
+        "postalDistrict": "E"
+      },
+      {
+        "name": "Frost Robert Charles",
+        "occupation": "builder",
+        "streetName": "Hastings st. Burton crescent",
+        "streetNumber": "13",
+        "postalDistrict": "WC"
+      },
+      {
+        "name": "Frost Samuel George",
+        "occupation": "coffee rooms",
+        "streetName": "Shoreditch High st",
+        "streetNumber": "227 & 230",
+        "postalDistrict": "E"
+      },
+      {
+        "name": "Frost Sarah (Mrs.)",
+        "occupation": "vegetable salesman",
+        "streetName": "Spitalfields market",
+        "streetNumber": null,
+        "postalDistrict": "E"
+      },
+      {
+        "name": "Frost Thomas",
+        "occupation": "'Grand Junction Arms' P.H.",
+        "streetName": "Praed street",
+        "streetNumber": "28",
+        "postalDistrict": "W"
+      },
+      {
+        "name": "Frost Thomas",
+        "occupation": "jobmaster",
+        "streetName": "Rochester mews, Kentish town",
+        "streetNumber": "6",
+        "postalDistrict": "NW"
+      },
+      {
+        "name": "Frost Thos. Jas.",
+        "occupation": "who.confectionr.",
+        "streetName": "Winter's bldgs. Assembly pass",
+        "streetNumber": "12",
+        "postalDistrict": "E"
+      },
+      {
+        "name": "Frost Thomas N.",
+        "occupation": "surveyor",
+        "streetName": "Upper Kyverdale rd. Stamford hill",
+        "streetNumber": "23",
+        "postalDistrict": "N"
+      },
+      {
+        "name": "Frost Tom",
+        "occupation": "confectioner",
+        "streetName": "Redman's road, Stepney",
+        "streetNumber": "66",
+        "postalDistrict": "E"
+      },
+      {
+        "name": "Frost Walter",
+        "occupation": "carman",
+        "streetName": "Rotherhithe New road",
+        "streetNumber": "293",
+        "postalDistrict": "SE"
+      },
+      {
+        "name": "Frost William",
+        "occupation": "butcher",
+        "streetName": "Marsham street, Westminster",
+        "streetNumber": "44",
+        "postalDistrict": "SW"
+      },
+      {
+        "name": "Frost William",
+        "occupation": "furniture dealer",
+        "streetName": "Kensington park road",
+        "streetNumber": "49",
+        "postalDistrict": "W"
+      },
+      {
+        "name": "Frost William Adams",
+        "occupation": "surgeon",
+        "streetName": "Queen Anne st. Cavendish sq",
+        "streetNumber": "17",
+        "postalDistrict": "W"
+      },
+      {
+        "name": "Frost William Albert",
+        "occupation": "stationer",
+        "streetName": "Murray street, New North road",
+        "streetNumber": "58",
+        "postalDistrict": "N"
+      },
+      {
+        "name": "Frost William Alfred",
+        "occupation": "professor of music",
+        "streetName": "Amwell street",
+        "streetNumber": "16",
+        "postalDistrict": "EC"
+      },
+      {
+        "name": "Frost William Henry",
+        "occupation": "ham & tongue dealer",
+        "streetName": "Portobello road",
+        "streetNumber": "174",
+        "postalDistrict": "W"
+      },
+      {
+        "name": "Froud Albert George",
+        "occupation": "commission agent",
+        "streetName": "Fenchurch street",
+        "streetNumber": "60",
+        "postalDistrict": "EC"
+      },
+      {
+        "name": "Froud Henry",
+        "occupation": "cart owner & contractor",
+        "streetName": "Church st. Deptford",
+        "streetNumber": "101",
+        "postalDistrict": "SE"
+      },
+      {
+        "name": "Froud Philip",
+        "occupation": "fishmngr. Raily, arch, & carman",
+        "streetName": "York rd. Lmbth",
+        "streetNumber": "32",
+        "postalDistrict": "SE"
+      },
+      {
+        "name": "Frowd Amelia (Mrs.)",
+        "occupation": "dressmaker",
+        "streetName": "Prince of Wales road",
+        "streetNumber": "51",
+        "postalDistrict": "NW"
+      },
+      {
+        "name": "Frowd Geo. Wm.",
+        "occupation": "cricket outfitter",
+        "streetName": "see Lillywhite (Jas.), Frowd & Co",
+        "streetNumber": null,
+        "postalDistrict": null
+      },
+      {
+        "name": "Frowde Henry",
+        "occupation": "Oxford University Press warehouse",
+        "streetName": "Amen corner",
+        "streetNumber": null,
+        "postalDistrict": null
+      },
+      {
+        "name": "Frowen Richd. & Co.",
+        "occupation": "importrs. of works of art",
+        "streetName": "Qn. Victoria st",
+        "streetNumber": "46",
+        "postalDistrict": "EC"
+      },
+      {
+        "name": "Fruish Stephen",
+        "occupation": "oilman",
+        "streetName": "Ironmonger row, St. Luke's",
+        "streetNumber": "26",
+        "postalDistrict": "EC"
+      },
+      {
+        "name": "Fruit Meters'Office (Geo.Perkins, meter)",
+        "occupation": "fruit meters office",
+        "streetName": "Tooley st",
+        "streetNumber": "93",
+        "postalDistrict": "SE"
+      },
+      {
+        "name": "Fry & Chandler",
+        "occupation": "insurance agents",
+        "streetName": "Laurence Pountney hill",
+        "streetNumber": "5",
+        "postalDistrict": "EC"
+      },
+      {
+        "name": "Fry Charles Edward & Son",
+        "occupation": "law stationers",
+        "streetName": "South square, Gray's inn",
+        "streetNumber": "14",
+        "postalDistrict": "WC"
+      },
+      {
+        "name": "Fry & Hudson",
+        "occupation": "solicitors",
+        "streetName": "Hart street, Mark lane",
+        "streetNumber": "5 & 6",
+        "postalDistrict": "EC"
+      },
+      {
+        "name": "Fry, Janson & Co.",
+        "occupation": "iron manufacturers, bar & angle iron, rails, fish plates, fire bars &c.",
+        "streetName": "Nelson street, City road",
+        "streetNumber": null,
+        "postalDistrict": "EC"
+      },
+      {
+        "name": "Fry J. S. & Sons",
+        "occupation": "cocoa & chocolate manufacturers & chicory im- also at Sydney, N.S.W",
+        "streetName": "City road",
+        "streetNumber": "252",
+        "postalDistrict": "EC"
+      },
+      {
+        "name": "Fry, Miers & Co.",
+        "occupation": "merchants",
+        "streetName": "Laurence Pountney hill",
+        "streetNumber": "5",
+        "postalDistrict": "EC"
+      },
+      {
+        "name": "Fry Samuel & Co. Limited",
+        "occupation": "photographic dry plate manufacturers & enlargers",
+        "streetName": "Chandos street, Strand",
+        "streetNumber": "5",
+        "postalDistrict": "WC"
+      },
+      {
+        "name": "Fry, Son & Co.",
+        "occupation": "metal brokers & agents",
+        "streetName": "Gresham house",
+        "streetNumber": "21",
+        "postalDistrict": "EC"
+      },
+      {
+        "name": "Fry W. & Co.",
+        "occupation": "wholesale tea merchants",
+        "streetName": "Duke street, St. James'",
+        "streetNumber": "38",
+        "postalDistrict": "SW"
+      },
+      {
+        "name": "Fry & Co.",
+        "occupation": "financial agents",
+        "streetName": "Regent street",
+        "streetNumber": "126",
+        "postalDistrict": "W"
+      },
+      {
+        "name": "Fry & Co.",
+        "occupation": "manufacturers' agents",
+        "streetName": "New Broad street",
+        "streetNumber": "9",
+        "postalDistrict": "EC"
+      },
+      {
+        "name": "Fry Alexander George",
+        "occupation": "upholsterers' warehouseman",
+        "streetName": "Warwick st",
+        "streetNumber": "47",
+        "postalDistrict": "W"
+      },
+      {
+        "name": "Fry Ann Maria (Mrs.)",
+        "occupation": "refreshment house",
+        "streetName": "Cambridge road",
+        "streetNumber": "275",
+        "postalDistrict": "E"
+      },
+      {
+        "name": "Fry Arthur",
+        "occupation": "'King's Head' P.H.",
+        "streetName": "Upper Kennington lane",
+        "streetNumber": "109",
+        "postalDistrict": "SE"
+      },
+      {
+        "name": "Fry Charles A.",
+        "occupation": "wholesale tea dealer",
+        "streetName": "see Beare, Gosnell & Co",
+        "streetNumber": null,
+        "postalDistrict": null
+      },
+      {
+        "name": "Fry Charles Henry",
+        "occupation": "butcher",
+        "streetName": "Fore street",
+        "streetNumber": "76",
+        "postalDistrict": "EC"
+      },
+      {
+        "name": "Fry Charles Henry",
+        "occupation": "'Wool Exchange tavern' P.H.",
+        "streetName": "Coleman st",
+        "streetNumber": "60",
+        "postalDistrict": "EC"
+      },
+      {
+        "name": "Fry Clarence Edmund",
+        "occupation": "photographer",
+        "streetName": "see Elliott & Fry",
+        "streetNumber": null,
+        "postalDistrict": null
+      },
+      {
+        "name": "Fry Edmund",
+        "occupation": "contractor &c.",
+        "streetName": "see Woodham & Fry",
+        "streetNumber": null,
+        "postalDistrict": null
+      },
+      {
+        "name": "Fry Edward",
+        "occupation": "corn & seed merchant",
+        "streetName": "New Corn Exchange",
+        "streetNumber": "96",
+        "postalDistrict": "EC"
+      },
+      {
+        "name": "Fry Edward Portsmouth",
+        "occupation": "barrister",
+        "streetName": "Old square, Lincoln's inn",
+        "streetNumber": "21",
+        "postalDistrict": "WC"
+      },
+      {
+        "name": "Fry Ernest Arthur",
+        "occupation": "oilman",
+        "streetName": "Haverstock hill",
+        "streetNumber": "18A",
+        "postalDistrict": "NW"
+      },
+      {
+        "name": "Fry Frederick",
+        "occupation": "lodging house",
+        "streetName": "Taunton place, Regent's park",
+        "streetNumber": "6",
+        "postalDistrict": "NW"
+      },
+      {
+        "name": "Fry Frederick Morris",
+        "occupation": "barrister",
+        "streetName": "New square, Lincoln's inn",
+        "streetNumber": "11",
+        "postalDistrict": "WC"
+      },
+      {
+        "name": "Fry George",
+        "occupation": "collar dresser",
+        "streetName": "City road",
+        "streetNumber": "311",
+        "postalDistrict": "EC"
+      },
+      {
+        "name": "Fry George",
+        "occupation": "oil & colorman",
+        "streetName": "Glengall road, Cubitt town",
+        "streetNumber": "86 & 88",
+        "postalDistrict": "E"
+      },
+      {
+        "name": "Fry George",
+        "occupation": "wood agent & merchant",
+        "streetName": "Old Broad street",
+        "streetNumber": "57",
+        "postalDistrict": "EC"
+      },
+      {
+        "name": "Fry George Jabez",
+        "occupation": "'Warwick Arms' P.H.",
+        "streetName": "Warwick rd. Kensington",
+        "streetNumber": null,
+        "postalDistrict": "W"
+      },
+      {
+        "name": "Fry Gideon",
+        "occupation": "wheelwright",
+        "streetName": "Hemsworth street, Hoxton",
+        "streetNumber": "1",
+        "postalDistrict": "N"
+      },
+      {
+        "name": "Fry Henry",
+        "occupation": "butcher",
+        "streetName": "Cross street, Finsbury",
+        "streetNumber": "4",
+        "postalDistrict": "EC"
+      },
+      {
+        "name": "Fry Henry",
+        "occupation": "wine & beer retailer",
+        "streetName": "Old Kent road",
+        "streetNumber": "87",
+        "postalDistrict": "SE"
+      },
+      {
+        "name": "Fry James",
+        "occupation": "blacksmith",
+        "streetName": "Stephen street, Lisson grove",
+        "streetNumber": "42 & 43",
+        "postalDistrict": "NW"
+      },
+      {
+        "name": "Fry James",
+        "occupation": "oilman",
+        "streetName": "London road, Southwark",
+        "streetNumber": "66",
+        "postalDistrict": "SE"
+      },
+      {
+        "name": "Fry Job",
+        "occupation": "smith",
+        "streetName": "Latimer road, Notting hill",
+        "streetNumber": "238",
+        "postalDistrict": "W"
+      },
+      {
+        "name": "Fry John",
+        "occupation": "beer retailer",
+        "streetName": "Church street, Deptford",
+        "streetNumber": "57",
+        "postalDistrict": "SE"
+      },
+      {
+        "name": "Fry John",
+        "occupation": "'Lord Hill' P.H.",
+        "streetName": "Manor street, Chelsea",
+        "streetNumber": "45",
+        "postalDistrict": "SW"
+      },
+      {
+        "name": "Fry John",
+        "occupation": "whip maker",
+        "streetName": "Tachbrook street, Pimlico",
+        "streetNumber": "32",
+        "postalDistrict": "SW"
+      },
+      {
+        "name": "Fry John D.",
+        "occupation": "wholesale stationer",
+        "streetName": "see Barclay & Fry",
+        "streetNumber": null,
+        "postalDistrict": null
+      },
+      {
+        "name": "Fry John George",
+        "occupation": "carpenter",
+        "streetName": "Arlington st. New North road",
+        "streetNumber": "53",
+        "postalDistrict": "N"
+      },
+      {
+        "name": "Fry John William",
+        "occupation": "boot & shoe manufacturer",
+        "streetName": "Old Kent rd",
+        "streetNumber": "823",
+        "postalDistrict": "SE"
+      },
+      {
+        "name": "Fry Joseph Robert Willis",
+        "occupation": "grocer",
+        "streetName": "Wornington road",
+        "streetNumber": "218",
+        "postalDistrict": "W"
+      },
+      {
+        "name": "Fry Oliver Armstrong",
+        "occupation": "barrister",
+        "streetName": "Pump court, Temple",
+        "streetNumber": "2",
+        "postalDistrict": "EC"
+      },
+      {
+        "name": "Fry Orme",
+        "occupation": "manufacturers' agent",
+        "streetName": "Goldsmith st. Wood st",
+        "streetNumber": "11 & 12",
+        "postalDistrict": "EC"
+      },
+      {
+        "name": "Fry Robert",
+        "occupation": "merchant & commission agent",
+        "streetName": "Leadenhall st",
+        "streetNumber": "105",
+        "postalDistrict": "EC"
+      },
+      {
+        "name": "Fry Stephen Henry",
+        "occupation": "cement manufacturer",
+        "streetName": "see Williams, Fry & Co",
+        "streetNumber": null,
+        "postalDistrict": null
+      },
+      {
+        "name": "Fry Thomas",
+        "occupation": "merchant",
+        "streetName": "Bishopsgate street within",
+        "streetNumber": "40",
+        "postalDistrict": "EC"
+      },
+      {
+        "name": "Fry Thomas Henry",
+        "occupation": "antimony refiner",
+        "streetName": "see Hallett & Fry",
+        "streetNumber": null,
+        "postalDistrict": null
+      },
+      {
+        "name": "Fry Walter",
+        "occupation": "oilman",
+        "streetName": "Church street, Chelsea",
+        "streetNumber": "39",
+        "postalDistrict": "SW"
+      },
+      {
+        "name": "Fry Walter",
+        "occupation": "'White Horse' P.H.",
+        "streetName": "Central street, St. Luke's",
+        "streetNumber": "74",
+        "postalDistrict": "EC"
+      },
+      {
+        "name": "Fry William",
+        "occupation": "baker",
+        "streetName": "Mary street, Stepney",
+        "streetNumber": "17",
+        "postalDistrict": "E"
+      },
+      {
+        "name": "Fry William",
+        "occupation": "chandler's shop",
+        "streetName": "Skidmore street, Mile end",
+        "streetNumber": "79",
+        "postalDistrict": "E"
+      },
+      {
+        "name": "Fry William",
+        "occupation": "cheesemonger",
+        "streetName": "Ebury street, Pimlico",
+        "streetNumber": "11",
+        "postalDistrict": "SW"
+      },
+      {
+        "name": "Fry Wm. Edward",
+        "occupation": "hairdresser",
+        "streetName": "Great Windmill st. Haymarket",
+        "streetNumber": "18",
+        "postalDistrict": "W"
+      },
+      {
+        "name": "Fry William Henry",
+        "occupation": "manufacturers' agent",
+        "streetName": "Gresham street",
+        "streetNumber": "48",
+        "postalDistrict": "EC"
+      },
+      {
+        "name": "Fry William Rowlands, A.S. A.",
+        "occupation": "accountant",
+        "streetName": "Fenchurch st",
+        "streetNumber": "146",
+        "postalDistrict": "EC"
+      },
+      {
+        "name": "Fry Windover Edmund",
+        "occupation": "general merchant",
+        "streetName": "see Armitage, Fry & Co",
+        "streetNumber": null,
+        "postalDistrict": null
+      },
+      {
+        "name": "Fryatt Henry",
+        "occupation": "confectioner",
+        "streetName": "Columbia road, Bethnal green",
+        "streetNumber": "12",
+        "postalDistrict": "E"
+      },
+      {
+        "name": "Frye Fredk. Charlwood",
+        "occupation": "italian warehouseman",
+        "streetName": "see Leverett & Frye",
+        "streetNumber": null,
+        "postalDistrict": null
+      },
+      {
+        "name": "Frye Joseph Henry Jaye",
+        "occupation": "surgeon",
+        "streetName": "Old Kent road",
+        "streetNumber": "888",
+        "postalDistrict": "SE"
+      },
+      {
+        "name": "Frye Thomas",
+        "occupation": "tailor",
+        "streetName": "Great Tower street",
+        "streetNumber": "44",
+        "postalDistrict": "EC"
+      },
+      {
+        "name": "Fryer & Bartlett",
+        "occupation": "horse collar ma.",
+        "streetName": "Bourdon street, Berkeley sq",
+        "streetNumber": "36",
+        "postalDistrict": "W"
+      },
+      {
+        "name": "Fryer & Coultman",
+        "occupation": "tobacco manufacturers",
+        "streetName": "West Smithfield",
+        "streetNumber": "2 & 3",
+        "postalDistrict": "EC"
+      },
+      {
+        "name": "Fryer Geo.H.&Co.",
+        "occupation": "insurance brokers",
+        "streetName": "Adam's court, Old Broad st",
+        "streetNumber": "3",
+        "postalDistrict": "EC"
+      },
+      {
+        "name": "FryerThomas&Co.",
+        "occupation": "manufacturing confectnrs.",
+        "streetName": "King William st",
+        "streetNumber": "40A",
+        "postalDistrict": "EC"
+      },
+      {
+        "name": "Fryer Alfred Halliday",
+        "occupation": "solicitor",
+        "streetName": "Queen Victoria street",
+        "streetNumber": "46",
+        "postalDistrict": "EC"
+      },
+      {
+        "name": "Fryer Arthur",
+        "occupation": "cabinet maker",
+        "streetName": "Rose street, Rivington street",
+        "streetNumber": "2",
+        "postalDistrict": "EC"
+      },
+      {
+        "name": "Fryer Annie (Mrs.)",
+        "occupation": "advertising agent",
+        "streetName": "Holborn",
+        "streetNumber": "128",
+        "postalDistrict": "EC"
+      },
+      {
+        "name": "Fryer Donald Campbell",
+        "occupation": "wine retailer",
+        "streetName": "Fish street hill",
+        "streetNumber": "45",
+        "postalDistrict": "EC"
+      },
+      {
+        "name": "Fryer Edward Rowland",
+        "occupation": "wine mer.",
+        "streetName": "Water lane, Great Tower st",
+        "streetNumber": "9",
+        "postalDistrict": "EC"
+      },
+      {
+        "name": "Fryer Elizabeth (Mrs.)",
+        "occupation": "greengrocer",
+        "streetName": "Upper Garden st. Pimlico",
+        "streetNumber": null,
+        "postalDistrict": "SW"
+      },
+      {
+        "name": "Fryer Elizabeth(Mrs.)",
+        "occupation": "paper bag maker",
+        "streetName": "Earl rd. UpperGrange rd",
+        "streetNumber": "11",
+        "postalDistrict": "SE"
+      },
+      {
+        "name": "Fryer Francis",
+        "occupation": "grocer",
+        "streetName": "Rodney road, Walworth",
+        "streetNumber": "54",
+        "postalDistrict": "SE"
+      },
+      {
+        "name": "Fryer Frederic William",
+        "occupation": "architect",
+        "streetName": "Pancras lane",
+        "streetNumber": "2",
+        "postalDistrict": "EC"
+      },
+      {
+        "name": "Fryer Frederick",
+        "occupation": "shoemaker",
+        "streetName": "Liverpool road",
+        "streetNumber": "348",
+        "postalDistrict": "N"
+      },
+      {
+        "name": "Fryer Frederick William",
+        "occupation": "cabinet maker",
+        "streetName": "Hoxton street",
+        "streetNumber": "12A",
+        "postalDistrict": "N"
+      },
+      {
+        "name": "Fryer George Edmund Septimus",
+        "occupation": "barrister",
+        "streetName": "Serle street",
+        "streetNumber": "3",
+        "postalDistrict": "WC"
+      },
+      {
+        "name": "Fryer George Garth",
+        "occupation": "picture dealer",
+        "streetName": "Hanway street, Oxford st",
+        "streetNumber": "36",
+        "postalDistrict": "W"
+      },
+      {
+        "name": "Fryer James",
+        "occupation": "bootmaker",
+        "streetName": "Parnell road, Bow",
+        "streetNumber": "170",
+        "postalDistrict": "E"
+      },
+      {
+        "name": "Fryer James",
+        "occupation": "builder",
+        "streetName": "see Pink, Fryer & Co",
+        "streetNumber": null,
+        "postalDistrict": null
+      },
+      {
+        "name": "Fryer James",
+        "occupation": "greengrocer",
+        "streetName": "Old Kent road",
+        "streetNumber": "715",
+        "postalDistrict": "SE"
+      },
+      {
+        "name": "Fryer James",
+        "occupation": "wholesale confectioner",
+        "streetName": "Great Cambridge street",
+        "streetNumber": "133",
+        "postalDistrict": "E"
+      },
+      {
+        "name": "Fryer John",
+        "occupation": "greengrocer",
+        "streetName": "Elizabeth street, Pimlico",
+        "streetNumber": "23",
+        "postalDistrict": "SW"
+      },
+      {
+        "name": "Fryer John Cornelius",
+        "occupation": "auctioneer",
+        "streetName": "Chiswell street",
+        "streetNumber": "28",
+        "postalDistrict": "EC"
+      },
+      {
+        "name": "Fryer John Henry",
+        "occupation": "artificial limb maker & surgical mechanist",
+        "streetName": "Vassall road, Brixton",
+        "streetNumber": "63",
+        "postalDistrict": "SW"
+      },
+      {
+        "name": "Fryer John James",
+        "occupation": "upholsterer",
+        "streetName": "Elizabeth place, Rivington street",
+        "streetNumber": null,
+        "postalDistrict": "EC"
+      },
+      {
+        "name": "Fryer Lillian Aimee (Miss)",
+        "occupation": "tobacconist",
+        "streetName": "Kentish town road",
+        "streetNumber": "153",
+        "postalDistrict": "NW"
+      },
+      {
+        "name": "Fryer Mary (Mrs.)",
+        "occupation": "dyer",
+        "streetName": "East Chapel street W & 56 Silchester road, Notting hill",
+        "streetNumber": "6",
+        "postalDistrict": "W"
+      },
+      {
+        "name": "Fryer Mary Ann (Mrs.)",
+        "occupation": "dressmaker",
+        "streetName": "Lincoln street",
+        "streetNumber": "38",
+        "postalDistrict": "E"
+      },
+      {
+        "name": "Fryer William",
+        "occupation": "baker",
+        "streetName": "Brooksby street. Liverpool road",
+        "streetNumber": "19",
+        "postalDistrict": "N"
+      },
+      {
+        "name": "Fryer William",
+        "occupation": "provision agent",
+        "streetName": "Borough High street",
+        "streetNumber": "3",
+        "postalDistrict": "SE"
+      },
+      {
+        "name": "Fryett Alfred John",
+        "occupation": "hosier",
+        "streetName": "Hampstead roadi",
+        "streetNumber": "3",
+        "postalDistrict": "NW"
+      },
+      {
+        "name": "Fryett John William",
+        "occupation": "pawnbroker",
+        "streetName": "Whitechapel road",
+        "streetNumber": "16 & 17",
+        "postalDistrict": "E"
+      },
+      {
+        "name": "Fryett Samuel",
+        "occupation": "'Turk's Head' P.H.",
+        "streetName": "Old Kent road",
+        "streetNumber": "711",
+        "postalDistrict": "SE"
+      },
+      {
+        "name": "Fryzer Sarah (Miss)",
+        "occupation": "lodging house",
+        "streetName": "Ebury street, Pimlico",
+        "streetNumber": "91",
+        "postalDistrict": "SW"
+      }
+    ]
+  }
+}

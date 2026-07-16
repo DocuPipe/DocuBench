@@ -1,0 +1,40 @@
+{
+  "type": "object",
+  "properties": {
+    "squibs": {
+      "type": "array",
+      "description": "every case squib printed in the digest slice, in printed order. a squib is a single holding paragraph that ends with a closing case citation; each such paragraph is exactly one item. squibs are grouped under bold black-letter section headings that begin with a key-number; the heading itself and any 'See ... Cent. Dig.' cross-reference line beneath it are NOT squibs and must not produce an item. a heading that carries only a cross-reference and no holding paragraph produces no item at all. when a single heading is followed by several holding paragraphs, emit one item per paragraph. boundary rules for this page-range slice: (a) start — ignore any holding paragraph printed above the first bold key-number heading in the slice; such a paragraph continues a section whose heading is on an earlier page not in the slice, so items begin at that first in-slice heading. (b) end — a squib counts only if its closing case citation is printed within the slice; ignore a final paragraph whose closing citation is cut off past the last page. key-numbering continues across a change of roman-numeral topic subdivision within the slice, so squibs under a later subdivision are still items.",
+      "items": {
+        "type": "object",
+        "properties": {
+          "keyNumber": {
+            "type": "string",
+            "description": "the key-number printed at the start of the bold section heading that governs this squib, exactly as printed (digits, with any letter suffix). repeat the same key-number for every squib under that heading. when a page begins in the middle of a section with no heading printed above the first squib, use the key-number of the section the squib continues."
+          },
+          "sectionHeading": {
+            "type": "string",
+            "description": "the text of the bold section heading that governs this squib, without its leading key-number and without any trailing 'See ... Cent. Dig.' cross-reference line. repeat the same heading text for every squib under that heading."
+          },
+          "caseName": {
+            "type": "string",
+            "description": "the party names of the case that closes the squib — the final case cited in the holding paragraph, printed immediately before the paragraph's terminating reporter citations — as printed up to the first reporter volume number (typically 'Party v. Party'), without any reporter citations or subsequent history. when the holding names several cases, extract only this closing case, not cases mentioned earlier in the paragraph."
+          },
+          "usReportsCite": {
+            "type": "string",
+            "description": "the United States Reports citation of the closing case, i.e. the volume/page pair printed with 'U. S.'. empty string if the squib prints no U. S. Reports citation."
+          },
+          "supremeCourtReporterCite": {
+            "type": "string",
+            "description": "the Supreme Court Reporter citation of the closing case, i.e. the volume/page pair printed with 'S. Ct.'. empty string if the squib prints no S. Ct. citation."
+          },
+          "lawyersEditionCite": {
+            "type": "string",
+            "description": "the Lawyers' Edition citation of the closing case, i.e. the volume/page pair printed with 'L. Ed.'. empty string if the squib prints no L. Ed. citation."
+          }
+        },
+        "required": ["keyNumber", "sectionHeading", "caseName", "usReportsCite", "supremeCourtReporterCite", "lawyersEditionCite"]
+      }
+    }
+  },
+  "required": ["squibs"]
+}

@@ -1,0 +1,1778 @@
+{
+  "score": 0.31978206202849957,
+  "cost": 1.75,
+  "time_sec": 65.765,
+  "num_pages": 28,
+  "data": {
+    "entries": [
+      {
+        "headword": "इक्षुमती",
+        "genderTag": "स्त्री"
+      },
+      {
+        "headword": "इक्षुमेह",
+        "genderTag": "पुं."
+      },
+      {
+        "headword": "इक्षुर",
+        "genderTag": "पुं."
+      },
+      {
+        "headword": "इक्षुसार",
+        "genderTag": "पुं."
+      },
+      {
+        "headword": "इक्ष्वाकु",
+        "genderTag": "पुं."
+      },
+      {
+        "headword": "इक्ष्वालिका",
+        "genderTag": "स्त्री."
+      },
+      {
+        "headword": "इखू",
+        "genderTag": "क्रि."
+      },
+      {
+        "headword": "इग्",
+        "genderTag": "क्रि."
+      },
+      {
+        "headword": "इङ्ग",
+        "genderTag": "क्रि."
+      },
+      {
+        "headword": "इङ्गः",
+        "genderTag": "पुं."
+      },
+      {
+        "headword": "इङित",
+        "genderTag": "न."
+      },
+      {
+        "headword": "इङ्गः",
+        "genderTag": "पुं."
+      },
+      {
+        "headword": "इक़ुद-दी",
+        "genderTag": "पुं. स्त्री."
+      },
+      {
+        "headword": "इचिकिलः",
+        "genderTag": "पुं."
+      },
+      {
+        "headword": "इच्छा",
+        "genderTag": "स्त्री.."
+      },
+      {
+        "headword": "इच्छुकः",
+        "genderTag": "पुं."
+      },
+      {
+        "headword": "इच्छलः",
+        "genderTag": "पुं."
+      },
+      {
+        "headword": "इज्य",
+        "genderTag": "पुं."
+      },
+      {
+        "headword": "इज्या",
+        "genderTag": "स्त्री."
+      },
+      {
+        "headword": "इञ्चाक",
+        "genderTag": "पुं."
+      },
+      {
+        "headword": "इट्रू",
+        "genderTag": "क्रि."
+      },
+      {
+        "headword": "इटः",
+        "genderTag": "पुं."
+      },
+      {
+        "headword": "इटर्चरः",
+        "genderTag": "पुं."
+      },
+      {
+        "headword": "इडू",
+        "genderTag": "स्त्री."
+      },
+      {
+        "headword": "इडस्पति",
+        "genderTag": "पुं."
+      },
+      {
+        "headword": "इडः",
+        "genderTag": "पुं."
+      },
+      {
+        "headword": "इडाला",
+        "genderTag": "स्त्री"
+      },
+      {
+        "headword": "इडाचिका",
+        "genderTag": "स्त्री."
+      },
+      {
+        "headword": "इडिका",
+        "genderTag": "स्त्री.."
+      },
+      {
+        "headword": "इस्र",
+        "genderTag": "क्रि."
+      },
+      {
+        "headword": "इत",
+        "genderTag": "त्रि."
+      },
+      {
+        "headword": "इतर",
+        "genderTag": "त्रि."
+      },
+      {
+        "headword": "इतरथा",
+        "genderTag": "श्रव्य."
+      },
+      {
+        "headword": "इतरेतर",
+        "genderTag": "त्रि."
+      },
+      {
+        "headword": "इतस्",
+        "genderTag": "श्रव्य."
+      },
+      {
+        "headword": "इतरेद्यः",
+        "genderTag": null
+      },
+      {
+        "headword": "इतस्ततः",
+        "genderTag": "श्रव्य."
+      },
+      {
+        "headword": "इति",
+        "genderTag": "श्रव्य."
+      },
+      {
+        "headword": "इतिकर्त्तव्यता",
+        "genderTag": "स्त्री."
+      },
+      {
+        "headword": "इतिमध्ये",
+        "genderTag": "श्रव्य."
+      },
+      {
+        "headword": "इतिह",
+        "genderTag": "श्रव्य."
+      },
+      {
+        "headword": "इतिहास",
+        "genderTag": "पुं."
+      },
+      {
+        "headword": "इडोजयति",
+        "genderTag": null
+      },
+      {
+        "headword": "उत्कुछ",
+        "genderTag": "(पुं. )"
+      },
+      {
+        "headword": "उपस्थान",
+        "genderTag": "त्रि."
+      },
+      {
+        "headword": "एकपली",
+        "genderTag": "स्त्री."
+      },
+      {
+        "headword": "एकटक",
+        "genderTag": "त्रि."
+      },
+      {
+        "headword": "करण",
+        "genderTag": "(क्रि.)"
+      },
+      {
+        "headword": "एकाग्रचित्त",
+        "genderTag": "त्रि."
+      },
+      {
+        "headword": "सृ",
+        "genderTag": "स्टु."
+      },
+      {
+        "headword": "उत्कर्ष",
+        "genderTag": "(न. )"
+      },
+      {
+        "headword": "एकोद्दिष्ट",
+        "genderTag": "न."
+      },
+      {
+        "headword": "उत्तरङ",
+        "genderTag": "(पुं. )"
+      },
+      {
+        "headword": "कछ",
+        "genderTag": "(क्रि.)"
+      },
+      {
+        "headword": "एकपढ़ी",
+        "genderTag": "स्त्री."
+      },
+      {
+        "headword": "कराज़ीरक",
+        "genderTag": "(न.)"
+      },
+      {
+        "headword": "उपरक़",
+        "genderTag": "पुं."
+      },
+      {
+        "headword": "कराटपत्र फला",
+        "genderTag": "(स्त्री.)"
+      },
+      {
+        "headword": "एकड्रिडन्",
+        "genderTag": "पुं."
+      },
+      {
+        "headword": "एषण",
+        "genderTag": "पुं."
+      },
+      {
+        "headword": "करिठका",
+        "genderTag": "(स्त्री.)"
+      },
+      {
+        "headword": "कराह",
+        "genderTag": "(पुं.)"
+      },
+      {
+        "headword": "कॅनिला",
+        "genderTag": "(पुं.)"
+      },
+      {
+        "headword": "कराडनी",
+        "genderTag": "(स्त्री.)"
+      },
+      {
+        "headword": "करडन",
+        "genderTag": "(न.)"
+      },
+      {
+        "headword": "करिडका",
+        "genderTag": "(स्त्री)"
+      },
+      {
+        "headword": "उपस्ति",
+        "genderTag": "सी."
+      },
+      {
+        "headword": "कखाद",
+        "genderTag": "(पुं.)"
+      },
+      {
+        "headword": "कतोय",
+        "genderTag": "(न.)"
+      },
+      {
+        "headword": "कशिक",
+        "genderTag": "(पुं.)"
+      },
+      {
+        "headword": "कशिश",
+        "genderTag": "(पुं.)"
+      },
+      {
+        "headword": "करटकित",
+        "genderTag": "(त्रि.)"
+      },
+      {
+        "headword": "कठोर",
+        "genderTag": "(पुं.)"
+      },
+      {
+        "headword": "कदर्शन",
+        "genderTag": "(न.)"
+      },
+      {
+        "headword": "कराटक",
+        "genderTag": "(पुं.)"
+      },
+      {
+        "headword": "कतपयम्",
+        "genderTag": "(श्रव्य.)"
+      },
+      {
+        "headword": "कराटकद्रुम",
+        "genderTag": "(पुं.)"
+      },
+      {
+        "headword": "करटकाशन",
+        "genderTag": "(पुं.)"
+      },
+      {
+        "headword": "कथश्चित",
+        "genderTag": "(श्रव्य.)"
+      },
+      {
+        "headword": "सिंघाड़ा",
+        "genderTag": "[x]"
+      },
+      {
+        "headword": "कराड़ु",
+        "genderTag": "(स्त्री)"
+      },
+      {
+        "headword": "कराडूति",
+        "genderTag": "(स्त्री.)"
+      },
+      {
+        "headword": "कराटकिन",
+        "genderTag": "(पुं.)"
+      },
+      {
+        "headword": "कन्द",
+        "genderTag": "(स्त्री.)"
+      },
+      {
+        "headword": "एकत्र",
+        "genderTag": "श्रव्य."
+      },
+      {
+        "headword": "कराटफल",
+        "genderTag": "(पुं.)"
+      },
+      {
+        "headword": "कम्",
+        "genderTag": "(क्रि.)"
+      },
+      {
+        "headword": "कराटालु",
+        "genderTag": "(पुं.)"
+      },
+      {
+        "headword": "कपिवली",
+        "genderTag": "(स्त्री.)"
+      },
+      {
+        "headword": "करठ",
+        "genderTag": "(पुं.)"
+      },
+      {
+        "headword": "करठारक",
+        "genderTag": "(पुं.)"
+      },
+      {
+        "headword": "करठाल",
+        "genderTag": "(पुं.)"
+      },
+      {
+        "headword": "कळद",
+        "genderTag": "(त्रि.)"
+      },
+      {
+        "headword": "काठीरव",
+        "genderTag": "(पुं.)"
+      },
+      {
+        "headword": "कपोतवर्णी",
+        "genderTag": "(त्री.)"
+      },
+      {
+        "headword": "कराठेकाल",
+        "genderTag": "(पुं.)"
+      },
+      {
+        "headword": "कराडूघ्न",
+        "genderTag": "(पुं.)"
+      },
+      {
+        "headword": "करडोल",
+        "genderTag": "(पुं.)"
+      },
+      {
+        "headword": "कराव",
+        "genderTag": "(पुं.)"
+      },
+      {
+        "headword": "कन्दर्प-छुड़",
+        "genderTag": "(पं.)"
+      },
+      {
+        "headword": "कन्दुर्पसूषल",
+        "genderTag": "(पुं.)"
+      },
+      {
+        "headword": "कन्घर",
+        "genderTag": "(पुं.)"
+      },
+      {
+        "headword": "कन्धा",
+        "genderTag": "(पुं.)"
+      },
+      {
+        "headword": "कपई",
+        "genderTag": "(पुं.)"
+      },
+      {
+        "headword": "कम्प",
+        "genderTag": "(त्रि.)"
+      },
+      {
+        "headword": "कपिध्वज",
+        "genderTag": "(पुं.)"
+      },
+      {
+        "headword": "कम्",
+        "genderTag": "(त्रि.)"
+      },
+      {
+        "headword": "उपमेय",
+        "genderTag": "त्रि."
+      },
+      {
+        "headword": "कपिज्जल",
+        "genderTag": "(पुं.)"
+      },
+      {
+        "headword": "कपिग्रिय",
+        "genderTag": "(पुं.)"
+      },
+      {
+        "headword": "उपहार",
+        "genderTag": "पुं."
+      },
+      {
+        "headword": "कन्द्र",
+        "genderTag": "(पुं.)"
+      },
+      {
+        "headword": "एकक",
+        "genderTag": "त्रि."
+      },
+      {
+        "headword": "लू",
+        "genderTag": "सृ."
+      },
+      {
+        "headword": "केशतक",
+        "genderTag": "(सं.)"
+      },
+      {
+        "headword": "उपव्ह",
+        "genderTag": "पुं. न."
+      },
+      {
+        "headword": "कमएडलु",
+        "genderTag": "(पुं. न.)"
+      },
+      {
+        "headword": "कमराडलु",
+        "genderTag": "(पुं. न.)"
+      },
+      {
+        "headword": "उत्कर",
+        "genderTag": "( पुं.)"
+      },
+      {
+        "headword": "उत्कर्ष",
+        "genderTag": "( पुं. )"
+      },
+      {
+        "headword": "उत्कल",
+        "genderTag": "(पुं. )"
+      },
+      {
+        "headword": "उत्कलिका",
+        "genderTag": "(स्त्री. )"
+      },
+      {
+        "headword": "उत्कार",
+        "genderTag": "( पुं. )"
+      },
+      {
+        "headword": "उत्किर",
+        "genderTag": "(पुं.)"
+      },
+      {
+        "headword": "उत्कीर्ण",
+        "genderTag": "(त्रि. )"
+      },
+      {
+        "headword": "उत्कीलित",
+        "genderTag": "( न. )"
+      },
+      {
+        "headword": "उत्कुल",
+        "genderTag": "( पुं. )"
+      },
+      {
+        "headword": "उत्कूर्दन",
+        "genderTag": "(न. )"
+      },
+      {
+        "headword": "उत्कूल",
+        "genderTag": "(त्रि. )"
+      },
+      {
+        "headword": "उत्कृति",
+        "genderTag": "(स्त्री. )"
+      },
+      {
+        "headword": "उत्कृष्ट",
+        "genderTag": "(पुं. )"
+      },
+      {
+        "headword": "उत्कोच",
+        "genderTag": "( पुं. )"
+      },
+      {
+        "headword": "उत्क्रम",
+        "genderTag": "(पुं. )"
+      },
+      {
+        "headword": "उत्क्रोश",
+        "genderTag": "(पुं. )"
+      },
+      {
+        "headword": "उत्क्षिप्ति",
+        "genderTag": "( पुं. )"
+      },
+      {
+        "headword": "उत्खात",
+        "genderTag": "(त्रि. )"
+      },
+      {
+        "headword": "उत्तंस",
+        "genderTag": "(पुं. )"
+      },
+      {
+        "headword": "उत्तप्त",
+        "genderTag": "(त्रि. )"
+      },
+      {
+        "headword": "उत्तम",
+        "genderTag": "(पुं. )"
+      },
+      {
+        "headword": "उत्तमर्ण",
+        "genderTag": "(पुं. )"
+      },
+      {
+        "headword": "उत्तमाङ्ग",
+        "genderTag": "(न.)"
+      },
+      {
+        "headword": "उत्तम्भ",
+        "genderTag": "(क्रि.)"
+      },
+      {
+        "headword": "उत्तर",
+        "genderTag": "(न. )"
+      },
+      {
+        "headword": "उत्तरकोशला",
+        "genderTag": "(स्त्री)"
+      },
+      {
+        "headword": "उत्तरकाय",
+        "genderTag": "(पुं. )"
+      },
+      {
+        "headword": "उत्तरच्छद",
+        "genderTag": "( पुं. )"
+      },
+      {
+        "headword": "उत्तरमीमांसा",
+        "genderTag": "( स्त्री. )"
+      },
+      {
+        "headword": "उत्तरा",
+        "genderTag": "( स्त्री. )"
+      },
+      {
+        "headword": "उत्तरात्",
+        "genderTag": "(श्रव्य. )"
+      },
+      {
+        "headword": "उत्तराधिकारिन्",
+        "genderTag": "(त्रि. )"
+      },
+      {
+        "headword": "उत्तराभास",
+        "genderTag": "( पुं. )"
+      },
+      {
+        "headword": "उत्तरायण",
+        "genderTag": "( न. )"
+      },
+      {
+        "headword": "उत्तरीय",
+        "genderTag": "( न. )"
+      },
+      {
+        "headword": "उत्तरेश",
+        "genderTag": "(श्रव्य. )"
+      },
+      {
+        "headword": "उत्तान",
+        "genderTag": "(त्रि. )"
+      },
+      {
+        "headword": "उत्तानशय",
+        "genderTag": "(त्रि. )"
+      },
+      {
+        "headword": "उत्ताप",
+        "genderTag": "( पुं. )"
+      },
+      {
+        "headword": "कठिन",
+        "genderTag": "(गु.)"
+      },
+      {
+        "headword": "उपाकरण",
+        "genderTag": "न."
+      },
+      {
+        "headword": "उपागम",
+        "genderTag": "पुं."
+      },
+      {
+        "headword": "उपाधि",
+        "genderTag": "पुं."
+      },
+      {
+        "headword": "उपमर्द",
+        "genderTag": "पुं."
+      },
+      {
+        "headword": "उपमेय",
+        "genderTag": "त्रि."
+      },
+      {
+        "headword": "उपमन्यु",
+        "genderTag": "पुं."
+      },
+      {
+        "headword": "उपमा",
+        "genderTag": "स्त्री."
+      },
+      {
+        "headword": "उपमान",
+        "genderTag": "न."
+      },
+      {
+        "headword": "उपमिति",
+        "genderTag": "स्त्री."
+      },
+      {
+        "headword": "उपयातृ",
+        "genderTag": "पुं."
+      },
+      {
+        "headword": "उपयम",
+        "genderTag": "पुं."
+      },
+      {
+        "headword": "उपयुक्त",
+        "genderTag": "त्रि."
+      },
+      {
+        "headword": "उपयोग",
+        "genderTag": "पुं."
+      },
+      {
+        "headword": "उपयोगिता",
+        "genderTag": "स्त्री."
+      },
+      {
+        "headword": "उपरत",
+        "genderTag": "त्रि."
+      },
+      {
+        "headword": "उपरति",
+        "genderTag": "स्त्री."
+      },
+      {
+        "headword": "उपरांग",
+        "genderTag": "पुं."
+      },
+      {
+        "headword": "उपराम",
+        "genderTag": "पुं."
+      },
+      {
+        "headword": "उपरि, उपरिष्टात्",
+        "genderTag": "श्रव्य."
+      },
+      {
+        "headword": "उपरुदित",
+        "genderTag": null
+      },
+      {
+        "headword": "उपरुद्ध",
+        "genderTag": "त्रि."
+      },
+      {
+        "headword": "उपरूपक",
+        "genderTag": "न."
+      },
+      {
+        "headword": "उपरोध",
+        "genderTag": "पुं."
+      },
+      {
+        "headword": "उपल",
+        "genderTag": "पुं."
+      },
+      {
+        "headword": "उपलब्धि",
+        "genderTag": "स्त्री."
+      },
+      {
+        "headword": "उपवन",
+        "genderTag": "न."
+      },
+      {
+        "headword": "उपवास",
+        "genderTag": "पुं."
+      },
+      {
+        "headword": "उप्रवाह्य",
+        "genderTag": "पुं. स्त्री."
+      },
+      {
+        "headword": "उपविष्ट",
+        "genderTag": "त्रि."
+      },
+      {
+        "headword": "उपवीत",
+        "genderTag": "न."
+      },
+      {
+        "headword": "उपबृंहित",
+        "genderTag": "त्रि."
+      },
+      {
+        "headword": "उपवेद",
+        "genderTag": "पुं."
+      },
+      {
+        "headword": "उपवेशन",
+        "genderTag": "न."
+      },
+      {
+        "headword": "उपशम",
+        "genderTag": "पुं."
+      },
+      {
+        "headword": "उपशल्य",
+        "genderTag": "न."
+      },
+      {
+        "headword": "उपश्रुति",
+        "genderTag": "स्त्री."
+      },
+      {
+        "headword": "उपश्लेष",
+        "genderTag": "पुं."
+      },
+      {
+        "headword": "उपष्टम्भक",
+        "genderTag": "न."
+      },
+      {
+        "headword": "उपसंग्रह",
+        "genderTag": "पुं."
+      },
+      {
+        "headword": "उपसंयम",
+        "genderTag": "पुं."
+      },
+      {
+        "headword": "उपसंख्यान",
+        "genderTag": "न."
+      },
+      {
+        "headword": "उपसंहार",
+        "genderTag": "पुं."
+      },
+      {
+        "headword": "उपसर्ग",
+        "genderTag": "पुं."
+      },
+      {
+        "headword": "उपसर्जन",
+        "genderTag": "न."
+      },
+      {
+        "headword": "उपसृष्ट",
+        "genderTag": "न."
+      },
+      {
+        "headword": "उपसेक",
+        "genderTag": "पुं."
+      },
+      {
+        "headword": "उपस्कर",
+        "genderTag": "पुं."
+      },
+      {
+        "headword": "उपस्थ",
+        "genderTag": "पुं."
+      },
+      {
+        "headword": "उपस्थान",
+        "genderTag": "न."
+      },
+      {
+        "headword": "उपस्पर्श",
+        "genderTag": "पुं."
+      },
+      {
+        "headword": "उपस्पर्शन",
+        "genderTag": "न."
+      },
+      {
+        "headword": "उपस्पृष्ट",
+        "genderTag": "त्रि."
+      },
+      {
+        "headword": "उपहस्तिका",
+        "genderTag": "स्त्री."
+      },
+      {
+        "headword": "उपहार",
+        "genderTag": "पुं."
+      },
+      {
+        "headword": "उपहास",
+        "genderTag": "पुं."
+      },
+      {
+        "headword": "उपह्वर",
+        "genderTag": "न."
+      },
+      {
+        "headword": "उपाख्यान",
+        "genderTag": "न."
+      },
+      {
+        "headword": "उपाङ्ग",
+        "genderTag": "न."
+      },
+      {
+        "headword": "उपात्त",
+        "genderTag": "त्रि."
+      },
+      {
+        "headword": "उपादान",
+        "genderTag": "न."
+      },
+      {
+        "headword": "उपादेय",
+        "genderTag": "त्रि."
+      },
+      {
+        "headword": "उपाध्याय",
+        "genderTag": "पुं."
+      },
+      {
+        "headword": "उपानह",
+        "genderTag": "स्त्री."
+      },
+      {
+        "headword": "उपान्त",
+        "genderTag": "पुं."
+      },
+      {
+        "headword": "उपाय",
+        "genderTag": "पुं."
+      },
+      {
+        "headword": "उपार्जन",
+        "genderTag": "क्रि."
+      },
+      {
+        "headword": "उपालम्भ",
+        "genderTag": "पुं."
+      },
+      {
+        "headword": "उपासक",
+        "genderTag": "त्रि."
+      },
+      {
+        "headword": "उपास्ति",
+        "genderTag": "स्त्री."
+      },
+      {
+        "headword": "ए",
+        "genderTag": "ए,"
+      },
+      {
+        "headword": "एक",
+        "genderTag": "त्रि."
+      },
+      {
+        "headword": "एकक,",
+        "genderTag": "त्रि."
+      },
+      {
+        "headword": "एकचक्र",
+        "genderTag": "न."
+      },
+      {
+        "headword": "एकचर",
+        "genderTag": "त्रि."
+      },
+      {
+        "headword": "एकजाति",
+        "genderTag": "पुं."
+      },
+      {
+        "headword": "एकजातीय",
+        "genderTag": "त्रि."
+      },
+      {
+        "headword": "एकतम",
+        "genderTag": "त्रि."
+      },
+      {
+        "headword": "एकतर",
+        "genderTag": "त्रि."
+      },
+      {
+        "headword": "एकतस्",
+        "genderTag": "श्रव्य."
+      },
+      {
+        "headword": "एकतान",
+        "genderTag": "क्रि."
+      },
+      {
+        "headword": "एकात्र",
+        "genderTag": "वि."
+      },
+      {
+        "headword": "एकत्व",
+        "genderTag": "न."
+      },
+      {
+        "headword": "एकदन्त",
+        "genderTag": "पुं."
+      },
+      {
+        "headword": "एकदा",
+        "genderTag": "श्रव्य."
+      },
+      {
+        "headword": "एकधा",
+        "genderTag": "श्रव्य."
+      },
+      {
+        "headword": "एकपदे",
+        "genderTag": "श्रव्य."
+      },
+      {
+        "headword": "एकपिङ्ग",
+        "genderTag": "पुं."
+      },
+      {
+        "headword": "एकभक्तव्रत",
+        "genderTag": "पुं. न."
+      },
+      {
+        "headword": "एकयष्टिका",
+        "genderTag": "स्त्री."
+      },
+      {
+        "headword": "एकराजू",
+        "genderTag": "पुं."
+      },
+      {
+        "headword": "एकविंशति",
+        "genderTag": "स्त्री."
+      },
+      {
+        "headword": "एकवीर",
+        "genderTag": "पुं."
+      },
+      {
+        "headword": "एकाशफ",
+        "genderTag": "पुं."
+      },
+      {
+        "headword": "एकशेष",
+        "genderTag": "पुं."
+      },
+      {
+        "headword": "एकश्रुति",
+        "genderTag": "स्त्री."
+      },
+      {
+        "headword": "एकसर्ग",
+        "genderTag": "त्रि."
+      },
+      {
+        "headword": "एकाकिन",
+        "genderTag": "त्रि."
+      },
+      {
+        "headword": "एकाक्ष",
+        "genderTag": "वि."
+      },
+      {
+        "headword": "एकाग्र",
+        "genderTag": "वि."
+      },
+      {
+        "headword": "एकादशी",
+        "genderTag": "स्त्री."
+      },
+      {
+        "headword": "एकान्त",
+        "genderTag": "वि."
+      },
+      {
+        "headword": "एकान्ततस्",
+        "genderTag": "अव्य."
+      },
+      {
+        "headword": "एकाब्दा",
+        "genderTag": "स्त्री."
+      },
+      {
+        "headword": "एकायन",
+        "genderTag": "वि."
+      },
+      {
+        "headword": "एकावली",
+        "genderTag": "स्त्री."
+      },
+      {
+        "headword": "एकाश्रय",
+        "genderTag": "वि."
+      },
+      {
+        "headword": "एकाह",
+        "genderTag": "पुं."
+      },
+      {
+        "headword": "एकाहार",
+        "genderTag": "पुं."
+      },
+      {
+        "headword": "एकीभाव",
+        "genderTag": "पुं."
+      },
+      {
+        "headword": "एकीय",
+        "genderTag": "वि."
+      },
+      {
+        "headword": "एकोनविंशति",
+        "genderTag": "स्त्री."
+      },
+      {
+        "headword": "एज्",
+        "genderTag": "क्रि."
+      },
+      {
+        "headword": "एड",
+        "genderTag": "पुं."
+      },
+      {
+        "headword": "एडक",
+        "genderTag": "पुं."
+      },
+      {
+        "headword": "एडमूक",
+        "genderTag": "वि."
+      },
+      {
+        "headword": "एण",
+        "genderTag": "पुं."
+      },
+      {
+        "headword": "एणतिलक",
+        "genderTag": "पुं."
+      },
+      {
+        "headword": "एणाजिन",
+        "genderTag": "न."
+      },
+      {
+        "headword": "एन",
+        "genderTag": "वि."
+      },
+      {
+        "headword": "एतद्",
+        "genderTag": "वि."
+      },
+      {
+        "headword": "एतर्हि",
+        "genderTag": "अव्य."
+      },
+      {
+        "headword": "एतवे",
+        "genderTag": "क्रि."
+      },
+      {
+        "headword": "एध्",
+        "genderTag": "क्रि."
+      },
+      {
+        "headword": "एधस्",
+        "genderTag": "न."
+      },
+      {
+        "headword": "एना",
+        "genderTag": "अव्य."
+      },
+      {
+        "headword": "एनी",
+        "genderTag": "स्त्री."
+      },
+      {
+        "headword": "एमन्",
+        "genderTag": "पुं."
+      },
+      {
+        "headword": "एरका",
+        "genderTag": "स्त्री."
+      },
+      {
+        "headword": "एरण्ड",
+        "genderTag": "पुं."
+      },
+      {
+        "headword": "एर्वारुक",
+        "genderTag": "पुं. स."
+      },
+      {
+        "headword": "एला",
+        "genderTag": "स्त्री."
+      },
+      {
+        "headword": "एव",
+        "genderTag": "अव्य."
+      },
+      {
+        "headword": "एवम्",
+        "genderTag": "अव्य."
+      },
+      {
+        "headword": "एष्",
+        "genderTag": "क्रि."
+      },
+      {
+        "headword": "ऐ",
+        "genderTag": null
+      },
+      {
+        "headword": "ऐकमत्य",
+        "genderTag": "न."
+      },
+      {
+        "headword": "ऐकागारिक",
+        "genderTag": "पुं."
+      },
+      {
+        "headword": "ऐकाग्र",
+        "genderTag": "वि."
+      },
+      {
+        "headword": "ऐकात्म्य",
+        "genderTag": "न."
+      },
+      {
+        "headword": "ऐकाङ्ग",
+        "genderTag": "पुं."
+      },
+      {
+        "headword": "कटायन",
+        "genderTag": "(न.)"
+      },
+      {
+        "headword": "कटि",
+        "genderTag": "(स्त्री.)"
+      },
+      {
+        "headword": "कटित्र",
+        "genderTag": "(न.)"
+      },
+      {
+        "headword": "कटिसूत्र",
+        "genderTag": "(न.)"
+      },
+      {
+        "headword": "कटु",
+        "genderTag": "(न.)"
+      },
+      {
+        "headword": "कटुकन्द",
+        "genderTag": "(पुं.)"
+      },
+      {
+        "headword": "कटुकीटक",
+        "genderTag": "(पुं.)"
+      },
+      {
+        "headword": "कटुक्काण",
+        "genderTag": "(पुं.)"
+      },
+      {
+        "headword": "कटुग्रन्थि",
+        "genderTag": "(पुं.)"
+      },
+      {
+        "headword": "कटुच्छेद",
+        "genderTag": "(पुं.)"
+      },
+      {
+        "headword": "कटुत्रय",
+        "genderTag": "(न.)"
+      },
+      {
+        "headword": "कटुदला",
+        "genderTag": "(स्त्री)"
+      },
+      {
+        "headword": "कटुर",
+        "genderTag": "(न.)"
+      },
+      {
+        "headword": "कटुरस",
+        "genderTag": "(पुं.)"
+      },
+      {
+        "headword": "कटुवीजा",
+        "genderTag": "(स्त्री)"
+      },
+      {
+        "headword": "कट्टर",
+        "genderTag": "(न.)"
+      },
+      {
+        "headword": "कठ",
+        "genderTag": "(क्रि.)"
+      },
+      {
+        "headword": "कठिनी",
+        "genderTag": "(स्त्री)"
+      },
+      {
+        "headword": "कठोर",
+        "genderTag": "(त्रि.)"
+      },
+      {
+        "headword": "कडू",
+        "genderTag": "(क्रि.)"
+      },
+      {
+        "headword": "कडङ्गर",
+        "genderTag": "(न.)"
+      },
+      {
+        "headword": "कडदूरीय",
+        "genderTag": "(त्रि.)"
+      },
+      {
+        "headword": "कड़ार",
+        "genderTag": "(पुं.)"
+      },
+      {
+        "headword": "कडु",
+        "genderTag": "(क्रि.)"
+      },
+      {
+        "headword": "कण",
+        "genderTag": "(क्रि.) (पुं.)"
+      },
+      {
+        "headword": "कणभक्ष",
+        "genderTag": "(पुं.)"
+      },
+      {
+        "headword": "कतक",
+        "genderTag": "(पुं.)"
+      },
+      {
+        "headword": "कत्म",
+        "genderTag": "(त्रि.)"
+      },
+      {
+        "headword": "कतर",
+        "genderTag": "(त्रि.)"
+      },
+      {
+        "headword": "क्ति",
+        "genderTag": "(त्रि.)"
+      },
+      {
+        "headword": "कतिपय",
+        "genderTag": "(त्रि.)"
+      },
+      {
+        "headword": "कत्थू",
+        "genderTag": "(क्रि.)"
+      },
+      {
+        "headword": "कथू",
+        "genderTag": "(क्रि.)"
+      },
+      {
+        "headword": "कत्थन",
+        "genderTag": "(न.)"
+      },
+      {
+        "headword": "कथक",
+        "genderTag": "(पुं.)"
+      },
+      {
+        "headword": "कथन",
+        "genderTag": "(न.)"
+      },
+      {
+        "headword": "कथञ्चन",
+        "genderTag": "(श्रव्य.)"
+      },
+      {
+        "headword": "कथम्",
+        "genderTag": "(श्रव्य.)"
+      },
+      {
+        "headword": "कथमपि",
+        "genderTag": "(श्रव्य.)"
+      },
+      {
+        "headword": "कथंभू",
+        "genderTag": "(श्रव्य.)"
+      },
+      {
+        "headword": "कथंभूत",
+        "genderTag": "(त्रि.)"
+      },
+      {
+        "headword": "कथा",
+        "genderTag": "(स्त्री)"
+      },
+      {
+        "headword": "कथाप्रसङ्ग",
+        "genderTag": "(पुं.)"
+      },
+      {
+        "headword": "कदू",
+        "genderTag": "(क्रि.)"
+      },
+      {
+        "headword": "कदन",
+        "genderTag": "(न.)"
+      },
+      {
+        "headword": "कदन्न",
+        "genderTag": "(सं.)"
+      },
+      {
+        "headword": "कदम्ब",
+        "genderTag": "(पुं.)"
+      },
+      {
+        "headword": "कदर्थ",
+        "genderTag": "(पुं.)"
+      },
+      {
+        "headword": "कदुर्थ्य",
+        "genderTag": "(त्रि.)"
+      },
+      {
+        "headword": "कदर्य",
+        "genderTag": "(पुं.)"
+      },
+      {
+        "headword": "कदली",
+        "genderTag": "(स्त्री.)"
+      },
+      {
+        "headword": "कदा",
+        "genderTag": "(श्रव्य.)"
+      },
+      {
+        "headword": "कदाख्य",
+        "genderTag": "(पुं.)"
+      },
+      {
+        "headword": "कदाचन",
+        "genderTag": "(श्रव्य.)"
+      },
+      {
+        "headword": "कदापि",
+        "genderTag": "(श्रव्य.)"
+      },
+      {
+        "headword": "कदुष्",
+        "genderTag": "(न.)"
+      },
+      {
+        "headword": "कद्र",
+        "genderTag": "(पुं.)"
+      },
+      {
+        "headword": "कद्दू",
+        "genderTag": "(स्त्री.)"
+      },
+      {
+        "headword": "कन",
+        "genderTag": "(क्रि.)"
+      },
+      {
+        "headword": "कनक",
+        "genderTag": "(न.)"
+      },
+      {
+        "headword": "कनकक्षार",
+        "genderTag": "(पुं.)"
+      },
+      {
+        "headword": "कनकरस",
+        "genderTag": "(पुं.)"
+      },
+      {
+        "headword": "कनकाचल",
+        "genderTag": "(पुं.)"
+      },
+      {
+        "headword": "कनकारक",
+        "genderTag": "(पुं.)"
+      },
+      {
+        "headword": "कनखल",
+        "genderTag": "(पुं.)"
+      },
+      {
+        "headword": "कना",
+        "genderTag": "(स्त्री.)"
+      },
+      {
+        "headword": "कनिष्ठ",
+        "genderTag": "(त्रि.)"
+      },
+      {
+        "headword": "कनी",
+        "genderTag": "(स्त्री.)"
+      },
+      {
+        "headword": "कनीयस्",
+        "genderTag": "(त्रि. न.')"
+      },
+      {
+        "headword": "कन्दु",
+        "genderTag": "(पुं.)"
+      },
+      {
+        "headword": "कन्था",
+        "genderTag": "(स्त्री.)"
+      },
+      {
+        "headword": "कन्दर",
+        "genderTag": "(पुं.)"
+      },
+      {
+        "headword": "कन्दराकर",
+        "genderTag": "(पुं.)"
+      },
+      {
+        "headword": "कन्दराल",
+        "genderTag": "(पुं.)"
+      },
+      {
+        "headword": "कन्दर्प",
+        "genderTag": "(पुं.)"
+      },
+      {
+        "headword": "कन्दली",
+        "genderTag": "(स्त्री.)"
+      },
+      {
+        "headword": "कन्दु",
+        "genderTag": "(पुं. स्त्री.)"
+      },
+      {
+        "headword": "कन्दुक",
+        "genderTag": "(पुं.)"
+      },
+      {
+        "headword": "कन्धि",
+        "genderTag": "(स्त्री.)"
+      },
+      {
+        "headword": "कश्न",
+        "genderTag": "(न.)"
+      },
+      {
+        "headword": "कन्य",
+        "genderTag": "(पुं.)"
+      },
+      {
+        "headword": "कन्यका",
+        "genderTag": "(स्त्री.)"
+      },
+      {
+        "headword": "कन्या",
+        "genderTag": "(स्त्री.)"
+      },
+      {
+        "headword": "कन्याकुब्ज",
+        "genderTag": "(पुं.)"
+      },
+      {
+        "headword": "कन्याट",
+        "genderTag": "(पुं.)"
+      },
+      {
+        "headword": "कप",
+        "genderTag": "(पुं.)"
+      },
+      {
+        "headword": "कपट",
+        "genderTag": "(पुं. न.)"
+      },
+      {
+        "headword": "कपटिन",
+        "genderTag": "(त्रि.)"
+      },
+      {
+        "headword": "कपर्दिन",
+        "genderTag": "(पुं.)"
+      },
+      {
+        "headword": "कपाट",
+        "genderTag": "(स्त्री.)"
+      },
+      {
+        "headword": "कपाल",
+        "genderTag": "(पुं. नं.)"
+      },
+      {
+        "headword": "कपालभृत्",
+        "genderTag": "(पुं.)"
+      },
+      {
+        "headword": "कपालमालिन",
+        "genderTag": "(पुं.)"
+      },
+      {
+        "headword": "कपालिका",
+        "genderTag": "(स्त्री.)"
+      },
+      {
+        "headword": "कपि",
+        "genderTag": "(पुं:)"
+      },
+      {
+        "headword": "कपिकेतन",
+        "genderTag": "(पुं.)"
+      },
+      {
+        "headword": "कपित्थ",
+        "genderTag": "(पुं.)"
+      },
+      {
+        "headword": "कपित्थास्य",
+        "genderTag": "(पुं.)"
+      },
+      {
+        "headword": "कपिरथ",
+        "genderTag": "(पुं.)"
+      },
+      {
+        "headword": "कपिल",
+        "genderTag": "(पुं.)"
+      },
+      {
+        "headword": "कपिलधारा",
+        "genderTag": "(स्त्री.)"
+      },
+      {
+        "headword": "कपिलाश्व",
+        "genderTag": "(पुं.)"
+      },
+      {
+        "headword": "कपिलोह",
+        "genderTag": "(न.)"
+      },
+      {
+        "headword": "कपिवक्त्र",
+        "genderTag": "(पं.)"
+      },
+      {
+        "headword": "कपिश",
+        "genderTag": "(पुं.)"
+      },
+      {
+        "headword": "कपिशीर्ष",
+        "genderTag": "(न.)"
+      },
+      {
+        "headword": "कपीज्य",
+        "genderTag": "(पुं.)"
+      },
+      {
+        "headword": "कपीन्द्र",
+        "genderTag": "(पुं.)"
+      },
+      {
+        "headword": "कपीष्ट",
+        "genderTag": "(पुं.)"
+      },
+      {
+        "headword": "कपूय",
+        "genderTag": "(त्रि.)"
+      },
+      {
+        "headword": "कपोत",
+        "genderTag": "(पुं.)"
+      },
+      {
+        "headword": "कपोतपालिका",
+        "genderTag": "(स्त्री.)"
+      },
+      {
+        "headword": "कपोतारि",
+        "genderTag": "(पुं.)"
+      },
+      {
+        "headword": "कपोल",
+        "genderTag": "(पुं.)"
+      },
+      {
+        "headword": "कफ",
+        "genderTag": "(पुं.)"
+      },
+      {
+        "headword": "कफ कूचिका",
+        "genderTag": "(स्त्री.)"
+      },
+      {
+        "headword": "कफार्ण",
+        "genderTag": "(पुं.)"
+      },
+      {
+        "headword": "कफविरोधिन",
+        "genderTag": "(पुं. न.)"
+      },
+      {
+        "headword": "कफारि",
+        "genderTag": "(पुं.)"
+      },
+      {
+        "headword": "कबन्ध",
+        "genderTag": "(पुं.)"
+      },
+      {
+        "headword": "कमठ",
+        "genderTag": "(पुं.)"
+      },
+      {
+        "headword": "कमन",
+        "genderTag": "(त्रि.)"
+      },
+      {
+        "headword": "कमनच्छुद",
+        "genderTag": "(पुं.)"
+      },
+      {
+        "headword": "कमनीय",
+        "genderTag": "(गु.)"
+      },
+      {
+        "headword": "कमल",
+        "genderTag": "(न.)"
+      },
+      {
+        "headword": "कमलख",
+        "genderTag": "(न.)"
+      },
+      {
+        "headword": "कमला",
+        "genderTag": "(श्री.)"
+      },
+      {
+        "headword": "कमलालया",
+        "genderTag": "(स्त्री.)"
+      },
+      {
+        "headword": "कमलासन",
+        "genderTag": "(पुं.)"
+      },
+      {
+        "headword": "कमलिनी",
+        "genderTag": "(स्त्री.)"
+      },
+      {
+        "headword": "कुमलोत्तर",
+        "genderTag": "(न.)"
+      },
+      {
+        "headword": "कमितृ",
+        "genderTag": "(त्रि.)"
+      },
+      {
+        "headword": "कम्प",
+        "genderTag": "(पुं.)"
+      },
+      {
+        "headword": "कम्पिल",
+        "genderTag": "(पुं.)"
+      },
+      {
+        "headword": "कम्ब",
+        "genderTag": "(क्रि.)"
+      },
+      {
+        "headword": "कम्बल",
+        "genderTag": "(पुं.)"
+      },
+      {
+        "headword": "कम्बु",
+        "genderTag": "(पुं.न.)"
+      },
+      {
+        "headword": "कम्बुपुष्पी",
+        "genderTag": "(स्त्री.)"
+      },
+      {
+        "headword": "कम्बोज",
+        "genderTag": "(पुं.)"
+      },
+      {
+        "headword": "कर",
+        "genderTag": "(पुं.)"
+      },
+      {
+        "headword": "करक",
+        "genderTag": "(पुं.)"
+      },
+      {
+        "headword": "करकराटक",
+        "genderTag": "(पुं.°)"
+      },
+      {
+        "headword": "करकाजल",
+        "genderTag": "(न.)"
+      },
+      {
+        "headword": "करकाम्भस्",
+        "genderTag": "(पुं.)"
+      }
+    ]
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "type": "object",
+  "properties": {
+    "vessels": {
+      "type": "array",
+      "description": "every vessel row in the main tabular list on these pages, read top to bottom; each printed table row is exactly one item; skip the running page/column header rows and the numbered footnote lines printed below the horizontal rule at the bottom of the page (the 'Formerly ...' notes). a row is atomic: it never continues onto the next page, so extract every row that is fully printed on the page",
+      "items": {
+        "type": "object",
+        "properties": {
+          "officialNumber": {
+            "type": "number",
+            "description": "the vessel's official number printed in the leftmost 'Official No.' column, as an integer"
+          },
+          "rig": {
+            "type": "string",
+            "description": "the rig/propulsion abbreviation printed in the 'Rig' column, transcribed exactly as printed including its periods (the list uses a small set of short standard abbreviations); exclude any leading asterisk or other reference mark that precedes the abbreviation; null when the column is blank for this row"
+          },
+          "vesselName": {
+            "type": "string",
+            "description": "the vessel name printed in the 'Name of vessel' column, transcribed verbatim as printed. exclude any leading superscript footnote-reference digit that points to a 'Formerly' note. keep the name's own internal punctuation, initials, and any parenthetical qualifier that is part of the printed name; letter-spaced names are transcribed as the ordinary word they spell"
+          },
+          "grossTonnage": {
+            "type": "number",
+            "description": "the value printed in the 'Gross tonnage' column, as a number; null when blank"
+          },
+          "netTonnage": {
+            "type": "number",
+            "description": "the value printed in the 'Net tonnage' column, as a number; null when blank"
+          },
+          "service": {
+            "type": "string",
+            "description": "the abbreviation printed in the 'Service' column, transcribed exactly as printed including its period; null when the column is blank for this row"
+          },
+          "crew": {
+            "type": "number",
+            "description": "the integer printed in the 'Crew' column; null when blank"
+          },
+          "whenBuilt": {
+            "type": "number",
+            "description": "the four-digit year printed in the 'When built' column, as an integer; null when blank"
+          }
+        },
+        "required": [
+          "officialNumber",
+          "vesselName"
+        ]
+      }
+    }
+  },
+  "required": [
+    "vessels"
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "type": "object",
+  "properties": {
+    "entries": {
+      "type": "array",
+      "description": "every dictionary entry in reading order down the left column and then down the right column; exclude running headers and page numbers",
+      "items": {
+        "type": "object",
+        "properties": {
+          "headword": {
+            "type": "string",
+            "description": "the Spanish headword exactly as printed"
+          },
+          "pronunciation": {
+            "type": "string",
+            "description": "the pronunciation text exactly as printed inside parentheses, excluding the parentheses"
+          },
+          "partOfSpeech": {
+            "type": "string",
+            "description": "all abbreviated part-of-speech markers printed for the headword, in printed order and separated by a semicolon and space when more than one marker appears; exclude English gloss words"
+          },
+          "englishTranslation": {
+            "type": "string",
+            "description": "all English gloss text belonging to the headword through immediately before the next headword, excluding part-of-speech markers; preserve sense order, separate interleaved part-of-speech gloss groups with a semicolon and space, and include any indented phrase translations"
+          }
+        },
+        "required": [
+          "headword",
+          "pronunciation",
+          "partOfSpeech",
+          "englishTranslation"
+        ]
+      }
+    }
+  },
+  "required": [
+    "entries"
+  ]
+}

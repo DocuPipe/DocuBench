@@ -1,0 +1,28 @@
+{
+  "type": "object",
+  "properties": {
+    "entries": {
+      "type": "array",
+      "description": "every telephone listing that carries its own printed telephone number, read column by column across the page spread (each printed page is divided into several stacked sub-columns; read each sub-column top to bottom, left sub-column before right, left page before right page). each such listing is exactly one item. a branch, sub-office, or separate-residence line printed under a subscriber (marked by a branch/dispatch-office/separate-residence token such as the ones meaning 'branch store', 'dispatch office', or 'separate residence') that carries its own telephone number is its own separate item. skip pure cross-reference lines that carry no telephone number of their own, and skip running page-number and reading-index header marks. transcription rule for every kanji field: copy the characters exactly as printed, keeping traditional printed character forms; when two entries' text is compared for equality, a traditional (kyujitai) character form and its modern (shinjitai) simplified counterpart are to be treated as the same character.",
+      "items": {
+        "type": "object",
+        "properties": {
+          "subscriberName": {
+            "type": "string",
+            "description": "only the head name of the listing: the personal name or the business/organization name printed in bold at the very start of the listing, transcribed exactly as printed. do NOT append any text that follows the head name on the same line: exclude a trailing care-of reference (another party's name followed by the single 'care of' character), an occupation or trade descriptor, a shop or proprietor annotation, and any parenthetical note. capture the head name and nothing after it."
+          },
+          "exchangeName": {
+            "type": "string",
+            "description": "the telephone-exchange label printed immediately before the digits of the number: a short kanji place-name token (it may be preceded by a small ward or district marker glyph). transcribe the place-name token as printed."
+          },
+          "phoneNumber": {
+            "type": "string",
+            "description": "the listing's telephone number as printed, in Arabic-digit NN-NNNN form (two digits, a hyphen, four digits). when a single subscriber prints several numbers grouped by a brace/bracket, record only the topmost number."
+          }
+        },
+        "required": ["subscriberName", "exchangeName", "phoneNumber"]
+      }
+    }
+  },
+  "required": ["entries"]
+}

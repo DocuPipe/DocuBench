@@ -1,0 +1,26 @@
+{
+  "type": "object",
+  "properties": {
+    "entries": {
+      "type": "array",
+      "description": "every dictionary entry on the pages, one object per bold headword block, in reading order down the left column then the right column of each page. Any block that starts with its own bold headword is an entry, however short, including one whose text is only a cross-reference to another headword. Repeated bold headwords start separate entries. Do not emit an entry for a running head or for text continuing from the previous page",
+      "items": {
+        "type": "object",
+        "properties": {
+          "headword": {
+            "type": "string",
+            "description": "the primary bold Hebrew/Aramaic headword of the entry, as printed. Exclude leading asterisks, homograph numerals, and any alternate or abbreviated headword forms printed alongside it"
+          },
+          "homographIndex": {
+            "type": ["string", "null"],
+            "description": "the Roman numeral printed after the headword to distinguish identically-spelled entries, or null if none is printed"
+          },
+          "grammaticalTag": {
+            "type": ["string", "null"],
+            "description": "the italic grammatical-category abbreviation printed after the headword, covering gender, number, dialect, and proper-name labels, or null if none is printed. Exclude headword variants, conjugated forms, and etymological parentheticals"
+          }
+        }
+      }
+    }
+  }
+}

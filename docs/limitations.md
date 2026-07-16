@@ -4,11 +4,11 @@ DocuBench is intentionally hard, but it is not exhaustive.
 
 ## Dataset Size
 
-The benchmark has 50 documents. That is enough for careful inspection and regression testing, but not enough to support broad statistical claims about every document domain.
+The benchmark has 72 documents. That is enough for careful inspection and regression testing, but not enough to support broad statistical claims about every document domain.
 
 ## Public-Document Bias
 
-All documents are public, publicly posted samples, openly licensed files, government publications, or benchmark-authored artifacts. This improves reproducibility, but it means the corpus may differ from private enterprise document distributions.
+All documents have traceable public sources: publicly posted samples, openly licensed files, government and historical publications, or benchmark-authored artifacts. Source documents retain their original licenses or publication basis. This improves reproducibility, but it means the corpus may differ from private enterprise document distributions.
 
 ## Label And Schema Scope
 

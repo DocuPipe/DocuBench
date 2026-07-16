@@ -23,6 +23,7 @@ DEFAULT_ENGINE_DISPLAY_NAMES = {
     "reducto": "Reducto Deep Extract",
     "reducto_standard": "Reducto standard",
 }
+BENCHMARK_VERSION = "0.2.0"
 
 
 def load_json(path: Path) -> Any:
@@ -46,6 +47,16 @@ def discover_engines(root: Path) -> list[str]:
     if not results_dir.exists():
         return []
     return sorted(p.name for p in results_dir.iterdir() if p.is_dir())
+
+
+def complete_engines(root: Path) -> list[str]:
+    """return result sets that cover every benchmark document."""
+    doc_ids = set(benchmark_ids(root=root))
+    return [
+        engine
+        for engine in discover_engines(root=root)
+        if doc_ids <= {path.stem for path in (root / "results" / engine).glob("*.json")}
+    ]
 
 
 def document_id_map(root: Path) -> dict[str, Path]:
@@ -139,7 +150,7 @@ def validate_benchmark(root: Path) -> tuple[list[str], list[str], dict[str, Any]
 
 def score_engines(root: Path, engines: list[str] | None = None) -> dict[str, Any]:
     doc_ids = benchmark_ids(root)
-    selected_engines = engines or discover_engines(root)
+    selected_engines = engines if engines is not None else complete_engines(root=root)
     per_engine: dict[str, dict[str, float | None]] = {engine: {} for engine in selected_engines}
 
     for doc_id in doc_ids:
@@ -170,7 +181,7 @@ def score_engines(root: Path, engines: list[str] | None = None) -> dict[str, Any
     return {
         "benchmark": {
             "name": "DocuBench",
-            "version": "0.1.0",
+            "version": BENCHMARK_VERSION,
             "doc_count": len(doc_ids),
             "metric": "macro_average_field_accuracy",
         },

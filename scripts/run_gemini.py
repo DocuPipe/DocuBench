@@ -207,7 +207,9 @@ def estimate_cost(usage: dict[str, Any]) -> float | None:
     except (KeyError, ValueError):
         return None
     input_tokens = usage.get("promptTokenCount", 0) or 0
-    output_tokens = usage.get("candidatesTokenCount", 0) or 0
+    # thinking tokens bill at the output rate and are often larger than the visible output on
+    # extraction-heavy docs — excluding them understates the real cost several-fold
+    output_tokens = (usage.get("candidatesTokenCount", 0) or 0) + (usage.get("thoughtsTokenCount", 0) or 0)
     return (input_tokens * input_rate + output_tokens * output_rate) / 1_000_000
 
 

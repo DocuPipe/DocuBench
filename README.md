@@ -1,12 +1,12 @@
 # DocuBench
 
-**A public benchmark for schema-guided structured extraction from 50 hard, real-world documents.**
+**A public benchmark for schema-guided structured extraction from 72 hard, real-world documents.**
 
 Built and maintained by **[DocuPipe](https://www.docupipe.ai)**. Every system, including DocuPipe, is scored by the same open scorer against the same hand-verified labels. 
 
 [![CI](https://github.com/DocuPipe/docubench/actions/workflows/ci.yml/badge.svg)](https://github.com/DocuPipe/docubench/actions/workflows/ci.yml)
 [![Code: MIT](https://img.shields.io/badge/code-MIT-blue.svg)](LICENSE)
-[![Data: CC BY 4.0](https://img.shields.io/badge/data-CC%20BY%204.0-blue.svg)](docs/dataset-card.md)
+[![Source documents: mixed terms](https://img.shields.io/badge/source%20documents-mixed%20terms-blue.svg)](docs/dataset-card.md)
 [![Python 3.11+](https://img.shields.io/badge/python-3.11%2B-blue.svg)](pyproject.toml)
 
 DocuBench is built to break extraction systems on what real documents actually look like: multi-row arrays and multi-page tables, totals that must reconcile, right-to-left and CJK scripts, rotated scans, handwriting, and ten different file types.
@@ -14,12 +14,12 @@ DocuBench is built to break extraction systems on what real documents actually l
 <br>
 
 <a href="https://htmlpreview.github.io/?https://github.com/DocuPipe/docubench/blob/main/docubench-explorer.html">
-  <img src="docs/explorer-preview.png" alt="DocuBench interactive results explorer — filter 50 documents and compare nine systems" width="100%">
+  <img src="docs/explorer-preview.png" alt="DocuBench interactive results explorer — filter 72 documents and compare five complete configurations" width="100%">
 </a>
 
 <h3 align="center"><a href="https://htmlpreview.github.io/?https://github.com/DocuPipe/docubench/blob/main/docubench-explorer.html">🔎&nbsp; Open the interactive results explorer &nbsp;→</a></h3>
 <p align="center">
-  Filter all 50 documents by language, length, format &amp; capability · compare nine systems · drill into per-document scores.<br>
+  Filter all 72 documents by language, length, format &amp; capability · compare five complete configurations · drill into per-document scores.<br>
 </p>
 
 <br>
@@ -31,36 +31,32 @@ DocuBench is built to break extraction systems on what real documents actually l
 
 ## Leaderboard
 
-The committed baselines, scored by the public scorer ([`scorer.py`](scorer.py)) against the hand-verified labels. Headline metric is **macro-average field accuracy** with order-independent array matching.
+The complete committed baselines, scored by the public scorer ([`scorer.py`](scorer.py)) against the hand-verified labels. Headline metric is **macro-average field accuracy** with order-independent array matching. Historical 50-document result sets remain under [`results/`](results), but are not ranked against systems that cover all 72 documents.
 
 | Rank | System | Accuracy |
 |---:|---|---:|
-| 🥇 | **DocuPipe** — high effort | **97.56%** |
-| 🥈 | Gemini | 97.10% |
-| 🥉 | **DocuPipe** — standard effort | **96.31%** |
-| 4 | Reducto — Deep Extract | 95.77% |
-| 5 | GPT | 94.64% |
-| 6 | Claude Sonnet 5 | 93.68% |
-| 7 | Reducto — standard | 92.70% |
-| 8 | Extend | 91.11% |
-| 9 | Claude | 90.53% |
+| 🥇 | **DocuPipe** — high effort | **97.03%** |
+| 🥈 | **DocuPipe** — standard effort | **96.16%** |
+| 🥉 | Reducto — Deep Extract | 89.31% |
+| 4 | Reducto — standard | 81.06% |
+| 5 | Extend | 80.22% |
 
 > DocuPipe built this benchmark, so we hold our own results to the same bar as everyone else: identical schemas, identical labels, the same open scorer, and every raw model output committed under [`results/`](results). Run `docubench score` and you will reproduce this table.
 
-**🔎 Explore it interactively.** Open the [**results explorer**](https://htmlpreview.github.io/?https://github.com/DocuPipe/docubench/blob/main/docubench-explorer.html) to filter all 50 documents by file type, language, and capability and drill into per-document scores. It is a single self-contained file ([`docubench-explorer.html`](docubench-explorer.html)) you can also open locally. A hosted [Hugging Face Space](https://huggingface.co/spaces/DocuPipe/docubench-leaderboard) renders the same leaderboard online, and full per-document numbers live in [`results/summary.json`](results/summary.json).
+**🔎 Explore it interactively.** Open the [**results explorer**](https://htmlpreview.github.io/?https://github.com/DocuPipe/docubench/blob/main/docubench-explorer.html) to filter all 72 documents by file type, language, and capability and drill into per-document scores. It is a single self-contained file ([`docubench-explorer.html`](docubench-explorer.html)) you can also open locally. A hosted [Hugging Face Space](https://huggingface.co/spaces/DocuPipe/docubench-leaderboard) renders the same leaderboard online, and full per-document numbers live in [`results/summary.json`](results/summary.json).
 
 These are baseline submissions, not a closed leaderboard — the repository is structured so any new system can be scored against the same documents.
 
 ## Why DocuBench is hard
 
-Each of the 50 documents was chosen for a specific failure mode that trips up real extraction systems:
+Each of the 72 documents was chosen for a specific failure mode that trips up real extraction systems:
 
-- **Arrays & line-item tables** (30 docs) — invoices, statements, schedules where rows must be extracted as structured arrays.
-- **Reconciling totals** (24 docs) — sums, subtotals, and grand totals that must add up.
+- **Arrays & line-item tables** (51 docs) — invoices, statements, directories, and reference works where rows must be extracted as structured arrays.
+- **Reconciling totals** (26 docs) — sums, subtotals, counts, and grand totals that must add up.
 - **Multi-page context** — transactions and tables that straddle page breaks.
-- **Right-to-left scripts** (7 docs) — Hebrew and Arabic invoices, payslips, and financials.
-- **CJK scripts** (3 docs) — Japanese and Chinese invoices and receipts.
-- **Rotated scans** (2 docs) and **handwriting** (1 doc) — robustness to messy capture.
+- **Right-to-left scripts** (8 docs) — Hebrew and Arabic invoices, payslips, financials, and a scanned lexicon.
+- **CJK scripts** (6 docs) — Japanese and Chinese invoices, receipts, government records, and directories.
+- **Rotated scans** (3 docs) and **handwriting** (3 docs) — robustness to messy capture.
 - **Nested objects & needle-in-haystack lookups** — deep structures and single records buried in large exports.
 - **Ten file types** beyond PDF — JPEG, PNG, TIFF, XLSX, CSV, XML, TXT, DOCX, HTML.
 
@@ -68,9 +64,9 @@ Each of the 50 documents was chosen for a specific failure mode that trips up re
 
 | | |
 |---|---|
-| **Documents** | 50 public or openly distributable files |
+| **Documents** | 72 reproducibly sourced files |
 | **File types** | 10 — PDF, JPEG, PNG, TIFF, XLSX, CSV, XML, TXT, DOCX, HTML |
-| **Languages / scripts** | 11 — English, Hebrew, Japanese, Chinese, Arabic, French, German, Portuguese, Dutch, Italian, Spanish |
+| **Languages / scripts** | 12 — English, Hebrew, Japanese, Chinese, Arabic, French, German, Portuguese, Dutch, Italian, Spanish, Hindi/Devanagari |
 | **Per task** | source document · JSON Schema · hand-verified JSON label |
 | **Metric** | macro-average field accuracy with order-independent array matching |
 | **Also included** | raw baseline outputs, the scorer, source manifest, committed prompts |
@@ -225,4 +221,4 @@ If you use DocuBench in research or public comparisons, please cite this reposit
 
 ## Built by DocuPipe
 
-DocuBench is built and maintained by [DocuPipe](https://www.docupipe.ai). The release write-up walks through the benchmark and how systems compare on it: [DocuPipe on 50 hard, real-world documents](https://www.docupipe.ai/blog/docupipe-vs-extend-benchmark). Contributions and new system submissions are welcome — see [`CONTRIBUTING.md`](CONTRIBUTING.md).
+DocuBench is built and maintained by [DocuPipe](https://www.docupipe.ai). The release write-up walks through the benchmark and how systems compare on it: [DocuPipe on 72 hard, real-world documents](https://www.docupipe.ai/blog/docupipe-vs-extend-benchmark). Contributions and new system submissions are welcome — see [`CONTRIBUTING.md`](CONTRIBUTING.md).

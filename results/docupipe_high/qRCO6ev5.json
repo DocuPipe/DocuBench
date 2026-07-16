@@ -1,0 +1,211 @@
+{
+  "score": 0.7720588235294121,
+  "cost": 0.068024,
+  "time_sec": 36.2479932308197,
+  "num_pages": 1,
+  "data": {
+    "issueNumber": 5877.0,
+    "issueDate": "1946-08-16",
+    "weekday": "Friday",
+    "imperialOrdinanceNumber": 392.0,
+    "imperialOrdinancePromulgationDate": "1946-08-15",
+    "ministerialOrdinanceNumber": 25.0,
+    "coinFaceValueSen": 50.0,
+    "coinMaterial": "銅六百乃至七百分亜鉛四百乃至三百分",
+    "coinWeightGrams": 4.5,
+    "coinDiameterMm": 23.5,
+    "courseTables": [
+      {
+        "trackName": "經濟科",
+        "subject": "公民",
+        "totalHours": 210.0
+      },
+      {
+        "trackName": "經濟科",
+        "subject": "國語",
+        "totalHours": 70.0
+      },
+      {
+        "trackName": "經濟科",
+        "subject": "理數",
+        "totalHours": 140.0
+      },
+      {
+        "trackName": "經濟科",
+        "subject": "體育",
+        "totalHours": 210.0
+      },
+      {
+        "trackName": "經濟科",
+        "subject": "第一外國語",
+        "totalHours": 630.0
+      },
+      {
+        "trackName": "經濟科",
+        "subject": "第二外國語",
+        "totalHours": 210.0
+      },
+      {
+        "trackName": "經濟科",
+        "subject": "經濟",
+        "totalHours": 315.0
+      },
+      {
+        "trackName": "經濟科",
+        "subject": "商業",
+        "totalHours": 735.0
+      },
+      {
+        "trackName": "經濟科",
+        "subject": "法律",
+        "totalHours": 210.0
+      },
+      {
+        "trackName": "經濟科",
+        "subject": "簿記會計",
+        "totalHours": 280.0
+      },
+      {
+        "trackName": "經濟科",
+        "subject": "產業技術",
+        "totalHours": 140.0
+      },
+      {
+        "trackName": "經營科",
+        "subject": "產業技術",
+        "totalHours": 140.0
+      },
+      {
+        "trackName": "經濟科",
+        "subject": "計",
+        "totalHours": 3465.0
+      },
+      {
+        "trackName": "經營科",
+        "subject": "公民",
+        "totalHours": 210.0
+      },
+      {
+        "trackName": "經營科",
+        "subject": "國語",
+        "totalHours": 70.0
+      },
+      {
+        "trackName": "經營科",
+        "subject": "理數",
+        "totalHours": 140.0
+      },
+      {
+        "trackName": "經營科",
+        "subject": "體育",
+        "totalHours": 210.0
+      },
+      {
+        "trackName": "經營科",
+        "subject": "第一外國語",
+        "totalHours": 630.0
+      },
+      {
+        "trackName": "經營科",
+        "subject": "第二外國語",
+        "totalHours": 210.0
+      },
+      {
+        "trackName": "經營科",
+        "subject": "經濟",
+        "totalHours": 315.0
+      },
+      {
+        "trackName": "經營科",
+        "subject": "經營",
+        "totalHours": 560.0
+      },
+      {
+        "trackName": "經營科",
+        "subject": "簿記會計",
+        "totalHours": 280.0
+      },
+      {
+        "trackName": "經營科",
+        "subject": "法律",
+        "totalHours": 210.0
+      },
+      {
+        "trackName": "經營科",
+        "subject": "計",
+        "totalHours": 3465.0
+      },
+      {
+        "trackName": "東洋經濟科",
+        "subject": "公民",
+        "totalHours": 210.0
+      },
+      {
+        "trackName": "東洋經濟科",
+        "subject": "國語",
+        "totalHours": 70.0
+      },
+      {
+        "trackName": "東洋經濟科",
+        "subject": "理數",
+        "totalHours": 140.0
+      },
+      {
+        "trackName": "東洋經濟科",
+        "subject": "體育",
+        "totalHours": 210.0
+      },
+      {
+        "trackName": "東洋經濟科",
+        "subject": "第一外國語",
+        "totalHours": 630.0
+      },
+      {
+        "trackName": "東洋經濟科",
+        "subject": "第二外國語",
+        "totalHours": 210.0
+      },
+      {
+        "trackName": "東洋經濟科",
+        "subject": "東洋史",
+        "totalHours": 140.0
+      },
+      {
+        "trackName": "東洋經濟科",
+        "subject": "東洋文化",
+        "totalHours": 140.0
+      },
+      {
+        "trackName": "東洋經濟科",
+        "subject": "經濟",
+        "totalHours": 315.0
+      },
+      {
+        "trackName": "東洋經濟科",
+        "subject": "法律",
+        "totalHours": 210.0
+      },
+      {
+        "trackName": "東洋經濟科",
+        "subject": "經營",
+        "totalHours": 280.0
+      },
+      {
+        "trackName": "東洋經濟科",
+        "subject": "簿記會計",
+        "totalHours": 280.0
+      },
+      {
+        "trackName": "東洋經濟科",
+        "subject": "計",
+        "totalHours": 3465.0
+      }
+    ]
+  },
+  "meta": {
+    "source": "existing_standardization",
+    "standardization_id": "bje8oQ8h",
+    "job_id": "EoWGQ9wo",
+    "timestamp": "2026-07-16T04:10:34.059000"
+  }
+}

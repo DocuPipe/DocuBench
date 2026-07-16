@@ -1,6 +1,6 @@
 # Schema Guidelines
 
-These files contain the per-schema extraction guidelines used for the public 50-document benchmark. Direct LLM runners
+These files contain the per-schema extraction guidelines used for the public 72-document benchmark. Direct LLM runners
 append `guidelines/<doc_id>.txt` to the shared extraction prompt when the file is non-empty. The Extend runner sends the
 same text as extractor `extractionRules`.
 

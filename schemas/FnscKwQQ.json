@@ -1,0 +1,43 @@
+{
+  "type": "object",
+  "properties": {
+    "entries": {
+      "type": "array",
+      "description": "every dictionary entry (headword) on the pages, in reading order across the three columns of each page. one object per headword.",
+      "items": {
+        "type": "object",
+        "properties": {
+          "headword": {
+            "type": "string",
+            "description": "the bold headword exactly as printed, including any feminine-form suffix printed after a comma"
+          },
+          "grammaticalCategory": {
+            "type": [
+              "string",
+              "null"
+            ],
+            "description": "ONLY the part-of-speech marker printed after the headword (the standard Spanish grammatical abbreviations for gender/number/verb class, optionally combined, e.g. a gender marker plus a plural or a second gender). Do NOT include subject-domain or usage-register abbreviations - those begin the definition instead. null if no part-of-speech marker is printed."
+          },
+          "definition": {
+            "type": "string",
+            "description": "the definition text as printed, excluding the quoted usage examples. If a subject-domain or usage-register abbreviation is printed after the part-of-speech marker, it starts the definition, transcribed exactly as printed."
+          },
+          "exampleQuote": {
+            "type": [
+              "string",
+              "null"
+            ],
+            "description": "the FIRST quoted usage example for this entry, verbatim including the guillemets, or null if the entry has none"
+          },
+          "exampleSource": {
+            "type": [
+              "string",
+              "null"
+            ],
+            "description": "the attribution/citation printed after the first example, transcribed INCLUDING its enclosing parentheses. null if the example has no attribution."
+          }
+        }
+      }
+    }
+  }
+}

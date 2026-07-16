@@ -13,7 +13,7 @@ license: mit
 # DocuBench Leaderboard
 
 An interactive leaderboard for [DocuBench](https://github.com/DocuPipe/docubench), a
-public benchmark for schema-guided structured extraction from 50 hard, real-world
+public benchmark for schema-guided structured extraction from 72 hard, real-world
 documents. It shows the headline ranking plus breakdowns by file type, language, and hard
 capability (arrays, reconciling totals, right-to-left and CJK scripts, rotated scans,
 handwriting, and more), and a searchable per-document table.

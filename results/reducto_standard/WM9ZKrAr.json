@@ -1,0 +1,710 @@
+{
+  "score": 0.09236111111111113,
+  "cost": 0.44999999999999996,
+  "time_sec": 65.72265696525574,
+  "num_pages": 10,
+  "data": {
+    "vessels": [
+      {
+        "officialNumber": 126803,
+        "rig": "St. s.",
+        "vesselName": "CINCINNATI..",
+        "grossTonnage": 1255,
+        "netTonnage": 927,
+        "service": "Fer.",
+        "crew": 10,
+        "whenBuilt": 1891
+      },
+      {
+        "officialNumber": 207651,
+        "rig": "St. 8.",
+        "vesselName": "CINCINNATI.",
+        "grossTonnage": 47,
+        "netTonnage": 32,
+        "service": "Fsh.",
+        "crew": 12,
+        "whenBuilt": 1910
+      },
+      {
+        "officialNumber": 126351,
+        "rig": "Ga. s.",
+        "vesselName": "Cinderella.",
+        "grossTonnage": 28,
+        "netTonnage": 27,
+        "service": "Pas.",
+        "crew": 1,
+        "whenBuilt": 1886
+      },
+      {
+        "officialNumber": 93030,
+        "rig": "Ga. y",
+        "vesselName": "Circe.",
+        "grossTonnage": 18,
+        "netTonnage": 15,
+        "service": "Yet.",
+        "crew": 1,
+        "whenBuilt": 1900
+      },
+      {
+        "officialNumber": 205596,
+        "rig": "Ga. s.",
+        "vesselName": "Circes.",
+        "grossTonnage": 8,
+        "netTonnage": 8,
+        "service": "Pas.",
+        "crew": 1,
+        "whenBuilt": 1908
+      },
+      {
+        "officialNumber": 204947,
+        "rig": "Ga. p.",
+        "vesselName": "Circle A",
+        "grossTonnage": 13,
+        "netTonnage": 13,
+        "service": "Tow.",
+        "crew": 4,
+        "whenBuilt": 1908
+      },
+      {
+        "officialNumber": 208219,
+        "rig": "Ga. 8.",
+        "vesselName": "Cirkvenica.",
+        "grossTonnage": 18,
+        "netTonnage": 12,
+        "service": "Fsh.",
+        "crew": 6,
+        "whenBuilt": 1910
+      },
+      {
+        "officialNumber": 210555,
+        "rig": "Ga. 8.",
+        "vesselName": "Cisco.",
+        "grossTonnage": 10,
+        "netTonnage": 6,
+        "service": "Fsh.",
+        "crew": 4,
+        "whenBuilt": 1912
+      },
+      {
+        "officialNumber": 126787,
+        "rig": "St. S.",
+        "vesselName": "CISCOE.",
+        "grossTonnage": 15,
+        "netTonnage": 8,
+        "service": "Fsh.",
+        "crew": 3,
+        "whenBuilt": 1891
+      },
+      {
+        "officialNumber": 208123,
+        "rig": "St. p.",
+        "vesselName": "City Ice Boat No. 1.",
+        "grossTonnage": 381,
+        "netTonnage": 239,
+        "service": "Ice.",
+        "crew": 22,
+        "whenBuilt": 1866
+      },
+      {
+        "officialNumber": 208124,
+        "rig": "St. p.",
+        "vesselName": "City Ice Boat No. 2.",
+        "grossTonnage": 471,
+        "netTonnage": 296,
+        "service": "Ice.",
+        "crew": 22,
+        "whenBuilt": 1868
+      },
+      {
+        "officialNumber": 91867,
+        "rig": "St. S.",
+        "vesselName": "City Point.",
+        "grossTonnage": 141,
+        "netTonnage": 96,
+        "service": "Oys.",
+        "crew": 7,
+        "whenBuilt": 1886
+      },
+      {
+        "officialNumber": 204986,
+        "rig": "St. s.",
+        "vesselName": "City Point",
+        "grossTonnage": 18,
+        "netTonnage": 12,
+        "service": "Pas.",
+        "crew": 1,
+        "whenBuilt": 1900
+      },
+      {
+        "officialNumber": 127557,
+        "rig": "St. p.",
+        "vesselName": "City St. Joseph.",
+        "grossTonnage": 182,
+        "netTonnage": 182,
+        "service": "Pas.",
+        "crew": 31,
+        "whenBuilt": 1901
+      },
+      {
+        "officialNumber": 204401,
+        "rig": "Ga. s.",
+        "vesselName": "City Two Harbors",
+        "grossTonnage": 15,
+        "netTonnage": 7,
+        "service": "Frt.",
+        "crew": 2,
+        "whenBuilt": 1907
+      },
+      {
+        "officialNumber": 126974,
+        "rig": "St. p.",
+        "vesselName": "CITY OF ALPENA II...O",
+        "grossTonnage": 1735,
+        "netTonnage": 1282,
+        "service": "Pas.",
+        "crew": 85,
+        "whenBuilt": 1893
+      },
+      {
+        "officialNumber": 206462,
+        "rig": "Ga. s.",
+        "vesselName": "City of Anacortes..",
+        "grossTonnage": 23,
+        "netTonnage": 15,
+        "service": "Pas.",
+        "crew": 1,
+        "whenBuilt": 1909
+      },
+      {
+        "officialNumber": 203193,
+        "rig": "Ga. s.",
+        "vesselName": "City of Angeles......",
+        "grossTonnage": 258,
+        "netTonnage": 191,
+        "service": "Yct.",
+        "crew": 6,
+        "whenBuilt": 1906
+      },
+      {
+        "officialNumber": 211709,
+        "rig": "St. s.",
+        "vesselName": "CITY OF ANNAPOLIS...O",
+        "grossTonnage": 1923,
+        "netTonnage": 1127,
+        "service": "Pas.",
+        "crew": 40,
+        "whenBuilt": 1913
+      },
+      {
+        "officialNumber": 201103,
+        "rig": "St. 8.",
+        "vesselName": "CITY OF ATLANTA....",
+        "grossTonnage": 5433,
+        "netTonnage": 4111,
+        "service": "Pas.",
+        "crew": 64,
+        "whenBuilt": 1904
+      },
+      {
+        "officialNumber": 125809,
+        "rig": "St. 9.",
+        "vesselName": "City of Augusta.",
+        "grossTonnage": 2869,
+        "netTonnage": 1929,
+        "service": "Pas.",
+        "crew": 44,
+        "whenBuilt": 1880
+      },
+      {
+        "officialNumber": 202891,
+        "rig": "St. p.",
+        "vesselName": "City of Augusta......",
+        "grossTonnage": 330,
+        "netTonnage": 252,
+        "service": "Pas.",
+        "crew": 12,
+        "whenBuilt": 1906
+      },
+      {
+        "officialNumber": 208378,
+        "rig": "St. S.",
+        "vesselName": "CITY OF BALTIMORE..O",
+        "grossTonnage": 2379,
+        "netTonnage": 1617,
+        "service": "Pas.",
+        "crew": 53,
+        "whenBuilt": 1911
+      },
+      {
+        "officialNumber": 127029,
+        "rig": "St. p.",
+        "vesselName": "City of Bangor.....",
+        "grossTonnage": null,
+        "netTonnage": 1113,
+        "service": "Pas.",
+        "crew": 99,
+        "whenBuilt": 1894
+      },
+      {
+        "officialNumber": 127131,
+        "rig": "St. 8.",
+        "vesselName": "CITY OF BANGOR.",
+        "grossTonnage": 4202,
+        "netTonnage": 3058,
+        "service": "Frt.",
+        "crew": 20,
+        "whenBuilt": 1896
+      },
+      {
+        "officialNumber": 204332,
+        "rig": "St. p.",
+        "vesselName": "City of Beardstown.",
+        "grossTonnage": 52,
+        "netTonnage": 52,
+        "service": "Tow.",
+        "crew": null,
+        "whenBuilt": 1907
+      },
+      {
+        "officialNumber": 200919,
+        "rig": "St. P.",
+        "vesselName": "CITY OF BENTON HAR-BOR.",
+        "grossTonnage": 1286,
+        "netTonnage": 811,
+        "service": "Pas.",
+        "crew": 42,
+        "whenBuilt": 1904
+      },
+      {
+        "officialNumber": 126717,
+        "rig": "St. s.",
+        "vesselName": "City of Berlin.........",
+        "grossTonnage": 2051,
+        "netTonnage": 1711,
+        "service": "Frt.",
+        "crew": 16,
+        "whenBuilt": 1891
+      },
+      {
+        "officialNumber": 210822,
+        "rig": "Ga. p.",
+        "vesselName": "City of Birmingham No.2",
+        "grossTonnage": 11,
+        "netTonnage": 11,
+        "service": "Pas.",
+        "crew": 2,
+        "whenBuilt": 1912
+      },
+      {
+        "officialNumber": 209678,
+        "rig": "Ga. s.",
+        "vesselName": "City of Blaine...",
+        "grossTonnage": 39,
+        "netTonnage": 26,
+        "service": "Pas.",
+        "crew": 2,
+        "whenBuilt": 1912
+      },
+      {
+        "officialNumber": 200689,
+        "rig": "St. S.",
+        "vesselName": "City of Bluftton.",
+        "grossTonnage": 48,
+        "netTonnage": 30,
+        "service": "Pas.",
+        "crew": 5,
+        "whenBuilt": 1904
+      },
+      {
+        "officialNumber": 125791,
+        "rig": "St. p.",
+        "vesselName": "City of Boston.",
+        "grossTonnage": 487,
+        "netTonnage": 213,
+        "service": "Fer.",
+        "crew": 4,
+        "whenBuilt": 1880
+      },
+      {
+        "officialNumber": 205153,
+        "rig": "St. S.",
+        "vesselName": "City of Bothell.",
+        "grossTonnage": 43,
+        "netTonnage": 29,
+        "service": "Pas.",
+        "crew": 2,
+        "whenBuilt": 1908
+      },
+      {
+        "officialNumber": 140644,
+        "rig": "St. s.",
+        "vesselName": "City of Boyne.",
+        "grossTonnage": 121,
+        "netTonnage": 82,
+        "service": "Pas.",
+        "crew": 5,
+        "whenBuilt": 1883
+      },
+      {
+        "officialNumber": 126386,
+        "rig": "St. p.",
+        "vesselName": "City of Brockton.",
+        "grossTonnage": 2771,
+        "netTonnage": 1911,
+        "service": "Frt.",
+        "crew": 33,
+        "whenBuilt": 1886
+      },
+      {
+        "officialNumber": 127132,
+        "rig": "St. p.",
+        "vesselName": "CITY OF BUFFALO.",
+        "grossTonnage": 2940,
+        "netTonnage": 1604,
+        "service": "Pas.",
+        "crew": 96,
+        "whenBuilt": 1896
+      },
+      {
+        "officialNumber": 210558,
+        "rig": "St. p.",
+        "vesselName": "City of Cairo.....",
+        "grossTonnage": 73,
+        "netTonnage": 73,
+        "service": "Fer.",
+        "crew": null,
+        "whenBuilt": 1912
+      },
+      {
+        "officialNumber": 126844,
+        "rig": "St. S.",
+        "vesselName": "City of Carrabelle.",
+        "grossTonnage": 12,
+        "netTonnage": 6,
+        "service": "Tow.",
+        "crew": 4,
+        "whenBuilt": 1872
+      },
+      {
+        "officialNumber": 208530,
+        "rig": "St. p.",
+        "vesselName": "City of Chamois.",
+        "grossTonnage": 9,
+        "netTonnage": 9,
+        "service": "Fer.",
+        "crew": 2,
+        "whenBuilt": 1907
+      },
+      {
+        "officialNumber": 157279,
+        "rig": "St. 8.",
+        "vesselName": "City of Cheboygan.",
+        "grossTonnage": 247,
+        "netTonnage": 163,
+        "service": "Pas.",
+        "crew": 13,
+        "whenBuilt": 1890
+      },
+      {
+        "officialNumber": 125256,
+        "rig": "St. p.",
+        "vesselName": "City of Chelsea",
+        "grossTonnage": 504,
+        "netTonnage": 258,
+        "service": "Fer.",
+        "crew": 8,
+        "whenBuilt": 1874
+      },
+      {
+        "officialNumber": 126492,
+        "rig": "St. B.",
+        "vesselName": "City of Chester.",
+        "grossTonnage": 611,
+        "netTonnage": 327,
+        "service": "Pas.",
+        "crew": 12,
+        "whenBuilt": 1888
+      },
+      {
+        "officialNumber": 126627,
+        "rig": "St. p.",
+        "vesselName": "CITY OF CHICAGO.....",
+        "grossTonnage": 1439,
+        "netTonnage": 1012,
+        "service": "Pas.",
+        "crew": 40,
+        "whenBuilt": 1590
+      },
+      {
+        "officialNumber": 127325,
+        "rig": "St. p.",
+        "vesselName": "City of Cincinnati.....",
+        "grossTonnage": 816,
+        "netTonnage": 645,
+        "service": "Pas.",
+        "crew": 29,
+        "whenBuilt": 1899
+      },
+      {
+        "officialNumber": 210333,
+        "rig": "Ga. p.",
+        "vesselName": "City of Clarksville.",
+        "grossTonnage": 6,
+        "netTonnage": 6,
+        "service": "Pas.",
+        "crew": 2,
+        "whenBuilt": 1912
+      },
+      {
+        "officialNumber": 204080,
+        "rig": "St. p.",
+        "vesselName": "CITY OF CLEVE",
+        "grossTonnage": 4568,
+        "netTonnage": 2403,
+        "service": "Pas.",
+        "crew": 146,
+        "whenBuilt": 1907
+      },
+      {
+        "officialNumber": 212106,
+        "rig": "Ga. s.",
+        "vesselName": "LAND III.",
+        "grossTonnage": 24,
+        "netTonnage": 16,
+        "service": "Fsh.",
+        "crew": 7,
+        "whenBuilt": 1913
+      },
+      {
+        "officialNumber": 202271,
+        "rig": "St. p.",
+        "vesselName": "City of Clinton.. City of Columbia",
+        "grossTonnage": 189,
+        "netTonnage": 127,
+        "service": "Frt.",
+        "crew": 10,
+        "whenBuilt": 1905
+      },
+      {
+        "officialNumber": 200840,
+        "rig": "St. s.",
+        "vesselName": "CITY OF COLUMBUS.",
+        "grossTonnage": 5433,
+        "netTonnage": 4111,
+        "service": "Pas.",
+        "crew": 61,
+        "whenBuilt": 1904
+      },
+      {
+        "officialNumber": 126546,
+        "rig": "St. p.",
+        "vesselName": "CITY OF DETROIT II.",
+        "grossTonnage": 1919,
+        "netTonnage": 1454,
+        "service": "Pas.",
+        "crew": 75,
+        "whenBuilt": 1889
+      },
+      {
+        "officialNumber": 209571,
+        "rig": "St. p.",
+        "vesselName": "CITY OF DETROIT III.",
+        "grossTonnage": 6061,
+        "netTonnage": 3328,
+        "service": "Pas.",
+        "crew": 85,
+        "whenBuilt": 1912
+      },
+      {
+        "officialNumber": 208465,
+        "rig": "Ga. p.",
+        "vesselName": "City of Doniphan",
+        "grossTonnage": 25,
+        "netTonnage": 25,
+        "service": "Pas.",
+        "crew": 2,
+        "whenBuilt": 1911
+      },
+      {
+        "officialNumber": 136522,
+        "rig": "St. s.",
+        "vesselName": "City of Dover",
+        "grossTonnage": 191,
+        "netTonnage": 98,
+        "service": "Pas.",
+        "crew": 12,
+        "whenBuilt": 1900
+      },
+      {
+        "officialNumber": 127242,
+        "rig": "St. p.",
+        "vesselName": "CITY OF ERIE.",
+        "grossTonnage": 2498,
+        "netTonnage": 1280,
+        "service": "Pas.",
+        "crew": 100,
+        "whenBuilt": 1898
+      },
+      {
+        "officialNumber": 209923,
+        "rig": "St. p.",
+        "vesselName": "City of Eufaula.",
+        "grossTonnage": 216,
+        "netTonnage": 216,
+        "service": "Pas.",
+        "crew": 32,
+        "whenBuilt": 1912
+      },
+      {
+        "officialNumber": 127330,
+        "rig": "St. p.",
+        "vesselName": "City of Eugene.",
+        "grossTonnage": 347,
+        "netTonnage": 222,
+        "service": "Pas.",
+        "crew": 9,
+        "whenBuilt": 1899
+      },
+      {
+        "officialNumber": 126976,
+        "rig": "Ga. s.",
+        "vesselName": "City of Everett.",
+        "grossTonnage": 8,
+        "netTonnage": 8,
+        "service": "Fsh.",
+        "crew": 6,
+        "whenBuilt": 1893
+      },
+      {
+        "officialNumber": 127055,
+        "rig": "St. s.",
+        "vesselName": "CITY OF EVERETT....O",
+        "grossTonnage": 2595,
+        "netTonnage": 1939,
+        "service": "Oil.",
+        "crew": 26,
+        "whenBuilt": 1894
+      },
+      {
+        "officialNumber": 127487,
+        "rig": "St. s.",
+        "vesselName": "City of Everett.",
+        "grossTonnage": 212,
+        "netTonnage": 111,
+        "service": "Pas.",
+        "crew": 19,
+        "whenBuilt": 1900
+      },
+      {
+        "officialNumber": 126088,
+        "rig": "St. p.",
+        "vesselName": "City of Fall River.",
+        "grossTonnage": 2533,
+        "netTonnage": 1722,
+        "service": "Frt.",
+        "crew": 35,
+        "whenBuilt": 1883
+      },
+      {
+        "officialNumber": 126139,
+        "rig": "St. 9.",
+        "vesselName": "City of Gloucester......",
+        "grossTonnage": 560,
+        "netTonnage": 395,
+        "service": "Pas.",
+        "crew": 22,
+        "whenBuilt": 1883
+      },
+      {
+        "officialNumber": 210065,
+        "rig": "St. s.",
+        "vesselName": "CITY OF GRAND RAPIDSO",
+        "grossTonnage": 3061,
+        "netTonnage": 1572,
+        "service": "Pas.",
+        "crew": 75,
+        "whenBuilt": 1912
+      },
+      {
+        "officialNumber": 127119,
+        "rig": "St. p.",
+        "vesselName": "City of Hawkinsville...",
+        "grossTonnage": 175,
+        "netTonnage": 114,
+        "service": "Frt.",
+        "crew": 10,
+        "whenBuilt": 1896
+      },
+      {
+        "officialNumber": 127467,
+        "rig": "St. p.",
+        "vesselName": "City of Huntington",
+        "grossTonnage": 58,
+        "netTonnage": 58,
+        "service": "Fer.",
+        "crew": 2,
+        "whenBuilt": 1900
+      },
+      {
+        "officialNumber": 126081,
+        "rig": "St. p.",
+        "vesselName": "City of Jacksonville....",
+        "grossTonnage": 459,
+        "netTonnage": 395,
+        "service": "Pas.",
+        "crew": 31,
+        "whenBuilt": 1882
+      },
+      {
+        "officialNumber": 126725,
+        "rig": "St. p.",
+        "vesselName": "City of Jeffersonville.",
+        "grossTonnage": 161,
+        "netTonnage": 161,
+        "service": "Fer.",
+        "crew": 5,
+        "whenBuilt": 1891
+      },
+      {
+        "officialNumber": 126259,
+        "rig": "Ga. 6.",
+        "vesselName": "City of Key West.",
+        "grossTonnage": 13,
+        "netTonnage": 9,
+        "service": "Tow.",
+        "crew": 1,
+        "whenBuilt": 1884
+      },
+      {
+        "officialNumber": 209954,
+        "rig": "St. s.",
+        "vesselName": "City of Lewes....",
+        "grossTonnage": 254,
+        "netTonnage": 125,
+        "service": "Frt.",
+        "crew": 25,
+        "whenBuilt": 1912
+      },
+      {
+        "officialNumber": 127023,
+        "rig": "St. p.",
+        "vesselName": "City of Louisville.",
+        "grossTonnage": 1681,
+        "netTonnage": 1141,
+        "service": "Pas.",
+        "crew": 31,
+        "whenBuilt": 1894
+      },
+      {
+        "officialNumber": 127035,
+        "rig": "St. S.",
+        "vesselName": "CITY OF LOWELL.....",
+        "grossTonnage": 2975,
+        "netTonnage": 1877,
+        "service": "Pas.",
+        "crew": 92,
+        "whenBuilt": 1894
+      }
+    ]
+  }
+}

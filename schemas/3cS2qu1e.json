@@ -1,0 +1,86 @@
+{
+  "type": "object",
+  "properties": {
+    "state": {
+      "type": "string",
+      "description": "the handwritten state name in the header"
+    },
+    "county": {
+      "type": "string",
+      "description": "the handwritten county name in the header"
+    },
+    "sheetNumber": {
+      "type": "string",
+      "description": "the sheet number in the header, exactly as written"
+    },
+    "enumerationDistrict": {
+      "type": "string",
+      "description": "the e.d. number in the header, exactly as written"
+    },
+    "rows": {
+      "type": "array",
+      "description": "every numbered person line on the main population schedule that contains any writing, including lines whose only content is an annotation such as a vacancy or callout note; skip lines with no writing at all",
+      "items": {
+        "type": "object",
+        "properties": {
+          "lineNumber": {
+            "type": "integer",
+            "description": "the printed line number of the row"
+          },
+          "name": {
+            "type": "string",
+            "description": "the handwritten name exactly as written; when the surname position holds only a ditto dash, transcribe only the written given names; for annotation-only lines transcribe the annotation text; null if the cell has no writing"
+          },
+          "relationship": {
+            "type": "string",
+            "description": "the handwritten relationship to head of household, e.g. head, wife, daughter, lodger; null if blank; when a value is struck through and corrected, transcribe only the final corrected value"
+          },
+          "race": {
+            "type": "string",
+            "description": "the handwritten race code exactly as written; null if blank; when a value is struck through and corrected, transcribe only the final corrected value"
+          },
+          "sex": {
+            "type": "string",
+            "description": "the handwritten sex letter exactly as written; null if blank; when a value is struck through and corrected, transcribe only the final corrected value"
+          },
+          "age": {
+            "type": "string",
+            "description": "the handwritten age exactly as written; null if blank; when a value is struck through and corrected, transcribe only the final corrected value"
+          },
+          "maritalStatus": {
+            "type": "string",
+            "description": "the handwritten marital status code exactly as written; null if blank; when a value is struck through and corrected, transcribe only the final corrected value"
+          },
+          "birthplace": {
+            "type": "string",
+            "description": "the handwritten state or country of birth exactly as written; null if blank; when a value is struck through and corrected, transcribe only the final corrected value"
+          },
+          "occupation": {
+            "type": "string",
+            "description": "the handwritten occupation text exactly as written; null if blank; when a value is struck through and corrected, transcribe only the final corrected value"
+          },
+          "industry": {
+            "type": "string",
+            "description": "the handwritten industry text exactly as written; null if blank; when a value is struck through and corrected, transcribe only the final corrected value"
+          }
+        },
+        "required": [
+          "lineNumber",
+          "name",
+          "relationship",
+          "race",
+          "sex",
+          "age",
+          "maritalStatus",
+          "birthplace"
+        ]
+      }
+    }
+  },
+  "required": [
+    "state",
+    "county",
+    "sheetNumber",
+    "rows"
+  ]
+}

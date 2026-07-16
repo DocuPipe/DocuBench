@@ -1,0 +1,24 @@
+{
+  "type": "object",
+  "properties": {
+    "entries": {
+      "type": "array",
+      "description": "every dictionary entry printed in the page slice, in printed reading order (left column top-to-bottom, then right column top-to-bottom). one item per bold head-term: each entry begins with a bold Devanagari head-term set at the left margin, followed by its abbreviation tag and meaning. an entry may span several printed lines; the continuation lines (indented, not bold, no new head-term) belong to the same item and never start a new one. include every bold head-term, even a short cross-reference stub with no meaning.",
+      "items": {
+        "type": "object",
+        "properties": {
+          "headword": {
+            "type": "string",
+            "description": "the bold Devanagari head-term at the very start of the entry, transcribed exactly in Devanagari script as printed, including any trailing visarga or final consonant mark. drop the trailing comma that separates it from the tag. if the head-term prints a variant form after a dash or hyphen, transcribe the whole printed head-term including that variant."
+          },
+          "genderTag": {
+            "type": "string",
+            "description": "the abbreviation(s) printed inside the first pair of parentheses immediately after the head-term, transcribed verbatim in Devanagari exactly as printed (each abbreviation ends with a period; when several are printed together keep them all in printed order separated by a single space). these are grammatical-category abbreviations drawn from a small fixed set. empty string if the entry prints no parenthesized abbreviation before its meaning."
+          }
+        },
+        "required": ["headword", "genderTag"]
+      }
+    }
+  },
+  "required": ["entries"]
+}

@@ -1,0 +1,38 @@
+{
+  "type": "object",
+  "properties": {
+    "entries": {
+      "type": "array",
+      "description": "every telephone-subscriber listing in the alphabetical name section, read top to bottom. each listing occupies one printed line whose left margin carries a telephone-exchange name token followed by a call number; that pair marks the start of a new entry. a line that has NO exchange token and number in the left margin is a continuation of the immediately preceding entry: append its text to that entry's listingDetail. skip the running page header words at the very top of the page (a name fragment on the left, a page number in the center, the city name on the right), skip standalone single-letter alphabetical divider headings, and skip full-page or block advertisements that carry no exchange token and number. general transcription rules for every field: transcribe exactly as printed including the directory's standard abbreviations (never expand them); words broken across a line wrap are rejoined without the hyphen; a comma or period that merely terminates the whole listing is not part of any field value",
+      "items": {
+        "type": "object",
+        "properties": {
+          "exchange": {
+            "type": "string",
+            "description": "the telephone-exchange name token printed in the left margin at the start of the listing line, transcribed exactly as printed (the directory uses short abbreviated exchange names)"
+          },
+          "phoneNumber": {
+            "type": "string",
+            "description": "the call number printed immediately after the exchange token, transcribed exactly as printed as a string, preserving any internal hyphen"
+          },
+          "subscriberName": {
+            "type": "string",
+            "description": "the subscriber's name printed at the start of the listing body, to the left of the row of leader dots, transcribed verbatim as printed; it may be a person's name, a business name, or an institution name"
+          },
+          "listingDetail": {
+            "type": "string",
+            "description": "the entire listing detail printed to the right of the row of leader dots, transcribed verbatim as printed as one continuous string, preserving the printed order and internal commas exactly. this is whatever the directory prints there: it may be a business or professional designation, a residence or office marker followed by a street address, a bare street address, or a combination, and any continuation-line text belongs here too. null only when the listing prints no detail to the right of the leader dots at all"
+          }
+        },
+        "required": [
+          "exchange",
+          "phoneNumber",
+          "subscriberName"
+        ]
+      }
+    }
+  },
+  "required": [
+    "entries"
+  ]
+}

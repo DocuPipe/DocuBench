@@ -1,0 +1,40 @@
+{
+  "type": "object",
+  "properties": {
+    "entries": {
+      "type": "array",
+      "description": "one object per firm/business entry in the directory, in printed top-to-bottom, left-to-right column order. each entry begins with a bold Latin-script name heading; the personnel/staff name lists printed under an entry are NOT separate entries and are not extracted. skip pure display advertisements and running-head fragments.",
+      "items": {
+        "type": "object",
+        "properties": {
+          "firmNameEnglish": {
+            "type": "string",
+            "description": "the bold Latin-script firm or person name printed as the heading of the entry, transcribed verbatim including any trailing company abbreviation and initials as printed."
+          },
+          "firmNameChinese": {
+            "type": ["string", "null"],
+            "description": "the Chinese-character (hanzi) shop name printed with the entry heading, transcribed in conventional reading order. these names are set in the traditional orientation that reads RIGHT-TO-LEFT across the printed line, so the first character to transcribe is the RIGHTMOST one printed and a trailing 公司 ('company') reads last; the romanized reading, when present, gives the correct character order. no spaces between characters. null if no hanzi name is printed."
+          },
+          "firmNameRomanized": {
+            "type": ["string", "null"],
+            "description": "the italic romanized reading printed next to the hanzi name (a hyphenated syllable transliteration). transcribe verbatim as printed. null if none is printed."
+          },
+          "address": {
+            "type": ["string", "null"],
+            "description": "the primary printed address: the street number + road/street name when a numbered street address is given (e.g. a house number followed by the road name); if only a named building or place is printed (no number+road), use that building/place name including its number if printed. exclude floor/room/apartment/suite parentheticals, alternative ('or ...') addresses, locality/district descriptors, and any secondary address line. null if no address is printed."
+          },
+          "telephone": {
+            "type": ["string", "null"],
+            "description": "the telephone number or numbers printed after the entry's first 'Tel' label, as printed: preserve a trailing hyphenated range shorthand (e.g. a base number followed by '-N' or '-N-N' abbreviating consecutive numbers); join distinct full numbers in printed order separated by ', '. exclude separate residence ('Res') telephone lines and any parenthetical note. null if none is printed."
+          },
+          "telegraphAddress": {
+            "type": ["string", "null"],
+            "description": "the cable / telegraphic address printed after the label 'TA', transcribed verbatim as printed. null if none is printed."
+          }
+        },
+        "required": ["firmNameEnglish"]
+      }
+    }
+  },
+  "required": ["entries"]
+}

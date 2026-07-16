@@ -1,0 +1,103 @@
+{
+  "score": 0.1323529411764706,
+  "cost": 0.06,
+  "time_sec": 398.5837459564209,
+  "num_pages": 1,
+  "data": {
+    "issueNumber": 5877,
+    "issueDate": "1946-08-16",
+    "weekday": "Friday",
+    "imperialOrdinanceNumber": 392,
+    "imperialOrdinancePromulgationDate": "1946-08-15",
+    "ministerialOrdinanceNumber": 25,
+    "coinFaceValueSen": 50,
+    "coinMaterial": "黃銅錫六百乃至七百分亜鉛四百乃至三百分",
+    "courseTables": [
+      {
+        "trackName": "官立經濟專門學校",
+        "subject": "實法簿 產業術",
+        "totalHours": 1110
+      },
+      {
+        "trackName": "官立經濟專門學校",
+        "subject": "經",
+        "totalHours": 111
+      },
+      {
+        "trackName": "官立經濟專門學校",
+        "subject": "經",
+        "totalHours": 140
+      },
+      {
+        "trackName": "官立經濟專門學校",
+        "subject": "理 公 糸科目 經科 育敷 語 民",
+        "totalHours": 1110
+      },
+      {
+        "trackName": "官立經濟專門學校",
+        "subject": "第一外國語",
+        "totalHours": 30
+      },
+      {
+        "trackName": "官立經濟專門學校",
+        "subject": "第二外國語",
+        "totalHours": 56
+      },
+      {
+        "trackName": "官立經濟專門學校",
+        "subject": "商",
+        "totalHours": 735
+      },
+      {
+        "trackName": "官立經濟專門學校",
+        "subject": "演法 習律",
+        "totalHours": 40
+      },
+      {
+        "trackName": "官立經濟專門學校",
+        "subject": "產業技術 術",
+        "totalHours": 40
+      },
+      {
+        "trackName": "官立經濟專門學校",
+        "subject": "簿記會計",
+        "totalHours": 20
+      },
+      {
+        "trackName": "官立經濟專門學校",
+        "subject": "簿記會計 營",
+        "totalHours": 1110
+      },
+      {
+        "trackName": "官立經濟專門學校",
+        "subject": "理 育",
+        "totalHours": 1110
+      },
+      {
+        "trackName": "官立經濟專門學校",
+        "subject": "第一外國語",
+        "totalHours": 1110
+      },
+      {
+        "trackName": "官立經濟專門學校",
+        "subject": "第二外國語",
+        "totalHours": 1110
+      },
+      {
+        "trackName": "東洋經濟科",
+        "subject": "公 語 民 東洋經濟科",
+        "totalHours": 1110
+      },
+      {
+        "trackName": "東洋經濟科",
+        "subject": "科目及び共 經濟專門學校名 學校の本科に在",
+        "totalHours": 1110
+      },
+      {
+        "trackName": "東洋經濟科",
+        "subject": "際現に長崎工業",
+        "totalHours": 560
+      }
+    ]
+  }
+}

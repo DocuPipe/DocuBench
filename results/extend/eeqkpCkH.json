@@ -1,0 +1,818 @@
+{
+  "score": 0.2657004830917875,
+  "cost": 1.5625,
+  "time_sec": 61.48,
+  "num_pages": 25,
+  "data": {
+    "squibs": [
+      {
+        "caseName": "Jones v. Brim",
+        "keyNumber": "235",
+        "usReportsCite": "165 U. S. 180",
+        "sectionHeading": "Regulation of use of streets and other highways.",
+        "lawyersEditionCite": "41 L. Ed. 677",
+        "supremeCourtReporterCite": "17 S. Ct. 282"
+      },
+      {
+        "caseName": "Wilson v. Eureka City",
+        "keyNumber": "235",
+        "usReportsCite": "173 U. S. 32",
+        "sectionHeading": "Regulation of use of streets and other highways.",
+        "lawyersEditionCite": "43 L. Ed. 603",
+        "supremeCourtReporterCite": "19 S. Ct. 317"
+      },
+      {
+        "caseName": "Fifth Ave. Coach Co. v. City of New York",
+        "keyNumber": "235",
+        "usReportsCite": "221 U. S. 467",
+        "sectionHeading": "Regulation of use of streets and other highways.",
+        "lawyersEditionCite": "55 L. Ed. 815",
+        "supremeCourtReporterCite": "31 S. Ct. 709"
+      },
+      {
+        "caseName": "Fischer v. City of St. Louis",
+        "keyNumber": "237",
+        "usReportsCite": "194 U. S. 361",
+        "sectionHeading": "Regulation of keeping and use of animals.",
+        "lawyersEditionCite": "48 L. Ed. 1018",
+        "supremeCourtReporterCite": "24 S. Ct. 673"
+      },
+      {
+        "caseName": "Bacon v. Walker",
+        "keyNumber": "237",
+        "usReportsCite": "204 U. S. 311",
+        "sectionHeading": "Regulation of keeping and use of animals.",
+        "lawyersEditionCite": "51 L. Ed. 499",
+        "supremeCourtReporterCite": "27 S. Ct. 289"
+      },
+      {
+        "caseName": "Yick Wo v. Hopkins",
+        "keyNumber": "238",
+        "usReportsCite": "118 U. S. 356",
+        "sectionHeading": "Occupation and employment in general.",
+        "lawyersEditionCite": "30 L. Ed. 220",
+        "supremeCourtReporterCite": "6 S. Ct. 1064"
+      },
+      {
+        "caseName": "Holden v. Hardy",
+        "keyNumber": "238",
+        "usReportsCite": "169 U. S. 366",
+        "sectionHeading": "Occupation and employment in general.",
+        "lawyersEditionCite": "42 L. Ed. 780",
+        "supremeCourtReporterCite": "18 S. Ct. 383"
+      },
+      {
+        "caseName": "Petit v. State of Minnesota",
+        "keyNumber": "238",
+        "usReportsCite": "177 U. S. 164",
+        "sectionHeading": "Occupation and employment in general.",
+        "lawyersEditionCite": "44 L. Ed. 716",
+        "supremeCourtReporterCite": "20 S. Ct. 666"
+      },
+      {
+        "caseName": "Atkin v. State of Kansas",
+        "keyNumber": "238",
+        "usReportsCite": "191 U. S. 207",
+        "sectionHeading": "Occupation and employment in general.",
+        "lawyersEditionCite": "48 L. Ed. 148",
+        "supremeCourtReporterCite": "24 S. Ct. 124"
+      },
+      {
+        "caseName": "McLean v. State of Arkansas",
+        "keyNumber": "238",
+        "usReportsCite": "211 U. S. 539",
+        "sectionHeading": "Occupation and employment in general.",
+        "lawyersEditionCite": "53 L. Ed. 315",
+        "supremeCourtReporterCite": "29 S. Ct. 206"
+      },
+      {
+        "caseName": "Sturges & Burn Mfg. Co. v. Beauchamp",
+        "keyNumber": "238",
+        "usReportsCite": "231 U. S. 320",
+        "sectionHeading": "Occupation and employment in general.",
+        "lawyersEditionCite": "58 L. Ed. 245",
+        "supremeCourtReporterCite": "34 S. Ct. 60"
+      },
+      {
+        "caseName": "Miller v. Wilson",
+        "keyNumber": "238",
+        "usReportsCite": "236 U. S. 373",
+        "sectionHeading": "Occupation and employment in general.",
+        "lawyersEditionCite": "59 L. Ed. 628",
+        "supremeCourtReporterCite": "35 S. Ct. 342"
+      },
+      {
+        "caseName": "McElvaine v. Brush",
+        "keyNumber": "270",
+        "usReportsCite": "142 U. S. 155",
+        "sectionHeading": "Judgment and sentence.",
+        "lawyersEditionCite": "35 L. Ed. 971",
+        "supremeCourtReporterCite": "12 S. Ct. 156"
+      },
+      {
+        "caseName": "Bosley v. McLaughlin",
+        "keyNumber": "238",
+        "usReportsCite": "236 U. S. 385",
+        "sectionHeading": "Occupation and employment in general.",
+        "lawyersEditionCite": "59 L. Ed. 632",
+        "supremeCourtReporterCite": "35 S. Ct. 345"
+      },
+      {
+        "caseName": "Booth v. State of Indiana",
+        "keyNumber": "238",
+        "usReportsCite": "237 U. S. 391",
+        "sectionHeading": "Occupation and employment in general.",
+        "lawyersEditionCite": "59 L. Ed. 1011",
+        "supremeCourtReporterCite": "35 S. Ct. 617"
+      },
+      {
+        "caseName": "Heim v. McCall",
+        "keyNumber": "238",
+        "usReportsCite": "239 U. S. 175",
+        "sectionHeading": "Occupation and employment in general.",
+        "lawyersEditionCite": "60 L. Ed. 206",
+        "supremeCourtReporterCite": "36 S. Ct. 78"
+      },
+      {
+        "caseName": "Barbier v. Connolly",
+        "keyNumber": "239",
+        "usReportsCite": "113 U. S. 27",
+        "sectionHeading": "Prohibition of trade or business.",
+        "lawyersEditionCite": "28 L. Ed. 923",
+        "supremeCourtReporterCite": "5 S. Ct. 357"
+      },
+      {
+        "caseName": "Soon Hing v. Crowley",
+        "keyNumber": "239",
+        "usReportsCite": "113 U. S. 703",
+        "sectionHeading": "Prohibition of trade or business.",
+        "lawyersEditionCite": "28 L. Ed. 1145",
+        "supremeCourtReporterCite": "5 S. Ct. 730"
+      },
+      {
+        "caseName": "Stone v. Farmers' Loan & Trust Co.",
+        "keyNumber": "242",
+        "usReportsCite": "116 U. S. 307",
+        "sectionHeading": "Regulation of charges or prices.",
+        "lawyersEditionCite": "29 L. Ed. 636",
+        "supremeCourtReporterCite": "6 S. Ct. 334"
+      },
+      {
+        "caseName": "Dow v. Beidelman",
+        "keyNumber": "242",
+        "usReportsCite": "125 U. S. 680",
+        "sectionHeading": "Regulation of charges or prices.",
+        "lawyersEditionCite": "31 L. Ed. 841",
+        "supremeCourtReporterCite": "8 S. Ct. 1028"
+      },
+      {
+        "caseName": "Budd v. People of State of New York",
+        "keyNumber": "242",
+        "usReportsCite": "143 U. S. 517",
+        "sectionHeading": "Regulation of charges or prices.",
+        "lawyersEditionCite": "36 L. Ed. 247",
+        "supremeCourtReporterCite": "12 S. Ct. 468"
+      },
+      {
+        "caseName": "Brass v. State of North Dakota",
+        "keyNumber": "242",
+        "usReportsCite": "153 U. S. 391",
+        "sectionHeading": "Regulation of charges or prices.",
+        "lawyersEditionCite": "38 L. Ed. 757",
+        "supremeCourtReporterCite": "14 S. Ct. 857"
+      },
+      {
+        "caseName": "Covington & L. Turnpike Road Co. v. Sandford",
+        "keyNumber": "242",
+        "usReportsCite": "164 U. S. 578",
+        "sectionHeading": "Regulation of charges or prices.",
+        "lawyersEditionCite": "41 L. Ed. 560",
+        "supremeCourtReporterCite": "17 S. Ct. 198"
+      },
+      {
+        "caseName": "Smyth v. Ames",
+        "keyNumber": "242",
+        "usReportsCite": "169 U. S. 466",
+        "sectionHeading": "Regulation of charges or prices.",
+        "lawyersEditionCite": "42 L. Ed. 819",
+        "supremeCourtReporterCite": "18 S. Ct. 418"
+      },
+      {
+        "caseName": "Cotting v. Godard",
+        "keyNumber": "242",
+        "usReportsCite": "183 U. S. 79",
+        "sectionHeading": "Regulation of charges or prices.",
+        "lawyersEditionCite": "46 L. Ed. 92",
+        "supremeCourtReporterCite": "22 S. Ct. 30"
+      },
+      {
+        "caseName": "Louisville & N. R. Co. v. Commonwealth of Kentucky",
+        "keyNumber": "242",
+        "usReportsCite": "183 U. S. 503",
+        "sectionHeading": "Regulation of charges or prices.",
+        "lawyersEditionCite": "46 L. Ed. 298",
+        "supremeCourtReporterCite": "22 S. Ct. 95"
+      },
+      {
+        "caseName": "Stanislaus County v. San Joaquin & King's River Canal & Irrigation Co.",
+        "keyNumber": "242",
+        "usReportsCite": "192 U. S. 201",
+        "sectionHeading": "Regulation of charges or prices.",
+        "lawyersEditionCite": "48 L. Ed. 406",
+        "supremeCourtReporterCite": "24 S. Ct. 241"
+      },
+      {
+        "caseName": "Home Telephone & Telegraph Co. v. City of Los Angeles",
+        "keyNumber": "242",
+        "usReportsCite": "211 U. S. 265",
+        "sectionHeading": "Regulation of charges or prices.",
+        "lawyersEditionCite": "53 L. Ed. 176",
+        "supremeCourtReporterCite": "29 S. Ct. 50"
+      },
+      {
+        "caseName": "Griffith v. State of Connecticut",
+        "keyNumber": "242",
+        "usReportsCite": "218 U. S. 563",
+        "sectionHeading": "Regulation of charges or prices.",
+        "lawyersEditionCite": "54 L. Ed. 1151",
+        "supremeCourtReporterCite": "31 S. Ct. 132"
+      },
+      {
+        "caseName": "Central Lumber Co. v. State of South Dakota",
+        "keyNumber": "242",
+        "usReportsCite": "226 U. S. 157",
+        "sectionHeading": "Regulation of charges or prices.",
+        "lawyersEditionCite": "57 L. Ed. 164",
+        "supremeCourtReporterCite": "33 S. Ct. 66"
+      },
+      {
+        "caseName": "Martin v. Pittsburg & L. E. R. Co.",
+        "keyNumber": "243",
+        "usReportsCite": null,
+        "sectionHeading": "Creation or discharge of liability in general.",
+        "lawyersEditionCite": "72 Ohio St. 659",
+        "supremeCourtReporterCite": "27 S. Ct. 87"
+      },
+      {
+        "caseName": "Tullis v. Lake Erie & W. R. Co.",
+        "keyNumber": "245",
+        "usReportsCite": "175 U. S. 348",
+        "sectionHeading": "Imposition of liability for personal injuries.",
+        "lawyersEditionCite": "44 L. Ed. 192",
+        "supremeCourtReporterCite": "20 S. Ct. 136"
+      },
+      {
+        "caseName": "St. Louis Merchants' Bridge Terminal Ry. Co. v. Callahan",
+        "keyNumber": "245",
+        "usReportsCite": "194 U. S. 628",
+        "sectionHeading": "Imposition of liability for personal injuries.",
+        "lawyersEditionCite": "48 L. Ed. 1157",
+        "supremeCourtReporterCite": "24 S. Ct. 857"
+      },
+      {
+        "caseName": "Minnesota Iron Co. v. Kline",
+        "keyNumber": "245",
+        "usReportsCite": "199 U. S. 593",
+        "sectionHeading": "Imposition of liability for personal injuries.",
+        "lawyersEditionCite": "50 L. Ed. 322",
+        "supremeCourtReporterCite": "26 S. Ct. 159"
+      },
+      {
+        "caseName": "Wilmington Star Min. Co. v. Fulton",
+        "keyNumber": "245",
+        "usReportsCite": "205 U. S. 60",
+        "sectionHeading": "Imposition of liability for personal injuries.",
+        "lawyersEditionCite": "51 L. Ed. 708",
+        "supremeCourtReporterCite": "27 S. Ct. 412"
+      },
+      {
+        "caseName": "Louisville & N. R. Co. v. Melton",
+        "keyNumber": "245",
+        "usReportsCite": "218 U. S. 36",
+        "sectionHeading": "Imposition of liability for personal injuries.",
+        "lawyersEditionCite": "54 L. Ed. 921",
+        "supremeCourtReporterCite": "30 S. Ct. 676"
+      },
+      {
+        "caseName": "Mobile, J. & K. C. R. Co. v. Turnipseed",
+        "keyNumber": "245",
+        "usReportsCite": "219 U. S. 35",
+        "sectionHeading": "Imposition of liability for personal injuries.",
+        "lawyersEditionCite": "55 L. Ed. 78",
+        "supremeCourtReporterCite": "31 S. Ct. 136"
+      },
+      {
+        "caseName": "Hammond Packing Co. v. State of Arkansas",
+        "keyNumber": "247",
+        "usReportsCite": "212 U. S. 322",
+        "sectionHeading": "Imposition of penalty or forfeiture.",
+        "lawyersEditionCite": "53 L. Ed. 530",
+        "supremeCourtReporterCite": "29 S. Ct. 370"
+      },
+      {
+        "caseName": "German Alliance Ins. Co. v. Hale",
+        "keyNumber": "247",
+        "usReportsCite": "219 U. S. 307",
+        "sectionHeading": "Imposition of penalty or forfeiture.",
+        "lawyersEditionCite": "55 L. Ed. 229",
+        "supremeCourtReporterCite": "31 S. Ct. 246"
+      },
+      {
+        "caseName": "Standard Oil Co. of Indiana v. State of Missouri ex inf. Hadley",
+        "keyNumber": "247",
+        "usReportsCite": "224 U. S. 270",
+        "sectionHeading": "Imposition of penalty or forfeiture.",
+        "lawyersEditionCite": "56 L. Ed. 760",
+        "supremeCourtReporterCite": "32 S. Ct. 406"
+      },
+      {
+        "caseName": "Yazoo & Mississippi Val. R. Co. v. Jackson Vinegar Co.",
+        "keyNumber": "247",
+        "usReportsCite": "226 U. S. 217",
+        "sectionHeading": "Imposition of penalty or forfeiture.",
+        "lawyersEditionCite": "57 L. Ed. 193",
+        "supremeCourtReporterCite": "33 S. Ct. 40"
+      },
+      {
+        "caseName": "Hutchinson v. City of Valdosta",
+        "keyNumber": "247",
+        "usReportsCite": "227 U. S. 303",
+        "sectionHeading": "Imposition of penalty or forfeiture.",
+        "lawyersEditionCite": "57 L. Ed. 520",
+        "supremeCourtReporterCite": "33 S. Ct. 290"
+      },
+      {
+        "caseName": "Kansas City Southern Ry. Co. v. Anderson",
+        "keyNumber": "247",
+        "usReportsCite": "233 U. S. 325",
+        "sectionHeading": "Imposition of penalty or forfeiture.",
+        "lawyersEditionCite": "58 L. Ed. 983",
+        "supremeCourtReporterCite": "34 S. Ct. 599"
+      },
+      {
+        "caseName": "Wadley Southern Ry. Co. v. State of Georgia",
+        "keyNumber": "247",
+        "usReportsCite": "235 U. S. 651",
+        "sectionHeading": "Imposition of penalty or forfeiture.",
+        "lawyersEditionCite": "59 L. Ed. 405",
+        "supremeCourtReporterCite": "35 S. Ct. 214"
+      },
+      {
+        "caseName": "Gulf, C. & S. F. Ry. Co. v. Ellis",
+        "keyNumber": "247",
+        "usReportsCite": "165 U. S. 150",
+        "sectionHeading": "Imposition of penalty or forfeiture.",
+        "lawyersEditionCite": "41 L. Ed. 666",
+        "supremeCourtReporterCite": "17 S. Ct. 255"
+      },
+      {
+        "caseName": "Atchison, T. & S. F. R. Co. v. Matthews",
+        "keyNumber": "247",
+        "usReportsCite": "174 U. S. 96",
+        "sectionHeading": "Imposition of penalty or forfeiture.",
+        "lawyersEditionCite": "43 L. Ed. 909",
+        "supremeCourtReporterCite": "19 S. Ct. 609"
+      },
+      {
+        "caseName": "Farmers' & Merchants' Ins. Co. v. Dobney",
+        "keyNumber": "247",
+        "usReportsCite": "189 U. S. 301",
+        "sectionHeading": "Imposition of penalty or forfeiture.",
+        "lawyersEditionCite": "47 L. Ed. 821",
+        "supremeCourtReporterCite": "23 S. Ct. 565"
+      },
+      {
+        "caseName": "Gardner v. People of State of Michigan",
+        "keyNumber": "XI",
+        "usReportsCite": "199 U. S. 325",
+        "sectionHeading": "CONSTITUTIONAL LAW",
+        "lawyersEditionCite": "50 L. Ed. 212",
+        "supremeCourtReporterCite": "26 S. Ct. 106"
+      },
+      {
+        "caseName": "Hunter v. City of Pittsburgh",
+        "keyNumber": "251",
+        "usReportsCite": "207 U. S. 161",
+        "sectionHeading": "Constitutional guaranties in general.",
+        "lawyersEditionCite": "52 L. Ed. 151",
+        "supremeCourtReporterCite": "28 S. Ct. 40"
+      },
+      {
+        "caseName": "Ochoa v. Hernandez y Morales",
+        "keyNumber": "251",
+        "usReportsCite": "230 U. S. 139",
+        "sectionHeading": "Constitutional guaranties in general.",
+        "lawyersEditionCite": "57 L. Ed. 1427",
+        "supremeCourtReporterCite": "33 S. Ct. 1033"
+      },
+      {
+        "caseName": "City of New Orleans v. New Orleans Waterworks Co.",
+        "keyNumber": "252",
+        "usReportsCite": "142 U. S. 79",
+        "sectionHeading": "Persons protected.",
+        "lawyersEditionCite": "35 L. Ed. 943",
+        "supremeCourtReporterCite": "12 S. Ct. 142"
+      },
+      {
+        "caseName": "Charlotte, C. & A. R. Co. v. Gibbes",
+        "keyNumber": "252",
+        "usReportsCite": "142 U. S. 386",
+        "sectionHeading": "Persons protected.",
+        "lawyersEditionCite": "35 L. Ed. 1051",
+        "supremeCourtReporterCite": "12 S. Ct. 255"
+      },
+      {
+        "caseName": "Smyth v. Ames",
+        "keyNumber": "252",
+        "usReportsCite": "169 U. S. 466",
+        "sectionHeading": "Persons protected.",
+        "lawyersEditionCite": "42 L. Ed. 819",
+        "supremeCourtReporterCite": "18 S. Ct. 418"
+      },
+      {
+        "caseName": "Western Turf Ass'n v. Greenberg",
+        "keyNumber": "252",
+        "usReportsCite": "204 U. S. 859",
+        "sectionHeading": "Persons protected.",
+        "lawyersEditionCite": "51 L. Ed. 520",
+        "supremeCourtReporterCite": "27 S. Ct. 384"
+      },
+      {
+        "caseName": "Central Land Co. of West Virginia v. Laidley",
+        "keyNumber": "253",
+        "usReportsCite": "159 U. S. 103",
+        "sectionHeading": "Nature of sets prohibited in general.",
+        "lawyersEditionCite": "40 L. Ed. 91",
+        "supremeCourtReporterCite": "16 S. Ct. 80"
+      },
+      {
+        "caseName": "Hunter v. City of Pittsburgh",
+        "keyNumber": "254",
+        "usReportsCite": "207 U. S. 161",
+        "sectionHeading": "Control over governmental agencies in general.",
+        "lawyersEditionCite": "52 L. Ed. 151",
+        "supremeCourtReporterCite": "28 S. Ct. 40"
+      },
+      {
+        "caseName": "Soliah v. Heskin",
+        "keyNumber": "254",
+        "usReportsCite": "222 U. S. 522",
+        "sectionHeading": "Control over governmental agencies in general.",
+        "lawyersEditionCite": "56 L. Ed. 294",
+        "supremeCourtReporterCite": "32 S. Ct. 103"
+      },
+      {
+        "caseName": "Allgeyer v. State of Louisiana",
+        "keyNumber": "XI",
+        "usReportsCite": "165 U. S. 578",
+        "sectionHeading": "CONSTITUTIONAL LAW",
+        "lawyersEditionCite": "41 L. Ed. 832",
+        "supremeCourtReporterCite": "17 S. Ct. 427"
+      },
+      {
+        "caseName": "Brooks v. Missouri",
+        "keyNumber": "269",
+        "usReportsCite": "124 U. S. 394",
+        "sectionHeading": "New trial.",
+        "lawyersEditionCite": "31 L. Ed. 454",
+        "supremeCourtReporterCite": "8 S. Ct. 443"
+      },
+      {
+        "caseName": "Frank v. Mangum",
+        "keyNumber": "269",
+        "usReportsCite": "237 U. S. 309",
+        "sectionHeading": "New trial.",
+        "lawyersEditionCite": "59 L. Ed. 969",
+        "supremeCourtReporterCite": "35 S. Ct. 582"
+      },
+      {
+        "caseName": "In re Kemmler",
+        "keyNumber": "270",
+        "usReportsCite": "136 U. S. 436",
+        "sectionHeading": "Judgment and sentence.",
+        "lawyersEditionCite": "34 L. Ed. 519",
+        "supremeCourtReporterCite": "10 S. Ct. 930"
+      },
+      {
+        "caseName": "Trezza v. Same",
+        "keyNumber": "270",
+        "usReportsCite": "142 U. S. 160",
+        "sectionHeading": "Judgment and sentence.",
+        "lawyersEditionCite": "35 L. Ed. 974",
+        "supremeCourtReporterCite": "12 S. Ct. 158"
+      },
+      {
+        "caseName": "Dreyer v. People of State of Illinois",
+        "keyNumber": "270",
+        "usReportsCite": "187 U. S. 71",
+        "sectionHeading": "Judgment and sentence.",
+        "lawyersEditionCite": "47 L. Ed. 79",
+        "supremeCourtReporterCite": "23 S. Ct. 28"
+      },
+      {
+        "caseName": "Coffey v. Harlan County",
+        "keyNumber": "270",
+        "usReportsCite": "204 U. S. 659",
+        "sectionHeading": "Judgment and sentence.",
+        "lawyersEditionCite": "51 L. Ed. 666",
+        "supremeCourtReporterCite": "27 S. Ct. 305"
+      },
+      {
+        "caseName": "Ughbanks v. Armstrong",
+        "keyNumber": "270",
+        "usReportsCite": "208 U. S. 481",
+        "sectionHeading": "Judgment and sentence.",
+        "lawyersEditionCite": "52 L. Ed. 582",
+        "supremeCourtReporterCite": "28 S. Ct. 372"
+      },
+      {
+        "caseName": "Graham v. State of West Virginia",
+        "keyNumber": "270",
+        "usReportsCite": "224 U. S. 616",
+        "sectionHeading": "Judgment and sentence.",
+        "lawyersEditionCite": "56 L. Ed. 917",
+        "supremeCourtReporterCite": "32 S. Ct. 583"
+      },
+      {
+        "caseName": "Collins v. Johnston",
+        "keyNumber": "270",
+        "usReportsCite": "237 U. S. 502",
+        "sectionHeading": "Judgment and sentence.",
+        "lawyersEditionCite": "59 L. Ed. 1071",
+        "supremeCourtReporterCite": "35 S. Ct. 649"
+      },
+      {
+        "caseName": "Schwab v. Berggren",
+        "keyNumber": "271",
+        "usReportsCite": "143 U. S. 442",
+        "sectionHeading": "Appeal or error.",
+        "lawyersEditionCite": "36 L. Ed. 218",
+        "supremeCourtReporterCite": "12 S. Ct. 525"
+      },
+      {
+        "caseName": "Fielden v. People of State of Illinois",
+        "keyNumber": "271",
+        "usReportsCite": "143 U. S. 452",
+        "sectionHeading": "Appeal or error.",
+        "lawyersEditionCite": "36 L. Ed. 224",
+        "supremeCourtReporterCite": "12 S. Ct. 528"
+      },
+      {
+        "caseName": "Andrews v. Swartz",
+        "keyNumber": "271",
+        "usReportsCite": "156 U. S. 272",
+        "sectionHeading": "Appeal or error.",
+        "lawyersEditionCite": "39 L. Ed. 422",
+        "supremeCourtReporterCite": "15 S. Ct. 389"
+      },
+      {
+        "caseName": "Allen v. State of Georgia",
+        "keyNumber": "271",
+        "usReportsCite": "166 U. S. 138",
+        "sectionHeading": "Appeal or error.",
+        "lawyersEditionCite": "41 L. Ed. 949",
+        "supremeCourtReporterCite": "17 S. Ct. 525"
+      },
+      {
+        "caseName": "Rogers v. Peck",
+        "keyNumber": "271",
+        "usReportsCite": "199 U. S. 425",
+        "sectionHeading": "Appeal or error.",
+        "lawyersEditionCite": "50 L. Ed. 256",
+        "supremeCourtReporterCite": "26 S. Ct. 87"
+      },
+      {
+        "caseName": "Serra v. Mortiga",
+        "keyNumber": "271",
+        "usReportsCite": "204 U. S. 470",
+        "sectionHeading": "Appeal or error.",
+        "lawyersEditionCite": "51 L. Ed. 571",
+        "supremeCourtReporterCite": "27 S. Ct. 343"
+      },
+      {
+        "caseName": "Dowdell v. United States",
+        "keyNumber": "271",
+        "usReportsCite": "221 U. S. 325",
+        "sectionHeading": "Appeal or error.",
+        "lawyersEditionCite": "55 L. Ed. 753",
+        "supremeCourtReporterCite": "31 S. Ct. 590"
+      },
+      {
+        "caseName": "Holden v. State of Minnesota",
+        "keyNumber": "272",
+        "usReportsCite": "137 U. S. 483",
+        "sectionHeading": "Execution of sentence.",
+        "lawyersEditionCite": "34 L. Ed. 734",
+        "supremeCourtReporterCite": "11 S. Ct. 143"
+      },
+      {
+        "caseName": "Trezza v. Same",
+        "keyNumber": "272",
+        "usReportsCite": "142 U. S. 160",
+        "sectionHeading": "Execution of sentence.",
+        "lawyersEditionCite": "35 L. Ed. 974",
+        "supremeCourtReporterCite": "12 S. Ct. 158"
+      },
+      {
+        "caseName": "Lambert v. Barrett",
+        "keyNumber": "272",
+        "usReportsCite": "159 U. S. 660",
+        "sectionHeading": "Execution of sentence.",
+        "lawyersEditionCite": "40 L. Ed. 296",
+        "supremeCourtReporterCite": "16 S. Ct. 135"
+      },
+      {
+        "caseName": "Murphy v. Commonwealth of Massachusetts",
+        "keyNumber": "272",
+        "usReportsCite": "177 U. S. 155",
+        "sectionHeading": "Execution of sentence.",
+        "lawyersEditionCite": "44 L. Ed. 711",
+        "supremeCourtReporterCite": "20 S. Ct. 639"
+      },
+      {
+        "caseName": "Rogers v. Peck",
+        "keyNumber": "272",
+        "usReportsCite": "199 U. S. 425",
+        "sectionHeading": "Execution of sentence.",
+        "lawyersEditionCite": "50 L. Ed. 256",
+        "supremeCourtReporterCite": "26 S. Ct. 87"
+      },
+      {
+        "caseName": "McElvaine v. Brush",
+        "keyNumber": "272",
+        "usReportsCite": "142 U. S. 155",
+        "sectionHeading": "Execution of sentence.",
+        "lawyersEditionCite": "35 L. Ed. 971",
+        "supremeCourtReporterCite": "12 S. Ct. 156"
+      },
+      {
+        "caseName": "In re Terry",
+        "keyNumber": "273",
+        "usReportsCite": "128 U. S. 289",
+        "sectionHeading": "Contempt proceedings.",
+        "lawyersEditionCite": "32 L. Ed. 405",
+        "supremeCourtReporterCite": "9 S. Ct. 77"
+      },
+      {
+        "caseName": "Eilenbecker v. District Court of Plymouth County",
+        "keyNumber": "273",
+        "usReportsCite": "134 U. S. 31",
+        "sectionHeading": "Contempt proceedings.",
+        "lawyersEditionCite": "33 L. Ed. 801",
+        "supremeCourtReporterCite": "10 S. Ct. 424"
+      },
+      {
+        "caseName": "Davis v. Commonwealth of Massachusetts",
+        "keyNumber": "274",
+        "usReportsCite": "167 U. S. 43",
+        "sectionHeading": "Deprivation of personal rights in general.",
+        "lawyersEditionCite": "42 L. Ed. 71",
+        "supremeCourtReporterCite": "17 S. Ct. 731"
+      },
+      {
+        "caseName": "United States ex rel. Turner v. Fisher",
+        "keyNumber": "274",
+        "usReportsCite": "222 U. S. 204",
+        "sectionHeading": "Deprivation of personal rights in general.",
+        "lawyersEditionCite": "56 L. Ed. 165",
+        "supremeCourtReporterCite": "32 S. Ct. 37"
+      },
+      {
+        "caseName": "Waugh v. Board of Trustees of University of Mississippi",
+        "keyNumber": "274",
+        "usReportsCite": "237 U. S. 589",
+        "sectionHeading": "Deprivation of personal rights in general.",
+        "lawyersEditionCite": "59 L. Ed. 1131",
+        "supremeCourtReporterCite": "35 S. Ct. 720"
+      },
+      {
+        "caseName": "Holden v. Hardy",
+        "keyNumber": "275",
+        "usReportsCite": "169 U. S. 366",
+        "sectionHeading": "Deprivation of liberty as to occupation or employment.",
+        "lawyersEditionCite": "42 L. Ed. 780",
+        "supremeCourtReporterCite": "18 S. Ct. 383"
+      },
+      {
+        "caseName": "St. Louis, I. M. & S. Ry. Co. v. Paul",
+        "keyNumber": "275",
+        "usReportsCite": "173 U. S. 404",
+        "sectionHeading": "Deprivation of liberty as to occupation or employment.",
+        "lawyersEditionCite": "43 L. Ed. 746",
+        "supremeCourtReporterCite": "19 S. Ct. 419"
+      },
+      {
+        "caseName": "Knoxville Iron Co. v. Harbison",
+        "keyNumber": "275",
+        "usReportsCite": "183 U. S. 13",
+        "sectionHeading": "Deprivation of liberty as to occupation or employment.",
+        "lawyersEditionCite": "46 L. Ed. 55",
+        "supremeCourtReporterCite": "22 S. Ct. 1"
+      },
+      {
+        "caseName": "Reetz v. People of State of Michigan",
+        "keyNumber": "275",
+        "usReportsCite": "188 U. S. 505",
+        "sectionHeading": "Deprivation of liberty as to occupation or employment.",
+        "lawyersEditionCite": "47 L. Ed. 563",
+        "supremeCourtReporterCite": "23 S. Ct. 390"
+      },
+      {
+        "caseName": "Patterson v. The Eudora",
+        "keyNumber": "275",
+        "usReportsCite": "190 U. S. 169",
+        "sectionHeading": "Deprivation of liberty as to occupation or employment.",
+        "lawyersEditionCite": "47 L. Ed. 1002",
+        "supremeCourtReporterCite": "23 S. Ct. 821"
+      },
+      {
+        "caseName": "Atkin v. State of Kansas",
+        "keyNumber": "275",
+        "usReportsCite": "191 U. S. 207",
+        "sectionHeading": "Deprivation of liberty as to occupation or employment.",
+        "lawyersEditionCite": "48 L. Ed. 148",
+        "supremeCourtReporterCite": "24 S. Ct. 124"
+      },
+      {
+        "caseName": "Lochner v. People of State of New York",
+        "keyNumber": "275",
+        "usReportsCite": "198 U. S. 45",
+        "sectionHeading": "Deprivation of liberty as to occupation or employment.",
+        "lawyersEditionCite": "49 L. Ed. 937",
+        "supremeCourtReporterCite": "25 S. Ct. 539"
+      },
+      {
+        "caseName": "Meffert v. Packer",
+        "keyNumber": "275",
+        "usReportsCite": "195 U. S. 625",
+        "sectionHeading": "Deprivation of liberty as to occupation or employment.",
+        "lawyersEditionCite": "49 L. Ed. 350",
+        "supremeCourtReporterCite": "25 S. Ct. 790"
+      },
+      {
+        "caseName": "L'Hote v. City of New Orleans",
+        "keyNumber": "XI",
+        "usReportsCite": "177 U. S. 587",
+        "sectionHeading": "CONSTITUTIONAL LAW",
+        "lawyersEditionCite": "44 L. Ed. 899",
+        "supremeCourtReporterCite": "20 S. Ct. 788"
+      },
+      {
+        "caseName": "Compagnie Française de Navigation à Vapeur v. Board of Health of State of Louisiana",
+        "keyNumber": "XI",
+        "usReportsCite": "186 U. S. 380",
+        "sectionHeading": "CONSTITUTIONAL LAW",
+        "lawyersEditionCite": "46 L. Ed. 1209",
+        "supremeCourtReporterCite": "22 S. Ct. 811"
+      },
+      {
+        "caseName": "Williams v. Parker",
+        "keyNumber": "XI",
+        "usReportsCite": "188 U. S. 491",
+        "sectionHeading": "CONSTITUTIONAL LAW",
+        "lawyersEditionCite": "47 L. Ed. 559",
+        "supremeCourtReporterCite": "23 S. Ct. 440"
+      },
+      {
+        "caseName": "Cunnius v. Reading School Dist.",
+        "keyNumber": "XI",
+        "usReportsCite": "198 U. S. 458",
+        "sectionHeading": "CONSTITUTIONAL LAW",
+        "lawyersEditionCite": "49 L. Ed. 1125",
+        "supremeCourtReporterCite": "25 S. Ct. 721"
+      },
+      {
+        "caseName": "Attorney General of State of Michigan v. Lowrey",
+        "keyNumber": "XI",
+        "usReportsCite": "199 U. S. 233",
+        "sectionHeading": "CONSTITUTIONAL LAW",
+        "lawyersEditionCite": "50 L. Ed. 167",
+        "supremeCourtReporterCite": "26 S. Ct. 27"
+      },
+      {
+        "caseName": "California Reduction Co. v. Sanitary Reduction Works of San Francisco",
+        "keyNumber": "XI",
+        "usReportsCite": "199 U. S. 306",
+        "sectionHeading": "CONSTITUTIONAL LAW",
+        "lawyersEditionCite": "50 L. Ed. 204",
+        "supremeCourtReporterCite": "26 S. Ct. 100"
+      },
+      {
+        "caseName": "People of State of New York v. Van De Carr",
+        "keyNumber": "XI",
+        "usReportsCite": "199 U. S. 552",
+        "sectionHeading": "CONSTITUTIONAL LAW",
+        "lawyersEditionCite": "50 L. Ed. 305",
+        "supremeCourtReporterCite": "26 S. Ct. 144"
+      },
+      {
+        "caseName": "Cleveland Electric Ry. Co. v. City of Cleveland",
+        "keyNumber": "XI",
+        "usReportsCite": "201 U. S. 116",
+        "sectionHeading": "CONSTITUTIONAL LAW",
+        "lawyersEditionCite": "51 L. Ed. 399",
+        "supremeCourtReporterCite": null
+      }
+    ]
+  }
+}

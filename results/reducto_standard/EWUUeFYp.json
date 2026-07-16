@@ -1,0 +1,326 @@
+{
+  "score": 0.05909471919530594,
+  "cost": 1.26,
+  "time_sec": 54.757019996643066,
+  "num_pages": 28,
+  "data": {
+    "entries": [
+      {
+        "headword": "मती",
+        "genderTag": "स्त्री."
+      },
+      {
+        "headword": "मेह",
+        "genderTag": "पुं."
+      },
+      {
+        "headword": "इक्षुर",
+        "genderTag": "पुं."
+      },
+      {
+        "headword": "इक्षुसार",
+        "genderTag": "पुं."
+      },
+      {
+        "headword": "इक्ष्वाकु",
+        "genderTag": "पुं."
+      },
+      {
+        "headword": "इक्ष्वालिका",
+        "genderTag": "स्त्री."
+      },
+      {
+        "headword": "इख्",
+        "genderTag": "क्रि."
+      },
+      {
+        "headword": "इगु",
+        "genderTag": "क्रि."
+      },
+      {
+        "headword": "इङ्ग",
+        "genderTag": "क्रि."
+      },
+      {
+        "headword": "इङ्गः",
+        "genderTag": "पुं."
+      },
+      {
+        "headword": "इङ्गित",
+        "genderTag": "न."
+      },
+      {
+        "headword": "इङ्गुः",
+        "genderTag": "पुं."
+      },
+      {
+        "headword": "इदः -दी",
+        "genderTag": "पुं.स्त्री."
+      },
+      {
+        "headword": "इचिकिलः",
+        "genderTag": "पुं."
+      },
+      {
+        "headword": "इच्छा",
+        "genderTag": "स्त्री."
+      },
+      {
+        "headword": "इच्छुक:",
+        "genderTag": "पुं."
+      },
+      {
+        "headword": "इच्छलः",
+        "genderTag": "पुं."
+      },
+      {
+        "headword": "इज्य",
+        "genderTag": "पुं."
+      },
+      {
+        "headword": "इज्या",
+        "genderTag": "स्त्री."
+      },
+      {
+        "headword": "इञ्चाक",
+        "genderTag": "पुं."
+      },
+      {
+        "headword": "इट्",
+        "genderTag": "क्रि."
+      },
+      {
+        "headword": "इट:",
+        "genderTag": "पुं."
+      },
+      {
+        "headword": "इचर:",
+        "genderTag": "पुं."
+      },
+      {
+        "headword": "इडु",
+        "genderTag": "स्त्री."
+      },
+      {
+        "headword": "इस्पति",
+        "genderTag": "पुं."
+      },
+      {
+        "headword": "इड:",
+        "genderTag": "पुं."
+      },
+      {
+        "headword": "इडाला",
+        "genderTag": "स्त्री."
+      },
+      {
+        "headword": "sistant",
+        "genderTag": "स्त्री."
+      },
+      {
+        "headword": "इडिका",
+        "genderTag": "स्त्री."
+      },
+      {
+        "headword": "इ",
+        "genderTag": "क्रि."
+      },
+      {
+        "headword": "इत",
+        "genderTag": "त्रि."
+      },
+      {
+        "headword": "इतर",
+        "genderTag": "त्रि."
+      },
+      {
+        "headword": "इतरथा",
+        "genderTag": "अव्य."
+      },
+      {
+        "headword": "इतरेतर",
+        "genderTag": "त्रि."
+      },
+      {
+        "headword": "इतसे",
+        "genderTag": "श्रव्य"
+      },
+      {
+        "headword": "इतरेद्यः",
+        "genderTag": ""
+      },
+      {
+        "headword": "इतस्ततः",
+        "genderTag": "अव्य."
+      },
+      {
+        "headword": "इति",
+        "genderTag": "अव्य."
+      },
+      {
+        "headword": "इतिकर्त्तव्यता",
+        "genderTag": "स्त्री."
+      },
+      {
+        "headword": "इतिमध्ये",
+        "genderTag": "श्रव्य ."
+      },
+      {
+        "headword": "इतिह",
+        "genderTag": "श्रव्य ."
+      },
+      {
+        "headword": "इतिहास",
+        "genderTag": "पुं."
+      },
+      {
+        "headword": "इत्थम्",
+        "genderTag": "अन्य"
+      },
+      {
+        "headword": "इत्थशालः",
+        "genderTag": "पुं."
+      },
+      {
+        "headword": "इत्वर",
+        "genderTag": "त्रि."
+      },
+      {
+        "headword": "इत्री",
+        "genderTag": "स्त्री."
+      },
+      {
+        "headword": "हृत्य",
+        "genderTag": "त्रि."
+      },
+      {
+        "headword": "इदू",
+        "genderTag": "क्रि."
+      },
+      {
+        "headword": "इदम्",
+        "genderTag": "त्रि."
+      },
+      {
+        "headword": "इदानीम्",
+        "genderTag": "अव्य."
+      },
+      {
+        "headword": "इद्ध",
+        "genderTag": "न."
+      },
+      {
+        "headword": "इस",
+        "genderTag": "न."
+      },
+      {
+        "headword": "इनः",
+        "genderTag": "पुं."
+      },
+      {
+        "headword": "इनक्षति",
+        "genderTag": "क्रि."
+      },
+      {
+        "headword": "इन्दिरा",
+        "genderTag": "स्त्री."
+      },
+      {
+        "headword": "इन्दिवर",
+        "genderTag": "न."
+      },
+      {
+        "headword": "इन्दु",
+        "genderTag": "पुं."
+      },
+      {
+        "headword": "इन्दुकलिका",
+        "genderTag": "स्त्री."
+      },
+      {
+        "headword": "इन्दुकान्त",
+        "genderTag": "पुं."
+      },
+      {
+        "headword": "इन्दुजनक",
+        "genderTag": "पुं."
+      },
+      {
+        "headword": "इन्दुजा",
+        "genderTag": "स्त्री."
+      },
+      {
+        "headword": "इन्दुपुत्र",
+        "genderTag": "पुं."
+      },
+      {
+        "headword": "इन्दुभृत्",
+        "genderTag": "पुं."
+      },
+      {
+        "headword": "इन्दुमती",
+        "genderTag": "स्त्री."
+      },
+      {
+        "headword": "इन्दुरत्न",
+        "genderTag": "न."
+      },
+      {
+        "headword": "इन्दुलेखा",
+        "genderTag": "स्त्री."
+      },
+      {
+        "headword": "इन्दुवासर",
+        "genderTag": "सं."
+      },
+      {
+        "headword": "इन्द्र",
+        "genderTag": "पुं."
+      },
+      {
+        "headword": "इन्द्रक",
+        "genderTag": "न."
+      },
+      {
+        "headword": "इन्द्रकील",
+        "genderTag": "पुं."
+      },
+      {
+        "headword": "इन्द्रगोप",
+        "genderTag": "पुं."
+      },
+      {
+        "headword": "इन्द्रजालिक",
+        "genderTag": "त्रि."
+      },
+      {
+        "headword": "इन्द्रजित्",
+        "genderTag": "पुं."
+      },
+      {
+        "headword": "इन्द्रधनुष",
+        "genderTag": "न."
+      },
+      {
+        "headword": "इन्द्रनील",
+        "genderTag": "पुं."
+      },
+      {
+        "headword": "इन्द्रनेत्र",
+        "genderTag": "न."
+      },
+      {
+        "headword": "इन्द्रपर्वत",
+        "genderTag": "पुं."
+      },
+      {
+        "headword": "इन्द्रपुरोहित",
+        "genderTag": "पुं."
+      },
+      {
+        "headword": "इन्द्रप्रस्थ",
+        "genderTag": "न."
+      }
+    ]
+  }
+}

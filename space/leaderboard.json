@@ -1,64 +1,40 @@
 {
   "benchmark": {
     "name": "DocuBench",
-    "version": "0.1.0",
-    "doc_count": 50,
+    "version": "0.2.0",
+    "doc_count": 72,
     "metric": "macro_average_field_accuracy"
   },
   "engines": [
     {
-      "key": "claude",
-      "display": "Claude",
-      "model": "claude-sonnet-4-6",
-      "overall": 0.9053105791742925
-    },
-    {
-      "key": "claude5",
-      "display": "Claude Sonnet 5",
-      "model": "claude-sonnet-5",
-      "overall": 0.9367639996796968
-    },
-    {
       "key": "docupipe_high",
       "display": "DocuPipe high",
       "model": null,
-      "overall": 0.9756010761615354
+      "overall": 0.9703259294086135
     },
     {
       "key": "docupipe_standard",
       "display": "DocuPipe standard",
       "model": null,
-      "overall": 0.9630979254504501
+      "overall": 0.9615573247124605
     },
     {
       "key": "extend",
       "display": "Extend",
       "model": null,
-      "overall": 0.9110939031697707
-    },
-    {
-      "key": "gemini",
-      "display": "Gemini",
-      "model": "gemini-3.5-flash",
-      "overall": 0.9710197488781779
-    },
-    {
-      "key": "gpt",
-      "display": "GPT",
-      "model": "gpt-5.5",
-      "overall": 0.9463672056422581
+      "overall": 0.8021850439187752
     },
     {
       "key": "reducto",
       "display": "Reducto Deep Extract",
       "model": null,
-      "overall": 0.957679374444622
+      "overall": 0.8930629789678396
     },
     {
       "key": "reducto_standard",
       "display": "Reducto standard",
       "model": null,
-      "overall": 0.9270176291564316
+      "overall": 0.8105509380637796
     }
   ],
   "breakdowns": {
@@ -66,130 +42,90 @@
       {
         "value": "csv",
         "doc_count": 1,
-        "claude": 0.9714285714285714,
-        "claude5": 0.9714285714285714,
         "docupipe_high": 1.0,
         "docupipe_standard": 0.9857142857142858,
         "extend": 0.5396825396825397,
-        "gemini": 1.0,
-        "gpt": 1.0,
         "reducto": 1.0,
         "reducto_standard": 1.0
       },
       {
         "value": "docx",
         "doc_count": 1,
-        "claude": 1.0,
-        "claude5": 1.0,
         "docupipe_high": 1.0,
         "docupipe_standard": 1.0,
         "extend": 0.8333333333333334,
-        "gemini": 1.0,
-        "gpt": 0.8333333333333334,
         "reducto": 1.0,
         "reducto_standard": 0.7592592592592593
       },
       {
         "value": "html",
         "doc_count": 1,
-        "claude": 1.0,
-        "claude5": 1.0,
         "docupipe_high": 1.0,
         "docupipe_standard": 1.0,
         "extend": 1.0,
-        "gemini": 1.0,
-        "gpt": 1.0,
         "reducto": 0.9583333333333334,
         "reducto_standard": 0.9583333333333334
       },
       {
         "value": "jpeg",
-        "doc_count": 4,
-        "claude": 0.7199762455059066,
-        "claude5": 0.8362068965517242,
-        "docupipe_high": 0.9743455497382199,
-        "docupipe_standard": 1.0,
-        "extend": 0.8029137606772159,
-        "gemini": 0.968372556702932,
-        "gpt": 0.9502295226869576,
-        "reducto": 0.8414528319087724,
-        "reducto_standard": 0.704757615757863
+        "doc_count": 5,
+        "docupipe_high": 0.9665732139841243,
+        "docupipe_standard": 0.9838709677419356,
+        "extend": 0.8262019762837083,
+        "reducto": 0.7763880719786308,
+        "reducto_standard": 0.6670318990579034
       },
       {
         "value": "pdf",
-        "doc_count": 37,
-        "claude": 0.9147934310013583,
-        "claude5": 0.939894059451267,
-        "docupipe_high": 0.9707181057894224,
-        "docupipe_standard": 0.9552956063445976,
-        "extend": 0.9237730232194886,
-        "gemini": 0.9663758461623313,
-        "gpt": 0.9429817685289688,
-        "reducto": 0.9657417056454523,
-        "reducto_standard": 0.9468307206234351
+        "doc_count": 58,
+        "docupipe_high": 0.966629295734212,
+        "docupipe_standard": 0.9569623052209498,
+        "extend": 0.7838426728288738,
+        "reducto": 0.8902220662082243,
+        "reducto_standard": 0.8021619605789584
       },
       {
         "value": "png",
         "doc_count": 1,
-        "claude": 0.833957219251337,
-        "claude5": 0.9565173796791445,
         "docupipe_high": 1.0,
         "docupipe_standard": 1.0,
         "extend": 1.0,
-        "gemini": 0.921590909090909,
-        "gpt": 0.793783422459893,
         "reducto": 0.9886363636363636,
         "reducto_standard": 0.9886363636363636
       },
       {
         "value": "tiff",
         "doc_count": 1,
-        "claude": 0.9523809523809523,
-        "claude5": 0.8571428571428571,
         "docupipe_high": 1.0,
         "docupipe_standard": 0.8571428571428571,
         "extend": 0.9523809523809523,
-        "gemini": 1.0,
-        "gpt": 1.0,
         "reducto": 0.9523809523809523,
         "reducto_standard": 0.95
       },
       {
         "value": "txt",
         "doc_count": 1,
-        "claude": 1.0,
-        "claude5": 1.0,
         "docupipe_high": 1.0,
         "docupipe_standard": 1.0,
         "extend": 0.8888888888888888,
-        "gemini": 1.0,
-        "gpt": 1.0,
         "reducto": 1.0,
         "reducto_standard": 1.0
       },
       {
         "value": "xlsx",
         "doc_count": 1,
-        "claude": 0.7937853107344632,
-        "claude5": 0.9322033898305084,
         "docupipe_high": 0.9661016949152542,
         "docupipe_standard": 0.9661016949152542,
         "extend": 0.9491525423728815,
-        "gemini": 1.0,
-        "gpt": 1.0,
         "reducto": 1.0,
         "reducto_standard": 1.0
       },
       {
         "value": "xml",
         "doc_count": 2,
-        "claude": 0.9933574879227054,
-        "claude5": 1.0,
         "docupipe_high": 1.0,
         "docupipe_standard": 1.0,
         "extend": 1.0,
-        "gemini": 1.0,
-        "gpt": 1.0,
         "reducto": 0.9431818181818181,
         "reducto_standard": 0.9214426877470356
       }
@@ -198,243 +134,180 @@
       {
         "value": "ar",
         "doc_count": 1,
-        "claude": 0.9836065573770492,
-        "claude5": 1.0,
         "docupipe_high": 0.9836065573770492,
         "docupipe_standard": 0.9836065573770492,
         "extend": 0.9836065573770492,
-        "gemini": 1.0,
-        "gpt": 1.0,
         "reducto": 1.0,
         "reducto_standard": 0.9836065573770492
       },
       {
         "value": "de",
         "doc_count": 2,
-        "claude": 0.8473470891672807,
-        "claude5": 0.9608695652173913,
         "docupipe_high": 0.9399954473025267,
         "docupipe_standard": 0.9782608695652174,
         "extend": 0.7607417065044183,
-        "gemini": 0.9956521739130435,
-        "gpt": 0.9624416605256694,
         "reducto": 0.8975927290591992,
         "reducto_standard": 0.9003642157978603
       },
       {
         "value": "en",
-        "doc_count": 33,
-        "claude": 0.9447733404578039,
-        "claude5": 0.967828261343291,
-        "docupipe_high": 0.9886944254142424,
-        "docupipe_standard": 0.9684380559280938,
-        "extend": 0.9438995193785481,
-        "gemini": 0.9883156743951763,
-        "gpt": 0.9662278170976956,
-        "reducto": 0.9772821120816132,
-        "reducto_standard": 0.9666521864495382
+        "doc_count": 47,
+        "docupipe_high": 0.9859047754386904,
+        "docupipe_standard": 0.9708390908179392,
+        "extend": 0.8601187360278305,
+        "reducto": 0.9219811515135664,
+        "reducto_standard": 0.8409842439444263
       },
       {
         "value": "es",
-        "doc_count": 1,
-        "claude": 1.0,
-        "claude5": 1.0,
-        "docupipe_high": 1.0,
-        "docupipe_standard": 1.0,
-        "extend": 1.0,
-        "gemini": 1.0,
-        "gpt": 1.0,
-        "reducto": 1.0,
-        "reducto_standard": 1.0
+        "doc_count": 3,
+        "docupipe_high": 0.9946683529402408,
+        "docupipe_standard": 0.9900770265604725,
+        "extend": 0.6902812577055544,
+        "reducto": 0.9576447716239397,
+        "reducto_standard": 0.9858067334282526
       },
       {
         "value": "fr",
         "doc_count": 1,
-        "claude": 0.7315051020408164,
-        "claude5": 0.8098159509202455,
         "docupipe_high": 1.0,
         "docupipe_standard": 0.9551374819102749,
         "extend": 0.8098159509202455,
-        "gemini": 0.9476603955619874,
-        "gpt": 1.0,
         "reducto": 1.0,
         "reducto_standard": 0.9464544138929087
       },
       {
         "value": "he",
-        "doc_count": 6,
-        "claude": 0.6825945347398594,
-        "claude5": 0.721799093022104,
-        "docupipe_high": 0.8944922852065669,
-        "docupipe_standard": 0.8906098435684644,
-        "extend": 0.7234977592671714,
-        "gemini": 0.85916859719657,
-        "gpt": 0.8299202200818088,
-        "reducto": 0.8490774447891307,
-        "reducto_standard": 0.6576395701046269
+        "doc_count": 7,
+        "docupipe_high": 0.8895525006204071,
+        "docupipe_standard": 0.8747304406284704,
+        "extend": 0.6303010350368858,
+        "reducto": 0.8550384666337049,
+        "reducto_standard": 0.6305014049172664
+      },
+      {
+        "value": "hi",
+        "doc_count": 2,
+        "docupipe_high": 0.9693241609168648,
+        "docupipe_standard": 0.9885724765848245,
+        "extend": 0.2864197233943061,
+        "reducto": 0.5709148064241134,
+        "reducto_standard": 0.03911148628313431
       },
       {
         "value": "it",
         "doc_count": 1,
-        "claude": 0.7501940993788819,
-        "claude5": 1.0,
         "docupipe_high": 0.9735054347826086,
         "docupipe_standard": 0.9735054347826086,
         "extend": 0.9429347826086957,
-        "gemini": 1.0,
-        "gpt": 0.9646739130434783,
         "reducto": 1.0,
         "reducto_standard": 1.0
       },
       {
         "value": "ja",
-        "doc_count": 2,
-        "claude": 0.934293078174939,
-        "claude5": 0.9368311492409289,
-        "docupipe_high": 0.9867357076525486,
-        "docupipe_standard": 0.992005076142132,
-        "extend": 0.9035918797392992,
-        "gemini": 0.9393692203069186,
-        "gpt": 0.9368311492409289,
-        "reducto": 0.9368311492409289,
-        "reducto_standard": 0.9786180540561646
+        "doc_count": 4,
+        "docupipe_high": 0.9003075236335897,
+        "docupipe_standard": 0.9263108456046056,
+        "extend": 0.659236608444772,
+        "reducto": 0.6656848669527823,
+        "reducto_standard": 0.7726508120179412
       },
       {
         "value": "nl",
         "doc_count": 1,
-        "claude": 1.0,
-        "claude5": 1.0,
         "docupipe_high": 1.0,
         "docupipe_standard": 1.0,
         "extend": 1.0,
-        "gemini": 1.0,
-        "gpt": 0.7671232876712328,
         "reducto": 1.0,
         "reducto_standard": 0.958904109589041
       },
       {
         "value": "pt",
         "doc_count": 1,
-        "claude": 0.963855421686747,
-        "claude5": 0.963855421686747,
         "docupipe_high": 0.975609756097561,
         "docupipe_standard": 1.0,
         "extend": 1.0,
-        "gemini": 0.963855421686747,
-        "gpt": 0.975609756097561,
         "reducto": 0.975609756097561,
         "reducto_standard": 0.963855421686747
       },
       {
         "value": "zh",
-        "doc_count": 1,
-        "claude": 1.0,
-        "claude5": 1.0,
-        "docupipe_high": 1.0,
-        "docupipe_standard": 1.0,
-        "extend": 1.0,
-        "gemini": 1.0,
-        "gpt": 0.9473684210526315,
-        "reducto": 0.8947368421052632,
-        "reducto_standard": 0.8947368421052632
+        "doc_count": 2,
+        "docupipe_high": 0.9812394247038914,
+        "docupipe_standard": 0.9790931989924432,
+        "extend": 0.6905824829931975,
+        "reducto": 0.7669262441818825,
+        "reducto_standard": 0.8200514428594881
       }
     ],
     "capability": [
       {
         "flag": "arrays",
         "label": "Array / line-item tables",
-        "doc_count": 30,
-        "claude": 0.9086905665551259,
-        "claude5": 0.9487199236280207,
-        "docupipe_high": 0.9741039999589943,
-        "docupipe_standard": 0.9681002382914663,
-        "extend": 0.9197635449019044,
-        "gemini": 0.9755323664273591,
-        "gpt": 0.9635839954328512,
-        "reducto": 0.9707597051380733,
-        "reducto_standard": 0.9627288990787914
+        "doc_count": 51,
+        "docupipe_high": 0.9680597889636372,
+        "docupipe_standard": 0.9647232042511563,
+        "extend": 0.7622780296472694,
+        "reducto": 0.8828083899085781,
+        "reducto_standard": 0.7916573337818869
       },
       {
         "flag": "reconcile",
         "label": "Totals must reconcile",
-        "doc_count": 24,
-        "claude": 0.8920733125876916,
-        "claude5": 0.9155480506239394,
-        "docupipe_high": 0.9688657330677747,
-        "docupipe_standard": 0.9640066497323109,
-        "extend": 0.8820327952558755,
-        "gemini": 0.9662845774195136,
-        "gpt": 0.9408931445430819,
-        "reducto": 0.949612598023239,
-        "reducto_standard": 0.9034197751048393
+        "doc_count": 26,
+        "docupipe_high": 0.9600123187739903,
+        "docupipe_standard": 0.9577347179838175,
+        "extend": 0.8642498025395061,
+        "reducto": 0.9015070894612413,
+        "reducto_standard": 0.8701797778080578
       },
       {
         "flag": "rtl",
         "label": "Right-to-left script",
-        "doc_count": 7,
-        "claude": 0.7255962522594581,
-        "claude5": 0.761542079733232,
-        "docupipe_high": 0.9072228955166357,
-        "docupipe_standard": 0.9038950883982623,
-        "extend": 0.760656158997154,
-        "gemini": 0.8792873690256313,
-        "gpt": 0.854217331498693,
-        "reducto": 0.870637809819255,
-        "reducto_standard": 0.7042062825721158
+        "doc_count": 8,
+        "docupipe_high": 0.9013092577149873,
+        "docupipe_standard": 0.8883399552220427,
+        "extend": 0.6744642253294063,
+        "reducto": 0.8731586583044918,
+        "reducto_standard": 0.6746395489747393
       },
       {
         "flag": "cjk",
         "label": "CJK script",
-        "doc_count": 3,
-        "claude": 0.9561953854499593,
-        "claude5": 0.957887432827286,
-        "docupipe_high": 0.9911571384350323,
-        "docupipe_standard": 0.9946700507614213,
-        "extend": 0.9357279198261995,
-        "gemini": 0.9595794802046124,
-        "gpt": 0.9403435731781631,
-        "reducto": 0.9227997135290403,
-        "reducto_standard": 0.9506576500725309
+        "doc_count": 6,
+        "docupipe_high": 0.9272848239903569,
+        "docupipe_standard": 0.9439049634005515,
+        "extend": 0.6696852332942472,
+        "reducto": 0.6994319926958156,
+        "reducto_standard": 0.7884510222984568
       },
       {
         "flag": "handwriting",
         "label": "Handwriting",
-        "doc_count": 1,
-        "claude": 0.9775280898876404,
-        "claude5": 0.9001605136436596,
-        "docupipe_high": 1.0,
-        "docupipe_standard": 0.9778491171749598,
-        "extend": 0.9775280898876404,
-        "gemini": 0.9775280898876404,
-        "gpt": 0.8647672552166934,
-        "reducto": 0.9664526484751205,
-        "reducto_standard": 0.9553772070626004
+        "doc_count": 3,
+        "docupipe_high": 0.9599128711717224,
+        "docupipe_standard": 0.9462116669168804,
+        "extend": 0.8782144641043553,
+        "reducto": 0.67831890612415,
+        "reducto_standard": 0.6710634066831203
       },
       {
         "flag": "rotated",
         "label": "Rotated scan",
-        "doc_count": 2,
-        "claude": 0.8931690858161447,
-        "claude5": 0.9068301184110008,
-        "docupipe_high": 1.0,
-        "docupipe_standard": 0.9285714285714286,
-        "extend": 0.9761904761904762,
-        "gemini": 0.9607954545454545,
-        "gpt": 0.8968917112299465,
-        "reducto": 0.9705086580086579,
-        "reducto_standard": 0.9693181818181817
+        "doc_count": 3,
+        "docupipe_high": 0.978494623655914,
+        "docupipe_standard": 0.9254992319508449,
+        "extend": 0.9572452636968766,
+        "reducto": 0.8190487827584602,
+        "reducto_standard": 0.8182551319648094
       },
       {
         "flag": "needle",
         "label": "Needle-in-haystack lookup",
         "doc_count": 2,
-        "claude": 0.9857142857142858,
-        "claude5": 0.9857142857142858,
         "docupipe_high": 1.0,
         "docupipe_standard": 0.9928571428571429,
         "extend": 0.7698412698412698,
-        "gemini": 1.0,
-        "gpt": 1.0,
         "reducto": 0.9431818181818181,
         "reducto_standard": 0.9431818181818181
       },
@@ -442,13 +315,9 @@
         "flag": "nested",
         "label": "Nested objects",
         "doc_count": 1,
-        "claude": 0.9807692307692307,
-        "claude5": 0.9807692307692307,
         "docupipe_high": 1.0,
         "docupipe_standard": 1.0,
         "extend": 0.9807692307692307,
-        "gemini": 1.0,
-        "gpt": 0.9807692307692307,
         "reducto": 1.0,
         "reducto_standard": 1.0
       }
@@ -475,15 +344,92 @@
         "nested": false
       },
       "scores": {
-        "claude": 0.8755555555555554,
-        "claude5": 1.0,
         "docupipe_high": 1.0,
         "docupipe_standard": 1.0,
         "extend": 1.0,
-        "gemini": 1.0,
-        "gpt": 1.0,
         "reducto": 1.0,
         "reducto_standard": 0.96
+      }
+    },
+    {
+      "doc_id": "2Kqu7k2B",
+      "name": "Blanchard Library Auction Catalog 1898",
+      "lang": "en",
+      "ftype": "pdf",
+      "pages": 14,
+      "feature": "143 auction lots; direct-LLM recitation refusal",
+      "license": "1898 U.S. publication, public domain",
+      "source_url": "https://archive.org/details/cu31924031351418",
+      "flags": {
+        "arrays": true,
+        "reconcile": false,
+        "rtl": false,
+        "cjk": false,
+        "handwriting": false,
+        "rotated": false,
+        "needle": false,
+        "nested": false
+      },
+      "scores": {
+        "docupipe_high": 0.991841491841492,
+        "docupipe_standard": 0.9982517482517481,
+        "extend": 0.8776223776223775,
+        "reducto": 0.9667832167832169,
+        "reducto_standard": 0.8682983682983683
+      }
+    },
+    {
+      "doc_id": "3VX7OcKR",
+      "name": "Everybody's Spanish Dictionary",
+      "lang": "es",
+      "ftype": "pdf",
+      "pages": 15,
+      "feature": "915 dictionary entries; minimal direct-LLM output-token failure boundary",
+      "license": "1900 publication, public domain",
+      "source_url": "https://archive.org/details/everybodysspanis00phil",
+      "flags": {
+        "arrays": true,
+        "reconcile": false,
+        "rtl": false,
+        "cjk": false,
+        "handwriting": false,
+        "rotated": false,
+        "needle": false,
+        "nested": false
+      },
+      "scores": {
+        "docupipe_high": 0.9986338797814209,
+        "docupipe_standard": 0.9907103825136612,
+        "extend": 0.34289617486338797,
+        "reducto": 0.9744990892531876,
+        "reducto_standard": 0.9802367941712203
+      }
+    },
+    {
+      "doc_id": "3cS2qu1e",
+      "name": "1950 Census Population Schedule",
+      "lang": "en",
+      "ftype": "pdf",
+      "pages": 1,
+      "feature": "30 handwritten census rows on a degraded cursive scan",
+      "license": "U.S. Census Bureau/NARA federal record, public domain",
+      "source_url": "https://1950census.archives.gov/",
+      "flags": {
+        "arrays": true,
+        "reconcile": false,
+        "rtl": false,
+        "cjk": false,
+        "handwriting": true,
+        "rotated": false,
+        "needle": false,
+        "nested": false
+      },
+      "scores": {
+        "docupipe_high": 0.9442547425474253,
+        "docupipe_standard": 0.941431044866004,
+        "extend": 0.7377604637157483,
+        "reducto": 0.5523750376392652,
+        "reducto_standard": 0.5416839807286961
       }
     },
     {
@@ -506,13 +452,9 @@
         "nested": false
       },
       "scores": {
-        "claude": 0.9028501157407409,
-        "claude5": 0.9028501157407409,
         "docupipe_high": 0.9894612630208334,
         "docupipe_standard": 1.0,
         "extend": 0.9000771604938274,
-        "gemini": 0.9028501157407409,
-        "gpt": 0.9028501157407409,
         "reducto": 0.9028501157407409,
         "reducto_standard": 0.9762716411072532
       }
@@ -537,13 +479,9 @@
         "nested": false
       },
       "scores": {
-        "claude": 0.9976190476190476,
-        "claude5": 0.9976190476190476,
         "docupipe_high": 0.9976190476190476,
         "docupipe_standard": 1.0,
         "extend": 0.9976190476190476,
-        "gemini": 0.9976190476190476,
-        "gpt": 0.9404761904761905,
         "reducto": 0.9952380952380953,
         "reducto_standard": 0.9619047619047619
       }
@@ -568,13 +506,9 @@
         "nested": false
       },
       "scores": {
-        "claude": 0.963855421686747,
-        "claude5": 0.963855421686747,
         "docupipe_high": 0.975609756097561,
         "docupipe_standard": 1.0,
         "extend": 1.0,
-        "gemini": 0.963855421686747,
-        "gpt": 0.975609756097561,
         "reducto": 0.975609756097561,
         "reducto_standard": 0.963855421686747
       }
@@ -599,13 +533,9 @@
         "nested": false
       },
       "scores": {
-        "claude": 0.7937853107344632,
-        "claude5": 0.9322033898305084,
         "docupipe_high": 0.9661016949152542,
         "docupipe_standard": 0.9661016949152542,
         "extend": 0.9491525423728815,
-        "gemini": 1.0,
-        "gpt": 1.0,
         "reducto": 1.0,
         "reducto_standard": 1.0
       }
@@ -630,15 +560,38 @@
         "nested": false
       },
       "scores": {
-        "claude": 1.0,
-        "claude5": 1.0,
         "docupipe_high": 1.0,
         "docupipe_standard": 1.0,
         "extend": 1.0,
-        "gemini": 1.0,
-        "gpt": 0.7671232876712328,
         "reducto": 1.0,
         "reducto_standard": 0.958904109589041
+      }
+    },
+    {
+      "doc_id": "69Ny1DwE",
+      "name": "NOAA Pittsburgh Monthly Weather Summary 1890",
+      "lang": "en",
+      "ftype": "jpeg",
+      "pages": 1,
+      "feature": "sideways handwritten weather form with dense numeric cells",
+      "license": "NOAA/NCEI U.S. federal record, public domain; source document 806961378EB54B6297518CB81B28D906",
+      "source_url": "https://www.ncei.noaa.gov/access/services/search/v2/publications/forts-publication",
+      "flags": {
+        "arrays": false,
+        "reconcile": true,
+        "rtl": false,
+        "cjk": false,
+        "handwriting": true,
+        "rotated": true,
+        "needle": false,
+        "nested": false
+      },
+      "scores": {
+        "docupipe_high": 0.9354838709677419,
+        "docupipe_standard": 0.9193548387096774,
+        "extend": 0.9193548387096774,
+        "reducto": 0.5161290322580645,
+        "reducto_standard": 0.5161290322580645
       }
     },
     {
@@ -661,13 +614,9 @@
         "nested": false
       },
       "scores": {
-        "claude": 0.9523809523809523,
-        "claude5": 0.8571428571428571,
         "docupipe_high": 1.0,
         "docupipe_standard": 0.8571428571428571,
         "extend": 0.9523809523809523,
-        "gemini": 1.0,
-        "gpt": 1.0,
         "reducto": 0.9523809523809523,
         "reducto_standard": 0.95
       }
@@ -692,15 +641,38 @@
         "nested": false
       },
       "scores": {
-        "claude": 1.0,
-        "claude5": 1.0,
         "docupipe_high": 1.0,
         "docupipe_standard": 1.0,
         "extend": 1.0,
-        "gemini": 1.0,
-        "gpt": 1.0,
         "reducto": 1.0,
         "reducto_standard": 0.995260663507109
+      }
+    },
+    {
+      "doc_id": "9hPCh7ca",
+      "name": "Polk South Bend City Directory 1921",
+      "lang": "en",
+      "ftype": "pdf",
+      "pages": 10,
+      "feature": "671 directory entries; direct-LLM count-driven output collapse",
+      "license": "1921 U.S. publication, public domain",
+      "source_url": "https://archive.org/details/polksouthbendind00polk",
+      "flags": {
+        "arrays": true,
+        "reconcile": false,
+        "rtl": false,
+        "cjk": false,
+        "handwriting": false,
+        "rotated": false,
+        "needle": false,
+        "nested": false
+      },
+      "scores": {
+        "docupipe_high": 0.9910084451068059,
+        "docupipe_standard": 0.9845504222553402,
+        "extend": 0.19515648286140083,
+        "reducto": 0.8153502235469438,
+        "reducto_standard": 0.987332339791356
       }
     },
     {
@@ -723,13 +695,9 @@
         "nested": false
       },
       "scores": {
-        "claude": 0.833957219251337,
-        "claude5": 0.9565173796791445,
         "docupipe_high": 1.0,
         "docupipe_standard": 1.0,
         "extend": 1.0,
-        "gemini": 0.921590909090909,
-        "gpt": 0.793783422459893,
         "reducto": 0.9886363636363636,
         "reducto_standard": 0.9886363636363636
       }
@@ -754,13 +722,9 @@
         "nested": false
       },
       "scores": {
-        "claude": 1.0,
-        "claude5": 1.0,
         "docupipe_high": 1.0,
         "docupipe_standard": 1.0,
         "extend": 1.0,
-        "gemini": 1.0,
-        "gpt": 1.0,
         "reducto": 1.0,
         "reducto_standard": 1.0
       }
@@ -785,13 +749,9 @@
         "nested": false
       },
       "scores": {
-        "claude": 0.9867149758454108,
-        "claude5": 1.0,
         "docupipe_high": 1.0,
         "docupipe_standard": 1.0,
         "extend": 1.0,
-        "gemini": 1.0,
-        "gpt": 1.0,
         "reducto": 1.0,
         "reducto_standard": 0.9565217391304348
       }
@@ -816,13 +776,9 @@
         "nested": false
       },
       "scores": {
-        "claude": 1.0,
-        "claude5": 1.0,
         "docupipe_high": 1.0,
         "docupipe_standard": 1.0,
         "extend": 1.0,
-        "gemini": 1.0,
-        "gpt": 1.0,
         "reducto": 1.0,
         "reducto_standard": 1.0
       }
@@ -847,15 +803,38 @@
         "nested": false
       },
       "scores": {
-        "claude": 0.8601470588235295,
-        "claude5": 0.9010294117647061,
         "docupipe_high": 0.9476923076923077,
         "docupipe_standard": 0.804,
         "extend": 0.7953846153846155,
-        "gemini": 0.9483076923076923,
-        "gpt": 0.8984615384615384,
         "reducto": 0.9267692307692307,
         "reducto_standard": 0.9353846153846155
+      }
+    },
+    {
+      "doc_id": "EWUUeFYp",
+      "name": "Chaturvedi Sanskrit-Hindi Dictionary 1917",
+      "lang": "hi",
+      "ftype": "pdf",
+      "pages": 28,
+      "feature": "1,193 Devanagari entries; direct-LLM count-driven collapse",
+      "license": "1917 publication; Internet Archive marks CC0",
+      "source_url": "https://archive.org/details/ChaturvediSanskritHindiDictionary",
+      "flags": {
+        "arrays": true,
+        "reconcile": false,
+        "rtl": false,
+        "cjk": false,
+        "handwriting": false,
+        "rotated": false,
+        "needle": false,
+        "nested": false
+      },
+      "scores": {
+        "docupipe_high": 0.951505016722408,
+        "docupipe_standard": 0.9932942162615256,
+        "extend": 0.31978206202849957,
+        "reducto": 0.8210393964794636,
+        "reducto_standard": 0.05909471919530594
       }
     },
     {
@@ -878,15 +857,38 @@
         "nested": false
       },
       "scores": {
-        "claude": 0.9836065573770492,
-        "claude5": 1.0,
         "docupipe_high": 0.9836065573770492,
         "docupipe_standard": 0.9836065573770492,
         "extend": 0.9836065573770492,
-        "gemini": 1.0,
-        "gpt": 1.0,
         "reducto": 1.0,
         "reducto_standard": 0.9836065573770492
+      }
+    },
+    {
+      "doc_id": "EkMAR28T",
+      "name": "Des Moines Drug Co. Price List 1906–07",
+      "lang": "en",
+      "ftype": "pdf",
+      "pages": 11,
+      "feature": "1,268 pharmaceutical price rows; count-driven output collapse",
+      "license": "1906–07 U.S. publication, public domain",
+      "source_url": "https://archive.org/details/DesMoinesDrugCoCatalogue19061907",
+      "flags": {
+        "arrays": true,
+        "reconcile": false,
+        "rtl": false,
+        "cjk": false,
+        "handwriting": false,
+        "rotated": false,
+        "needle": false,
+        "nested": false
+      },
+      "scores": {
+        "docupipe_high": 0.9559674027339654,
+        "docupipe_standard": 0.9980283911671926,
+        "extend": 0.8723794549266247,
+        "reducto": 0.8112513144058869,
+        "reducto_standard": 0.643993165089378
       }
     },
     {
@@ -909,15 +911,65 @@
         "nested": false
       },
       "scores": {
-        "claude": 0.9523809523809523,
-        "claude5": 0.9523809523809523,
         "docupipe_high": 1.0,
         "docupipe_standard": 0.7619047619047619,
         "extend": 1.0,
-        "gemini": 1.0,
-        "gpt": 0.9523809523809523,
         "reducto": 0.9523809523809523,
         "reducto_standard": 0.8
+      }
+    },
+    {
+      "doc_id": "FnscKwQQ",
+      "name": "Alcalá Venceslada Andalusian Dictionary",
+      "lang": "es",
+      "ftype": "pdf",
+      "pages": 16,
+      "feature": "458 dense dictionary entries; direct-LLM output-token collapse",
+      "license": "third-party 1999 facsimile; included for research and evaluation; rights-holder removal requests honored",
+      "source_url": "https://www.juntadeandalucia.es/organismos/culturaydeporte/servicios/publicaciones/detalle/38438.html",
+      "flags": {
+        "arrays": true,
+        "reconcile": false,
+        "rtl": false,
+        "cjk": false,
+        "handwriting": false,
+        "rotated": false,
+        "needle": false,
+        "nested": false
+      },
+      "scores": {
+        "docupipe_high": 0.9853711790393016,
+        "docupipe_standard": 0.9795206971677562,
+        "extend": 0.7279475982532755,
+        "reducto": 0.8984352256186312,
+        "reducto_standard": 0.9771834061135375
+      }
+    },
+    {
+      "doc_id": "FsGU3Q4X",
+      "name": "Shanghai Desk Hong List 1941",
+      "lang": "zh",
+      "ftype": "pdf",
+      "pages": 28,
+      "feature": "392 bilingual Chinese firm entries on a degraded scan",
+      "license": "corporate Chinese work; 50-year term expired in 1991 before URAA restoration date; Internet Archive PDM",
+      "source_url": "https://archive.org/details/1941-shanghai-desk-hong-list-july-edition",
+      "flags": {
+        "arrays": true,
+        "reconcile": false,
+        "rtl": false,
+        "cjk": true,
+        "handwriting": false,
+        "rotated": false,
+        "needle": false,
+        "nested": false
+      },
+      "scores": {
+        "docupipe_high": 0.9624788494077827,
+        "docupipe_standard": 0.9581863979848863,
+        "extend": 0.3811649659863949,
+        "reducto": 0.6391156462585017,
+        "reducto_standard": 0.7453660436137131
       }
     },
     {
@@ -940,13 +992,9 @@
         "nested": false
       },
       "scores": {
-        "claude": 1.0,
-        "claude5": 1.0,
         "docupipe_high": 1.0,
         "docupipe_standard": 1.0,
         "extend": 0.9117647058823529,
-        "gemini": 1.0,
-        "gpt": 1.0,
         "reducto": 1.0,
         "reducto_standard": 1.0
       }
@@ -971,13 +1019,9 @@
         "nested": false
       },
       "scores": {
-        "claude": 0.8030513468013468,
-        "claude5": 1.0,
         "docupipe_high": 1.0,
         "docupipe_standard": 1.0,
         "extend": 1.0,
-        "gemini": 1.0,
-        "gpt": 1.0,
         "reducto": 1.0,
         "reducto_standard": 1.0
       }
@@ -1002,15 +1046,65 @@
         "nested": false
       },
       "scores": {
-        "claude": 0.8892211880646044,
-        "claude5": 0.6985839843749999,
         "docupipe_high": 0.9546126471393375,
         "docupipe_standard": 0.951444018614837,
         "extend": 0.6278760656338802,
-        "gemini": 0.8975499589378592,
-        "gpt": 0.8939570216260606,
         "reducto": 0.9404804270462633,
         "reducto_standard": 0.9550369559266355
+      }
+    },
+    {
+      "doc_id": "JPIU6gjr",
+      "name": "Libbie-Goodell Law Book Auction Catalog 1918",
+      "lang": "en",
+      "ftype": "pdf",
+      "pages": 40,
+      "feature": "496 auction lots; long count-driven output collapse",
+      "license": "1918 U.S. publication, public domain",
+      "source_url": "https://archive.org/details/catalogueoflawli00cfli",
+      "flags": {
+        "arrays": true,
+        "reconcile": false,
+        "rtl": false,
+        "cjk": false,
+        "handwriting": false,
+        "rotated": false,
+        "needle": false,
+        "nested": false
+      },
+      "scores": {
+        "docupipe_high": 0.9959677419354839,
+        "docupipe_standard": 0.9979838709677419,
+        "extend": 0.8807123655913977,
+        "reducto": 0.9583333333333334,
+        "reducto_standard": 0.0
+      }
+    },
+    {
+      "doc_id": "KYwdv07B",
+      "name": "San Francisco Telephone Directory 1907",
+      "lang": "en",
+      "ftype": "pdf",
+      "pages": 16,
+      "feature": "993 telephone entries; direct-LLM count-driven collapse",
+      "license": "1907 U.S. publication, public domain",
+      "source_url": "https://archive.org/details/sanfranciscotele1907paci",
+      "flags": {
+        "arrays": true,
+        "reconcile": false,
+        "rtl": false,
+        "cjk": false,
+        "handwriting": false,
+        "rotated": false,
+        "needle": false,
+        "nested": false
+      },
+      "scores": {
+        "docupipe_high": 0.966012084592145,
+        "docupipe_standard": 0.9707955689828801,
+        "extend": 0.9919436052366566,
+        "reducto": 0.9400805639476334,
+        "reducto_standard": 0.0
       }
     },
     {
@@ -1033,13 +1127,9 @@
         "nested": false
       },
       "scores": {
-        "claude": 0.9620000000000001,
-        "claude5": 0.9620000000000001,
         "docupipe_high": 0.9861818181818183,
         "docupipe_standard": 0.9620000000000001,
         "extend": 0.9493333333333331,
-        "gemini": 0.9620000000000001,
-        "gpt": 0.8986666666666667,
         "reducto": 0.8986666666666667,
         "reducto_standard": 0.9470303030303031
       }
@@ -1064,13 +1154,9 @@
         "nested": true
       },
       "scores": {
-        "claude": 0.9807692307692307,
-        "claude5": 0.9807692307692307,
         "docupipe_high": 1.0,
         "docupipe_standard": 1.0,
         "extend": 0.9807692307692307,
-        "gemini": 1.0,
-        "gpt": 0.9807692307692307,
         "reducto": 1.0,
         "reducto_standard": 1.0
       }
@@ -1095,13 +1181,9 @@
         "nested": false
       },
       "scores": {
-        "claude": 1.0,
-        "claude5": 1.0,
         "docupipe_high": 1.0,
         "docupipe_standard": 1.0,
         "extend": 1.0,
-        "gemini": 1.0,
-        "gpt": 0.9473684210526315,
         "reducto": 0.8947368421052632,
         "reducto_standard": 0.8947368421052632
       }
@@ -1126,13 +1208,9 @@
         "nested": false
       },
       "scores": {
-        "claude": 0.9775280898876404,
-        "claude5": 0.9001605136436596,
         "docupipe_high": 1.0,
         "docupipe_standard": 0.9778491171749598,
         "extend": 0.9775280898876404,
-        "gemini": 0.9775280898876404,
-        "gpt": 0.8647672552166934,
         "reducto": 0.9664526484751205,
         "reducto_standard": 0.9553772070626004
       }
@@ -1157,13 +1235,9 @@
         "nested": false
       },
       "scores": {
-        "claude": 1.0,
-        "claude5": 1.0,
         "docupipe_high": 1.0,
         "docupipe_standard": 1.0,
         "extend": 1.0,
-        "gemini": 0.9523809523809523,
-        "gpt": 1.0,
         "reducto": 1.0,
         "reducto_standard": 1.0
       }
@@ -1188,13 +1262,9 @@
         "nested": false
       },
       "scores": {
-        "claude": 1.0,
-        "claude5": 1.0,
         "docupipe_high": 1.0,
         "docupipe_standard": 0.9444444444444444,
         "extend": 1.0,
-        "gemini": 1.0,
-        "gpt": 1.0,
         "reducto": 1.0,
         "reducto_standard": 1.0
       }
@@ -1219,13 +1289,9 @@
         "nested": false
       },
       "scores": {
-        "claude": 0.7315051020408164,
-        "claude5": 0.8098159509202455,
         "docupipe_high": 1.0,
         "docupipe_standard": 0.9551374819102749,
         "extend": 0.8098159509202455,
-        "gemini": 0.9476603955619874,
-        "gpt": 1.0,
         "reducto": 1.0,
         "reducto_standard": 0.9464544138929087
       }
@@ -1250,13 +1316,9 @@
         "nested": false
       },
       "scores": {
-        "claude": 1.0,
-        "claude5": 1.0,
         "docupipe_high": 1.0,
         "docupipe_standard": 1.0,
         "extend": 1.0,
-        "gemini": 1.0,
-        "gpt": 1.0,
         "reducto": 1.0,
         "reducto_standard": 1.0
       }
@@ -1281,13 +1343,9 @@
         "nested": false
       },
       "scores": {
-        "claude": 1.0,
-        "claude5": 1.0,
         "docupipe_high": 1.0,
         "docupipe_standard": 1.0,
         "extend": 0.8888888888888888,
-        "gemini": 1.0,
-        "gpt": 1.0,
         "reducto": 1.0,
         "reducto_standard": 1.0
       }
@@ -1312,13 +1370,9 @@
         "nested": false
       },
       "scores": {
-        "claude": 1.0,
-        "claude5": 1.0,
         "docupipe_high": 1.0,
         "docupipe_standard": 1.0,
         "extend": 1.0,
-        "gemini": 1.0,
-        "gpt": 1.0,
         "reducto": 1.0,
         "reducto_standard": 1.0
       }
@@ -1343,13 +1397,9 @@
         "nested": false
       },
       "scores": {
-        "claude": 0.3333333333333333,
-        "claude5": 0.3448275862068966,
         "docupipe_high": 1.0,
         "docupipe_standard": 1.0,
         "extend": 0.4482758620689655,
-        "gemini": 0.896551724137931,
-        "gpt": 0.896551724137931,
         "reducto": 0.6206896551724138,
         "reducto_standard": 0.13793103448275862
       }
@@ -1374,13 +1424,9 @@
         "nested": false
       },
       "scores": {
-        "claude": 1.0,
-        "claude5": 1.0,
         "docupipe_high": 1.0,
         "docupipe_standard": 1.0,
         "extend": 1.0,
-        "gemini": 1.0,
-        "gpt": 1.0,
         "reducto": 1.0,
         "reducto_standard": 1.0
       }
@@ -1405,15 +1451,92 @@
         "nested": false
       },
       "scores": {
-        "claude": 0.9434343434343434,
-        "claude5": 1.0,
         "docupipe_high": 1.0,
         "docupipe_standard": 1.0,
         "extend": 0.9131313131313131,
-        "gemini": 0.9696969696969697,
-        "gpt": 0.9696969696969697,
         "reducto": 0.9411764705882353,
         "reducto_standard": 0.9411764705882353
+      }
+    },
+    {
+      "doc_id": "UqY6ItFZ",
+      "name": "Student's Hindi-English Dictionary 1895",
+      "lang": "hi",
+      "ftype": "pdf",
+      "pages": 14,
+      "feature": "1,063 Devanagari entries; direct-LLM count-driven collapse",
+      "license": "1895 publication; Internet Archive marks not in copyright",
+      "source_url": "https://archive.org/details/studentshindien00unkngoog",
+      "flags": {
+        "arrays": true,
+        "reconcile": false,
+        "rtl": false,
+        "cjk": false,
+        "handwriting": false,
+        "rotated": false,
+        "needle": false,
+        "nested": false
+      },
+      "scores": {
+        "docupipe_high": 0.9871433051113218,
+        "docupipe_standard": 0.9838507369081233,
+        "extend": 0.2530573847601127,
+        "reducto": 0.32079021636876326,
+        "reducto_standard": 0.019128253370962668
+      }
+    },
+    {
+      "doc_id": "VJeLz6Am",
+      "name": "A.L.A. Catalog 1904 — Useful Arts",
+      "lang": "en",
+      "ftype": "pdf",
+      "pages": 16,
+      "feature": "300 annotated bibliography entries; direct-LLM output-token collapse",
+      "license": "1904 U.S. publication, public domain",
+      "source_url": "https://archive.org/details/alacatalog8000v00amer",
+      "flags": {
+        "arrays": true,
+        "reconcile": false,
+        "rtl": false,
+        "cjk": false,
+        "handwriting": false,
+        "rotated": false,
+        "needle": false,
+        "nested": false
+      },
+      "scores": {
+        "docupipe_high": 0.9919841269841263,
+        "docupipe_standard": 0.9828095238095227,
+        "extend": 0.46769841269841256,
+        "reducto": 0.7526190476190513,
+        "reducto_standard": 0.7956190476190521
+      }
+    },
+    {
+      "doc_id": "WM9ZKrAr",
+      "name": "Merchant Vessels of the United States 1914",
+      "lang": "en",
+      "ftype": "pdf",
+      "pages": 10,
+      "feature": "720 steam-vessel registry rows; direct-LLM maximum-token failure",
+      "license": "U.S. federal publication, public domain",
+      "source_url": "https://archive.org/details/merchantvesselso46unit",
+      "flags": {
+        "arrays": true,
+        "reconcile": false,
+        "rtl": false,
+        "cjk": false,
+        "handwriting": false,
+        "rotated": false,
+        "needle": false,
+        "nested": false
+      },
+      "scores": {
+        "docupipe_high": 0.9993055555555556,
+        "docupipe_standard": 0.9982638888888888,
+        "extend": 0.9828125,
+        "reducto": 0.9511408730158731,
+        "reducto_standard": 0.09236111111111113
       }
     },
     {
@@ -1436,13 +1559,9 @@
         "nested": false
       },
       "scores": {
-        "claude": 0.8666666666666666,
-        "claude5": 0.9333333333333333,
         "docupipe_high": 1.0,
         "docupipe_standard": 1.0,
         "extend": 0.8484848484848485,
-        "gemini": 1.0,
-        "gpt": 0.975,
         "reducto": 1.0,
         "reducto_standard": 1.0
       }
@@ -1467,13 +1586,9 @@
         "nested": false
       },
       "scores": {
-        "claude": 0.7501940993788819,
-        "claude5": 1.0,
         "docupipe_high": 0.9735054347826086,
         "docupipe_standard": 0.9735054347826086,
         "extend": 0.9429347826086957,
-        "gemini": 1.0,
-        "gpt": 0.9646739130434783,
         "reducto": 1.0,
         "reducto_standard": 1.0
       }
@@ -1498,13 +1613,9 @@
         "nested": false
       },
       "scores": {
-        "claude": 0.991304347826087,
-        "claude5": 0.9217391304347826,
         "docupipe_high": 0.9826086956521739,
         "docupipe_standard": 0.9565217391304348,
         "extend": 0.7350427350427351,
-        "gemini": 0.991304347826087,
-        "gpt": 0.9565217391304348,
         "reducto": 0.9217391304347826,
         "reducto_standard": 0.991304347826087
       }
@@ -1529,13 +1640,9 @@
         "nested": false
       },
       "scores": {
-        "claude": 0.9714285714285714,
-        "claude5": 0.9714285714285714,
         "docupipe_high": 1.0,
         "docupipe_standard": 0.9857142857142858,
         "extend": 0.5396825396825397,
-        "gemini": 1.0,
-        "gpt": 1.0,
         "reducto": 1.0,
         "reducto_standard": 1.0
       }
@@ -1560,13 +1667,9 @@
         "nested": false
       },
       "scores": {
-        "claude": 1.0,
-        "claude5": 1.0,
         "docupipe_high": 1.0,
         "docupipe_standard": 1.0,
         "extend": 1.0,
-        "gemini": 1.0,
-        "gpt": 1.0,
         "reducto": 1.0,
         "reducto_standard": 1.0
       }
@@ -1591,13 +1694,9 @@
         "nested": false
       },
       "scores": {
-        "claude": 0.8703703703703705,
-        "claude5": 1.0,
         "docupipe_high": 0.9523809523809523,
         "docupipe_standard": 0.9523809523809523,
         "extend": 0.9761904761904762,
-        "gemini": 1.0,
-        "gpt": 0.6666666666666666,
         "reducto": 0.9285714285714286,
         "reducto_standard": 0.7619047619047619
       }
@@ -1622,15 +1721,92 @@
         "nested": false
       },
       "scores": {
-        "claude": 1.0,
-        "claude5": 1.0,
         "docupipe_high": 1.0,
         "docupipe_standard": 1.0,
         "extend": 1.0,
-        "gemini": 1.0,
-        "gpt": 1.0,
         "reducto": 0.9583333333333334,
         "reducto_standard": 0.9583333333333334
+      }
+    },
+    {
+      "doc_id": "eeqkpCkH",
+      "name": "Supreme Court Digest 1917",
+      "lang": "en",
+      "ftype": "pdf",
+      "pages": 25,
+      "feature": "345 legal case squibs; direct-LLM maximum-token failure",
+      "license": "1917 U.S. publication, public domain",
+      "source_url": "https://archive.org/details/digestdecisions01compgoog",
+      "flags": {
+        "arrays": true,
+        "reconcile": false,
+        "rtl": false,
+        "cjk": false,
+        "handwriting": false,
+        "rotated": false,
+        "needle": false,
+        "nested": false
+      },
+      "scores": {
+        "docupipe_high": 0.9845410628019321,
+        "docupipe_standard": 0.9396135265700474,
+        "extend": 0.2657004830917875,
+        "reducto": 0.7080193236714993,
+        "reducto_standard": 0.936897880539497
+      }
+    },
+    {
+      "doc_id": "f9nrfUNC",
+      "name": "Jastrow Talmudic Dictionary",
+      "lang": "he",
+      "ftype": "pdf",
+      "pages": 10,
+      "feature": "232 scanned Hebrew and Aramaic entries; right-to-left OCR",
+      "license": "1903 publication, public domain",
+      "source_url": "https://archive.org/details/dictionaryoftarg0001jast",
+      "flags": {
+        "arrays": true,
+        "reconcile": false,
+        "rtl": true,
+        "cjk": false,
+        "handwriting": false,
+        "rotated": false,
+        "needle": false,
+        "nested": false
+      },
+      "scores": {
+        "docupipe_high": 0.8599137931034483,
+        "docupipe_standard": 0.7794540229885055,
+        "extend": 0.0711206896551724,
+        "reducto": 0.8908045977011494,
+        "reducto_standard": 0.46767241379310354
+      }
+    },
+    {
+      "doc_id": "fK6kDNqE",
+      "name": "Fall River City Directory 1905",
+      "lang": "en",
+      "ftype": "pdf",
+      "pages": 22,
+      "feature": "1,217 directory entries; count-driven recall collapse",
+      "license": "1905 U.S. publication, public domain",
+      "source_url": "https://archive.org/details/fallrivermassach19051samp",
+      "flags": {
+        "arrays": true,
+        "reconcile": false,
+        "rtl": false,
+        "cjk": false,
+        "handwriting": false,
+        "rotated": false,
+        "needle": false,
+        "nested": false
+      },
+      "scores": {
+        "docupipe_high": 0.9787318542864932,
+        "docupipe_standard": 0.9926595453300462,
+        "extend": 0.29018077239112605,
+        "reducto": 0.9286770747740304,
+        "reducto_standard": 0.9826348945494364
       }
     },
     {
@@ -1653,13 +1829,9 @@
         "nested": false
       },
       "scores": {
-        "claude": 0.9818181818181818,
-        "claude5": 0.7333333333333333,
         "docupipe_high": 0.8,
         "docupipe_standard": 0.8,
         "extend": 0.6153846153846154,
-        "gemini": 1.0,
-        "gpt": 0.9818181818181818,
         "reducto": 0.9818181818181818,
         "reducto_standard": 0.9818181818181818
       }
@@ -1684,15 +1856,38 @@
         "nested": false
       },
       "scores": {
-        "claude": 0.9657360406091371,
-        "claude5": 0.9708121827411168,
         "docupipe_high": 0.9840101522842638,
         "docupipe_standard": 0.9840101522842638,
         "extend": 0.9071065989847712,
-        "gemini": 0.9758883248730964,
-        "gpt": 0.9708121827411168,
         "reducto": 0.9708121827411168,
         "reducto_standard": 0.9809644670050761
+      }
+    },
+    {
+      "doc_id": "kcnZ5EWa",
+      "name": "Tokyo Telephone Directory 1928",
+      "lang": "ja",
+      "ftype": "pdf",
+      "pages": 3,
+      "feature": "637 Japanese telephone entries on horizontal microfilm",
+      "license": "NDL Public Domain Mark; copyright expired",
+      "source_url": "https://dl.ndl.go.jp/pid/1024218",
+      "flags": {
+        "arrays": true,
+        "reconcile": false,
+        "rtl": false,
+        "cjk": true,
+        "handwriting": false,
+        "rotated": false,
+        "needle": false,
+        "nested": false
+      },
+      "scores": {
+        "docupipe_high": 0.8556998556998493,
+        "docupipe_standard": 0.8756449948400409,
+        "extend": 0.44740973312401877,
+        "reducto": 0.6567242281528005,
+        "reducto_standard": 0.7068965517241415
       }
     },
     {
@@ -1715,15 +1910,38 @@
         "nested": false
       },
       "scores": {
-        "claude": 0.9090909090909091,
-        "claude5": 0.9090909090909091,
         "docupipe_high": 0.9545454545454546,
         "docupipe_standard": 0.9545454545454546,
         "extend": 1.0,
-        "gemini": 0.9090909090909091,
-        "gpt": 0.9090909090909091,
         "reducto": 1.0,
         "reducto_standard": 0.8636363636363636
+      }
+    },
+    {
+      "doc_id": "o0dn9Dd4",
+      "name": "Post Office London Directory 1889",
+      "lang": "en",
+      "ftype": "pdf",
+      "pages": 3,
+      "feature": "541 commercial directory entries in three scanned pages",
+      "license": "1889 publication; Internet Archive Public Domain Mark",
+      "source_url": "https://archive.org/details/post-office-london-directory-for-1889",
+      "flags": {
+        "arrays": true,
+        "reconcile": false,
+        "rtl": false,
+        "cjk": false,
+        "handwriting": false,
+        "rotated": false,
+        "needle": false,
+        "nested": false
+      },
+      "scores": {
+        "docupipe_high": 0.9922509225092243,
+        "docupipe_standard": 0.9827171903881693,
+        "extend": 0.24488601355514478,
+        "reducto": 0.5633394947627846,
+        "reducto_standard": 0.31127541589648805
       }
     },
     {
@@ -1746,13 +1964,9 @@
         "nested": false
       },
       "scores": {
-        "claude": 1.0,
-        "claude5": 1.0,
         "docupipe_high": 1.0,
         "docupipe_standard": 1.0,
         "extend": 1.0,
-        "gemini": 1.0,
-        "gpt": 1.0,
         "reducto": 1.0,
         "reducto_standard": 1.0
       }
@@ -1777,13 +1991,9 @@
         "nested": false
       },
       "scores": {
-        "claude": 1.0,
-        "claude5": 1.0,
         "docupipe_high": 1.0,
         "docupipe_standard": 1.0,
         "extend": 0.8333333333333334,
-        "gemini": 1.0,
-        "gpt": 0.8333333333333334,
         "reducto": 1.0,
         "reducto_standard": 0.7592592592592593
       }
@@ -1808,15 +2018,38 @@
         "nested": false
       },
       "scores": {
-        "claude": 0.2295467779503106,
-        "claude5": 0.7282920784598185,
         "docupipe_high": 0.7633511651101644,
         "docupipe_standard": 0.7814195882504955,
         "extend": 0.7370568501224051,
-        "gemini": 0.7210497602434898,
-        "gpt": 0.7608740465883324,
         "reducto": 0.7832945865161076,
         "reducto_standard": 0.6049738073227445
+      }
+    },
+    {
+      "doc_id": "qRCO6ev5",
+      "name": "Kanpō No. 5877 (1946)",
+      "lang": "ja",
+      "ftype": "pdf",
+      "pages": 1,
+      "feature": "vertical Japanese microfilm scan with curriculum tables",
+      "license": "Japanese government gazette; NDL marks copyright expired and internet-public",
+      "source_url": "https://dl.ndl.go.jp/pid/2962389",
+      "flags": {
+        "arrays": true,
+        "reconcile": true,
+        "rtl": false,
+        "cjk": true,
+        "handwriting": false,
+        "rotated": false,
+        "needle": false,
+        "nested": false
+      },
+      "scores": {
+        "docupipe_high": 0.7720588235294121,
+        "docupipe_standard": 0.8455882352941176,
+        "extend": 0.38235294117647084,
+        "reducto": 0.1323529411764706,
+        "reducto_standard": 0.426470588235294
       }
     },
     {
@@ -1839,15 +2072,38 @@
         "nested": false
       },
       "scores": {
-        "claude": 0.734375,
-        "claude5": 0.65,
         "docupipe_high": 0.6944444444444444,
         "docupipe_standard": 0.65625,
         "extend": 0.6944444444444444,
-        "gemini": 0.7307692307692307,
-        "gpt": 0.6857142857142857,
         "reducto": 0.75,
         "reducto_standard": 0.625
+      }
+    },
+    {
+      "doc_id": "sHMajYzm",
+      "name": "A.L.A. Catalog 1904 — Sociology",
+      "lang": "en",
+      "ftype": "pdf",
+      "pages": 16,
+      "feature": "280 annotated bibliography entries; direct-LLM output-token collapse",
+      "license": "1904 U.S. publication, public domain",
+      "source_url": "https://archive.org/details/alacatalog8000v00amer",
+      "flags": {
+        "arrays": true,
+        "reconcile": false,
+        "rtl": false,
+        "cjk": false,
+        "handwriting": false,
+        "rotated": false,
+        "needle": false,
+        "nested": false
+      },
+      "scores": {
+        "docupipe_high": 0.9854251700680255,
+        "docupipe_standard": 0.9767962308598341,
+        "extend": 0.5726020408163278,
+        "reducto": 0.6552040816326536,
+        "reducto_standard": 0.7882738095238125
       }
     },
     {
@@ -1870,15 +2126,38 @@
         "nested": false
       },
       "scores": {
-        "claude": 0.7247305431581118,
-        "claude5": 0.8604146034032591,
         "docupipe_high": 0.9769402178806157,
         "docupipe_standard": 0.9469177319495793,
         "extend": 0.8760504374255554,
-        "gemini": 0.908355091383812,
-        "gpt": 0.9743945259746104,
         "reducto": 0.896583235797245,
         "reducto_standard": 0.9428716124966238
+      }
+    },
+    {
+      "doc_id": "vAdukzpt",
+      "name": "Official Register of the United States 1873 — Treasury",
+      "lang": "en",
+      "ftype": "pdf",
+      "pages": 21,
+      "feature": "1,385 federal employee rows; direct-LLM count-driven collapse",
+      "license": "U.S. federal publication, public domain",
+      "source_url": "https://archive.org/details/officialregister62unit",
+      "flags": {
+        "arrays": true,
+        "reconcile": false,
+        "rtl": false,
+        "cjk": false,
+        "handwriting": false,
+        "rotated": false,
+        "needle": false,
+        "nested": false
+      },
+      "scores": {
+        "docupipe_high": 0.9978339350180501,
+        "docupipe_standard": 0.9877256317689506,
+        "extend": 0.9780866425992741,
+        "reducto": 0.9635018050541446,
+        "reducto_standard": 0.16223826714801473
       }
     },
     {
@@ -1901,13 +2180,9 @@
         "nested": false
       },
       "scores": {
-        "claude": 0.8431818181818184,
-        "claude5": 1.0,
         "docupipe_high": 1.0,
         "docupipe_standard": 1.0,
         "extend": 0.9769385026737968,
-        "gemini": 0.9769385026737968,
-        "gpt": 0.9886363636363636,
         "reducto": 0.9769385026737968,
         "reducto_standard": 0.9769385026737968
       }
@@ -1932,13 +2207,9 @@
         "nested": false
       },
       "scores": {
-        "claude": 0.7033898305084746,
-        "claude5": 1.0,
         "docupipe_high": 0.8973821989528795,
         "docupipe_standard": 1.0,
         "extend": 0.7864406779661015,
-        "gemini": 1.0,
-        "gpt": 0.968361581920904,
         "reducto": 0.8734463276836159,
         "reducto_standard": 0.8094240837696336
       }
@@ -1963,13 +2234,9 @@
         "nested": false
       },
       "scores": {
-        "claude": 1.0,
-        "claude5": 1.0,
         "docupipe_high": 1.0,
         "docupipe_standard": 1.0,
         "extend": 1.0,
-        "gemini": 1.0,
-        "gpt": 1.0,
         "reducto": 1.0,
         "reducto_standard": 1.0
       }
@@ -1994,13 +2261,9 @@
         "nested": false
       },
       "scores": {
-        "claude": 1.0,
-        "claude5": 1.0,
         "docupipe_high": 1.0,
         "docupipe_standard": 1.0,
         "extend": 1.0,
-        "gemini": 1.0,
-        "gpt": 1.0,
         "reducto": 0.8863636363636364,
         "reducto_standard": 0.8863636363636364
       }

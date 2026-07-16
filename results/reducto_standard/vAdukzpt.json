@@ -1,0 +1,1655 @@
+{
+  "score": 0.16223826714801473,
+  "cost": 0.945,
+  "time_sec": 119.12027096748352,
+  "num_pages": 21,
+  "data": {
+    "employees": [
+      {
+        "name": "George H. Jackson",
+        "whereEmployed": "Washington",
+        "whereBorn": "Vermont",
+        "whenceAppointed": "Vermont",
+        "compensation": 1600
+      },
+      {
+        "name": "George N. West",
+        "whereEmployed": "do",
+        "whereBorn": "Maiue",
+        "whenceAppointed": "Maine",
+        "compensation": 1600
+      },
+      {
+        "name": "Edward Derrick",
+        "whereEmployed": "do",
+        "whereBorn": "Dist. Columbia",
+        "whenceAppointed": "Virginia",
+        "compensation": 1400
+      },
+      {
+        "name": "Thomas D. Divine",
+        "whereEmployed": "do",
+        "whereBorn": "Virginia",
+        "whenceAppointed": "Dist. Columbia",
+        "compensation": 1400
+      },
+      {
+        "name": "Charles II. Shields",
+        "whereEmployed": "do",
+        "whereBorn": "New York",
+        "whenceAppointed": "Mississippi",
+        "compensation": 1400
+      },
+      {
+        "name": "Charles L. Williams",
+        "whereEmployed": "do",
+        "whereBorn": "Connecticut",
+        "whenceAppointed": "Dist. Columbia",
+        "compensation": 1400
+      },
+      {
+        "name": "Edwin W. Wilson",
+        "whereEmployed": "do",
+        "whereBorn": "Maryland",
+        "whenceAppointed": "Maryland",
+        "compensation": 1400
+      },
+      {
+        "name": "Fannie M. Gilbert",
+        "whereEmployed": "do",
+        "whereBorn": "New Hampshire",
+        "whenceAppointed": "New Hampshire",
+        "compensation": 1200
+      },
+      {
+        "name": "Hanual Hanscom",
+        "whereEmployed": "do",
+        "whereBorn": "Maine",
+        "whenceAppointed": "Maine",
+        "compensation": 1200
+      },
+      {
+        "name": "Julia E. Ashley",
+        "whereEmployed": "Washington",
+        "whereBorn": "Massachusetts",
+        "whenceAppointed": "Massachusetts",
+        "compensation": 900
+      },
+      {
+        "name": "H. Brown",
+        "whereEmployed": "do",
+        "whereBorn": "New York",
+        "whenceAppointed": "Connecticut",
+        "compensation": 900
+      },
+      {
+        "name": "M. M. Butler",
+        "whereEmployed": "do",
+        "whereBorn": "Maryland",
+        "whenceAppointed": "Maryland",
+        "compensation": 900
+      },
+      {
+        "name": "J. E. W. Baker",
+        "whereEmployed": "do",
+        "whereBorn": "Maine",
+        "whenceAppointed": "Maine",
+        "compensation": 900
+      },
+      {
+        "name": "S. C. Bingham",
+        "whereEmployed": "do",
+        "whereBorn": "Tennessee",
+        "whenceAppointed": "Alabama",
+        "compensation": 900
+      },
+      {
+        "name": "Martha Caney",
+        "whereEmployed": "do",
+        "whereBorn": "New York",
+        "whenceAppointed": "New York",
+        "compensation": 900
+      },
+      {
+        "name": "Sarah M. Chaffee",
+        "whereEmployed": "do",
+        "whereBorn": "Pennsylvania",
+        "whenceAppointed": "Pennsylvania",
+        "compensation": 900
+      },
+      {
+        "name": "M. E. Chase",
+        "whereEmployed": "do",
+        "whereBorn": "Maine",
+        "whenceAppointed": "Maine",
+        "compensation": 900
+      },
+      {
+        "name": "Florence Clark",
+        "whereEmployed": "do",
+        "whereBorn": "Dist. Columbia",
+        "whenceAppointed": "Dist. Columbia",
+        "compensation": 900
+      },
+      {
+        "name": "Emily F. Conway",
+        "whereEmployed": "do",
+        "whereBorn": "Maryland",
+        "whenceAppointed": "Kansas",
+        "compensation": 900
+      },
+      {
+        "name": "Isabel Cowlan",
+        "whereEmployed": "de",
+        "whereBorn": "Illinois",
+        "whenceAppointed": "Illinois",
+        "compensation": 900
+      },
+      {
+        "name": "Susan E. Custis",
+        "whereEmployed": "do",
+        "whereBorn": "Dist. Columbia",
+        "whenceAppointed": "Dist. Columbia",
+        "compensation": 900
+      },
+      {
+        "name": "H. P. Dame",
+        "whereEmployed": "do",
+        "whereBorn": "New Hampshire",
+        "whenceAppointed": "New Hampshire",
+        "compensation": 900
+      },
+      {
+        "name": "C. A. Davis",
+        "whereEmployed": "do",
+        "whereBorn": "Maryland",
+        "whenceAppointed": "Dist. Columbia",
+        "compensation": 900
+      },
+      {
+        "name": "C. Davidson",
+        "whereEmployed": "do",
+        "whereBorn": "South Carolina",
+        "whenceAppointed": "South Carolina",
+        "compensation": 900
+      },
+      {
+        "name": "M. C. Doran",
+        "whereEmployed": "do",
+        "whereBorn": "Dist. Columbia",
+        "whenceAppointed": "Dist. Columbia",
+        "compensation": 900
+      },
+      {
+        "name": "S. A. Draine",
+        "whereEmployed": "do",
+        "whereBorn": "do",
+        "whenceAppointed": "do",
+        "compensation": 900
+      },
+      {
+        "name": "V. L. Dunnavant",
+        "whereEmployed": "do",
+        "whereBorn": "Virginia",
+        "whenceAppointed": "Virginia",
+        "compensation": 900
+      },
+      {
+        "name": "M. F. Eakle",
+        "whereEmployed": "do",
+        "whereBorn": "Connecticut",
+        "whenceAppointed": "Connectient",
+        "compensation": 900
+      },
+      {
+        "name": "C. Emmons",
+        "whereEmployed": "do",
+        "whereBorn": "Maryland",
+        "whenceAppointed": "Dist. Columbia",
+        "compensation": 900
+      },
+      {
+        "name": "M. J. Flood",
+        "whereEmployed": "do",
+        "whereBorn": "England",
+        "whenceAppointed": "do",
+        "compensation": 900
+      },
+      {
+        "name": "A. Garrett",
+        "whereEmployed": "do",
+        "whereBorn": "Indiana",
+        "whenceAppointed": "Indiana",
+        "compensation": 900
+      },
+      {
+        "name": "C. Gossler",
+        "whereEmployed": "do",
+        "whereBorn": "Pennsylvania",
+        "whenceAppointed": "Delaware",
+        "compensation": 900
+      },
+      {
+        "name": "M. L. Hallett",
+        "whereEmployed": "do",
+        "whereBorn": "Ireland",
+        "whenceAppointed": "Wisconsin",
+        "compensation": 900
+      },
+      {
+        "name": "M. V. Heath",
+        "whereEmployed": "do",
+        "whereBorn": "Maryland",
+        "whenceAppointed": "Dist. Columbia",
+        "compensation": 900
+      },
+      {
+        "name": "E. Henry",
+        "whereEmployed": "do",
+        "whereBorn": "Dist. Columbia",
+        "whenceAppointed": "do",
+        "compensation": 900
+      },
+      {
+        "name": "M. E. Howlett",
+        "whereEmployed": "do",
+        "whereBorn": "New York",
+        "whenceAppointed": "do",
+        "compensation": 900
+      },
+      {
+        "name": "L. M. Johns",
+        "whereEmployed": "do",
+        "whereBorn": "Dist. Columbia",
+        "whenceAppointed": "do",
+        "compensation": 900
+      },
+      {
+        "name": "M. A. Johnson",
+        "whereEmployed": "do",
+        "whereBorn": "Virginia",
+        "whenceAppointed": "do",
+        "compensation": 900
+      },
+      {
+        "name": "M. A. Kelly",
+        "whereEmployed": "do",
+        "whereBorn": "Pennsylvania",
+        "whenceAppointed": "Pennsylvania",
+        "compensation": 900
+      },
+      {
+        "name": "Harriet J. Kiernan",
+        "whereEmployed": "do",
+        "whereBorn": "New York",
+        "whenceAppointed": "Dist. Columbia",
+        "compensation": 900
+      },
+      {
+        "name": "Mary Kirk",
+        "whereEmployed": "do",
+        "whereBorn": "do",
+        "whenceAppointed": "Mississippi",
+        "compensation": 900
+      },
+      {
+        "name": "M. M. Ledogard",
+        "whereEmployed": "do",
+        "whereBorn": "Franco",
+        "whenceAppointed": "Dist. Columbia",
+        "compensation": 900
+      },
+      {
+        "name": "A. MeWilliams",
+        "whereEmployed": "do",
+        "whereBorn": "Maryland",
+        "whenceAppointed": "Maryland",
+        "compensation": 900
+      },
+      {
+        "name": "M. C. Miller",
+        "whereEmployed": "do",
+        "whereBorn": "Dist. Columbia",
+        "whenceAppointed": "Dist. Columbia",
+        "compensation": 900
+      },
+      {
+        "name": "R. O. Moore",
+        "whereEmployed": "do",
+        "whereBorn": "Georgia",
+        "whenceAppointed": "do",
+        "compensation": 900
+      },
+      {
+        "name": "M. M. Norris",
+        "whereEmployed": "do",
+        "whereBorn": "Pennsylvania",
+        "whenceAppointed": "do",
+        "compensation": 900
+      },
+      {
+        "name": "C. O'Dell",
+        "whereEmployed": "do",
+        "whereBorn": "do",
+        "whenceAppointed": "Pennsylvania",
+        "compensation": 900
+      },
+      {
+        "name": "G. J. Phelps",
+        "whereEmployed": "do",
+        "whereBorn": "New York",
+        "whenceAppointed": "Vermont",
+        "compensation": 900
+      },
+      {
+        "name": "M. L. Powers",
+        "whereEmployed": "do",
+        "whereBorn": "Maine",
+        "whenceAppointed": "Maine",
+        "compensation": 900
+      },
+      {
+        "name": "A. J. Pritchard",
+        "whereEmployed": "do",
+        "whereBorn": "England",
+        "whenceAppointed": "Pennsylvania",
+        "compensation": 900
+      },
+      {
+        "name": "J. Rabbitt",
+        "whereEmployed": "do",
+        "whereBorn": "Dist. Columbia",
+        "whenceAppointed": "Dist. Columbia",
+        "compensation": 900
+      },
+      {
+        "name": "J. C. Rich",
+        "whereEmployed": "do",
+        "whereBorn": "New York",
+        "whenceAppointed": "New York",
+        "compensation": 900
+      },
+      {
+        "name": "H. M. Sayles",
+        "whereEmployed": "do",
+        "whereBorn": "do",
+        "whenceAppointed": "Wisconsin",
+        "compensation": 900
+      },
+      {
+        "name": "N. Shaw",
+        "whereEmployed": "do",
+        "whereBorn": "Dist. Columbia",
+        "whenceAppointed": "Dist. Columbia",
+        "compensation": 900
+      },
+      {
+        "name": "K. G. Sikken",
+        "whereEmployed": "do",
+        "whereBorn": "Maryland",
+        "whenceAppointed": "do",
+        "compensation": 900
+      },
+      {
+        "name": "F. M. Sloane",
+        "whereEmployed": "do",
+        "whereBorn": "Pennsylvania",
+        "whenceAppointed": "do",
+        "compensation": 900
+      },
+      {
+        "name": "Helen M. Suth",
+        "whereEmployed": "do",
+        "whereBorn": "New York",
+        "whenceAppointed": "Connectient",
+        "compensation": 900
+      },
+      {
+        "name": "J. E. Stevens",
+        "whereEmployed": "do",
+        "whereBorn": "do",
+        "whenceAppointed": "Missouri",
+        "compensation": 900
+      },
+      {
+        "name": "D. B. Stockham",
+        "whereEmployed": "do",
+        "whereBorn": "Maine",
+        "whenceAppointed": "Maine",
+        "compensation": 900
+      },
+      {
+        "name": "A. P. Thayer",
+        "whereEmployed": "do",
+        "whereBorn": "England",
+        "whenceAppointed": "New York",
+        "compensation": 900
+      },
+      {
+        "name": "Ella Thompson",
+        "whereEmployed": "do",
+        "whereBorn": "Maine",
+        "whenceAppointed": "Maine",
+        "compensation": 900
+      },
+      {
+        "name": "F. A. Tripp",
+        "whereEmployed": "do",
+        "whereBorn": "Massachusetts",
+        "whenceAppointed": "Massachusetts",
+        "compensation": 900
+      },
+      {
+        "name": "C. O. Whittier",
+        "whereEmployed": "do",
+        "whereBorn": "Maine",
+        "whenceAppointed": "do",
+        "compensation": 900
+      },
+      {
+        "name": "E. E. Wilson",
+        "whereEmployed": "do",
+        "whereBorn": "Massachusetts",
+        "whenceAppointed": "do",
+        "compensation": 900
+      },
+      {
+        "name": "M. L. Wrisley",
+        "whereEmployed": "do",
+        "whereBorn": "Vermont",
+        "whenceAppointed": "do",
+        "compensation": 900
+      },
+      {
+        "name": "Sarah Carter",
+        "whereEmployed": "Washington",
+        "whereBorn": "Virginia",
+        "whenceAppointed": "Dist. Columbia",
+        "compensation": 840
+      },
+      {
+        "name": "J.J. Crawford",
+        "whereEmployed": "do",
+        "whereBorn": "Dist. Columbia",
+        "whenceAppointed": "do",
+        "compensation": 840
+      },
+      {
+        "name": "William H. Young",
+        "whereEmployed": "do",
+        "whereBorn": "Maryland",
+        "whenceAppointed": "Maryland",
+        "compensation": 840
+      },
+      {
+        "name": "Daniel E. Barrett",
+        "whereEmployed": "Go",
+        "whereBorn": "Vermont",
+        "whenceAppointed": "Vermont",
+        "compensation": null
+      },
+      {
+        "name": "Thomas G. Allen",
+        "whereEmployed": "Washington",
+        "whereBorn": "Tennessee",
+        "whenceAppointed": "Indiana",
+        "compensation": 720
+      },
+      {
+        "name": "Theodore A. Barry",
+        "whereEmployed": "Washington",
+        "whereBorn": "Illinois",
+        "whenceAppointed": "Illinois",
+        "compensation": 720
+      },
+      {
+        "name": "Alfred A. Stratton",
+        "whereEmployed": "do",
+        "whereBorn": "New York",
+        "whenceAppointed": "Massachusetts",
+        "compensation": 720
+      },
+      {
+        "name": "Lydia Abell",
+        "whereEmployed": "Washington",
+        "whereBorn": "Massachusetts",
+        "whenceAppointed": "Massachusetts",
+        "compensation": 720
+      },
+      {
+        "name": "Essie Kinsley",
+        "whereEmployed": "do",
+        "whereBorn": "Dist. Columbia",
+        "whenceAppointed": "Dist. Columbia",
+        "compensation": 720
+      },
+      {
+        "name": "M. F. Lloyd",
+        "whereEmployed": "do",
+        "whereBorn": "New York",
+        "whenceAppointed": "do",
+        "compensation": 720
+      },
+      {
+        "name": "Ida Thomason",
+        "whereEmployed": "do",
+        "whereBorn": "do",
+        "whenceAppointed": "do",
+        "compensation": 720
+      },
+      {
+        "name": "Traverse B. Pinn",
+        "whereEmployed": "Washington",
+        "whereBorn": "Virginia",
+        "whenceAppointed": "Virginia",
+        "compensation": 720
+      },
+      {
+        "name": "C. II. W. Stokeley",
+        "whereEmployed": "do",
+        "whereBorn": "North Carolina",
+        "whenceAppointed": "New York",
+        "compensation": 720
+      },
+      {
+        "name": "Charles W. Walcott",
+        "whereEmployed": "do",
+        "whereBorn": "Vermont",
+        "whenceAppointed": "Vermont",
+        "compensation": 720
+      },
+      {
+        "name": "Florence Evans",
+        "whereEmployed": "Washington",
+        "whereBorn": "Indiana",
+        "whenceAppointed": "Indiana",
+        "compensation": 720
+      },
+      {
+        "name": "Mrs. H. M. Fastet",
+        "whereEmployed": "do",
+        "whereBorn": "Dist. Columbia",
+        "whenceAppointed": "Dist. Columbia",
+        "compensation": 720
+      },
+      {
+        "name": "Mrs. C. Hazlett",
+        "whereEmployed": "do",
+        "whereBorn": "Ireland",
+        "whenceAppointed": "do",
+        "compensation": 720
+      },
+      {
+        "name": "Mary F. Shockley",
+        "whereEmployed": "do",
+        "whereBorn": "Massachusetts",
+        "whenceAppointed": "Massachusetts",
+        "compensation": null
+      },
+      {
+        "name": "Margaret Barry",
+        "whereEmployed": "do",
+        "whereBorn": "Dist. Columbia",
+        "whenceAppointed": "Dist. Columbia",
+        "compensation": null
+      },
+      {
+        "name": "Constance E. Bogue",
+        "whereEmployed": "do",
+        "whereBorn": "Virginia",
+        "whenceAppointed": "Virginia",
+        "compensation": null
+      },
+      {
+        "name": "Sophia A. Curtis",
+        "whereEmployed": "do",
+        "whereBorn": "Dist. Columbia",
+        "whenceAppointed": "Maryland",
+        "compensation": null
+      },
+      {
+        "name": "Margaret Dodson",
+        "whereEmployed": "do",
+        "whereBorn": "Virginia",
+        "whenceAppointed": "Dist. Columbia",
+        "compensation": null
+      },
+      {
+        "name": "Margaret Downing",
+        "whereEmployed": "do",
+        "whereBorn": "Florida",
+        "whenceAppointed": "Florida",
+        "compensation": null
+      },
+      {
+        "name": "Mary E. Heard",
+        "whereEmployed": "do",
+        "whereBorn": "Dist. Columbia",
+        "whenceAppointed": "Dist. Columbia",
+        "compensation": null
+      },
+      {
+        "name": "Hariiet E. Henry",
+        "whereEmployed": "do",
+        "whereBorn": "South Carolina",
+        "whenceAppointed": "South Carolina",
+        "compensation": null
+      },
+      {
+        "name": "Jennie T. Houghton",
+        "whereEmployed": "do",
+        "whereBorn": "Cuba",
+        "whenceAppointed": "Florida",
+        "compensation": null
+      },
+      {
+        "name": "Catharine S. Myers",
+        "whereEmployed": "do",
+        "whereBorn": "Dist. Columbia",
+        "whenceAppointed": "Dist. Columbia",
+        "compensation": null
+      },
+      {
+        "name": "Albertine Paris",
+        "whereEmployed": "do",
+        "whereBorn": "do",
+        "whenceAppointed": "do",
+        "compensation": null
+      },
+      {
+        "name": "Marie F. Robinson",
+        "whereEmployed": "do",
+        "whereBorn": "Vermont",
+        "whenceAppointed": "Vermont",
+        "compensation": null
+      },
+      {
+        "name": "Julia A. Smith",
+        "whereEmployed": "do",
+        "whereBorn": "Pennsylvania",
+        "whenceAppointed": "Nebraska",
+        "compensation": null
+      },
+      {
+        "name": "Ada G. Stewart",
+        "whereEmployed": "do",
+        "whereBorn": "Dist. Columbia",
+        "whenceAppointed": "Dist. Columbia",
+        "compensation": null
+      },
+      {
+        "name": "Jessie E. Teulon",
+        "whereEmployed": "do",
+        "whereBorn": "Massachusetts",
+        "whenceAppointed": "Massachusetts",
+        "compensation": null
+      },
+      {
+        "name": "Florence A. Tiltou",
+        "whereEmployed": "do",
+        "whereBorn": "do",
+        "whenceAppointed": "do",
+        "compensation": null
+      },
+      {
+        "name": "Mary J. Visser",
+        "whereEmployed": "do",
+        "whereBorn": "Dist. Columbia",
+        "whenceAppointed": "Dist. Columbia",
+        "compensation": null
+      },
+      {
+        "name": "Martha Volk",
+        "whereEmployed": "do",
+        "whereBorn": "Maryland",
+        "whenceAppointed": "do",
+        "compensation": null
+      },
+      {
+        "name": "Rosa Waters",
+        "whereEmployed": "do",
+        "whereBorn": "Illinois",
+        "whenceAppointed": "Illinois",
+        "compensation": null
+      },
+      {
+        "name": "Emma Waidley",
+        "whereEmployed": "do",
+        "whereBorn": "Pennsylvania",
+        "whenceAppointed": "Pennsylvania",
+        "compensation": null
+      },
+      {
+        "name": "Ella White",
+        "whereEmployed": "do",
+        "whereBorn": "Virginia",
+        "whenceAppointed": "Virginia",
+        "compensation": null
+      },
+      {
+        "name": "Susie G. Wingate",
+        "whereEmployed": "do",
+        "whereBorn": "Massachusetts",
+        "whenceAppointed": "Pennsylvania",
+        "compensation": null
+      },
+      {
+        "name": "Mary S. Withington",
+        "whereEmployed": "do",
+        "whereBorn": "do",
+        "whenceAppointed": "Massachusetts",
+        "compensation": null
+      },
+      {
+        "name": "H. B. Wyman",
+        "whereEmployed": "do",
+        "whereBorn": "New York",
+        "whenceAppointed": "Pennsylvania",
+        "compensation": null
+      },
+      {
+        "name": "Minnie H. Montgomery",
+        "whereEmployed": "do",
+        "whereBorn": "Canada",
+        "whenceAppointed": "Dist. Columbia",
+        "compensation": null
+      },
+      {
+        "name": "Annie Smith",
+        "whereEmployed": "do",
+        "whereBorn": "New York",
+        "whenceAppointed": "New York",
+        "compensation": null
+      },
+      {
+        "name": "Lucy Archer",
+        "whereEmployed": "Washington",
+        "whereBorn": "Virginia",
+        "whenceAppointed": "Dist. Columbia",
+        "compensation": 150
+      },
+      {
+        "name": "Ella Randolph",
+        "whereEmployed": "do",
+        "whereBorn": "do",
+        "whenceAppointed": "do",
+        "compensation": 180
+      },
+      {
+        "name": "George B. McCartee",
+        "whereEmployed": "Washington",
+        "whereBorn": "New York",
+        "whenceAppointed": "New York",
+        "compensation": 5000
+      },
+      {
+        "name": "Parley Hammond",
+        "whereEmployed": "Washington",
+        "whereBorn": "Massachusetts",
+        "whenceAppointed": "New York",
+        "compensation": 3000
+      },
+      {
+        "name": "Charles G. Evans",
+        "whereEmployed": "Washington",
+        "whereBorn": "Pennsylvania",
+        "whenceAppointed": "Dist. Columbia",
+        "compensation": null
+      },
+      {
+        "name": "Samuel McPherson",
+        "whereEmployed": "Washington",
+        "whereBorn": "Dist. Columbia",
+        "whenceAppointed": "Illinois",
+        "compensation": 1200
+      },
+      {
+        "name": "Joseph Anderson",
+        "whereEmployed": "do",
+        "whereBorn": "England",
+        "whenceAppointed": "Dist. Columbia",
+        "compensation": 1200
+      },
+      {
+        "name": "John A. Pierre",
+        "whereEmployed": "do",
+        "whereBorn": "Dist. Columbia",
+        "whenceAppointed": "do",
+        "compensation": 1200
+      },
+      {
+        "name": "William D. O'Connor",
+        "whereEmployed": "Washington",
+        "whereBorn": "Massachusetts",
+        "whenceAppointed": "Massachusetts",
+        "compensation": 2000
+      },
+      {
+        "name": "Frank Baker",
+        "whereEmployed": "Washington",
+        "whereBorn": "New York",
+        "whenceAppointed": "New York",
+        "compensation": 1800
+      },
+      {
+        "name": "Zach. B. Brooke",
+        "whereEmployed": "do",
+        "whereBorn": "Maryland",
+        "whenceAppointed": "Kentucky",
+        "compensation": 1600
+      },
+      {
+        "name": "Thomas Q. Hill",
+        "whereEmployed": "do",
+        "whereBorn": "Massachusetts",
+        "whenceAppointed": "Massachusetts",
+        "compensation": 1600
+      },
+      {
+        "name": "Bruce Small",
+        "whereEmployed": "do",
+        "whereBorn": "do",
+        "whenceAppointed": "New Jersey",
+        "compensation": 1600
+      },
+      {
+        "name": "Edward P. Rankin",
+        "whereEmployed": "Washington",
+        "whereBorn": "Ireland",
+        "whenceAppointed": "Michigan",
+        "compensation": 1400
+      },
+      {
+        "name": "Albert H. Sawyer",
+        "whereEmployed": "do",
+        "whereBorn": "Maine",
+        "whenceAppointed": "New Hampshire",
+        "compensation": 1400
+      },
+      {
+        "name": "Edmund L. Beach",
+        "whereEmployed": "do",
+        "whereBorn": "Connecticut",
+        "whenceAppointed": "Connecticut",
+        "compensation": 1200
+      },
+      {
+        "name": "Mary E. Cole",
+        "whereEmployed": "do",
+        "whereBorn": "Maine",
+        "whenceAppointed": "Maine",
+        "compensation": 1200
+      },
+      {
+        "name": "James M. Gassaway",
+        "whereEmployed": "do",
+        "whereBorn": "Dist. Columbia",
+        "whenceAppointed": "Dist. Columbia",
+        "compensation": 1200
+      },
+      {
+        "name": "Eliza J. Beare",
+        "whereEmployed": "Washington",
+        "whereBorn": "Dist. Columbia",
+        "whenceAppointed": "Dist. Columbia",
+        "compensation": 900
+      },
+      {
+        "name": "Gurdon Snowden",
+        "whereEmployed": "Washington",
+        "whereBorn": "Maryland",
+        "whenceAppointed": "Dist. Columbia",
+        "compensation": 840
+      },
+      {
+        "name": "Max. Hausman",
+        "whereEmployed": "Washington",
+        "whereBorn": "Dist. Columbia",
+        "whenceAppointed": "Massachusetts",
+        "compensation": 720
+      },
+      {
+        "name": "A. B. Hopkins",
+        "whereEmployed": "do",
+        "whereBorn": "Virginia",
+        "whenceAppointed": "Virginia",
+        "compensation": 720
+      },
+      {
+        "name": "Calvin R. Nutt",
+        "whereEmployed": "do",
+        "whereBorn": "Dist. Columbia",
+        "whenceAppointed": "Dist. Columbia",
+        "compensation": 720
+      },
+      {
+        "name": "Colbert Syphax",
+        "whereEmployed": "do",
+        "whereBorn": "Virginia",
+        "whenceAppointed": "do",
+        "compensation": 720
+      },
+      {
+        "name": "Paul J. Pelz",
+        "whereEmployed": "Washington",
+        "whereBorn": "Germany",
+        "whenceAppointed": "New Jersey",
+        "compensation": 2500
+      },
+      {
+        "name": "Victor Hagman",
+        "whereEmployed": "do",
+        "whereBorn": "do",
+        "whenceAppointed": "Pennsylvania",
+        "compensation": 150
+      },
+      {
+        "name": "Ferdinand Theilkuhl",
+        "whereEmployed": "do",
+        "whereBorn": "do",
+        "whenceAppointed": "Dist. Columbia",
+        "compensation": 140
+      },
+      {
+        "name": "Ludwig Hailers",
+        "whereEmployed": "do",
+        "whereBorn": "do",
+        "whenceAppointed": "do",
+        "compensation": 140
+      },
+      {
+        "name": "Jacob José",
+        "whereEmployed": "do",
+        "whereBorn": "do",
+        "whenceAppointed": "New York",
+        "compensation": 120
+      },
+      {
+        "name": "Adolph Haake",
+        "whereEmployed": "do",
+        "whereBorn": "do",
+        "whenceAppointed": "Ohio",
+        "compensation": 120
+      },
+      {
+        "name": "George Ritter",
+        "whereEmployed": "do",
+        "whereBorn": "do",
+        "whenceAppointed": "Dist. Columbia",
+        "compensation": 120
+      },
+      {
+        "name": "Julian A. Hurdle",
+        "whereEmployed": "do",
+        "whereBorn": "Dist. Columbia",
+        "whenceAppointed": "West Virginia",
+        "compensation": 75
+      },
+      {
+        "name": "Samuel Houston",
+        "whereEmployed": "Washington",
+        "whereBorn": "Pennsylvauia",
+        "whenceAppointed": "Pennsylvania",
+        "compensation": 2400
+      },
+      {
+        "name": "T. M. Jackson",
+        "whereEmployed": "Washington",
+        "whereBorn": "New Hampshire",
+        "whenceAppointed": "New Hampshire",
+        "compensation": 1400
+      },
+      {
+        "name": "Harry Lyons",
+        "whereEmployed": "Washington",
+        "whereBorn": "Delaware",
+        "whenceAppointed": "Dist. Columbia",
+        "compensation": 720
+      },
+      {
+        "name": "Amos J. Gunning",
+        "whereEmployed": "Washington",
+        "whereBorn": "Nova Scotia",
+        "whenceAppointed": "Massachusetts",
+        "compensation": 1400
+      },
+      {
+        "name": "James Vermillion",
+        "whereEmployed": "Washington",
+        "whereBorn": "Pennsylvania",
+        "whenceAppointed": "Dist. Columbia",
+        "compensation": 1200
+      },
+      {
+        "name": "William H. Clein",
+        "whereEmployed": "Washington",
+        "whereBorn": "Maryland",
+        "whenceAppointed": "Maryland",
+        "compensation": 1600
+      },
+      {
+        "name": "Columbus Brown",
+        "whereEmployed": "Washington",
+        "whereBorn": "Maryland",
+        "whenceAppointed": "Dist. Columbia",
+        "compensation": 1000
+      },
+      {
+        "name": "H. Boling",
+        "whereEmployed": "Washington",
+        "whereBorn": "Virginia",
+        "whenceAppointed": "Dist. Columbia",
+        "compensation": 720
+      },
+      {
+        "name": "Robert Diggs",
+        "whereEmployed": "do",
+        "whereBorn": "Maryland",
+        "whenceAppointed": "do",
+        "compensation": 720
+      },
+      {
+        "name": "Oscar Huguley",
+        "whereEmployed": "do",
+        "whereBorn": "Virginia",
+        "whenceAppointed": "do",
+        "compensation": 720
+      },
+      {
+        "name": "D. Jefferson",
+        "whereEmployed": "do",
+        "whereBorn": "do",
+        "whenceAppointed": "Virginia",
+        "compensation": 720
+      },
+      {
+        "name": "R. P. Scott",
+        "whereEmployed": "do",
+        "whereBorn": "Pennsylvania",
+        "whenceAppointed": "Delaware",
+        "compensation": 720
+      },
+      {
+        "name": "B. Thompson",
+        "whereEmployed": "do",
+        "whereBorn": "Maryland",
+        "whenceAppointed": "Dist. Columbia",
+        "compensation": 720
+      },
+      {
+        "name": "Charles Warner",
+        "whereEmployed": "do",
+        "whereBorn": "Dist. Columbia",
+        "whenceAppointed": "do",
+        "compensation": 720
+      },
+      {
+        "name": "C. Winkleman",
+        "whereEmployed": "do",
+        "whereBorn": "Maryland",
+        "whenceAppointed": "do",
+        "compensation": 720
+      },
+      {
+        "name": "Harry A. Cobaugh",
+        "whereEmployed": "Washington",
+        "whereBorn": "Pennsylvania",
+        "whenceAppointed": "Pennsylvania",
+        "compensation": 1400
+      },
+      {
+        "name": "Thomas Gillespie",
+        "whereEmployed": "Washington",
+        "whereBorn": "Pennsylvania",
+        "whenceAppointed": "Pennsylvania",
+        "compensation": 1000
+      },
+      {
+        "name": "William H. Wood",
+        "whereEmployed": "do",
+        "whereBorn": "Dist. Columbia",
+        "whenceAppointed": "California",
+        "compensation": 1000
+      },
+      {
+        "name": "William Audrews",
+        "whereEmployed": "Washington",
+        "whereBorn": "Virginia",
+        "whenceAppointed": "Virginia",
+        "compensation": 720
+      },
+      {
+        "name": "Stephen Allen",
+        "whereEmployed": "Washington",
+        "whereBorn": "Virginia",
+        "whenceAppointed": "Dist. Columbia",
+        "compensation": 720
+      },
+      {
+        "name": "H. A. Allen",
+        "whereEmployed": "do",
+        "whereBorn": "do",
+        "whenceAppointed": "Maryland",
+        "compensation": 720
+      },
+      {
+        "name": "John Bott",
+        "whereEmployed": "do",
+        "whereBorn": "Germany",
+        "whenceAppointed": "Diet. Columbia",
+        "compensation": 720
+      },
+      {
+        "name": "John Brien",
+        "whereEmployed": "de",
+        "whereBorn": "Ireland",
+        "whenceAppointed": "New York",
+        "compensation": 720
+      },
+      {
+        "name": "J. H. Burrill",
+        "whereEmployed": "do",
+        "whereBorn": "Virginia",
+        "whenceAppointed": "Dist. Columbia",
+        "compensation": 720
+      },
+      {
+        "name": "G. P. Bush",
+        "whereEmployed": "do",
+        "whereBorn": "New York",
+        "whenceAppointed": "New York",
+        "compensation": 720
+      },
+      {
+        "name": "A. B. Baker",
+        "whereEmployed": "do",
+        "whereBorn": "Maine",
+        "whenceAppointed": "Maine",
+        "compensation": 720
+      },
+      {
+        "name": "Richard Bennett",
+        "whereEmployed": "do",
+        "whereBorn": "England",
+        "whenceAppointed": "Dist. Columbia",
+        "compensation": 720
+      },
+      {
+        "name": "Randall Brown",
+        "whereEmployed": "do",
+        "whereBorn": "Tennessee",
+        "whenceAppointed": "Tennessee",
+        "compensation": 720
+      },
+      {
+        "name": "H. H. Bengough",
+        "whereEmployed": "do",
+        "whereBorn": "Pennsylvania",
+        "whenceAppointed": "Pennsylvania",
+        "compensation": 720
+      },
+      {
+        "name": "Jeremiah Carroll",
+        "whereEmployed": "do",
+        "whereBorn": "Ireland",
+        "whenceAppointed": "Army",
+        "compensation": 720
+      },
+      {
+        "name": "John Connelly",
+        "whereEmployed": "do",
+        "whereBorn": "do",
+        "whenceAppointed": "do",
+        "compensation": 720
+      },
+      {
+        "name": "Daniel Carroll",
+        "whereEmployed": "do",
+        "whereBorn": "Maryland",
+        "whenceAppointed": "Dist. Columbia",
+        "compensation": 720
+      },
+      {
+        "name": "James E. Crump",
+        "whereEmployed": "do",
+        "whereBorn": "Virginia",
+        "whenceAppointed": "do",
+        "compensation": 720
+      },
+      {
+        "name": "Thomas Dennis",
+        "whereEmployed": "do",
+        "whereBorn": "England",
+        "whenceAppointed": "do",
+        "compensation": 720
+      },
+      {
+        "name": "W. B. Denney",
+        "whereEmployed": "do",
+        "whereBorn": "Canada",
+        "whenceAppointed": "New York",
+        "compensation": 720
+      },
+      {
+        "name": "R. W. Davidge",
+        "whereEmployed": "do",
+        "whereBorn": "Massachusetts",
+        "whenceAppointed": "Massachusetts",
+        "compensation": 720
+      },
+      {
+        "name": "Henry Edwards",
+        "whereEmployed": "do",
+        "whereBorn": "North Carolina",
+        "whenceAppointed": "Dist. Columbia",
+        "compensation": 720
+      },
+      {
+        "name": "Louis Ertmau",
+        "whereEmployed": "do",
+        "whereBorn": "Hungary",
+        "whenceAppointed": "do",
+        "compensation": 720
+      },
+      {
+        "name": "Henry Fetter",
+        "whereEmployed": "do",
+        "whereBorn": "Germany",
+        "whenceAppointed": "do",
+        "compensation": 720
+      },
+      {
+        "name": "Theodore Gregg",
+        "whereEmployed": "do",
+        "whereBorn": "Pennsylvania",
+        "whenceAppointed": "Pennsylvania",
+        "compensation": 720
+      },
+      {
+        "name": "Charles Goodrich",
+        "whereEmployed": "do",
+        "whereBorn": "Maryland",
+        "whenceAppointed": "Dist. Columbia",
+        "compensation": 720
+      },
+      {
+        "name": "George L. Green",
+        "whereEmployed": "do",
+        "whereBorn": "do",
+        "whenceAppointed": "do",
+        "compensation": 720
+      },
+      {
+        "name": "George Gardner",
+        "whereEmployed": "do",
+        "whereBorn": "do",
+        "whenceAppointed": "Maryland",
+        "compensation": 720
+      },
+      {
+        "name": "William H. Hill",
+        "whereEmployed": "do",
+        "whereBorn": "Pennsylvania",
+        "whenceAppointed": "Pennsylvania",
+        "compensation": 720
+      },
+      {
+        "name": "John Hill",
+        "whereEmployed": "do",
+        "whereBorn": "do",
+        "whenceAppointed": "Dist. Columbia",
+        "compensation": 720
+      },
+      {
+        "name": "William Hill",
+        "whereEmployed": "do",
+        "whereBorn": "New York",
+        "whenceAppointed": "New York",
+        "compensation": 720
+      },
+      {
+        "name": "William Hawthorne",
+        "whereEmployed": "do",
+        "whereBorn": "do",
+        "whenceAppointed": "Dist. Columbia",
+        "compensation": 720
+      },
+      {
+        "name": "J. F. Hugely",
+        "whereEmployed": "do",
+        "whereBorn": "Virginia",
+        "whenceAppointed": "Massachusetts",
+        "compensation": 720
+      },
+      {
+        "name": "David House",
+        "whereEmployed": "do",
+        "whereBorn": "Maryland",
+        "whenceAppointed": "Dist. Columbia",
+        "compensation": 720
+      },
+      {
+        "name": "D. T. Johnson",
+        "whereEmployed": "do",
+        "whereBorn": "do",
+        "whenceAppointed": "do",
+        "compensation": 720
+      },
+      {
+        "name": "A. C. Luther",
+        "whereEmployed": "do",
+        "whereBorn": "New York",
+        "whenceAppointed": "Wisconsin",
+        "compensation": 720
+      },
+      {
+        "name": "D. H. Logan",
+        "whereEmployed": "do",
+        "whereBorn": "Maryland",
+        "whenceAppointed": "Dist. Columbia",
+        "compensation": 720
+      },
+      {
+        "name": "Richard Michael",
+        "whereEmployed": "do",
+        "whereBorn": "Germany",
+        "whenceAppointed": "do",
+        "compensation": 720
+      },
+      {
+        "name": "John McCarty",
+        "whereEmployed": "do",
+        "whereBorn": "Massachusetts",
+        "whenceAppointed": "do",
+        "compensation": 720
+      },
+      {
+        "name": "Johu Moylan",
+        "whereEmployed": "do",
+        "whereBorn": "New York",
+        "whenceAppointed": "North Carolina",
+        "compensation": 720
+      },
+      {
+        "name": "John McNolan",
+        "whereEmployed": "da",
+        "whereBorn": "do",
+        "whenceAppointed": "Dist. Columbia",
+        "compensation": 720
+      },
+      {
+        "name": "John McGuire",
+        "whereEmployed": "do",
+        "whereBorn": "Ireland",
+        "whenceAppointed": "do",
+        "compensation": 720
+      },
+      {
+        "name": "J. H. Merriwether",
+        "whereEmployed": "do",
+        "whereBorn": "Kentucky",
+        "whenceAppointed": "Kentucky",
+        "compensation": 720
+      },
+      {
+        "name": "J. M. Murphy",
+        "whereEmployed": "do",
+        "whereBorn": "Missouri",
+        "whenceAppointed": "Tennessee",
+        "compensation": 720
+      },
+      {
+        "name": "C. H. Peck",
+        "whereEmployed": "do",
+        "whereBorn": "New York",
+        "whenceAppointed": "Dist. Columbia",
+        "compensation": 720
+      },
+      {
+        "name": "Miles Parker",
+        "whereEmployed": "do",
+        "whereBorn": "Virginia",
+        "whenceAppointed": "do",
+        "compensation": 720
+      },
+      {
+        "name": "H. N. Painter",
+        "whereEmployed": "do",
+        "whereBorn": "Connecticut",
+        "whenceAppointed": "Connecticut",
+        "compensation": 720
+      },
+      {
+        "name": "M. J. Quigly",
+        "whereEmployed": "do",
+        "whereBorn": "England",
+        "whenceAppointed": "New Jersey",
+        "compensation": 720
+      },
+      {
+        "name": "J. S. Rhodes",
+        "whereEmployed": "do",
+        "whereBorn": "Pennsylvania",
+        "whenceAppointed": "Pennsylvania",
+        "compensation": 720
+      },
+      {
+        "name": "James Reynolds",
+        "whereEmployed": "do",
+        "whereBorn": "Ireland",
+        "whenceAppointed": "Dist. Columbia",
+        "compensation": 720
+      },
+      {
+        "name": "Benjamin Redman",
+        "whereEmployed": "do",
+        "whereBorn": "Virginia",
+        "whenceAppointed": "do",
+        "compensation": 720
+      },
+      {
+        "name": "Daniel Shea",
+        "whereEmployed": "do",
+        "whereBorn": "Ireland",
+        "whenceAppointed": "Connecticut",
+        "compensation": 720
+      },
+      {
+        "name": "D. L. Schively",
+        "whereEmployed": "do",
+        "whereBorn": "Pennsylvania",
+        "whenceAppointed": "Pennsylvania",
+        "compensation": 720
+      },
+      {
+        "name": "J. B. Sloat",
+        "whereEmployed": "do",
+        "whereBorn": "Virginia",
+        "whenceAppointed": "Virginia",
+        "compensation": 720
+      },
+      {
+        "name": "Joseph Shannon",
+        "whereEmployed": "do",
+        "whereBorn": "Pennsylvania",
+        "whenceAppointed": "Pennsylvania",
+        "compensation": 720
+      },
+      {
+        "name": "A. W. Tyler",
+        "whereEmployed": "do",
+        "whereBorn": "New York",
+        "whenceAppointed": "Massachusetts",
+        "compensation": 720
+      },
+      {
+        "name": "B. F. Trennis",
+        "whereEmployed": "do",
+        "whereBorn": "Virginia",
+        "whenceAppointed": "Dist. Columbia",
+        "compensation": 720
+      },
+      {
+        "name": "William Williams",
+        "whereEmployed": "do",
+        "whereBorn": "Dist. Columbia",
+        "whenceAppointed": "do",
+        "compensation": 720
+      },
+      {
+        "name": "Jacob Wolfsteiner",
+        "whereEmployed": "do",
+        "whereBorn": "Germany",
+        "whenceAppointed": "do",
+        "compensation": 720
+      },
+      {
+        "name": "George W. Warmack",
+        "whereEmployed": "do",
+        "whereBorn": "Tennessee",
+        "whenceAppointed": "Alabama",
+        "compensation": 720
+      },
+      {
+        "name": "S. D. Skeen",
+        "whereEmployed": "Washington",
+        "whereBorn": "Pennsylvania",
+        "whenceAppointed": "Pennsylvania",
+        "compensation": 1000
+      },
+      {
+        "name": "Michael Barrett,",
+        "whereEmployed": "Washington",
+        "whereBorn": "Ireland",
+        "whenceAppointed": "Dist. Columbia",
+        "compensation": 720
+      },
+      {
+        "name": "G. Chaves",
+        "whereEmployed": "do",
+        "whereBorn": "Mexico",
+        "whenceAppointed": "do",
+        "compensation": 720
+      },
+      {
+        "name": "Thomas Creag",
+        "whereEmployed": "do",
+        "whereBorn": "Maryland",
+        "whenceAppointed": "do",
+        "compensation": 720
+      },
+      {
+        "name": "John Connarty",
+        "whereEmployed": "do",
+        "whereBorn": "Ireland",
+        "whenceAppointed": "do",
+        "compensation": 720
+      },
+      {
+        "name": "Nero Crawford",
+        "whereEmployed": "do",
+        "whereBorn": "South Carolina",
+        "whenceAppointed": "do",
+        "compensation": 720
+      },
+      {
+        "name": "Sandy Colbert",
+        "whereEmployed": "do",
+        "whereBorn": "Maryland",
+        "whenceAppointed": "do",
+        "compensation": 720
+      },
+      {
+        "name": "Edward Chase",
+        "whereEmployed": "do",
+        "whereBorn": "do",
+        "whenceAppointed": "do",
+        "compensation": 720
+      },
+      {
+        "name": "B. F. Dabney",
+        "whereEmployed": "do",
+        "whereBorn": "Virginia",
+        "whenceAppointed": "do",
+        "compensation": 720
+      },
+      {
+        "name": "Benjamin Franklin",
+        "whereEmployed": "do",
+        "whereBorn": "South Carolina",
+        "whenceAppointed": "North Carolina",
+        "compensation": 720
+      },
+      {
+        "name": "Edward Gantt",
+        "whereEmployed": "do",
+        "whereBorn": "Virginia",
+        "whenceAppointed": "Dist. Columbia",
+        "compensation": 720
+      },
+      {
+        "name": "Thomas Green",
+        "whereEmployed": "do",
+        "whereBorn": "Maryland",
+        "whenceAppointed": "do",
+        "compensation": 720
+      },
+      {
+        "name": "Clement Herbert",
+        "whereEmployed": "do",
+        "whereBorn": "Dist. Columbia",
+        "whenceAppointed": "do",
+        "compensation": 720
+      },
+      {
+        "name": "Daniel Humphreys",
+        "whereEmployed": "do",
+        "whereBorn": "do",
+        "whenceAppointed": "do",
+        "compensation": 720
+      },
+      {
+        "name": "William Johnson",
+        "whereEmployed": "do",
+        "whereBorn": "Virginia",
+        "whenceAppointed": "do",
+        "compensation": 720
+      },
+      {
+        "name": "James J ckson",
+        "whereEmployed": "do",
+        "whereBorn": "Dist. Columbia",
+        "whenceAppointed": "do",
+        "compensation": 720
+      },
+      {
+        "name": "David Jefferson",
+        "whereEmployed": "do",
+        "whereBorn": "Virginia",
+        "whenceAppointed": "do",
+        "compensation": 720
+      },
+      {
+        "name": "J. W. Morris",
+        "whereEmployed": "do",
+        "whereBorn": "South Carolina",
+        "whenceAppointed": "do",
+        "compensation": 720
+      },
+      {
+        "name": "Thomas H. Smith",
+        "whereEmployed": "do",
+        "whereBorn": "Dist. Columbia",
+        "whenceAppointed": "Dist. Columbia",
+        "compensation": 1000
+      },
+      {
+        "name": "Kate Timrod",
+        "whereEmployed": "do",
+        "whereBorn": "England",
+        "whenceAppointed": "Mississippi",
+        "compensation": 900
+      }
+    ]
+  }
+}

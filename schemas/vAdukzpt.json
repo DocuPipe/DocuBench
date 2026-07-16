@@ -1,0 +1,40 @@
+{
+  "type": "object",
+  "properties": {
+    "employees": {
+      "type": "array",
+      "description": "every employee row in the bureau roster table, read straight down each page top to bottom; each printed line that carries a person's name in the first column is one item. skip the running page-header line at the very top of each page (the department name and page number), skip the bureau-section title printed above the table, skip the column-header row, and skip every italic sub-heading line that states a job title or grade but carries no name and no data columns (those headings apply to the rows beneath them and are not themselves items). general transcription rule: dot leaders (rows of dots that visually connect a cell to its value) are layout only and are never part of any field value; a value printed as the ditto abbreviation is handled per the field rules below",
+      "items": {
+        "type": "object",
+        "properties": {
+          "name": {
+            "type": "string",
+            "description": "the person's name exactly as printed in the first column (the names-and-offices column), transcribed verbatim including initials, punctuation and any suffix; trailing dot leaders are not part of the value"
+          },
+          "whereEmployed": {
+            "type": "string",
+            "description": "the value printed in the second column (the duty-station / place-of-employment column), transcribed verbatim as printed; when the cell is printed as the ditto abbreviation standing in for the cell above, transcribe the literal ditto token 'do' and do NOT resolve it to the value above; null if the cell is blank"
+          },
+          "whereBorn": {
+            "type": "string",
+            "description": "the value printed in the third column (the birthplace column: a US state, territory, district, or foreign country), transcribed verbatim as printed; when the cell is printed as the ditto abbreviation standing in for the cell above, transcribe the literal ditto token 'do' and do NOT resolve it to the value above; null if the cell is blank"
+          },
+          "whenceAppointed": {
+            "type": "string",
+            "description": "the value printed in the fourth column (the state/territory/district the employee was appointed from), transcribed verbatim as printed; when the cell is printed as the ditto abbreviation standing in for the cell above, transcribe the literal ditto token 'do' and do NOT resolve it to the value above; null if the cell is blank"
+          },
+          "compensation": {
+            "type": "number",
+            "description": "the annual compensation printed in the last column, as a number in dollars with the dollar sign and thousands separators removed; the two digits printed after the space at the end of the cell are cents (so a cell showing a whole-dollar amount followed by two zero digits is that whole-dollar amount); null if the cell is blank or if the cell is not a plain annual dollar amount (for example a per-diem rate or a fee notation rather than a fixed yearly salary)"
+          }
+        },
+        "required": [
+          "name"
+        ]
+      }
+    }
+  },
+  "required": [
+    "employees"
+  ]
+}

@@ -1,0 +1,215 @@
+{
+  "score": 0.38235294117647084,
+  "cost": 0.0625,
+  "time_sec": 20.62,
+  "num_pages": 1,
+  "data": {
+    "weekday": "Friday",
+    "issueDate": "1946-08-16",
+    "issueNumber": 5877,
+    "coinMaterial": "銅六十乃至七十百分亜鉛四十乃至三十分",
+    "courseTables": [
+      {
+        "subject": "公民",
+        "trackName": "経済科",
+        "totalHours": 330
+      },
+      {
+        "subject": "国語",
+        "trackName": "経済科",
+        "totalHours": 70
+      },
+      {
+        "subject": "理数",
+        "trackName": "経営科",
+        "totalHours": 140
+      },
+      {
+        "subject": "実習",
+        "trackName": "経済科",
+        "totalHours": 210
+      },
+      {
+        "subject": "第一外国語",
+        "trackName": "経済科",
+        "totalHours": 630
+      },
+      {
+        "subject": "理学",
+        "trackName": "経済科",
+        "totalHours": 330
+      },
+      {
+        "subject": "経済",
+        "trackName": "経営科",
+        "totalHours": 735
+      },
+      {
+        "subject": "商業",
+        "trackName": "経営科",
+        "totalHours": 220
+      },
+      {
+        "subject": "体育",
+        "trackName": "経済科",
+        "totalHours": 330
+      },
+      {
+        "subject": "簿記会計",
+        "trackName": "経済科",
+        "totalHours": 280
+      },
+      {
+        "subject": "産業技術",
+        "trackName": "経営科",
+        "totalHours": 140
+      },
+      {
+        "subject": "法律",
+        "trackName": "経営科",
+        "totalHours": 280
+      },
+      {
+        "subject": "演習",
+        "trackName": "経営科",
+        "totalHours": 140
+      },
+      {
+        "subject": "計",
+        "trackName": "経済科",
+        "totalHours": 3465
+      },
+      {
+        "subject": "公民",
+        "trackName": "東洋経済科",
+        "totalHours": 220
+      },
+      {
+        "subject": "国語",
+        "trackName": "東洋経済科",
+        "totalHours": 70
+      },
+      {
+        "subject": "第二外国語",
+        "trackName": "経済科",
+        "totalHours": 330
+      },
+      {
+        "subject": "経営",
+        "trackName": "経営科",
+        "totalHours": 220
+      },
+      {
+        "subject": "第一外国語",
+        "trackName": "経営科",
+        "totalHours": 630
+      },
+      {
+        "subject": "第二外国語",
+        "trackName": "経営科",
+        "totalHours": 220
+      },
+      {
+        "subject": "経済",
+        "trackName": "経済科",
+        "totalHours": 560
+      },
+      {
+        "subject": "経営",
+        "trackName": "経済科",
+        "totalHours": 315
+      },
+      {
+        "subject": "簿記会計",
+        "trackName": "経営科",
+        "totalHours": 280
+      },
+      {
+        "subject": "商業技術",
+        "trackName": "経済科",
+        "totalHours": 315
+      },
+      {
+        "subject": "法律",
+        "trackName": "経済科",
+        "totalHours": 245
+      },
+      {
+        "subject": "体育",
+        "trackName": "経営科",
+        "totalHours": 220
+      },
+      {
+        "subject": "計",
+        "trackName": "経営科",
+        "totalHours": 3465
+      },
+      {
+        "subject": "体育",
+        "trackName": "東洋経済科",
+        "totalHours": 220
+      },
+      {
+        "subject": "理数",
+        "trackName": "東洋経済科",
+        "totalHours": 140
+      },
+      {
+        "subject": "第一外国語",
+        "trackName": "東洋経済科",
+        "totalHours": 630
+      },
+      {
+        "subject": "第二外国語",
+        "trackName": "東洋経済科",
+        "totalHours": 280
+      },
+      {
+        "subject": "東洋史",
+        "trackName": "東洋経済科",
+        "totalHours": 140
+      },
+      {
+        "subject": "東洋文化",
+        "trackName": "東洋経済科",
+        "totalHours": 140
+      },
+      {
+        "subject": "経済",
+        "trackName": "東洋経済科",
+        "totalHours": 560
+      },
+      {
+        "subject": "商業",
+        "trackName": "東洋経済科",
+        "totalHours": 220
+      },
+      {
+        "subject": "簿記会計",
+        "trackName": "東洋経済科",
+        "totalHours": 245
+      },
+      {
+        "subject": "法律",
+        "trackName": "東洋経済科",
+        "totalHours": 280
+      },
+      {
+        "subject": "演習",
+        "trackName": "東洋経済科",
+        "totalHours": 140
+      },
+      {
+        "subject": "計",
+        "trackName": "東洋経済科",
+        "totalHours": 3465
+      }
+    ],
+    "coinDiameterMm": 23.5,
+    "coinWeightGrams": 4.5,
+    "coinFaceValueSen": 50,
+    "imperialOrdinanceNumber": 392,
+    "ministerialOrdinanceNumber": 25,
+    "imperialOrdinancePromulgationDate": "1946-08-15"
+  }
+}

@@ -1,0 +1,5506 @@
+{
+  "score": 0.9986338797814209,
+  "cost": 1.5024345,
+  "time_sec": 712.7115640640259,
+  "num_pages": 15,
+  "data": {
+    "entries": [
+      {
+        "headword": "Cazurro",
+        "pronunciation": "kar-thoor'-ro",
+        "partOfSpeech": "a.",
+        "englishTranslation": "taciturn: gloomy: sullen."
+      },
+      {
+        "headword": "Ce",
+        "pronunciation": "thay",
+        "partOfSpeech": "interj.",
+        "englishTranslation": "here."
+      },
+      {
+        "headword": "Cebada",
+        "pronunciation": "thay-bar'-dar",
+        "partOfSpeech": "f.",
+        "englishTranslation": "barley."
+      },
+      {
+        "headword": "Cebar",
+        "pronunciation": "thay-bar'",
+        "partOfSpeech": "v.",
+        "englishTranslation": "to fatten."
+      },
+      {
+        "headword": "Cebo",
+        "pronunciation": "thay'-bo",
+        "partOfSpeech": "m.",
+        "englishTranslation": "food: fodder."
+      },
+      {
+        "headword": "Cebolla",
+        "pronunciation": "thay-boll'-yar",
+        "partOfSpeech": "f.",
+        "englishTranslation": "onion."
+      },
+      {
+        "headword": "Cebra",
+        "pronunciation": "thay'-brar",
+        "partOfSpeech": "f.",
+        "englishTranslation": "zebra."
+      },
+      {
+        "headword": "Cecear",
+        "pronunciation": "thay-thay-r'",
+        "partOfSpeech": "v.",
+        "englishTranslation": "to lisp."
+      },
+      {
+        "headword": "Ceder",
+        "pronunciation": "thay-dayr'",
+        "partOfSpeech": "v.",
+        "englishTranslation": "to abate: grant: submit: yield."
+      },
+      {
+        "headword": "Cegar",
+        "pronunciation": "thay-gar'",
+        "partOfSpeech": "v.",
+        "englishTranslation": "to blind."
+      },
+      {
+        "headword": "Cegato",
+        "pronunciation": "thay-gar'-to",
+        "partOfSpeech": "a.",
+        "englishTranslation": "short-sighted."
+      },
+      {
+        "headword": "Ceguera",
+        "pronunciation": "thay-gay'-rar",
+        "partOfSpeech": "f.",
+        "englishTranslation": "blindness."
+      },
+      {
+        "headword": "Ceja",
+        "pronunciation": "thay'-har",
+        "partOfSpeech": "f.",
+        "englishTranslation": "eyebrow."
+      },
+      {
+        "headword": "Cejar",
+        "pronunciation": "thay-harr'",
+        "partOfSpeech": "v.",
+        "englishTranslation": "to relax: slacken."
+      },
+      {
+        "headword": "Celda",
+        "pronunciation": "thayl'-dar",
+        "partOfSpeech": "f.",
+        "englishTranslation": "cell."
+      },
+      {
+        "headword": "Celebrar",
+        "pronunciation": "thayl-ay-brar'",
+        "partOfSpeech": "v.",
+        "englishTranslation": "to celebrate: praise."
+      },
+      {
+        "headword": "Célebre",
+        "pronunciation": "thayl-ay-bray",
+        "partOfSpeech": "a.",
+        "englishTranslation": "famous: celebrated."
+      },
+      {
+        "headword": "Celeridad",
+        "pronunciation": "thayl-ay-ree-dahd'",
+        "partOfSpeech": "f.",
+        "englishTranslation": "velocity: speed."
+      },
+      {
+        "headword": "Celeste",
+        "pronunciation": "thay-less'-tay",
+        "partOfSpeech": "a.",
+        "englishTranslation": "sky-blue: heavenly."
+      },
+      {
+        "headword": "Celestial",
+        "pronunciation": "thay-less-tee-arl'",
+        "partOfSpeech": "a.",
+        "englishTranslation": "heavenly: excellent: perfect."
+      },
+      {
+        "headword": "Célibe",
+        "pronunciation": "thay'-lee-bay",
+        "partOfSpeech": "m.",
+        "englishTranslation": "bachelor."
+      },
+      {
+        "headword": "Celosia",
+        "pronunciation": "thay-lo-see'-r",
+        "partOfSpeech": "f.",
+        "englishTranslation": "lattice of a window."
+      },
+      {
+        "headword": "Celoso",
+        "pronunciation": "thay-lo'-so",
+        "partOfSpeech": "a.",
+        "englishTranslation": "zealous: jealous."
+      },
+      {
+        "headword": "Cena",
+        "pronunciation": "thay'-nar",
+        "partOfSpeech": "f.",
+        "englishTranslation": "supper."
+      },
+      {
+        "headword": "Cenar",
+        "pronunciation": "thay-narr'",
+        "partOfSpeech": "v.",
+        "englishTranslation": "to have supper."
+      },
+      {
+        "headword": "Ceniza",
+        "pronunciation": "thay-nee'-thar",
+        "partOfSpeech": "f.",
+        "englishTranslation": "ashes. Miércoles de Ceniza, Ash Wednesday."
+      },
+      {
+        "headword": "Cenojil",
+        "pronunciation": "thay-no-heel'",
+        "partOfSpeech": "m.",
+        "englishTranslation": "garter."
+      },
+      {
+        "headword": "Centella",
+        "pronunciation": "then-tayl'-yar",
+        "partOfSpeech": "f.",
+        "englishTranslation": "spark: lightning."
+      },
+      {
+        "headword": "Centellar",
+        "pronunciation": "then-tayl'-yarr",
+        "partOfSpeech": "v.",
+        "englishTranslation": "to sparkle."
+      },
+      {
+        "headword": "Centena",
+        "pronunciation": "then-tay'-nar",
+        "partOfSpeech": "f.",
+        "englishTranslation": "hundred."
+      },
+      {
+        "headword": "Centenario",
+        "pronunciation": "then-tay-nar-ee'-o",
+        "partOfSpeech": "m.",
+        "englishTranslation": "centenary."
+      },
+      {
+        "headword": "Centinela",
+        "pronunciation": "then-tee-nay'-lar",
+        "partOfSpeech": "f.",
+        "englishTranslation": "sentry: sentinel."
+      },
+      {
+        "headword": "Centro",
+        "pronunciation": "then'-tro",
+        "partOfSpeech": "m.",
+        "englishTranslation": "centre: chief thing."
+      },
+      {
+        "headword": "Centuria",
+        "pronunciation": "then-toor-ee'-r",
+        "partOfSpeech": "f.",
+        "englishTranslation": "century."
+      },
+      {
+        "headword": "Cenzalo",
+        "pronunciation": "then-thar'-lo",
+        "partOfSpeech": "m.",
+        "englishTranslation": "gnat."
+      },
+      {
+        "headword": "Ceñidor",
+        "pronunciation": "then-yee'-dor",
+        "partOfSpeech": "m.",
+        "englishTranslation": "belt: girdle."
+      },
+      {
+        "headword": "Ceño",
+        "pronunciation": "then'-yo",
+        "partOfSpeech": "m.",
+        "englishTranslation": "frown."
+      },
+      {
+        "headword": "Cepillo",
+        "pronunciation": "thay-peel'-yo",
+        "partOfSpeech": "m.",
+        "englishTranslation": "brush."
+      },
+      {
+        "headword": "Cepo",
+        "pronunciation": "thay'-po",
+        "partOfSpeech": "m.",
+        "englishTranslation": "trap: snare: poor-box."
+      },
+      {
+        "headword": "Cera",
+        "pronunciation": "thay'-rar",
+        "partOfSpeech": "f.",
+        "englishTranslation": "wax: wax-taper: wax-candle."
+      },
+      {
+        "headword": "Cercano",
+        "pronunciation": "thayr-kar'-no",
+        "partOfSpeech": "a.",
+        "englishTranslation": "near: close to: adjoining."
+      },
+      {
+        "headword": "Cercenar",
+        "pronunciation": "thayr-thay-nar'",
+        "partOfSpeech": "v.",
+        "englishTranslation": "to clip: lop off: pare: curtail."
+      },
+      {
+        "headword": "Cerdo",
+        "pronunciation": "thayr'-do",
+        "partOfSpeech": "m.",
+        "englishTranslation": "pig: hog."
+      },
+      {
+        "headword": "Ceremonia",
+        "pronunciation": "thayr-ay-mo-nee'-r",
+        "partOfSpeech": "f.",
+        "englishTranslation": "ceremony."
+      },
+      {
+        "headword": "Cereza",
+        "pronunciation": "thayr-ay-thar",
+        "partOfSpeech": "f.",
+        "englishTranslation": "cherry."
+      },
+      {
+        "headword": "Cero",
+        "pronunciation": "thay'-ro",
+        "partOfSpeech": "m.",
+        "englishTranslation": "zero."
+      },
+      {
+        "headword": "Ceroso",
+        "pronunciation": "thay-ro'-so",
+        "partOfSpeech": "a.",
+        "englishTranslation": "waxy."
+      },
+      {
+        "headword": "Cerrado",
+        "pronunciation": "thayr-rar'-do",
+        "partOfSpeech": "a.",
+        "englishTranslation": "close: concealed: reserved."
+      },
+      {
+        "headword": "Cerrajero",
+        "pronunciation": "thayr-rar-hay'-ro",
+        "partOfSpeech": "m.",
+        "englishTranslation": "locksmith."
+      },
+      {
+        "headword": "Cerrar",
+        "pronunciation": "thayr-rar'",
+        "partOfSpeech": "v.",
+        "englishTranslation": "to close: shut: lock."
+      },
+      {
+        "headword": "Cerril",
+        "pronunciation": "thayr-reel'",
+        "partOfSpeech": "a.",
+        "englishTranslation": "wild: rough: untamed."
+      },
+      {
+        "headword": "Cerro",
+        "pronunciation": "thayr'-ro",
+        "partOfSpeech": "m.",
+        "englishTranslation": "hill."
+      },
+      {
+        "headword": "Cerrojo",
+        "pronunciation": "thayr-ro'-ho",
+        "partOfSpeech": "m.",
+        "englishTranslation": "door-bolt."
+      },
+      {
+        "headword": "Certificar",
+        "pronunciation": "thayr-tee-fee-kar'",
+        "partOfSpeech": "v.",
+        "englishTranslation": "to affirm: certify."
+      },
+      {
+        "headword": "Cervecero",
+        "pronunciation": "thayr-vay-thay'-ro",
+        "partOfSpeech": "m.",
+        "englishTranslation": "brewer."
+      },
+      {
+        "headword": "Cerveza",
+        "pronunciation": "thayr-vay'-thar",
+        "partOfSpeech": "m.",
+        "englishTranslation": "ale: beer."
+      },
+      {
+        "headword": "Cesar",
+        "pronunciation": "thay-sar'",
+        "partOfSpeech": "v.",
+        "englishTranslation": "to cease: desist."
+      },
+      {
+        "headword": "Cesión",
+        "pronunciation": "thay-see-on'",
+        "partOfSpeech": "f.",
+        "englishTranslation": "cession: transfer."
+      },
+      {
+        "headword": "Césped",
+        "pronunciation": "thess'-payd",
+        "partOfSpeech": "m.",
+        "englishTranslation": "turf: sod."
+      },
+      {
+        "headword": "Cesta",
+        "pronunciation": "thess'-tar",
+        "partOfSpeech": "f.",
+        "englishTranslation": "basket: pannier."
+      },
+      {
+        "headword": "Cetrino",
+        "pronunciation": "thay-tree'-no",
+        "partOfSpeech": "a.",
+        "englishTranslation": "lemon-coloured: jaundiced."
+      },
+      {
+        "headword": "Cía",
+        "pronunciation": "thee'-r",
+        "partOfSpeech": "f.",
+        "englishTranslation": "hip-bone."
+      },
+      {
+        "headword": "Ciática",
+        "pronunciation": "thee-r'-tee-kar",
+        "partOfSpeech": "f.",
+        "englishTranslation": "sciatica."
+      },
+      {
+        "headword": "Cicatear",
+        "pronunciation": "thee-kar-tay-r'",
+        "partOfSpeech": "v.",
+        "englishTranslation": "to be stingy: niggardly."
+      },
+      {
+        "headword": "Ciclo",
+        "pronunciation": "thee'-klo",
+        "partOfSpeech": "m.",
+        "englishTranslation": "cycle."
+      },
+      {
+        "headword": "Ciego",
+        "pronunciation": "thee-ay'-go",
+        "partOfSpeech": "a.",
+        "englishTranslation": "blind."
+      },
+      {
+        "headword": "Cielo",
+        "pronunciation": "thee-ay'-lo",
+        "partOfSpeech": "m.",
+        "englishTranslation": "heaven: sky: atmosphere."
+      },
+      {
+        "headword": "Cien",
+        "pronunciation": "thee'-n",
+        "partOfSpeech": "a.",
+        "englishTranslation": "one hundred."
+      },
+      {
+        "headword": "Ciencia",
+        "pronunciation": "thee-n-thee'-r",
+        "partOfSpeech": "f.",
+        "englishTranslation": "science."
+      },
+      {
+        "headword": "Cieno",
+        "pronunciation": "thee-n'-o",
+        "partOfSpeech": "m.",
+        "englishTranslation": "mud: mire: slush."
+      },
+      {
+        "headword": "Cierto",
+        "pronunciation": "thee-ayr'-to",
+        "partOfSpeech": "a.",
+        "englishTranslation": "certain: doubtless."
+      },
+      {
+        "headword": "Ciervo",
+        "pronunciation": "thee-ayr'-vo",
+        "partOfSpeech": "m.",
+        "englishTranslation": "stag: hart: deer."
+      },
+      {
+        "headword": "Cigarra",
+        "pronunciation": "thee-gar'-rar",
+        "partOfSpeech": "f.",
+        "englishTranslation": "grasshopper."
+      },
+      {
+        "headword": "Cigarillo",
+        "pronunciation": "thee-gar-reel'-yo",
+        "partOfSpeech": "m.",
+        "englishTranslation": "cigarette."
+      },
+      {
+        "headword": "Cigarrito",
+        "pronunciation": "thee-gar-ree'-to",
+        "partOfSpeech": "m.",
+        "englishTranslation": "cigarette."
+      },
+      {
+        "headword": "Cigarro",
+        "pronunciation": "thee-gar'-ro",
+        "partOfSpeech": "m.",
+        "englishTranslation": "cigar."
+      },
+      {
+        "headword": "Cilindro",
+        "pronunciation": "thee-leen'-dro",
+        "partOfSpeech": "m.",
+        "englishTranslation": "cylinder."
+      },
+      {
+        "headword": "Cilla",
+        "pronunciation": "theel'-yar",
+        "partOfSpeech": "f.",
+        "englishTranslation": "granary."
+      },
+      {
+        "headword": "Cimbreño",
+        "pronunciation": "thim-brayn'-yo",
+        "partOfSpeech": "a.",
+        "englishTranslation": "flexible: pliant."
+      },
+      {
+        "headword": "Cimenterio",
+        "pronunciation": "thee-men-tay-ree'-o",
+        "partOfSpeech": "m.",
+        "englishTranslation": "cemetery: churchyard."
+      },
+      {
+        "headword": "Cimento",
+        "pronunciation": "thee-men'-to",
+        "partOfSpeech": "m.",
+        "englishTranslation": "cement."
+      },
+      {
+        "headword": "Cimero",
+        "pronunciation": "thee-may'-ro",
+        "partOfSpeech": "a.",
+        "englishTranslation": "uppermost."
+      },
+      {
+        "headword": "Cinabrio",
+        "pronunciation": "thin-r-bree'-o",
+        "partOfSpeech": "m.",
+        "englishTranslation": "vermilion."
+      },
+      {
+        "headword": "Cincel",
+        "pronunciation": "thin-thel'",
+        "partOfSpeech": "m.",
+        "englishTranslation": "chisel."
+      },
+      {
+        "headword": "Cinco",
+        "pronunciation": "thin'-ko",
+        "partOfSpeech": "m.; a.",
+        "englishTranslation": "five; five."
+      },
+      {
+        "headword": "Cincuenta",
+        "pronunciation": "thin-koo-n'-tar",
+        "partOfSpeech": "m.",
+        "englishTranslation": "fifty."
+      },
+      {
+        "headword": "Cincha",
+        "pronunciation": "thin'-char",
+        "partOfSpeech": "f.",
+        "englishTranslation": "girth: cincture."
+      },
+      {
+        "headword": "Cinta",
+        "pronunciation": "thin'-tar",
+        "partOfSpeech": "f.",
+        "englishTranslation": "ribbon."
+      },
+      {
+        "headword": "Circo",
+        "pronunciation": "theer'-ko",
+        "partOfSpeech": "m.",
+        "englishTranslation": "circus."
+      },
+      {
+        "headword": "Circuir",
+        "pronunciation": "theer-koo-eer'",
+        "partOfSpeech": "v.",
+        "englishTranslation": "to encircle: surround."
+      },
+      {
+        "headword": "Circulación",
+        "pronunciation": "theer-koo-lar-thee-ón",
+        "partOfSpeech": "f.",
+        "englishTranslation": "circulation."
+      },
+      {
+        "headword": "Circulo",
+        "pronunciation": "theer'-koo-lo",
+        "partOfSpeech": "m.",
+        "englishTranslation": "circle: circumference."
+      },
+      {
+        "headword": "Cirineo",
+        "pronunciation": "theer-een-ay'-o",
+        "partOfSpeech": "m.",
+        "englishTranslation": "assistant: mate."
+      },
+      {
+        "headword": "Ciruela",
+        "pronunciation": "theer-oo-ay'-lar",
+        "partOfSpeech": "f.",
+        "englishTranslation": "plum: prune."
+      },
+      {
+        "headword": "Cirugia",
+        "pronunciation": "theer-oo-hee'-r",
+        "partOfSpeech": "f.",
+        "englishTranslation": "surgery."
+      },
+      {
+        "headword": "Cirujano",
+        "pronunciation": "theer-oo-har'-no",
+        "partOfSpeech": "m.",
+        "englishTranslation": "surgeon."
+      },
+      {
+        "headword": "Cisterna",
+        "pronunciation": "thiss-tayr'-nar",
+        "partOfSpeech": "f.",
+        "englishTranslation": "cistern."
+      },
+      {
+        "headword": "Citerior",
+        "pronunciation": "thee-tay-ree-or'",
+        "partOfSpeech": "ad.",
+        "englishTranslation": "hither: nearer."
+      },
+      {
+        "headword": "Ciudadano",
+        "pronunciation": "thee-oo-dar-dar'-no",
+        "partOfSpeech": "m.",
+        "englishTranslation": "citizen."
+      },
+      {
+        "headword": "Civico",
+        "pronunciation": "thee-vee'-ko",
+        "partOfSpeech": "a.",
+        "englishTranslation": "civic."
+      },
+      {
+        "headword": "Civil",
+        "pronunciation": "thee-veel'",
+        "partOfSpeech": "a.",
+        "englishTranslation": "civil: polite: courteous."
+      },
+      {
+        "headword": "Civismo",
+        "pronunciation": "thee-viss'-mo",
+        "partOfSpeech": "m.",
+        "englishTranslation": "patriotism."
+      },
+      {
+        "headword": "Clamoroso",
+        "pronunciation": "klar-mor-o'-so",
+        "partOfSpeech": "a.",
+        "englishTranslation": "clamorous."
+      },
+      {
+        "headword": "Clarete",
+        "pronunciation": "klar-ray'-tay",
+        "partOfSpeech": "m.",
+        "englishTranslation": "claret."
+      },
+      {
+        "headword": "Claridad",
+        "pronunciation": "klar-ree-dahd'",
+        "partOfSpeech": "f.",
+        "englishTranslation": "brightness: clearness."
+      },
+      {
+        "headword": "Clarin",
+        "pronunciation": "klar-reen'",
+        "partOfSpeech": "m.",
+        "englishTranslation": "trumpet."
+      },
+      {
+        "headword": "Claro",
+        "pronunciation": "klar'-ro",
+        "partOfSpeech": "a.",
+        "englishTranslation": "bright: clear: evident."
+      },
+      {
+        "headword": "Claudicar",
+        "pronunciation": "klar-oo-dee-kar'",
+        "partOfSpeech": "v.",
+        "englishTranslation": "to limp."
+      },
+      {
+        "headword": "Clava",
+        "pronunciation": "klar'-var",
+        "partOfSpeech": "f.",
+        "englishTranslation": "club (stick)."
+      },
+      {
+        "headword": "Clavar",
+        "pronunciation": "klar-varr'",
+        "partOfSpeech": "v.",
+        "englishTranslation": "to nail: cheat: deceive."
+      },
+      {
+        "headword": "Clavija",
+        "pronunciation": "klar-vee'-hah",
+        "partOfSpeech": "f.",
+        "englishTranslation": "peg: pin."
+      },
+      {
+        "headword": "Clerecía",
+        "pronunciation": "klay-ray-thee'-r",
+        "partOfSpeech": "f.",
+        "englishTranslation": "clergy."
+      },
+      {
+        "headword": "Clérigo",
+        "pronunciation": "klay'-ree-go",
+        "partOfSpeech": "m.",
+        "englishTranslation": "clergyman."
+      },
+      {
+        "headword": "Clima",
+        "pronunciation": "klee'-mar",
+        "partOfSpeech": "f.",
+        "englishTranslation": "climate."
+      },
+      {
+        "headword": "Cloaca",
+        "pronunciation": "klo-ar'-kar",
+        "partOfSpeech": "f.",
+        "englishTranslation": "sewer."
+      },
+      {
+        "headword": "Clueco",
+        "pronunciation": "kloo-ay-ko",
+        "partOfSpeech": "a.",
+        "englishTranslation": "decrepit."
+      },
+      {
+        "headword": "Coartar",
+        "pronunciation": "ko-ar-tar'",
+        "partOfSpeech": "v.",
+        "englishTranslation": "to limit: restrict."
+      },
+      {
+        "headword": "Cobarde",
+        "pronunciation": "ko-bar'-day",
+        "partOfSpeech": "a.",
+        "englishTranslation": "cowardly: timid."
+      },
+      {
+        "headword": "Cocarar",
+        "pronunciation": "ko-kar-ar'",
+        "partOfSpeech": "v.",
+        "englishTranslation": "to gather."
+      },
+      {
+        "headword": "Cocear",
+        "pronunciation": "ko-thay'-r",
+        "partOfSpeech": "v.",
+        "englishTranslation": "to kick."
+      },
+      {
+        "headword": "Cocer",
+        "pronunciation": "ko-thayr'",
+        "partOfSpeech": "v.",
+        "englishTranslation": "to boil: bake: digest."
+      },
+      {
+        "headword": "Cocina",
+        "pronunciation": "ko-thee'-nar",
+        "partOfSpeech": "f.",
+        "englishTranslation": "kitchen."
+      },
+      {
+        "headword": "Cocinero",
+        "pronunciation": "ko-thee-nay'-ro",
+        "partOfSpeech": "m.",
+        "englishTranslation": "cook."
+      },
+      {
+        "headword": "Coco",
+        "pronunciation": "ko'-ko",
+        "partOfSpeech": "m.",
+        "englishTranslation": "cocoa: cocoanut."
+      },
+      {
+        "headword": "Cocodrilo",
+        "pronunciation": "ko-ko-dreel'-o",
+        "partOfSpeech": "m.",
+        "englishTranslation": "crocodile."
+      },
+      {
+        "headword": "Cochambre",
+        "pronunciation": "ko-charm'-bray",
+        "partOfSpeech": "m.",
+        "englishTranslation": "greasy: filthy."
+      },
+      {
+        "headword": "Cochero",
+        "pronunciation": "ko-chay'-ro",
+        "partOfSpeech": "m.",
+        "englishTranslation": "coachman."
+      },
+      {
+        "headword": "Cochifrito",
+        "pronunciation": "ko-chee-free'-to",
+        "partOfSpeech": "m.",
+        "englishTranslation": "fricasse."
+      },
+      {
+        "headword": "Cochina",
+        "pronunciation": "ko-chee'-nar",
+        "partOfSpeech": "f.",
+        "englishTranslation": "sow."
+      },
+      {
+        "headword": "Cochineria",
+        "pronunciation": "ko-chee-nay-ree-r'",
+        "partOfSpeech": "f.",
+        "englishTranslation": "filthiness."
+      },
+      {
+        "headword": "Codicia",
+        "pronunciation": "ko-dee-thee'-r",
+        "partOfSpeech": "f.",
+        "englishTranslation": "covetousness: greediness."
+      },
+      {
+        "headword": "Codillo",
+        "pronunciation": "ko-deel'-yo",
+        "partOfSpeech": "m.",
+        "englishTranslation": "knee: stirrup."
+      },
+      {
+        "headword": "Codo",
+        "pronunciation": "ko'-do",
+        "partOfSpeech": "m.",
+        "englishTranslation": "elbow."
+      },
+      {
+        "headword": "Coercer",
+        "pronunciation": "ko-ayr-thayr'",
+        "partOfSpeech": "v.",
+        "englishTranslation": "to coerce."
+      },
+      {
+        "headword": "Coetáneo",
+        "pronunciation": "ko-ay-tar'-nay-o",
+        "partOfSpeech": "a.",
+        "englishTranslation": "contemporary."
+      },
+      {
+        "headword": "Cofia",
+        "pronunciation": "ko-fee'-r",
+        "partOfSpeech": "f.",
+        "englishTranslation": "head-dress: coif."
+      },
+      {
+        "headword": "Cofre",
+        "pronunciation": "ko'-fray",
+        "partOfSpeech": "m.",
+        "englishTranslation": "trunk."
+      },
+      {
+        "headword": "Cogedor",
+        "pronunciation": "ko-hay-dor'",
+        "partOfSpeech": "m.",
+        "englishTranslation": "collector: gatherer."
+      },
+      {
+        "headword": "Coger",
+        "pronunciation": "ko-hayr'",
+        "partOfSpeech": "v.",
+        "englishTranslation": "to collect: gather: catch: grasp."
+      },
+      {
+        "headword": "Cohechar",
+        "pronunciation": "ko-ay-char'",
+        "partOfSpeech": "v.",
+        "englishTranslation": "to bribe."
+      },
+      {
+        "headword": "Cohecho",
+        "pronunciation": "ko-ay'-cho",
+        "partOfSpeech": "m.",
+        "englishTranslation": "bribery."
+      },
+      {
+        "headword": "Cohibir",
+        "pronunciation": "ko-ee-beer'",
+        "partOfSpeech": "v.",
+        "englishTranslation": "to prohibit: restrain."
+      },
+      {
+        "headword": "Cohombro",
+        "pronunciation": "ko-om'-bro",
+        "partOfSpeech": "m.",
+        "englishTranslation": "cucumber."
+      },
+      {
+        "headword": "Cojear",
+        "pronunciation": "ko-hay-r'",
+        "partOfSpeech": "v.",
+        "englishTranslation": "to limp."
+      },
+      {
+        "headword": "Cojera",
+        "pronunciation": "ko-hay'-rar",
+        "partOfSpeech": "f.",
+        "englishTranslation": "limping: lameness."
+      },
+      {
+        "headword": "Cojo",
+        "pronunciation": "ko'-ho",
+        "partOfSpeech": "m.",
+        "englishTranslation": "cripple."
+      },
+      {
+        "headword": "Col",
+        "pronunciation": "kol",
+        "partOfSpeech": "f.",
+        "englishTranslation": "cabbage."
+      },
+      {
+        "headword": "Cola",
+        "pronunciation": "kol'-r",
+        "partOfSpeech": "f.",
+        "englishTranslation": "glue."
+      },
+      {
+        "headword": "Colador",
+        "pronunciation": "ko-lar-dor'",
+        "partOfSpeech": "m.",
+        "englishTranslation": "colander: sieve."
+      },
+      {
+        "headword": "Colapso",
+        "pronunciation": "ko-lahp'-so",
+        "partOfSpeech": "m.",
+        "englishTranslation": "collapse."
+      },
+      {
+        "headword": "Colar",
+        "pronunciation": "ko-lar'",
+        "partOfSpeech": "v.",
+        "englishTranslation": "to strain: filter."
+      },
+      {
+        "headword": "Colcha",
+        "pronunciation": "kol'-char",
+        "partOfSpeech": "f.",
+        "englishTranslation": "counterpane: coverlet."
+      },
+      {
+        "headword": "Colchón",
+        "pronunciation": "kol-chon'",
+        "partOfSpeech": "m.",
+        "englishTranslation": "mattress."
+      },
+      {
+        "headword": "Coleccionar",
+        "pronunciation": "ko-lek-thee-on-r'",
+        "partOfSpeech": "v.",
+        "englishTranslation": "to collect."
+      },
+      {
+        "headword": "Colectar",
+        "pronunciation": "ko-lek-tar'",
+        "partOfSpeech": "v.",
+        "englishTranslation": "to collect taxes."
+      },
+      {
+        "headword": "Colega",
+        "pronunciation": "ko-lay'-gar",
+        "partOfSpeech": "m.",
+        "englishTranslation": "colleague."
+      },
+      {
+        "headword": "Colegio",
+        "pronunciation": "ko-lay'-he-o",
+        "partOfSpeech": "m.",
+        "englishTranslation": "college."
+      },
+      {
+        "headword": "Cólera",
+        "pronunciation": "ko'-lay-rar",
+        "partOfSpeech": "m.; f.",
+        "englishTranslation": "cholera; anger: rage."
+      },
+      {
+        "headword": "Colgadizo",
+        "pronunciation": "kol-gar-dee'-tho",
+        "partOfSpeech": "m.; a.",
+        "englishTranslation": "shed; suspended."
+      },
+      {
+        "headword": "Colgadura",
+        "pronunciation": "kol-gar-doo'-rar",
+        "partOfSpeech": "f.",
+        "englishTranslation": "tapestry."
+      },
+      {
+        "headword": "Colgar",
+        "pronunciation": "kol-gar'",
+        "partOfSpeech": "v.",
+        "englishTranslation": "to hang: suspend."
+      },
+      {
+        "headword": "Cólico",
+        "pronunciation": "ko'-lee-ko",
+        "partOfSpeech": "m.",
+        "englishTranslation": "colic."
+      },
+      {
+        "headword": "Coliflor",
+        "pronunciation": "ko-lee-flor'",
+        "partOfSpeech": "m.",
+        "englishTranslation": "cauliflower."
+      },
+      {
+        "headword": "Coligación",
+        "pronunciation": "ko-lee-gar-thee-on'",
+        "partOfSpeech": "f.",
+        "englishTranslation": "alliance: connection."
+      },
+      {
+        "headword": "Colilla",
+        "pronunciation": "ko-leel'-ya",
+        "partOfSpeech": "f.",
+        "englishTranslation": "stub end of cigar or cigarette."
+      },
+      {
+        "headword": "Colina",
+        "pronunciation": "ko-lee'-nar",
+        "partOfSpeech": "f.",
+        "englishTranslation": "hill: hillock: mound."
+      },
+      {
+        "headword": "Colinabo",
+        "pronunciation": "ko-lee-nar'-boo",
+        "partOfSpeech": "m.",
+        "englishTranslation": "turnip."
+      },
+      {
+        "headword": "Coliseo",
+        "pronunciation": "ko-lee-say'-o",
+        "partOfSpeech": "m.",
+        "englishTranslation": "theatre: opera-house."
+      },
+      {
+        "headword": "Colisión",
+        "pronunciation": "ko-lee-see-on'",
+        "partOfSpeech": "f.",
+        "englishTranslation": "collision."
+      },
+      {
+        "headword": "Colmena",
+        "pronunciation": "kol-mayn'-r",
+        "partOfSpeech": "f.",
+        "englishTranslation": "bee-hive."
+      },
+      {
+        "headword": "Colonia",
+        "pronunciation": "ko-lo-nee'-r",
+        "partOfSpeech": "f.",
+        "englishTranslation": "colony."
+      },
+      {
+        "headword": "Color",
+        "pronunciation": "ko-lor'",
+        "partOfSpeech": "m.",
+        "englishTranslation": "colour: dye: hue: tint."
+      },
+      {
+        "headword": "Colorado",
+        "pronunciation": "ko-lo-rar'-do",
+        "partOfSpeech": "a.",
+        "englishTranslation": "ruddy."
+      },
+      {
+        "headword": "Colorar",
+        "pronunciation": "ko-lo-rar'",
+        "partOfSpeech": "v.",
+        "englishTranslation": "to colour."
+      },
+      {
+        "headword": "Colorin",
+        "pronunciation": "ko-lo-reen'",
+        "partOfSpeech": "m.",
+        "englishTranslation": "linnet."
+      },
+      {
+        "headword": "Columna",
+        "pronunciation": "ko-loom'-nar",
+        "partOfSpeech": "f.",
+        "englishTranslation": "column: troops."
+      },
+      {
+        "headword": "Columpio",
+        "pronunciation": "ko-loom-pee'-o",
+        "partOfSpeech": "m.",
+        "englishTranslation": "see-saw: swing."
+      },
+      {
+        "headword": "Collado",
+        "pronunciation": "koll-yar'-do",
+        "partOfSpeech": "m.",
+        "englishTranslation": "hill."
+      },
+      {
+        "headword": "Collar",
+        "pronunciation": "koll'-yar",
+        "partOfSpeech": "m.",
+        "englishTranslation": "necklet: necklace."
+      },
+      {
+        "headword": "Coma",
+        "pronunciation": "ko'-mar",
+        "partOfSpeech": "f.",
+        "englishTranslation": "comma (in writing, etc.): unconsciousness: insensibility."
+      },
+      {
+        "headword": "Comadre",
+        "pronunciation": "ko-mar'-dray",
+        "partOfSpeech": "f.",
+        "englishTranslation": "midwife."
+      },
+      {
+        "headword": "Comadrear",
+        "pronunciation": "ko-mar-dray-r'",
+        "partOfSpeech": "v.",
+        "englishTranslation": "to gossip."
+      },
+      {
+        "headword": "Comarca",
+        "pronunciation": "ko-mar'-kar",
+        "partOfSpeech": "f.",
+        "englishTranslation": "territory: district: area."
+      },
+      {
+        "headword": "Combar",
+        "pronunciation": "kom-bar'",
+        "partOfSpeech": "v.",
+        "englishTranslation": "to bend."
+      },
+      {
+        "headword": "Combate",
+        "pronunciation": "kom-bar'-tay",
+        "partOfSpeech": "m.",
+        "englishTranslation": "combat: conflict: fight."
+      },
+      {
+        "headword": "Combinar",
+        "pronunciation": "kom-bee-nar'",
+        "partOfSpeech": "v.",
+        "englishTranslation": "to combine."
+      },
+      {
+        "headword": "Combo",
+        "pronunciation": "kom'-bo",
+        "partOfSpeech": "a.",
+        "englishTranslation": "bent: crooked: twisted: warped."
+      },
+      {
+        "headword": "Comedero",
+        "pronunciation": "ko-may-day'-ro",
+        "partOfSpeech": "a.",
+        "englishTranslation": "eatable."
+      },
+      {
+        "headword": "Comediante",
+        "pronunciation": "ko-may-dee-arn'-tay",
+        "partOfSpeech": "m.",
+        "englishTranslation": "actor: comedian: player."
+      },
+      {
+        "headword": "Comedido",
+        "pronunciation": "ko-may-dee'-do",
+        "partOfSpeech": "a.",
+        "englishTranslation": "gentle: polite: kind."
+      },
+      {
+        "headword": "Comedor",
+        "pronunciation": "ko-may-dor'",
+        "partOfSpeech": "a.",
+        "englishTranslation": "greedy: voracious."
+      },
+      {
+        "headword": "Comentador",
+        "pronunciation": "ko-men-tar-dor'",
+        "partOfSpeech": "m.",
+        "englishTranslation": "commentator."
+      },
+      {
+        "headword": "Comenzar",
+        "pronunciation": "ko-men-thar'",
+        "partOfSpeech": "v.",
+        "englishTranslation": "to begin: commence."
+      },
+      {
+        "headword": "Comer",
+        "pronunciation": "ko-mayr'",
+        "partOfSpeech": "v.",
+        "englishTranslation": "to dine: chew: eat."
+      },
+      {
+        "headword": "Comerciante",
+        "pronunciation": "ko-mayr-thee-arn'-tay",
+        "partOfSpeech": "m.",
+        "englishTranslation": "merchant: trader."
+      },
+      {
+        "headword": "Comestible",
+        "pronunciation": "ko-mes-tee'-blay",
+        "partOfSpeech": "a.; m. pl.",
+        "englishTranslation": "eatable; provisions."
+      },
+      {
+        "headword": "Cometer",
+        "pronunciation": "ko-mayr-tayr'",
+        "partOfSpeech": "v.",
+        "englishTranslation": "to commit."
+      },
+      {
+        "headword": "Comida",
+        "pronunciation": "ko-mee'-dar",
+        "partOfSpeech": "f.",
+        "englishTranslation": "dinner."
+      },
+      {
+        "headword": "Comisión",
+        "pronunciation": "ko-mee-see-on'",
+        "partOfSpeech": "f.",
+        "englishTranslation": "commission: order: trust."
+      },
+      {
+        "headword": "Comisionar",
+        "pronunciation": "ko-mee-see-o-nar'",
+        "partOfSpeech": "v.",
+        "englishTranslation": "to appoint: commission."
+      },
+      {
+        "headword": "Como",
+        "pronunciation": "ko'-mo",
+        "partOfSpeech": "ad.",
+        "englishTranslation": "as: how: like: why."
+      },
+      {
+        "headword": "Comodidad",
+        "pronunciation": "ko-mo-dee-dahd'",
+        "partOfSpeech": "f.",
+        "englishTranslation": "comfort: convenience."
+      },
+      {
+        "headword": "Cómodo",
+        "pronunciation": "ko'-mo-do",
+        "partOfSpeech": "a.",
+        "englishTranslation": "convenient: comfortable."
+      },
+      {
+        "headword": "Compañero",
+        "pronunciation": "kom-parn-yar'-o",
+        "partOfSpeech": "m.",
+        "englishTranslation": "companion."
+      },
+      {
+        "headword": "Compañia",
+        "pronunciation": "kom-parn-yee'-r",
+        "partOfSpeech": "f.",
+        "englishTranslation": "company: society: association."
+      },
+      {
+        "headword": "Comparar",
+        "pronunciation": "kom-par-rar'",
+        "partOfSpeech": "v.",
+        "englishTranslation": "to compare."
+      },
+      {
+        "headword": "Compeler",
+        "pronunciation": "kom-pay-layr'",
+        "partOfSpeech": "v.",
+        "englishTranslation": "to compel."
+      },
+      {
+        "headword": "Compensar",
+        "pronunciation": "kom-pen-sar'",
+        "partOfSpeech": "v.",
+        "englishTranslation": "to compensate: make amends."
+      },
+      {
+        "headword": "Competencia",
+        "pronunciation": "kom-pay-ten'-thee-r",
+        "partOfSpeech": "f.",
+        "englishTranslation": "competition: rivalry."
+      },
+      {
+        "headword": "Competición",
+        "pronunciation": "kom-pay-tee-thee-on'",
+        "partOfSpeech": "f.",
+        "englishTranslation": "competition."
+      },
+      {
+        "headword": "Complacencia",
+        "pronunciation": "kom-plar-then'-thee-r",
+        "partOfSpeech": "f.",
+        "englishTranslation": "pleasure: satisfaction."
+      },
+      {
+        "headword": "Complaciente",
+        "pronunciation": "kom-plar-thee-n'-tay",
+        "partOfSpeech": "a.",
+        "englishTranslation": "pleasing."
+      },
+      {
+        "headword": "Complacer",
+        "pronunciation": "kom-plar-thayr'",
+        "partOfSpeech": "v.",
+        "englishTranslation": "to comply with: please."
+      },
+      {
+        "headword": "Complacerse",
+        "pronunciation": "kom-plar-thayr'-say",
+        "partOfSpeech": "v.",
+        "englishTranslation": "to rejoice."
+      },
+      {
+        "headword": "Completo",
+        "pronunciation": "kom-play'-to",
+        "partOfSpeech": "a.",
+        "englishTranslation": "complete: perfect."
+      },
+      {
+        "headword": "Componer",
+        "pronunciation": "kom-po-nayr'",
+        "partOfSpeech": "v.",
+        "englishTranslation": "to compose: form: make."
+      },
+      {
+        "headword": "Comportar",
+        "pronunciation": "kom-por-tar'",
+        "partOfSpeech": "v.",
+        "englishTranslation": "to suffer."
+      },
+      {
+        "headword": "Comportarse",
+        "pronunciation": "kom-por-tar'-say",
+        "partOfSpeech": "v.",
+        "englishTranslation": "to behave."
+      },
+      {
+        "headword": "Compra",
+        "pronunciation": "kom'-prar",
+        "partOfSpeech": "f.",
+        "englishTranslation": "purchase."
+      },
+      {
+        "headword": "Comprimir",
+        "pronunciation": "kom-pree-meer'",
+        "partOfSpeech": "v.",
+        "englishTranslation": "to restrain."
+      },
+      {
+        "headword": "Comprobar",
+        "pronunciation": "kom-pro-bar'",
+        "partOfSpeech": "v.",
+        "englishTranslation": "to prove: confirm."
+      },
+      {
+        "headword": "Comprometimiento",
+        "pronunciation": "kom-pro-may-tee-mee'-n-to",
+        "partOfSpeech": "m.",
+        "englishTranslation": "award."
+      },
+      {
+        "headword": "Compromiso",
+        "pronunciation": "kom-pro-mee'-so",
+        "partOfSpeech": "m.",
+        "englishTranslation": "umpire."
+      },
+      {
+        "headword": "Compungivo",
+        "pronunciation": "kom-poon-hee'-vo",
+        "partOfSpeech": "a.",
+        "englishTranslation": "pricking."
+      },
+      {
+        "headword": "Computar",
+        "pronunciation": "kom-poo-tar'",
+        "partOfSpeech": "v.",
+        "englishTranslation": "to compute: reckon."
+      },
+      {
+        "headword": "Común",
+        "pronunciation": "kom-oon'",
+        "partOfSpeech": "a.",
+        "englishTranslation": "common: vulgar: ordinary."
+      },
+      {
+        "headword": "Comunicado",
+        "pronunciation": "kom-oon-ee-kar'-do",
+        "partOfSpeech": "m.",
+        "englishTranslation": "statement."
+      },
+      {
+        "headword": "Comunicar",
+        "pronunciation": "kom-oon-ee-karr'",
+        "partOfSpeech": "v.",
+        "englishTranslation": "to communicate: inform."
+      },
+      {
+        "headword": "Con",
+        "pronunciation": "kon",
+        "partOfSpeech": "prep.",
+        "englishTranslation": "among: by: in: for: with."
+      },
+      {
+        "headword": "Concebir",
+        "pronunciation": "kon-thay-beer'",
+        "partOfSpeech": "v.",
+        "englishTranslation": "to conceive: imagine."
+      },
+      {
+        "headword": "Conceder",
+        "pronunciation": "kon-thay-dayr'",
+        "partOfSpeech": "v.",
+        "englishTranslation": "to grant: give."
+      },
+      {
+        "headword": "Concepto",
+        "pronunciation": "kon-thep'-to",
+        "partOfSpeech": "m.",
+        "englishTranslation": "opinion: thought."
+      },
+      {
+        "headword": "Concernir",
+        "pronunciation": "kon-thayr-neer'",
+        "partOfSpeech": "v.",
+        "englishTranslation": "to appertain: concern."
+      },
+      {
+        "headword": "Concertar",
+        "pronunciation": "kon-thayr-tar'",
+        "partOfSpeech": "v.",
+        "englishTranslation": "to agree: adjust: settle."
+      },
+      {
+        "headword": "Conciencia",
+        "pronunciation": "kon-thee-n'-thee-r",
+        "partOfSpeech": "f.",
+        "englishTranslation": "conscience."
+      },
+      {
+        "headword": "Concierto",
+        "pronunciation": "kon-thee-ayr'-to",
+        "partOfSpeech": "m.",
+        "englishTranslation": "agreement."
+      },
+      {
+        "headword": "Conciliar",
+        "pronunciation": "kon-thee-lee-r'",
+        "partOfSpeech": "v.",
+        "englishTranslation": "to conciliate: reconcile. Conciliar el sueño, to fall asleep."
+      },
+      {
+        "headword": "Concilio",
+        "pronunciation": "kon-thee'-lee-o",
+        "partOfSpeech": "m.",
+        "englishTranslation": "assembly: council."
+      },
+      {
+        "headword": "Conciso",
+        "pronunciation": "kon-thee'-so",
+        "partOfSpeech": "a.",
+        "englishTranslation": "concise: brief: to the point."
+      },
+      {
+        "headword": "Concluir",
+        "pronunciation": "kon-kloo-eer'",
+        "partOfSpeech": "v.",
+        "englishTranslation": "to conclude: end: finish."
+      },
+      {
+        "headword": "Concomerse",
+        "pronunciation": "kon-kom-ayr'-say",
+        "partOfSpeech": "v.",
+        "englishTranslation": "to shrug the shoulders."
+      },
+      {
+        "headword": "Concordar",
+        "pronunciation": "kon-kor-dar'",
+        "partOfSpeech": "v.",
+        "englishTranslation": "to accord: agree."
+      },
+      {
+        "headword": "Concreto",
+        "pronunciation": "kon-kray'-to",
+        "partOfSpeech": "a.",
+        "englishTranslation": "concrete. Concreto armado, reinforced concrete."
+      },
+      {
+        "headword": "Concurrir",
+        "pronunciation": "kon-koor-reer'",
+        "partOfSpeech": "v.",
+        "englishTranslation": "to concur: agree to."
+      },
+      {
+        "headword": "Concha",
+        "pronunciation": "kon'-char",
+        "partOfSpeech": "f.",
+        "englishTranslation": "shell."
+      },
+      {
+        "headword": "Conchudo",
+        "pronunciation": "kon-choo'-do",
+        "partOfSpeech": "a.",
+        "englishTranslation": "cunning: crafty."
+      },
+      {
+        "headword": "Condecorar",
+        "pronunciation": "kon-day-kor-r'",
+        "partOfSpeech": "v.",
+        "englishTranslation": "to adorn: embellish."
+      },
+      {
+        "headword": "Condenar",
+        "pronunciation": "kon-day'-nar",
+        "partOfSpeech": "v.",
+        "englishTranslation": "to condemn."
+      },
+      {
+        "headword": "Condición",
+        "pronunciation": "kon-dee-thee-on'",
+        "partOfSpeech": "f.",
+        "englishTranslation": "condition: quality: state."
+      },
+      {
+        "headword": "Condicional",
+        "pronunciation": "kon-dee-thee-on'-arl",
+        "partOfSpeech": "a.",
+        "englishTranslation": "conditional."
+      },
+      {
+        "headword": "Condonar",
+        "pronunciation": "kon-do-nar'",
+        "partOfSpeech": "v.",
+        "englishTranslation": "to pardon."
+      },
+      {
+        "headword": "Conducir",
+        "pronunciation": "kon-doo-theer'",
+        "partOfSpeech": "v.",
+        "englishTranslation": "to conduct: convey: direct: guide."
+      },
+      {
+        "headword": "Conducirse",
+        "pronunciation": "kon-doo-theer'-say",
+        "partOfSpeech": "v.",
+        "englishTranslation": "to behave."
+      },
+      {
+        "headword": "Conejo",
+        "pronunciation": "kon-nay'-ho",
+        "partOfSpeech": "m.",
+        "englishTranslation": "rabbit."
+      },
+      {
+        "headword": "Conferir",
+        "pronunciation": "kon-fay-reer'",
+        "partOfSpeech": "v.",
+        "englishTranslation": "to confer: compare: grant."
+      },
+      {
+        "headword": "Confianza",
+        "pronunciation": "kon-fee-arn'-thar",
+        "partOfSpeech": "f.",
+        "englishTranslation": "confidence: boldness."
+      },
+      {
+        "headword": "Confiar",
+        "pronunciation": "kon-fee-ar'",
+        "partOfSpeech": "v.",
+        "englishTranslation": "to confide: trust."
+      },
+      {
+        "headword": "Confin",
+        "pronunciation": "kon-feen'",
+        "partOfSpeech": "m.",
+        "englishTranslation": "boundary: limit."
+      },
+      {
+        "headword": "Confiteria",
+        "pronunciation": "kon-fee-tay-ree'-r",
+        "partOfSpeech": "f.",
+        "englishTranslation": "confectioner's shop."
+      },
+      {
+        "headword": "Confitero",
+        "pronunciation": "kon-fee-tay'-ro",
+        "partOfSpeech": "m.",
+        "englishTranslation": "confectioner."
+      },
+      {
+        "headword": "Confluir",
+        "pronunciation": "kon-floo-eer'",
+        "partOfSpeech": "v.",
+        "englishTranslation": "to join."
+      },
+      {
+        "headword": "Conforme",
+        "pronunciation": "kon-for'-may",
+        "partOfSpeech": "a.",
+        "englishTranslation": "comfortable: suitable."
+      },
+      {
+        "headword": "Confortativo",
+        "pronunciation": "kon-for-tar-tee-vo",
+        "partOfSpeech": "m.",
+        "englishTranslation": "cordial."
+      },
+      {
+        "headword": "Confundir",
+        "pronunciation": "kon-foon-deer'",
+        "partOfSpeech": "v.",
+        "englishTranslation": "to confound."
+      },
+      {
+        "headword": "Confusión",
+        "pronunciation": "kon-foo-see-on'",
+        "partOfSpeech": "f.",
+        "englishTranslation": "confusion: disorder: shame."
+      },
+      {
+        "headword": "Congelar",
+        "pronunciation": "kon-hay-lar'",
+        "partOfSpeech": "v.",
+        "englishTranslation": "to freeze."
+      },
+      {
+        "headword": "Congratular",
+        "pronunciation": "kon-grar-too-lar'",
+        "partOfSpeech": "v.",
+        "englishTranslation": "to congratulate."
+      },
+      {
+        "headword": "Conjura",
+        "pronunciation": "kon-hoo'-ra",
+        "partOfSpeech": "f.",
+        "englishTranslation": "conspiracy: plot."
+      },
+      {
+        "headword": "Conjurador",
+        "pronunciation": "kon-hoo-rar-dor'",
+        "partOfSpeech": "m.",
+        "englishTranslation": "conjurer."
+      },
+      {
+        "headword": "Conmover",
+        "pronunciation": "kon-mo-vayr'",
+        "partOfSpeech": "v.",
+        "englishTranslation": "to disturb."
+      },
+      {
+        "headword": "Conocer",
+        "pronunciation": "ko-no-thayr'",
+        "partOfSpeech": "v.",
+        "englishTranslation": "to know: understand."
+      },
+      {
+        "headword": "Conocimiento",
+        "pronunciation": "ko-no-thee-mee-n'-to",
+        "partOfSpeech": "m.",
+        "englishTranslation": "knowledge."
+      },
+      {
+        "headword": "Conque",
+        "pronunciation": "kon'-kay",
+        "partOfSpeech": "conj.",
+        "englishTranslation": "then: therefore."
+      },
+      {
+        "headword": "Conquista",
+        "pronunciation": "kon-kiss'-tar",
+        "partOfSpeech": "f.",
+        "englishTranslation": "conquest: acquisition."
+      },
+      {
+        "headword": "Consequir",
+        "pronunciation": "kon-say-gheer'",
+        "partOfSpeech": "v.",
+        "englishTranslation": "to attain: get: obtain."
+      },
+      {
+        "headword": "Conseja",
+        "pronunciation": "kon-say'-har",
+        "partOfSpeech": "f.",
+        "englishTranslation": "story."
+      },
+      {
+        "headword": "Consejo",
+        "pronunciation": "kon-say'-ho",
+        "partOfSpeech": "m.",
+        "englishTranslation": "advice: counsel: opinion."
+      },
+      {
+        "headword": "Consentir",
+        "pronunciation": "kon-sen-teer'",
+        "partOfSpeech": "v.",
+        "englishTranslation": "to agree: consent."
+      },
+      {
+        "headword": "Consorcio",
+        "pronunciation": "kon-sor'-thee-o",
+        "partOfSpeech": "m.",
+        "englishTranslation": "partnership: society."
+      },
+      {
+        "headword": "Consuelo",
+        "pronunciation": "kon-soo-aye'-lo",
+        "partOfSpeech": "m.",
+        "englishTranslation": "consolation: comfort: joy."
+      },
+      {
+        "headword": "Consumar",
+        "pronunciation": "kon-soo-mar'",
+        "partOfSpeech": "v.",
+        "englishTranslation": "to finish: consume."
+      },
+      {
+        "headword": "Consunción",
+        "pronunciation": "kon-soon-thee-on'",
+        "partOfSpeech": "f.",
+        "englishTranslation": "consumption: wasting."
+      },
+      {
+        "headword": "Contado",
+        "pronunciation": "kon-tar'-do",
+        "partOfSpeech": "a.",
+        "englishTranslation": "rare: scarce."
+      },
+      {
+        "headword": "Contagiar",
+        "pronunciation": "kon-tar-hee-r'",
+        "partOfSpeech": "v.",
+        "englishTranslation": "to infect."
+      },
+      {
+        "headword": "Contar",
+        "pronunciation": "kon-tar'",
+        "partOfSpeech": "v.",
+        "englishTranslation": "to count: compute: reckon."
+      },
+      {
+        "headword": "Contener",
+        "pronunciation": "kon-tay-nayr'",
+        "partOfSpeech": "v.",
+        "englishTranslation": "to contain: hold."
+      },
+      {
+        "headword": "Contentible",
+        "pronunciation": "kon-ten-tee'-blay",
+        "partOfSpeech": "a.",
+        "englishTranslation": "contemptible."
+      },
+      {
+        "headword": "Contestar",
+        "pronunciation": "kon-tess-tar'",
+        "partOfSpeech": "v.",
+        "englishTranslation": "to agree: reply."
+      },
+      {
+        "headword": "Contigo",
+        "pronunciation": "kon-tee'-go",
+        "partOfSpeech": "pron.",
+        "englishTranslation": "with thee: with you."
+      },
+      {
+        "headword": "Continuar",
+        "pronunciation": "kon-tee-noo-r'",
+        "partOfSpeech": "v.",
+        "englishTranslation": "to continue."
+      },
+      {
+        "headword": "Contra",
+        "pronunciation": "kon'-trar",
+        "partOfSpeech": "prep.; m.",
+        "englishTranslation": "against: opposite to: contrary to; contrary: opposite."
+      },
+      {
+        "headword": "Contrabando",
+        "pronunciation": "kon-trar-bahn'-do",
+        "partOfSpeech": "m.",
+        "englishTranslation": "contraband: smuggling."
+      },
+      {
+        "headword": "Contraponer",
+        "pronunciation": "kon-trar-po-nayr'",
+        "partOfSpeech": "v.",
+        "englishTranslation": "to compare: oppose."
+      },
+      {
+        "headword": "Contrario",
+        "pronunciation": "kon-trar'-ree-o",
+        "partOfSpeech": "a.",
+        "englishTranslation": "contrary."
+      },
+      {
+        "headword": "Contrata",
+        "pronunciation": "kon-trar'-tar",
+        "partOfSpeech": "f.",
+        "englishTranslation": "contract."
+      },
+      {
+        "headword": "Contraveneno",
+        "pronunciation": "kon-trar-vay-nay'-no",
+        "partOfSpeech": "m.",
+        "englishTranslation": "antidote."
+      },
+      {
+        "headword": "Contribución",
+        "pronunciation": "kon-tree-boo-thee-on'",
+        "partOfSpeech": "f.",
+        "englishTranslation": "tax: duty."
+      },
+      {
+        "headword": "Contristar",
+        "pronunciation": "kon-trees-tar'",
+        "partOfSpeech": "v.",
+        "englishTranslation": "to grieve: sadden."
+      },
+      {
+        "headword": "Contrito",
+        "pronunciation": "kon-tree'-to",
+        "partOfSpeech": "a.",
+        "englishTranslation": "penitent."
+      },
+      {
+        "headword": "Contumacia",
+        "pronunciation": "kon-too-ma-thee'-r",
+        "partOfSpeech": "f.",
+        "englishTranslation": "obstinacy: stubbornness."
+      },
+      {
+        "headword": "Contubar",
+        "pronunciation": "kon-too-bar'",
+        "partOfSpeech": "v.",
+        "englishTranslation": "to disturb: disquiet."
+      },
+      {
+        "headword": "Convecino",
+        "pronunciation": "kon-vay-thee'-no",
+        "partOfSpeech": "a.",
+        "englishTranslation": "neighbouring."
+      },
+      {
+        "headword": "Convenible",
+        "pronunciation": "kon-vay-nee'-blay",
+        "partOfSpeech": "a.",
+        "englishTranslation": "compliant: docile."
+      },
+      {
+        "headword": "Conveniente",
+        "pronunciation": "kon-vay-nee-n'-tay",
+        "partOfSpeech": "a.",
+        "englishTranslation": "useful."
+      },
+      {
+        "headword": "Convergir",
+        "pronunciation": "kon-vayr-heer'",
+        "partOfSpeech": "v.",
+        "englishTranslation": "to converge."
+      },
+      {
+        "headword": "Convicto",
+        "pronunciation": "kon-veek'-to",
+        "partOfSpeech": "a.",
+        "englishTranslation": "guilty: convicted."
+      },
+      {
+        "headword": "Convidar",
+        "pronunciation": "kon-vee-dar'",
+        "partOfSpeech": "v.",
+        "englishTranslation": "to invite: treat: allure."
+      },
+      {
+        "headword": "Convolvulo",
+        "pronunciation": "kon-vol'-voo-lo",
+        "partOfSpeech": "m.",
+        "englishTranslation": "convolvulus."
+      },
+      {
+        "headword": "Convoy",
+        "pronunciation": "kon'-voy",
+        "partOfSpeech": "m.",
+        "englishTranslation": "convoy: escort: retinue."
+      },
+      {
+        "headword": "Conyugal",
+        "pronunciation": "kon-yoo-garl'",
+        "partOfSpeech": "a.",
+        "englishTranslation": "conjugal: connubial."
+      },
+      {
+        "headword": "Cónyuges",
+        "pronunciation": "kon'-yoo-hays",
+        "partOfSpeech": "m. pl.",
+        "englishTranslation": "husband and wife."
+      },
+      {
+        "headword": "Coordinar",
+        "pronunciation": "ko-or-deen-r'",
+        "partOfSpeech": "v.",
+        "englishTranslation": "to arrange: co-ordinate."
+      },
+      {
+        "headword": "Copa",
+        "pronunciation": "ko'-par",
+        "partOfSpeech": "f.",
+        "englishTranslation": "cup: brazier: top of a thing."
+      },
+      {
+        "headword": "Copera",
+        "pronunciation": "ko-par'-r",
+        "partOfSpeech": "f.",
+        "englishTranslation": "cupboard."
+      },
+      {
+        "headword": "Copia",
+        "pronunciation": "ko-pee'-r",
+        "partOfSpeech": "f.",
+        "englishTranslation": "plenty: abundance."
+      },
+      {
+        "headword": "Copiar",
+        "pronunciation": "ko-pee'-rr",
+        "partOfSpeech": "v.",
+        "englishTranslation": "to copy: imitate."
+      },
+      {
+        "headword": "Coqueta",
+        "pronunciation": "ko-kay'-tar",
+        "partOfSpeech": "f.",
+        "englishTranslation": "flirt."
+      },
+      {
+        "headword": "Coraje",
+        "pronunciation": "ko-rar'-hay",
+        "partOfSpeech": "m.",
+        "englishTranslation": "anger: courage."
+      },
+      {
+        "headword": "Corazón",
+        "pronunciation": "ko-rar-thon'",
+        "partOfSpeech": "m.",
+        "englishTranslation": "heart: core: centre: pith."
+      },
+      {
+        "headword": "Corbato",
+        "pronunciation": "kor-bar'-tar",
+        "partOfSpeech": "m.",
+        "englishTranslation": "cravat."
+      },
+      {
+        "headword": "Corcova",
+        "pronunciation": "kor-ko'-var",
+        "partOfSpeech": "f.",
+        "englishTranslation": "hump: protuberance."
+      },
+      {
+        "headword": "Corchete",
+        "pronunciation": "kor-chay'-tay",
+        "partOfSpeech": "m.",
+        "englishTranslation": "clasp: locket."
+      },
+      {
+        "headword": "Corcho",
+        "pronunciation": "kor'-cho",
+        "partOfSpeech": "m.",
+        "englishTranslation": "cork: bee-hive."
+      },
+      {
+        "headword": "Cordel",
+        "pronunciation": "kor-del'",
+        "partOfSpeech": "m.",
+        "englishTranslation": "cord: rope."
+      },
+      {
+        "headword": "Cordillera",
+        "pronunciation": "kor-dell-yay'-rar",
+        "partOfSpeech": "f.",
+        "englishTranslation": "range of mountains."
+      },
+      {
+        "headword": "Cordón",
+        "pronunciation": "kor-don'",
+        "partOfSpeech": "m.",
+        "englishTranslation": "cord: string."
+      },
+      {
+        "headword": "Corneja",
+        "pronunciation": "kor-nay'-hah",
+        "partOfSpeech": "f.",
+        "englishTranslation": "crow."
+      },
+      {
+        "headword": "Cornudo",
+        "pronunciation": "kor-noo'-do",
+        "partOfSpeech": "a.",
+        "englishTranslation": "horned."
+      },
+      {
+        "headword": "Corona",
+        "pronunciation": "kor-ro'-nar",
+        "partOfSpeech": "f.",
+        "englishTranslation": "crown: coronet."
+      },
+      {
+        "headword": "Coronel",
+        "pronunciation": "kor-ro'-nel",
+        "partOfSpeech": "m.",
+        "englishTranslation": "colonel."
+      },
+      {
+        "headword": "Corpezuelo",
+        "pronunciation": "kor-pay-thoo-ay'-lo",
+        "partOfSpeech": "m.",
+        "englishTranslation": "waistcoat: bodice."
+      },
+      {
+        "headword": "Corpudo",
+        "pronunciation": "kor-poo'-do",
+        "partOfSpeech": "a.",
+        "englishTranslation": "corpulent: bulky."
+      },
+      {
+        "headword": "Corral",
+        "pronunciation": "kor-rarl'",
+        "partOfSpeech": "m.",
+        "englishTranslation": "back yard."
+      },
+      {
+        "headword": "Correcto",
+        "pronunciation": "kor-rek'-to",
+        "partOfSpeech": "a.",
+        "englishTranslation": "correct: exact."
+      },
+      {
+        "headword": "Corredera",
+        "pronunciation": "kor-ray-day'-rar",
+        "partOfSpeech": "f.",
+        "englishTranslation": "race-course."
+      },
+      {
+        "headword": "Corredor",
+        "pronunciation": "kor-ray-dor'",
+        "partOfSpeech": "m.",
+        "englishTranslation": "race-horse: runner."
+      },
+      {
+        "headword": "Correo",
+        "pronunciation": "kor-ray'-o",
+        "partOfSpeech": "m.",
+        "englishTranslation": "courier: express: bag of letters."
+      },
+      {
+        "headword": "Correr",
+        "pronunciation": "kor-rayr'",
+        "partOfSpeech": "v.",
+        "englishTranslation": "to flow: run: fly into a passion."
+      },
+      {
+        "headword": "Correspondencia",
+        "pronunciation": "kor-ress-pon-den'-thee-r",
+        "partOfSpeech": "f.",
+        "englishTranslation": "correspondence: relation."
+      },
+      {
+        "headword": "Corretear",
+        "pronunciation": "kor-ray-tay-r'",
+        "partOfSpeech": "v.",
+        "englishTranslation": "to ramble: rove."
+      },
+      {
+        "headword": "Corrido",
+        "pronunciation": "kor-ree'-do",
+        "partOfSpeech": "a.",
+        "englishTranslation": "artful: expert."
+      },
+      {
+        "headword": "Corroer",
+        "pronunciation": "kor-ro-ayr'",
+        "partOfSpeech": "v.",
+        "englishTranslation": "to corrode."
+      },
+      {
+        "headword": "Corromper",
+        "pronunciation": "kor-romp-ayr'",
+        "partOfSpeech": "v.",
+        "englishTranslation": "to corrupt: bribe: seduce."
+      },
+      {
+        "headword": "Corsaria",
+        "pronunciation": "kor-say'-ree-o",
+        "partOfSpeech": "a.",
+        "englishTranslation": "cruising."
+      },
+      {
+        "headword": "Corsé",
+        "pronunciation": "kor-say'",
+        "partOfSpeech": "f.",
+        "englishTranslation": "corset: stays."
+      },
+      {
+        "headword": "Cortabolsas",
+        "pronunciation": "kor-tar-bol'-sars",
+        "partOfSpeech": "m.",
+        "englishTranslation": "pickpocket."
+      },
+      {
+        "headword": "Cortador",
+        "pronunciation": "kor-tar'-dor",
+        "partOfSpeech": "m.",
+        "englishTranslation": "butcher."
+      },
+      {
+        "headword": "Cortaplumas",
+        "pronunciation": "kor-tar-ploo'-mars",
+        "partOfSpeech": "m.",
+        "englishTranslation": "pocket-knife."
+      },
+      {
+        "headword": "Cortar",
+        "pronunciation": "kor-tar'",
+        "partOfSpeech": "v.",
+        "englishTranslation": "to cut: curtail: separate."
+      },
+      {
+        "headword": "Cortedad",
+        "pronunciation": "kor-tay-dahd'",
+        "partOfSpeech": "f.",
+        "englishTranslation": "smallness: stupidity."
+      },
+      {
+        "headword": "Cortejar",
+        "pronunciation": "kor-tay-har'",
+        "partOfSpeech": "v.",
+        "englishTranslation": "to make love: court."
+      },
+      {
+        "headword": "Cortés",
+        "pronunciation": "kor-tess'",
+        "partOfSpeech": "a.",
+        "englishTranslation": "courteous: polite: genteel."
+      },
+      {
+        "headword": "Cortesía",
+        "pronunciation": "kor-tay-see'-r",
+        "partOfSpeech": "f.",
+        "englishTranslation": "courtesy: politeness."
+      },
+      {
+        "headword": "Corteza",
+        "pronunciation": "kor-tay'-thar",
+        "partOfSpeech": "f.",
+        "englishTranslation": "bark: crust: peel."
+      },
+      {
+        "headword": "Cortina",
+        "pronunciation": "kor-tee'-nar",
+        "partOfSpeech": "f.",
+        "englishTranslation": "curtain."
+      },
+      {
+        "headword": "Corto",
+        "pronunciation": "kor'-to",
+        "partOfSpeech": "a.",
+        "englishTranslation": "scanty: short: small: narrow."
+      },
+      {
+        "headword": "Cortón",
+        "pronunciation": "kor-ton'",
+        "partOfSpeech": "m.",
+        "englishTranslation": "ringworm: field-mouse."
+      },
+      {
+        "headword": "Corusco",
+        "pronunciation": "kor-oo'-sko",
+        "partOfSpeech": "a.",
+        "englishTranslation": "brilliant."
+      },
+      {
+        "headword": "Corvo",
+        "pronunciation": "kor'-vo",
+        "partOfSpeech": "a.",
+        "englishTranslation": "bent: crooked."
+      },
+      {
+        "headword": "Cosa",
+        "pronunciation": "ko'-sar",
+        "partOfSpeech": "f.",
+        "englishTranslation": "thing."
+      },
+      {
+        "headword": "Cosecha",
+        "pronunciation": "ko-say'-char",
+        "partOfSpeech": "f.",
+        "englishTranslation": "harvest."
+      },
+      {
+        "headword": "Cosechar",
+        "pronunciation": "ko-say-charr'",
+        "partOfSpeech": "v.",
+        "englishTranslation": "to crop: reap."
+      },
+      {
+        "headword": "Coser",
+        "pronunciation": "ko-sayr'",
+        "partOfSpeech": "v.",
+        "englishTranslation": "to sew."
+      },
+      {
+        "headword": "Cosido",
+        "pronunciation": "ko-see'-do",
+        "partOfSpeech": "m.",
+        "englishTranslation": "sewing: stitching."
+      },
+      {
+        "headword": "Cosmético",
+        "pronunciation": "kos-may'-tee-ko",
+        "partOfSpeech": "m.",
+        "englishTranslation": "cosmetic."
+      },
+      {
+        "headword": "Cosquilleso",
+        "pronunciation": "kos-keel-yo'-so",
+        "partOfSpeech": "a.",
+        "englishTranslation": "ticklish: easily annoyed."
+      },
+      {
+        "headword": "Costa",
+        "pronunciation": "kos'-tar",
+        "partOfSpeech": "f.",
+        "englishTranslation": "cost: price: charge."
+      },
+      {
+        "headword": "Costalero",
+        "pronunciation": "kos-tarl'-er-o",
+        "partOfSpeech": "m.",
+        "englishTranslation": "porter."
+      },
+      {
+        "headword": "Costero",
+        "pronunciation": "kos-ter'-o",
+        "partOfSpeech": "a.",
+        "englishTranslation": "outward."
+      },
+      {
+        "headword": "Costo",
+        "pronunciation": "kos'-to",
+        "partOfSpeech": "m.",
+        "englishTranslation": "cost: expense: price."
+      },
+      {
+        "headword": "Costoso",
+        "pronunciation": "kos-to'-so",
+        "partOfSpeech": "a.",
+        "englishTranslation": "costly: dear: expensive."
+      },
+      {
+        "headword": "Costumbre",
+        "pronunciation": "kos-toom'-bray",
+        "partOfSpeech": "f.",
+        "englishTranslation": "custom: habit."
+      },
+      {
+        "headword": "Cotidiano",
+        "pronunciation": "ko-tee-dee-r'-no",
+        "partOfSpeech": "a.",
+        "englishTranslation": "daily."
+      },
+      {
+        "headword": "Cotón",
+        "pronunciation": "ko-ton'",
+        "partOfSpeech": "m.",
+        "englishTranslation": "cotton fabric."
+      },
+      {
+        "headword": "Cotonada",
+        "pronunciation": "ko-ton-r'-dar",
+        "partOfSpeech": "f.",
+        "englishTranslation": "calico: print (stuff)."
+      },
+      {
+        "headword": "Cotorra",
+        "pronunciation": "ko-tor'-rar",
+        "partOfSpeech": "f.",
+        "englishTranslation": "magpie: talkative woman."
+      },
+      {
+        "headword": "Crasitud",
+        "pronunciation": "krar-see-tood'",
+        "partOfSpeech": "f.",
+        "englishTranslation": "fat: grease: thick."
+      },
+      {
+        "headword": "Craso",
+        "pronunciation": "krar'-so",
+        "partOfSpeech": "a.",
+        "englishTranslation": "fat: greasy: thick."
+      },
+      {
+        "headword": "Crear",
+        "pronunciation": "kray-r'",
+        "partOfSpeech": "v.",
+        "englishTranslation": "to create: make."
+      },
+      {
+        "headword": "Crecer",
+        "pronunciation": "kray-thayr'",
+        "partOfSpeech": "v.",
+        "englishTranslation": "to grow: increase."
+      },
+      {
+        "headword": "Crédito",
+        "pronunciation": "kray'-dee-to",
+        "partOfSpeech": "m.",
+        "englishTranslation": "credit: faith: reputation."
+      },
+      {
+        "headword": "Credulidad",
+        "pronunciation": "kray-doo-lee-dahd'",
+        "partOfSpeech": "f.",
+        "englishTranslation": "credulity."
+      },
+      {
+        "headword": "Creer",
+        "pronunciation": "kray-ayr'",
+        "partOfSpeech": "v.",
+        "englishTranslation": "to believe: credit: think."
+      },
+      {
+        "headword": "Crema",
+        "pronunciation": "kray'-mar",
+        "partOfSpeech": "f.",
+        "englishTranslation": "cream: custard."
+      },
+      {
+        "headword": "Cresa",
+        "pronunciation": "kray'-sar",
+        "partOfSpeech": "f.",
+        "englishTranslation": "maggot."
+      },
+      {
+        "headword": "Crespo",
+        "pronunciation": "krays'-po",
+        "partOfSpeech": "m.",
+        "englishTranslation": "crisp: curled."
+      },
+      {
+        "headword": "Creta",
+        "pronunciation": "kray'-tar",
+        "partOfSpeech": "f.",
+        "englishTranslation": "chalk."
+      },
+      {
+        "headword": "Criada",
+        "pronunciation": "kree-r'-dar",
+        "partOfSpeech": "f.",
+        "englishTranslation": "maid-servant: handmaiden."
+      },
+      {
+        "headword": "Criar",
+        "pronunciation": "kree-ar'",
+        "partOfSpeech": "v.",
+        "englishTranslation": "to create: produce: breed."
+      },
+      {
+        "headword": "Criba",
+        "pronunciation": "kree'-bar",
+        "partOfSpeech": "f.",
+        "englishTranslation": "sieve: riddle."
+      },
+      {
+        "headword": "Crimen",
+        "pronunciation": "kree'-men",
+        "partOfSpeech": "m.",
+        "englishTranslation": "crime: guilt."
+      },
+      {
+        "headword": "Criminal",
+        "pronunciation": "kree-meen-arl'",
+        "partOfSpeech": "a.",
+        "englishTranslation": "criminal."
+      },
+      {
+        "headword": "Cristal",
+        "pronunciation": "krees-tarl'",
+        "partOfSpeech": "m.",
+        "englishTranslation": "crystal: crystal-glass."
+      },
+      {
+        "headword": "Crítica",
+        "pronunciation": "kree'-tee-kar",
+        "partOfSpeech": "f.",
+        "englishTranslation": "critic."
+      },
+      {
+        "headword": "Criticar",
+        "pronunciation": "kree-tee-karr'",
+        "partOfSpeech": "v.",
+        "englishTranslation": "to criticise."
+      },
+      {
+        "headword": "Crónica",
+        "pronunciation": "kron'-ee-kar",
+        "partOfSpeech": "f.",
+        "englishTranslation": "chronicle."
+      },
+      {
+        "headword": "Crucifijo",
+        "pronunciation": "kroo-thee-fee'-ho",
+        "partOfSpeech": "m.",
+        "englishTranslation": "crucifix."
+      },
+      {
+        "headword": "Crudo",
+        "pronunciation": "kroo'-do",
+        "partOfSpeech": "a.",
+        "englishTranslation": "crude: raw: unripe: immature."
+      },
+      {
+        "headword": "Cruel",
+        "pronunciation": "kroo-l'",
+        "partOfSpeech": "a.",
+        "englishTranslation": "cruel: severe: violent."
+      },
+      {
+        "headword": "Crujido",
+        "pronunciation": "kroo-hee'-do",
+        "partOfSpeech": "m.",
+        "englishTranslation": "crack: creak: clash."
+      },
+      {
+        "headword": "Cruzar",
+        "pronunciation": "kroo-thar'",
+        "partOfSpeech": "v.",
+        "englishTranslation": "to cross: cross a road."
+      },
+      {
+        "headword": "Cuadra",
+        "pronunciation": "koo-r'-drar",
+        "partOfSpeech": "f.",
+        "englishTranslation": "hall: drawing-room."
+      },
+      {
+        "headword": "Cuadrado",
+        "pronunciation": "koo-r-drar'-do",
+        "partOfSpeech": "a.",
+        "englishTranslation": "square: perfect."
+      },
+      {
+        "headword": "Cuadrilla",
+        "pronunciation": "koo-r-dreel'-yar",
+        "partOfSpeech": "f.",
+        "englishTranslation": "gang: crew: troop."
+      },
+      {
+        "headword": "Cuajada",
+        "pronunciation": "koo-r-har'-dar",
+        "partOfSpeech": "f.",
+        "englishTranslation": "butter: curd."
+      },
+      {
+        "headword": "Cual",
+        "pronunciation": "koo-arl'",
+        "partOfSpeech": "ad.; a.; pron.",
+        "englishTranslation": "as: how; which: he who: same: like: such: one: other; such: which."
+      },
+      {
+        "headword": "Cualquier",
+        "pronunciation": "koo-arl-kee-ay'",
+        "partOfSpeech": "a.",
+        "englishTranslation": "anyone."
+      },
+      {
+        "headword": "Cualquiera",
+        "pronunciation": "koo-arl-kee-ay'-rar",
+        "partOfSpeech": "a.",
+        "englishTranslation": "anybody: anyone: somebody: someone."
+      },
+      {
+        "headword": "Cuan",
+        "pronunciation": "koo-arn'",
+        "partOfSpeech": "ad.",
+        "englishTranslation": "as (before nouns): how."
+      },
+      {
+        "headword": "Cuando",
+        "pronunciation": "koo-arn'-do",
+        "partOfSpeech": "ad.",
+        "englishTranslation": "if: although: when: even: sometimes."
+      },
+      {
+        "headword": "Cuánto",
+        "pronunciation": "koo-arn'-to",
+        "partOfSpeech": "ad.",
+        "englishTranslation": "how much."
+      },
+      {
+        "headword": "Cuántos",
+        "pronunciation": "koo-arn'-tos",
+        "partOfSpeech": "ad.",
+        "englishTranslation": "how many: whilst: respecting."
+      },
+      {
+        "headword": "Cuarenta",
+        "pronunciation": "koo-r-rent'-r",
+        "partOfSpeech": "a.",
+        "englishTranslation": "forty."
+      },
+      {
+        "headword": "Cuaresma",
+        "pronunciation": "koo-r-ress'-mar",
+        "partOfSpeech": "f.",
+        "englishTranslation": "Lent."
+      },
+      {
+        "headword": "Cuarta",
+        "pronunciation": "koo-r'-tar",
+        "partOfSpeech": "f.",
+        "englishTranslation": "quarter."
+      },
+      {
+        "headword": "Cuasi",
+        "pronunciation": "koo-r'-see",
+        "partOfSpeech": "ad.",
+        "englishTranslation": "almost: nearly."
+      },
+      {
+        "headword": "Cuatro",
+        "pronunciation": "koo-r'-tro",
+        "partOfSpeech": "a.",
+        "englishTranslation": "four."
+      },
+      {
+        "headword": "Cucañero",
+        "pronunciation": "koo-karn'-yar-o",
+        "partOfSpeech": "m.",
+        "englishTranslation": "parasite."
+      },
+      {
+        "headword": "Cucaracha",
+        "pronunciation": "koo-kar-rar'-char",
+        "partOfSpeech": "f.",
+        "englishTranslation": "woodlouse."
+      },
+      {
+        "headword": "Cuclillo",
+        "pronunciation": "koo-kleel'-yo",
+        "partOfSpeech": "m.",
+        "englishTranslation": "cuckoo."
+      },
+      {
+        "headword": "Cuchara",
+        "pronunciation": "koo-char'-rar",
+        "partOfSpeech": "f.",
+        "englishTranslation": "spoon."
+      },
+      {
+        "headword": "Cucharada",
+        "pronunciation": "koo-char-rar'-dar",
+        "partOfSpeech": "f.",
+        "englishTranslation": "spoonful."
+      },
+      {
+        "headword": "Cucharón",
+        "pronunciation": "koo-char-ron'",
+        "partOfSpeech": "m.",
+        "englishTranslation": "ladle."
+      },
+      {
+        "headword": "Cuchichear",
+        "pronunciation": "koo-chee-chay-r'",
+        "partOfSpeech": "v.",
+        "englishTranslation": "to whisper."
+      },
+      {
+        "headword": "Cuchillero",
+        "pronunciation": "koo-cheel-yay'-ro",
+        "partOfSpeech": "m.",
+        "englishTranslation": "cutler."
+      },
+      {
+        "headword": "Cuello",
+        "pronunciation": "koo-ayl'-yo",
+        "partOfSpeech": "m.",
+        "englishTranslation": "neck: shirt collar."
+      },
+      {
+        "headword": "Cuenta",
+        "pronunciation": "koo-ayn'-tar",
+        "partOfSpeech": "f.",
+        "englishTranslation": "reckoning: account: bill."
+      },
+      {
+        "headword": "Cuero",
+        "pronunciation": "koo-a'-ro",
+        "partOfSpeech": "m.",
+        "englishTranslation": "hide: leather: skin."
+      },
+      {
+        "headword": "Cuerva",
+        "pronunciation": "koo-a'-var",
+        "partOfSpeech": "f.",
+        "englishTranslation": "crow."
+      },
+      {
+        "headword": "Cuervo",
+        "pronunciation": "koo-ayr'-vo",
+        "partOfSpeech": "m.",
+        "englishTranslation": "raven."
+      },
+      {
+        "headword": "Cuestión",
+        "pronunciation": "koo-ess-tee-on'",
+        "partOfSpeech": "f.",
+        "englishTranslation": "question: dispute: quarrel."
+      },
+      {
+        "headword": "Cueva",
+        "pronunciation": "koo-a'-var",
+        "partOfSpeech": "f.",
+        "englishTranslation": "cave: grotto."
+      },
+      {
+        "headword": "Cugujada",
+        "pronunciation": "koo-goo-har'-dar",
+        "partOfSpeech": "f.",
+        "englishTranslation": "skylark."
+      },
+      {
+        "headword": "Cuidado",
+        "pronunciation": "koo-ee-dar'-do",
+        "partOfSpeech": "m.",
+        "englishTranslation": "care: heed: fear: solicitude."
+      },
+      {
+        "headword": "Cuita",
+        "pronunciation": "koo-ee'-tar",
+        "partOfSpeech": "f.",
+        "englishTranslation": "affliction: grief : trouble."
+      },
+      {
+        "headword": "Cuitado",
+        "pronunciation": "koo-ee-tar'-do",
+        "partOfSpeech": "a.",
+        "englishTranslation": "anxious: miserable: wretched."
+      },
+      {
+        "headword": "Culebra",
+        "pronunciation": "koo - lay' - brar",
+        "partOfSpeech": "f.",
+        "englishTranslation": "snake: serpent."
+      },
+      {
+        "headword": "Culpar",
+        "pronunciation": "kool-par'",
+        "partOfSpeech": "v.",
+        "englishTranslation": "to accuse: blame."
+      },
+      {
+        "headword": "Cultivar",
+        "pronunciation": "kool-tee-var'",
+        "partOfSpeech": "v.",
+        "englishTranslation": "to cultivate."
+      },
+      {
+        "headword": "Culto",
+        "pronunciation": "kool'-to",
+        "partOfSpeech": "a.",
+        "englishTranslation": "correct: pure: polished."
+      },
+      {
+        "headword": "Cúmulo",
+        "pronunciation": "koo'-moo-lo",
+        "partOfSpeech": "m.",
+        "englishTranslation": "heap: pile."
+      },
+      {
+        "headword": "Cuna",
+        "pronunciation": "koo'-nar",
+        "partOfSpeech": "f.",
+        "englishTranslation": "cradle."
+      },
+      {
+        "headword": "Cuñado",
+        "pronunciation": "koon - yar' - do",
+        "partOfSpeech": "m.",
+        "englishTranslation": "brother-in-law."
+      },
+      {
+        "headword": "Curación",
+        "pronunciation": "koo-rar-thee-on'",
+        "partOfSpeech": "f.",
+        "englishTranslation": "cure: healing."
+      },
+      {
+        "headword": "Curar",
+        "pronunciation": "koo-rarr'",
+        "partOfSpeech": "v.",
+        "englishTranslation": "to cure: heal."
+      },
+      {
+        "headword": "Currutaco",
+        "pronunciation": "koor-roo-tar'-ko",
+        "partOfSpeech": "m.; a.",
+        "englishTranslation": "beau: fop; affected."
+      },
+      {
+        "headword": "Custodio",
+        "pronunciation": "koos-to'-dee-o",
+        "partOfSpeech": "m.",
+        "englishTranslation": "guard: keeper: watchman."
+      },
+      {
+        "headword": "Cutis",
+        "pronunciation": "koo'-tiss",
+        "partOfSpeech": "m. & f.",
+        "englishTranslation": "skin."
+      },
+      {
+        "headword": "Cuyo",
+        "pronunciation": "koo'-yo",
+        "partOfSpeech": "pron.",
+        "englishTranslation": "of whom: of which: whose."
+      },
+      {
+        "headword": "Cháchara",
+        "pronunciation": "char'-char-rar",
+        "partOfSpeech": "f.",
+        "englishTranslation": "idle-talk: gossip."
+      },
+      {
+        "headword": "Chafallar",
+        "pronunciation": "char-farl-yar'",
+        "partOfSpeech": "v.",
+        "englishTranslation": "to mend: botch."
+      },
+      {
+        "headword": "Chafarrinar",
+        "pronunciation": "char-far-reen-ar'",
+        "partOfSpeech": "v.",
+        "englishTranslation": "to blot: stain."
+      },
+      {
+        "headword": "Chal",
+        "pronunciation": "charl",
+        "partOfSpeech": "m.",
+        "englishTranslation": "shawl."
+      },
+      {
+        "headword": "Chalán",
+        "pronunciation": "char-larn'",
+        "partOfSpeech": "m.",
+        "englishTranslation": "hawker."
+      },
+      {
+        "headword": "Chaleco",
+        "pronunciation": "char - lay' - ko",
+        "partOfSpeech": "m.",
+        "englishTranslation": "waistcoat."
+      },
+      {
+        "headword": "Chamuscado",
+        "pronunciation": "char-moos-kar'-do",
+        "partOfSpeech": "a.",
+        "englishTranslation": "drunk: tipsy."
+      },
+      {
+        "headword": "Chamuscar",
+        "pronunciation": "char-moos-kar'",
+        "partOfSpeech": "v.",
+        "englishTranslation": "to scorch: singe."
+      },
+      {
+        "headword": "Chancleta",
+        "pronunciation": "charn-klay'-tar",
+        "partOfSpeech": "f.",
+        "englishTranslation": "slipper."
+      },
+      {
+        "headword": "Chanza",
+        "pronunciation": "charn'-thar",
+        "partOfSpeech": "f.",
+        "englishTranslation": "jest: joke: fun."
+      },
+      {
+        "headword": "Chaparrón",
+        "pronunciation": "char-par-ron'",
+        "partOfSpeech": "m.",
+        "englishTranslation": "heavy shower of rain."
+      },
+      {
+        "headword": "Chapucero",
+        "pronunciation": "char-poo-thay'-ro",
+        "partOfSpeech": "m.",
+        "englishTranslation": "blacksmith."
+      },
+      {
+        "headword": "Chibor",
+        "pronunciation": "chee-bor'",
+        "partOfSpeech": "m.",
+        "englishTranslation": "baboon."
+      },
+      {
+        "headword": "Chico",
+        "pronunciation": "chee'-ko",
+        "partOfSpeech": "m.; a.",
+        "englishTranslation": "small boy; little: small."
+      },
+      {
+        "headword": "Chichisvear",
+        "pronunciation": "chee-chees-vay-r'",
+        "partOfSpeech": "v.",
+        "englishTranslation": "to court: woo."
+      },
+      {
+        "headword": "Chifladera",
+        "pronunciation": "chee-flar-day'-rar",
+        "partOfSpeech": "f.",
+        "englishTranslation": "whistle."
+      },
+      {
+        "headword": "Chiflar",
+        "pronunciation": "chee-flar'",
+        "partOfSpeech": "v.",
+        "englishTranslation": "to whistle: jest: mock."
+      },
+      {
+        "headword": "Chillar",
+        "pronunciation": "cheel-yar'",
+        "partOfSpeech": "v.",
+        "englishTranslation": "to scream: shriek."
+      },
+      {
+        "headword": "Chimenea",
+        "pronunciation": "chee-may-nay'-r",
+        "partOfSpeech": "f.",
+        "englishTranslation": "chimney."
+      },
+      {
+        "headword": "China",
+        "pronunciation": "chee'-nar",
+        "partOfSpeech": "f.",
+        "englishTranslation": "porcelain: china-ware."
+      },
+      {
+        "headword": "Chinche",
+        "pronunciation": "cheen'-chay",
+        "partOfSpeech": "f.",
+        "englishTranslation": "bug."
+      },
+      {
+        "headword": "Chinela",
+        "pronunciation": "chee-nay'-lar",
+        "partOfSpeech": "f.",
+        "englishTranslation": "slipper."
+      },
+      {
+        "headword": "Chirivía",
+        "pronunciation": "chee-ree-vee'-r",
+        "partOfSpeech": "f.",
+        "englishTranslation": "parsnip."
+      },
+      {
+        "headword": "Chirla",
+        "pronunciation": "cheer'-lar",
+        "partOfSpeech": "f.",
+        "englishTranslation": "mussel."
+      },
+      {
+        "headword": "Chirrionero",
+        "pronunciation": "cheer-ree-o-nay'-ro",
+        "partOfSpeech": "m.",
+        "englishTranslation": "scavenger."
+      },
+      {
+        "headword": "Chisposo",
+        "pronunciation": "chiss - po' - so",
+        "partOfSpeech": "a.",
+        "englishTranslation": "sparkling."
+      },
+      {
+        "headword": "Chistar",
+        "pronunciation": "chiss-tar'",
+        "partOfSpeech": "v.",
+        "englishTranslation": "to mumble: mutter."
+      },
+      {
+        "headword": "Chistoso",
+        "pronunciation": "chiss - to' - so",
+        "partOfSpeech": "a.",
+        "englishTranslation": "cheerful: gay."
+      },
+      {
+        "headword": "Chiste",
+        "pronunciation": "chiss'-tay",
+        "partOfSpeech": "interj.",
+        "englishTranslation": "hush: silence."
+      },
+      {
+        "headword": "Chocolate",
+        "pronunciation": "cho-ko-lar'-tay",
+        "partOfSpeech": "m.",
+        "englishTranslation": "chocolate."
+      },
+      {
+        "headword": "Chofes",
+        "pronunciation": "cho'-fays",
+        "partOfSpeech": "m. pl.",
+        "englishTranslation": "lungs."
+      },
+      {
+        "headword": "Choque",
+        "pronunciation": "cho'-kay",
+        "partOfSpeech": "m.",
+        "englishTranslation": "collision; shock: skirmish."
+      },
+      {
+        "headword": "Chorizo",
+        "pronunciation": "cho-ree'-tho",
+        "partOfSpeech": "m.",
+        "englishTranslation": "pork-sausage."
+      },
+      {
+        "headword": "Chuleta",
+        "pronunciation": "choo-lay'-tar",
+        "partOfSpeech": "f.",
+        "englishTranslation": "chop."
+      },
+      {
+        "headword": "Chupar",
+        "pronunciation": "choo-parr'",
+        "partOfSpeech": "v.",
+        "englishTranslation": "to suck."
+      },
+      {
+        "headword": "Churriento",
+        "pronunciation": "choor-ree'-n-to",
+        "partOfSpeech": "a.",
+        "englishTranslation": "greasy."
+      },
+      {
+        "headword": "Dable",
+        "pronunciation": "dar'-blay",
+        "partOfSpeech": "a.",
+        "englishTranslation": "easy: possible."
+      },
+      {
+        "headword": "Dádiva",
+        "pronunciation": "dar'-dee-var",
+        "partOfSpeech": "f.",
+        "englishTranslation": "gift: present."
+      },
+      {
+        "headword": "Daga",
+        "pronunciation": "dar'-gar",
+        "partOfSpeech": "f.",
+        "englishTranslation": "dagger."
+      },
+      {
+        "headword": "Dama",
+        "pronunciation": "dar' - mar",
+        "partOfSpeech": "f.",
+        "englishTranslation": "lady: gentlewoman: mistress."
+      },
+      {
+        "headword": "Damería",
+        "pronunciation": "dar-may-ree'-r",
+        "partOfSpeech": "f.",
+        "englishTranslation": "prudery."
+      },
+      {
+        "headword": "Damero",
+        "pronunciation": "dar - may - ro",
+        "partOfSpeech": "m.",
+        "englishTranslation": "draught-board."
+      },
+      {
+        "headword": "Damisela",
+        "pronunciation": "dar-mee-say'-lar",
+        "partOfSpeech": "f.",
+        "englishTranslation": "young lady."
+      },
+      {
+        "headword": "Damnificar",
+        "pronunciation": "darm - nee - fee .. kar'",
+        "partOfSpeech": "v.",
+        "englishTranslation": "to damage: injure."
+      },
+      {
+        "headword": "Danza",
+        "pronunciation": "darn'-thar",
+        "partOfSpeech": "f.",
+        "englishTranslation": "dance."
+      },
+      {
+        "headword": "Dañar",
+        "pronunciation": "darn-yar'",
+        "partOfSpeech": "a.",
+        "englishTranslation": "to damage: hurt."
+      },
+      {
+        "headword": "Dañino",
+        "pronunciation": "darn-yin'-o",
+        "partOfSpeech": "a.",
+        "englishTranslation": "noxious."
+      },
+      {
+        "headword": "Dardo",
+        "pronunciation": "darr'-do",
+        "partOfSpeech": "m.",
+        "englishTranslation": "dart."
+      },
+      {
+        "headword": "Dátil",
+        "pronunciation": "dar'-teel",
+        "partOfSpeech": "m.",
+        "englishTranslation": "date (fruit)."
+      },
+      {
+        "headword": "Dauco",
+        "pronunciation": "dar-oo'-ko",
+        "partOfSpeech": "m.",
+        "englishTranslation": "carrot."
+      },
+      {
+        "headword": "De",
+        "pronunciation": "day",
+        "partOfSpeech": "prep.",
+        "englishTranslation": "for: from: by: of: on: to: with."
+      },
+      {
+        "headword": "Debajo",
+        "pronunciation": "day-bar'-ho",
+        "partOfSpeech": "a.",
+        "englishTranslation": "below: under: underneath."
+      },
+      {
+        "headword": "Debatir",
+        "pronunciation": "day-bar-teer'",
+        "partOfSpeech": "v.",
+        "englishTranslation": "to debate: discuss."
+      },
+      {
+        "headword": "Deber",
+        "pronunciation": "day-bayr'",
+        "partOfSpeech": "m.; v.",
+        "englishTranslation": "debt: duty: obligation; to owe."
+      },
+      {
+        "headword": "Debidamente",
+        "pronunciation": "day-bee-dar-men'-tay",
+        "partOfSpeech": "ad.",
+        "englishTranslation": "duly: exactly: justly."
+      },
+      {
+        "headword": "Débil",
+        "pronunciation": "day'-bil",
+        "partOfSpeech": "a.",
+        "englishTranslation": "feeble: frail: sickly: weak."
+      },
+      {
+        "headword": "Débito",
+        "pronunciation": "day'-bee-to",
+        "partOfSpeech": "m.",
+        "englishTranslation": "debt: duty."
+      },
+      {
+        "headword": "Decadencia",
+        "pronunciation": "day-kar-den'-thee-r",
+        "partOfSpeech": "f.",
+        "englishTranslation": "decay: decline."
+      },
+      {
+        "headword": "Decaer",
+        "pronunciation": "day-kar-ayr'",
+        "partOfSpeech": "v.",
+        "englishTranslation": "to decay: decline."
+      },
+      {
+        "headword": "Decano",
+        "pronunciation": "day-kar'-no",
+        "partOfSpeech": "m.",
+        "englishTranslation": "senior."
+      },
+      {
+        "headword": "Decapitar",
+        "pronunciation": "day-kar-peet-r'",
+        "partOfSpeech": "v.",
+        "englishTranslation": "to behead."
+      },
+      {
+        "headword": "Decencia",
+        "pronunciation": "day-then'-thee-r",
+        "partOfSpeech": "f.",
+        "englishTranslation": "decency: modesty."
+      },
+      {
+        "headword": "Deceno, Décimo",
+        "pronunciation": "day-thay'-no: day'-thee-mo",
+        "partOfSpeech": "a.",
+        "englishTranslation": "tenth."
+      },
+      {
+        "headword": "Decidir",
+        "pronunciation": "day-thee-deer'",
+        "partOfSpeech": "v.",
+        "englishTranslation": "to decide: determine."
+      },
+      {
+        "headword": "Decir",
+        "pronunciation": "day-theer'",
+        "partOfSpeech": "v.",
+        "englishTranslation": "to say: speak: tell."
+      },
+      {
+        "headword": "Decisivo",
+        "pronunciation": "day-thee-see'-vo",
+        "partOfSpeech": "a.",
+        "englishTranslation": "decisive: final."
+      },
+      {
+        "headword": "Declaración",
+        "pronunciation": "day-klar-r-thee-on'",
+        "partOfSpeech": "f.",
+        "englishTranslation": "declaration."
+      },
+      {
+        "headword": "Declarar",
+        "pronunciation": "day-klar-r'",
+        "partOfSpeech": "v.",
+        "englishTranslation": "to declare."
+      },
+      {
+        "headword": "Decomiso",
+        "pronunciation": "day-ko-mee'-so",
+        "partOfSpeech": "a.",
+        "englishTranslation": "confiscate."
+      },
+      {
+        "headword": "Decorar",
+        "pronunciation": "day-kor-r'",
+        "partOfSpeech": "v.",
+        "englishTranslation": "to adorn: decorate."
+      },
+      {
+        "headword": "Decoro",
+        "pronunciation": "day-kor'-o",
+        "partOfSpeech": "m.",
+        "englishTranslation": "honour: honesty: respect."
+      },
+      {
+        "headword": "Decremento",
+        "pronunciation": "day-kray-men'-to",
+        "partOfSpeech": "m.",
+        "englishTranslation": "decrease."
+      },
+      {
+        "headword": "Decrépito",
+        "pronunciation": "day-kray'-pee-to",
+        "partOfSpeech": "a.",
+        "englishTranslation": "decrepit: worn out."
+      },
+      {
+        "headword": "Dechado",
+        "pronunciation": "day-char'-do",
+        "partOfSpeech": "m.",
+        "englishTranslation": "pattern: sample."
+      },
+      {
+        "headword": "Dedal",
+        "pronunciation": "day-darl'",
+        "partOfSpeech": "m.",
+        "englishTranslation": "thimble."
+      },
+      {
+        "headword": "Dedalera",
+        "pronunciation": "day-dar-lay'-ra",
+        "partOfSpeech": "f.",
+        "englishTranslation": "foxglove."
+      },
+      {
+        "headword": "Dedo",
+        "pronunciation": "day'-do",
+        "partOfSpeech": "m.",
+        "englishTranslation": "finger: toe. Dedo anular, ring finger. Dedo del corazón, middle finger. Dedo meñique, little finger. Dedo pulgar, thumb."
+      },
+      {
+        "headword": "Defectible",
+        "pronunciation": "day-fek-tee'-blay",
+        "partOfSpeech": "a.",
+        "englishTranslation": "deficient: imperfect."
+      },
+      {
+        "headword": "Defensa",
+        "pronunciation": "day - fen' - sar",
+        "partOfSpeech": "f.",
+        "englishTranslation": "defence: apology."
+      },
+      {
+        "headword": "Deferente",
+        "pronunciation": "day-fay-ren'-tay",
+        "partOfSpeech": "a.",
+        "englishTranslation": "docile: pliant: yielding."
+      },
+      {
+        "headword": "Definir",
+        "pronunciation": "day-fee-neer'",
+        "partOfSpeech": "v.",
+        "englishTranslation": "to define: explain."
+      },
+      {
+        "headword": "Deforme",
+        "pronunciation": "day-for'-may",
+        "partOfSpeech": "a.",
+        "englishTranslation": "deformed: ugly."
+      },
+      {
+        "headword": "Defraudar",
+        "pronunciation": "day-frar-oo-dar'",
+        "partOfSpeech": "v.",
+        "englishTranslation": "to defraud."
+      },
+      {
+        "headword": "Degollador",
+        "pronunciation": "day-gol-yar-dor'",
+        "partOfSpeech": "m.",
+        "englishTranslation": "executioner."
+      },
+      {
+        "headword": "Deidad",
+        "pronunciation": "day-ee-dard'",
+        "partOfSpeech": "f.",
+        "englishTranslation": "deity: divinity."
+      },
+      {
+        "headword": "Deífico",
+        "pronunciation": "day-ee'-fee-ko",
+        "partOfSpeech": "a.",
+        "englishTranslation": "divine."
+      },
+      {
+        "headword": "Dejado",
+        "pronunciation": "day-har'-do",
+        "partOfSpeech": "a.",
+        "englishTranslation": "idle: indolent: slovenly."
+      },
+      {
+        "headword": "Dejar",
+        "pronunciation": "day-har'",
+        "partOfSpeech": "v.",
+        "englishTranslation": "to leave: let: forsake: quit."
+      },
+      {
+        "headword": "Dejo",
+        "pronunciation": "day'-ho",
+        "partOfSpeech": "m.",
+        "englishTranslation": "end: termination."
+      },
+      {
+        "headword": "Del",
+        "pronunciation": "dayl",
+        "partOfSpeech": "a.",
+        "englishTranslation": "of the (contracted from de el)."
+      },
+      {
+        "headword": "Delantal",
+        "pronunciation": "day-larn-tarl'",
+        "partOfSpeech": "m.",
+        "englishTranslation": "apron."
+      },
+      {
+        "headword": "Delante",
+        "pronunciation": "day-larn'-tay",
+        "partOfSpeech": "ad.; prep.",
+        "englishTranslation": "before; in front of."
+      },
+      {
+        "headword": "Delator",
+        "pronunciation": "day-lar-tor'",
+        "partOfSpeech": "m.",
+        "englishTranslation": "accuser: denouncer."
+      },
+      {
+        "headword": "Deleitable",
+        "pronunciation": "day-lay-ee-tar'-blay",
+        "partOfSpeech": "a.",
+        "englishTranslation": "delightful."
+      },
+      {
+        "headword": "Deleite",
+        "pronunciation": "day-lay'-ee-tay",
+        "partOfSpeech": "m.",
+        "englishTranslation": "delight: pleasure."
+      },
+      {
+        "headword": "Deletrear",
+        "pronunciation": "day-lay-tray-ar'",
+        "partOfSpeech": "v.",
+        "englishTranslation": "to spell."
+      },
+      {
+        "headword": "Delfín",
+        "pronunciation": "del-feen'",
+        "partOfSpeech": "m.",
+        "englishTranslation": "dolphin."
+      },
+      {
+        "headword": "Delicado",
+        "pronunciation": "day-lee-kar'-do",
+        "partOfSpeech": "a.",
+        "englishTranslation": "delicate: dainty."
+      },
+      {
+        "headword": "Delicia",
+        "pronunciation": "day-lee'-thee-r",
+        "partOfSpeech": "f.",
+        "englishTranslation": "delight."
+      },
+      {
+        "headword": "Della, Dello",
+        "pronunciation": "dayl'-ya: dayl'-yo",
+        "partOfSpeech": "contractions",
+        "englishTranslation": "of de ella (of her) and de ello (of it)."
+      },
+      {
+        "headword": "Demandar",
+        "pronunciation": "day-marn-dar'",
+        "partOfSpeech": "v.",
+        "englishTranslation": "to demand: ask: request."
+      },
+      {
+        "headword": "Demás",
+        "pronunciation": "day-mars'",
+        "partOfSpeech": "a.",
+        "englishTranslation": "the others: the rest."
+      },
+      {
+        "headword": "Demente",
+        "pronunciation": "day-men'-tay",
+        "partOfSpeech": "a.",
+        "englishTranslation": "mad."
+      },
+      {
+        "headword": "Democracia",
+        "pronunciation": "day-mo-krar'-thee-r",
+        "partOfSpeech": "f.",
+        "englishTranslation": "democracy."
+      },
+      {
+        "headword": "Demonio",
+        "pronunciation": "day-mo'-nee-o",
+        "partOfSpeech": "m.",
+        "englishTranslation": "demon."
+      },
+      {
+        "headword": "Demorar",
+        "pronunciation": "day-mo-rarr'",
+        "partOfSpeech": "v.",
+        "englishTranslation": "to remain."
+      },
+      {
+        "headword": "Denegar",
+        "pronunciation": "day-nay-gar'",
+        "partOfSpeech": "v.",
+        "englishTranslation": "to deny: refuse."
+      },
+      {
+        "headword": "Densidad",
+        "pronunciation": "den-see-dahd'",
+        "partOfSpeech": "f.",
+        "englishTranslation": "density."
+      },
+      {
+        "headword": "Denso",
+        "pronunciation": "den-so",
+        "partOfSpeech": "a.",
+        "englishTranslation": "dense: compact: thick."
+      },
+      {
+        "headword": "Dentadura",
+        "pronunciation": "den-tar-doo'-rar",
+        "partOfSpeech": "f.",
+        "englishTranslation": "set of teeth"
+      },
+      {
+        "headword": "Dentellear",
+        "pronunciation": "den-tell-yay-r'",
+        "partOfSpeech": "v.",
+        "englishTranslation": "to bite."
+      },
+      {
+        "headword": "Dentista",
+        "pronunciation": "den-tees'-tar",
+        "partOfSpeech": "m.",
+        "englishTranslation": "dentist."
+      },
+      {
+        "headword": "Dentro",
+        "pronunciation": "den'-tro",
+        "partOfSpeech": "ad.",
+        "englishTranslation": "within."
+      },
+      {
+        "headword": "Deparar",
+        "pronunciation": "day-par-r'",
+        "partOfSpeech": "v.",
+        "englishTranslation": "to offer: present: give."
+      },
+      {
+        "headword": "Deplorar",
+        "pronunciation": "day-plo-rarr'",
+        "partOfSpeech": "v.",
+        "englishTranslation": "to deplore."
+      },
+      {
+        "headword": "Deportar",
+        "pronunciation": "day-por-tarr'",
+        "partOfSpeech": "v.",
+        "englishTranslation": "to transport."
+      },
+      {
+        "headword": "Depositaría",
+        "pronunciation": "day-po-see-tar-ree'-r",
+        "partOfSpeech": "f.",
+        "englishTranslation": "depository."
+      },
+      {
+        "headword": "Depurar",
+        "pronunciation": "day-poo-rar'",
+        "partOfSpeech": "v.",
+        "englishTranslation": "to cleanse: purify."
+      },
+      {
+        "headword": "Derecha",
+        "pronunciation": "day-ray'-char",
+        "partOfSpeech": "f.",
+        "englishTranslation": "right-hand."
+      },
+      {
+        "headword": "Derecho",
+        "pronunciation": "day-ray'-cho",
+        "partOfSpeech": "a.",
+        "englishTranslation": "right: just: straight."
+      },
+      {
+        "headword": "Derramador",
+        "pronunciation": "dayr-rar-mar-dor'",
+        "partOfSpeech": "m.",
+        "englishTranslation": "spendthrift."
+      },
+      {
+        "headword": "Derredor",
+        "pronunciation": "dayr-ray-dor'",
+        "partOfSpeech": "m.",
+        "englishTranslation": "circumference."
+      },
+      {
+        "headword": "Derribar",
+        "pronunciation": "dayr-ree-bar'",
+        "partOfSpeech": "v.",
+        "englishTranslation": "to demolish."
+      },
+      {
+        "headword": "Desabillé",
+        "pronunciation": "day-sar-beel-yay'",
+        "partOfSpeech": "m.",
+        "englishTranslation": "undress."
+      },
+      {
+        "headword": "Desabotonar",
+        "pronunciation": "day-sar-bo-to-nar'",
+        "partOfSpeech": "v.",
+        "englishTranslation": "to unbutton."
+      },
+      {
+        "headword": "Desabrido",
+        "pronunciation": "day-sar-bree'-do",
+        "partOfSpeech": "a.",
+        "englishTranslation": "tasteless: insipid."
+      },
+      {
+        "headword": "Desabrigar",
+        "pronunciation": "day-sar-bree-gar'",
+        "partOfSpeech": "v.",
+        "englishTranslation": "to uncover."
+      },
+      {
+        "headword": "Desabrigo",
+        "pronunciation": "day-sar-bree'-go",
+        "partOfSpeech": "m.",
+        "englishTranslation": "nakedness."
+      },
+      {
+        "headword": "Desabrir",
+        "pronunciation": "day-sar-bree-r'",
+        "partOfSpeech": "v.",
+        "englishTranslation": "to annoy: plague: vex."
+      },
+      {
+        "headword": "Desacato",
+        "pronunciation": "day-sar-kar'-to",
+        "partOfSpeech": "m.",
+        "englishTranslation": "disrespect: incivility."
+      },
+      {
+        "headword": "Desacierto",
+        "pronunciation": "day-sar-thee-ayr'-to",
+        "partOfSpeech": "m.",
+        "englishTranslation": "blunder: mistake."
+      },
+      {
+        "headword": "Desadeudar",
+        "pronunciation": "days-r-day-oo-dar'",
+        "partOfSpeech": "v.",
+        "englishTranslation": "to get out of debt."
+      },
+      {
+        "headword": "Desadorar",
+        "pronunciation": "days-r-dor-r'",
+        "partOfSpeech": "v.",
+        "englishTranslation": "to cease loving."
+      },
+      {
+        "headword": "Desafiar",
+        "pronunciation": "days-r-fee-r'",
+        "partOfSpeech": "v.",
+        "englishTranslation": "to challenge."
+      },
+      {
+        "headword": "Desafortunado",
+        "pronunciation": "days-r-for-too-nar'-do",
+        "partOfSpeech": "a.",
+        "englishTranslation": "unfortunate."
+      },
+      {
+        "headword": "Desagradar",
+        "pronunciation": "days-r-grar-dar'",
+        "partOfSpeech": "v.",
+        "englishTranslation": "to displease."
+      },
+      {
+        "headword": "Desaguar",
+        "pronunciation": "days-r-goo-r'",
+        "partOfSpeech": "v.",
+        "englishTranslation": "to empty: pour out."
+      },
+      {
+        "headword": "Desahogar",
+        "pronunciation": "days-r-o-gar'",
+        "partOfSpeech": "v.",
+        "englishTranslation": "to ease a pain."
+      },
+      {
+        "headword": "Desairado",
+        "pronunciation": "days-r-ee-rar'-do",
+        "partOfSpeech": "a.",
+        "englishTranslation": "slighted: disregarded."
+      },
+      {
+        "headword": "Desaire",
+        "pronunciation": "days-r-ee'-ray",
+        "partOfSpeech": "m.",
+        "englishTranslation": "disdain: disrespect."
+      },
+      {
+        "headword": "Desaliño",
+        "pronunciation": "days-r-leen'-yo",
+        "partOfSpeech": "m.",
+        "englishTranslation": "slovenliness."
+      },
+      {
+        "headword": "Desalumbrado",
+        "pronunciation": "days-r-loom-brar'-do",
+        "partOfSpeech": "a.",
+        "englishTranslation": "dazzled."
+      },
+      {
+        "headword": "Desamparar",
+        "pronunciation": "days-arm-par-r'",
+        "partOfSpeech": "v.",
+        "englishTranslation": "to forsake: abandon."
+      },
+      {
+        "headword": "Desanudar",
+        "pronunciation": "days-r-noo-dar'",
+        "partOfSpeech": "v.",
+        "englishTranslation": "to disentangle: untie."
+      },
+      {
+        "headword": "Desaplicado",
+        "pronunciation": "days-r-plee-kar'-do",
+        "partOfSpeech": "a.",
+        "englishTranslation": "careless: indolent."
+      },
+      {
+        "headword": "Desapretar",
+        "pronunciation": "days-r-pray-tar'",
+        "partOfSpeech": "v.",
+        "englishTranslation": "to loosen: slacken."
+      },
+      {
+        "headword": "Desarrapado",
+        "pronunciation": "days-r-rar-par'-do",
+        "partOfSpeech": "a.",
+        "englishTranslation": "ragged."
+      },
+      {
+        "headword": "Desarreglar",
+        "pronunciation": "days-r-ray-glar'",
+        "partOfSpeech": "v.",
+        "englishTranslation": "to derange."
+      },
+      {
+        "headword": "Desarropar",
+        "pronunciation": "days-r-ro-par'",
+        "partOfSpeech": "v.",
+        "englishTranslation": "to undress."
+      },
+      {
+        "headword": "Desaseo",
+        "pronunciation": "days-r-say'-o",
+        "partOfSpeech": "m.",
+        "englishTranslation": "disorder."
+      },
+      {
+        "headword": "Desasir",
+        "pronunciation": "days-r-seer'",
+        "partOfSpeech": "v.",
+        "englishTranslation": "to disentangle: unloosen."
+      },
+      {
+        "headword": "Desastrado",
+        "pronunciation": "days-ars-trar'-do",
+        "partOfSpeech": "a.",
+        "englishTranslation": "miserable: wretched."
+      },
+      {
+        "headword": "Desatacar",
+        "pronunciation": "days-r-tar-kar'",
+        "partOfSpeech": "v.",
+        "englishTranslation": "to loosen: untie."
+      },
+      {
+        "headword": "Desatentado",
+        "pronunciation": "days-r-tayn-tar'-do",
+        "partOfSpeech": "a.",
+        "englishTranslation": "inconsiderate: thoughtless."
+      },
+      {
+        "headword": "Desavisado",
+        "pronunciation": "days-r-vees-r'-do",
+        "partOfSpeech": "a.",
+        "englishTranslation": "ill-advised."
+      },
+      {
+        "headword": "Desayuno",
+        "pronunciation": "days-r-yoo'-no",
+        "partOfSpeech": "m.",
+        "englishTranslation": "breakfast."
+      },
+      {
+        "headword": "Desbrozar",
+        "pronunciation": "days-bro-thee-r'",
+        "partOfSpeech": "v.",
+        "englishTranslation": "to clear rubbish away."
+      },
+      {
+        "headword": "Descabal",
+        "pronunciation": "days-kar-barl'",
+        "partOfSpeech": "a.",
+        "englishTranslation": "incomplete."
+      },
+      {
+        "headword": "Descabellado",
+        "pronunciation": "days-kar-bayl-yar'-do",
+        "partOfSpeech": "a.",
+        "englishTranslation": "disorderly: wild."
+      },
+      {
+        "headword": "Descalzo",
+        "pronunciation": "days-karl'-tho",
+        "partOfSpeech": "a.",
+        "englishTranslation": "barefooted."
+      },
+      {
+        "headword": "Descampado",
+        "pronunciation": "days-karm-par'-do",
+        "partOfSpeech": "a.",
+        "englishTranslation": "free: disengaged."
+      },
+      {
+        "headword": "Descanso",
+        "pronunciation": "days-karn-so",
+        "partOfSpeech": "m.",
+        "englishTranslation": "rest: repose."
+      },
+      {
+        "headword": "Descargadero",
+        "pronunciation": "days-kar-gar-day'-ro",
+        "partOfSpeech": "m.",
+        "englishTranslation": "wharf."
+      },
+      {
+        "headword": "Descariño",
+        "pronunciation": "days-kar-een'-yo",
+        "partOfSpeech": "m.",
+        "englishTranslation": "loss of affection."
+      },
+      {
+        "headword": "Descendencia",
+        "pronunciation": "days-then-dayn'-ther",
+        "partOfSpeech": "f.",
+        "englishTranslation": "offspring."
+      },
+      {
+        "headword": "Descender",
+        "pronunciation": "days-then-dayr'",
+        "partOfSpeech": "v.",
+        "englishTranslation": "to descend."
+      },
+      {
+        "headword": "Descepar",
+        "pronunciation": "days-thee-parr'",
+        "partOfSpeech": "v.",
+        "englishTranslation": "to uproot."
+      },
+      {
+        "headword": "Descobijar",
+        "pronunciation": "days-ko-bee-har'",
+        "partOfSpeech": "v.",
+        "englishTranslation": "to uncover: undress."
+      },
+      {
+        "headword": "Descoco",
+        "pronunciation": "days-ko'-ko",
+        "partOfSpeech": "m.",
+        "englishTranslation": "impudence."
+      },
+      {
+        "headword": "Descolorido",
+        "pronunciation": "days-kol-o-ree'-do",
+        "partOfSpeech": "a.",
+        "englishTranslation": "colourless: pale."
+      },
+      {
+        "headword": "Descomedido",
+        "pronunciation": "days-ko-may-dee'-do",
+        "partOfSpeech": "a.",
+        "englishTranslation": "impudent: insolent."
+      },
+      {
+        "headword": "Descompostura",
+        "pronunciation": "days-kom-poos-too'-rar",
+        "partOfSpeech": "f.",
+        "englishTranslation": "confusion."
+      },
+      {
+        "headword": "Desconcertar",
+        "pronunciation": "days - kon - thayr-tarr'",
+        "partOfSpeech": "v.",
+        "englishTranslation": "to disturb."
+      },
+      {
+        "headword": "Desconfiar",
+        "pronunciation": "days-kon-fee-ar'",
+        "partOfSpeech": "v.",
+        "englishTranslation": "to mistrust."
+      },
+      {
+        "headword": "Desconocer",
+        "pronunciation": "days - kon - o - thayr'",
+        "partOfSpeech": "v.",
+        "englishTranslation": "to disown: disavow."
+      },
+      {
+        "headword": "Descontar",
+        "pronunciation": "days-kon-tar'",
+        "partOfSpeech": "v.",
+        "englishTranslation": "to abate: discount."
+      },
+      {
+        "headword": "Descontentadizo",
+        "pronunciation": "days-kon-ten-tar-dee'-tho",
+        "partOfSpeech": "a.",
+        "englishTranslation": "squeamish."
+      },
+      {
+        "headword": "Desconvenir",
+        "pronunciation": "days-kon-vay-neer'",
+        "partOfSpeech": "v.",
+        "englishTranslation": "to disagree."
+      },
+      {
+        "headword": "Descorrer",
+        "pronunciation": "days-kor-rayr'",
+        "partOfSpeech": "v.",
+        "englishTranslation": "to flow: run."
+      },
+      {
+        "headword": "Descreer",
+        "pronunciation": "days-kray-ayr'",
+        "partOfSpeech": "v.",
+        "englishTranslation": "to disbelieve."
+      },
+      {
+        "headword": "Describir",
+        "pronunciation": "days-kree-beer'",
+        "partOfSpeech": "v.",
+        "englishTranslation": "to delineate: draw: describe."
+      },
+      {
+        "headword": "Descuerno",
+        "pronunciation": "days-koo-er'-no",
+        "partOfSpeech": "m.",
+        "englishTranslation": "affront: contempt."
+      },
+      {
+        "headword": "Desde",
+        "pronunciation": "days'-day",
+        "partOfSpeech": "prep.",
+        "englishTranslation": "after: from: since."
+      },
+      {
+        "headword": "Desdentado",
+        "pronunciation": "days-den-tar'-do",
+        "partOfSpeech": "a.",
+        "englishTranslation": "toothless."
+      },
+      {
+        "headword": "Desdicha",
+        "pronunciation": "days-dee'-char",
+        "partOfSpeech": "f.",
+        "englishTranslation": "misfortune: calamity."
+      },
+      {
+        "headword": "Desear",
+        "pronunciation": "day-say-r'",
+        "partOfSpeech": "v.",
+        "englishTranslation": "to desire: wish."
+      },
+      {
+        "headword": "Desecar",
+        "pronunciation": "day-say-kar'",
+        "partOfSpeech": "v.",
+        "englishTranslation": "to dry."
+      },
+      {
+        "headword": "Desembalar",
+        "pronunciation": "days-m-bar-lar'",
+        "partOfSpeech": "v.",
+        "englishTranslation": "to unpack."
+      },
+      {
+        "headword": "Desembarcar",
+        "pronunciation": "days-m-bar-kar'",
+        "partOfSpeech": "v.",
+        "englishTranslation": "to land: disembark."
+      },
+      {
+        "headword": "Desempapelar",
+        "pronunciation": "days-m-par-pay-lar'",
+        "partOfSpeech": "v.",
+        "englishTranslation": "to unwrap."
+      },
+      {
+        "headword": "Desempaquetar",
+        "pronunciation": "days-m-par-kay-tar'",
+        "partOfSpeech": "v.",
+        "englishTranslation": "to unpack."
+      },
+      {
+        "headword": "Desempeñar",
+        "pronunciation": "days-m-payn-yar'",
+        "partOfSpeech": "v.",
+        "englishTranslation": "to redeem."
+      },
+      {
+        "headword": "Desencaminar",
+        "pronunciation": "days-n-kar-meen-'r",
+        "partOfSpeech": "v.",
+        "englishTranslation": "to go astray: lose the way."
+      },
+      {
+        "headword": "Desenfado",
+        "pronunciation": "days-n-far'-do",
+        "partOfSpeech": "m.",
+        "englishTranslation": "calmness: ease: facility."
+      },
+      {
+        "headword": "Desenganchar",
+        "pronunciation": "days-n-garn-char'",
+        "partOfSpeech": "v.",
+        "englishTranslation": "to unfasten: unhook."
+      },
+      {
+        "headword": "Desengarzar",
+        "pronunciation": "days-n-gar-thar'",
+        "partOfSpeech": "v.",
+        "englishTranslation": "to unravel."
+      },
+      {
+        "headword": "Desenrollar",
+        "pronunciation": "days-n-rol-yar'",
+        "partOfSpeech": "v.",
+        "englishTranslation": "to unroll."
+      },
+      {
+        "headword": "Desenroscar",
+        "pronunciation": "days-n-roos-kar'",
+        "partOfSpeech": "v.",
+        "englishTranslation": "to untwist."
+      },
+      {
+        "headword": "Desentenderse",
+        "pronunciation": "days-n-ten-dayr'-say",
+        "partOfSpeech": "v.",
+        "englishTranslation": "to take no notice."
+      },
+      {
+        "headword": "Deseo",
+        "pronunciation": "day-say'-o",
+        "partOfSpeech": "m.",
+        "englishTranslation": "desire: wish."
+      },
+      {
+        "headword": "Deseoso",
+        "pronunciation": "day-say-o'-so",
+        "partOfSpeech": "a.",
+        "englishTranslation": "desirous."
+      },
+      {
+        "headword": "Desertor",
+        "pronunciation": "day-sayr-tor'",
+        "partOfSpeech": "m.",
+        "englishTranslation": "deserter: fugitive."
+      },
+      {
+        "headword": "Desflorar",
+        "pronunciation": "dess-flo-rar'",
+        "partOfSpeech": "v.",
+        "englishTranslation": "to sully: tarnish."
+      },
+      {
+        "headword": "Desgarbado",
+        "pronunciation": "dess-gar-bar'-do",
+        "partOfSpeech": "a.",
+        "englishTranslation": "uncouth."
+      },
+      {
+        "headword": "Desgobierno",
+        "pronunciation": "dess-go-bee-ayr'-no",
+        "partOfSpeech": "m.",
+        "englishTranslation": "misrule."
+      },
+      {
+        "headword": "Desgraciar",
+        "pronunciation": "dess-grar-thee-r'",
+        "partOfSpeech": "v.",
+        "englishTranslation": "to displease."
+      },
+      {
+        "headword": "Deshabitado",
+        "pronunciation": "days-r-bee-tar'-do",
+        "partOfSpeech": "a.",
+        "englishTranslation": "uninhabited."
+      },
+      {
+        "headword": "Deshacer",
+        "pronunciation": "days-r-thayr'",
+        "partOfSpeech": "v.",
+        "englishTranslation": "to destroy: cancel."
+      },
+      {
+        "headword": "Desharrapado",
+        "pronunciation": "days-r-rar-par'-do",
+        "partOfSpeech": "a.",
+        "englishTranslation": "shabby."
+      },
+      {
+        "headword": "Deshelar",
+        "pronunciation": "day-say-lar'",
+        "partOfSpeech": "v.",
+        "englishTranslation": "to thaw: melt."
+      },
+      {
+        "headword": "Deshielo",
+        "pronunciation": "days-ee-ay'-lo",
+        "partOfSpeech": "m.",
+        "englishTranslation": "thaw."
+      },
+      {
+        "headword": "Deshollinador",
+        "pronunciation": "days-ol-yee-nar-dor'",
+        "partOfSpeech": "m.",
+        "englishTranslation": "chimney-sweep."
+      },
+      {
+        "headword": "Deshonesto",
+        "pronunciation": "days-o-ness'-to",
+        "partOfSpeech": "a.",
+        "englishTranslation": "immodest: lewd."
+      },
+      {
+        "headword": "Deshonra",
+        "pronunciation": "days-on'-ra",
+        "partOfSpeech": "f.",
+        "englishTranslation": "dishonour: disgrace: seduction."
+      },
+      {
+        "headword": "Desidia",
+        "pronunciation": "days-ee'-dee-r",
+        "partOfSpeech": "f.",
+        "englishTranslation": "laziness: idleness."
+      },
+      {
+        "headword": "Desigual",
+        "pronunciation": "days-ee-goo-arl'",
+        "partOfSpeech": "a.",
+        "englishTranslation": "unequal."
+      },
+      {
+        "headword": "Desistir",
+        "pronunciation": "days-iss-teer'",
+        "partOfSpeech": "v.",
+        "englishTranslation": "to stop: desist."
+      },
+      {
+        "headword": "Deslavado",
+        "pronunciation": "dess-lar-var'-do",
+        "partOfSpeech": "a.",
+        "englishTranslation": "barefaced."
+      },
+      {
+        "headword": "Desleal",
+        "pronunciation": "dess-lay-arl'",
+        "partOfSpeech": "a.",
+        "englishTranslation": "di-loyal."
+      },
+      {
+        "headword": "Desleir",
+        "pronunciation": "dess-lay-eer'",
+        "partOfSpeech": "v.",
+        "englishTranslation": "to dilute."
+      },
+      {
+        "headword": "Desliar",
+        "pronunciation": "dess-lee-ar'",
+        "partOfSpeech": "v.",
+        "englishTranslation": "to untie."
+      },
+      {
+        "headword": "Deslizadizo",
+        "pronunciation": "dess-lee-thar-dee'-tho",
+        "partOfSpeech": "a.",
+        "englishTranslation": "slippery."
+      },
+      {
+        "headword": "Deslumbrar",
+        "pronunciation": "dess-loom'-brar'",
+        "partOfSpeech": "v.",
+        "englishTranslation": "to dazzle."
+      },
+      {
+        "headword": "Desmanotado",
+        "pronunciation": "dess-mar-no-tar'-do",
+        "partOfSpeech": "a.",
+        "englishTranslation": "awkward."
+      },
+      {
+        "headword": "Desmayo",
+        "pronunciation": "dess-mar'-yo",
+        "partOfSpeech": "m.",
+        "englishTranslation": "dismay: swoon."
+      },
+      {
+        "headword": "Desnudo",
+        "pronunciation": "dess-noo'-do",
+        "partOfSpeech": "a.",
+        "englishTranslation": "bare: naked."
+      },
+      {
+        "headword": "Despacio",
+        "pronunciation": "dess-par'-thee-o",
+        "partOfSpeech": "ad.",
+        "englishTranslation": "leisurely: slowly."
+      },
+      {
+        "headword": "Despacito",
+        "pronunciation": "dess-par-thee'-to",
+        "partOfSpeech": "ad.",
+        "englishTranslation": "very leisurely: very slowly."
+      },
+      {
+        "headword": "Despacho",
+        "pronunciation": "dess-par'-cho",
+        "partOfSpeech": "m.",
+        "englishTranslation": "expedient: dispatch."
+      },
+      {
+        "headword": "Despechar",
+        "pronunciation": "dess-pay-char'",
+        "partOfSpeech": "v.",
+        "englishTranslation": "to fret: enrage."
+      },
+      {
+        "headword": "Despecho",
+        "pronunciation": "dess-pay'-cho",
+        "partOfSpeech": "m.",
+        "englishTranslation": "indignation."
+      },
+      {
+        "headword": "Despedida",
+        "pronunciation": "dess-pay-dee'-dar",
+        "partOfSpeech": "f.",
+        "englishTranslation": "farewell."
+      },
+      {
+        "headword": "Despedir",
+        "pronunciation": "dess-pay-deer'",
+        "partOfSpeech": "v.",
+        "englishTranslation": "to discharge: dismiss: emit."
+      },
+      {
+        "headword": "Despender",
+        "pronunciation": "dess-pen-dayr'",
+        "partOfSpeech": "v.",
+        "englishTranslation": "to spend: squander."
+      },
+      {
+        "headword": "Despensa",
+        "pronunciation": "dess-pen'-sar",
+        "partOfSpeech": "f.",
+        "englishTranslation": "pantry: larder."
+      },
+      {
+        "headword": "Despeñadero",
+        "pronunciation": "dess-payn-yar-day'-ro",
+        "partOfSpeech": "m.",
+        "englishTranslation": "precipice."
+      },
+      {
+        "headword": "Despertar",
+        "pronunciation": "dess-payr-tar'",
+        "partOfSpeech": "v.",
+        "englishTranslation": "to wake up."
+      },
+      {
+        "headword": "Despiadado",
+        "pronunciation": "dess-pee-r-dar'-do",
+        "partOfSpeech": "a.",
+        "englishTranslation": "unmerciful."
+      },
+      {
+        "headword": "Despicar",
+        "pronunciation": "dess-pee-kar'",
+        "partOfSpeech": "v.",
+        "englishTranslation": "to gratify."
+      },
+      {
+        "headword": "Despierto",
+        "pronunciation": "dess-pee-ayr'-to",
+        "partOfSpeech": "a.",
+        "englishTranslation": "awake: vigilant."
+      },
+      {
+        "headword": "Despilfarro",
+        "pronunciation": "dess-peel-far'-ro",
+        "partOfSpeech": "m.",
+        "englishTranslation": "mismanagement."
+      },
+      {
+        "headword": "Despinzas",
+        "pronunciation": "dess-peen'-thas",
+        "partOfSpeech": "f. pl.",
+        "englishTranslation": "tweezers."
+      },
+      {
+        "headword": "Despique",
+        "pronunciation": "dess-pee'-kay",
+        "partOfSpeech": "m.",
+        "englishTranslation": "revenge."
+      },
+      {
+        "headword": "Desplacer",
+        "pronunciation": "dess-plar-thayr'",
+        "partOfSpeech": "v.",
+        "englishTranslation": "to displease."
+      },
+      {
+        "headword": "Desprecio",
+        "pronunciation": "dess-pray'-thee-o",
+        "partOfSpeech": "m.",
+        "englishTranslation": "contempt: scorn."
+      },
+      {
+        "headword": "Desprender",
+        "pronunciation": "dess-pren-dayr'",
+        "partOfSpeech": "v.",
+        "englishTranslation": "to unfasten: loosen."
+      },
+      {
+        "headword": "Despropósito",
+        "pronunciation": "dess-pro-po'-sec-to",
+        "partOfSpeech": "m.",
+        "englishTranslation": "absurdity."
+      },
+      {
+        "headword": "Después",
+        "pronunciation": "dess-poo-ess'",
+        "partOfSpeech": "ad.",
+        "englishTranslation": "after: afterwards."
+      },
+      {
+        "headword": "Despumar",
+        "pronunciation": "dess-poo-mar'",
+        "partOfSpeech": "v.",
+        "englishTranslation": "to skim."
+      },
+      {
+        "headword": "Despuntar",
+        "pronunciation": "dess-poon-tar'",
+        "partOfSpeech": "v.",
+        "englishTranslation": "to blunt."
+      },
+      {
+        "headword": "Destajo",
+        "pronunciation": "dess-tar'-ho",
+        "partOfSpeech": "m.",
+        "englishTranslation": "job: work."
+      },
+      {
+        "headword": "Destello",
+        "pronunciation": "dess-tayl'-yo",
+        "partOfSpeech": "m.",
+        "englishTranslation": "sparkle: glitter."
+      },
+      {
+        "headword": "Destilar",
+        "pronunciation": "dess-teel-r'",
+        "partOfSpeech": "v.",
+        "englishTranslation": "to distil."
+      },
+      {
+        "headword": "Destilatorio",
+        "pronunciation": "dess-teel-r-tor'-ee-o",
+        "partOfSpeech": "m.",
+        "englishTranslation": "distillery."
+      },
+      {
+        "headword": "Destino",
+        "pronunciation": "dess-tee'-no",
+        "partOfSpeech": "m.",
+        "englishTranslation": "destiny: fate."
+      },
+      {
+        "headword": "Destornillador",
+        "pronunciation": "dess-tor-neel-yar-dor'",
+        "partOfSpeech": "m.",
+        "englishTranslation": "screwdriver."
+      },
+      {
+        "headword": "Destroncar",
+        "pronunciation": "dess-tron-kar'",
+        "partOfSpeech": "v.",
+        "englishTranslation": "to cut off: lop off: maim."
+      },
+      {
+        "headword": "Destrucción",
+        "pronunciation": "dess-trook-thee-on'",
+        "partOfSpeech": "f.",
+        "englishTranslation": "destruction."
+      },
+      {
+        "headword": "Destruir",
+        "pronunciation": "dess-troo-eer'",
+        "partOfSpeech": "v.",
+        "englishTranslation": "to destroy."
+      },
+      {
+        "headword": "Desvalido",
+        "pronunciation": "dess-var-lee'-do",
+        "partOfSpeech": "a.",
+        "englishTranslation": "destitute: helpless."
+      },
+      {
+        "headword": "Desván",
+        "pronunciation": "dess-varn'",
+        "partOfSpeech": "m.",
+        "englishTranslation": "garret."
+      },
+      {
+        "headword": "Desvanecimiento",
+        "pronunciation": "dess-var-nay-thee-mee-n'-to",
+        "partOfSpeech": "m.",
+        "englishTranslation": "giddiness."
+      },
+      {
+        "headword": "Desvario",
+        "pronunciation": "dess-var-ee'-o",
+        "partOfSpeech": "m.",
+        "englishTranslation": "delirium."
+      },
+      {
+        "headword": "Desvelar",
+        "pronunciation": "dess-vay-lar'",
+        "partOfSpeech": "v.",
+        "englishTranslation": "to keep awake."
+      },
+      {
+        "headword": "Desvelo",
+        "pronunciation": "dess-vee'-lo",
+        "partOfSpeech": "m.",
+        "englishTranslation": "want of sleep."
+      },
+      {
+        "headword": "Desventaja",
+        "pronunciation": "dess-ven-tar'-har",
+        "partOfSpeech": "f.",
+        "englishTranslation": "disadvantage."
+      },
+      {
+        "headword": "Desventura",
+        "pronunciation": "dess-ven-too'-rar",
+        "partOfSpeech": "f.",
+        "englishTranslation": "misfortune."
+      },
+      {
+        "headword": "Desvergonzado",
+        "pronunciation": "dess-vayr-gon-thar'-do",
+        "partOfSpeech": "a.",
+        "englishTranslation": "impudent: shameless."
+      },
+      {
+        "headword": "Detallista",
+        "pronunciation": "day-tarl-yiss'-tar",
+        "partOfSpeech": "f.",
+        "englishTranslation": "retailer."
+      },
+      {
+        "headword": "Detener",
+        "pronunciation": "day-tay-nayr'",
+        "partOfSpeech": "v.",
+        "englishTranslation": "to detain."
+      },
+      {
+        "headword": "Deteriorar",
+        "pronunciation": "day-tay-ree-o-rar'",
+        "partOfSpeech": "v.",
+        "englishTranslation": "to deteriorate."
+      },
+      {
+        "headword": "Detestar",
+        "pronunciation": "day-tess-tar'",
+        "partOfSpeech": "v.",
+        "englishTranslation": "to detest."
+      },
+      {
+        "headword": "Detrás",
+        "pronunciation": "day-trars'",
+        "partOfSpeech": "ad.",
+        "englishTranslation": "after: behind: behind one's back."
+      },
+      {
+        "headword": "Deuda",
+        "pronunciation": "day'-oo-dar",
+        "partOfSpeech": "f.",
+        "englishTranslation": "debt: fault."
+      },
+      {
+        "headword": "Deudo",
+        "pronunciation": "day'-oo-do",
+        "partOfSpeech": "m.",
+        "englishTranslation": "parent."
+      },
+      {
+        "headword": "Deudor",
+        "pronunciation": "day-oo-dor'",
+        "partOfSpeech": "m. & f.",
+        "englishTranslation": "debtor."
+      },
+      {
+        "headword": "Devanear",
+        "pronunciation": "day-var-nay-r'",
+        "partOfSpeech": "v.",
+        "englishTranslation": "to rave: talk nonsense."
+      },
+      {
+        "headword": "Devengar",
+        "pronunciation": "day-vayn-gar'",
+        "partOfSpeech": "v.",
+        "englishTranslation": "to earn."
+      },
+      {
+        "headword": "Devoción",
+        "pronunciation": "day-vo-thee-on'",
+        "partOfSpeech": "f.",
+        "englishTranslation": "devotion."
+      },
+      {
+        "headword": "Devorar",
+        "pronunciation": "day-vor-r'",
+        "partOfSpeech": "v.",
+        "englishTranslation": "to devour."
+      },
+      {
+        "headword": "Devuelto",
+        "pronunciation": "day-voo-ayl'-to",
+        "partOfSpeech": "a.",
+        "englishTranslation": "returned."
+      },
+      {
+        "headword": "Dia",
+        "pronunciation": "dee'-r",
+        "partOfSpeech": "f.",
+        "englishTranslation": "day."
+      },
+      {
+        "headword": "Diablo",
+        "pronunciation": "dee-r'-blo",
+        "partOfSpeech": "m.",
+        "englishTranslation": "devil."
+      },
+      {
+        "headword": "Dia de años",
+        "pronunciation": "dee'-r: day: arn'-yos",
+        "partOfSpeech": "f.",
+        "englishTranslation": "birthday."
+      },
+      {
+        "headword": "Diáfano",
+        "pronunciation": "dee-r'-far-no",
+        "partOfSpeech": "a.",
+        "englishTranslation": "transparent."
+      },
+      {
+        "headword": "Diálogo",
+        "pronunciation": "dee-r'-lo-go",
+        "partOfSpeech": "m.",
+        "englishTranslation": "dialogue."
+      },
+      {
+        "headword": "Diamante",
+        "pronunciation": "dee-r-marn'-tay",
+        "partOfSpeech": "m.",
+        "englishTranslation": "diamond."
+      },
+      {
+        "headword": "Diámetro",
+        "pronunciation": "dee-r'-mayt-ro",
+        "partOfSpeech": "m.",
+        "englishTranslation": "diameter."
+      },
+      {
+        "headword": "Diantre",
+        "pronunciation": "dee - arnt' - ray",
+        "partOfSpeech": "m.",
+        "englishTranslation": "deuce: devil."
+      },
+      {
+        "headword": "Diario",
+        "pronunciation": "de-r'-ree-o",
+        "partOfSpeech": "m.",
+        "englishTranslation": "diary: journal: daily paper."
+      },
+      {
+        "headword": "Diarrea",
+        "pronunciation": "dee - r - ray' - ar",
+        "partOfSpeech": "f.",
+        "englishTranslation": "diarrhea."
+      },
+      {
+        "headword": "Dibujar",
+        "pronunciation": "dee-boo-har'",
+        "partOfSpeech": "v.",
+        "englishTranslation": "to draw: design."
+      },
+      {
+        "headword": "Dibujo",
+        "pronunciation": "dee-boo'-ho",
+        "partOfSpeech": "m.",
+        "englishTranslation": "drawing: design: sketch."
+      },
+      {
+        "headword": "Diccionario",
+        "pronunciation": "deek-thee-o-nar'-ree-o",
+        "partOfSpeech": "m.",
+        "englishTranslation": "dictionary."
+      },
+      {
+        "headword": "Diciembre",
+        "pronunciation": "de-thee-m'-bray",
+        "partOfSpeech": "m.",
+        "englishTranslation": "December."
+      },
+      {
+        "headword": "Dictador",
+        "pronunciation": "deek-tar-dor'",
+        "partOfSpeech": "m.",
+        "englishTranslation": "dictator."
+      },
+      {
+        "headword": "Dictamen",
+        "pronunciation": "deek-tar'-men",
+        "partOfSpeech": "m.",
+        "englishTranslation": "opinion: suggestion."
+      },
+      {
+        "headword": "Dicterio",
+        "pronunciation": "deek-tayr'-ee-o",
+        "partOfSpeech": "m.",
+        "englishTranslation": "insult: sarcasm."
+      },
+      {
+        "headword": "Dicha",
+        "pronunciation": "dee'-char",
+        "partOfSpeech": "f.",
+        "englishTranslation": "happiness."
+      },
+      {
+        "headword": "Diente",
+        "pronunciation": "dee-n'-tay",
+        "partOfSpeech": "m.",
+        "englishTranslation": "tooth: fang: tusk."
+      },
+      {
+        "headword": "Diestra",
+        "pronunciation": "dee-ess'-trar",
+        "partOfSpeech": "f.",
+        "englishTranslation": "right hand."
+      },
+      {
+        "headword": "Dieta",
+        "pronunciation": "dee-ay'-tar",
+        "partOfSpeech": "f.",
+        "englishTranslation": "diet."
+      },
+      {
+        "headword": "Diez",
+        "pronunciation": "dee'-eth",
+        "partOfSpeech": "a. & m.",
+        "englishTranslation": "ten."
+      },
+      {
+        "headword": "Difamar",
+        "pronunciation": "dee-far-mar'",
+        "partOfSpeech": "v.",
+        "englishTranslation": "to defame: libel."
+      },
+      {
+        "headword": "Diferencia",
+        "pronunciation": "dee-fay-ren-thee'-r",
+        "partOfSpeech": "f.",
+        "englishTranslation": "difference."
+      },
+      {
+        "headword": "Dificil",
+        "pronunciation": "dee - fee' - theel",
+        "partOfSpeech": "a.",
+        "englishTranslation": "difficult."
+      },
+      {
+        "headword": "Difidente",
+        "pronunciation": "dee-fee-den'-tay",
+        "partOfSpeech": "a.",
+        "englishTranslation": "diffident."
+      },
+      {
+        "headword": "Difunto",
+        "pronunciation": "dee-foon'-to",
+        "partOfSpeech": "a.",
+        "englishTranslation": "dead: deceased."
+      },
+      {
+        "headword": "Digerible",
+        "pronunciation": "dee-hay-ree'-blay",
+        "partOfSpeech": "a.",
+        "englishTranslation": "digestible."
+      },
+      {
+        "headword": "Digerir",
+        "pronunciation": "dee-hay-reer'",
+        "partOfSpeech": "v.",
+        "englishTranslation": "to digest."
+      },
+      {
+        "headword": "Digestión",
+        "pronunciation": "dee-hays-tee-on'",
+        "partOfSpeech": "f.",
+        "englishTranslation": "digestion."
+      },
+      {
+        "headword": "Dignarse",
+        "pronunciation": "deeg-nar'-say",
+        "partOfSpeech": "v.",
+        "englishTranslation": "to condescend: deign."
+      },
+      {
+        "headword": "Dignidad",
+        "pronunciation": "deeg-nee-dahd'",
+        "partOfSpeech": "f.",
+        "englishTranslation": "dignity."
+      },
+      {
+        "headword": "Digno",
+        "pronunciation": "deeg'-no",
+        "partOfSpeech": "a.",
+        "englishTranslation": "worthy."
+      },
+      {
+        "headword": "Dilación",
+        "pronunciation": "dee-lar-thee-on'",
+        "partOfSpeech": "f.",
+        "englishTranslation": "delay."
+      },
+      {
+        "headword": "Dilatado",
+        "pronunciation": "dee-lar-tar'-do",
+        "partOfSpeech": "a.",
+        "englishTranslation": "numerous: spacious: large."
+      },
+      {
+        "headword": "Dilatar",
+        "pronunciation": "dee-lar-tar'",
+        "partOfSpeech": "v.",
+        "englishTranslation": "to expand: dilate."
+      },
+      {
+        "headword": "Dilecto",
+        "pronunciation": "dee-lek'-to",
+        "partOfSpeech": "a.",
+        "englishTranslation": "beloved: loved."
+      },
+      {
+        "headword": "Diligencia",
+        "pronunciation": "dee-lee-hen-thee'-r",
+        "partOfSpeech": "f.",
+        "englishTranslation": "diligence."
+      },
+      {
+        "headword": "Dilucidar",
+        "pronunciation": "dee-loo-thee-dar'",
+        "partOfSpeech": "v.",
+        "englishTranslation": "to explain: elucidate."
+      },
+      {
+        "headword": "Diluvio",
+        "pronunciation": "dee-loo-vee'-o",
+        "partOfSpeech": "m.",
+        "englishTranslation": "deluge: inundation."
+      },
+      {
+        "headword": "Diminuto",
+        "pronunciation": "dee-mee-noo'-to",
+        "partOfSpeech": "a.",
+        "englishTranslation": "defective: faulty."
+      },
+      {
+        "headword": "Dinero",
+        "pronunciation": "dee-nay'-ro",
+        "partOfSpeech": "m.",
+        "englishTranslation": "coin: coinage: money."
+      },
+      {
+        "headword": "Dios",
+        "pronunciation": "dee'-os",
+        "partOfSpeech": "m.",
+        "englishTranslation": "God."
+      },
+      {
+        "headword": "Diosa",
+        "pronunciation": "dee-o'-sar",
+        "partOfSpeech": "f.",
+        "englishTranslation": "goddess."
+      },
+      {
+        "headword": "Diputado",
+        "pronunciation": "dee-poo-tar'-do",
+        "partOfSpeech": "m.",
+        "englishTranslation": "deputy."
+      },
+      {
+        "headword": "Directo",
+        "pronunciation": "dee-rek'-to",
+        "partOfSpeech": "a.",
+        "englishTranslation": "straight: direct."
+      },
+      {
+        "headword": "Dirigir",
+        "pronunciation": "dee-ree-heer'",
+        "partOfSpeech": "v.",
+        "englishTranslation": "to conduct: direct."
+      },
+      {
+        "headword": "Dirimir",
+        "pronunciation": "dee-ree-meer'",
+        "partOfSpeech": "v.",
+        "englishTranslation": "to dissolve."
+      },
+      {
+        "headword": "Discernir",
+        "pronunciation": "dess-thayr-neer'",
+        "partOfSpeech": "v.",
+        "englishTranslation": "to discern: distinguish."
+      },
+      {
+        "headword": "Discípulo",
+        "pronunciation": "dess-thee-poo'-lo",
+        "partOfSpeech": null,
+        "englishTranslation": "scholar: pupil."
+      },
+      {
+        "headword": "Disco",
+        "pronunciation": "dees'-ko",
+        "partOfSpeech": "m.",
+        "englishTranslation": "disc."
+      },
+      {
+        "headword": "Discrepar",
+        "pronunciation": "dess-kray-par'",
+        "partOfSpeech": "v.",
+        "englishTranslation": "to differ."
+      },
+      {
+        "headword": "Disculpa",
+        "pronunciation": "dees-kool'-par",
+        "partOfSpeech": "f.",
+        "englishTranslation": "apology: excuse."
+      },
+      {
+        "headword": "Discutir",
+        "pronunciation": "dees-koot-eer'",
+        "partOfSpeech": "v.",
+        "englishTranslation": "to discuss."
+      },
+      {
+        "headword": "Disecar",
+        "pronunciation": "dee-say-kar'",
+        "partOfSpeech": "v.",
+        "englishTranslation": "to dissect."
+      },
+      {
+        "headword": "Diseñar",
+        "pronunciation": "dee-sayn-yar'",
+        "partOfSpeech": "v.",
+        "englishTranslation": "to draw: design."
+      },
+      {
+        "headword": "Disfraz",
+        "pronunciation": "dees-frath'",
+        "partOfSpeech": "m.",
+        "englishTranslation": "disguise: mask."
+      },
+      {
+        "headword": "Disfrazar",
+        "pronunciation": "dees-frath-r'",
+        "partOfSpeech": "v.",
+        "englishTranslation": "to disguise."
+      },
+      {
+        "headword": "Disfrutar",
+        "pronunciation": "dees-froo-tar'",
+        "partOfSpeech": "v.",
+        "englishTranslation": "to enjoy."
+      },
+      {
+        "headword": "Disgustar",
+        "pronunciation": "dees-goos-tar'",
+        "partOfSpeech": "v.",
+        "englishTranslation": "to disgust: offend."
+      },
+      {
+        "headword": "Disimulado",
+        "pronunciation": "dee-see-moo-lar'-do",
+        "partOfSpeech": "a.",
+        "englishTranslation": "reserved."
+      },
+      {
+        "headword": "Disipado",
+        "pronunciation": "dee-see-par'-do",
+        "partOfSpeech": "a.",
+        "englishTranslation": "lavish: wasteful."
+      },
+      {
+        "headword": "Dislate",
+        "pronunciation": "dees-lar'-tay",
+        "partOfSpeech": "m.",
+        "englishTranslation": "absurdity: nonsense."
+      },
+      {
+        "headword": "Disminuir",
+        "pronunciation": "dees-meen-oo-ce-r'",
+        "partOfSpeech": "v.",
+        "englishTranslation": "to diminish."
+      },
+      {
+        "headword": "Dispar",
+        "pronunciation": "dees-par'",
+        "partOfSpeech": "a.",
+        "englishTranslation": "unequal: unlike."
+      },
+      {
+        "headword": "Disparar",
+        "pronunciation": "dees-par-r'",
+        "partOfSpeech": "v.",
+        "englishTranslation": "to shoot: fire a gun."
+      },
+      {
+        "headword": "Disparo",
+        "pronunciation": "dees-par'-o",
+        "partOfSpeech": "m.",
+        "englishTranslation": "discharge: explosion."
+      },
+      {
+        "headword": "Dispendioso",
+        "pronunciation": "dees-pen-dee-o'-so",
+        "partOfSpeech": "a.",
+        "englishTranslation": "costly."
+      },
+      {
+        "headword": "Displicente",
+        "pronunciation": "dees-plee-then'-tay",
+        "partOfSpeech": "a.",
+        "englishTranslation": "displeasing: offensive."
+      },
+      {
+        "headword": "Distancia",
+        "pronunciation": "dees-tarn-thee'-r",
+        "partOfSpeech": "f.",
+        "englishTranslation": "distance."
+      },
+      {
+        "headword": "Distante",
+        "pronunciation": "dees-tarn'-tay",
+        "partOfSpeech": "a.",
+        "englishTranslation": "distant: far off."
+      },
+      {
+        "headword": "Distinguido",
+        "pronunciation": "dees-teen-goo-ee'-do",
+        "partOfSpeech": "a.",
+        "englishTranslation": "distinguished."
+      },
+      {
+        "headword": "Distinto",
+        "pronunciation": "dees-teen'-to",
+        "partOfSpeech": "a.",
+        "englishTranslation": "distinct."
+      },
+      {
+        "headword": "Distraído",
+        "pronunciation": "dees-trar-ee'-do",
+        "partOfSpeech": "a.",
+        "englishTranslation": "absent."
+      },
+      {
+        "headword": "Distribuir",
+        "pronunciation": "dees-tree-boo-eer'",
+        "partOfSpeech": "v.",
+        "englishTranslation": "to distribute."
+      },
+      {
+        "headword": "Disuadir",
+        "pronunciation": "dees-oo-r-deer'",
+        "partOfSpeech": "v.",
+        "englishTranslation": "to dissuade."
+      },
+      {
+        "headword": "Diurno",
+        "pronunciation": "dee-oor'-no",
+        "partOfSpeech": "m.; m. pl.",
+        "englishTranslation": "prayer-book; butterflies."
+      },
+      {
+        "headword": "Divagación",
+        "pronunciation": "dee-var-gar-thee-on'",
+        "partOfSpeech": "f.",
+        "englishTranslation": "wandering."
+      },
+      {
+        "headword": "Divagar",
+        "pronunciation": "dee-var-gar'",
+        "partOfSpeech": "v.",
+        "englishTranslation": "to ramble: roam."
+      },
+      {
+        "headword": "Diversión",
+        "pronunciation": "dee-vayr-see-on'",
+        "partOfSpeech": "f.",
+        "englishTranslation": "sport: amusement."
+      },
+      {
+        "headword": "Diverso",
+        "pronunciation": "dee-vayr'-so",
+        "partOfSpeech": "a.",
+        "englishTranslation": "different: diverse."
+      },
+      {
+        "headword": "Divertido",
+        "pronunciation": "dee-vayr-tee'-do",
+        "partOfSpeech": "a.",
+        "englishTranslation": "amused: merry."
+      },
+      {
+        "headword": "Divertir",
+        "pronunciation": "dee-vayr-teer'",
+        "partOfSpeech": "v.",
+        "englishTranslation": "to turn aside: amuse: entertain."
+      },
+      {
+        "headword": "Dividendo",
+        "pronunciation": "dee-vee-den'-do",
+        "partOfSpeech": "m.",
+        "englishTranslation": "dividend (arith: & shares)."
+      },
+      {
+        "headword": "Dividir",
+        "pronunciation": "dee-vee-deer'",
+        "partOfSpeech": "v.",
+        "englishTranslation": "to divide: separate."
+      },
+      {
+        "headword": "Divieso",
+        "pronunciation": "dee-vee-ay'-so",
+        "partOfSpeech": "m.",
+        "englishTranslation": "boil."
+      },
+      {
+        "headword": "Divino",
+        "pronunciation": "dee-vee'-no",
+        "partOfSpeech": "a.",
+        "englishTranslation": "divine."
+      },
+      {
+        "headword": "Divisa",
+        "pronunciation": "dee-vee'-sa",
+        "partOfSpeech": "f.",
+        "englishTranslation": "device: badge: motto."
+      },
+      {
+        "headword": "División",
+        "pronunciation": "dee-vee-see-on'",
+        "partOfSpeech": "f.",
+        "englishTranslation": "division."
+      },
+      {
+        "headword": "Divorcio",
+        "pronunciation": "dee-vor'-thee-o",
+        "partOfSpeech": "m.",
+        "englishTranslation": "divorce."
+      },
+      {
+        "headword": "Divulgación",
+        "pronunciation": "dee-vool-gar-thee-on'",
+        "partOfSpeech": "f.",
+        "englishTranslation": "publication."
+      },
+      {
+        "headword": "Dobladillo",
+        "pronunciation": "do-blar-deel'-yo",
+        "partOfSpeech": "m.",
+        "englishTranslation": "border: hem."
+      },
+      {
+        "headword": "Doblado",
+        "pronunciation": "do-blar'-do",
+        "partOfSpeech": "a.",
+        "englishTranslation": "strong: forceful: robust."
+      },
+      {
+        "headword": "Dobladura",
+        "pronunciation": "do-blar-doo'-rar",
+        "partOfSpeech": "f.",
+        "englishTranslation": "crease: fold."
+      },
+      {
+        "headword": "Doblar",
+        "pronunciation": "do-blar'",
+        "partOfSpeech": "v.",
+        "englishTranslation": "to crease: double: fold."
+      },
+      {
+        "headword": "Doble",
+        "pronunciation": "do'-blay",
+        "partOfSpeech": "a.",
+        "englishTranslation": "double: duplicate."
+      },
+      {
+        "headword": "Doblegable",
+        "pronunciation": "do-blay-gar'-blay",
+        "partOfSpeech": "a.",
+        "englishTranslation": "pliable."
+      },
+      {
+        "headword": "Doblegar",
+        "pronunciation": "do-blay-gar'",
+        "partOfSpeech": "v.",
+        "englishTranslation": "to bend."
+      },
+      {
+        "headword": "Doblemente",
+        "pronunciation": "do-blay-mayn'-tee",
+        "partOfSpeech": "ad.",
+        "englishTranslation": "artfully: deceitfully."
+      },
+      {
+        "headword": "Doce",
+        "pronunciation": "do-thay'",
+        "partOfSpeech": "a. & m.",
+        "englishTranslation": "twelve."
+      },
+      {
+        "headword": "Docena",
+        "pronunciation": "do-thay'-nar",
+        "partOfSpeech": "f.",
+        "englishTranslation": "dozen."
+      },
+      {
+        "headword": "Docente",
+        "pronunciation": "do-thayn'-tay",
+        "partOfSpeech": "a.",
+        "englishTranslation": "teaching."
+      },
+      {
+        "headword": "Dócil",
+        "pronunciation": "do'-thill",
+        "partOfSpeech": "a.",
+        "englishTranslation": "docile: gentle."
+      },
+      {
+        "headword": "Docto",
+        "pronunciation": "dok'-to",
+        "partOfSpeech": "a.",
+        "englishTranslation": "learned."
+      },
+      {
+        "headword": "Dogo",
+        "pronunciation": "do'-go",
+        "partOfSpeech": "m.",
+        "englishTranslation": "bulldog."
+      },
+      {
+        "headword": "Dolencia",
+        "pronunciation": "do-layn-thee'-r",
+        "partOfSpeech": "f.",
+        "englishTranslation": "disease."
+      },
+      {
+        "headword": "Doler",
+        "pronunciation": "do-layr'",
+        "partOfSpeech": "v.",
+        "englishTranslation": "to suffer pain."
+      },
+      {
+        "headword": "Doliente",
+        "pronunciation": "do-lee-n'-tay",
+        "partOfSpeech": "a.",
+        "englishTranslation": "aching: suffering."
+      },
+      {
+        "headword": "Dolo",
+        "pronunciation": "do'-lo",
+        "partOfSpeech": "m.",
+        "englishTranslation": "deceit: fraud."
+      },
+      {
+        "headword": "Doloroso",
+        "pronunciation": "do-lo-ro'-so",
+        "partOfSpeech": "a.",
+        "englishTranslation": "dismal: sorrowful."
+      },
+      {
+        "headword": "Doloso",
+        "pronunciation": "do-lo'-so",
+        "partOfSpeech": "a.",
+        "englishTranslation": "deceitful."
+      },
+      {
+        "headword": "Domar",
+        "pronunciation": "do-mar'",
+        "partOfSpeech": "v.",
+        "englishTranslation": "to tame: subdue."
+      },
+      {
+        "headword": "Doméstico",
+        "pronunciation": "do-mess-tee'-ko",
+        "partOfSpeech": "m.",
+        "englishTranslation": "domestic: menial."
+      },
+      {
+        "headword": "Domiciliarse",
+        "pronunciation": "do-mee-thee-lee-r'-say",
+        "partOfSpeech": "v.",
+        "englishTranslation": "to take up residence."
+      },
+      {
+        "headword": "Domicilio",
+        "pronunciation": "do-mee-thee'-lee-o",
+        "partOfSpeech": "m.",
+        "englishTranslation": "domicile: home."
+      },
+      {
+        "headword": "Dominación",
+        "pronunciation": "do-mee-nar-thee-on'",
+        "partOfSpeech": "f.",
+        "englishTranslation": "dominion: authority."
+      },
+      {
+        "headword": "Dominar",
+        "pronunciation": "do-mee-nar'",
+        "partOfSpeech": "v.",
+        "englishTranslation": "to domineer: bully."
+      },
+      {
+        "headword": "Domingo",
+        "pronunciation": "do-meen'-go",
+        "partOfSpeech": "m.",
+        "englishTranslation": "Sunday."
+      },
+      {
+        "headword": "Don",
+        "pronunciation": "don",
+        "partOfSpeech": "m.",
+        "englishTranslation": "donation: gift: present: Spanish title."
+      },
+      {
+        "headword": "Donación",
+        "pronunciation": "don-r-thee-on'",
+        "partOfSpeech": "f.",
+        "englishTranslation": "donation: gift."
+      },
+      {
+        "headword": "Donaire",
+        "pronunciation": "do-nar'-ee-ray",
+        "partOfSpeech": "m.",
+        "englishTranslation": "elegance: grace."
+      },
+      {
+        "headword": "Doncella",
+        "pronunciation": "don-thell'-yar",
+        "partOfSpeech": "f.",
+        "englishTranslation": "maiden: virgin."
+      },
+      {
+        "headword": "Donde",
+        "pronunciation": "don'-day",
+        "partOfSpeech": "ad.",
+        "englishTranslation": "where."
+      },
+      {
+        "headword": "Dónde",
+        "pronunciation": "don'-day",
+        "partOfSpeech": "ad.",
+        "englishTranslation": "for what reason: by which way."
+      },
+      {
+        "headword": "Doña",
+        "pronunciation": "don'-yar",
+        "partOfSpeech": "f.",
+        "englishTranslation": "lady: mistress."
+      },
+      {
+        "headword": "Doquier",
+        "pronunciation": "do-kee-er'",
+        "partOfSpeech": "ad.",
+        "englishTranslation": "anywhere."
+      },
+      {
+        "headword": "Dorado",
+        "pronunciation": "do-rar'-do",
+        "partOfSpeech": "a.",
+        "englishTranslation": "gilt."
+      },
+      {
+        "headword": "Dormidero",
+        "pronunciation": "dor-mee-day'-ro",
+        "partOfSpeech": "a.",
+        "englishTranslation": "sleepy."
+      },
+      {
+        "headword": "Dormilón",
+        "pronunciation": "dor-meel-on'",
+        "partOfSpeech": "a.",
+        "englishTranslation": "dull: sleepy."
+      },
+      {
+        "headword": "Dormir",
+        "pronunciation": "dor-meer'",
+        "partOfSpeech": "v.",
+        "englishTranslation": "to sleep."
+      },
+      {
+        "headword": "Dormitar",
+        "pronunciation": "dor-mee-tar'",
+        "partOfSpeech": "v.",
+        "englishTranslation": "to doze."
+      },
+      {
+        "headword": "Dorso",
+        "pronunciation": "dor'-so",
+        "partOfSpeech": "m.",
+        "englishTranslation": "back: backbone."
+      },
+      {
+        "headword": "Dos",
+        "pronunciation": "doss",
+        "partOfSpeech": "a. & m.",
+        "englishTranslation": "two."
+      },
+      {
+        "headword": "Dosis",
+        "pronunciation": "do'-sees",
+        "partOfSpeech": "f.",
+        "englishTranslation": "dose."
+      },
+      {
+        "headword": "Dote",
+        "pronunciation": "do'-tay",
+        "partOfSpeech": "m. & f.",
+        "englishTranslation": "dowry."
+      },
+      {
+        "headword": "Dragar",
+        "pronunciation": "drar-gar'",
+        "partOfSpeech": "v.",
+        "englishTranslation": "to dredge."
+      },
+      {
+        "headword": "Dramático",
+        "pronunciation": "drar-mar'-tee-ko",
+        "partOfSpeech": "a.",
+        "englishTranslation": "dramatic."
+      },
+      {
+        "headword": "Dramaturgo",
+        "pronunciation": "drar-mar-toor'-go",
+        "partOfSpeech": "m. & f.",
+        "englishTranslation": "playright: dramatist."
+      },
+      {
+        "headword": "Drenaje",
+        "pronunciation": "dray-nar'-hay",
+        "partOfSpeech": "m.",
+        "englishTranslation": "drainage."
+      },
+      {
+        "headword": "Droga",
+        "pronunciation": "dro'-gar",
+        "partOfSpeech": "f.",
+        "englishTranslation": "drug: medicine."
+      },
+      {
+        "headword": "Droguero",
+        "pronunciation": "dro-goo-er'-o",
+        "partOfSpeech": "m.",
+        "englishTranslation": "druggist."
+      },
+      {
+        "headword": "Dubitativo",
+        "pronunciation": "doo-bee-tar-tee'-vo",
+        "partOfSpeech": "a.",
+        "englishTranslation": "doubtful: dubious."
+      },
+      {
+        "headword": "Ducha",
+        "pronunciation": "doo'-char",
+        "partOfSpeech": "f.",
+        "englishTranslation": "shower-bath."
+      },
+      {
+        "headword": "Ducho",
+        "pronunciation": "doo'-cho",
+        "partOfSpeech": "a.",
+        "englishTranslation": "skilful: dexterous."
+      },
+      {
+        "headword": "Duda",
+        "pronunciation": "doo'-dar",
+        "partOfSpeech": "f.",
+        "englishTranslation": "doubt: hesitation."
+      },
+      {
+        "headword": "Dudar",
+        "pronunciation": "doo-dar'",
+        "partOfSpeech": "v.",
+        "englishTranslation": "to doubt: hesitate."
+      },
+      {
+        "headword": "Duelo",
+        "pronunciation": "doo-ayl'-o",
+        "partOfSpeech": "m.",
+        "englishTranslation": "duel."
+      },
+      {
+        "headword": "Duende",
+        "pronunciation": "doo-n'-day",
+        "partOfSpeech": "m.",
+        "englishTranslation": "ghost."
+      },
+      {
+        "headword": "Dueña",
+        "pronunciation": "doo-ayn'-yar",
+        "partOfSpeech": "f.",
+        "englishTranslation": "married lady: mistress."
+      },
+      {
+        "headword": "Dueño",
+        "pronunciation": "doo-ayn'-yo",
+        "partOfSpeech": "m.",
+        "englishTranslation": "master: owner."
+      },
+      {
+        "headword": "Dulce",
+        "pronunciation": "dool'-thay",
+        "partOfSpeech": "a.",
+        "englishTranslation": "sweet: soft: mild."
+      },
+      {
+        "headword": "Dulcificar",
+        "pronunciation": "dool-thee-fee-kar'",
+        "partOfSpeech": "v.",
+        "englishTranslation": "to sweeten."
+      },
+      {
+        "headword": "Dulcinea",
+        "pronunciation": "dool-thee-nay'-r",
+        "partOfSpeech": "f.",
+        "englishTranslation": "sweetheart."
+      },
+      {
+        "headword": "Dúplicado",
+        "pronunciation": "doop'-lee-kar-do",
+        "partOfSpeech": "m.",
+        "englishTranslation": "duplicate."
+      },
+      {
+        "headword": "Duplicar",
+        "pronunciation": "doop-lee-kar'",
+        "partOfSpeech": "v.",
+        "englishTranslation": "to double: repeat."
+      },
+      {
+        "headword": "Duque",
+        "pronunciation": "doo'-kay",
+        "partOfSpeech": "m.",
+        "englishTranslation": "duke."
+      },
+      {
+        "headword": "Duquesa",
+        "pronunciation": "doo-kay'-sar",
+        "partOfSpeech": "f.",
+        "englishTranslation": "duchess."
+      },
+      {
+        "headword": "Duradero",
+        "pronunciation": "doo-rar-day'-ro",
+        "partOfSpeech": "a.",
+        "englishTranslation": "lasting: durable."
+      },
+      {
+        "headword": "Durante",
+        "pronunciation": "doo-rarn'-tay",
+        "partOfSpeech": "prep. & ad.",
+        "englishTranslation": "during."
+      },
+      {
+        "headword": "Durar",
+        "pronunciation": "doo-rar'",
+        "partOfSpeech": "v.",
+        "englishTranslation": "to continue: last."
+      },
+      {
+        "headword": "Durazno",
+        "pronunciation": "doo-rarth'-no",
+        "partOfSpeech": "m.",
+        "englishTranslation": "peach."
+      },
+      {
+        "headword": "Dureza",
+        "pronunciation": "doo-ray'thar",
+        "partOfSpeech": "f.",
+        "englishTranslation": "hardness: firmness."
+      },
+      {
+        "headword": "Duro",
+        "pronunciation": "doo'-ro",
+        "partOfSpeech": "a.",
+        "englishTranslation": "hard: firm: solid."
+      },
+      {
+        "headword": "E",
+        "pronunciation": "ay",
+        "partOfSpeech": "conj.",
+        "englishTranslation": "and."
+      },
+      {
+        "headword": "Ea pues",
+        "pronunciation": "ay-ar': poo-ess",
+        "partOfSpeech": "interj.",
+        "englishTranslation": "well then."
+      },
+      {
+        "headword": "Ebanista",
+        "pronunciation": "ay-bar-nees'-tar",
+        "partOfSpeech": "m.",
+        "englishTranslation": "cabinet-maker."
+      },
+      {
+        "headword": "Ebano",
+        "pronunciation": "ay'-bar-no",
+        "partOfSpeech": "m.",
+        "englishTranslation": "ebony."
+      },
+      {
+        "headword": "Ebrio",
+        "pronunciation": "ay'-bree-o",
+        "partOfSpeech": "a.",
+        "englishTranslation": "inebriated: drunk."
+      },
+      {
+        "headword": "Ebúrneo",
+        "pronunciation": "ay-boor'-nay-o",
+        "partOfSpeech": "a.",
+        "englishTranslation": "ivory."
+      },
+      {
+        "headword": "Eco",
+        "pronunciation": "ay'-ko",
+        "partOfSpeech": "m.",
+        "englishTranslation": "echo."
+      },
+      {
+        "headword": "Economizar",
+        "pronunciation": "ay-ko-no-mee-thar'",
+        "partOfSpeech": "v.",
+        "englishTranslation": "to economise: save."
+      },
+      {
+        "headword": "Ecuador",
+        "pronunciation": "ay-koo-ar-dor'",
+        "partOfSpeech": "m.",
+        "englishTranslation": "Equator."
+      },
+      {
+        "headword": "Ecuménico",
+        "pronunciation": "ay-koo-may'-nee-ko",
+        "partOfSpeech": "a.",
+        "englishTranslation": "universal."
+      },
+      {
+        "headword": "Echar",
+        "pronunciation": "ay-char'",
+        "partOfSpeech": "v.",
+        "englishTranslation": "to cast: dart: pitch: throw."
+      },
+      {
+        "headword": "Edad",
+        "pronunciation": "ay-dahd'",
+        "partOfSpeech": "f.",
+        "englishTranslation": "age: era: time."
+      },
+      {
+        "headword": "Edén",
+        "pronunciation": "ay-dayn'",
+        "partOfSpeech": "m.",
+        "englishTranslation": "Eden: paradise."
+      },
+      {
+        "headword": "Edición",
+        "pronunciation": "ay-dee-thee-on'",
+        "partOfSpeech": "f.",
+        "englishTranslation": "edition: issue."
+      },
+      {
+        "headword": "Edicto",
+        "pronunciation": "ay-deek'-to",
+        "partOfSpeech": "m.",
+        "englishTranslation": "placard."
+      },
+      {
+        "headword": "Edificio",
+        "pronunciation": "ay-dee-fee'-thee-o",
+        "partOfSpeech": "m.",
+        "englishTranslation": "building: edifice."
+      },
+      {
+        "headword": "Editar",
+        "pronunciation": "ay-dee-tar'",
+        "partOfSpeech": "v.",
+        "englishTranslation": "to publish."
+      },
+      {
+        "headword": "Editor",
+        "pronunciation": "ay-dee-tor'",
+        "partOfSpeech": "m. & f.",
+        "englishTranslation": "editor: publisher."
+      },
+      {
+        "headword": "Educación",
+        "pronunciation": "ay-doo-kar-thee-on'",
+        "partOfSpeech": "f.",
+        "englishTranslation": "education: learning."
+      },
+      {
+        "headword": "Educando",
+        "pronunciation": "ay-doo-karn'-do",
+        "partOfSpeech": "m. & f.",
+        "englishTranslation": "pupil: student."
+      },
+      {
+        "headword": "Educar",
+        "pronunciation": "ay-doo-kar'",
+        "partOfSpeech": "v.",
+        "englishTranslation": "to educate."
+      },
+      {
+        "headword": "Efectividad",
+        "pronunciation": "ay-fek-tee-vee-dahd'",
+        "partOfSpeech": "f.",
+        "englishTranslation": "reality."
+      }
+    ]
+  },
+  "meta": {
+    "source": "existing_standardization",
+    "standardization_id": "DHfpPYNC",
+    "job_id": "3MPmII9I",
+    "timestamp": "2026-07-14T21:01:02.339000"
+  }
+}

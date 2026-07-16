@@ -1,0 +1,6970 @@
+{
+  "score": 0.9511408730158731,
+  "cost": 1.62090825,
+  "time_sec": 281.1542420387268,
+  "num_pages": 10,
+  "data": {
+    "vessels": [
+      {
+        "officialNumber": 126803,
+        "vesselName": "CINCINNATI..",
+        "rig": "St. s.",
+        "grossTonnage": 1255,
+        "netTonnage": 927,
+        "service": "Fer.",
+        "crew": 10,
+        "whenBuilt": 1891
+      },
+      {
+        "officialNumber": 207651,
+        "vesselName": "CINCINNATI.",
+        "rig": "St. s.",
+        "grossTonnage": 47,
+        "netTonnage": 32,
+        "service": "Fsh.",
+        "crew": 12,
+        "whenBuilt": 1910
+      },
+      {
+        "officialNumber": 126351,
+        "vesselName": "Cinderella.",
+        "rig": "Ga. s.",
+        "grossTonnage": 28,
+        "netTonnage": 27,
+        "service": "Pas.",
+        "crew": 1,
+        "whenBuilt": 1886
+      },
+      {
+        "officialNumber": 93030,
+        "vesselName": "Circe.",
+        "rig": "Ga. y.",
+        "grossTonnage": 18,
+        "netTonnage": 15,
+        "service": "Yct.",
+        "crew": 1,
+        "whenBuilt": 1900
+      },
+      {
+        "officialNumber": 205596,
+        "vesselName": "Circes.",
+        "rig": "Ga. s.",
+        "grossTonnage": 8,
+        "netTonnage": 8,
+        "service": "Pas.",
+        "crew": 1,
+        "whenBuilt": 1908
+      },
+      {
+        "officialNumber": 204947,
+        "vesselName": "Circle A",
+        "rig": "Ga. p.",
+        "grossTonnage": 13,
+        "netTonnage": 13,
+        "service": "Tow.",
+        "crew": 4,
+        "whenBuilt": 1908
+      },
+      {
+        "officialNumber": 208219,
+        "vesselName": "Cirkvenica.",
+        "rig": "Ga. s.",
+        "grossTonnage": 18,
+        "netTonnage": 12,
+        "service": "Fsh.",
+        "crew": 6,
+        "whenBuilt": 1910
+      },
+      {
+        "officialNumber": 210555,
+        "vesselName": "Cisco.",
+        "rig": "Ga. s.",
+        "grossTonnage": 10,
+        "netTonnage": 6,
+        "service": "Fsh.",
+        "crew": 4,
+        "whenBuilt": 1912
+      },
+      {
+        "officialNumber": 126787,
+        "vesselName": "CISCOE.",
+        "rig": "St. s.",
+        "grossTonnage": 15,
+        "netTonnage": 8,
+        "service": "Fsh.",
+        "crew": 3,
+        "whenBuilt": 1891
+      },
+      {
+        "officialNumber": 208123,
+        "vesselName": "City Ice Boat No. 1.",
+        "rig": "St. p.",
+        "grossTonnage": 381,
+        "netTonnage": 239,
+        "service": "Ice.",
+        "crew": 22,
+        "whenBuilt": 1866
+      },
+      {
+        "officialNumber": 208124,
+        "vesselName": "City Ice Boat No. 2.",
+        "rig": "St. p.",
+        "grossTonnage": 471,
+        "netTonnage": 296,
+        "service": "Ice.",
+        "crew": 22,
+        "whenBuilt": 1868
+      },
+      {
+        "officialNumber": 91867,
+        "vesselName": "City Point.",
+        "rig": "St. s.",
+        "grossTonnage": 141,
+        "netTonnage": 96,
+        "service": "Oys.",
+        "crew": 7,
+        "whenBuilt": 1886
+      },
+      {
+        "officialNumber": 204986,
+        "vesselName": "City Point",
+        "rig": "St. s.",
+        "grossTonnage": 18,
+        "netTonnage": 12,
+        "service": "Pas.",
+        "crew": 1,
+        "whenBuilt": 1900
+      },
+      {
+        "officialNumber": 127557,
+        "vesselName": "City St. Joseph.",
+        "rig": "St. p.",
+        "grossTonnage": 182,
+        "netTonnage": 182,
+        "service": "Pas.",
+        "crew": 31,
+        "whenBuilt": 1901
+      },
+      {
+        "officialNumber": 204401,
+        "vesselName": "City Two Harbors",
+        "rig": "Ga. s.",
+        "grossTonnage": 15,
+        "netTonnage": 7,
+        "service": "Frt.",
+        "crew": 2,
+        "whenBuilt": 1907
+      },
+      {
+        "officialNumber": 126974,
+        "vesselName": "CITY OF ALPENA II...O",
+        "rig": "St. p.",
+        "grossTonnage": 1735,
+        "netTonnage": 1282,
+        "service": "Pas.",
+        "crew": 85,
+        "whenBuilt": 1893
+      },
+      {
+        "officialNumber": 206462,
+        "vesselName": "City of Anacortes..",
+        "rig": "Ga. s.",
+        "grossTonnage": 23,
+        "netTonnage": 15,
+        "service": "Pas.",
+        "crew": 1,
+        "whenBuilt": 1909
+      },
+      {
+        "officialNumber": 203193,
+        "vesselName": "City of Angeles......",
+        "rig": "Ga. s.",
+        "grossTonnage": 258,
+        "netTonnage": 191,
+        "service": "Yct.",
+        "crew": 6,
+        "whenBuilt": 1906
+      },
+      {
+        "officialNumber": 211709,
+        "vesselName": "CITY OF ANNAPOLIS...O",
+        "rig": "St. s.",
+        "grossTonnage": 1923,
+        "netTonnage": 1127,
+        "service": "Pas.",
+        "crew": 40,
+        "whenBuilt": 1913
+      },
+      {
+        "officialNumber": 201103,
+        "vesselName": "CITY OF ATLANTA....",
+        "rig": "St. s.",
+        "grossTonnage": 5433,
+        "netTonnage": 4111,
+        "service": "Pas.",
+        "crew": 64,
+        "whenBuilt": 1904
+      },
+      {
+        "officialNumber": 125809,
+        "vesselName": "City of Augusta.",
+        "rig": "St. s.",
+        "grossTonnage": 2869,
+        "netTonnage": 1929,
+        "service": "Pas.",
+        "crew": 44,
+        "whenBuilt": 1880
+      },
+      {
+        "officialNumber": 202891,
+        "vesselName": "City of Augusta......",
+        "rig": "St. p.",
+        "grossTonnage": 330,
+        "netTonnage": 252,
+        "service": "Pas.",
+        "crew": 12,
+        "whenBuilt": 1906
+      },
+      {
+        "officialNumber": 208378,
+        "vesselName": "CITY OF BALTIMORE..O",
+        "rig": "St. s.",
+        "grossTonnage": 2379,
+        "netTonnage": 1617,
+        "service": "Pas.",
+        "crew": 53,
+        "whenBuilt": 1911
+      },
+      {
+        "officialNumber": 127029,
+        "vesselName": "City of Bangor.....",
+        "rig": "St. p.",
+        "grossTonnage": 1661,
+        "netTonnage": 1113,
+        "service": "Pas.",
+        "crew": 99,
+        "whenBuilt": 1894
+      },
+      {
+        "officialNumber": 127131,
+        "vesselName": "CITY OF BANGOR.",
+        "rig": "St. s.",
+        "grossTonnage": 4202,
+        "netTonnage": 3058,
+        "service": "Frt.",
+        "crew": 20,
+        "whenBuilt": 1896
+      },
+      {
+        "officialNumber": 204332,
+        "vesselName": "City of Beardstown.",
+        "rig": "St. p.",
+        "grossTonnage": 52,
+        "netTonnage": 52,
+        "service": "Tow.",
+        "whenBuilt": 1907
+      },
+      {
+        "officialNumber": 200919,
+        "vesselName": "CITY OF BENTON HARBOR.",
+        "rig": "St. p.",
+        "grossTonnage": 1286,
+        "netTonnage": 811,
+        "service": "Pas.",
+        "crew": 42,
+        "whenBuilt": 1904
+      },
+      {
+        "officialNumber": 126717,
+        "vesselName": "City of Berlin.........",
+        "rig": "St. s.",
+        "grossTonnage": 2051,
+        "netTonnage": 1711,
+        "service": "Frt.",
+        "crew": 16,
+        "whenBuilt": 1891
+      },
+      {
+        "officialNumber": 210822,
+        "vesselName": "City of Birmingham No.2",
+        "rig": "Ga. p.",
+        "grossTonnage": 11,
+        "netTonnage": 11,
+        "service": "Pas.",
+        "crew": 2,
+        "whenBuilt": 1912
+      },
+      {
+        "officialNumber": 209678,
+        "vesselName": "City of Blaine...",
+        "rig": "Ga. s.",
+        "grossTonnage": 39,
+        "netTonnage": 26,
+        "service": "Pas.",
+        "crew": 2,
+        "whenBuilt": 1912
+      },
+      {
+        "officialNumber": 200689,
+        "vesselName": "City of Bluftton.",
+        "rig": "St. s.",
+        "grossTonnage": 48,
+        "netTonnage": 30,
+        "service": "Pas.",
+        "crew": 5,
+        "whenBuilt": 1904
+      },
+      {
+        "officialNumber": 125791,
+        "vesselName": "City of Boston.",
+        "rig": "St. p.",
+        "grossTonnage": 487,
+        "netTonnage": 213,
+        "service": "Fer.",
+        "crew": 4,
+        "whenBuilt": 1880
+      },
+      {
+        "officialNumber": 205153,
+        "vesselName": "City of Bothell.",
+        "rig": "St. s.",
+        "grossTonnage": 43,
+        "netTonnage": 29,
+        "service": "Pas.",
+        "crew": 2,
+        "whenBuilt": 1908
+      },
+      {
+        "officialNumber": 140644,
+        "vesselName": "City of Boyne.",
+        "rig": "St. s.",
+        "grossTonnage": 121,
+        "netTonnage": 82,
+        "service": "Pas.",
+        "crew": 5,
+        "whenBuilt": 1883
+      },
+      {
+        "officialNumber": 126386,
+        "vesselName": "City of Brockton.",
+        "rig": "St. p.",
+        "grossTonnage": 2771,
+        "netTonnage": 1911,
+        "service": "Frt.",
+        "crew": 33,
+        "whenBuilt": 1886
+      },
+      {
+        "officialNumber": 127132,
+        "vesselName": "CITY OF BUFFALO.",
+        "rig": "St. p.",
+        "grossTonnage": 2940,
+        "netTonnage": 1604,
+        "service": "Pas.",
+        "crew": 96,
+        "whenBuilt": 1896
+      },
+      {
+        "officialNumber": 210558,
+        "vesselName": "City of Cairo.....",
+        "rig": "St. p.",
+        "grossTonnage": 73,
+        "netTonnage": 73,
+        "service": "Fer.",
+        "crew": 4,
+        "whenBuilt": 1912
+      },
+      {
+        "officialNumber": 126844,
+        "vesselName": "City of Carrabelle.",
+        "rig": "St. s.",
+        "grossTonnage": 12,
+        "netTonnage": 6,
+        "service": "Tow.",
+        "crew": 4,
+        "whenBuilt": 1872
+      },
+      {
+        "officialNumber": 208530,
+        "vesselName": "City of Chamois.",
+        "rig": "St. p.",
+        "grossTonnage": 9,
+        "netTonnage": 9,
+        "service": "Fer.",
+        "crew": 2,
+        "whenBuilt": 1907
+      },
+      {
+        "officialNumber": 157279,
+        "vesselName": "City of Cheboygan.",
+        "rig": "St. s.",
+        "grossTonnage": 247,
+        "netTonnage": 163,
+        "service": "Pas.",
+        "crew": 13,
+        "whenBuilt": 1890
+      },
+      {
+        "officialNumber": 125256,
+        "vesselName": "City of Chelsea",
+        "rig": "St. p.",
+        "grossTonnage": 504,
+        "netTonnage": 258,
+        "service": "Fer.",
+        "crew": 8,
+        "whenBuilt": 1874
+      },
+      {
+        "officialNumber": 126492,
+        "vesselName": "City of Chester.",
+        "rig": "St. s.",
+        "grossTonnage": 611,
+        "netTonnage": 327,
+        "service": "Pas.",
+        "crew": 12,
+        "whenBuilt": 1888
+      },
+      {
+        "officialNumber": 126627,
+        "vesselName": "CITY OF CHICAGO.....",
+        "rig": "St. p.",
+        "grossTonnage": 1439,
+        "netTonnage": 1012,
+        "service": "Pas.",
+        "crew": 40,
+        "whenBuilt": 1890
+      },
+      {
+        "officialNumber": 127325,
+        "vesselName": "City of Cincinnati.....",
+        "rig": "St. p.",
+        "grossTonnage": 816,
+        "netTonnage": 645,
+        "service": "Pas.",
+        "crew": 29,
+        "whenBuilt": 1899
+      },
+      {
+        "officialNumber": 210333,
+        "vesselName": "City of Clarksville.",
+        "rig": "Ga. p.",
+        "grossTonnage": 6,
+        "netTonnage": 6,
+        "service": "Pas.",
+        "crew": 2,
+        "whenBuilt": 1912
+      },
+      {
+        "officialNumber": 204080,
+        "vesselName": "CITY OF CLEVELAND III.",
+        "rig": "St. p.",
+        "grossTonnage": 4568,
+        "netTonnage": 2403,
+        "service": "Pas.",
+        "crew": 146,
+        "whenBuilt": 1907
+      },
+      {
+        "officialNumber": 212106,
+        "vesselName": "City of Clinton..",
+        "rig": "Ga. s.",
+        "grossTonnage": 24,
+        "netTonnage": 16,
+        "service": "Fsh.",
+        "crew": 7,
+        "whenBuilt": 1913
+      },
+      {
+        "officialNumber": 202271,
+        "vesselName": "City of Columbia",
+        "rig": "St. p.",
+        "grossTonnage": 189,
+        "netTonnage": 127,
+        "service": "Frt.",
+        "crew": 10,
+        "whenBuilt": 1905
+      },
+      {
+        "officialNumber": 200840,
+        "vesselName": "CITY OF COLUMBUS.",
+        "rig": "St. s.",
+        "grossTonnage": 5433,
+        "netTonnage": 4111,
+        "service": "Pas.",
+        "crew": 61,
+        "whenBuilt": 1904
+      },
+      {
+        "officialNumber": 126546,
+        "vesselName": "CITY OF DETROIT II.",
+        "rig": "St. p.",
+        "grossTonnage": 1919,
+        "netTonnage": 1454,
+        "service": "Pas.",
+        "crew": 75,
+        "whenBuilt": 1889
+      },
+      {
+        "officialNumber": 209571,
+        "vesselName": "CITY OF DETROIT III.",
+        "rig": "St. p.",
+        "grossTonnage": 6061,
+        "netTonnage": 3328,
+        "service": "Pas.",
+        "crew": 85,
+        "whenBuilt": 1912
+      },
+      {
+        "officialNumber": 208465,
+        "vesselName": "City of Doniphan",
+        "rig": "Ga. p.",
+        "grossTonnage": 25,
+        "netTonnage": 25,
+        "service": "Pas.",
+        "crew": 2,
+        "whenBuilt": 1911
+      },
+      {
+        "officialNumber": 136522,
+        "vesselName": "City of Dover",
+        "rig": "St. s.",
+        "grossTonnage": 191,
+        "netTonnage": 98,
+        "service": "Pas.",
+        "crew": 12,
+        "whenBuilt": 1900
+      },
+      {
+        "officialNumber": 127242,
+        "vesselName": "CITY OF ERIE.",
+        "rig": "St. p.",
+        "grossTonnage": 2498,
+        "netTonnage": 1280,
+        "service": "Pas.",
+        "crew": 100,
+        "whenBuilt": 1898
+      },
+      {
+        "officialNumber": 209923,
+        "vesselName": "City of Eufaula.",
+        "rig": "St. p.",
+        "grossTonnage": 216,
+        "netTonnage": 216,
+        "service": "Pas.",
+        "crew": 32,
+        "whenBuilt": 1912
+      },
+      {
+        "officialNumber": 127330,
+        "vesselName": "City of Eugene.",
+        "rig": "St. p.",
+        "grossTonnage": 347,
+        "netTonnage": 222,
+        "service": "Pas.",
+        "crew": 9,
+        "whenBuilt": 1899
+      },
+      {
+        "officialNumber": 126976,
+        "vesselName": "City of Everett.",
+        "rig": "Ga. s.",
+        "grossTonnage": 8,
+        "netTonnage": 8,
+        "service": "Fsh.",
+        "crew": 6,
+        "whenBuilt": 1893
+      },
+      {
+        "officialNumber": 127055,
+        "vesselName": "CITY OF EVERETT....O",
+        "rig": "St. s.",
+        "grossTonnage": 2595,
+        "netTonnage": 1939,
+        "service": "Oil.",
+        "crew": 26,
+        "whenBuilt": 1894
+      },
+      {
+        "officialNumber": 127487,
+        "vesselName": "City of Everett.",
+        "rig": "St. s.",
+        "grossTonnage": 212,
+        "netTonnage": 111,
+        "service": "Pas.",
+        "crew": 19,
+        "whenBuilt": 1900
+      },
+      {
+        "officialNumber": 126088,
+        "vesselName": "City of Fall River.",
+        "rig": "St. p.",
+        "grossTonnage": 2533,
+        "netTonnage": 1722,
+        "service": "Frt.",
+        "crew": 35,
+        "whenBuilt": 1883
+      },
+      {
+        "officialNumber": 126139,
+        "vesselName": "City of Gloucester......",
+        "rig": "St. s.",
+        "grossTonnage": 560,
+        "netTonnage": 395,
+        "service": "Pas.",
+        "crew": 22,
+        "whenBuilt": 1883
+      },
+      {
+        "officialNumber": 210065,
+        "vesselName": "CITY OF GRAND RAPIDSO",
+        "rig": "St. s.",
+        "grossTonnage": 3061,
+        "netTonnage": 1572,
+        "service": "Pas.",
+        "crew": 75,
+        "whenBuilt": 1912
+      },
+      {
+        "officialNumber": 127119,
+        "vesselName": "City of Hawkinsville...",
+        "rig": "St. p.",
+        "grossTonnage": 175,
+        "netTonnage": 114,
+        "service": "Frt.",
+        "crew": 10,
+        "whenBuilt": 1896
+      },
+      {
+        "officialNumber": 127467,
+        "vesselName": "City of Huntington",
+        "rig": "St. p.",
+        "grossTonnage": 58,
+        "netTonnage": 58,
+        "service": "Fer.",
+        "crew": 2,
+        "whenBuilt": 1900
+      },
+      {
+        "officialNumber": 126081,
+        "vesselName": "City of Jacksonville....",
+        "rig": "St. p.",
+        "grossTonnage": 459,
+        "netTonnage": 395,
+        "service": "Pas.",
+        "crew": 31,
+        "whenBuilt": 1882
+      },
+      {
+        "officialNumber": 126725,
+        "vesselName": "City of Jeffersonville.",
+        "rig": "St. p.",
+        "grossTonnage": 161,
+        "netTonnage": 161,
+        "service": "Fer.",
+        "crew": 5,
+        "whenBuilt": 1891
+      },
+      {
+        "officialNumber": 126259,
+        "vesselName": "City of Key West.",
+        "rig": "Ga. s.",
+        "grossTonnage": 13,
+        "netTonnage": 9,
+        "service": "Tow.",
+        "crew": 1,
+        "whenBuilt": 1884
+      },
+      {
+        "officialNumber": 209954,
+        "vesselName": "City of Lewes....",
+        "rig": "St. s.",
+        "grossTonnage": 254,
+        "netTonnage": 125,
+        "service": "Frt.",
+        "crew": 25,
+        "whenBuilt": 1912
+      },
+      {
+        "officialNumber": 127023,
+        "vesselName": "City of Louisville.",
+        "rig": "St. p.",
+        "grossTonnage": 1681,
+        "netTonnage": 1141,
+        "service": "Pas.",
+        "crew": 31,
+        "whenBuilt": 1894
+      },
+      {
+        "officialNumber": 127035,
+        "vesselName": "CITY OF LOWELL.....",
+        "rig": "St. s.",
+        "grossTonnage": 2975,
+        "netTonnage": 1877,
+        "service": "Pas.",
+        "crew": 92,
+        "whenBuilt": 1894
+      },
+      {
+        "officialNumber": 125684,
+        "vesselName": "City of Lynn..........",
+        "rig": "St. p.",
+        "grossTonnage": 340,
+        "netTonnage": 170,
+        "service": "Fer.",
+        "crew": 4,
+        "whenBuilt": 1878
+      },
+      {
+        "officialNumber": 126988,
+        "vesselName": "CITY OF MACKINAC II.O",
+        "rig": "St. p.",
+        "grossTonnage": 1749,
+        "netTonnage": 1277,
+        "service": "Pas.",
+        "crew": 85,
+        "whenBuilt": 1893
+      },
+      {
+        "officialNumber": 127750,
+        "vesselName": "CITY OF MACON.",
+        "rig": "St. s.",
+        "grossTonnage": 5311,
+        "netTonnage": 3996,
+        "service": "Pas.",
+        "crew": 54,
+        "whenBuilt": 1903
+      },
+      {
+        "officialNumber": 126039,
+        "vesselName": "City of Malden.",
+        "rig": "St. p.",
+        "grossTonnage": 487,
+        "netTonnage": 243,
+        "service": "Fer.",
+        "crew": 4,
+        "whenBuilt": 1882
+      },
+      {
+        "officialNumber": 200755,
+        "vesselName": "City of Manette..",
+        "rig": "Ga. s.",
+        "grossTonnage": 9,
+        "netTonnage": 6,
+        "service": "Fsh.",
+        "crew": 1,
+        "whenBuilt": 1904
+      },
+      {
+        "officialNumber": 126614,
+        "vesselName": "City of Marquette.",
+        "rig": "St. s.",
+        "grossTonnage": 341,
+        "netTonnage": 295,
+        "service": "Pas.",
+        "crew": 12,
+        "whenBuilt": 1890
+      },
+      {
+        "officialNumber": 127640,
+        "vesselName": "CITY OF MEMPHIS..",
+        "rig": "St. s.",
+        "grossTonnage": 5252,
+        "netTonnage": 3931,
+        "service": "Pas.",
+        "crew": 62,
+        "whenBuilt": 1902
+      },
+      {
+        "officialNumber": 202913,
+        "vesselName": "City of Milford.",
+        "rig": "St. s.",
+        "grossTonnage": 264,
+        "netTonnage": 179,
+        "service": "Pas.",
+        "crew": 19,
+        "whenBuilt": 1906
+      },
+      {
+        "officialNumber": 127294,
+        "vesselName": "City of Mobile.",
+        "rig": "St. p.",
+        "grossTonnage": 209,
+        "netTonnage": 209,
+        "service": "Pas.",
+        "crew": 50,
+        "whenBuilt": 1898
+      },
+      {
+        "officialNumber": 208644,
+        "vesselName": "City of Mondak.",
+        "rig": "Ga. p.",
+        "grossTonnage": 64,
+        "netTonnage": 64,
+        "service": "Fer.",
+        "crew": 2,
+        "whenBuilt": 1909
+      },
+      {
+        "officialNumber": 207362,
+        "vesselName": "CITY OF MONTGOMERYO",
+        "rig": "St. s.",
+        "grossTonnage": 5425,
+        "netTonnage": 4025,
+        "service": "Pas.",
+        "crew": 72,
+        "whenBuilt": 1910
+      },
+      {
+        "officialNumber": 126213,
+        "vesselName": "City of Mt. Clemens.",
+        "rig": "St. s.",
+        "grossTonnage": 132,
+        "netTonnage": 97,
+        "service": "Frt.",
+        "crew": 7,
+        "whenBuilt": 1884
+      },
+      {
+        "officialNumber": 205206,
+        "vesselName": "City of Muskogee.",
+        "rig": "St. p.",
+        "grossTonnage": 91,
+        "netTonnage": 91,
+        "service": "Pas.",
+        "crew": 14,
+        "whenBuilt": 1908
+      },
+      {
+        "officialNumber": 126899,
+        "vesselName": "City of Naples.",
+        "rig": "St. s.",
+        "grossTonnage": 2340,
+        "netTonnage": 1973,
+        "service": "Frt.",
+        "crew": 16,
+        "whenBuilt": 1892
+      },
+      {
+        "officialNumber": 127493,
+        "vesselName": "City of Naples..",
+        "rig": "Ga. s.",
+        "grossTonnage": 20,
+        "netTonnage": 14,
+        "service": "Tow.",
+        "crew": 5,
+        "whenBuilt": 1900
+      },
+      {
+        "officialNumber": 126338,
+        "vesselName": "City of Nauvoo.",
+        "rig": "St. p.",
+        "grossTonnage": 56,
+        "netTonnage": 56,
+        "service": "Fer.",
+        "crew": 3,
+        "whenBuilt": 1885
+      },
+      {
+        "officialNumber": 125408,
+        "vesselName": "City of New Baltimore.",
+        "rig": "St. s.",
+        "grossTonnage": 111,
+        "netTonnage": 76,
+        "service": "Tow.",
+        "crew": 6,
+        "whenBuilt": 1875
+      },
+      {
+        "officialNumber": 125736,
+        "vesselName": "City of Newburgh.",
+        "rig": "St. p.",
+        "grossTonnage": 418,
+        "netTonnage": 301,
+        "service": "Fer.",
+        "crew": 3,
+        "whenBuilt": 1879
+      },
+      {
+        "officialNumber": 5033,
+        "vesselName": "City of Newport.",
+        "rig": "St. p.",
+        "grossTonnage": 561,
+        "netTonnage": 468,
+        "service": "Pas.",
+        "crew": 13,
+        "whenBuilt": 1863
+      },
+      {
+        "officialNumber": 210500,
+        "vesselName": "City of Niobrara..",
+        "rig": "Ga. p.",
+        "grossTonnage": 23,
+        "netTonnage": 23,
+        "service": "Fer.",
+        "crew": 1,
+        "whenBuilt": 1912
+      },
+      {
+        "officialNumber": 208414,
+        "vesselName": "CITY OF NORFOLK..",
+        "rig": "St. s.",
+        "grossTonnage": 2379,
+        "netTonnage": 1617,
+        "service": "Pas.",
+        "crew": 53,
+        "whenBuilt": 1911
+      },
+      {
+        "officialNumber": 209614,
+        "vesselName": "City of Ocala.",
+        "rig": "Ga. s.",
+        "grossTonnage": 20,
+        "netTonnage": 17,
+        "service": "Pas.",
+        "crew": 2,
+        "whenBuilt": 1912
+      },
+      {
+        "officialNumber": 127272,
+        "vesselName": "City of Olympia",
+        "rig": "St. s.",
+        "grossTonnage": 51,
+        "netTonnage": 29,
+        "service": "Tow.",
+        "whenBuilt": 1898
+      },
+      {
+        "officialNumber": 125204,
+        "vesselName": "City of Panama.",
+        "rig": "St. s.",
+        "grossTonnage": 1490,
+        "netTonnage": 1046,
+        "service": "Pas.",
+        "crew": 40,
+        "whenBuilt": 1873
+      },
+      {
+        "officialNumber": 125664,
+        "vesselName": "City of Para...",
+        "rig": "St. s.",
+        "grossTonnage": 3532,
+        "netTonnage": 2504,
+        "service": "Pas.",
+        "crew": 69,
+        "whenBuilt": 1878
+      },
+      {
+        "officialNumber": 141014,
+        "vesselName": "City of Parkersburg.",
+        "rig": "St. p.",
+        "grossTonnage": 218,
+        "netTonnage": 218,
+        "service": "Pas.",
+        "crew": 15,
+        "whenBuilt": 1899
+      },
+      {
+        "officialNumber": 125488,
+        "vesselName": "City of Pekin.",
+        "rig": "St. s.",
+        "grossTonnage": 95,
+        "netTonnage": 67,
+        "service": "Frt.",
+        "crew": 4,
+        "whenBuilt": 1875
+      },
+      {
+        "officialNumber": 126858,
+        "vesselName": "City of Peoria.",
+        "rig": "St. p.",
+        "grossTonnage": 113,
+        "netTonnage": 113,
+        "service": "Pas.",
+        "crew": 12,
+        "whenBuilt": 1892
+      },
+      {
+        "officialNumber": 127165,
+        "vesselName": "City of Philadelphia....",
+        "rig": "St. s.",
+        "grossTonnage": 542,
+        "netTonnage": 409,
+        "service": "Pas.",
+        "crew": 14,
+        "whenBuilt": 1896
+      },
+      {
+        "officialNumber": 207201,
+        "vesselName": "CITY OF PHILADELPHIA",
+        "rig": "St. s.",
+        "grossTonnage": 749,
+        "netTonnage": 435,
+        "service": "Pas.",
+        "crew": 24,
+        "whenBuilt": 1910
+      },
+      {
+        "officialNumber": 208678,
+        "vesselName": "City of Platte.",
+        "rig": "Ga. p.",
+        "grossTonnage": 13,
+        "netTonnage": 13,
+        "service": "Fer.",
+        "crew": 1,
+        "whenBuilt": 1911
+      },
+      {
+        "officialNumber": 205437,
+        "vesselName": "City of Port Orchard.",
+        "rig": "Ga. s.",
+        "grossTonnage": 23,
+        "netTonnage": 16,
+        "service": "Pas.",
+        "crew": 1,
+        "whenBuilt": 1908
+      },
+      {
+        "officialNumber": 136507,
+        "vesselName": "City of Portsmouth....",
+        "rig": "St. p.",
+        "grossTonnage": 457,
+        "netTonnage": 308,
+        "service": "Fer.",
+        "crew": 4,
+        "whenBuilt": 1858
+      },
+      {
+        "officialNumber": 125979,
+        "vesselName": "City of Puebla. O",
+        "rig": "St. s.",
+        "grossTonnage": 2623,
+        "netTonnage": 1712,
+        "service": "Pas.",
+        "crew": 80,
+        "whenBuilt": 1881
+      },
+      {
+        "officialNumber": 126560,
+        "vesselName": "City of Reading.....",
+        "rig": "St. p.",
+        "grossTonnage": 576,
+        "netTonnage": 445,
+        "service": "Fer.",
+        "crew": 5,
+        "whenBuilt": 1889
+      },
+      {
+        "officialNumber": 211710,
+        "vesselName": "CITY OF RICHMOND...",
+        "rig": "St. s.",
+        "grossTonnage": 1923,
+        "netTonnage": 1127,
+        "service": "Pas.",
+        "crew": 40,
+        "whenBuilt": 1913
+      },
+      {
+        "officialNumber": 127545,
+        "vesselName": "City of Rockland.",
+        "rig": "St. p.",
+        "grossTonnage": 1696,
+        "netTonnage": 1026,
+        "service": "Pas.",
+        "crew": 80,
+        "whenBuilt": 1901
+      },
+      {
+        "officialNumber": 126218,
+        "vesselName": "City of Rome.",
+        "rig": "Ga. s.",
+        "grossTonnage": 8,
+        "netTonnage": 8,
+        "service": "Oys.",
+        "crew": 1,
+        "whenBuilt": 1884
+      },
+      {
+        "officialNumber": 126333,
+        "vesselName": "CITY OF ST. IGNACE",
+        "rig": "St. p.",
+        "grossTonnage": 1923,
+        "netTonnage": 1324,
+        "service": "Pas.",
+        "crew": 75,
+        "whenBuilt": 1886
+      },
+      {
+        "officialNumber": 207363,
+        "vesselName": "CITY OF ST. LOUIS....",
+        "rig": "St. s.",
+        "grossTonnage": 5425,
+        "netTonnage": 4025,
+        "service": "Pas.",
+        "crew": 70,
+        "whenBuilt": 1910
+      },
+      {
+        "officialNumber": 205575,
+        "vesselName": "City of St. Mary.",
+        "rig": "Ga. p.",
+        "grossTonnage": 14,
+        "netTonnage": 14,
+        "service": "Fer.",
+        "crew": 2,
+        "whenBuilt": 1908
+      },
+      {
+        "officialNumber": 127458,
+        "vesselName": "City of Salem.",
+        "rig": "St. s.",
+        "grossTonnage": 195,
+        "netTonnage": 137,
+        "service": "Frt.",
+        "crew": 11,
+        "whenBuilt": 1900
+      },
+      {
+        "officialNumber": 209390,
+        "vesselName": "City of Saltillo.",
+        "rig": "Ga. s.",
+        "grossTonnage": 8,
+        "netTonnage": 6,
+        "service": "Pas.",
+        "crew": 1,
+        "whenBuilt": 1911
+      },
+      {
+        "officialNumber": 208321,
+        "vesselName": "City of Sarasota.",
+        "rig": "St. s.",
+        "grossTonnage": 126,
+        "netTonnage": 75,
+        "service": "Pas.",
+        "crew": 7,
+        "whenBuilt": 1911
+      },
+      {
+        "officialNumber": 204437,
+        "vesselName": "CITY OF SAVANNAH...O",
+        "rig": "St. s.",
+        "grossTonnage": 5654,
+        "netTonnage": 4379,
+        "service": "Pas.",
+        "crew": 76,
+        "whenBuilt": 1907
+      },
+      {
+        "officialNumber": 126536,
+        "vesselName": "City of Seattle,",
+        "rig": "St. p.",
+        "grossTonnage": 272,
+        "netTonnage": 186,
+        "service": "Fer.",
+        "crew": 4,
+        "whenBuilt": 1888
+      },
+      {
+        "officialNumber": 126635,
+        "vesselName": "City of Seattle.",
+        "rig": "St. s.",
+        "grossTonnage": 1462,
+        "netTonnage": 827,
+        "service": "Pas.",
+        "crew": 59,
+        "whenBuilt": 1890
+      },
+      {
+        "officialNumber": 127066,
+        "vesselName": "City of Shelton...",
+        "rig": "St. p.",
+        "grossTonnage": 190,
+        "netTonnage": 138,
+        "service": "Pas.",
+        "crew": 10,
+        "whenBuilt": 1895
+      },
+      {
+        "officialNumber": 204946,
+        "vesselName": "City of Shreveport....",
+        "rig": "St. p.",
+        "grossTonnage": 176,
+        "netTonnage": 176,
+        "service": "Pas.",
+        "crew": 28,
+        "whenBuilt": 1908
+      },
+      {
+        "officialNumber": 211159,
+        "vesselName": "City of Sidney.",
+        "rig": "Ga. p.",
+        "grossTonnage": 25,
+        "netTonnage": 25,
+        "service": "Fer.",
+        "crew": 1,
+        "whenBuilt": 1912
+      },
+      {
+        "officialNumber": 127731,
+        "vesselName": "CITY OF SOUTH HAVENO",
+        "rig": "St. s.",
+        "grossTonnage": 1719,
+        "netTonnage": 1169,
+        "service": "Pas.",
+        "crew": 66,
+        "whenBuilt": 1903
+      },
+      {
+        "officialNumber": 201021,
+        "vesselName": "City of Springfield.",
+        "rig": "Ga. p.",
+        "grossTonnage": 24,
+        "netTonnage": 24,
+        "service": "Fer.",
+        "crew": 3,
+        "whenBuilt": 1904
+      },
+      {
+        "officialNumber": 203910,
+        "vesselName": "City of Stamford.",
+        "rig": "St. s.",
+        "grossTonnage": 427,
+        "netTonnage": 260,
+        "service": "Frt.",
+        "crew": 13,
+        "whenBuilt": 1907
+      },
+      {
+        "officialNumber": 125470,
+        "vesselName": "City of Sydney.",
+        "rig": "St. s.",
+        "grossTonnage": 3016,
+        "netTonnage": 1965,
+        "service": "Pas.",
+        "crew": 67,
+        "whenBuilt": 1875
+      },
+      {
+        "officialNumber": 161576,
+        "vesselName": "City of Tampa.",
+        "rig": "St. s.",
+        "grossTonnage": 125,
+        "netTonnage": 61,
+        "service": "Pas.",
+        "crew": 5,
+        "whenBuilt": 1887
+      },
+      {
+        "officialNumber": 126875,
+        "vesselName": "City of Taunton.",
+        "rig": "St. p.",
+        "grossTonnage": 2881,
+        "netTonnage": 1998,
+        "service": "Frt.",
+        "crew": 49,
+        "whenBuilt": 1892
+      },
+      {
+        "officialNumber": 126739,
+        "vesselName": "CITY OF TOLEDO,",
+        "rig": "St. p.",
+        "grossTonnage": 698,
+        "netTonnage": 389,
+        "service": "Pas.",
+        "crew": 40,
+        "whenBuilt": 1891
+      },
+      {
+        "officialNumber": 126241,
+        "vesselName": "City of Topeka..",
+        "rig": "St. s.",
+        "grossTonnage": 1057,
+        "netTonnage": 746,
+        "service": "Pas.",
+        "crew": 54,
+        "whenBuilt": 1884
+      },
+      {
+        "officialNumber": 5928,
+        "vesselName": "City of Traverse......",
+        "rig": "St. s.",
+        "grossTonnage": 1153,
+        "netTonnage": 925,
+        "service": "Frt.",
+        "crew": 14,
+        "whenBuilt": 1871
+      },
+      {
+        "officialNumber": 204401,
+        "vesselName": "City of Two Harbors...",
+        "rig": "Ga. s.",
+        "grossTonnage": 19,
+        "netTonnage": 7,
+        "service": "Fer.",
+        "crew": 3,
+        "whenBuilt": 1907
+      },
+      {
+        "officialNumber": 206015,
+        "vesselName": "City of Vancouver.",
+        "rig": "St. p.",
+        "grossTonnage": 460,
+        "netTonnage": 398,
+        "crew": 9,
+        "whenBuilt": 1909
+      },
+      {
+        "officialNumber": 145113,
+        "vesselName": "City of Watervliet.....",
+        "rig": "St. s.",
+        "grossTonnage": 39,
+        "netTonnage": 22,
+        "service": "Fer.",
+        "crew": 2,
+        "whenBuilt": 1875
+      },
+      {
+        "officialNumber": 207202,
+        "vesselName": "CITY OF WILMINGTON..",
+        "rig": "St. s.",
+        "grossTonnage": 749,
+        "netTonnage": 435,
+        "service": "Pas.",
+        "crew": 24,
+        "whenBuilt": 1910
+      },
+      {
+        "officialNumber": 125941,
+        "vesselName": "City of Worcester",
+        "rig": "St. p.",
+        "grossTonnage": 2489,
+        "netTonnage": 1921,
+        "service": "Pas.",
+        "crew": 75,
+        "whenBuilt": 1881
+      },
+      {
+        "officialNumber": 126245,
+        "vesselName": "City of Yonkers.",
+        "rig": "St. s.",
+        "grossTonnage": 170,
+        "netTonnage": 115,
+        "service": "Frt.",
+        "crew": 6,
+        "whenBuilt": 1884
+      },
+      {
+        "officialNumber": 125662,
+        "vesselName": "City of the Straits t.",
+        "rig": "St. p.",
+        "grossTonnage": 1094,
+        "netTonnage": 811,
+        "service": "Pas.",
+        "crew": 60,
+        "whenBuilt": 1878
+      },
+      {
+        "officialNumber": 211077,
+        "vesselName": "Clahowya.",
+        "rig": "Ga. s.",
+        "netTonnage": 6,
+        "service": "Frt.",
+        "crew": 1,
+        "whenBuilt": 1913
+      },
+      {
+        "officialNumber": 125822,
+        "vesselName": "Clair..",
+        "rig": "Ga. s.",
+        "grossTonnage": 11,
+        "netTonnage": 10,
+        "service": "Pas.",
+        "crew": 2,
+        "whenBuilt": 1880
+      },
+      {
+        "officialNumber": 203674,
+        "vesselName": "Claire.",
+        "rig": "Ga. s.",
+        "grossTonnage": 21,
+        "netTonnage": 14,
+        "service": "Fsh.",
+        "whenBuilt": 1906
+      },
+      {
+        "officialNumber": 127722,
+        "vesselName": "Clam.",
+        "rig": "Ga. s.",
+        "grossTonnage": 14,
+        "netTonnage": 10,
+        "service": "Pas.",
+        "crew": 1,
+        "whenBuilt": 1902
+      },
+      {
+        "officialNumber": 203913,
+        "vesselName": "Clam.",
+        "rig": "Ga. s.",
+        "grossTonnage": 12,
+        "netTonnage": 8,
+        "service": "Pas.",
+        "whenBuilt": 1907
+      },
+      {
+        "officialNumber": 5812,
+        "vesselName": "Clara.",
+        "rig": "Ga. s.",
+        "grossTonnage": 10,
+        "netTonnage": 9,
+        "service": "Frt.",
+        "crew": 1,
+        "whenBuilt": 1859
+      },
+      {
+        "officialNumber": 5940,
+        "vesselName": "Clara.",
+        "rig": "Ga. s.",
+        "grossTonnage": 15,
+        "netTonnage": 14,
+        "service": "Frt.",
+        "whenBuilt": 1871
+      },
+      {
+        "officialNumber": 125594,
+        "vesselName": "Clara.",
+        "rig": "St. s.",
+        "netTonnage": 40,
+        "service": "Frt.",
+        "crew": 6,
+        "whenBuilt": 1877
+      },
+      {
+        "officialNumber": 125953,
+        "vesselName": "Clara.",
+        "rig": "Ga. s.",
+        "grossTonnage": 7,
+        "netTonnage": 6,
+        "service": "Pas.",
+        "crew": 1,
+        "whenBuilt": 1877
+      },
+      {
+        "officialNumber": 126008,
+        "vesselName": "Clara.",
+        "rig": "Ga. s.",
+        "grossTonnage": 5,
+        "netTonnage": 5,
+        "service": "Msc.",
+        "crew": 1,
+        "whenBuilt": 1881
+      },
+      {
+        "officialNumber": 126411,
+        "vesselName": "Clara.",
+        "rig": "St. y.",
+        "grossTonnage": 45,
+        "netTonnage": 22,
+        "service": "Yct.",
+        "crew": 4,
+        "whenBuilt": 1887
+      },
+      {
+        "officialNumber": 127556,
+        "vesselName": "Clara",
+        "rig": "St. y.",
+        "grossTonnage": 21,
+        "netTonnage": 10,
+        "service": "Yct.",
+        "crew": 3,
+        "whenBuilt": 1899
+      },
+      {
+        "officialNumber": 127593,
+        "vesselName": "Clara.",
+        "rig": "Ga. s.",
+        "grossTonnage": 6,
+        "netTonnage": 5,
+        "service": "Tow.",
+        "crew": 1,
+        "whenBuilt": 1899
+      },
+      {
+        "officialNumber": 127636,
+        "vesselName": "Clara.",
+        "rig": "St. s.",
+        "grossTonnage": 24,
+        "netTonnage": 16,
+        "service": "Tow.",
+        "crew": 3,
+        "whenBuilt": 1902
+      },
+      {
+        "officialNumber": 200784,
+        "vesselName": "Clara.",
+        "rig": "Ga. s.",
+        "grossTonnage": 8,
+        "service": "Pas.",
+        "crew": 2,
+        "whenBuilt": 1904
+      },
+      {
+        "officialNumber": 204785,
+        "vesselName": "Clara.",
+        "rig": "Ga. s.",
+        "grossTonnage": 19,
+        "netTonnage": 13,
+        "service": "Fsh.",
+        "crew": 6,
+        "whenBuilt": 1907
+      },
+      {
+        "officialNumber": 206384,
+        "vesselName": "Clara.",
+        "rig": "Ga. s.",
+        "grossTonnage": 9,
+        "netTonnage": 6,
+        "service": "Pas.",
+        "crew": 0,
+        "whenBuilt": 1909
+      },
+      {
+        "officialNumber": 207055,
+        "vesselName": "Clara..",
+        "rig": "Ga. s.",
+        "grossTonnage": 10,
+        "netTonnage": 9,
+        "service": "Fsh.",
+        "crew": 2,
+        "whenBuilt": 1908
+      },
+      {
+        "officialNumber": 209303,
+        "vesselName": "Clara.",
+        "rig": "Ga. p.",
+        "grossTonnage": 20,
+        "netTonnage": 8,
+        "service": "Frt.",
+        "crew": 1,
+        "whenBuilt": 1908
+      },
+      {
+        "officialNumber": 209883,
+        "vesselName": "Clara.",
+        "rig": "Ga. s.",
+        "grossTonnage": 19,
+        "netTonnage": 13,
+        "service": "Fsh.",
+        "crew": 7,
+        "whenBuilt": 1912
+      },
+      {
+        "officialNumber": 211381,
+        "vesselName": "Clara.",
+        "rig": "Ga. s.",
+        "grossTonnage": 7,
+        "netTonnage": 5,
+        "service": "Fsh.",
+        "crew": 5,
+        "whenBuilt": 1913
+      },
+      {
+        "officialNumber": 211949,
+        "vesselName": "Clara..",
+        "rig": "Ga. p.",
+        "grossTonnage": 38,
+        "netTonnage": 38,
+        "service": "Fer.",
+        "crew": 2,
+        "whenBuilt": 1913
+      },
+      {
+        "officialNumber": 212141,
+        "vesselName": "Clara.",
+        "rig": "Ga. s.",
+        "grossTonnage": 18,
+        "netTonnage": 12,
+        "service": "Frt.",
+        "crew": 2,
+        "whenBuilt": 1914
+      },
+      {
+        "officialNumber": 212205,
+        "vesselName": "Clara.",
+        "rig": "Ga. s.",
+        "grossTonnage": 26,
+        "netTonnage": 21,
+        "service": "Fsh.",
+        "crew": 7,
+        "whenBuilt": 1914
+      },
+      {
+        "officialNumber": 136770,
+        "vesselName": "Clara B.",
+        "rig": "St. s.",
+        "grossTonnage": 53,
+        "netTonnage": 36,
+        "service": "Fsh.",
+        "crew": 5,
+        "whenBuilt": 1899
+      },
+      {
+        "officialNumber": 205525,
+        "vesselName": "Clara B.",
+        "rig": "Ga. y.",
+        "grossTonnage": 16,
+        "netTonnage": 12,
+        "service": "Yct.",
+        "crew": 1,
+        "whenBuilt": 1907
+      },
+      {
+        "officialNumber": 208657,
+        "vesselName": "Clara B.",
+        "rig": "Ga. s.",
+        "grossTonnage": 15,
+        "netTonnage": 13,
+        "service": "Pas.",
+        "crew": 1,
+        "whenBuilt": 1910
+      },
+      {
+        "officialNumber": 209011,
+        "vesselName": "Clara B.",
+        "rig": "Ga. s.",
+        "grossTonnage": 13,
+        "netTonnage": 9,
+        "service": "Pas.",
+        "crew": 1,
+        "whenBuilt": 1910
+      },
+      {
+        "officialNumber": 212035,
+        "vesselName": "Clara Blanche.",
+        "rig": "Ga. s.",
+        "grossTonnage": 15,
+        "netTonnage": 10,
+        "service": "Frt.",
+        "crew": 1,
+        "whenBuilt": 1914
+      },
+      {
+        "officialNumber": 126664,
+        "vesselName": "Clara Bradon.",
+        "rig": "Ga. s.",
+        "grossTonnage": 11,
+        "netTonnage": 10,
+        "service": "Frt.",
+        "crew": 2,
+        "whenBuilt": 1890
+      },
+      {
+        "officialNumber": 126378,
+        "vesselName": "Clara Brown.",
+        "rig": "St. p.",
+        "grossTonnage": 190,
+        "netTonnage": 111,
+        "service": "Pas.",
+        "crew": 6,
+        "whenBuilt": 1886
+      },
+      {
+        "officialNumber": 204680,
+        "vesselName": "Clara C.....",
+        "rig": "Ga. s.",
+        "grossTonnage": 7,
+        "netTonnage": 5,
+        "service": "Fsh.",
+        "crew": 1,
+        "whenBuilt": 1907
+      },
+      {
+        "officialNumber": 91027,
+        "vesselName": "Clara Cavett.",
+        "rig": "St. p.",
+        "grossTonnage": 166,
+        "netTonnage": 166,
+        "service": "Tow.",
+        "crew": 1,
+        "whenBuilt": 1877
+      },
+      {
+        "officialNumber": 127723,
+        "vesselName": "Clara E.",
+        "rig": "Ga. s.",
+        "grossTonnage": 29,
+        "netTonnage": 16,
+        "service": "Msc.",
+        "crew": 10,
+        "whenBuilt": 1902
+      },
+      {
+        "officialNumber": 127532,
+        "vesselName": "Clara Hawes.",
+        "rig": "St. p.",
+        "grossTonnage": 44,
+        "netTonnage": 27,
+        "service": "Frt.",
+        "crew": 3,
+        "whenBuilt": 1901
+      },
+      {
+        "officialNumber": 127250,
+        "vesselName": "Clara J",
+        "rig": "Ga. s.",
+        "grossTonnage": 12,
+        "netTonnage": 7,
+        "service": "Oys.",
+        "crew": 1,
+        "whenBuilt": 1898
+      },
+      {
+        "officialNumber": 201537,
+        "vesselName": "Clara J",
+        "rig": "Ga. s.",
+        "grossTonnage": 7,
+        "netTonnage": 5,
+        "service": "Frt.",
+        "crew": 1,
+        "whenBuilt": 1898
+      },
+      {
+        "officialNumber": 207156,
+        "vesselName": "Clara L.",
+        "rig": "Ga. s.",
+        "grossTonnage": 7,
+        "netTonnage": 7,
+        "service": "Fsh.",
+        "crew": 2,
+        "whenBuilt": 1902
+      },
+      {
+        "officialNumber": 126111,
+        "vesselName": "Clara May",
+        "rig": "St. s.",
+        "netTonnage": 11,
+        "service": "Tow.",
+        "crew": 6,
+        "whenBuilt": 1883
+      },
+      {
+        "officialNumber": 20466,
+        "vesselName": "Clara McWilliams.",
+        "rig": "St. s.",
+        "grossTonnage": 50,
+        "netTonnage": 25,
+        "service": "Tow.",
+        "crew": 3,
+        "whenBuilt": 1874
+      },
+      {
+        "officialNumber": 208395,
+        "vesselName": "Clara P.",
+        "rig": "Ga. p.",
+        "grossTonnage": 13,
+        "netTonnage": 13,
+        "service": "Pas.",
+        "crew": 6,
+        "whenBuilt": 1908
+      },
+      {
+        "officialNumber": 127143,
+        "vesselName": "Clara S.",
+        "rig": "Ga. s.",
+        "grossTonnage": 8,
+        "netTonnage": 6,
+        "service": "Pas.",
+        "crew": 1,
+        "whenBuilt": 1895
+      },
+      {
+        "officialNumber": 206410,
+        "vesselName": "Clara S..",
+        "rig": "Ga. s.",
+        "grossTonnage": 30,
+        "netTonnage": 29,
+        "service": "Pas.",
+        "crew": 2,
+        "whenBuilt": 1909
+      },
+      {
+        "officialNumber": 206512,
+        "vesselName": "Clara S",
+        "rig": "Ga. s.",
+        "grossTonnage": 12,
+        "netTonnage": 11,
+        "service": "Fsh.",
+        "crew": 2,
+        "whenBuilt": 1907
+      },
+      {
+        "officialNumber": 210963,
+        "vesselName": "Clara S",
+        "rig": "Ga. s.",
+        "grossTonnage": 5,
+        "netTonnage": 5,
+        "service": "Pas.",
+        "crew": 1,
+        "whenBuilt": 1912
+      },
+      {
+        "officialNumber": 205087,
+        "vesselName": "Clara T.",
+        "rig": "Ga. s.",
+        "grossTonnage": 20,
+        "netTonnage": 17,
+        "service": "Fsh.",
+        "crew": 3,
+        "whenBuilt": 1908
+      },
+      {
+        "officialNumber": 126586,
+        "vesselName": "Clara A. Elliott.",
+        "rig": "St. s.",
+        "grossTonnage": 21,
+        "netTonnage": 13,
+        "service": "Fsh.",
+        "crew": 5,
+        "whenBuilt": 1882
+      },
+      {
+        "officialNumber": 126204,
+        "vesselName": "Clara A. McIntyre.",
+        "rig": "St. s.",
+        "grossTonnage": 44,
+        "netTonnage": 22,
+        "service": "Tow.",
+        "crew": 5,
+        "whenBuilt": 1884
+      },
+      {
+        "officialNumber": 126482,
+        "vesselName": "Clara A. Marston.",
+        "rig": "Ga. s.",
+        "grossTonnage": 21,
+        "netTonnage": 20,
+        "service": "Msc.",
+        "crew": 3,
+        "whenBuilt": 1888
+      },
+      {
+        "officialNumber": 125050,
+        "vesselName": "Clara A. Palmer",
+        "rig": "Ga. s.",
+        "grossTonnage": 15,
+        "netTonnage": 14,
+        "service": "Oys.",
+        "crew": 2,
+        "whenBuilt": 1872
+      },
+      {
+        "officialNumber": 126776,
+        "vesselName": "Clara E. Rich..",
+        "rig": "Ga. s.",
+        "grossTonnage": 5,
+        "netTonnage": 5,
+        "service": "Fsh.",
+        "crew": 2,
+        "whenBuilt": 1888
+      },
+      {
+        "officialNumber": 126925,
+        "vesselName": "Clara E. Shores",
+        "rig": "Ga. s.",
+        "grossTonnage": 12,
+        "netTonnage": 7,
+        "service": "Oys.",
+        "crew": 1,
+        "whenBuilt": 1892
+      },
+      {
+        "officialNumber": 125899,
+        "vesselName": "Clara E. Uhler.",
+        "rig": "St. s.",
+        "grossTonnage": 43,
+        "netTonnage": 21,
+        "service": "Pas.",
+        "whenBuilt": 1881
+      },
+      {
+        "officialNumber": 127456,
+        "vesselName": "Clara E. Walker",
+        "rig": "Ga. s.",
+        "grossTonnage": 11,
+        "netTonnage": 8,
+        "service": "Oys.",
+        "crew": 1,
+        "whenBuilt": 1900
+      },
+      {
+        "officialNumber": 126857,
+        "vesselName": "Clara M. Delano.",
+        "rig": "Ga. s.",
+        "grossTonnage": 5,
+        "netTonnage": 5,
+        "crew": 2,
+        "whenBuilt": 1892
+      },
+      {
+        "officialNumber": 127028,
+        "vesselName": "Clara M. Sprague.",
+        "rig": "Ga. s.",
+        "grossTonnage": 9,
+        "netTonnage": 9,
+        "service": "Fsh.",
+        "crew": 2,
+        "whenBuilt": 1894
+      },
+      {
+        "officialNumber": 212321,
+        "vesselName": "Clara R. P.",
+        "rig": "Ga. s.",
+        "grossTonnage": 7,
+        "netTonnage": 5,
+        "service": "Pas.",
+        "crew": 2,
+        "whenBuilt": 1914
+      },
+      {
+        "officialNumber": 210675,
+        "vesselName": "Claraette",
+        "rig": "Ga. s.",
+        "netTonnage": 5,
+        "service": "Tow.",
+        "crew": 1,
+        "whenBuilt": 1911
+      },
+      {
+        "officialNumber": 203347,
+        "vesselName": "Claralma.",
+        "rig": "Ga. s.",
+        "grossTonnage": 6,
+        "netTonnage": 6,
+        "service": "Pas.",
+        "crew": 1,
+        "whenBuilt": 1900
+      },
+      {
+        "officialNumber": 200186,
+        "vesselName": "Clare....",
+        "rig": "Ga. s.",
+        "grossTonnage": 6,
+        "netTonnage": 5,
+        "service": "Fsh.",
+        "crew": 1,
+        "whenBuilt": 1903
+      },
+      {
+        "officialNumber": 145404,
+        "vesselName": "Claremont.",
+        "rig": "St. s.",
+        "grossTonnage": 25,
+        "netTonnage": 12,
+        "service": "Tow.",
+        "crew": 4,
+        "whenBuilt": 1885
+      },
+      {
+        "officialNumber": 203912,
+        "vesselName": "Claremont.",
+        "rig": "St. s.",
+        "grossTonnage": 138,
+        "netTonnage": 774,
+        "service": "Fer.",
+        "crew": 13,
+        "whenBuilt": 1907
+      },
+      {
+        "officialNumber": 204731,
+        "vesselName": "Claremont.",
+        "rig": "St. s.",
+        "grossTonnage": 747,
+        "netTonnage": 418,
+        "service": "Frt.",
+        "crew": 21,
+        "whenBuilt": 1907
+      },
+      {
+        "officialNumber": 126808,
+        "vesselName": "Clarence.",
+        "rig": "Ga. s.",
+        "netTonnage": 13,
+        "service": "Oys.",
+        "whenBuilt": 1891
+      },
+      {
+        "officialNumber": 204822,
+        "vesselName": "Clarence",
+        "rig": "Ga. p.",
+        "grossTonnage": 20,
+        "netTonnage": 20,
+        "service": "Pas.",
+        "crew": 4,
+        "whenBuilt": 1907
+      },
+      {
+        "officialNumber": 205430,
+        "vesselName": "CLARENCE FIX.",
+        "rig": "St. s.",
+        "grossTonnage": 89,
+        "netTonnage": 61,
+        "service": "Pas.",
+        "crew": 3,
+        "whenBuilt": 1908
+      },
+      {
+        "officialNumber": 125693,
+        "vesselName": "Clarence Hodson",
+        "rig": "Ga. s.",
+        "grossTonnage": 13,
+        "netTonnage": 14,
+        "service": "Oys.",
+        "crew": 2,
+        "whenBuilt": 1878
+      },
+      {
+        "officialNumber": 127300,
+        "vesselName": "CLARENCE A. BLACK",
+        "rig": "St. s.",
+        "grossTonnage": 4521,
+        "netTonnage": 3474,
+        "service": "Frt.",
+        "crew": 25,
+        "whenBuilt": 1898
+      },
+      {
+        "officialNumber": 96365,
+        "vesselName": "Clarence B. Mitchell.",
+        "rig": "St. s.",
+        "grossTonnage": 47,
+        "netTonnage": 32,
+        "service": "Frt.",
+        "crew": 3,
+        "whenBuilt": 1897
+      },
+      {
+        "officialNumber": 211679,
+        "vesselName": "Clarence M. Lamb.",
+        "rig": "St. s.",
+        "grossTonnage": 29,
+        "netTonnage": 17,
+        "service": "Fsh.",
+        "crew": 4,
+        "whenBuilt": 1913
+      },
+      {
+        "officialNumber": 125376,
+        "vesselName": "Claribel.",
+        "rig": "St. s.",
+        "netTonnage": 11,
+        "service": "Tow.",
+        "crew": 3,
+        "whenBuilt": 1875
+      },
+      {
+        "officialNumber": 126740,
+        "vesselName": "Claribel",
+        "rig": "St. s.",
+        "netTonnage": 18,
+        "service": "Pas.",
+        "crew": 8,
+        "whenBuilt": 1891
+      },
+      {
+        "officialNumber": 209112,
+        "vesselName": "Clarice.",
+        "rig": "Ga. s.",
+        "netTonnage": 7,
+        "service": "Pas.",
+        "crew": 1,
+        "whenBuilt": 1911
+      },
+      {
+        "officialNumber": 211512,
+        "vesselName": "Clarinda.",
+        "rig": "Ga. y.",
+        "netTonnage": 52,
+        "service": "Yct.",
+        "crew": 4,
+        "whenBuilt": 1913
+      },
+      {
+        "officialNumber": 209846,
+        "vesselName": "Clarion.",
+        "rig": "Ga. p.",
+        "service": "Tow.",
+        "whenBuilt": 1895
+      },
+      {
+        "officialNumber": 127584,
+        "vesselName": "Clarissa",
+        "rig": "Ga. s.",
+        "netTonnage": 10,
+        "service": "Frt.",
+        "crew": 0,
+        "whenBuilt": 1901
+      },
+      {
+        "officialNumber": 212381,
+        "vesselName": "Clarion.",
+        "rig": "Ga. p.",
+        "netTonnage": 10,
+        "service": "Tow.",
+        "whenBuilt": 1914
+      },
+      {
+        "officialNumber": 206061,
+        "vesselName": "Clark.",
+        "rig": "Ga. s.",
+        "netTonnage": 7,
+        "service": "Frt.",
+        "whenBuilt": 1909
+      },
+      {
+        "officialNumber": 212322,
+        "vesselName": "Clark W. Jay.",
+        "rig": "Ga. s.",
+        "grossTonnage": 9,
+        "netTonnage": 8,
+        "service": "Fsh.",
+        "crew": 4,
+        "whenBuilt": 1914
+      },
+      {
+        "officialNumber": 135650,
+        "vesselName": "Clarksville..",
+        "rig": "St. s.",
+        "netTonnage": 13,
+        "service": "Tow.",
+        "whenBuilt": 1883
+      },
+      {
+        "officialNumber": 204201,
+        "vesselName": "Clason Point",
+        "rig": "Ga. s.",
+        "grossTonnage": 13,
+        "netTonnage": 11,
+        "service": "Pas.",
+        "whenBuilt": 1903
+      },
+      {
+        "officialNumber": 127712,
+        "vesselName": "Clatawa.",
+        "rig": "Ga. s.",
+        "grossTonnage": 12,
+        "netTonnage": 8,
+        "service": "Fsh.",
+        "whenBuilt": 1902
+      },
+      {
+        "officialNumber": 211556,
+        "vesselName": "Clatawa.",
+        "rig": "St. s.",
+        "grossTonnage": 49,
+        "netTonnage": 33,
+        "service": "Pas.",
+        "crew": 2,
+        "whenBuilt": 1913
+      },
+      {
+        "officialNumber": 204098,
+        "vesselName": "Claude.",
+        "rig": "St. s.",
+        "grossTonnage": 47,
+        "netTonnage": 32,
+        "service": "Pas.",
+        "whenBuilt": 1907
+      },
+      {
+        "officialNumber": 210055,
+        "vesselName": "Claude.",
+        "rig": "Ga. p.",
+        "netTonnage": 14,
+        "service": "Tow.",
+        "whenBuilt": 1912
+      },
+      {
+        "officialNumber": 127137,
+        "vesselName": "Claude L",
+        "rig": "Ga. s.",
+        "grossTonnage": 12,
+        "netTonnage": 11,
+        "service": "Msc.",
+        "whenBuilt": 1896
+      },
+      {
+        "officialNumber": 209425,
+        "vesselName": "Claude S",
+        "rig": "Ga. s.",
+        "grossTonnage": 7,
+        "netTonnage": 7,
+        "service": "Pas.",
+        "crew": 1,
+        "whenBuilt": 1910
+      },
+      {
+        "officialNumber": 125867,
+        "vesselName": "Claudia.",
+        "rig": "Ga. s.",
+        "grossTonnage": 21,
+        "netTonnage": 20,
+        "service": "Frt.",
+        "crew": 2,
+        "whenBuilt": 1850
+      },
+      {
+        "officialNumber": 126771,
+        "vesselName": "Claudia M.",
+        "rig": "Ga. s.",
+        "netTonnage": 5,
+        "service": "Oys.",
+        "whenBuilt": 1881
+      },
+      {
+        "officialNumber": 127431,
+        "vesselName": "CLAUDINE.",
+        "rig": "St. s.",
+        "grossTonnage": 846,
+        "netTonnage": 615,
+        "service": "Pas.",
+        "crew": 57,
+        "whenBuilt": 1890
+      },
+      {
+        "officialNumber": 210417,
+        "vesselName": "Clay.....",
+        "rig": "Ga. s.",
+        "grossTonnage": 13,
+        "netTonnage": 8,
+        "service": "Frt.",
+        "crew": 2,
+        "whenBuilt": 1912
+      },
+      {
+        "officialNumber": 127618,
+        "vesselName": "Clay Foreman.",
+        "rig": "St. s.",
+        "grossTonnage": 35,
+        "netTonnage": 16,
+        "service": "Tow.",
+        "crew": 5,
+        "whenBuilt": 1902
+      },
+      {
+        "officialNumber": 126985,
+        "vesselName": "Claymore.",
+        "rig": "St. y.",
+        "grossTonnage": 32,
+        "netTonnage": 16,
+        "service": "Yct.",
+        "crew": 5,
+        "whenBuilt": 1893
+      },
+      {
+        "officialNumber": 126442,
+        "vesselName": "Clayt.",
+        "rig": "St. s.",
+        "grossTonnage": 10,
+        "netTonnage": 9,
+        "service": "Tow.",
+        "crew": 5,
+        "whenBuilt": 1887
+      },
+      {
+        "officialNumber": 204043,
+        "vesselName": "Clayton.",
+        "rig": "Ga. s.",
+        "grossTonnage": 11,
+        "netTonnage": 10,
+        "service": "Pas.",
+        "crew": 2,
+        "whenBuilt": 1907
+      },
+      {
+        "officialNumber": 209245,
+        "vesselName": "Clayton.",
+        "rig": "Ga. s.",
+        "grossTonnage": 9,
+        "netTonnage": 6,
+        "service": "Fsh.",
+        "crew": 1,
+        "whenBuilt": 1911
+      },
+      {
+        "officialNumber": 211246,
+        "vesselName": "Clees.",
+        "rig": "Ga. p.",
+        "grossTonnage": 16,
+        "netTonnage": 13,
+        "service": "Fer.",
+        "crew": 0,
+        "whenBuilt": 1913
+      },
+      {
+        "officialNumber": 211317,
+        "vesselName": "Clematis.",
+        "rig": "Ga. s.",
+        "grossTonnage": 16,
+        "netTonnage": 11,
+        "service": "Pas.",
+        "crew": 2,
+        "whenBuilt": 1913
+      },
+      {
+        "officialNumber": 4534,
+        "vesselName": "Clement",
+        "rig": "Ga. s.",
+        "grossTonnage": 45,
+        "netTonnage": 42,
+        "service": "Frt.",
+        "crew": 3,
+        "whenBuilt": 1827
+      },
+      {
+        "officialNumber": 211979,
+        "vesselName": "Clementine",
+        "rig": "Ga. s.",
+        "grossTonnage": 12,
+        "netTonnage": 8,
+        "service": "Fsh.",
+        "crew": 2,
+        "whenBuilt": 1914
+      },
+      {
+        "officialNumber": 210734,
+        "vesselName": "Cleo.",
+        "rig": "Ga. s.",
+        "grossTonnage": 17,
+        "netTonnage": 11,
+        "service": "Ptl.",
+        "crew": 1,
+        "whenBuilt": 1909
+      },
+      {
+        "officialNumber": 208582,
+        "vesselName": "Cleo M.",
+        "rig": "Ga. s.",
+        "grossTonnage": 18,
+        "netTonnage": 15,
+        "service": "Fsh.",
+        "crew": 3,
+        "whenBuilt": 1911
+      },
+      {
+        "officialNumber": 86581,
+        "vesselName": "Cleone.",
+        "rig": "St. s.",
+        "grossTonnage": 228,
+        "netTonnage": 126,
+        "whenBuilt": 1901
+      },
+      {
+        "officialNumber": 126226,
+        "vesselName": "Cleopatra.",
+        "rig": "Ga. s.",
+        "grossTonnage": 10,
+        "netTonnage": 9,
+        "service": "Msc.",
+        "crew": 1,
+        "whenBuilt": 1879
+      },
+      {
+        "officialNumber": 127766,
+        "vesselName": "Cleopatra.",
+        "rig": "Ga. p.",
+        "grossTonnage": 10,
+        "netTonnage": 8,
+        "service": "Pas.",
+        "crew": 3,
+        "whenBuilt": 1903
+      },
+      {
+        "officialNumber": 205920,
+        "vesselName": "Cleopatra.",
+        "rig": "Ga. s.",
+        "grossTonnage": 9,
+        "netTonnage": 5,
+        "service": "Fsh.",
+        "crew": 2,
+        "whenBuilt": 1908
+      },
+      {
+        "officialNumber": 86556,
+        "vesselName": "Clerimond.",
+        "rig": "St. p.",
+        "grossTonnage": 87,
+        "netTonnage": 87,
+        "service": "Tow.",
+        "crew": 10,
+        "whenBuilt": 1901
+      },
+      {
+        "officialNumber": 126866,
+        "vesselName": "Clermont",
+        "rig": "St. p.",
+        "grossTonnage": 298,
+        "netTonnage": 203,
+        "service": "Pas.",
+        "crew": 8,
+        "whenBuilt": 1892
+      },
+      {
+        "officialNumber": 205064,
+        "vesselName": "Clermont",
+        "rig": "Ga. s.",
+        "grossTonnage": 14,
+        "netTonnage": 14,
+        "service": "Pas.",
+        "crew": 3,
+        "whenBuilt": 1908
+      },
+      {
+        "officialNumber": 206719,
+        "vesselName": "Clermont.",
+        "rig": "St. y.",
+        "grossTonnage": 155,
+        "netTonnage": 97,
+        "service": "Yct.",
+        "crew": 4,
+        "whenBuilt": 1909
+      },
+      {
+        "officialNumber": 208651,
+        "vesselName": "CLERMONT.",
+        "rig": "St. p.",
+        "grossTonnage": 1864,
+        "netTonnage": 1174,
+        "service": "Pas.",
+        "crew": 45,
+        "whenBuilt": 1911
+      },
+      {
+        "officialNumber": 209793,
+        "vesselName": "Clermont.",
+        "rig": "Ga. p.",
+        "grossTonnage": 8,
+        "netTonnage": 8,
+        "service": "Tow.",
+        "crew": 2,
+        "whenBuilt": 1912
+      },
+      {
+        "officialNumber": 210455,
+        "vesselName": "Clew.",
+        "rig": "Ga. y.",
+        "grossTonnage": 22,
+        "netTonnage": 15,
+        "service": "Yct.",
+        "crew": 1,
+        "whenBuilt": 1912
+      },
+      {
+        "officialNumber": 212261,
+        "vesselName": "Cliff.",
+        "rig": "Ga. p.",
+        "netTonnage": 8,
+        "service": "Pas.",
+        "crew": 1,
+        "whenBuilt": 1914
+      },
+      {
+        "officialNumber": 34200,
+        "vesselName": "Clifford.",
+        "rig": "St. s.",
+        "grossTonnage": 212,
+        "netTonnage": 142,
+        "service": "Frt.",
+        "crew": 6,
+        "whenBuilt": 1890
+      },
+      {
+        "officialNumber": 210598,
+        "vesselName": "Clifford M.",
+        "rig": "Ga. s.",
+        "grossTonnage": 7,
+        "netTonnage": 7,
+        "service": "Fsh.",
+        "crew": 1,
+        "whenBuilt": 1911
+      },
+      {
+        "officialNumber": 127471,
+        "vesselName": "Clifford Perin.",
+        "rig": "Ga. s.",
+        "grossTonnage": 19,
+        "netTonnage": 14,
+        "service": "Frt.",
+        "crew": 1,
+        "whenBuilt": 1900
+      },
+      {
+        "officialNumber": 206044,
+        "vesselName": "CLIFFORD F. MOLL.",
+        "rig": "St. s.",
+        "grossTonnage": 5141,
+        "netTonnage": 3894,
+        "service": "Frt.",
+        "crew": 21,
+        "whenBuilt": 1909
+      },
+      {
+        "officialNumber": 209448,
+        "vesselName": "Cliford W.",
+        "rig": "Ga. s.",
+        "grossTonnage": 6,
+        "netTonnage": 6,
+        "service": "Fsh.",
+        "crew": 2,
+        "whenBuilt": 1901
+      },
+      {
+        "officialNumber": 126520,
+        "vesselName": "CLIFTON.",
+        "rig": "St. s.",
+        "grossTonnage": 148,
+        "netTonnage": 101,
+        "service": "Pas.",
+        "crew": 6,
+        "whenBuilt": 1888
+      },
+      {
+        "officialNumber": 206244,
+        "vesselName": "Clifton.",
+        "rig": "Ga. s.",
+        "grossTonnage": 14,
+        "netTonnage": 10,
+        "service": "Pas.",
+        "crew": 1,
+        "whenBuilt": 1909
+      },
+      {
+        "officialNumber": 207095,
+        "vesselName": "Clifton.",
+        "rig": "Ga. s.",
+        "grossTonnage": 28,
+        "netTonnage": 21,
+        "service": "Fsh.",
+        "crew": 8,
+        "whenBuilt": 1910
+      },
+      {
+        "officialNumber": 207310,
+        "vesselName": "Clifton.",
+        "rig": "Ga. p.",
+        "grossTonnage": 14,
+        "netTonnage": 14,
+        "service": "Msc.",
+        "crew": 3,
+        "whenBuilt": 1910
+      },
+      {
+        "officialNumber": 33853,
+        "vesselName": "Climax.",
+        "rig": "St. s.",
+        "grossTonnage": 119,
+        "netTonnage": 77,
+        "service": "Frt.",
+        "crew": 7,
+        "whenBuilt": 1872
+      },
+      {
+        "officialNumber": 126451,
+        "vesselName": "Climar",
+        "rig": "Ga. s.",
+        "grossTonnage": 52,
+        "netTonnage": 27,
+        "service": "Frt.",
+        "crew": 2,
+        "whenBuilt": 1888
+      },
+      {
+        "officialNumber": 127492,
+        "vesselName": "Climax.",
+        "rig": "Ga. s.",
+        "grossTonnage": 10,
+        "netTonnage": 8,
+        "service": "Msc.",
+        "crew": 1,
+        "whenBuilt": 1900
+      },
+      {
+        "officialNumber": 207180,
+        "vesselName": "Climax..",
+        "rig": "St. p.",
+        "grossTonnage": 56,
+        "netTonnage": 55,
+        "service": "Frt.",
+        "crew": 11,
+        "whenBuilt": 1910
+      },
+      {
+        "officialNumber": 4870,
+        "vesselName": "Clinton",
+        "rig": "St. p.",
+        "grossTonnage": 586,
+        "netTonnage": 407,
+        "service": "Fer.",
+        "crew": 6,
+        "whenBuilt": 1862
+      },
+      {
+        "officialNumber": 5456,
+        "vesselName": "Clinton.",
+        "rig": "St. p.",
+        "grossTonnage": 1187,
+        "netTonnage": 717,
+        "service": "Pas.",
+        "crew": 27,
+        "whenBuilt": 1863
+      },
+      {
+        "officialNumber": 126026,
+        "vesselName": "Clinton.",
+        "rig": "Ga. s.",
+        "grossTonnage": 12,
+        "netTonnage": 6,
+        "service": "Tow.",
+        "whenBuilt": 1882
+      },
+      {
+        "officialNumber": 127221,
+        "vesselName": "Clinton.",
+        "rig": "St. s.",
+        "grossTonnage": 28,
+        "netTonnage": 19,
+        "service": "Wat.",
+        "crew": 2,
+        "whenBuilt": 1898
+      },
+      {
+        "officialNumber": 127238,
+        "vesselName": "CLINTON.",
+        "rig": "St. s.",
+        "grossTonnage": 40,
+        "netTonnage": 27,
+        "service": "Tow.",
+        "crew": 4,
+        "whenBuilt": 1898
+      },
+      {
+        "officialNumber": 127245,
+        "vesselName": "Clinton",
+        "rig": "St. s.",
+        "grossTonnage": 124,
+        "netTonnage": 62,
+        "service": "Frt.",
+        "crew": 6,
+        "whenBuilt": 1898
+      },
+      {
+        "officialNumber": 207239,
+        "vesselName": "Clinton.",
+        "rig": "St. s.",
+        "grossTonnage": 7,
+        "netTonnage": 7,
+        "service": "Frt.",
+        "crew": 2,
+        "whenBuilt": 1910
+      },
+      {
+        "officialNumber": 127232,
+        "vesselName": "CLIO.",
+        "rig": "St. s.",
+        "grossTonnage": 217,
+        "netTonnage": 136,
+        "service": "Pas.",
+        "crew": 10,
+        "whenBuilt": 1898
+      },
+      {
+        "officialNumber": 127297,
+        "vesselName": "Clio.",
+        "rig": "St. p.",
+        "grossTonnage": 34,
+        "netTonnage": 34,
+        "service": "Pas.",
+        "crew": 5,
+        "whenBuilt": 1898
+      },
+      {
+        "officialNumber": 201496,
+        "vesselName": "Clio.",
+        "rig": "Ga. s.",
+        "grossTonnage": 12,
+        "netTonnage": 10,
+        "service": "Msc.",
+        "whenBuilt": 1904
+      },
+      {
+        "officialNumber": 206660,
+        "vesselName": "CLIO.",
+        "rig": "St. s.",
+        "grossTonnage": 199,
+        "netTonnage": 135,
+        "service": "Pas.",
+        "whenBuilt": 1909
+      },
+      {
+        "officialNumber": 203050,
+        "vesselName": "Clione.",
+        "rig": "Ga. y.",
+        "grossTonnage": 20,
+        "netTonnage": 18,
+        "service": "Yct.",
+        "whenBuilt": 1906
+      },
+      {
+        "officialNumber": 126489,
+        "vesselName": "Clipper.",
+        "rig": "St. p.",
+        "grossTonnage": 91,
+        "netTonnage": 91,
+        "service": "Tow.",
+        "crew": 11,
+        "whenBuilt": 1888
+      },
+      {
+        "officialNumber": 127079,
+        "vesselName": "Clipper.",
+        "rig": "St. p.",
+        "grossTonnage": 185,
+        "netTonnage": 111,
+        "service": "Tow.",
+        "crew": 13,
+        "whenBuilt": 1895
+      },
+      {
+        "officialNumber": 208961,
+        "vesselName": "Clipper.",
+        "rig": "St. s.",
+        "grossTonnage": 32,
+        "netTonnage": 22,
+        "service": "Frt.",
+        "crew": 3,
+        "whenBuilt": 1910
+      },
+      {
+        "officialNumber": 209244,
+        "vesselName": "Clive.",
+        "rig": "Ga. s.",
+        "grossTonnage": 10,
+        "netTonnage": 9,
+        "service": "Frt.",
+        "crew": 1,
+        "whenBuilt": 1911
+      },
+      {
+        "officialNumber": 106775,
+        "vesselName": "Clivedon",
+        "rig": "St. s.",
+        "grossTonnage": 150,
+        "netTonnage": 102,
+        "service": "Pas.",
+        "crew": 12,
+        "whenBuilt": 1890
+      },
+      {
+        "officialNumber": 127148,
+        "vesselName": "Cloelia..",
+        "rig": "St. y.",
+        "grossTonnage": 26,
+        "netTonnage": 18,
+        "service": "Yct.",
+        "crew": 3,
+        "whenBuilt": 1896
+      },
+      {
+        "officialNumber": 157623,
+        "vesselName": "CLOVER",
+        "rig": "St. y.",
+        "grossTonnage": 27,
+        "netTonnage": 18,
+        "service": "Yct.",
+        "crew": 3,
+        "whenBuilt": 1901
+      },
+      {
+        "officialNumber": 201570,
+        "vesselName": "Clover",
+        "rig": "Ga. s.",
+        "grossTonnage": 16,
+        "netTonnage": 14,
+        "service": "Msc.",
+        "crew": 2,
+        "whenBuilt": 1904
+      },
+      {
+        "officialNumber": 125086,
+        "vesselName": "Clyde.",
+        "rig": "St. p.",
+        "grossTonnage": 121,
+        "netTonnage": 121,
+        "service": "Frt.",
+        "crew": 18,
+        "whenBuilt": 1870
+      },
+      {
+        "officialNumber": 125951,
+        "vesselName": "Clyde.",
+        "rig": "St. s.",
+        "netTonnage": 5,
+        "service": "Pas.",
+        "whenBuilt": 1880
+      },
+      {
+        "officialNumber": 127049,
+        "vesselName": "Clyde.",
+        "rig": "St. p.",
+        "netTonnage": 335,
+        "service": "Pas.",
+        "whenBuilt": 1894
+      },
+      {
+        "officialNumber": 200213,
+        "vesselName": "Clyde.",
+        "rig": "St. p.",
+        "grossTonnage": 99,
+        "netTonnage": 99,
+        "service": "Tow.",
+        "whenBuilt": 1903
+      },
+      {
+        "officialNumber": 205549,
+        "vesselName": "Clyde.",
+        "rig": "St. p.",
+        "grossTonnage": 72,
+        "netTonnage": 72,
+        "service": "Frt.",
+        "whenBuilt": 1908
+      },
+      {
+        "officialNumber": 209603,
+        "vesselName": "Clyde.",
+        "rig": "Ga. s.",
+        "grossTonnage": 14,
+        "netTonnage": 10,
+        "service": "Frt.",
+        "whenBuilt": 1911
+      },
+      {
+        "officialNumber": 211962,
+        "vesselName": "Clyde.",
+        "rig": "St. p.",
+        "netTonnage": 8,
+        "service": "Tow.",
+        "whenBuilt": 1914
+      },
+      {
+        "officialNumber": 212185,
+        "vesselName": "Clyde",
+        "rig": "Ga. s.",
+        "grossTonnage": 9,
+        "netTonnage": 6,
+        "service": "Pas.",
+        "whenBuilt": 1908
+      },
+      {
+        "officialNumber": 206276,
+        "vesselName": "Clyde Estelle.",
+        "rig": "Ga. p.",
+        "grossTonnage": 15,
+        "netTonnage": 15,
+        "service": "Fer.",
+        "whenBuilt": 1909
+      },
+      {
+        "officialNumber": 211271,
+        "vesselName": "Clyde P",
+        "rig": "Ga. s.",
+        "grossTonnage": 6,
+        "netTonnage": 5,
+        "service": "Pas.",
+        "whenBuilt": 1913
+      },
+      {
+        "officialNumber": 208340,
+        "vesselName": "Clyde S",
+        "rig": "St. p.",
+        "grossTonnage": 107,
+        "netTonnage": 107,
+        "service": "Frt.",
+        "whenBuilt": 1911
+      },
+      {
+        "officialNumber": 211614,
+        "vesselName": "Clydie.",
+        "rig": "Ga. s.",
+        "netTonnage": 8,
+        "service": "Msc.",
+        "whenBuilt": 1913
+      },
+      {
+        "officialNumber": 201393,
+        "vesselName": "Clyto..",
+        "rig": "Ga. s.",
+        "grossTonnage": 9,
+        "service": "Msc.",
+        "whenBuilt": 1904
+      },
+      {
+        "officialNumber": 207665,
+        "vesselName": "COALINGA",
+        "rig": "St. s.",
+        "grossTonnage": 875,
+        "netTonnage": 563,
+        "service": "Frt.",
+        "crew": 93,
+        "whenBuilt": 1910
+      },
+      {
+        "officialNumber": 127454,
+        "vesselName": "COAMO.",
+        "rig": "St. s.",
+        "grossTonnage": 4384,
+        "netTonnage": 2815,
+        "service": "Pas.",
+        "crew": 1,
+        "whenBuilt": 1891
+      },
+      {
+        "officialNumber": 205399,
+        "vesselName": "Coast.",
+        "rig": "Ga. s.",
+        "grossTonnage": 13,
+        "netTonnage": 11,
+        "service": "Pas.",
+        "whenBuilt": 1908
+      },
+      {
+        "officialNumber": 208443,
+        "vesselName": "Coast",
+        "rig": "Ga. s.",
+        "grossTonnage": 29,
+        "netTonnage": 20,
+        "service": "Fsh.",
+        "crew": 2,
+        "whenBuilt": 1911
+      },
+      {
+        "officialNumber": 127677,
+        "vesselName": "Coast Club.",
+        "rig": "Ga. s.",
+        "grossTonnage": 11,
+        "netTonnage": 6,
+        "service": "Frt.",
+        "crew": 1,
+        "whenBuilt": 1902
+      },
+      {
+        "officialNumber": 162610,
+        "vesselName": "Coaster.",
+        "rig": "St. s.",
+        "grossTonnage": 579,
+        "netTonnage": 353,
+        "service": "Frt.",
+        "crew": 19,
+        "whenBuilt": 1905
+      },
+      {
+        "officialNumber": 205602,
+        "vesselName": "Coaster.",
+        "rig": "Ga. s.",
+        "grossTonnage": 14,
+        "netTonnage": 10,
+        "service": "Fsh.",
+        "crew": 1,
+        "whenBuilt": 1908
+      },
+      {
+        "officialNumber": 207946,
+        "vesselName": "Coaster",
+        "rig": "Ga. s.",
+        "grossTonnage": 14,
+        "netTonnage": 10,
+        "service": "Frt.",
+        "crew": 1,
+        "whenBuilt": 1910
+      },
+      {
+        "officialNumber": 127415,
+        "vesselName": "Coastwise.",
+        "rig": "St. s.",
+        "netTonnage": 182,
+        "service": "Tow.",
+        "crew": 14,
+        "whenBuilt": 1900
+      },
+      {
+        "officialNumber": 207187,
+        "vesselName": "COASTWISE.",
+        "rig": "St. s.",
+        "grossTonnage": 4015,
+        "netTonnage": 2444,
+        "service": "Frt.",
+        "crew": 32,
+        "whenBuilt": 1910
+      },
+      {
+        "officialNumber": 211522,
+        "vesselName": "Cobos.",
+        "rig": "Ga. s.",
+        "grossTonnage": 119,
+        "netTonnage": 119,
+        "service": "Frt.",
+        "crew": 4,
+        "whenBuilt": 1913
+      },
+      {
+        "officialNumber": 212208,
+        "vesselName": "Coca-Cola Bill.",
+        "rig": "Ga. s.",
+        "grossTonnage": 12,
+        "netTonnage": 6,
+        "service": "Frt.",
+        "whenBuilt": 1911
+      },
+      {
+        "officialNumber": 127248,
+        "vesselName": "Cockawee,",
+        "rig": "Ga. y.",
+        "grossTonnage": 16,
+        "netTonnage": 11,
+        "service": "Yct.",
+        "crew": 2,
+        "whenBuilt": 1898
+      },
+      {
+        "officialNumber": 127767,
+        "vesselName": "Cocoon.",
+        "rig": "Ga. s.",
+        "grossTonnage": 13,
+        "netTonnage": 11,
+        "service": "Msc.",
+        "crew": 1,
+        "whenBuilt": 1903
+      },
+      {
+        "officialNumber": 208011,
+        "vesselName": "Cocopomelo.",
+        "rig": "Ga. y.",
+        "grossTonnage": 79,
+        "netTonnage": 71,
+        "service": "Yct.",
+        "crew": 4,
+        "whenBuilt": 1910
+      },
+      {
+        "officialNumber": 126886,
+        "vesselName": "CODORUS.",
+        "rig": "St. s.",
+        "grossTonnage": 2165,
+        "netTonnage": 1802,
+        "service": "Frt.",
+        "crew": 21,
+        "whenBuilt": 1892
+      },
+      {
+        "officialNumber": 125135,
+        "vesselName": "Coe F. Young.",
+        "rig": "St. s.",
+        "grossTonnage": 65,
+        "netTonnage": 33,
+        "service": "Tow.",
+        "whenBuilt": 1872
+      },
+      {
+        "officialNumber": 127398,
+        "vesselName": "Cohannet",
+        "rig": "St. s.",
+        "grossTonnage": 69,
+        "netTonnage": 34,
+        "service": "Tow.",
+        "crew": 3,
+        "whenBuilt": 1900
+      },
+      {
+        "officialNumber": 207710,
+        "vesselName": "Cohoe..",
+        "rig": "Ga. s.",
+        "netTonnage": 5,
+        "service": "Fsh.",
+        "crew": 1,
+        "whenBuilt": 1910
+      },
+      {
+        "officialNumber": 207117,
+        "vesselName": "Coila",
+        "rig": "Ga. s.",
+        "grossTonnage": 6,
+        "netTonnage": 6,
+        "service": "Fsh.",
+        "whenBuilt": 1902
+      },
+      {
+        "officialNumber": 205998,
+        "vesselName": "Colade II",
+        "rig": "Ga. s.",
+        "grossTonnage": 13,
+        "netTonnage": 9,
+        "service": "Pas.",
+        "crew": 1,
+        "whenBuilt": 1909
+      },
+      {
+        "officialNumber": 203173,
+        "vesselName": "Coldfoot",
+        "rig": "Ga. p.",
+        "grossTonnage": 12,
+        "netTonnage": 7,
+        "service": "Frt.",
+        "crew": 1,
+        "whenBuilt": 1906
+      },
+      {
+        "officialNumber": 81445,
+        "vesselName": "Coleraine",
+        "rig": "St. s.",
+        "grossTonnage": 99,
+        "netTonnage": 49,
+        "service": "Tow.",
+        "crew": 10,
+        "whenBuilt": 1893
+      },
+      {
+        "officialNumber": 208704,
+        "vesselName": "Colima.",
+        "rig": "Ga. s.",
+        "grossTonnage": 13,
+        "netTonnage": 9,
+        "service": "Pas.",
+        "crew": 1,
+        "whenBuilt": 1911
+      },
+      {
+        "officialNumber": 203150,
+        "vesselName": "Colin B. II..",
+        "rig": "Ga. y.",
+        "netTonnage": 25,
+        "service": "Yct.",
+        "crew": 3,
+        "whenBuilt": 1906
+      },
+      {
+        "officialNumber": 208732,
+        "vesselName": "Colleen..",
+        "rig": "Ga. y.",
+        "grossTonnage": 12,
+        "netTonnage": 7,
+        "service": "Yct.",
+        "crew": 3,
+        "whenBuilt": 1914
+      },
+      {
+        "officialNumber": 125918,
+        "vesselName": "Collinge...",
+        "rig": "St. s.",
+        "grossTonnage": 1601,
+        "netTonnage": 1280,
+        "service": "Frt.",
+        "crew": 15,
+        "whenBuilt": 1881
+      },
+      {
+        "officialNumber": 208769,
+        "vesselName": "Collingwood.",
+        "rig": "Ga. s.",
+        "grossTonnage": 14,
+        "netTonnage": 12,
+        "service": "Fsh.",
+        "crew": 6,
+        "whenBuilt": 1911
+      },
+      {
+        "officialNumber": 126548,
+        "vesselName": "COLLIS.",
+        "rig": "St. s.",
+        "grossTonnage": 205,
+        "netTonnage": 102,
+        "service": "Tow.",
+        "crew": 7,
+        "whenBuilt": 1889
+      },
+      {
+        "officialNumber": 209225,
+        "vesselName": "Collis...",
+        "rig": "St. s.",
+        "grossTonnage": 20,
+        "netTonnage": 7,
+        "service": "Fsh.",
+        "crew": 2,
+        "whenBuilt": 1899
+      },
+      {
+        "officialNumber": 92936,
+        "vesselName": "COLON.",
+        "rig": "St. s.",
+        "grossTonnage": 5667,
+        "netTonnage": 4193,
+        "service": "Pas.",
+        "crew": 110,
+        "whenBuilt": 1899
+      },
+      {
+        "officialNumber": 209922,
+        "vesselName": "Colon.",
+        "rig": "Ga. s.",
+        "grossTonnage": 10,
+        "service": "Tow.",
+        "crew": 1,
+        "whenBuilt": 1912
+      },
+      {
+        "officialNumber": 127553,
+        "vesselName": "COLONEL.",
+        "rig": "St. s.",
+        "grossTonnage": 3879,
+        "netTonnage": 3044,
+        "service": "Frt.",
+        "crew": 14,
+        "whenBuilt": 1901
+      },
+      {
+        "officialNumber": 127726,
+        "vesselName": "Colonel",
+        "rig": "Ga. s.",
+        "grossTonnage": 7,
+        "service": "Fsh.",
+        "crew": 1,
+        "whenBuilt": 1903
+      },
+      {
+        "officialNumber": 204173,
+        "vesselName": "Col. De Hart.",
+        "rig": "Ga. p.",
+        "grossTonnage": 11,
+        "netTonnage": 11,
+        "service": "Pas.",
+        "crew": 1,
+        "whenBuilt": 1907
+      },
+      {
+        "officialNumber": 126801,
+        "vesselName": "Col. Ledyard..",
+        "rig": "St. p.",
+        "grossTonnage": 203,
+        "netTonnage": 101,
+        "service": "Fer.",
+        "crew": 7,
+        "whenBuilt": 1891
+      },
+      {
+        "officialNumber": 211702,
+        "vesselName": "COLONEL WARD.",
+        "rig": "St. s.",
+        "grossTonnage": 41,
+        "netTonnage": 28,
+        "service": "Tow.",
+        "crew": 4,
+        "whenBuilt": 1913
+      },
+      {
+        "officialNumber": 127743,
+        "vesselName": "COL. E. L. DRAKE....O",
+        "rig": "St. s.",
+        "grossTonnage": 4205,
+        "netTonnage": 3307,
+        "service": "Frt.",
+        "crew": 28,
+        "whenBuilt": 1903
+      },
+      {
+        "officialNumber": 209185,
+        "vesselName": "COL. JAMES M. SCHOONMAKER. O",
+        "rig": "St. s.",
+        "grossTonnage": 8603,
+        "netTonnage": 6650,
+        "service": "Frt.",
+        "crew": 24,
+        "whenBuilt": 1911
+      },
+      {
+        "officialNumber": 126983,
+        "vesselName": "COL. JOHN F. GAYNOR..",
+        "rig": "St. s.",
+        "grossTonnage": 153,
+        "netTonnage": 76,
+        "service": "Tow.",
+        "crew": 11,
+        "whenBuilt": 1893
+      },
+      {
+        "officialNumber": 145951,
+        "vesselName": "Col. Thomas F. Austin..",
+        "rig": "Ga. s.",
+        "netTonnage": 53,
+        "service": "Frt.",
+        "crew": 16,
+        "whenBuilt": 1902
+      },
+      {
+        "officialNumber": 107474,
+        "vesselName": "COLONIA.",
+        "rig": "St. y.",
+        "grossTonnage": 259,
+        "netTonnage": 151,
+        "service": "Yct.",
+        "crew": 20,
+        "whenBuilt": 1899
+      },
+      {
+        "officialNumber": 127700,
+        "vesselName": "Colonia.",
+        "rig": "St. s.",
+        "grossTonnage": 73,
+        "netTonnage": 136,
+        "service": "Lgt.",
+        "crew": 10,
+        "whenBuilt": 1902
+      },
+      {
+        "officialNumber": 210426,
+        "vesselName": "Colonia",
+        "rig": "Ga. s.",
+        "grossTonnage": 10,
+        "netTonnage": 6,
+        "service": "Pas.",
+        "crew": 1,
+        "whenBuilt": 1912
+      },
+      {
+        "officialNumber": 126012,
+        "vesselName": "Colonial",
+        "rig": "St. s.",
+        "grossTonnage": 1713,
+        "netTonnage": 1323,
+        "service": "Frt.",
+        "crew": 15,
+        "whenBuilt": 1882
+      },
+      {
+        "officialNumber": 127089,
+        "vesselName": "Colonial.",
+        "rig": "St. s.",
+        "grossTonnage": 110,
+        "netTonnage": 80,
+        "service": "Pas.",
+        "crew": 3,
+        "whenBuilt": 1895
+      },
+      {
+        "officialNumber": 201980,
+        "vesselName": "Colonial.",
+        "rig": "Ga. s.",
+        "grossTonnage": 6,
+        "netTonnage": 5,
+        "service": "Fer.",
+        "crew": 3,
+        "whenBuilt": 1905
+      },
+      {
+        "officialNumber": 205611,
+        "vesselName": "Colonial.",
+        "rig": "St. s.",
+        "grossTonnage": 22,
+        "netTonnage": 18,
+        "service": "Pas.",
+        "crew": 5,
+        "whenBuilt": 1899
+      },
+      {
+        "officialNumber": 210244,
+        "vesselName": "Colonial.",
+        "rig": "Ga. s.",
+        "grossTonnage": 14,
+        "netTonnage": 9,
+        "service": "Pas.",
+        "crew": 1,
+        "whenBuilt": 1912
+      },
+      {
+        "officialNumber": 106826,
+        "vesselName": "Colorado.",
+        "rig": "St. s.",
+        "grossTonnage": 45,
+        "netTonnage": 22,
+        "service": "Tow.",
+        "crew": 5,
+        "whenBuilt": 1891
+      },
+      {
+        "officialNumber": 125734,
+        "vesselName": "Colorado.",
+        "rig": "St. s.",
+        "grossTonnage": 2764,
+        "netTonnage": 2022,
+        "service": "Pas.",
+        "crew": 42,
+        "whenBuilt": 1879
+      },
+      {
+        "officialNumber": 126284,
+        "vesselName": "Colorado.",
+        "rig": "St. p.",
+        "netTonnage": 541,
+        "service": "Fer.",
+        "crew": 6,
+        "whenBuilt": 1885
+      },
+      {
+        "officialNumber": 5497,
+        "vesselName": "Columbia.",
+        "rig": "St. p.",
+        "grossTonnage": 586,
+        "netTonnage": 416,
+        "service": "Fer.",
+        "whenBuilt": 1867
+      },
+      {
+        "officialNumber": 91772,
+        "vesselName": "COLUMBIA",
+        "rig": "St. s.",
+        "grossTonnage": 255,
+        "netTonnage": 142,
+        "service": "Pas.",
+        "crew": 7,
+        "whenBuilt": 1885
+      },
+      {
+        "officialNumber": 116244,
+        "vesselName": "Columbia",
+        "rig": "St. s.",
+        "grossTonnage": 62,
+        "netTonnage": 31,
+        "service": "Tow.",
+        "crew": 4,
+        "whenBuilt": 1888
+      },
+      {
+        "officialNumber": 125144,
+        "vesselName": "Columbia.",
+        "rig": "St. s.",
+        "grossTonnage": 96,
+        "netTonnage": 48,
+        "service": "Tow.",
+        "crew": 5,
+        "whenBuilt": 1872
+      },
+      {
+        "officialNumber": 125507,
+        "vesselName": "Columbia.",
+        "rig": "St. p.",
+        "grossTonnage": 663,
+        "netTonnage": 535,
+        "service": "Pas.",
+        "crew": 20,
+        "whenBuilt": 1876
+      },
+      {
+        "officialNumber": 125592,
+        "vesselName": "Columbia.",
+        "rig": "St. p.",
+        "grossTonnage": 1468,
+        "netTonnage": 1098,
+        "service": "Pas.",
+        "crew": 52,
+        "whenBuilt": 1877
+      },
+      {
+        "officialNumber": 125614,
+        "vesselName": "Columbia",
+        "rig": "St. p.",
+        "netTonnage": 284,
+        "service": "Fer.",
+        "whenBuilt": 1877
+      },
+      {
+        "officialNumber": 125895,
+        "vesselName": "Columbia.",
+        "rig": "Ga. s.",
+        "grossTonnage": 11,
+        "netTonnage": 10,
+        "service": "Pas.",
+        "whenBuilt": 1881
+      },
+      {
+        "officialNumber": 125947,
+        "vesselName": "Columbia.",
+        "rig": "St. s.",
+        "grossTonnage": 1373,
+        "netTonnage": 1053,
+        "service": "Frt.",
+        "crew": 15,
+        "whenBuilt": 1881
+      },
+      {
+        "officialNumber": 126445,
+        "vesselName": "Columbia.",
+        "rig": "Ga. s.",
+        "service": "Fsh.",
+        "crew": 1,
+        "whenBuilt": 1877
+      },
+      {
+        "officialNumber": 126578,
+        "vesselName": "Columbia.",
+        "rig": "St. s.",
+        "netTonnage": 104,
+        "service": "Cnl.",
+        "crew": 4,
+        "whenBuilt": 1889
+      },
+      {
+        "officialNumber": 126666,
+        "vesselName": "Columbia",
+        "rig": "Ga. s.",
+        "grossTonnage": 15,
+        "netTonnage": 14,
+        "service": "Frt.",
+        "crew": 1,
+        "whenBuilt": 1890
+      },
+      {
+        "officialNumber": 126823,
+        "vesselName": "Columbia.",
+        "rig": "St. s.",
+        "netTonnage": 70,
+        "service": "Tow.",
+        "crew": 5,
+        "whenBuilt": 1891
+      },
+      {
+        "officialNumber": 126861,
+        "vesselName": "Columbia.",
+        "rig": "St. s.",
+        "grossTonnage": 96,
+        "netTonnage": 65,
+        "service": "Pas.",
+        "crew": 4,
+        "whenBuilt": 1892
+      },
+      {
+        "officialNumber": 126870,
+        "vesselName": "Columbia.",
+        "rig": "Ga. s.",
+        "grossTonnage": 12,
+        "netTonnage": 8,
+        "service": "Tow.",
+        "whenBuilt": 1892
+      },
+      {
+        "officialNumber": 126882,
+        "vesselName": "Columbia",
+        "rig": "St. s.",
+        "netTonnage": 41,
+        "service": "Fsh.",
+        "crew": 4,
+        "whenBuilt": 1892
+      },
+      {
+        "officialNumber": 126903,
+        "vesselName": "Columbia.",
+        "rig": "St. s.",
+        "grossTonnage": 19,
+        "netTonnage": 9,
+        "service": "Fer.",
+        "whenBuilt": 1892
+      },
+      {
+        "officialNumber": 127027,
+        "vesselName": "Columbia.",
+        "rig": "Ga. s.",
+        "grossTonnage": 5,
+        "netTonnage": 5,
+        "service": "Fsh.",
+        "crew": 1,
+        "whenBuilt": 1893
+      },
+      {
+        "officialNumber": 127069,
+        "vesselName": "Columbia",
+        "rig": "St. p.",
+        "netTonnage": 660,
+        "service": "Fer.",
+        "whenBuilt": 1895
+      },
+      {
+        "officialNumber": 127116,
+        "vesselName": "COLUMBIA",
+        "rig": "St. s.",
+        "grossTonnage": 84,
+        "netTonnage": 57,
+        "service": "Tow.",
+        "whenBuilt": 1896
+      },
+      {
+        "officialNumber": 127192,
+        "vesselName": "Columbia.",
+        "rig": "St. p.",
+        "grossTonnage": 222,
+        "netTonnage": 222,
+        "service": "Pas.",
+        "whenBuilt": 1897
+      },
+      {
+        "officialNumber": 127243,
+        "vesselName": "Columbia.",
+        "rig": "St. p.",
+        "grossTonnage": 73,
+        "netTonnage": 73,
+        "service": "Tow.",
+        "whenBuilt": 1898
+      },
+      {
+        "officialNumber": 127320,
+        "vesselName": "Columbia",
+        "rig": "St. s.",
+        "grossTonnage": 9,
+        "netTonnage": 5,
+        "service": "Frt.",
+        "whenBuilt": 1894
+      },
+      {
+        "officialNumber": 127364,
+        "vesselName": "COLUMBIA",
+        "rig": "St. y.",
+        "grossTonnage": 682,
+        "netTonnage": 349,
+        "service": "Yct.",
+        "crew": 35,
+        "whenBuilt": 1899
+      },
+      {
+        "officialNumber": 127392,
+        "vesselName": "Columbia.",
+        "rig": "Ga. s.",
+        "grossTonnage": 11,
+        "netTonnage": 1,
+        "service": "Fsh.",
+        "crew": 4,
+        "whenBuilt": 1899
+      },
+      {
+        "officialNumber": 127410,
+        "vesselName": "Columbia.",
+        "rig": "Ga. s.",
+        "grossTonnage": 12,
+        "netTonnage": 10,
+        "service": "Msc.",
+        "whenBuilt": 1900
+      },
+      {
+        "officialNumber": 127422,
+        "vesselName": "COLUMBIA.",
+        "rig": "St. s.",
+        "grossTonnage": 114,
+        "netTonnage": 77,
+        "service": "Tow.",
+        "crew": 3,
+        "whenBuilt": 1900
+      },
+      {
+        "officialNumber": 127427,
+        "vesselName": "Columbia.",
+        "rig": "Ga. s.",
+        "grossTonnage": 6,
+        "netTonnage": 5,
+        "service": "Fsh.",
+        "crew": 1,
+        "whenBuilt": 1900
+      },
+      {
+        "officialNumber": 127436,
+        "vesselName": "Columbia.",
+        "rig": "St. p.",
+        "grossTonnage": 82,
+        "netTonnage": 82,
+        "service": "Pas.",
+        "crew": 12,
+        "whenBuilt": 1900
+      },
+      {
+        "officialNumber": 127615,
+        "vesselName": "Columbia.",
+        "rig": "Ga. s.",
+        "grossTonnage": 6,
+        "netTonnage": 6,
+        "service": "Fsh.",
+        "crew": 1,
+        "whenBuilt": 1901
+      },
+      {
+        "officialNumber": 127656,
+        "vesselName": "Columbia.",
+        "rig": "Ga. p.",
+        "netTonnage": 8,
+        "service": "Oys.",
+        "crew": 1,
+        "whenBuilt": 1902
+      },
+      {
+        "officialNumber": 127665,
+        "vesselName": "COLUMBIA",
+        "rig": "St. s.",
+        "grossTonnage": 968,
+        "netTonnage": 549,
+        "service": "Pas.",
+        "crew": 20,
+        "whenBuilt": 1902
+      },
+      {
+        "officialNumber": 136685,
+        "vesselName": "Columbia.",
+        "rig": "St. s.",
+        "grossTonnage": 106,
+        "netTonnage": 72,
+        "service": "Tow.",
+        "crew": 12,
+        "whenBuilt": 1898
+      },
+      {
+        "officialNumber": 202431,
+        "vesselName": "Columbia.",
+        "rig": "St. p.",
+        "netTonnage": 215,
+        "service": "Pas.",
+        "crew": 19,
+        "whenBuilt": 1905
+      },
+      {
+        "officialNumber": 202757,
+        "vesselName": "Columbia.",
+        "rig": "Ga. s.",
+        "grossTonnage": 14,
+        "netTonnage": 10,
+        "service": "Pas.",
+        "crew": 1,
+        "whenBuilt": 1905
+      },
+      {
+        "officialNumber": 203037,
+        "vesselName": "Columbia.",
+        "rig": "Ga. s.",
+        "grossTonnage": 78,
+        "netTonnage": 65,
+        "service": "Oys.",
+        "crew": 3,
+        "whenBuilt": 1906
+      },
+      {
+        "officialNumber": 203213,
+        "vesselName": "Columbia.",
+        "rig": "Ga. p.",
+        "grossTonnage": 11,
+        "netTonnage": 9,
+        "service": "Pas.",
+        "crew": 1,
+        "whenBuilt": 1906
+      },
+      {
+        "officialNumber": 203239,
+        "vesselName": "Columbia.",
+        "rig": "Ga. s.",
+        "grossTonnage": 21,
+        "netTonnage": 21,
+        "service": "Fsh.",
+        "crew": 13,
+        "whenBuilt": 1906
+      },
+      {
+        "officialNumber": 203972,
+        "vesselName": "COLUMBIA",
+        "rig": "St. s.",
+        "grossTonnage": 2582,
+        "netTonnage": 1673,
+        "service": "Pas.",
+        "crew": 46,
+        "whenBuilt": 1907
+      },
+      {
+        "officialNumber": 204065,
+        "vesselName": "Columbia.",
+        "rig": "Ga. s.",
+        "grossTonnage": 12,
+        "netTonnage": 11,
+        "service": "Frt.",
+        "crew": 1,
+        "whenBuilt": 1901
+      },
+      {
+        "officialNumber": 204398,
+        "vesselName": "Columbia.",
+        "rig": "St. s.",
+        "grossTonnage": 114,
+        "netTonnage": 90,
+        "service": "Pas.",
+        "crew": 4,
+        "whenBuilt": 1907
+      },
+      {
+        "officialNumber": 204678,
+        "vesselName": "Columbia.",
+        "rig": "St. p.",
+        "netTonnage": 41,
+        "service": "Tow.",
+        "crew": 3,
+        "whenBuilt": 1907
+      },
+      {
+        "officialNumber": 204897,
+        "vesselName": "Columbia.",
+        "rig": "Ga. s.",
+        "grossTonnage": 7,
+        "netTonnage": 6,
+        "service": "Pas.",
+        "crew": 2,
+        "whenBuilt": 1906
+      },
+      {
+        "officialNumber": 205470,
+        "vesselName": "Columbia.",
+        "rig": "Ga. s.",
+        "grossTonnage": 10,
+        "netTonnage": 9,
+        "service": "Frt.",
+        "crew": 1,
+        "whenBuilt": 1905
+      },
+      {
+        "officialNumber": 205589,
+        "vesselName": "Columbia.",
+        "rig": "Ga. s.",
+        "grossTonnage": 6,
+        "netTonnage": 6,
+        "service": "Pas.",
+        "crew": 1,
+        "whenBuilt": 1908
+      },
+      {
+        "officialNumber": 206955,
+        "vesselName": "Columbia.",
+        "rig": "Ga. s.",
+        "grossTonnage": 12,
+        "netTonnage": 10,
+        "service": "Pas.",
+        "crew": 1,
+        "whenBuilt": 1909
+      },
+      {
+        "officialNumber": 206977,
+        "vesselName": "Columbia.",
+        "rig": "Ga. s.",
+        "grossTonnage": 14,
+        "netTonnage": 13,
+        "service": "Frt.",
+        "crew": 3,
+        "whenBuilt": 1909
+      },
+      {
+        "officialNumber": 206984,
+        "vesselName": "Columbia.",
+        "rig": "Ga. s.",
+        "grossTonnage": 13,
+        "netTonnage": 8,
+        "service": "Tow.",
+        "crew": 0,
+        "whenBuilt": 1909
+      },
+      {
+        "officialNumber": 207566,
+        "vesselName": "Columbia.",
+        "rig": "Ga. s.",
+        "grossTonnage": 19,
+        "netTonnage": 13,
+        "service": "Fsh.",
+        "crew": 1,
+        "whenBuilt": 1910
+      },
+      {
+        "officialNumber": 210291,
+        "vesselName": "COLUMBIA",
+        "rig": "St. s.",
+        "grossTonnage": 1923,
+        "netTonnage": 1188,
+        "service": "Pas.",
+        "crew": 26,
+        "whenBuilt": 1912
+      },
+      {
+        "officialNumber": 211804,
+        "vesselName": "Columbia.",
+        "rig": "Ga. s.",
+        "grossTonnage": 14,
+        "netTonnage": 9,
+        "service": "Pas.",
+        "crew": 1,
+        "whenBuilt": 1913
+      },
+      {
+        "officialNumber": 204601,
+        "vesselName": "COLUMBIAN.",
+        "rig": "St. s.",
+        "grossTonnage": 8579,
+        "netTonnage": 5598,
+        "service": "Pas.",
+        "crew": 43,
+        "whenBuilt": 1907
+      },
+      {
+        "officialNumber": 5145,
+        "vesselName": "Columbus.",
+        "rig": "Ga. s.",
+        "grossTonnage": 36,
+        "netTonnage": 21,
+        "whenBuilt": 1861
+      },
+      {
+        "officialNumber": 202116,
+        "vesselName": "Columbus.",
+        "rig": "Ga. s.",
+        "grossTonnage": 81300018228880888838082089,
+        "netTonnage": 18,
+        "service": "Pas.",
+        "crew": 3,
+        "whenBuilt": 1905
+      },
+      {
+        "officialNumber": 206605,
+        "vesselName": "Columbus.",
+        "rig": "Ga. p.",
+        "netTonnage": 7,
+        "service": "Tow.",
+        "crew": 2,
+        "whenBuilt": 1909
+      },
+      {
+        "officialNumber": 209994,
+        "vesselName": "Columbus.",
+        "rig": "Ga. s.",
+        "netTonnage": 26,
+        "service": "Fsh.",
+        "crew": 3,
+        "whenBuilt": 1912
+      },
+      {
+        "officialNumber": 202273,
+        "vesselName": "Columbus Y. C.",
+        "rig": "Ga. y.",
+        "grossTonnage": 60,
+        "netTonnage": 52,
+        "service": "Yct.",
+        "crew": 1,
+        "whenBuilt": 1905
+      },
+      {
+        "officialNumber": 209203,
+        "vesselName": "Colus.",
+        "rig": "St. p.",
+        "grossTonnage": 795,
+        "netTonnage": 737,
+        "service": "Frt.",
+        "crew": 19,
+        "whenBuilt": 1911
+      },
+      {
+        "officialNumber": 127207,
+        "vesselName": "Colwell.",
+        "rig": "St. s.",
+        "grossTonnage": 2934,
+        "netTonnage": 11,
+        "service": "Frt.",
+        "crew": 2,
+        "whenBuilt": 1897
+      },
+      {
+        "officialNumber": 126316,
+        "vesselName": "Comal.....",
+        "rig": "St. s.",
+        "netTonnage": 2251,
+        "service": "Pas.",
+        "crew": 58,
+        "whenBuilt": 1885
+      },
+      {
+        "officialNumber": 127111,
+        "vesselName": "COMANCHE.",
+        "rig": "St. s.",
+        "grossTonnage": 3856,
+        "netTonnage": 2477,
+        "service": "Pas.",
+        "crew": 82,
+        "whenBuilt": 1895
+      },
+      {
+        "officialNumber": 127662,
+        "vesselName": "Comanche.",
+        "rig": "Ga. y.",
+        "grossTonnage": 36,
+        "netTonnage": 30,
+        "service": "Yct.",
+        "whenBuilt": 1902
+      },
+      {
+        "officialNumber": 201262,
+        "vesselName": "Comanche.",
+        "rig": "Ga. s.",
+        "grossTonnage": 14,
+        "netTonnage": 11,
+        "service": "Pas.",
+        "crew": 2,
+        "whenBuilt": 1904
+      },
+      {
+        "officialNumber": 207715,
+        "vesselName": "Comanche",
+        "rig": "St. s.",
+        "grossTonnage": 78,
+        "netTonnage": 54,
+        "service": "Pas.",
+        "crew": 4,
+        "whenBuilt": 1895
+      },
+      {
+        "officialNumber": 211319,
+        "vesselName": "COMANCHE",
+        "rig": "St. s.",
+        "grossTonnage": 547,
+        "netTonnage": 350,
+        "service": "Frt.",
+        "crew": 22,
+        "whenBuilt": 1913
+      },
+      {
+        "officialNumber": 212218,
+        "vesselName": "Comanche.",
+        "rig": "Ga. s.",
+        "grossTonnage": 14,
+        "netTonnage": 10,
+        "service": "Frt.",
+        "crew": 1,
+        "whenBuilt": 1914
+      },
+      {
+        "officialNumber": 126660,
+        "vesselName": "Combination.",
+        "rig": "Ga. s.",
+        "grossTonnage": 14,
+        "netTonnage": 13,
+        "service": "Pas.",
+        "crew": 1,
+        "whenBuilt": 1890
+      },
+      {
+        "officialNumber": 212067,
+        "vesselName": "Comedian.",
+        "rig": "Ga. s.",
+        "grossTonnage": 11,
+        "netTonnage": 7,
+        "service": "Pas.",
+        "crew": 1,
+        "whenBuilt": 1914
+      },
+      {
+        "officialNumber": 205026,
+        "vesselName": "Come On",
+        "rig": "Ga. s.",
+        "netTonnage": 8,
+        "service": "Pas.",
+        "crew": 1,
+        "whenBuilt": 1906
+      },
+      {
+        "officialNumber": 125336,
+        "vesselName": "Comet",
+        "rig": "Ga. s.",
+        "netTonnage": 11,
+        "service": "Pas.",
+        "crew": 3,
+        "whenBuilt": 1874
+      },
+      {
+        "officialNumber": 127184,
+        "vesselName": "Comet",
+        "rig": "Ga. s.",
+        "grossTonnage": 13,
+        "service": "Frt.",
+        "crew": 1,
+        "whenBuilt": 1895
+      },
+      {
+        "officialNumber": 127338,
+        "vesselName": "Comet",
+        "rig": "Ga. y.",
+        "grossTonnage": 21,
+        "netTonnage": 13,
+        "service": "Yct.",
+        "crew": 1,
+        "whenBuilt": 1899
+      },
+      {
+        "officialNumber": 127361,
+        "vesselName": "Comet",
+        "rig": "St. s.",
+        "grossTonnage": 18,
+        "netTonnage": 13,
+        "service": "Fsh.",
+        "crew": 2,
+        "whenBuilt": 1899
+      },
+      {
+        "officialNumber": 127563,
+        "vesselName": "Comet",
+        "rig": "St. s.",
+        "grossTonnage": 77,
+        "netTonnage": 47,
+        "service": "Pas.",
+        "crew": 4,
+        "whenBuilt": 1901
+      },
+      {
+        "officialNumber": 127753,
+        "vesselName": "Comet",
+        "rig": "Ga. s.",
+        "netTonnage": 6,
+        "service": "Pas.",
+        "crew": 0,
+        "whenBuilt": 1903
+      },
+      {
+        "officialNumber": 201050,
+        "vesselName": "Comet",
+        "rig": "Ga. s.",
+        "netTonnage": 6,
+        "service": "Pas.",
+        "whenBuilt": 1904
+      },
+      {
+        "officialNumber": 202599,
+        "vesselName": "Comet.",
+        "rig": "Ga. y.",
+        "netTonnage": 44,
+        "service": "Yct.",
+        "crew": 2,
+        "whenBuilt": 1905
+      },
+      {
+        "officialNumber": 206980,
+        "vesselName": "Comet.",
+        "rig": "Ga. s.",
+        "netTonnage": 7,
+        "service": "Fsh.",
+        "whenBuilt": 1909
+      },
+      {
+        "officialNumber": 207529,
+        "vesselName": "Comet.",
+        "rig": "Ga. s.",
+        "grossTonnage": 100,
+        "netTonnage": 68,
+        "service": "Fsh.",
+        "crew": 18,
+        "whenBuilt": 1910
+      },
+      {
+        "officialNumber": 207584,
+        "vesselName": "Comet.",
+        "rig": "Ga. s.",
+        "grossTonnage": 10,
+        "netTonnage": 9,
+        "service": "Pas.",
+        "whenBuilt": 1910
+      },
+      {
+        "officialNumber": 207726,
+        "vesselName": "Comet.",
+        "rig": "Ga. s.",
+        "grossTonnage": 11,
+        "netTonnage": 10,
+        "service": "Pas.",
+        "crew": 1,
+        "whenBuilt": 1910
+      },
+      {
+        "officialNumber": 207822,
+        "vesselName": "Comet.",
+        "rig": "Ga. s.",
+        "grossTonnage": 7,
+        "netTonnage": 5,
+        "service": "Frt.",
+        "crew": 1,
+        "whenBuilt": 1910
+      },
+      {
+        "officialNumber": 207853,
+        "vesselName": "Comet.",
+        "rig": "Ga. s.",
+        "grossTonnage": 7,
+        "netTonnage": 7,
+        "service": "Fsh.",
+        "crew": 5,
+        "whenBuilt": 1910
+      },
+      {
+        "officialNumber": 207924,
+        "vesselName": "Comet.",
+        "rig": "Ga. s.",
+        "grossTonnage": 6,
+        "netTonnage": 5,
+        "service": "Pas.",
+        "crew": 1,
+        "whenBuilt": 1910
+      },
+      {
+        "officialNumber": 207972,
+        "vesselName": "Comet.",
+        "rig": "St. p.",
+        "grossTonnage": 42,
+        "netTonnage": 42,
+        "service": "Frt.",
+        "crew": 5,
+        "whenBuilt": 1910
+      },
+      {
+        "officialNumber": 208083,
+        "vesselName": "COMET",
+        "rig": "St. s.",
+        "grossTonnage": 104,
+        "netTonnage": 70,
+        "service": "Tow.",
+        "crew": 8,
+        "whenBuilt": 1910
+      },
+      {
+        "officialNumber": 208337,
+        "vesselName": "Comet.",
+        "rig": "Ga. s.",
+        "grossTonnage": 12,
+        "netTonnage": 9,
+        "service": "Fsh.",
+        "crew": 2,
+        "whenBuilt": 1910
+      },
+      {
+        "officialNumber": 211398,
+        "vesselName": "COMET",
+        "rig": "St. s.",
+        "grossTonnage": 2486,
+        "netTonnage": 1258,
+        "service": "Frt.",
+        "crew": 21,
+        "whenBuilt": 1913
+      },
+      {
+        "officialNumber": 205305,
+        "vesselName": "Comet, jr.",
+        "rig": "Ga. s.",
+        "grossTonnage": 20,
+        "netTonnage": 18,
+        "service": "Pas.",
+        "whenBuilt": 1908
+      },
+      {
+        "officialNumber": 210938,
+        "vesselName": "Comet No. 2.",
+        "rig": "Ga. p.",
+        "grossTonnage": 11,
+        "netTonnage": 11,
+        "service": "Tow.",
+        "crew": 2,
+        "whenBuilt": 1913
+      },
+      {
+        "officialNumber": 204995,
+        "vesselName": "Comfort.",
+        "rig": "Ga. y.",
+        "grossTonnage": 116,
+        "netTonnage": 78,
+        "service": "Yct.",
+        "crew": 4,
+        "whenBuilt": 1908
+      },
+      {
+        "officialNumber": 205749,
+        "vesselName": "Comfort.",
+        "rig": "Ga. y.",
+        "grossTonnage": 48,
+        "netTonnage": 43,
+        "service": "Yct.",
+        "crew": 5,
+        "whenBuilt": 1899
+      },
+      {
+        "officialNumber": 206914,
+        "vesselName": "Comfort.",
+        "rig": "Ga. s.",
+        "grossTonnage": 12,
+        "netTonnage": 8,
+        "service": "Pas.",
+        "crew": 1,
+        "whenBuilt": 1905
+      },
+      {
+        "officialNumber": 206192,
+        "vesselName": "Comfort II.",
+        "rig": "Ga. y.",
+        "grossTonnage": 29,
+        "netTonnage": 24,
+        "service": "Yct.",
+        "crew": 3,
+        "whenBuilt": 1909
+      },
+      {
+        "officialNumber": 126695,
+        "vesselName": "Comique.",
+        "rig": "Ga. s.",
+        "grossTonnage": 13,
+        "netTonnage": 12,
+        "service": "Msc.",
+        "crew": 1,
+        "whenBuilt": 1890
+      },
+      {
+        "officialNumber": 116671,
+        "vesselName": "Commiander..",
+        "rig": "St. s.",
+        "grossTonnage": 160,
+        "netTonnage": 90,
+        "service": "Pas.",
+        "crew": 5,
+        "whenBuilt": 1895
+      },
+      {
+        "officialNumber": 126962,
+        "vesselName": "Commander.",
+        "rig": "St. s.",
+        "grossTonnage": 99,
+        "netTonnage": 49,
+        "service": "Pas.",
+        "crew": 5,
+        "whenBuilt": 1893
+      },
+      {
+        "officialNumber": 127286,
+        "vesselName": "Commander.",
+        "rig": "Ga. s.",
+        "grossTonnage": 47,
+        "netTonnage": 40,
+        "service": "Oys.",
+        "crew": 6,
+        "whenBuilt": 1898
+      },
+      {
+        "officialNumber": 203732,
+        "vesselName": "Commander.",
+        "rig": "Ga. s.",
+        "grossTonnage": 11,
+        "netTonnage": 8,
+        "service": "Fsh.",
+        "crew": 4,
+        "whenBuilt": 1906
+      },
+      {
+        "officialNumber": 125645,
+        "vesselName": "Commerce.",
+        "rig": "St. s.",
+        "grossTonnage": 112,
+        "netTonnage": 98,
+        "service": "Drg.",
+        "crew": 4,
+        "whenBuilt": 1878
+      },
+      {
+        "officialNumber": 127570,
+        "vesselName": "Commerce.",
+        "rig": "St. s.",
+        "grossTonnage": 127,
+        "netTonnage": 85,
+        "service": "Lgt.",
+        "crew": 6,
+        "whenBuilt": 1901
+      },
+      {
+        "officialNumber": 209367,
+        "vesselName": "COMMERCE..",
+        "rig": "St. s.",
+        "grossTonnage": 280,
+        "netTonnage": 190,
+        "service": "Frt.",
+        "crew": 8,
+        "whenBuilt": 1911
+      },
+      {
+        "officialNumber": 210227,
+        "vesselName": "Commerce.",
+        "rig": "St. p.",
+        "grossTonnage": 32,
+        "netTonnage": 24,
+        "service": "Tow.",
+        "crew": 8,
+        "whenBuilt": 1912
+      },
+      {
+        "officialNumber": 211576,
+        "vesselName": "Commerce.",
+        "rig": "Ga. p.",
+        "grossTonnage": 13,
+        "netTonnage": 12,
+        "service": "Pas.",
+        "crew": 3,
+        "whenBuilt": 1913
+      },
+      {
+        "officialNumber": 207346,
+        "vesselName": "COMMISSIONER.",
+        "rig": "St. s.",
+        "grossTonnage": 403,
+        "netTonnage": 274,
+        "service": "Frt.",
+        "crew": 12,
+        "whenBuilt": 1910
+      },
+      {
+        "officialNumber": 76220,
+        "vesselName": "Commodore",
+        "rig": "Ga. s.",
+        "grossTonnage": 5,
+        "netTonnage": 5,
+        "service": "Pas.",
+        "crew": 0,
+        "whenBuilt": 1881
+      },
+      {
+        "officialNumber": 125145,
+        "vesselName": "Commodore.",
+        "rig": "Ga. s.",
+        "grossTonnage": 25,
+        "netTonnage": 22,
+        "service": "Oys.",
+        "crew": 3,
+        "whenBuilt": 1873
+      },
+      {
+        "officialNumber": 125452,
+        "vesselName": "Commodore",
+        "rig": "St. s.",
+        "grossTonnage": 2082,
+        "netTonnage": 1927,
+        "service": "Frt.",
+        "crew": 20,
+        "whenBuilt": 1875
+      },
+      {
+        "officialNumber": 126285,
+        "vesselName": "Commodore.",
+        "rig": "Ga. s.",
+        "grossTonnage": 20,
+        "netTonnage": 14,
+        "service": "Frt.",
+        "crew": 2,
+        "whenBuilt": 1885
+      },
+      {
+        "officialNumber": 126412,
+        "vesselName": "Commodore.",
+        "rig": "St. s.",
+        "grossTonnage": 125,
+        "netTonnage": 79,
+        "service": "Frt.",
+        "crew": 5,
+        "whenBuilt": 1887
+      },
+      {
+        "officialNumber": 127150,
+        "vesselName": "Commodore.",
+        "rig": "Ga. s.",
+        "grossTonnage": 12,
+        "netTonnage": 11,
+        "service": "Frt.",
+        "crew": 1,
+        "whenBuilt": 1896
+      },
+      {
+        "officialNumber": 127353,
+        "vesselName": "Commodore",
+        "rig": "St. p.",
+        "grossTonnage": 32,
+        "netTonnage": 32,
+        "service": "Fer.",
+        "whenBuilt": 1898
+      },
+      {
+        "officialNumber": 127370,
+        "vesselName": "Commodore.",
+        "rig": "Ga. s.",
+        "service": "Frt.",
+        "crew": 2,
+        "whenBuilt": 1899
+      },
+      {
+        "officialNumber": 127653,
+        "vesselName": "Commodore,",
+        "rig": "Ga. s.",
+        "grossTonnage": 13,
+        "netTonnage": 10,
+        "service": "Pas.",
+        "crew": 1,
+        "whenBuilt": 1902
+      },
+      {
+        "officialNumber": 205678,
+        "vesselName": "Commodore.",
+        "rig": "Ga. s.",
+        "grossTonnage": 14,
+        "netTonnage": 13,
+        "service": "Msc.",
+        "crew": 2,
+        "whenBuilt": 1908
+      },
+      {
+        "officialNumber": 208445,
+        "vesselName": "Commodore.",
+        "rig": "Ga. s.",
+        "grossTonnage": 23,
+        "netTonnage": 19,
+        "service": "Pas.",
+        "crew": 1,
+        "whenBuilt": 1911
+      },
+      {
+        "officialNumber": 209657,
+        "vesselName": "Commodore.",
+        "rig": "Ga. s.",
+        "grossTonnage": 12,
+        "netTonnage": 8,
+        "service": "Fsh.",
+        "crew": 1,
+        "whenBuilt": 1912
+      },
+      {
+        "officialNumber": 210265,
+        "vesselName": "Commodore.",
+        "rig": "Ga. s.",
+        "grossTonnage": 8,
+        "netTonnage": 7,
+        "service": "Fsh.",
+        "crew": 1,
+        "whenBuilt": 1912
+      },
+      {
+        "officialNumber": 211854,
+        "vesselName": "Commodore.",
+        "rig": "Ga. y.",
+        "grossTonnage": 18,
+        "netTonnage": 17,
+        "service": "Yct.",
+        "crew": 1,
+        "whenBuilt": 1913
+      },
+      {
+        "officialNumber": 127521,
+        "vesselName": "Commodore Bartlett..",
+        "rig": "St. s.",
+        "grossTonnage": 58,
+        "netTonnage": 39,
+        "service": "Pas.",
+        "crew": 12,
+        "whenBuilt": 1901
+      },
+      {
+        "officialNumber": 205269,
+        "vesselName": "Commodore Perry.",
+        "rig": "St. s.",
+        "grossTonnage": 55,
+        "netTonnage": 44,
+        "service": "Fsh.",
+        "crew": 6,
+        "whenBuilt": 1908
+      },
+      {
+        "officialNumber": 211238,
+        "vesselName": "Commoner....",
+        "rig": "Ga. s.",
+        "grossTonnage": 7,
+        "netTonnage": 5,
+        "service": "Pas.",
+        "crew": 1,
+        "whenBuilt": 1913
+      },
+      {
+        "officialNumber": 205149,
+        "vesselName": "COMMONWEALTH.",
+        "rig": "St. p.",
+        "grossTonnage": 5980,
+        "netTonnage": 2500,
+        "service": "Pas.",
+        "crew": 250,
+        "whenBuilt": 1908
+      },
+      {
+        "officialNumber": 207628,
+        "vesselName": "Commonwealth.",
+        "rig": "Ga. s.",
+        "grossTonnage": 88,
+        "netTonnage": 60,
+        "service": "Fsh.",
+        "crew": 14,
+        "whenBuilt": 1910
+      },
+      {
+        "officialNumber": 211718,
+        "vesselName": "Commonwealth.",
+        "rig": "Ga. s.",
+        "grossTonnage": 141,
+        "netTonnage": 93,
+        "service": "Fsh.",
+        "crew": 20,
+        "whenBuilt": 1913
+      },
+      {
+        "officialNumber": 80410,
+        "vesselName": "Communipaw.",
+        "rig": "St. s.",
+        "grossTonnage": 93,
+        "netTonnage": 54,
+        "service": "Tow.",
+        "crew": 5,
+        "whenBuilt": 1872
+      },
+      {
+        "officialNumber": 206390,
+        "vesselName": "Companero....",
+        "rig": "St. y.",
+        "grossTonnage": 129,
+        "netTonnage": 88,
+        "service": "Yct.",
+        "crew": 3,
+        "whenBuilt": 1909
+      },
+      {
+        "officialNumber": 202645,
+        "vesselName": "Companion.",
+        "rig": "Ga. s.",
+        "grossTonnage": 14,
+        "netTonnage": 10,
+        "service": "Frt.",
+        "crew": 1,
+        "whenBuilt": 1905
+      },
+      {
+        "officialNumber": 206499,
+        "vesselName": "Companion....",
+        "rig": "St. y.",
+        "grossTonnage": 25,
+        "netTonnage": 21,
+        "service": "Yct.",
+        "crew": 1,
+        "whenBuilt": 1909
+      },
+      {
+        "officialNumber": 207687,
+        "vesselName": "Companion.",
+        "rig": "Ga. s.",
+        "grossTonnage": 13,
+        "netTonnage": 9,
+        "service": "Fsh.",
+        "crew": 5,
+        "whenBuilt": 1910
+      },
+      {
+        "officialNumber": 203647,
+        "vesselName": "Comport.",
+        "rig": "St. s.",
+        "grossTonnage": 180,
+        "netTonnage": 122,
+        "service": "Frt.",
+        "crew": 6,
+        "whenBuilt": 1906
+      },
+      {
+        "officialNumber": 126596,
+        "vesselName": "Compton.",
+        "rig": "St. s.",
+        "grossTonnage": 213,
+        "netTonnage": 144,
+        "service": "Fsh.",
+        "crew": 17,
+        "whenBuilt": 1889
+      },
+      {
+        "officialNumber": 210386,
+        "vesselName": "Comrade..",
+        "rig": "Ga. s.",
+        "grossTonnage": 7,
+        "service": "Frt.",
+        "crew": 1,
+        "whenBuilt": 1912
+      },
+      {
+        "officialNumber": 211286,
+        "vesselName": "Comrade.",
+        "rig": "Ga. s.",
+        "grossTonnage": 12,
+        "netTonnage": 10,
+        "service": "Pas.",
+        "crew": 1,
+        "whenBuilt": 1913
+      },
+      {
+        "officialNumber": 211776,
+        "vesselName": "Comrade.",
+        "rig": "Ga. y.",
+        "netTonnage": 26,
+        "service": "Yct.",
+        "crew": 2,
+        "whenBuilt": 1913
+      },
+      {
+        "officialNumber": 127407,
+        "vesselName": "COMUS.",
+        "rig": "St. s.",
+        "grossTonnage": 4828,
+        "netTonnage": 3000,
+        "service": "Pas.",
+        "crew": 78,
+        "whenBuilt": 1900
+      },
+      {
+        "officialNumber": 126369,
+        "vesselName": "Conanicut.",
+        "rig": "St. p.",
+        "grossTonnage": 353,
+        "netTonnage": 241,
+        "service": "Fer.",
+        "crew": 8,
+        "whenBuilt": 1886
+      },
+      {
+        "officialNumber": 126719,
+        "vesselName": "CONCHO.",
+        "rig": "St. s.",
+        "grossTonnage": 3724,
+        "netTonnage": 2640,
+        "service": "Pas.",
+        "crew": 49,
+        "whenBuilt": 1891
+      },
+      {
+        "officialNumber": 127289,
+        "vesselName": "CONCORD",
+        "rig": "St. s.",
+        "grossTonnage": 353,
+        "netTonnage": 186,
+        "service": "Tow.",
+        "crew": 13,
+        "whenBuilt": 1898
+      },
+      {
+        "officialNumber": 127697,
+        "vesselName": "Concord.",
+        "rig": "St. s.",
+        "grossTonnage": 248,
+        "netTonnage": 149,
+        "service": "Frt.",
+        "crew": 13,
+        "whenBuilt": 1902
+      },
+      {
+        "officialNumber": 130526,
+        "vesselName": "Concord.",
+        "rig": "St. s.",
+        "grossTonnage": 1248,
+        "netTonnage": 697,
+        "service": "Pas.",
+        "crew": 47,
+        "whenBuilt": 1891
+      },
+      {
+        "officialNumber": 207264,
+        "vesselName": "Concord...",
+        "rig": "Ga. s.",
+        "grossTonnage": 13,
+        "service": "Fsh.",
+        "crew": 1,
+        "whenBuilt": 1910
+      },
+      {
+        "officialNumber": 203744,
+        "vesselName": "Concordia.",
+        "rig": "St. p.",
+        "grossTonnage": 156,
+        "netTonnage": 156,
+        "service": "Pas.",
+        "crew": 34,
+        "whenBuilt": 1906
+      },
+      {
+        "officialNumber": 204567,
+        "vesselName": "Concordia.",
+        "rig": "Ga. s.",
+        "grossTonnage": 11,
+        "netTonnage": 7,
+        "service": "Pas.",
+        "whenBuilt": 1907
+      },
+      {
+        "officialNumber": 205079,
+        "vesselName": "Concrete.",
+        "rig": "Ga. s.",
+        "grossTonnage": 11,
+        "netTonnage": 11,
+        "service": "Pas.",
+        "crew": 0,
+        "whenBuilt": 1908
+      },
+      {
+        "officialNumber": 127381,
+        "vesselName": "Condor.",
+        "rig": "St. p.",
+        "grossTonnage": 177,
+        "netTonnage": 177,
+        "service": "Tow.",
+        "crew": 12,
+        "whenBuilt": 1899
+      },
+      {
+        "officialNumber": 136374,
+        "vesselName": "+Condor...",
+        "rig": "St. y.",
+        "grossTonnage": 197,
+        "netTonnage": 134,
+        "service": "Yct.",
+        "crew": 15,
+        "whenBuilt": 1893
+      },
+      {
+        "officialNumber": 206558,
+        "vesselName": "CONEMAUGH..",
+        "rig": "St. s.",
+        "grossTonnage": 3898,
+        "netTonnage": 2967,
+        "service": "Frt.",
+        "crew": 27,
+        "whenBuilt": 1909
+      },
+      {
+        "officialNumber": 125669,
+        "vesselName": "Conestoga..",
+        "rig": "St. s.",
+        "grossTonnage": 726,
+        "netTonnage": 1562,
+        "service": "Frt.",
+        "crew": 16,
+        "whenBuilt": 1878
+      },
+      {
+        "officialNumber": 200624,
+        "vesselName": "CONESTOGA.",
+        "rig": "St. s.",
+        "grossTonnage": 617,
+        "netTonnage": 420,
+        "service": "Tow.",
+        "crew": 19,
+        "whenBuilt": 1904
+      },
+      {
+        "officialNumber": 91106,
+        "vesselName": "Coney Island.",
+        "rig": "St. s.",
+        "service": "Pas.",
+        "crew": 5
+      },
+      {
+        "officialNumber": 127057,
+        "vesselName": "Coney Island.",
+        "rig": "St. s.",
+        "netTonnage": 15,
+        "service": "Tow.",
+        "whenBuilt": 1894
+      },
+      {
+        "officialNumber": 126918,
+        "vesselName": "Confidence.",
+        "rig": "St. s.",
+        "netTonnage": 26,
+        "service": "Tow.",
+        "whenBuilt": 1892
+      },
+      {
+        "officialNumber": 127307,
+        "vesselName": "Confidence.",
+        "rig": "St. s.",
+        "netTonnage": 33,
+        "service": "Pas.",
+        "whenBuilt": 1898
+      },
+      {
+        "officialNumber": 127121,
+        "vesselName": "Confidence.",
+        "rig": "Ga. s.",
+        "netTonnage": 8,
+        "service": "Fsh.",
+        "crew": 1,
+        "whenBuilt": 1896
+      },
+      {
+        "officialNumber": 210212,
+        "vesselName": "Confidence.",
+        "rig": "Ga. s.",
+        "netTonnage": 22,
+        "service": "Fsh.",
+        "whenBuilt": 1912
+      },
+      {
+        "officialNumber": 211442,
+        "vesselName": "CONGRESS..",
+        "rig": "St. s.",
+        "grossTonnage": 7985,
+        "netTonnage": 4912,
+        "service": "Pas.",
+        "crew": 175,
+        "whenBuilt": 1913
+      },
+      {
+        "officialNumber": 212373,
+        "vesselName": "Congress.",
+        "rig": "Ga. s.",
+        "service": "Frt.",
+        "whenBuilt": 1914
+      },
+      {
+        "officialNumber": 206221,
+        "vesselName": "Conjurer.",
+        "rig": "Ga. s.",
+        "netTonnage": 6,
+        "service": "Fsh.",
+        "crew": 1,
+        "whenBuilt": 1909
+      },
+      {
+        "officialNumber": 127000,
+        "vesselName": "Conneaut,",
+        "rig": "St. s.",
+        "netTonnage": 31,
+        "service": "Tow.",
+        "whenBuilt": 1893
+      },
+      {
+        "officialNumber": 210980,
+        "vesselName": "Conneaut",
+        "rig": "Ga. s.",
+        "netTonnage": 7,
+        "service": "Frt.",
+        "crew": 3,
+        "whenBuilt": 1905
+      },
+      {
+        "officialNumber": 205871,
+        "vesselName": "CONNELLY BROTHERS.",
+        "rig": "St. s.",
+        "netTonnage": 6,
+        "service": "Frt.",
+        "crew": 3,
+        "whenBuilt": 1908
+      },
+      {
+        "officialNumber": 206518,
+        "vesselName": "Conner.",
+        "rig": "Ga. p.",
+        "netTonnage": 10,
+        "service": "Pas.",
+        "crew": 1,
+        "whenBuilt": 1909
+      },
+      {
+        "officialNumber": 126661,
+        "vesselName": "CONNETQUOT.",
+        "rig": "Ga. y.",
+        "netTonnage": 31,
+        "service": "Yct.",
+        "whenBuilt": 1880
+      },
+      {
+        "officialNumber": 126645,
+        "vesselName": "Conqueror.",
+        "rig": "St. s.",
+        "netTonnage": 9,
+        "service": "Tow.",
+        "crew": 4,
+        "whenBuilt": 1890
+      },
+      {
+        "officialNumber": 127533,
+        "vesselName": "Conqueror.",
+        "rig": "St. s.",
+        "netTonnage": 14,
+        "service": "Tow.",
+        "crew": 3,
+        "whenBuilt": 1901
+      },
+      {
+        "officialNumber": 209190,
+        "vesselName": "Conqueror.",
+        "rig": "Ga. s.",
+        "netTonnage": 22,
+        "service": "Fsh.",
+        "crew": 3,
+        "whenBuilt": 1911
+      },
+      {
+        "officialNumber": 211244,
+        "vesselName": "Conqueror..",
+        "rig": "Ga. s.",
+        "netTonnage": 11,
+        "service": "Fsh.",
+        "crew": 6,
+        "whenBuilt": 1913
+      },
+      {
+        "officialNumber": 5887,
+        "vesselName": "Conquest.",
+        "rig": "Ga. s.",
+        "netTonnage": 13,
+        "service": "Fsh.",
+        "crew": 3,
+        "whenBuilt": 1870
+      },
+      {
+        "officialNumber": 211105,
+        "vesselName": "CONRAD STARKE.",
+        "rig": "St. s.",
+        "netTonnage": 104,
+        "service": "Tow.",
+        "crew": 9,
+        "whenBuilt": 1913
+      },
+      {
+        "officialNumber": 125267,
+        "vesselName": "Constance",
+        "rig": "St. p.",
+        "netTonnage": 377,
+        "service": "Pas.",
+        "crew": 29,
+        "whenBuilt": 1874
+      },
+      {
+        "officialNumber": 127755,
+        "vesselName": "Constance.",
+        "rig": "Ga. y.",
+        "netTonnage": 91,
+        "service": "Yct.",
+        "crew": 15,
+        "whenBuilt": 1903
+      },
+      {
+        "officialNumber": 205147,
+        "vesselName": "Constance.",
+        "rig": "Ga. y.",
+        "service": "Yct.",
+        "crew": 2,
+        "whenBuilt": 1908
+      },
+      {
+        "officialNumber": 206392,
+        "vesselName": "Constance.",
+        "rig": "Ga. s.",
+        "netTonnage": 7,
+        "service": "Fsh.",
+        "crew": 4,
+        "whenBuilt": 1909
+      },
+      {
+        "officialNumber": 207072,
+        "vesselName": "Constance.",
+        "rig": "Ga. s.",
+        "grossTonnage": 15,
+        "netTonnage": 10,
+        "service": "Pas.",
+        "crew": 2,
+        "whenBuilt": 1909
+      },
+      {
+        "officialNumber": 211877,
+        "vesselName": "Constance.",
+        "rig": "Ga. s.",
+        "netTonnage": 53,
+        "service": "Fsh.",
+        "crew": 17,
+        "whenBuilt": 1913
+      },
+      {
+        "officialNumber": 212369,
+        "vesselName": "Constance C.",
+        "rig": "Ga. s.",
+        "grossTonnage": 6,
+        "netTonnage": 6,
+        "service": "Fsh.",
+        "crew": 2,
+        "whenBuilt": 1913
+      },
+      {
+        "officialNumber": 127625,
+        "vesselName": "Constellation.",
+        "rig": "Ga. s.",
+        "grossTonnage": 137,
+        "netTonnage": 89,
+        "service": "Fsh.",
+        "crew": 24,
+        "whenBuilt": 1902
+      },
+      {
+        "officialNumber": 4380,
+        "vesselName": "Constitution.",
+        "rig": "St. s.",
+        "netTonnage": 48,
+        "service": "Tow.",
+        "whenBuilt": 1864
+      },
+      {
+        "officialNumber": 86507,
+        "vesselName": "Constitution.",
+        "rig": "St. s.",
+        "grossTonnage": 46,
+        "netTonnage": 35,
+        "service": "Tow.",
+        "crew": 6,
+        "whenBuilt": 1900
+      },
+      {
+        "officialNumber": 127758,
+        "vesselName": "Constitution.",
+        "rig": "Ga. s.",
+        "netTonnage": 7,
+        "service": "Msc.",
+        "crew": 1,
+        "whenBuilt": 1903
+      },
+      {
+        "officialNumber": 205983,
+        "vesselName": "Constitution.",
+        "rig": "Ga. s.",
+        "netTonnage": 36,
+        "service": "Pas.",
+        "whenBuilt": 1909
+      },
+      {
+        "officialNumber": 211928,
+        "vesselName": "Constitution.",
+        "rig": "Ga. s.",
+        "netTonnage": 39,
+        "service": "Fsh.",
+        "whenBuilt": 1914
+      },
+      {
+        "officialNumber": 126945,
+        "vesselName": "Contaluta.",
+        "rig": "St. y.",
+        "netTonnage": 19,
+        "service": "Yct.",
+        "crew": 3,
+        "whenBuilt": 1893
+      },
+      {
+        "officialNumber": 211169,
+        "vesselName": "Content.",
+        "rig": "Ga. y.",
+        "netTonnage": 19,
+        "service": "Yct.",
+        "whenBuilt": 1913
+      },
+      {
+        "officialNumber": 126038,
+        "vesselName": "Contest.",
+        "rig": "Ga. s.",
+        "netTonnage": 12,
+        "service": "Oys.",
+        "crew": 1,
+        "whenBuilt": 1882
+      },
+      {
+        "officialNumber": 201902,
+        "vesselName": "Continental.",
+        "rig": "St. s.",
+        "netTonnage": 55,
+        "service": "Msc.",
+        "whenBuilt": 1905
+      },
+      {
+        "officialNumber": 206405,
+        "vesselName": "Continental",
+        "rig": "Ga. s.",
+        "netTonnage": 7,
+        "service": "Tow.",
+        "crew": 1,
+        "whenBuilt": 1909
+      },
+      {
+        "officialNumber": 209198,
+        "vesselName": "Continental.",
+        "rig": "Ga. s.",
+        "netTonnage": 22,
+        "service": "Fsh.",
+        "crew": 2,
+        "whenBuilt": 1911
+      },
+      {
+        "officialNumber": 204889,
+        "vesselName": "CONTRA COSTA",
+        "rig": "Ga. s.",
+        "grossTonnage": 832,
+        "netTonnage": 497,
+        "service": "Frt.",
+        "crew": 8,
+        "whenBuilt": 1908
+      },
+      {
+        "officialNumber": 209102,
+        "vesselName": "Contractor.",
+        "rig": "Ga. s.",
+        "grossTonnage": 9,
+        "netTonnage": 6,
+        "service": "Pas.",
+        "crew": 2,
+        "whenBuilt": 1909
+      },
+      {
+        "officialNumber": 201026,
+        "vesselName": "Control",
+        "rig": "St. p.",
+        "netTonnage": 65,
+        "service": "Tow.",
+        "crew": 10,
+        "whenBuilt": 1904
+      },
+      {
+        "officialNumber": 125182,
+        "vesselName": "Convoy.",
+        "rig": "St. s.",
+        "grossTonnage": 78,
+        "netTonnage": 39,
+        "service": "Tow.",
+        "crew": 7,
+        "whenBuilt": 1873
+      },
+      {
+        "officialNumber": 126337,
+        "vesselName": "Convoy",
+        "rig": "Ga. s.",
+        "netTonnage": 26,
+        "service": "Fsh.",
+        "crew": 12,
+        "whenBuilt": 1886
+      },
+      {
+        "officialNumber": 126468,
+        "vesselName": "Convoy",
+        "rig": "St. p.",
+        "grossTonnage": 170,
+        "netTonnage": 170,
+        "service": "Tow.",
+        "crew": 11,
+        "whenBuilt": 1888
+      },
+      {
+        "officialNumber": 209451,
+        "vesselName": "Convoy",
+        "rig": "Ga. s.",
+        "netTonnage": 12,
+        "service": "Oys.",
+        "whenBuilt": 1911
+      },
+      {
+        "officialNumber": 127350,
+        "vesselName": "Cooch.",
+        "rig": "Ga. s.",
+        "grossTonnage": 35,
+        "netTonnage": 26,
+        "service": "Fsh.",
+        "crew": 11,
+        "whenBuilt": 1899
+      },
+      {
+        "officialNumber": 125735,
+        "vesselName": "Cooper's Point.",
+        "rig": "St. p.",
+        "grossTonnage": 389,
+        "netTonnage": 261,
+        "service": "Fer.",
+        "crew": 6,
+        "whenBuilt": 1879
+      },
+      {
+        "officialNumber": 126223,
+        "vesselName": "Coos Bay.",
+        "rig": "St. s.",
+        "grossTonnage": 544,
+        "netTonnage": 403,
+        "service": "Pas.",
+        "crew": 26,
+        "whenBuilt": 1884
+      },
+      {
+        "officialNumber": 126700,
+        "vesselName": "Coos River",
+        "rig": "St. s.",
+        "grossTonnage": 16,
+        "netTonnage": 8,
+        "service": "Pas.",
+        "crew": 2,
+        "whenBuilt": 1890
+      },
+      {
+        "officialNumber": 127267,
+        "vesselName": "Coot",
+        "rig": "Ga. s.",
+        "netTonnage": 7,
+        "service": "Pas.",
+        "crew": 1,
+        "whenBuilt": 1898
+      },
+      {
+        "officialNumber": 204191,
+        "vesselName": "Cooter.",
+        "rig": "Ga. y.",
+        "netTonnage": 11,
+        "service": "Yct.",
+        "whenBuilt": 1906
+      },
+      {
+        "officialNumber": 206472,
+        "vesselName": "Copia..",
+        "rig": "Ga. s.",
+        "netTonnage": 5,
+        "service": "Fsh.",
+        "crew": 1,
+        "whenBuilt": 1899
+      },
+      {
+        "officialNumber": 204368,
+        "vesselName": "Copper Nugget.",
+        "rig": "Ga. s.",
+        "netTonnage": 5,
+        "service": "Frt.",
+        "crew": 2,
+        "whenBuilt": 1906
+      },
+      {
+        "officialNumber": 126783,
+        "vesselName": "Coquette.",
+        "rig": "Ga. s.",
+        "netTonnage": 8,
+        "service": "Fsh.",
+        "crew": 1,
+        "whenBuilt": 1891
+      },
+      {
+        "officialNumber": 205472,
+        "vesselName": "Coquille..",
+        "rig": "St. s.",
+        "netTonnage": 60,
+        "service": "Pas.",
+        "crew": 3,
+        "whenBuilt": 1908
+      },
+      {
+        "officialNumber": 127163,
+        "vesselName": "Coquille River.",
+        "rig": "St. s.",
+        "netTonnage": 265,
+        "service": "Pas.",
+        "crew": 20,
+        "whenBuilt": 1896
+      },
+      {
+        "officialNumber": 127746,
+        "vesselName": "Cora..",
+        "rig": "Ga. s.",
+        "netTonnage": 9,
+        "service": "Pas.",
+        "crew": 1,
+        "whenBuilt": 1903
+      },
+      {
+        "officialNumber": 204099,
+        "vesselName": "Cora",
+        "rig": "St. p.",
+        "netTonnage": 56,
+        "service": "Frt.",
+        "crew": 5,
+        "whenBuilt": 1907
+      },
+      {
+        "officialNumber": 204723,
+        "vesselName": "Cora",
+        "rig": "Ga. s.",
+        "netTonnage": 6,
+        "service": "Fsh.",
+        "crew": 1,
+        "whenBuilt": 1907
+      },
+      {
+        "officialNumber": 205656,
+        "vesselName": "Cora.",
+        "rig": "Ga. s.",
+        "netTonnage": 8,
+        "service": "Pas.",
+        "crew": 1,
+        "whenBuilt": 1898
+      },
+      {
+        "officialNumber": 207296,
+        "vesselName": "Cora",
+        "rig": "Ga. s.",
+        "netTonnage": 11,
+        "service": "Frt.",
+        "crew": 2,
+        "whenBuilt": 1910
+      },
+      {
+        "officialNumber": 209356,
+        "vesselName": "Cora.",
+        "rig": "Ga. p.",
+        "netTonnage": 10,
+        "service": "Fer.",
+        "crew": 1,
+        "whenBuilt": 1911
+      },
+      {
+        "officialNumber": 207801,
+        "vesselName": "Cora II.",
+        "rig": "Ga. s.",
+        "netTonnage": 9,
+        "service": "Pas.",
+        "whenBuilt": 1910
+      },
+      {
+        "officialNumber": 204414,
+        "vesselName": "Cora Belle.",
+        "rig": "Ga. p.",
+        "grossTonnage": 13,
+        "netTonnage": 13,
+        "service": "Tow.",
+        "whenBuilt": 1907
+      },
+      {
+        "officialNumber": 126563,
+        "vesselName": "Cora D",
+        "rig": "Ga. s.",
+        "grossTonnage": 8,
+        "netTonnage": 7,
+        "service": "Fsh.",
+        "crew": 3,
+        "whenBuilt": 1899
+      },
+      {
+        "officialNumber": 204734,
+        "vesselName": "Cora Edna.",
+        "rig": "Ga. s.",
+        "grossTonnage": 9,
+        "netTonnage": 7,
+        "service": "Frt.",
+        "crew": 1,
+        "whenBuilt": 1907
+      },
+      {
+        "officialNumber": 126843,
+        "vesselName": "Cora F",
+        "rig": "Ga. s.",
+        "grossTonnage": 8,
+        "netTonnage": 7,
+        "service": "Fsh.",
+        "crew": 2,
+        "whenBuilt": 1892
+      },
+      {
+        "officialNumber": 209717,
+        "vesselName": "Cora Lee.",
+        "rig": "Ga. s.",
+        "grossTonnage": 12,
+        "netTonnage": 11,
+        "service": "Pas.",
+        "whenBuilt": 1911
+      },
+      {
+        "officialNumber": 201642,
+        "vesselName": "Cora Price..",
+        "rig": "Ga. s.",
+        "grossTonnage": 9,
+        "netTonnage": 9,
+        "service": "Pas.",
+        "crew": 1,
+        "whenBuilt": 1902
+      },
+      {
+        "officialNumber": 126228,
+        "vesselName": "Cora A. Sheldon",
+        "rig": "St. s.",
+        "grossTonnage": 54,
+        "netTonnage": 27,
+        "service": "Tow.",
+        "whenBuilt": 1884
+      },
+      {
+        "officialNumber": 5830,
+        "vesselName": "Cora L. Griffing",
+        "rig": "Ga. s.",
+        "netTonnage": 10,
+        "crew": 3,
+        "whenBuilt": 1870
+      },
+      {
+        "officialNumber": 207698,
+        "vesselName": "Cora L. Roberts",
+        "rig": "St. p.",
+        "netTonnage": 157,
+        "service": "Frt.",
+        "whenBuilt": 1910
+      },
+      {
+        "officialNumber": 125369,
+        "vesselName": "Cora L. Staples.",
+        "rig": "St. s.",
+        "netTonnage": 46,
+        "service": "Tow.",
+        "whenBuilt": 1872
+      },
+      {
+        "officialNumber": 211029,
+        "vesselName": "Cora May H.",
+        "rig": "Ga. p.",
+        "netTonnage": 7,
+        "service": "Tow.",
+        "whenBuilt": 1913
+      },
+      {
+        "officialNumber": 125598,
+        "vesselName": "Cora P. White",
+        "rig": "St. s.",
+        "grossTonnage": 124,
+        "netTonnage": 76,
+        "service": "Fsh.",
+        "crew": 24,
+        "whenBuilt": 1877
+      },
+      {
+        "officialNumber": 125451,
+        "vesselName": "Cora T. Ruark.",
+        "rig": "Ga. s.",
+        "grossTonnage": 12,
+        "netTonnage": 5,
+        "service": "Msc.",
+        "whenBuilt": 1875
+      },
+      {
+        "officialNumber": 126454,
+        "vesselName": "Cora and Albert..",
+        "rig": "Ga. s.",
+        "grossTonnage": 7,
+        "netTonnage": 6,
+        "service": "Pas.",
+        "crew": 0,
+        "whenBuilt": 1887
+      },
+      {
+        "officialNumber": 125655,
+        "vesselName": "Coral..",
+        "rig": "Ga. s.",
+        "netTonnage": 32,
+        "service": "Frt.",
+        "crew": 3,
+        "whenBuilt": 1878
+      },
+      {
+        "officialNumber": 212327,
+        "vesselName": "Coral..",
+        "rig": "Ga. s.",
+        "netTonnage": 7,
+        "service": "Frt.",
+        "whenBuilt": 1914
+      },
+      {
+        "officialNumber": 127129,
+        "vesselName": "CORALIA.",
+        "rig": "St. s.",
+        "grossTonnage": 4330,
+        "netTonnage": 3351,
+        "service": "Frt.",
+        "crew": 25,
+        "whenBuilt": 1896
+      },
+      {
+        "officialNumber": 201338,
+        "vesselName": "Corbett.",
+        "rig": "Ga. s.",
+        "grossTonnage": 14,
+        "netTonnage": 13,
+        "service": "Pas.",
+        "crew": 1,
+        "whenBuilt": 1904
+      },
+      {
+        "officialNumber": 212015,
+        "vesselName": "Cordelia D",
+        "rig": "Ga. s.",
+        "grossTonnage": 8,
+        "netTonnage": 6,
+        "service": "Pas.",
+        "crew": 1,
+        "whenBuilt": 1910
+      },
+      {
+        "officialNumber": 201065,
+        "vesselName": "Cordova.",
+        "rig": "St. s.",
+        "grossTonnage": 18,
+        "netTonnage": 12,
+        "service": "Frt.",
+        "crew": 3,
+        "whenBuilt": 1904
+      },
+      {
+        "officialNumber": 209655,
+        "vesselName": "CORDOVA.",
+        "rig": "St. s.",
+        "grossTonnage": 2273,
+        "netTonnage": 1406,
+        "service": "Pas.",
+        "crew": 25,
+        "whenBuilt": 1912
+      },
+      {
+        "officialNumber": 127356,
+        "vesselName": "Corinna.",
+        "rig": "St. s.",
+        "grossTonnage": 95,
+        "netTonnage": 52,
+        "service": "Pas.",
+        "crew": 5,
+        "whenBuilt": 1899
+      },
+      {
+        "officialNumber": 127592,
+        "vesselName": "Corinne.",
+        "rig": "Ga. s.",
+        "netTonnage": 14,
+        "service": "Tow.",
+        "crew": 3,
+        "whenBuilt": 1901
+      },
+      {
+        "officialNumber": 207037,
+        "vesselName": "Corinne.",
+        "rig": "Ga. s.",
+        "grossTonnage": 15,
+        "netTonnage": 10,
+        "service": "Pas.",
+        "crew": 1,
+        "whenBuilt": 1909
+      },
+      {
+        "officialNumber": 127124,
+        "vesselName": "Corinthia.",
+        "rig": "Ga. y.",
+        "netTonnage": 24,
+        "service": "Yct.",
+        "crew": 4,
+        "whenBuilt": 1896
+      },
+      {
+        "officialNumber": 127721,
+        "vesselName": "Corinthia.",
+        "rig": "St. y.",
+        "grossTonnage": 54,
+        "netTonnage": 36,
+        "service": "Yct.",
+        "crew": 5,
+        "whenBuilt": 1903
+      },
+      {
+        "officialNumber": 210187,
+        "vesselName": "Corker.",
+        "rig": "St. p.",
+        "grossTonnage": 100,
+        "netTonnage": 100,
+        "service": "Pas.",
+        "crew": 10,
+        "whenBuilt": 1912
+      },
+      {
+        "officialNumber": 211550,
+        "vesselName": "Corlis.",
+        "rig": "Ga. s.",
+        "grossTonnage": 5,
+        "service": "Fsh.",
+        "crew": 1,
+        "whenBuilt": 1912
+      },
+      {
+        "officialNumber": 210964,
+        "vesselName": "Corliss.",
+        "rig": "Ga. s.",
+        "grossTonnage": 8,
+        "netTonnage": 5,
+        "service": "Pas.",
+        "crew": 1,
+        "whenBuilt": 1913
+      },
+      {
+        "officialNumber": 211202,
+        "vesselName": "Corliss.",
+        "rig": "Ga. s.",
+        "grossTonnage": 19,
+        "netTonnage": 13,
+        "service": "Fsh.",
+        "crew": 6,
+        "whenBuilt": 1913
+      },
+      {
+        "officialNumber": 201449,
+        "vesselName": "Cormorant.",
+        "rig": "Ga. s.",
+        "grossTonnage": 11,
+        "netTonnage": 5,
+        "service": "Fsh.",
+        "crew": 4,
+        "whenBuilt": 1893
+      },
+      {
+        "officialNumber": 212382,
+        "vesselName": "Cormorant.",
+        "rig": "St. s.",
+        "grossTonnage": 41,
+        "netTonnage": 28,
+        "service": "Fsh.",
+        "whenBuilt": 1914
+      },
+      {
+        "officialNumber": 92860,
+        "vesselName": "Cornelia..",
+        "rig": "St. y.",
+        "grossTonnage": 59,
+        "netTonnage": 40,
+        "service": "Yct.",
+        "crew": 2,
+        "whenBuilt": 1898
+      },
+      {
+        "officialNumber": 125920,
+        "vesselName": "Cornelia.",
+        "rig": "St. s.",
+        "grossTonnage": 41,
+        "netTonnage": 21,
+        "service": "Tow.",
+        "crew": 4,
+        "whenBuilt": 1881
+      },
+      {
+        "officialNumber": 126018,
+        "vesselName": "Cornelia.",
+        "rig": "St. s.",
+        "grossTonnage": 38,
+        "netTonnage": 19,
+        "service": "Pas.",
+        "crew": 4,
+        "whenBuilt": 1882
+      },
+      {
+        "officialNumber": 203402,
+        "vesselName": "Cornelia",
+        "rig": "St. s.",
+        "grossTonnage": 285,
+        "netTonnage": 163,
+        "service": "Frt.",
+        "crew": 8,
+        "whenBuilt": 1906
+      },
+      {
+        "officialNumber": 127417,
+        "vesselName": "Cornelia Cook.",
+        "rig": "St. s.",
+        "grossTonnage": 51,
+        "netTonnage": 27,
+        "service": "Tow.",
+        "crew": 7,
+        "whenBuilt": 1900
+      },
+      {
+        "officialNumber": 204028,
+        "vesselName": "Cornelia Pauline.",
+        "rig": "Ga. s.",
+        "grossTonnage": 9,
+        "netTonnage": 7,
+        "service": "Msc.",
+        "crew": 2,
+        "whenBuilt": 1907
+      },
+      {
+        "officialNumber": 125890,
+        "vesselName": "Cornelius Van Cott.",
+        "rig": "St. s.",
+        "grossTonnage": 41,
+        "netTonnage": 26,
+        "service": "Tow.",
+        "crew": 4,
+        "whenBuilt": 1881
+      },
+      {
+        "officialNumber": 205535,
+        "vesselName": "CORNELIUS W. LAWRENCE.",
+        "rig": "St. s.",
+        "grossTonnage": 172,
+        "netTonnage": 117,
+        "service": "Frt.",
+        "crew": 12,
+        "whenBuilt": 1908
+      },
+      {
+        "officialNumber": 86017,
+        "vesselName": "Cornell",
+        "rig": "St. s.",
+        "grossTonnage": 65,
+        "netTonnage": 32,
+        "service": "Tow.",
+        "crew": 5,
+        "whenBuilt": 1888
+      },
+      {
+        "officialNumber": 127451,
+        "vesselName": "CORNELL.",
+        "rig": "St. s.",
+        "grossTonnage": 5082,
+        "netTonnage": 3986,
+        "service": "Frt.",
+        "crew": 25,
+        "whenBuilt": 1900
+      },
+      {
+        "officialNumber": 200400,
+        "vesselName": "CORNELL.",
+        "rig": "St. s.",
+        "grossTonnage": 435,
+        "netTonnage": 296,
+        "service": "Pas.",
+        "crew": 12,
+        "whenBuilt": 1902
+      },
+      {
+        "officialNumber": 208766,
+        "vesselName": "Cornell.",
+        "rig": "Ga. s.",
+        "grossTonnage": 12,
+        "netTonnage": 8,
+        "service": "Pas.",
+        "whenBuilt": 1911
+      },
+      {
+        "officialNumber": 126430,
+        "vesselName": "Cornet.",
+        "rig": "Ga. s.",
+        "grossTonnage": 11,
+        "netTonnage": 10,
+        "service": "Fsh.",
+        "crew": 2,
+        "whenBuilt": 1887
+      },
+      {
+        "officialNumber": 204980,
+        "vesselName": "CORNING",
+        "rig": "St. s.",
+        "grossTonnage": 204,
+        "netTonnage": 102,
+        "service": "Tow.",
+        "crew": 3,
+        "whenBuilt": 1908
+      },
+      {
+        "officialNumber": 3227,
+        "vesselName": "Corona.",
+        "rig": "Ga. y.",
+        "grossTonnage": 42,
+        "netTonnage": 36,
+        "service": "Yct.",
+        "whenBuilt": 1882
+      },
+      {
+        "officialNumber": 81564,
+        "vesselName": "Corona.",
+        "rig": "St. p.",
+        "grossTonnage": 356,
+        "netTonnage": 356,
+        "service": "Fer.",
+        "crew": 10,
+        "whenBuilt": 1897
+      },
+      {
+        "officialNumber": 126850,
+        "vesselName": "Corona.",
+        "rig": "St. s.",
+        "grossTonnage": 51,
+        "netTonnage": 18,
+        "service": "Tow.",
+        "crew": 5,
+        "whenBuilt": 1892
+      },
+      {
+        "officialNumber": 127544,
+        "vesselName": "Corona.",
+        "rig": "Ga. s.",
+        "grossTonnage": 120,
+        "netTonnage": 78,
+        "service": "Fsh.",
+        "crew": 8,
+        "whenBuilt": 1901
+      },
+      {
+        "officialNumber": 205586,
+        "vesselName": "Corona",
+        "rig": "St. p.",
+        "grossTonnage": 16,
+        "netTonnage": 10,
+        "service": "Pas.",
+        "crew": 8,
+        "whenBuilt": 1908
+      },
+      {
+        "officialNumber": 207806,
+        "vesselName": "Corona.",
+        "rig": "Ga. s.",
+        "grossTonnage": 36,
+        "netTonnage": 19,
+        "service": "Fsh.",
+        "crew": 10,
+        "whenBuilt": 1910
+      },
+      {
+        "officialNumber": 210099,
+        "vesselName": "Corona II.",
+        "rig": "Ga. s.",
+        "grossTonnage": 14,
+        "netTonnage": 10,
+        "service": "Yct.",
+        "crew": 1,
+        "whenBuilt": 1909
+      },
+      {
+        "officialNumber": 126373,
+        "vesselName": "Coronado.",
+        "rig": "St. p.",
+        "grossTonnage": 308,
+        "netTonnage": 222,
+        "service": "Fer.",
+        "crew": 5,
+        "whenBuilt": 1886
+      },
+      {
+        "officialNumber": 127468,
+        "vesselName": "Coronado.",
+        "rig": "St. s.",
+        "grossTonnage": 578,
+        "netTonnage": 381,
+        "service": "Pas.",
+        "crew": 21,
+        "whenBuilt": 1900
+      },
+      {
+        "officialNumber": 127714,
+        "vesselName": "Coronado.",
+        "rig": "Ga. s.",
+        "grossTonnage": 10,
+        "netTonnage": 10,
+        "service": "Msc.",
+        "crew": 1,
+        "whenBuilt": 1902
+      },
+      {
+        "officialNumber": 202075,
+        "vesselName": "Coronet.",
+        "rig": "Ga. y.",
+        "grossTonnage": 57,
+        "netTonnage": 39,
+        "service": "Yct.",
+        "crew": 4,
+        "whenBuilt": 1905
+      },
+      {
+        "officialNumber": 208330,
+        "vesselName": "COROZAL.",
+        "rig": "St. s.",
+        "grossTonnage": 3063,
+        "netTonnage": 1942,
+        "service": "Frt.",
+        "crew": 32,
+        "whenBuilt": 1911
+      },
+      {
+        "officialNumber": 208175,
+        "vesselName": "Correction.",
+        "rig": "St. s.",
+        "grossTonnage": 778,
+        "netTonnage": 422,
+        "service": "Pas.",
+        "crew": 2,
+        "whenBuilt": 1910
+      },
+      {
+        "officialNumber": 202437,
+        "vesselName": "Corrin.",
+        "rig": "Ga. s.",
+        "grossTonnage": 7,
+        "netTonnage": 5,
+        "service": "Tow.",
+        "whenBuilt": 1905
+      },
+      {
+        "officialNumber": 210670,
+        "vesselName": "Corressie",
+        "rig": "Ga. s.",
+        "grossTonnage": 8,
+        "netTonnage": 6,
+        "service": "Pas.",
+        "whenBuilt": 1911
+      },
+      {
+        "officialNumber": 120184,
+        "vesselName": "Corsair",
+        "rig": "St. s.",
+        "grossTonnage": 95,
+        "netTonnage": 47,
+        "service": "Tow.",
+        "crew": 9,
+        "whenBuilt": 1884
+      },
+      {
+        "officialNumber": 127327,
+        "vesselName": "Corsair.",
+        "rig": "Ga. s.",
+        "grossTonnage": 11,
+        "netTonnage": 8,
+        "service": "Wat.",
+        "crew": 1,
+        "whenBuilt": 1899
+      },
+      {
+        "officialNumber": 127328,
+        "vesselName": "CORSAIR.",
+        "rig": "St. y.",
+        "grossTonnage": 1136,
+        "netTonnage": 772,
+        "service": "Yct.",
+        "crew": 52,
+        "whenBuilt": 1899
+      },
+      {
+        "officialNumber": 127383,
+        "vesselName": "Corsair.",
+        "rig": "Ga. s.",
+        "grossTonnage": 113,
+        "netTonnage": 71,
+        "service": "Fsh.",
+        "whenBuilt": 1899
+      },
+      {
+        "officialNumber": 203948,
+        "vesselName": "Corsair.",
+        "rig": "Ga. s.",
+        "grossTonnage": 14,
+        "netTonnage": 13,
+        "service": "Fsh.",
+        "crew": 2,
+        "whenBuilt": 1907
+      },
+      {
+        "officialNumber": 208712,
+        "vesselName": "Corsair.",
+        "rig": "Ga. y.",
+        "grossTonnage": 18,
+        "netTonnage": 12,
+        "service": "Yct.",
+        "crew": 1,
+        "whenBuilt": 1911
+      },
+      {
+        "officialNumber": 126023,
+        "vesselName": "Corsica.",
+        "rig": "St. s.",
+        "grossTonnage": 368,
+        "netTonnage": 306,
+        "service": "Pas.",
+        "crew": 21,
+        "whenBuilt": 1882
+      },
+      {
+        "officialNumber": 126474,
+        "vesselName": "Corsica",
+        "rig": "St. s.",
+        "grossTonnage": 2364,
+        "netTonnage": 1786,
+        "service": "Frt.",
+        "crew": 21,
+        "whenBuilt": 1888
+      },
+      {
+        "officialNumber": 24564,
+        "vesselName": "Cortland.",
+        "rig": "St. s.",
+        "grossTonnage": 80,
+        "netTonnage": 40,
+        "service": "Tow."
+      },
+      {
+        "officialNumber": 161077,
+        "vesselName": "WCORTLAND.",
+        "rig": "St. s.",
+        "grossTonnage": 48,
+        "netTonnage": 33,
+        "service": "Pas.",
+        "whenBuilt": 1895
+      },
+      {
+        "officialNumber": 211587,
+        "vesselName": "Cortland Boy.",
+        "rig": "Ga. s.",
+        "grossTonnage": 14,
+        "netTonnage": 11,
+        "service": "Frt.",
+        "crew": 2,
+        "whenBuilt": 1913
+      },
+      {
+        "officialNumber": 200479,
+        "vesselName": "CORVUS.",
+        "rig": "St. s.",
+        "grossTonnage": 4551,
+        "netTonnage": 3451,
+        "service": "Frt.",
+        "crew": 22,
+        "whenBuilt": 1903
+      },
+      {
+        "officialNumber": 127423,
+        "vesselName": "Corwin.",
+        "rig": "St. s.",
+        "grossTonnage": 447,
+        "netTonnage": 239,
+        "service": "Pas.",
+        "crew": 20,
+        "whenBuilt": 1876
+      },
+      {
+        "officialNumber": 91664,
+        "vesselName": "Cosette.",
+        "rig": "St. y.",
+        "grossTonnage": 42,
+        "netTonnage": 21,
+        "service": "Yct.",
+        "crew": 4,
+        "whenBuilt": 1884
+      },
+      {
+        "officialNumber": 126741,
+        "vesselName": "COSTA RICA",
+        "rig": "St. s.",
+        "grossTonnage": 1783,
+        "netTonnage": 1166,
+        "service": "Pas.",
+        "crew": 38,
+        "whenBuilt": 1891
+      },
+      {
+        "officialNumber": 204679,
+        "vesselName": "Coston.",
+        "rig": "Ga. s.",
+        "grossTonnage": 25,
+        "netTonnage": 11,
+        "service": "Msc.",
+        "crew": 4,
+        "whenBuilt": 1907
+      },
+      {
+        "officialNumber": 208928,
+        "vesselName": "Cottonwood.",
+        "rig": "Ga. p.",
+        "grossTonnage": 13,
+        "netTonnage": 10,
+        "service": "Pas.",
+        "crew": 1,
+        "whenBuilt": 1911
+      },
+      {
+        "officialNumber": 5418,
+        "vesselName": "Count Pulaski.",
+        "rig": "Ga. s.",
+        "grossTonnage": 12,
+        "netTonnage": 11,
+        "service": "Pas.",
+        "crew": 1,
+        "whenBuilt": 1867
+      },
+      {
+        "officialNumber": 210881,
+        "vesselName": "Countess.",
+        "rig": "Ga. s.",
+        "grossTonnage": 28,
+        "netTonnage": 19,
+        "service": "Pas.",
+        "whenBuilt": 1912
+      },
+      {
+        "officialNumber": 127694,
+        "vesselName": "Country Girl.",
+        "rig": "Ga. s.",
+        "grossTonnage": 8,
+        "netTonnage": 7,
+        "service": "Frt.",
+        "whenBuilt": 1912
+      },
+      {
+        "officialNumber": 126291,
+        "vesselName": "Courier.",
+        "rig": "St. p.",
+        "grossTonnage": 296,
+        "netTonnage": 296,
+        "service": "Pas.",
+        "crew": 18,
+        "whenBuilt": 1885
+      },
+      {
+        "officialNumber": 207712,
+        "vesselName": "Court House.",
+        "rig": "Ga. s.",
+        "grossTonnage": 14,
+        "netTonnage": 12,
+        "service": "Pas.",
+        "crew": 1,
+        "whenBuilt": 1910
+      },
+      {
+        "officialNumber": 206926,
+        "vesselName": "COURTNEY L..",
+        "rig": "St. s.",
+        "grossTonnage": 48,
+        "netTonnage": 33,
+        "service": "Fsh.",
+        "crew": 5,
+        "whenBuilt": 1909
+      },
+      {
+        "officialNumber": 127397,
+        "vesselName": "COVINGTON.",
+        "rig": "St. s.",
+        "grossTonnage": 401,
+        "netTonnage": 196,
+        "service": "Pas.",
+        "crew": 16,
+        "whenBuilt": 1899
+      },
+      {
+        "officialNumber": 125678,
+        "vesselName": "Coxsackie.",
+        "rig": "St. p.",
+        "grossTonnage": 77,
+        "netTonnage": 41,
+        "service": "Fer.",
+        "crew": 3,
+        "whenBuilt": 1878
+      },
+      {
+        "officialNumber": 127191,
+        "vesselName": "Coyote.",
+        "rig": "Ga. y.",
+        "grossTonnage": 44,
+        "netTonnage": 30,
+        "service": "Yct.",
+        "crew": 5,
+        "whenBuilt": 1897
+      },
+      {
+        "officialNumber": 208843,
+        "vesselName": "Coyote.",
+        "rig": "Ga. s.",
+        "grossTonnage": 6,
+        "netTonnage": 5,
+        "service": "Frt.",
+        "crew": 1,
+        "whenBuilt": 1909
+      },
+      {
+        "officialNumber": 127195,
+        "vesselName": "Cozy",
+        "rig": "Ga. s.",
+        "grossTonnage": 39,
+        "netTonnage": 27,
+        "service": "Frt.",
+        "crew": 1,
+        "whenBuilt": 1897
+      },
+      {
+        "officialNumber": 210988,
+        "vesselName": "Cozy.",
+        "rig": "Ga. s.",
+        "grossTonnage": 10,
+        "netTonnage": 10,
+        "service": "Pas.",
+        "crew": 1,
+        "whenBuilt": 1913
+      },
+      {
+        "officialNumber": 127483,
+        "vesselName": "Cracker Jack.",
+        "rig": "Ga. s.",
+        "grossTonnage": 6,
+        "netTonnage": 5,
+        "service": "Msc.",
+        "crew": 1,
+        "whenBuilt": 1899
+      },
+      {
+        "officialNumber": 205994,
+        "vesselName": "Craftsman.",
+        "rig": "Ga. s.",
+        "grossTonnage": 7,
+        "netTonnage": 5,
+        "service": "Frt.",
+        "crew": 1,
+        "whenBuilt": 1909
+      },
+      {
+        "officialNumber": 202136,
+        "vesselName": "CRAIG.",
+        "rig": "St. s.",
+        "grossTonnage": 32,
+        "netTonnage": 21,
+        "service": "Tow.",
+        "crew": 4,
+        "whenBuilt": 1905
+      },
+      {
+        "officialNumber": 202704,
+        "vesselName": "CRANFORD.",
+        "rig": "St. s.",
+        "grossTonnage": 1197,
+        "netTonnage": 814,
+        "service": "Fer.",
+        "crew": 8,
+        "whenBuilt": 1905
+      },
+      {
+        "officialNumber": 208088,
+        "vesselName": "Crawford.",
+        "rig": "Ga. s.",
+        "grossTonnage": 6,
+        "netTonnage": 5,
+        "service": "Fsh.",
+        "crew": 2,
+        "whenBuilt": 1902
+      },
+      {
+        "officialNumber": 205173,
+        "vesselName": "Cream,",
+        "rig": "Ga. s.",
+        "grossTonnage": 9,
+        "netTonnage": 7,
+        "service": "Frt.",
+        "crew": 2,
+        "whenBuilt": 1907
+      },
+      {
+        "officialNumber": 110641,
+        "vesselName": "Cream City",
+        "rig": "St. s.",
+        "grossTonnage": 570,
+        "netTonnage": 416,
+        "service": "Frt.",
+        "crew": 10,
+        "whenBuilt": 1884
+      },
+      {
+        "officialNumber": 200217,
+        "vesselName": "Credenda.",
+        "rig": "St. s.",
+        "grossTonnage": 34,
+        "netTonnage": 23,
+        "service": "Tow.",
+        "crew": 3,
+        "whenBuilt": 1903
+      },
+      {
+        "officialNumber": 126243,
+        "vesselName": "Creedmoor.",
+        "rig": "St. s.",
+        "grossTonnage": 19,
+        "netTonnage": 11,
+        "service": "Pas.",
+        "crew": 2,
+        "whenBuilt": 1884
+      },
+      {
+        "officialNumber": 202902,
+        "vesselName": "Creel.",
+        "rig": "Ga. s.",
+        "grossTonnage": 14,
+        "netTonnage": 10,
+        "service": "Frt.",
+        "crew": 0,
+        "whenBuilt": 1906
+      },
+      {
+        "officialNumber": 204256,
+        "vesselName": "CREOLE.",
+        "rig": "St. s.",
+        "grossTonnage": 6754,
+        "netTonnage": 4302,
+        "service": "Pas.",
+        "crew": 130,
+        "whenBuilt": 1907
+      },
+      {
+        "officialNumber": 210256,
+        "vesselName": "Creole.",
+        "rig": "Ga. s.",
+        "grossTonnage": 37,
+        "netTonnage": 27,
+        "service": "Pas.",
+        "crew": 5,
+        "whenBuilt": 1912
+      },
+      {
+        "officialNumber": 75486,
+        "vesselName": "Crescent.",
+        "rig": "St. p.",
+        "grossTonnage": 239,
+        "netTonnage": 239,
+        "service": "Tow.",
+        "crew": 15,
+        "whenBuilt": 1871
+      },
+      {
+        "officialNumber": 115279,
+        "vesselName": "Crescent.",
+        "rig": "St. s.",
+        "grossTonnage": 68,
+        "netTonnage": 46,
+        "service": "Tow.",
+        "crew": 5,
+        "whenBuilt": 1872
+      },
+      {
+        "officialNumber": 126641,
+        "vesselName": "Crescent.",
+        "rig": "St. s.",
+        "grossTonnage": 71,
+        "netTonnage": 50,
+        "service": "Frt.",
+        "crew": 6,
+        "whenBuilt": 1890
+      },
+      {
+        "officialNumber": 127013,
+        "vesselName": "CRESCENT.",
+        "rig": "St. s.",
+        "grossTonnage": 253,
+        "netTonnage": 139,
+        "service": "Pas.",
+        "crew": 8,
+        "whenBuilt": 1893
+      },
+      {
+        "officialNumber": 127138,
+        "vesselName": "Crescent.",
+        "rig": "St. s.",
+        "grossTonnage": 33,
+        "netTonnage": 20,
+        "service": "Tow.",
+        "crew": 7,
+        "whenBuilt": 1896
+      },
+      {
+        "officialNumber": 127219,
+        "vesselName": "Crescent.",
+        "rig": "Ga. s.",
+        "grossTonnage": 21,
+        "netTonnage": 14,
+        "service": "Pas.",
+        "whenBuilt": 1897
+      },
+      {
+        "officialNumber": 127543,
+        "vesselName": "Crescent",
+        "rig": "Ga. s.",
+        "grossTonnage": 14,
+        "netTonnage": 12,
+        "service": "Oys.",
+        "crew": 2,
+        "whenBuilt": 1901
+      },
+      {
+        "officialNumber": 201171,
+        "vesselName": "Crescent",
+        "rig": "Ga. s.",
+        "grossTonnage": 13,
+        "netTonnage": 9,
+        "service": "Fsh.",
+        "whenBuilt": 1904
+      },
+      {
+        "officialNumber": 201416,
+        "vesselName": "Crescent.",
+        "rig": "Ga. s.",
+        "grossTonnage": 14,
+        "netTonnage": 7,
+        "service": "Oys.",
+        "whenBuilt": 1904
+      },
+      {
+        "officialNumber": 201907,
+        "vesselName": "Crescent.",
+        "rig": "Ga. p.",
+        "grossTonnage": 14,
+        "netTonnage": 7,
+        "service": "Frt.",
+        "crew": 3,
+        "whenBuilt": 1905
+      },
+      {
+        "officialNumber": 203273,
+        "vesselName": "Crescent.",
+        "rig": "Ga. s.",
+        "grossTonnage": 14,
+        "netTonnage": 12,
+        "service": "Yct.",
+        "crew": 3,
+        "whenBuilt": 1905
+      },
+      {
+        "officialNumber": 207404,
+        "vesselName": "CRESCENT.",
+        "rig": "St. s.",
+        "grossTonnage": 385,
+        "netTonnage": 297,
+        "service": "Frt.",
+        "crew": 5,
+        "whenBuilt": 1910
+      },
+      {
+        "officialNumber": 206160,
+        "vesselName": "Crescent",
+        "rig": "St. s.",
+        "grossTonnage": 22,
+        "netTonnage": 15,
+        "service": "Pas.",
+        "crew": 2,
+        "whenBuilt": 1909
+      },
+      {
+        "officialNumber": 209589,
+        "vesselName": "Crescent",
+        "rig": "Ga. s.",
+        "grossTonnage": 14,
+        "netTonnage": 9,
+        "service": "Oys.",
+        "crew": 2,
+        "whenBuilt": 1912
+      },
+      {
+        "officialNumber": 209935,
+        "vesselName": "Crescent",
+        "rig": "Ga. s.",
+        "grossTonnage": 11,
+        "netTonnage": 9,
+        "service": "Pas.",
+        "whenBuilt": 1899
+      },
+      {
+        "officialNumber": 209974,
+        "vesselName": "Crescent",
+        "rig": "Ga. y.",
+        "grossTonnage": 11,
+        "netTonnage": 8,
+        "service": "Yct.",
+        "crew": 1,
+        "whenBuilt": 1890
+      },
+      {
+        "officialNumber": 210310,
+        "vesselName": "Crescent",
+        "rig": "Ga. s.",
+        "grossTonnage": 23,
+        "netTonnage": 15,
+        "service": "Tow.",
+        "crew": 1,
+        "whenBuilt": 1912
+      },
+      {
+        "officialNumber": 210870,
+        "vesselName": "Crescent",
+        "rig": "Ga. s.",
+        "grossTonnage": 9,
+        "netTonnage": 9,
+        "service": "Pas.",
+        "whenBuilt": 1911
+      },
+      {
+        "officialNumber": 211134,
+        "vesselName": "Crescent.",
+        "rig": "Ga. s.",
+        "grossTonnage": 10,
+        "netTonnage": 8,
+        "service": "Pas.",
+        "crew": 2,
+        "whenBuilt": 1911
+      },
+      {
+        "officialNumber": 212283,
+        "vesselName": "Crescent.",
+        "rig": "Ga. p.",
+        "grossTonnage": 35,
+        "netTonnage": 22,
+        "service": "Fer.",
+        "crew": 1,
+        "whenBuilt": 1914
+      },
+      {
+        "officialNumber": 127186,
+        "vesselName": "Crescent Beach.",
+        "rig": "Ga. s.",
+        "grossTonnage": 22,
+        "netTonnage": 20,
+        "service": "Frt.",
+        "crew": 3,
+        "whenBuilt": 1897
+      },
+      {
+        "officialNumber": 127176,
+        "vesselName": "CRESCENT CITY",
+        "rig": "St. s.",
+        "grossTonnage": 4213,
+        "netTonnage": 3675,
+        "service": "Frt.",
+        "crew": 25,
+        "whenBuilt": 1897
+      },
+      {
+        "officialNumber": 127728,
+        "vesselName": "Crescent City.",
+        "rig": "Ga. s.",
+        "grossTonnage": 6,
+        "netTonnage": 5,
+        "service": "Oys.",
+        "crew": 2,
+        "whenBuilt": 1902
+      },
+      {
+        "officialNumber": 145134,
+        "vesselName": "Crescent City",
+        "rig": "St. s.",
+        "grossTonnage": 146,
+        "netTonnage": 100,
+        "service": "Pas.",
+        "crew": 14,
+        "whenBuilt": 1877
+      },
+      {
+        "officialNumber": 210965,
+        "vesselName": "Crescent The First.",
+        "rig": "Ga. s.",
+        "grossTonnage": 25,
+        "netTonnage": 17,
+        "service": "Pas.",
+        "crew": 2,
+        "whenBuilt": 1913
+      },
+      {
+        "officialNumber": 127705,
+        "vesselName": "Crescite.",
+        "rig": "Ga. s.",
+        "grossTonnage": 14,
+        "netTonnage": 10,
+        "service": "Oys.",
+        "crew": 4,
+        "whenBuilt": 1902
+      },
+      {
+        "officialNumber": 92362,
+        "vesselName": "Cresco",
+        "rig": "St. s.",
+        "grossTonnage": 90,
+        "netTonnage": 45,
+        "service": "Tow.",
+        "crew": 6,
+        "whenBuilt": 1891
+      },
+      {
+        "officialNumber": 110529,
+        "vesselName": "Cresswell",
+        "rig": "St. s.",
+        "grossTonnage": 35,
+        "netTonnage": 15,
+        "service": "Tow.",
+        "crew": 4,
+        "whenBuilt": 1882
+      },
+      {
+        "officialNumber": 203077,
+        "vesselName": "Crest.",
+        "rig": "Ga. s.",
+        "netTonnage": 6,
+        "service": "Pas.",
+        "crew": 0,
+        "whenBuilt": 1906
+      },
+      {
+        "officialNumber": 208553,
+        "vesselName": "CREST.",
+        "rig": "St. s.",
+        "grossTonnage": 244,
+        "netTonnage": 113,
+        "service": "Fsh.",
+        "crew": 18,
+        "whenBuilt": 1911
+      },
+      {
+        "officialNumber": 85715,
+        "vesselName": "Cretan.",
+        "rig": "St. s.",
+        "grossTonnage": 2350,
+        "netTonnage": 1651,
+        "service": "Pas.",
+        "crew": 34,
+        "whenBuilt": 1882
+      },
+      {
+        "officialNumber": 204587,
+        "vesselName": "CRETE",
+        "rig": "St. s.",
+        "grossTonnage": 6189,
+        "netTonnage": 4764,
+        "service": "Frt.",
+        "crew": 20,
+        "whenBuilt": 1907
+      },
+      {
+        "officialNumber": 126910,
+        "vesselName": "Cricket,",
+        "rig": "Ga. s.",
+        "grossTonnage": 12,
+        "netTonnage": 11,
+        "service": "Msc.",
+        "crew": 3,
+        "whenBuilt": 1892
+      },
+      {
+        "officialNumber": 127770,
+        "vesselName": "Cricket.",
+        "rig": "Ga. y.",
+        "grossTonnage": 19,
+        "netTonnage": 11,
+        "service": "Yct.",
+        "crew": 2,
+        "whenBuilt": 1903
+      },
+      {
+        "officialNumber": 209555,
+        "vesselName": "Cricket.",
+        "rig": "Ga. s.",
+        "grossTonnage": 10,
+        "netTonnage": 7,
+        "service": "Frt.",
+        "crew": 1,
+        "whenBuilt": 1912
+      },
+      {
+        "officialNumber": 211044,
+        "vesselName": "CRICKET.",
+        "rig": "St. s.",
+        "grossTonnage": 1136,
+        "netTonnage": 773,
+        "service": "Pas.",
+        "crew": 21,
+        "whenBuilt": 1913
+      },
+      {
+        "officialNumber": 126308,
+        "vesselName": "Cris.....",
+        "rig": "Ga. s.",
+        "grossTonnage": 10,
+        "netTonnage": 9,
+        "service": "Frt.",
+        "crew": 2,
+        "whenBuilt": 1885
+      },
+      {
+        "officialNumber": 126955,
+        "vesselName": "Cris Grover.",
+        "rig": "St. s.",
+        "grossTonnage": 56,
+        "netTonnage": 28,
+        "service": "Tow.",
+        "whenBuilt": 1893
+      },
+      {
+        "officialNumber": 200448,
+        "vesselName": "CRISFIELD.",
+        "rig": "St. s.",
+        "grossTonnage": 236,
+        "netTonnage": 160,
+        "service": "Tow.",
+        "crew": 16,
+        "whenBuilt": 1903
+      },
+      {
+        "officialNumber": 201015,
+        "vesselName": "Crisis......",
+        "rig": "Ga. s.",
+        "netTonnage": 6,
+        "service": "Pas.",
+        "crew": 1,
+        "whenBuilt": 1903
+      },
+      {
+        "officialNumber": 209890,
+        "vesselName": "CRISTINA",
+        "rig": "St. y.",
+        "grossTonnage": 456,
+        "netTonnage": 272,
+        "service": "Yct.",
+        "crew": 25,
+        "whenBuilt": 1912
+      },
+      {
+        "officialNumber": 145934,
+        "vesselName": "CRISTOBAL.",
+        "rig": "St. s.",
+        "grossTonnage": 9606,
+        "netTonnage": 6195,
+        "service": "Pas.",
+        "crew": 98,
+        "whenBuilt": 1902
+      },
+      {
+        "officialNumber": 4919,
+        "vesselName": "Croatan.",
+        "rig": "St. s.",
+        "grossTonnage": 22,
+        "netTonnage": 12,
+        "service": "Tow.",
+        "whenBuilt": 1864
+      },
+      {
+        "officialNumber": 136677,
+        "vesselName": "CROLONA",
+        "rig": "St. s.",
+        "grossTonnage": 163,
+        "netTonnage": 81,
+        "service": "Tow.",
+        "whenBuilt": 1898
+      },
+      {
+        "officialNumber": 126617,
+        "vesselName": "Crosby",
+        "rig": "St. s.",
+        "grossTonnage": 35,
+        "netTonnage": 17,
+        "service": "Tow.",
+        "whenBuilt": 1889
+      },
+      {
+        "officialNumber": 206729,
+        "vesselName": "Crosby No.",
+        "rig": "Ga. s.",
+        "grossTonnage": 14,
+        "netTonnage": 10,
+        "service": "Tow.",
+        "crew": 1,
+        "whenBuilt": 1909
+      },
+      {
+        "officialNumber": 125893,
+        "vesselName": "Croton.",
+        "rig": "St. s.",
+        "grossTonnage": 54,
+        "service": "Wat.",
+        "whenBuilt": 1881
+      },
+      {
+        "officialNumber": 208568,
+        "vesselName": "Croton.",
+        "rig": "Ga. s.",
+        "grossTonnage": 15,
+        "netTonnage": 10,
+        "service": "Pol.",
+        "crew": 2,
+        "whenBuilt": 1910
+      },
+      {
+        "officialNumber": 204666,
+        "vesselName": "Crowley No. 1..",
+        "rig": "Ga. s.",
+        "grossTonnage": 14,
+        "netTonnage": 10,
+        "service": "Frt.",
+        "whenBuilt": 1907
+      },
+      {
+        "officialNumber": 204667,
+        "vesselName": "Crowley No. 2.",
+        "rig": "Ga. s.",
+        "grossTonnage": 14,
+        "netTonnage": 10,
+        "service": "Frt.",
+        "crew": 1,
+        "whenBuilt": 1907
+      },
+      {
+        "officialNumber": 208933,
+        "vesselName": "Crowley No. 3.",
+        "rig": "Ga. s.",
+        "netTonnage": 6,
+        "service": "Pas.",
+        "whenBuilt": 1911
+      },
+      {
+        "officialNumber": 209204,
+        "vesselName": "Crowley No. 4.",
+        "rig": "Ga. s.",
+        "netTonnage": 6,
+        "service": "Tow.",
+        "crew": 1,
+        "whenBuilt": 1911
+      },
+      {
+        "officialNumber": 205163,
+        "vesselName": "Crowley No. 5.",
+        "rig": "Ga. s.",
+        "netTonnage": 10,
+        "service": "Pas.",
+        "crew": 1,
+        "whenBuilt": 1908
+      },
+      {
+        "officialNumber": 205164,
+        "vesselName": "Crowley No. 6.",
+        "rig": "Ga. s.",
+        "netTonnage": 10,
+        "service": "Pas.",
+        "whenBuilt": 1908
+      },
+      {
+        "officialNumber": 205176,
+        "vesselName": "Crowley No. 7.",
+        "rig": "Ga. s.",
+        "netTonnage": 10,
+        "service": "Pas.",
+        "crew": 1,
+        "whenBuilt": 1908
+      },
+      {
+        "officialNumber": 205165,
+        "vesselName": "Crowley No. 8.",
+        "rig": "Ga. s.",
+        "service": "Pas.",
+        "whenBuilt": 1908
+      }
+    ]
+  }
+}

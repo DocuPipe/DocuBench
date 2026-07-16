@@ -1,0 +1,44 @@
+{
+  "type": "object",
+  "properties": {
+    "entries": {
+      "type": "array",
+      "description": "every resident/business listing in the alphabetical name section, read down the left column first then the right column; each listing is one item, including listings whose line begins with a ditto mark; skip running page/column header words, marginal vertical advertisements, and top/bottom advertisement blocks; also skip pure cross-reference lines of the form 'Name see OtherName' that carry no occupation or address. general transcription rules for every field: words broken across a line wrap are rejoined without the hyphen, and punctuation that merely separates or terminates parts of the listing (a trailing comma or period) is not part of any field value",
+      "items": {
+        "type": "object",
+        "properties": {
+          "surname": {
+            "type": "string",
+            "description": "the governing family surname for this listing. a listing that begins with a ditto mark (a leading quotation mark) repeats the surname of the most recent preceding full listing; a bold all-capitals word standing alone at the top of a column or after a page break is a running header that re-states the current surname and is not itself a listing. a featured listing printed in bold capitals for a person splits into surname and given names exactly like an ordinary listing. only when the listing head is an organization or business name (a company, store, firm, church, or institution) does the entire organization name go here, with no personal given name split off"
+          },
+          "givenNames": {
+            "type": "string",
+            "description": "the personal given name(s) and initials printed immediately after the surname and before any parenthesis or occupation text, transcribed exactly as printed; null for an organization or business listing that has no personal given name"
+          },
+          "parenthetical": {
+            "type": "string",
+            "description": "the verbatim text inside the first pair of parentheses following the name, transcribed exactly as printed (it may hold a spouse's name, a widow notation, a proprietor notation, or a list of business partners); null when the listing has no parentheses after the name"
+          },
+          "occupation": {
+            "type": "string",
+            "description": "the occupation, employer, and business-description text of the listing, transcribed verbatim as printed including the directory's standard abbreviations. when the listing contains a residence-marker token, this field is everything between the name (and any parenthetical) and that marker. when the listing contains NO residence-marker token, this field is ALL remaining text of the listing after the name and any parenthetical, including any street addresses, telephone notes, and cross-reference notes printed there. null when the listing goes straight from the name to a residence marker with no occupation text"
+          },
+          "residence": {
+            "type": "string",
+            "description": "the single residence-marker token printed immediately before the home address, transcribed exactly as printed (the directory uses short one-or-few-letter markers distinguishing whether the person owns/keeps house at, rooms at, boards at, or resides at the address); null when the listing has no such marker"
+          },
+          "address": {
+            "type": "string",
+            "description": "filled only when a residence-marker token is present: the address text following that marker through the end of the listing, transcribed verbatim as printed; null whenever the listing has no residence marker (any address printed in a marker-less listing belongs to the occupation field instead)"
+          }
+        },
+        "required": [
+          "surname"
+        ]
+      }
+    }
+  },
+  "required": [
+    "entries"
+  ]
+}

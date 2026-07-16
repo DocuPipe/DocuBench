@@ -1,0 +1,32 @@
+{
+  "type": "object",
+  "properties": {
+    "entries": {
+      "type": "array",
+      "description": "every dictionary entry on the pages, in reading order down the left column then the right column of each page. one object per bold head-term.",
+      "items": {
+        "type": "object",
+        "properties": {
+          "headword": {
+            "type": "string",
+            "description": "the bold Devanagari head-term printed at the start of the entry, transcribed exactly as printed in Devanagari script, including any inherent vowel signs and conjunct forms."
+          },
+          "grammaticalTag": {
+            "type": [
+              "string",
+              "null"
+            ],
+            "description": "ONLY the italic part-of-speech abbreviation printed immediately after the headword (a member of the closed set of grammatical markers, e.g. gender, verb, adjective, adverb, pronoun, or prefix markers), transcribed exactly as printed including its trailing period. Combined markers are transcribed together as printed. null if no such marker is printed before the English definition begins."
+          },
+          "englishGloss": {
+            "type": [
+              "string",
+              "null"
+            ],
+            "description": "the English definition text printed after the grammatical marker, transcribed verbatim. Rejoin any word split across a line break by a hyphen into a single word. Ignore the bracketed catchword fragments printed at the right end of lines (typographic line-break markers). Include the full sense list as printed up to the period that ends the entry. null if the entry has no English definition."
+          }
+        }
+      }
+    }
+  }
+}
