@@ -11,14 +11,13 @@ def test_validate_current_benchmark_files():
     errors, warnings, summary = validate_benchmark(ROOT)
 
     assert errors == []
-    assert len(warnings) == 4
-    assert all("missing ids" in warning for warning in warnings)
+    # every committed engine now covers all 72 documents
+    assert warnings == []
     assert summary["documents"] == 72
     assert summary["labels"] == 72
     assert summary["schemas"] == 72
     assert summary["sources"] == 72
     assert set(summary["engines"]) == {
-        "claude",
         "claude5",
         "docupipe_high",
         "docupipe_standard",
