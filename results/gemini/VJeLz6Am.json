@@ -1,0 +1,458 @@
+{
+  "status": "ok",
+  "cost": null,
+  "time_sec": 79.79655694961548,
+  "data": {
+    "entries": [
+      {
+        "authorName": "Martin, H: N.",
+        "title": "The human body; an account of its structure and activities and the conditions of its healthy working. 8th ed.",
+        "publicationYear": 1904,
+        "publisher": "Holt",
+        "price": "$2.50",
+        "note": "Standard college text-book in human anatomy and physiology. Ed. sel.",
+        "noteSource": ""
+      },
+      {
+        "authorName": "Peabody, J. E:",
+        "title": "Studies in physiology, anatomy and hygiene.",
+        "publicationYear": 1903,
+        "publisher": "Macmillan",
+        "price": "$1.10 n",
+        "note": "",
+        "noteSource": ""
+      },
+      {
+        "authorName": "Baker, M. N.",
+        "title": "Potable water and methods of detecting impurities.",
+        "publicationYear": 1899,
+        "publisher": "Van Nostrand",
+        "price": "50c",
+        "note": "Object to present clearly and briefly essential qualities of potable water, how it may be obtained, and significance of chemical, bacterial and microscopic tests. Discusses value of pure water, relations between water and disease and typhoid fever records as index of purity or impurity of public water supplies.",
+        "noteSource": "Engin. n. 42: 278."
+      },
+      {
+        "authorName": "Bergey, D: H.",
+        "title": "Principles of hygiene.",
+        "publicationYear": 1901,
+        "publisher": "Saunders",
+        "price": "$3 n",
+        "note": "Accurate; useful to medical students, physicians and health officers; also to architects in giving sanitary requirements for buildings.",
+        "noteSource": "N. Y."
+      },
+      {
+        "authorName": "Billings, J: S. ed.",
+        "title": "Physiological aspects of the liquor problem; investigations made by and under direction of sub-committee of the Committee of fifty to investigate the liquor problem. 2 v.",
+        "publicationYear": 1903,
+        "publisher": "Houghton",
+        "price": "$4.50 n",
+        "note": "Holds that use of alcohol impairs mental work, lessens physical power, does not protect against cold and fatigue, and diminishes resistance to infectious diseases; condemns and exposes fallacy of some misdirected efforts to promote temperance.",
+        "noteSource": "N. Y."
+      },
+      {
+        "authorName": "Crandall, F. M.",
+        "title": "How to keep well.",
+        "publicationYear": 1903,
+        "publisher": "Doubleday",
+        "price": "$1.50 n",
+        "note": "Aims to give definite rules and principles for avoidance of disease. Handy guide to keeping well, and treatment of such simple ailments as do not require a doctor's care.",
+        "noteSource": "Pub. wkly."
+      },
+      {
+        "authorName": "Gerhard, W: P.",
+        "title": "Guide to sanitary house-inspection; or, Hints and helps regarding the choice of a healthful home in city or country. 3d ed.",
+        "publicationYear": 1902,
+        "publisher": "Wiley",
+        "price": "$1",
+        "note": "",
+        "noteSource": ""
+      },
+      {
+        "authorName": "Notter, J. L., & Firth, R. H.",
+        "title": "Practical domestic hygiene. New ed.",
+        "publicationYear": 1902,
+        "publisher": "Longmans",
+        "price": "90c",
+        "note": "Elementary human anatomy and physiology; Domestic hygiene; Domestic economy.",
+        "noteSource": ""
+      },
+      {
+        "authorName": "Notter, J. L., & Horrocks, W. H.",
+        "title": "Theory and practice of hygiene (Notter and Firth) 2d ed.",
+        "publicationYear": 1900,
+        "publisher": "Blakiston",
+        "price": "$7 n",
+        "note": "Original work by J. L. Notter and R. H. Firth, published 1896. Comprehensive, founded on E. A. Parkes's Manual of practical hygiene.",
+        "noteSource": ""
+      },
+      {
+        "authorName": "Parkes, L. C., & Kenwood, Henry.",
+        "title": "Hygiene and public health. 2d ed.",
+        "publicationYear": 1902,
+        "publisher": "Blakiston",
+        "price": "$3 n",
+        "note": "Aims to cover the whole field of sanitary science, and gives such elementary information on every topic as will enable the reader to refer with advantage to the larger textbooks.",
+        "noteSource": "Science, 14: 301."
+      },
+      {
+        "authorName": "Pyle, W. L. ed.",
+        "title": "Manual of personal hygiene.",
+        "publicationYear": 1900,
+        "publisher": "Saunders",
+        "price": "$1.50 n",
+        "note": "Full of good sense and useful information about the various powers and faculties of the body, their use and incident ailments.",
+        "noteSource": "Spec. 86: 394."
+      },
+      {
+        "authorName": "Richards, Mrs E. H. (Swallow), & Talbot, Marion. ed.",
+        "title": "Home sanitation; a manual for housekeepers. Rev. ed.",
+        "publicationYear": 1904,
+        "publisher": "Whitcomb",
+        "price": "25c",
+        "note": "Books of reference, p. 77-80.",
+        "noteSource": ""
+      },
+      {
+        "authorName": "Stillwell, J. S.",
+        "title": "Human hair, its care and preservation.",
+        "publicationYear": 1900,
+        "publisher": "Maple pub. co.",
+        "price": "$1.25",
+        "note": "Object to present in easily intelligible form facts concerning human hair, particularly those pertaining to cause, prevention and cure of conditions and diseases which result in injury and total loss.",
+        "noteSource": "Pref."
+      },
+      {
+        "authorName": "Chapin, H: D.",
+        "title": "Theory and practice of infant feeding.",
+        "publicationYear": 1902,
+        "publisher": "Wood",
+        "price": "$2.25",
+        "note": "Bibliography, p. 317-20.",
+        "noteSource": ""
+      },
+      {
+        "authorName": "Hutchison, Robert.",
+        "title": "Food and the principles of dietetics.",
+        "publicationYear": 1903,
+        "publisher": "Wood",
+        "price": "$3 n",
+        "note": "Compilation and study of modern knowledge of chemical constituents of foods and of their relation to production of energy. Information on meat juices, jellies, and extracts particularly valuable.",
+        "noteSource": "Sat. r. 1901."
+      },
+      {
+        "authorName": "Pequignot, Mrs M.. A. (Boland)",
+        "title": "Handbook of invalid cooking. Rev. ed.",
+        "publicationYear": 1900,
+        "publisher": "Century",
+        "price": "$2",
+        "note": "Literature, p. 313-14. For professional and unprofessional nurses. Explanatory lessons on food properties and values, recipes, menus, with chapters on serving, feeding of children and district nursing.",
+        "noteSource": "N. Y."
+      },
+      {
+        "authorName": "Richards, Mrs E. H. (Swallow)",
+        "title": "Food materials and their adulterations. New ed.",
+        "publicationYear": 1898,
+        "publisher": "Home science",
+        "price": "$1",
+        "note": "Bibliography, p. 175-79. Important to housekeepers. On water, tea, coffee, dairy products, sugar, tinned goods, spices, etc. perishable foods and principles of diet.",
+        "noteSource": "N. Y."
+      },
+      {
+        "authorName": "Richards, Mrs E. H. (Swallow) & Woodman, A. G.",
+        "title": "Air, water and food from a sanitary standpoint.",
+        "publicationYear": 1900,
+        "publisher": "Wiley",
+        "price": "$2",
+        "note": "Elementary, with descriptions of laboratory methods for analyzing air, water and food. Tables of relative food values. Bibliography.",
+        "noteSource": "Engin. n. 45: 32."
+      },
+      {
+        "authorName": "Thompson, Sir Henry.",
+        "title": "Diet in relation to age and activity. 4th ed.",
+        "publicationYear": 1903,
+        "publisher": "Warne",
+        "price": "$1",
+        "note": "Well deserves its established popularity. Instructions for attaining comfortable longevity, adapted to all intelligent people, and the more acceptable from their felicitous style.",
+        "noteSource": "Nation, 74: 289."
+      },
+      {
+        "authorName": "Winthrop, A. W.",
+        "title": "Diet in illness and convalescence.",
+        "publicationYear": 1899,
+        "publisher": "Harper",
+        "price": "$1.50",
+        "note": "Large variety of recipes for beverages and foods, and much practical information of miscellaneous nature. Chapter devoted to diets suitable for various specified diseases.",
+        "noteSource": "Lit. world, 30: 125."
+      },
+      {
+        "authorName": "Yeo, I: B.",
+        "title": "Food in health and disease. 8th ed.",
+        "publicationYear": 1901,
+        "publisher": "Keener",
+        "price": "$2.50 n",
+        "note": "Nutritive values, digestion and assimilation, cooking, dietaries, animal and vegetable food, food in special diseases, etc. Comprehensive and practical.",
+        "noteSource": "N. Y."
+      },
+      {
+        "authorName": "Bancroft, J. H.",
+        "title": "School gymnastics. Rev. ed. 2 v.",
+        "publicationYear": 1903,
+        "publisher": "Heath",
+        "price": "v. 1, $1.50; v. 2, $1.75",
+        "note": "Contents: v. 1, Free hand, rev. ed. v. 2, With light apparatus. Systems used in Brooklyn and Waterbury, Ct. public schools. Distinctly good. Detailed courses for boys and girls covering first 8 school years. Photographic illustrations.",
+        "noteSource": "Educ. r. 21: 396."
+      },
+      {
+        "authorName": "Benson, E: F., & Miles, E. H.",
+        "title": "Daily training.",
+        "publicationYear": 1902,
+        "publisher": "Dutton",
+        "price": "$1.50 n",
+        "note": "Concerning exercise, diet, stimulants, water, heat, sleep, rest, etc. under ordinary conditions. Manly and practical. Authors agree on broad principles, differing in personal practices.",
+        "noteSource": "N. Y."
+      },
+      {
+        "authorName": "Blaikie, William.",
+        "title": "How to get strong and how to stay so. Rev. ed.",
+        "publicationYear": 1902,
+        "publisher": "Harper",
+        "price": "$1 n",
+        "note": "Author is justifiably loyal to the exercise of walking, laying great stress on carriage, and to home gymnastics. In these respects the book is stimulating and offers a real guidance.",
+        "noteSource": "Nation, 67: 370 (B)"
+      },
+      {
+        "authorName": "Call, A. P.",
+        "title": "Power through repose. New ed.",
+        "publicationYear": 1900,
+        "publisher": "Little",
+        "price": "$1",
+        "note": "The gospel of relaxation, as one may call it, is preached in this admirable little volume, which ought to be in the hands of every teacher and student in America of either sex.",
+        "noteSource": "William James, Talks to teachers (B)"
+      },
+      {
+        "authorName": "Faries, Randolph.",
+        "title": "Practical training for athletics, health and pleasure. 2d ed.",
+        "publicationYear": 1899,
+        "publisher": "Outing",
+        "price": "$1",
+        "note": "American manual approved by D. A. Sargent.",
+        "noteSource": ""
+      },
+      {
+        "authorName": "Nissen, Hartvig.",
+        "title": "Rational home gymnastics, with health-points on walking and bicycling and the use of water and massage. Rev. ed.",
+        "publicationYear": 1903,
+        "publisher": "Bacon",
+        "price": "$1",
+        "note": "",
+        "noteSource": ""
+      },
+      {
+        "authorName": "Abbott, A. C.",
+        "title": "Hygiene of transmissible diseases; their causation, modes of dissemination and methods of prevention. 2d ed.",
+        "publicationYear": 1901,
+        "publisher": "Saunders",
+        "price": "$2.50 n",
+        "note": "Places before unprofessional readers compactly and intelligibly much widely scattered matter.",
+        "noteSource": "J. Y. Bergen in Educ. r. 20: 194."
+      },
+      {
+        "authorName": "Harrington, Charles.",
+        "title": "Manual of practical hygiene for students, physicians and medical officers. 2d ed.",
+        "publicationYear": 1902,
+        "publisher": "Lea",
+        "price": "$4.25 n",
+        "note": "Complete, authoritative, practical and modern. Chapter on hygiene of occupation. Prepared by specialists for practical aid of communities and individuals. Points to a final triumph over the scourge of consumption through persistent, intelligent effort.",
+        "noteSource": "Science, 37: 730; N. Y."
+      },
+      {
+        "authorName": "New York charity organization society.",
+        "title": "Handbook on the prevention of tuberculosis.",
+        "publicationYear": 1903,
+        "publisher": "Charity org. soc.",
+        "price": "$1",
+        "note": "",
+        "noteSource": ""
+      },
+      {
+        "authorName": "Sedgwick, W: T.",
+        "title": "Principles of sanitary science and the public health.",
+        "publicationYear": 1902,
+        "publisher": "Macmillan",
+        "price": "$3 n",
+        "note": "With special reference to causes and prevention of infectious diseases. Not too technical for intelligent readers.",
+        "noteSource": "N. Y."
+      },
+      {
+        "authorName": "Sternberg, G: M.",
+        "title": "Infection and immunity.",
+        "publicationYear": 1903,
+        "publisher": "Putnam",
+        "price": "$1.75 n",
+        "note": "Pt. 1, General discussion of causes of infection, use of disinfectants, and immunity; pt. 2 treats specially of origin, death rate and method of prevention of infectious diseases. For non-medical readers.",
+        "noteSource": ""
+      },
+      {
+        "authorName": "Sykes, J: F: J.",
+        "title": "Public health problems.",
+        "publicationYear": 1892,
+        "publisher": "Scribner",
+        "price": "$1.50",
+        "note": "",
+        "noteSource": ""
+      },
+      {
+        "authorName": "Tyndall, John.",
+        "title": "Essays on the floating-matter of the air, in relation to putrefaction and infection.",
+        "publicationYear": 1902,
+        "publisher": "Appleton",
+        "price": "$1.50",
+        "note": "",
+        "noteSource": ""
+      },
+      {
+        "authorName": "Blyth, A. W. & M. W.",
+        "title": "Foods: their composition and analysis; with introd. on the history of adulteration. 5th ed.",
+        "publicationYear": 1903,
+        "publisher": "Van Nostrand",
+        "price": "$7.50",
+        "note": "As a manual of the composition and examination of human food it has a leading position. Exact reference to every authority and a series of bibliographies make easy confirmation of quotation and further study. Legal relations are to English law, but they suggest ways of right doing.",
+        "noteSource": "Nation (B)"
+      },
+      {
+        "authorName": "Doty, A. H.",
+        "title": "Manual of instruction in the principles of prompt aid to the injured. 4th ed.",
+        "publicationYear": 1902,
+        "publisher": "Appleton",
+        "price": "$1.50 n",
+        "note": "Practical, useful, up to date. Ed. sel.",
+        "noteSource": ""
+      },
+      {
+        "authorName": "Dulles, C: W.",
+        "title": "Accidents and emergencies. 5th ed.",
+        "publicationYear": 1899,
+        "publisher": "Blakiston",
+        "price": "$1",
+        "note": "First published in 1880 under title What to do first in accidents or poisoning. For household use. Includes chapters on electricity, accidents and poisonous flowers, and some excellent pages on domestic emergencies.",
+        "noteSource": "Lit. world, 28: 379."
+      },
+      {
+        "authorName": "Hardy, W: J.",
+        "title": "Lighthouses; their history and romance.",
+        "publicationYear": 1895,
+        "publisher": "Revell",
+        "price": "$1.25",
+        "note": "Notable lighthouses and lightships of English coast, with brief history of use of lifesaving signals in England.",
+        "noteSource": "N. Y."
+      },
+      {
+        "authorName": "Hill, C: T.",
+        "title": "Fighting a fire.",
+        "publicationYear": 1897,
+        "publisher": "Century",
+        "price": "$1.50",
+        "note": "Account of the organization, methods, dangers and heroism of the New York fire department. Unit. Appeared in St Nicholas, July 1896-Oct. 1897.",
+        "noteSource": "Pittsburg."
+      },
+      {
+        "authorName": "Hudson, T. J.",
+        "title": "Law of mental medicine; the correlation of the facts of psychology and histology in their relation to mental therapeutics. 2d ed.",
+        "publicationYear": 1903,
+        "publisher": "McClurg",
+        "price": "$1.20 n",
+        "note": "Object primarily to assist in placing mental therapeutics on a firmly scientific basis, and incidentally to place within reach of the humblest intellect the most effective methods of healing by mental processes.",
+        "noteSource": "Pub. wkly."
+      },
+      {
+        "authorName": "Frankland, Mrs G.. C. (Toynbee)",
+        "title": "Bacteria in daily life.",
+        "publicationYear": 1903,
+        "publisher": "Longmans",
+        "price": "$1.75 n",
+        "note": "Treated in a general rather than a detailed manner. Author assumes only as much knowledge as the average educated man may safely be considered to possess.",
+        "noteSource": "Ath. '03, 2: 97."
+      },
+      {
+        "authorName": "Gardiner, C: F.",
+        "title": "Care of the consumptive; with chapter on Colorado as a resort for invalids.",
+        "publicationYear": 1900,
+        "publisher": "Putnam",
+        "price": "$1.25",
+        "note": "Bibliography, p. 168-72. Aims to give clear, practical rules governing use of fresh air, sunlight, food, rest and exercise. Not intended to supplant medical advice.",
+        "noteSource": "N. Y."
+      },
+      {
+        "authorName": "Mitchell, S. W.",
+        "title": "Fat and blood; an essay on treatment of certain forms of neurasthenia and hysteria; 8th ed. with additions by J: K. Mitchell.",
+        "publicationYear": 1902,
+        "publisher": "Lippincott",
+        "price": "$1.50",
+        "note": "",
+        "noteSource": ""
+      },
+      {
+        "authorName": "Muir, Robert, & Ritchie, James.",
+        "title": "Manual of bacteriology; Amer. ed. rev. by N. M. Harris.",
+        "publicationYear": 1903,
+        "publisher": "Macmillan",
+        "price": "$3.75 n",
+        "note": "Bibliography, p. 534-52. Clear and well developed exposition. Includes remarkable discoveries of Reed and his colleagues about yellow fever. Much larger and more complete than the excellent first edition (1897)",
+        "noteSource": "Nation, 76: 331."
+      },
+      {
+        "authorName": "Howe, J. W.",
+        "title": "Emergencies; etiology, pathology and treatment of accidents, diseases and cases of poisoning which demand prompt action. 4th ed.",
+        "publicationYear": 1884,
+        "publisher": "Appleton",
+        "price": "$2.50",
+        "note": "",
+        "noteSource": ""
+      },
+      {
+        "authorName": "Davis, E: P.",
+        "title": "Mother and child. 2d ed.",
+        "publicationYear": 1902,
+        "publisher": "Lippincott",
+        "price": "$1.50 n",
+        "note": "Not intended to take the place of the family physician, but to help him in care of his patients by placing at their disposal information which physicians commonly give to their patients.",
+        "noteSource": "Introd."
+      },
+      {
+        "authorName": "Mayo, N. S.",
+        "title": "Care of animals.",
+        "publicationYear": 1903,
+        "publisher": "Macmillan",
+        "price": "$1.25 n",
+        "note": "Takes up surgery, medicine and obstetrics in relation to farm animals and admirably translates the technical into the simple and intelligible. Contains directions concerning general care and quarters of farm animals, care of pets and the judging, handling and shoeing of horses.",
+        "noteSource": "Nation, 78: 130."
+      }
+    ]
+  },
+  "meta": {
+    "provider": "google",
+    "model": "gemini-3.5-flash",
+    "doc_id": "VJeLz6Am",
+    "usage": {
+      "promptTokenCount": 8630,
+      "candidatesTokenCount": 4168,
+      "totalTokenCount": 23659,
+      "promptTokensDetails": [
+        {
+          "modality": "IMAGE",
+          "tokenCount": 8576
+        },
+        {
+          "modality": "TEXT",
+          "tokenCount": 54
+        }
+      ],
+      "thoughtsTokenCount": 10861,
+      "serviceTier": "standard"
+    },
+    "schema_mode": "gemini_response_schema_nullable_v1",
+    "input_mode": "inline_data",
+    "guidelines_mode": "none",
+    "guidelines_chars": 0
+  }
+}

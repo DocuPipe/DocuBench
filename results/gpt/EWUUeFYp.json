@@ -1,0 +1,31 @@
+{
+  "status": "ok",
+  "cost": null,
+  "time_sec": 21.405637741088867,
+  "data": {
+    "entries": null
+  },
+  "meta": {
+    "provider": "openai",
+    "model": "gpt-5.5",
+    "doc_id": "EWUUeFYp",
+    "file_id": "file-Jt9fdDNGPRLaUkVNH9bx5s",
+    "response_id": "resp_049808317221ad14016a594293fdd8819fbb1c22641352d299",
+    "usage": {
+      "input_tokens": 23785,
+      "input_tokens_details": {
+        "cache_write_tokens": 0,
+        "cached_tokens": 0
+      },
+      "output_tokens": 538,
+      "output_tokens_details": {
+        "reasoning_tokens": 516
+      },
+      "total_tokens": 24323
+    },
+    "schema_mode": "openai_strict_nullable_v1",
+    "input_mode": "file",
+    "guidelines_mode": "none",
+    "guidelines_chars": 0
+  }
+}

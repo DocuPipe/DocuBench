@@ -1,0 +1,2733 @@
+{
+  "status": "ok",
+  "cost": 0.813159,
+  "time_sec": 307.26275300979614,
+  "data": {
+    "entries": [
+      {
+        "authorName": "Martin, H: N.",
+        "title": "The human body; an account of its structure and activities and the conditions of its healthy working. 8th ed.",
+        "publicationYear": 1904,
+        "publisher": "Holt",
+        "price": "$2.50",
+        "note": "Standard college text-book in human anatomy and physiology.",
+        "noteSource": "Ed. sel."
+      },
+      {
+        "authorName": "Peabody, J. E:",
+        "title": "Studies in physiology, anatomy and hygiene.",
+        "publicationYear": 1903,
+        "publisher": "Macmillan",
+        "price": "$1.10 n",
+        "note": "",
+        "noteSource": ""
+      },
+      {
+        "authorName": "Baker, M. N.",
+        "title": "Potable water and methods of detecting impurities.",
+        "publicationYear": 1899,
+        "publisher": "Van Nostrand",
+        "price": "50c",
+        "note": "Object to present clearly and briefly essential qualities of potable water, how it may be obtained, and significance of chemical, bacterial and microscopic tests. Discusses value of pure water, relations between water and disease and typhoid fever records as index of purity or impurity of public water supplies.",
+        "noteSource": "Engin. n. 42: 278."
+      },
+      {
+        "authorName": "Bergey, D: H.",
+        "title": "Principles of hygiene.",
+        "publicationYear": 1901,
+        "publisher": "Saunders",
+        "price": "$3 n",
+        "note": "Accurate; useful to medical students, physicians and health officers; also to architects in giving sanitary requirements for buildings.",
+        "noteSource": "N. Y."
+      },
+      {
+        "authorName": "Billings, J: S. ed.",
+        "title": "Physiological aspects of the liquor problem; investigations made by and under direction of sub-committee of the Committee of fifty to investigate the liquor problem.",
+        "publicationYear": 1903,
+        "publisher": "Houghton",
+        "price": "$4.50 n",
+        "note": "Holds that use of alcohol impairs mental work, lessens physical power, does not protect against cold and fatigue, and diminishes resistance to infectious diseases; condemns and exposes fallacy of some misdirected efforts to promote temperance.",
+        "noteSource": "N. Y."
+      },
+      {
+        "authorName": "Crandall, F. M.",
+        "title": "How to keep well.",
+        "publicationYear": 1903,
+        "publisher": "Doubleday",
+        "price": "$1.50 n",
+        "note": "Aims to give definite rules and principles for avoidance of disease. Handy guide to keeping well, and treatment of such simple ailments as do not require a doctor's care.",
+        "noteSource": "Pub. wkly."
+      },
+      {
+        "authorName": "Gerhard, W: P.",
+        "title": "Guide to sanitary house-inspection; or, Hints and helps regarding the choice of a healthful home in city or country. 3d ed.",
+        "publicationYear": 1902,
+        "publisher": "Wiley",
+        "price": "$1",
+        "note": "",
+        "noteSource": ""
+      },
+      {
+        "authorName": "Notter, J. L., & Firth, R. H.",
+        "title": "Practical domestic hygiene. New ed.",
+        "publicationYear": 1902,
+        "publisher": "Longmans",
+        "price": "90c",
+        "note": "Elementary human anatomy and physiology; Elementary hygiene; Domestic economy.",
+        "noteSource": ""
+      },
+      {
+        "authorName": "Notter, J. L.",
+        "title": "& Horrocks, W. H. Theory and practice of hygiene (Notter and Firth) 2d ed.",
+        "publicationYear": 1900,
+        "publisher": "Blakiston",
+        "price": "$7 n",
+        "note": "Original work by J. L. Notter and R. H. Firth, published 1896. Comprehensive, founded on E. A. Parke's Manual of practical hygiene.",
+        "noteSource": ""
+      },
+      {
+        "authorName": "Parkes, L. C., & Kenwood, Henry.",
+        "title": "Hygiene and public health. 2d ed.",
+        "publicationYear": 1902,
+        "publisher": "Blakiston",
+        "price": "$3 n",
+        "note": "Aims to cover the whole field of sanitary science, and gives such elementary information on every topic as will enable the reader to refer with advantage to the larger textbooks.",
+        "noteSource": "Science, 14: 301."
+      },
+      {
+        "authorName": "Pyle, W. L. ed.",
+        "title": "Manual of personal hygiene.",
+        "publicationYear": 1900,
+        "publisher": "Saunders",
+        "price": "$1.50 n",
+        "note": "Full of good sense and useful information about the various powers and faculties of the body, their use and incident ailments.",
+        "noteSource": "Spec. 86: 394."
+      },
+      {
+        "authorName": "Richards, Mrs E. H. (Swallow), & Talbot, Marion. ed.",
+        "title": "Home sanitation; a manual for housekeepers. Rev. ed.",
+        "publicationYear": 1904,
+        "publisher": "Whitcomb",
+        "price": "25c",
+        "note": "Books of reference, p. 77-80.",
+        "noteSource": ""
+      },
+      {
+        "authorName": "Stillwell, J. S.",
+        "title": "Human hair, its care and preservation.",
+        "publicationYear": 1900,
+        "publisher": "Maple pub. co.",
+        "price": "$1.25",
+        "note": "Object to present in easily intelligible form facts concerning human hair, particularly those pertaining to cause, prevention and cure of conditions and diseases which result in injury and total loss.",
+        "noteSource": "Pref."
+      },
+      {
+        "authorName": "Chapin, H: D.",
+        "title": "Theory and practice of infant feeding.",
+        "publicationYear": 1902,
+        "publisher": "Wood",
+        "price": "$2.25",
+        "note": "Bibliography, p. 317-20.",
+        "noteSource": ""
+      },
+      {
+        "authorName": "Hutchison, Robert.",
+        "title": "Food and the principles of dietetics.",
+        "publicationYear": 1903,
+        "publisher": "Wood",
+        "price": "$3 n",
+        "note": "Compilation and study of modern knowledge of chemical constituents of foods and of their relation to production of energy. Information on meat juices, jellies, and extracts particularly valuable.",
+        "noteSource": "Sat. r. 1901."
+      },
+      {
+        "authorName": "Pequignot, Mrs M.. A. (Boland)",
+        "title": "Handbook of invalid cooking. Rev. ed.",
+        "publicationYear": 1900,
+        "publisher": "Century",
+        "price": "$2",
+        "note": "Literature, p. 313-14. For professional and unprofessional nurses. Explanatory lessons on food properties and values, recipes, menus, with chapters on serving, feeding of children and district nursing.",
+        "noteSource": "N. Y."
+      },
+      {
+        "authorName": "Richards, Mrs E. H. (Swallow)",
+        "title": "Food materials and their adulterations. New ed.",
+        "publicationYear": 1898,
+        "publisher": "Home science",
+        "price": "$1",
+        "note": "Bibliography, p. 175-79. Important to housekeepers. On water, tea, coffee, dairy products, sugar, tinned goods, spices, etc. perishable foods and principles of diet.",
+        "noteSource": "N. Y."
+      },
+      {
+        "authorName": "Richards, Mrs E. H. (Swallow)",
+        "title": "& Woodman, A. G. Air, water and food from a sanitary standpoint.",
+        "publicationYear": 1900,
+        "publisher": "Wiley",
+        "price": "$2",
+        "note": "Elementary, with descriptions of laboratory methods for analyzing air, water and food. Tables of relative food values. Bibliography.",
+        "noteSource": "Engin. n. 45: 32."
+      },
+      {
+        "authorName": "Thompson, Sir Henry.",
+        "title": "Diet in relation to age and activity. 4th ed.",
+        "publicationYear": 1903,
+        "publisher": "Warne",
+        "price": "$1",
+        "note": "Well deserves its established popularity. Instructions for attaining comfortable longevity, adapted to all intelligent people, and the more acceptable from their felicitous style.",
+        "noteSource": "Nation, 74: 289."
+      },
+      {
+        "authorName": "Winthrop, A. W.",
+        "title": "Diet in illness and convalescence.",
+        "publicationYear": 1899,
+        "publisher": "Harper",
+        "price": "$1.50",
+        "note": "Large variety of recipes for beverages and foods, and much practical information of miscellaneous nature. Chapter devoted to diets suitable for various specified diseases.",
+        "noteSource": "Lit. world, 30: 125."
+      },
+      {
+        "authorName": "Yeo, I: B.",
+        "title": "Food in health and disease. 8th ed.",
+        "publicationYear": 1901,
+        "publisher": "Keener",
+        "price": "$2.50 n",
+        "note": "Nutritive values, digestion and assimilation, cooking, dietaries, animal and vegetable food, food in special diseases, etc. Comprehensive and practical.",
+        "noteSource": "N. Y."
+      },
+      {
+        "authorName": "Bancroft, J. H.",
+        "title": "School gymnastics. Rev. ed.",
+        "publicationYear": 1900,
+        "publisher": "Heath",
+        "price": "v. 1, $1.50; v. 2, $1.75",
+        "note": "Contents: v. 1, Free hand, rev. ed. v. 2, With light apparatus. Systems used in Brooklyn and Waterbury, Ct. public schools. Distinctly good. Detailed courses for boys and girls covering first 8 school years. Photographic illustrations.",
+        "noteSource": "Educ. r. 21: 396."
+      },
+      {
+        "authorName": "Benson, E: F:, & Miles, E. H.",
+        "title": "Daily training.",
+        "publicationYear": 1902,
+        "publisher": "Dutton",
+        "price": "$1.50 n",
+        "note": "Concerning exercise, diet, stimulants, water, heat, sleep, rest, etc. under ordinary conditions. Manly and practical. Authors agree on broad principles, differing in personal practices.",
+        "noteSource": "N. Y."
+      },
+      {
+        "authorName": "Blaikie, William.",
+        "title": "How to get strong and how to stay so. Rev. ed.",
+        "publicationYear": 1902,
+        "publisher": "Harper",
+        "price": "$1 n",
+        "note": "Author is justifiably loyal to the exercise of walking, laying great stress on carriage, and to home gymnastics. In these respects the book is stimulating and offers a real guidance.",
+        "noteSource": "Nation, 67: 370 (B)"
+      },
+      {
+        "authorName": "Call, A. P.",
+        "title": "Power through repose. New ed.",
+        "publicationYear": 1900,
+        "publisher": "Little",
+        "price": "$1",
+        "note": "The gospel of relaxation, as one may call it, is preached in this admirable little volume, which ought to be in the hands of every teacher and student in America of either sex.",
+        "noteSource": "William James, Talks to teachers (B)"
+      },
+      {
+        "authorName": "Faries, Randolph.",
+        "title": "Practical training for athletics, health and pleasure. 2d ed.",
+        "publicationYear": 1899,
+        "publisher": "Outing",
+        "price": "$1",
+        "note": "American manual approved by D. A. Sargent.",
+        "noteSource": ""
+      },
+      {
+        "authorName": "Nissen, Hartvig.",
+        "title": "Rational home gymnastics, with health-points on walking and bicycling and the use of water and massage. Rev. ed.",
+        "publicationYear": 1903,
+        "publisher": "Bacon",
+        "price": "$1",
+        "note": "",
+        "noteSource": ""
+      },
+      {
+        "authorName": "Abbott, A. C.",
+        "title": "Hygiene of transmissible diseases; their causation, modes of dissemination and methods of prevention. 2d ed.",
+        "publicationYear": 1901,
+        "publisher": "Saunders",
+        "price": "$2.50 n",
+        "note": "Places before unprofessional readers compactly and intelligibly much widely scattered matter.",
+        "noteSource": "J. Y. Bergen in Educ. r. 20: 194."
+      },
+      {
+        "authorName": "Harrington, Charles.",
+        "title": "Manual of practical hygiene for students, physicians and medical officers. 2d ed.",
+        "publicationYear": 1902,
+        "publisher": "Lea",
+        "price": "$4.25 n",
+        "note": "Complete, authoritative, practical and modern. Chapter on hygiene of occupation. Prepared by specialists for practical aid of communities and individuals. Points to a final triumph over the scourge of consumption through persistent, intelligent effort.",
+        "noteSource": "N. Y."
+      },
+      {
+        "authorName": "New York charity organization society.",
+        "title": "Handbook on the prevention of tuberculosis.",
+        "publicationYear": 1903,
+        "publisher": "Charity org. soc.",
+        "price": "$1",
+        "note": "",
+        "noteSource": ""
+      },
+      {
+        "authorName": "Sedgwick, W: T.",
+        "title": "Principles of sanitary science and the public health.",
+        "publicationYear": 1902,
+        "publisher": "Macmillan",
+        "price": "$3 n",
+        "note": "With special reference to causes and prevention of infectious diseases. Not too technical for intelligent readers.",
+        "noteSource": "N. Y."
+      },
+      {
+        "authorName": "Sternberg, G: M.",
+        "title": "Infection and immunity.",
+        "publicationYear": 1903,
+        "publisher": "Putnam",
+        "price": "$1.75 n",
+        "note": "Pt. 1, General discussion of causes of infection, use of disinfectants, and immunity; pt. 2 treats specially of origin, death rate and method of prevention of infectious diseases. For non-medical readers.",
+        "noteSource": ""
+      },
+      {
+        "authorName": "Sykes J: F: J.",
+        "title": "Public health problems.",
+        "publicationYear": 1892,
+        "publisher": "Scribner",
+        "price": "$1.50",
+        "note": "",
+        "noteSource": ""
+      },
+      {
+        "authorName": "Tyndall, John.",
+        "title": "Essays on the floating-matter of the air, in relation to putrefaction and infection.",
+        "publicationYear": 1902,
+        "publisher": "Appleton",
+        "price": "$1.50",
+        "note": "",
+        "noteSource": ""
+      },
+      {
+        "authorName": "Blyth, A. W. & M. W.",
+        "title": "Foods: their composition and analysis; with introd. on the history of adulteration. 5th ed.",
+        "publicationYear": 1903,
+        "publisher": "Van Nostrand",
+        "price": "$7.50",
+        "note": "As a manual of the composition and examination of human food it has a leading position. Exact reference to every authority and a series of bibliographies make easy confirmation of quotation and further study. Legal relations are to English law, but they suggest ways of right doing.",
+        "noteSource": "Nation (B)"
+      },
+      {
+        "authorName": "Doty, A. H.",
+        "title": "Manual of instruction in the principles of prompt aid to the injured. 4th ed.",
+        "publicationYear": 1902,
+        "publisher": "Appleton",
+        "price": "$1.50 n",
+        "note": "Practical, useful, up to date.",
+        "noteSource": "Ed. sel."
+      },
+      {
+        "authorName": "Dulles, C: W.",
+        "title": "Accidents and emergencies. 5th ed.",
+        "publicationYear": 1899,
+        "publisher": "Blakiston",
+        "price": "$1",
+        "note": "First published in 1880 under title What to do first in accidents or poisoning. For household use. Includes chapters on electricity, accidents and poisonous flowers, and some excellent pages on domestic emergencies.",
+        "noteSource": "Lit. world, 28: 379."
+      },
+      {
+        "authorName": "Hardy, W: J:",
+        "title": "Lighthouses; their history and romance.",
+        "publicationYear": 1895,
+        "publisher": "Revell",
+        "price": "$1.25",
+        "note": "Notable lighthouses and lightships of English coast, with brief history of use of lifesaving signals in England.",
+        "noteSource": "N. Y."
+      },
+      {
+        "authorName": "Hill, C: T.",
+        "title": "Fighting a fire.",
+        "publicationYear": 1897,
+        "publisher": "Century",
+        "price": "$1.50",
+        "note": "Account of the organization, methods, dangers and heroism of the New York fire department. Unit. Appeared in St Nicholas, July 1896-Oct. 1897.",
+        "noteSource": "Pittsburg."
+      },
+      {
+        "authorName": "Hudson, T. J.",
+        "title": "Law of mental medicine; the correlation of the facts of psychology and histology in their relation to mental therapeutics. 2d ed.",
+        "publicationYear": 1903,
+        "publisher": "McClurg",
+        "price": "$1.20 n",
+        "note": "Object primarily to assist in placing mental therapeutics on a firmly scientific basis, and incidentally to place within reach of the humblest intellect the most effective methods of healing by mental processes.",
+        "noteSource": "Pub. wkly."
+      },
+      {
+        "authorName": "Frankland, Mrs G.. C. (Toynbee)",
+        "title": "Bacteria in daily life.",
+        "publicationYear": 1903,
+        "publisher": "Longmans",
+        "price": "$1.75 n",
+        "note": "Treated in a general rather than a detailed manner. Author assumes only as much knowledge as the average educated man may safely be considered to possess.",
+        "noteSource": "Ath. '03, 2: 97."
+      },
+      {
+        "authorName": "Gardiner, C: F.",
+        "title": "Care of the consumptive; with chapter on Colorado as a resort for invalids.",
+        "publicationYear": 1900,
+        "publisher": "Putnam",
+        "price": "$1.25",
+        "note": "Bibliography, p. 168-72. Aims to give clear, practical rules governing use of fresh air, sunlight, food, rest and exercise. Not intended to supplant medical advice.",
+        "noteSource": "N. Y."
+      },
+      {
+        "authorName": "Mitchell, S. W.",
+        "title": "Fat and blood; an essay on treatment of certain forms of neurasthenia and hysteria; 8th ed. with additions by J: K. Mitchell.",
+        "publicationYear": 1902,
+        "publisher": "Lippincott",
+        "price": "$1.50",
+        "note": "",
+        "noteSource": ""
+      },
+      {
+        "authorName": "Muir, Robert, & Ritchie, James.",
+        "title": "Manual of bacteriology; Amer. ed. rev. by N. M. Harris.",
+        "publicationYear": 1903,
+        "publisher": "Macmillan",
+        "price": "$3.75 n",
+        "note": "Bibliography, p. 534-52. Clear and well developed exposition. Includes remarkable discoveries of Reed and his colleagues about yellow fever. Much larger and more complete than the excellent first edition (1897)",
+        "noteSource": "Nation, 76: 331."
+      },
+      {
+        "authorName": "Howe, J. W.",
+        "title": "Emergencies; etiology, pathology and treatment of accidents, diseases and cases of poisoning which demand prompt action. 4th ed.",
+        "publicationYear": 1884,
+        "publisher": "Appleton",
+        "price": "$2.50",
+        "note": "",
+        "noteSource": ""
+      },
+      {
+        "authorName": "Davis, E: P.",
+        "title": "Mother and child. 2d ed.",
+        "publicationYear": 1902,
+        "publisher": "Lippincott",
+        "price": "$1.50 n",
+        "note": "Not intended to take the place of the family physician, but to help him in care of his patients by placing at their disposal information which physicians commonly give to their patients.",
+        "noteSource": "Introd."
+      },
+      {
+        "authorName": "Mayo, N. S.",
+        "title": "Care of animals.",
+        "publicationYear": 1903,
+        "publisher": "Macmillan",
+        "price": "$1.25 n",
+        "note": "Takes up surgery, medicine and obstetrics in relation to farm animals and admirably translates the technical into the simple and intelligible. Contains directions concerning general care and quarters of farm animals, care of pets and the judging, handling and shoeing of horses.",
+        "noteSource": "Nation, 78: 130."
+      },
+      {
+        "authorName": "Burr, W: H.",
+        "title": "Ancient and modern engineering and the Isthmian canal.",
+        "publicationYear": 1902,
+        "publisher": "Wiley",
+        "price": "$3.50 n",
+        "note": "Expansion of 6 Cooper union lectures. Concise, accurate accounts of Nicaragua and Panama canals. Written with good judgment and full knowledge of latest thought and research.",
+        "noteSource": "Engin. n. v. 49, Jan. 15, sup. p. 8."
+      },
+      {
+        "authorName": "Carpenter, R. C.",
+        "title": "Experimental engineering and manual for testing. 5th ed.",
+        "publicationYear": 1903,
+        "publisher": "Wiley",
+        "price": "$6",
+        "note": "Standard methods for testing materials, engines and machinery. Aim not to teach how to generalize safely from experiments, but rather how to make the experiments themselves. Much of the information is found elsewhere only in scattered papers and articles.",
+        "noteSource": "Engin. n. 28: 202."
+      },
+      {
+        "authorName": "Cochrane, C: H:",
+        "title": "Wonders of modern mechanism. 3d ed.",
+        "publicationYear": 1900,
+        "publisher": "Lippincott",
+        "price": "$1.50 n",
+        "note": "The trolley, electric light, 30-story building, horseless carriage, kinetoscope, and other marvels. Clear, forcible English.",
+        "noteSource": "Providence."
+      },
+      {
+        "authorName": "Haswell, C: H.",
+        "title": "Mechanics' and engineers' pocket-book of tables, rules and formulas pertaining to mechanics, mathematics and physics. 69th ed.",
+        "publicationYear": 1903,
+        "publisher": "Harper",
+        "price": "$4",
+        "note": "Including areas, squares, cubes, roots, logarithms, hydraulics, hydrodynamics, steam and steam engine, naval architecture, masonry, steam vessels, mills, limes, mortars, cements, etc. Full index.",
+        "noteSource": "N. Y."
+      },
+      {
+        "authorName": "Johnson, J: B.",
+        "title": "Engineering contracts and specifications. 3d ed.",
+        "publicationYear": 1902,
+        "publisher": "Engin. n.",
+        "price": "$3",
+        "note": "Contains synopsis of law of contracts and complete list of descriptive and technical clauses of various kinds of engineering specifications, for students, engineers and contractors; specifications complete and carefully worded.",
+        "noteSource": "Elec. world, 32: 634."
+      },
+      {
+        "authorName": "Johnson, J: B.",
+        "title": "Materials of construction. 2d ed.",
+        "publicationYear": 1898,
+        "publisher": "Wiley",
+        "price": "$6",
+        "note": "Main results of foreign investigators. Indicates where details of any particular line of work may be found.",
+        "noteSource": "N. Y."
+      },
+      {
+        "authorName": "Lane, Mrs M. A. L. ed.",
+        "title": "Triumphs of science.",
+        "publicationYear": 1903,
+        "publisher": "Ginn",
+        "price": "30c",
+        "note": "",
+        "noteSource": ""
+      },
+      {
+        "authorName": "Merriman, Mansfield.",
+        "title": "Strength of materials; text-book for manual training schools.",
+        "publicationYear": 1897,
+        "publisher": "Wiley",
+        "price": "$1",
+        "note": "",
+        "noteSource": ""
+      },
+      {
+        "authorName": "Patton, W: M.",
+        "title": "Treatise on civil engineering. 2d ed.",
+        "publicationYear": 1903,
+        "publisher": "Wiley",
+        "price": "$7.50",
+        "note": "Bibliography, pref. p. 18. Aims to present essential and fundamental principles and a selection of practice without attempting exhaustive treatment.",
+        "noteSource": "Engin. n. 34: 79."
+      },
+      {
+        "authorName": "Thurston, R. H:",
+        "title": "Materials of engineering. 3 v.",
+        "publicationYear": 1899,
+        "publisher": "Wiley",
+        "price": "$8",
+        "note": "Contents: pt. 1, Non-metallic materials of engineering: stone, timber, fuel, lubricants, etc. 5th ed. rev. 1899. pt. 2, Iron and steel. 9th ed. rev. 1903. pt. 3, Brasses, bronzes, and other alloys, and their constituent metals. 4th ed. rev. 1900.",
+        "noteSource": ""
+      },
+      {
+        "authorName": "Trautwine, J: C.",
+        "title": "Civil engineer's pocket-book; rev. by J: C. Trautwine jr. and J: C. Trautwine 3d. 18th ed.",
+        "publicationYear": 1902,
+        "publisher": "Wiley",
+        "price": "$5",
+        "note": "Bibliography, p. 1008-23. Perhaps the most consulted reference work for civil and mechanical engineer. Tables trustworthy and of great intrinsic value.",
+        "noteSource": "Sci. Amer. 88: 165."
+      },
+      {
+        "authorName": "Unwin, W: C.",
+        "title": "The testing of materials of construction; a text-book for the engineering laboratory and a collection of the results of experiment. 2d ed.",
+        "publicationYear": 1899,
+        "publisher": "Longmans",
+        "price": "$6 n",
+        "note": "",
+        "noteSource": ""
+      },
+      {
+        "authorName": "Archbutt, Leonard, & Deeley, R. M.",
+        "title": "Lubrication and lubricants; a treatise on the theory and practice of lubrication, and on the nature, properties and testing of lubricants.",
+        "publicationYear": 1900,
+        "publisher": "Lippincott",
+        "price": "$5.50 n",
+        "note": "",
+        "noteSource": ""
+      },
+      {
+        "authorName": "Barber, T: W.",
+        "title": "Engineer's sketch-book of mechanical movements, devices, appliances, contrivances and details employed in the design and construction of machinery. 4th ed.",
+        "publicationYear": 1902,
+        "publisher": "Spon",
+        "price": "$4",
+        "note": "Text consists of diagrams, with descriptive notes on opposite pages.",
+        "noteSource": ""
+      },
+      {
+        "authorName": "Barber, T: W.",
+        "title": "Repair and maintenance of machinery; a handbook of practical notes and memoranda.",
+        "publicationYear": 1895,
+        "publisher": "Spon",
+        "price": "$3.50",
+        "note": "",
+        "noteSource": ""
+      },
+      {
+        "authorName": "Barr, J: H:",
+        "title": "Kinematics of machinery; a brief treatise on constrained motions of machine elements.",
+        "publicationYear": 1899,
+        "publisher": "Wiley",
+        "price": "$2.50",
+        "note": "Elucidates and supplements Unwin's Machine design.",
+        "noteSource": "Craver."
+      },
+      {
+        "authorName": "Barr, W: M.",
+        "title": "Pumping machinery; a practical hand-book relating to the construction and management of steam and power pumping machines.",
+        "publicationYear": 1893,
+        "publisher": "Lippincott",
+        "price": "$5",
+        "note": "Details plainly described and well illustrated; with caution and advice evidently derived from practical knowledge.",
+        "noteSource": "Engin. n. 29: 326."
+      },
+      {
+        "authorName": "Blaine, R. G.",
+        "title": "Hydraulic machinery, with an introd. to hydraulics.",
+        "publicationYear": 1897,
+        "publisher": "Spon",
+        "price": "$5",
+        "note": "Theoretic and practical data under each head, with full illustrations of late applications.",
+        "noteSource": "Engin. n. 38: 128."
+      },
+      {
+        "authorName": "Bodmer, G. R.",
+        "title": "Hydraulic motors and turbines. 3d ed.",
+        "publicationYear": 1902,
+        "publisher": "Van Nostrand",
+        "price": "$5",
+        "note": "Gives theory and practice of turbine construction, describes various systems in use and typical installations. Requires considerable knowledge of mathematics.",
+        "noteSource": "Pittsburg."
+      },
+      {
+        "authorName": "Brown & Sharpe manufacturing co.",
+        "title": "Practical treatise on gearing. 7th ed.",
+        "publicationYear": 1902,
+        "publisher": "Brown",
+        "price": "$1",
+        "note": "",
+        "noteSource": ""
+      },
+      {
+        "authorName": "Compton, A. G:, & De Groodt, J. H.",
+        "title": "Advanced metal-work: pt. 1, The speed-lathe.",
+        "publicationYear": 1898,
+        "publisher": "Wiley",
+        "price": "$1.50",
+        "note": "A practical instruction book in hand-turning in wood and to a lesser extent in brass.",
+        "noteSource": "Amer. mach. 22: 290 (B)"
+      },
+      {
+        "authorName": "Durand, W: F:",
+        "title": "Practical marine engineering.",
+        "publicationYear": 1901,
+        "publisher": "Marine engin.",
+        "price": "$5",
+        "note": "Authoritative and cyclopedic; subject reduced to its simplest and most exact terms.",
+        "noteSource": "R. H. Thurston in Science."
+      },
+      {
+        "authorName": "Frizell, J. P.",
+        "title": "Water power; an outline of the development and application of the energy of flowing water. 3d ed.",
+        "publicationYear": 1903,
+        "publisher": "Wiley",
+        "price": "$5",
+        "note": "Comprehensive and up-to-date; in no sense elementary. New practice plainly set forth and illustrated by examples from existing power plants.",
+        "noteSource": "Engin. n. 45: 79."
+      },
+      {
+        "authorName": "Goodman, John.",
+        "title": "Mechanics applied to engineering.",
+        "publicationYear": 1899,
+        "publisher": "Longmans",
+        "price": "$2 n",
+        "note": "Much condensed, but clear and logical.",
+        "noteSource": "Engin. n. 42: 312."
+      },
+      {
+        "authorName": "Hiscox, G. D.",
+        "title": "Compressed air; its production, uses and applications.",
+        "publicationYear": 1901,
+        "publisher": "Henley",
+        "price": "$5",
+        "note": "Compilation of all sorts of information from books, papers and trade catalogs presented in a semi-popular, semi-technical manner.",
+        "noteSource": "Engin. n. 48: 30."
+      },
+      {
+        "authorName": "Horner, J. G.",
+        "title": "Principles of fitting; by a foreman pattern maker.",
+        "publicationYear": 1893,
+        "publisher": "Macmillan",
+        "price": "$1.50",
+        "note": "Directs attention to cardinal matters at basis of the trade.",
+        "noteSource": "Pref."
+      },
+      {
+        "authorName": "Hutton, F: R.",
+        "title": "Gas-engine; a treatise on the internal-combustion engine using gas, gasoline, kerosene or other hydrocarbon as source of energy.",
+        "publicationYear": 1903,
+        "publisher": "Wiley",
+        "price": "$5",
+        "note": "Bibliography, p. 467-69. Describes American types.",
+        "noteSource": "Craver."
+      },
+      {
+        "authorName": "Kent, William.",
+        "title": "Mechanical engineer's pocket-book; a reference-book of rules, tables, data and formulæ. 6th ed.",
+        "publicationYear": 1903,
+        "publisher": "Wiley",
+        "price": "$5",
+        "note": "Aims to cover mechanical engineering as thoroughly as Trautwine covers civil engineering. Notable feature is quotation of authority on which rules, tables, formulas, etc. are based.",
+        "noteSource": "Engin. n. 33: 328."
+      },
+      {
+        "authorName": "Lineham, W. J.",
+        "title": "Text-book of mechanical engineering. 5th ed.",
+        "publicationYear": 1902,
+        "publisher": "Lippincott",
+        "price": "$4.50 n",
+        "note": "Pt. 1, Workshop practice, contains general operations: pattern making, molding, forging, machine tools, fitting and erecting, etc. pt. 2, Theory and examples: strength of materials and structures, energy and transmission of power, heat and heat engines, hydraulics and hydraulic machines. 732 drawings in text, 18 folding plates. Good index.",
+        "noteSource": "Ath. '95, 2: 495."
+      },
+      {
+        "authorName": "Low, D: A., & Bevis, A. W:",
+        "title": "Manual of machine drawing and design. Rev. ed.",
+        "publicationYear": 1902,
+        "publisher": "Longmans",
+        "price": "75c n",
+        "note": "Text concise and plain, illustrated by dimensioned shop drawings. Adapted for students but also full of practical workshop hints and suggestions.",
+        "noteSource": "Engin. n. 29: 463 (B)"
+      },
+      {
+        "authorName": "Roberts, E. W.",
+        "title": "Gas-engine handbook. 4th ed.",
+        "publicationYear": 1903,
+        "publisher": "Gas engine",
+        "price": "$1.50",
+        "note": "Details of principle of internal combustion engines, various types, fuels and heating values, operations and care of gas and gasolene engines, internal combustion engines, building and designing of gas engine. Requires knowledge of simple equations in algebra.",
+        "noteSource": "Elec. world, 35: 799."
+      },
+      {
+        "authorName": "Roberts, E. W.",
+        "title": "On marine motors and motor launches.",
+        "publicationYear": 1901,
+        "publisher": "Rudder",
+        "price": "$1",
+        "note": "Devoted exclusively to gasolene motor.",
+        "noteSource": "Pittsburg."
+      },
+      {
+        "authorName": "Robinson, S. W.",
+        "title": "Principles of mechanism.",
+        "publicationYear": 1903,
+        "publisher": "Wiley",
+        "price": "$3",
+        "note": "Aims to treat whole subject of mechanism so systematically and comprehensively that by its aid any machine may be analyzed into its elementary combinations, and the character of their motions determined.",
+        "noteSource": "Pref."
+      },
+      {
+        "authorName": "Robinson, William.",
+        "title": "Gas and petroleum engines. 2d ed. 2 v.",
+        "publicationYear": 1902,
+        "publisher": "Spon",
+        "price": "$8.50",
+        "note": "Aims to aid students and engineers in studying engines and principles that underlie and control their action. Traces evolution of internal combustion engine. Chief types of motors shown by many illustrations.",
+        "noteSource": "Pref."
+      },
+      {
+        "authorName": "Rose, Joshua.",
+        "title": "Complete practical machinist. 19th ed.",
+        "publicationYear": 1903,
+        "publisher": "Baird",
+        "price": "$2.50",
+        "note": "Lathe work, vise work, drills and drilling, taps and dies, hardening and tempering, the making and use of tools, tool grinding, marking out work, machine tools, etc.",
+        "noteSource": "Title."
+      },
+      {
+        "authorName": "Smith, A. W:",
+        "title": "Materials of machines.",
+        "publicationYear": 1902,
+        "publisher": "Wiley",
+        "price": "$1",
+        "note": "Short discussion with particular attention to physical and mechanical properties of iron and copper and their alloys. Intended to aid in selecting materials for various parts of machines.",
+        "noteSource": "Pittsburg."
+      },
+      {
+        "authorName": "Tayler, A. J. Wallis-",
+        "title": "Refrigeration, cold storage and ice-making.",
+        "publicationYear": 1902,
+        "publisher": "Van Nostrand",
+        "price": "$4.50 n",
+        "note": "Elaboration of Refrigerating and ice-making machinery. Appendix: Useful tables and memoranda; Bibliography of refrigeration. Traces mechanical development of different refrigerating processes and describes machinery and appliances employed in modern and improved practice. Copiously illustrated.",
+        "noteSource": "Engin. n. v. 48, 18 Dec. lit. sup. p. 4."
+      },
+      {
+        "authorName": "Unwin, W: C.",
+        "title": "Elements of machine design. Rev. ed. 2 v.",
+        "publicationYear": 1901,
+        "publisher": "Longmans",
+        "price": "v. 1, $2.25; v. 2, $2",
+        "note": "Admirable and unique. Fairly complete account of methods of proportioning parts of machinery, specially of steam engine.",
+        "noteSource": "Science, 16: 10 (B)"
+      },
+      {
+        "authorName": "Usher, J: T.",
+        "title": "Modern machinist. 5th ed.",
+        "publicationYear": 1904,
+        "publisher": "Henley",
+        "price": "$2.50",
+        "note": "Compendium of shop methods, showing a variety of special tools and appliances.",
+        "noteSource": "Ed. sel."
+      },
+      {
+        "authorName": "Van Dervoort, W: H.",
+        "title": "Modern machine shop tools, their construction, operation and manipulation, including both hand and machine tools.",
+        "publicationYear": 1903,
+        "publisher": "Henley",
+        "price": "$4",
+        "note": "Describes minutely and illustrates 673 tools and methods.",
+        "noteSource": "N. Y."
+      },
+      {
+        "authorName": "Wilson, H. S.",
+        "title": "Practical tool-maker and designer: a treatise upon the designing of tools and fixtures for machine tools and metal working machinery.",
+        "publicationYear": 1898,
+        "publisher": "Baird",
+        "price": "$2.50",
+        "note": "",
+        "noteSource": ""
+      },
+      {
+        "authorName": "Wood, De Volson.",
+        "title": "Turbines, theoretical and practical. 2d ed.",
+        "publicationYear": 1896,
+        "publisher": "Wiley",
+        "price": "$2.50",
+        "note": "Seeks to simplify solution of turbine problems by deducing from wheels of commercial proportions certain numeric results.",
+        "noteSource": "Engin. n. 33: 232."
+      },
+      {
+        "authorName": "Forney, M. N.",
+        "title": "Catechism of the locomotive. 2d ed.",
+        "publicationYear": 1890,
+        "publisher": "Van Nostrand",
+        "price": "$3.50",
+        "note": "Based on Georg Kosak's Katechismus der locomotive. Clear, simple description of construction and working of the locomotive engine. On many railroads the standard for examination of firemen for promotion.",
+        "noteSource": "Van Nostrand, 19: 25."
+      },
+      {
+        "authorName": "Kent, William.",
+        "title": "Steam-boiler economy.",
+        "publicationYear": 1901,
+        "publisher": "Wiley",
+        "price": "$4",
+        "note": "Eminently practical and useful.",
+        "noteSource": "Sci. Amer. 85: 44 (B)"
+      },
+      {
+        "authorName": "Neilson, R. M.",
+        "title": "Steam turbine. 2d ed.",
+        "publicationYear": 1903,
+        "publisher": "Longmans",
+        "price": "$3.60",
+        "note": "Includes short history of development, sketches theory and describes in detail the De Laval, Rateau and Parsons types. Chapter on propulsion of ships by turbines.",
+        "noteSource": "Pittsburg."
+      },
+      {
+        "authorName": "Peabody, C. H., & Miller, E: F.",
+        "title": "Steam-boilers.",
+        "publicationYear": 1897,
+        "publisher": "Wiley",
+        "price": "$4",
+        "note": "Authors professors in Mass. institute of technology. Illustrations excellent.",
+        "noteSource": "Engin. n. 37: 272."
+      },
+      {
+        "authorName": "Reagan, H. C.",
+        "title": "Locomotives: simple, compound, and electric. 4th ed.",
+        "publicationYear": 1902,
+        "publisher": "Wiley",
+        "price": "$2.50",
+        "note": "Ed. 1-3 issued under title Locomotive mechanism and engineering. Deals largely with handling and emergency repairing.",
+        "noteSource": "Engin. n. 36: 304 (B)"
+      },
+      {
+        "authorName": "Reeve, S. A.",
+        "title": "Thermodynamics of heat-engines.",
+        "publicationYear": 1903,
+        "publisher": "Macmillan",
+        "price": "$2.60 n",
+        "note": "Contents: Theory; Application of theory to practice. Appended: The steam-table, comp. from various sources by S. A. Reeve, 1903, 42 p. of tables, 35c n.",
+        "noteSource": ""
+      },
+      {
+        "authorName": "Ripper, William.",
+        "title": "Steam-engine theory and practice; with 438 illustrations.",
+        "publicationYear": 1899,
+        "publisher": "Longmans",
+        "price": "$2.50",
+        "note": "Sequel to author's elementary book Steam. Most useful portions to American engineers are those which give the applications of thermodynamic analysis to actual engine conditions.",
+        "noteSource": "Amer. mach. 23: 97 (B)"
+      },
+      {
+        "authorName": "Spangler, H: W. & others.",
+        "title": "Elements of steam engineering.",
+        "publicationYear": 1903,
+        "publisher": "Wiley",
+        "price": "$3",
+        "note": "Intended to bring before beginner examples of various forms of apparatus used in modern steam power plants, to explain simply and briefly construction, use and reasons for using these various parts or machines, and to give him a working vocabulary.",
+        "noteSource": "Pref."
+      },
+      {
+        "authorName": "Thurston, R. H:",
+        "title": "History of the growth of the steam-engine. 4th ed.",
+        "publicationYear": 1897,
+        "publisher": "Appleton",
+        "price": "$2.50",
+        "note": "",
+        "noteSource": ""
+      },
+      {
+        "authorName": "Thurston, R. H:",
+        "title": "Manual of steam-boilers. 7th ed.",
+        "publicationYear": 1901,
+        "publisher": "Wiley",
+        "price": "$5",
+        "note": "Exhibits fully progress of boiler in construction and adaptability for various purposes. Chapter on operation and care of boilers clear, concise and worthy of close attention.",
+        "noteSource": "Van Nostrand, 16: 35."
+      },
+      {
+        "authorName": "Thurston, R. H:",
+        "title": "Manual of the steam engine. 5th ed. 2 v.",
+        "publicationYear": 1900,
+        "publisher": "Wiley",
+        "price": "pt. 1, $6; pt. 2, $7.50",
+        "note": "Contents: Structure and theory; Design, construction and operation. For educated, practical engineers and advanced technical students. Combines long established thermodynamic theory of the heat engine with wastes in practical use, or losses of heat and energy, and thus establishes complete theory of the machine, its operation and efficiency.",
+        "noteSource": "Engin. n. 26: 212."
+      },
+      {
+        "authorName": "Atkinson, A. A.",
+        "title": "Electrical and magnetic calculations. 2d ed.",
+        "publicationYear": 1903,
+        "publisher": "Van Nostrand",
+        "price": "$1.50 n",
+        "note": "Covers the definite theory of electricity and magnetism and enforces each phase with admirably clear and practical computation. Numerous problems illustrating text fully worked out; judiciously selected problems for solution. Exhaustive index.",
+        "noteSource": "Elec. world 40: 142."
+      },
+      {
+        "authorName": "Bell, Louis.",
+        "title": "Electric power transmission. 3d ed.",
+        "publicationYear": 1901,
+        "publisher": "McGraw",
+        "price": "$3",
+        "note": "Aims to set forth as simply as possible present practice. For business man rather than student; treatment eminently practical. Value appreciably increased by addition of short chapter on recent achievements in high-voltage transmission.",
+        "noteSource": "Engin. n. 43: 63."
+      },
+      {
+        "authorName": "Bell, Louis.",
+        "title": "Power distribution for electric railroads. 3d ed.",
+        "publicationYear": 1900,
+        "publisher": "Street railway pub. co.",
+        "price": "$2.50",
+        "note": "Important problems connected with design of system of conductors for electric railways fully considered in light of existing conditions and satisfactory solutions reached.",
+        "noteSource": "Elec. world, 29: 296."
+      },
+      {
+        "authorName": "Crocker, F. B.",
+        "title": "Electric lighting. 2 v.",
+        "publicationYear": 1896,
+        "publisher": "Van Nostrand",
+        "price": "$3 ea",
+        "note": "Contents: v. 1, Generating plant. v. 2, Distributing system and lamps. Practical exposition of the art for engineers, students and others interested in installation or operation of electric plants.",
+        "noteSource": "Title."
+      },
+      {
+        "authorName": "Crocker, F. B., & Wheeler, S. S.",
+        "title": "Practical management of dynamos and motors. 5th ed.",
+        "publicationYear": 1903,
+        "publisher": "Van Nostrand",
+        "price": "$1",
+        "note": "Originally published in Electrical engineer, Sep. 1891-May 1892. Practical treatise for engineers and an excellent handbook. Gives careful directions for examining and testing generators, also for localization and remedy of troubles in all kinds of dynamos and motors.",
+        "noteSource": "E. ass'n. of phy. teachers (B)"
+      },
+      {
+        "authorName": "Cushing, H. C. jr.",
+        "title": "Standard wiring for electric light and power, as adopted by the fire underwriters of the United States; containing national electrical code explained and illustrated.",
+        "publicationYear": 1903,
+        "publisher": "Author, New York",
+        "price": "$1",
+        "note": "",
+        "noteSource": ""
+      },
+      {
+        "authorName": "Foster, H. A.",
+        "title": "Electrical engineer's pocket-book. 2d ed.",
+        "publicationYear": 1902,
+        "publisher": "Van Nostrand",
+        "price": "$5",
+        "note": "Author practising engineer of reputation. Compend of useful facts for daily use of electrician and electric engineer.",
+        "noteSource": "Engin. n. 46: 469."
+      },
+      {
+        "authorName": "Hanchett, G: T.",
+        "title": "Modern electric railway motors; a discussion of current practice in electric railway motor construction, maintenance and repair.",
+        "publicationYear": 1900,
+        "publisher": "Street railway pub. co.",
+        "price": "$2",
+        "note": "Contains table of principal dimensions of all types of street railway motors now in general use, American and foreign.",
+        "noteSource": "Elec. world, 35: 878."
+      },
+      {
+        "authorName": "Herrick, A. B.",
+        "title": "Practical electric railway handbook.",
+        "publicationYear": 1901,
+        "publisher": "Street railway pub. co.",
+        "price": "$3",
+        "note": "Construction, testing and operating of electric railway systems, according to best American practice. Avoids mathematics as much as possible, and illustrates by cuts and diagrams appliances and methods proposed.",
+        "noteSource": "Engin. n. 46: 437."
+      },
+      {
+        "authorName": "Houston, E. J., & Kennelly, A. E.",
+        "title": "Alternating electric currents. 3d ed.",
+        "publicationYear": 1902,
+        "publisher": "McGraw",
+        "price": "$1",
+        "note": "Fundamental principles necessary to correct understanding of subject developed in simplest language and without any mathematics except arithmetic. Practical applications described in terms as free as possible from technicalities.",
+        "noteSource": "Elec. world, 26: 653."
+      },
+      {
+        "authorName": "Houston, E. J., & Kennelly, A. E.",
+        "title": "Electric arc lighting. 2d ed.",
+        "publicationYear": 1902,
+        "publisher": "McGraw",
+        "price": "$1",
+        "note": "Mechanism of different types of lamps shown, giving good idea of present practice.",
+        "noteSource": "Elec. world, 28: 341."
+      },
+      {
+        "authorName": "Houston, E. J., & Kennelly, A. E.",
+        "title": "Electric heating.",
+        "publicationYear": 1895,
+        "publisher": "McGraw",
+        "price": "$1",
+        "note": "Covers subject very thoroughly, though not a general treatise. Chapters on elementary principles, heating of bare conductors, covered conductors, fuse wires, electric heaters, electric cooking, electric welding, electric furnaces, miscellaneous applications.",
+        "noteSource": "Elec. world, 27: 321."
+      },
+      {
+        "authorName": "Houston, E. J., & Kennelly, A. E.",
+        "title": "Electric incandescent lighting. 2d ed.",
+        "publicationYear": 1902,
+        "publisher": "McGraw",
+        "price": "$1",
+        "note": "Brief history of early art of electric lighting, description of arc light generators, lamp mechanism, and various processes in manufacture of carbon electrodes.",
+        "noteSource": "St. Louis."
+      },
+      {
+        "authorName": "Houston, E. J., & Kennelly, A. E.",
+        "title": "The electric motor and the transmission of power.",
+        "publicationYear": 1896,
+        "publisher": "McGraw",
+        "price": "$1",
+        "note": "",
+        "noteSource": ""
+      },
+      {
+        "authorName": "Houston, E. J., & Kennelly, A. E.",
+        "title": "Electric street railways.",
+        "publicationYear": 1896,
+        "publisher": "McGraw",
+        "price": "$1",
+        "note": "Sketch of history, brief statement of elementary principles, descriptions of parts of an electric railway system, and chapters on storage battery, traction and electric locomotives. Non-technical.",
+        "noteSource": "Elec. world, 28: 764."
+      },
+      {
+        "authorName": "Kapp, Gisbert.",
+        "title": "Transformers for single and multiphase currents; a treatise on their theory, construction, and use; with 133 illustrations.",
+        "publicationYear": 1896,
+        "publisher": "Macmillan",
+        "price": "$1.75",
+        "note": "",
+        "noteSource": ""
+      },
+      {
+        "authorName": "Perrine, F: A. C.",
+        "title": "Conductors for electrical distribution; their materials and manufacture, the calculation of circuits, pole-line construction, underground working, and other uses.",
+        "publicationYear": 1903,
+        "publisher": "Van Nostrand",
+        "price": "$3.50 n",
+        "note": "Gives in authoritative and systematic form the benefit of extensive experience. For student and practising engineer.",
+        "noteSource": "Engin. n. v. 49, 16 Ap. lit. sup. p. 42-43."
+      },
+      {
+        "authorName": "Poole, C. P.",
+        "title": "Electric wiring.",
+        "publicationYear": 1900,
+        "publisher": "Power",
+        "price": "$1",
+        "note": "Assumes merely familiarity with Ohm's law. For practical wiremen and electric engineers.",
+        "noteSource": "Elec. world, 35: 447."
+      },
+      {
+        "authorName": "Rosenberg, E.",
+        "title": "Electrical engineering; tr. by W. W. H. Gee and Carl Kinzbrunner.",
+        "publicationYear": 1903,
+        "publisher": "Wiley",
+        "price": "$1.50 n",
+        "note": "Practical [non-mathematical] Explains construction of machines and how construction affects running; how speed, voltage, load, torque, etc. vary; what troubles arise from reversed connections; how a machine will behave under special conditions, etc.",
+        "noteSource": "Engin. n. lit. sup. 50: 15."
+      },
+      {
+        "authorName": "Sheldon, Samuel, & Mason, Hobart.",
+        "title": "Dynamo electric machinery; its construction, design and operation. 2 v.",
+        "publicationYear": 1901,
+        "publisher": "Van Nostrand",
+        "price": "$2.50 ea n",
+        "note": "v. 1, Direct current machines, 2d ed. v. 2, has title Alternating-current machines.",
+        "noteSource": ""
+      },
+      {
+        "authorName": "Shepardson, G: D.",
+        "title": "Electrical catechism; an introductory treatise on electricity and its uses.",
+        "publicationYear": 1901,
+        "publisher": "Amer. elec. co.",
+        "price": "$2",
+        "note": "Non-technical.",
+        "noteSource": ""
+      },
+      {
+        "authorName": "Sloane, T: O'C.",
+        "title": "How to become a successful electrician. 12th ed.",
+        "publicationYear": 1903,
+        "publisher": "Henley",
+        "price": "$1",
+        "note": "Containing studies to be followed, methods of work, field of operation, professional ethics, etc.",
+        "noteSource": "Title."
+      },
+      {
+        "authorName": "Thompson, S. P.",
+        "title": "Design of dynamos.",
+        "publicationYear": 1903,
+        "publisher": "Spon",
+        "price": "$3.50",
+        "note": "",
+        "noteSource": ""
+      },
+      {
+        "authorName": "Foster, C. Le N.",
+        "title": "Text-book of ore and stone mining; 4th ed. by L. H. Cooke.",
+        "publicationYear": 1901,
+        "publisher": "Lippincott",
+        "price": "$10 n",
+        "note": "",
+        "noteSource": ""
+      },
+      {
+        "authorName": "Greene, Homer.",
+        "title": "Coal and the coal mines.",
+        "publicationYear": 1889,
+        "publisher": "Houghton",
+        "price": "75c",
+        "note": "",
+        "noteSource": ""
+      },
+      {
+        "authorName": "Shinn, C. H.",
+        "title": "Story of the mine.",
+        "publicationYear": 1896,
+        "publisher": "Appleton",
+        "price": "$1.50",
+        "note": "Mining conditions as illustrated by history of Comstock lode, with side chapters on mine litigation, speculation, mechanical problems, etc. Picturesque and authoritative.",
+        "noteSource": "N. Y."
+      },
+      {
+        "authorName": "Fyfe, H. C.",
+        "title": "Submarine warfare, past, present and future; with introd. by Admiral Tremantle, and chapter on the probable future of submarine boat construction by Sir E: J. Reed. 2d ed.",
+        "publicationYear": 1903,
+        "publisher": "Dutton",
+        "price": "$3 n",
+        "note": "Short bibliography, p. 331-32. Sociologic and metaphysical sides discussed with animation. Reviews American invention and enterprise. Much technical data and admirably illustrated.",
+        "noteSource": "Elec. world, 40: 426."
+      },
+      {
+        "authorName": "Baker, I. O.",
+        "title": "Treatise on masonry construction. 9th ed.",
+        "publicationYear": 1899,
+        "publisher": "Wiley",
+        "price": "$5",
+        "note": "Most valuable and complete treatise on masonry in any language.",
+        "noteSource": "Engin. n. 42: 211."
+      },
+      {
+        "authorName": "Howe, M. A.",
+        "title": "Design of simple roof-trusses in wood and steel; with an introd. to the elements of graphic statics.",
+        "publicationYear": 1902,
+        "publisher": "Wiley",
+        "price": "$2",
+        "note": "Useful to those without special training in structural engineering. Includes tables giving the properties of standard steel shapes.",
+        "noteSource": "Craver."
+      },
+      {
+        "authorName": "Johnson, J: B. & others.",
+        "title": "Theory and practice of modern framed structures; for schools, and for engineers in professional practice. 8th ed.",
+        "publicationYear": 1904,
+        "publisher": "Wiley",
+        "price": "$10",
+        "note": "",
+        "noteSource": ""
+      },
+      {
+        "authorName": "Maginnis, O. B.",
+        "title": "Roof framing made easy. 2d ed.",
+        "publicationYear": 1903,
+        "publisher": "Industrial pub. co.",
+        "price": "$1.50",
+        "note": "Reprint of articles in Carpentry and building and the Carpenter. Gives simple, practical method for laying out and framing timber roofs of various forms. Concise; illustrations profuse and clear.",
+        "noteSource": "Engin. n. 41: 111 (ed. 1)"
+      },
+      {
+        "authorName": "Baker, I. O.",
+        "title": "Treatise on roads and pavements.",
+        "publicationYear": 1903,
+        "publisher": "Wiley",
+        "price": "$5",
+        "note": "Discussion of principles from engineer's point of view. Considers economics and location of country roads, construction and maintenance of earth roads, hard surface roads and pavements.",
+        "noteSource": "Pittsburg."
+      },
+      {
+        "authorName": "Homans, J. E:",
+        "title": "Self-propelled vehicles.",
+        "publicationYear": 1902,
+        "publisher": "Audel",
+        "price": "$5",
+        "note": "Practical treatise on theory, construction, operation, care and management of all forms of automobiles.",
+        "noteSource": "Title."
+      },
+      {
+        "authorName": "Shaler, N. S.",
+        "title": "American highways.",
+        "publicationYear": 1896,
+        "publisher": "Century",
+        "price": "$1.50",
+        "note": "List of important works on highway construction, p. 292-93. Road materials, methods of construction and administration, machinery, cost, effects of climate and topography, importance of specific training and education in highway engineering, etc.",
+        "noteSource": "N. Y."
+      },
+      {
+        "authorName": "Spalding, F: P.",
+        "title": "Text-book on roads and pavements. 2d ed.",
+        "publicationYear": 1902,
+        "publisher": "Wiley",
+        "price": "$2",
+        "note": "",
+        "noteSource": ""
+      },
+      {
+        "authorName": "Tillson, G: W:",
+        "title": "Street pavements and paving materials.",
+        "publicationYear": 1900,
+        "publisher": "Wiley",
+        "price": "$4",
+        "note": "Comprehensive, authoritative review of best current practice. Illustrations.",
+        "noteSource": "Engin. n. 45: 32."
+      },
+      {
+        "authorName": "Tratman, E: E. R.",
+        "title": "Railway track and track work; 2d ed. with sup. chapters on \"Signals and interlocking\" and \"Street railway track.\"",
+        "publicationYear": 1901,
+        "publisher": "Engin. n.",
+        "price": "$3",
+        "note": "General principles with numerous details of material, appliances and work, and methods of practice, with drawings. Various subjects treated critically and descriptively.",
+        "noteSource": "Pref."
+      },
+      {
+        "authorName": "Warman, Cy.",
+        "title": "Story of the railroad.",
+        "publicationYear": 1898,
+        "publisher": "Appleton",
+        "price": "$1.50",
+        "note": "Picture of the life of the man who built the trans-continental lines across the plains and mountains. Also, a history, in brief, of the five principal companies whose roads have crossed the continent.",
+        "noteSource": "Lit. world (B)"
+      },
+      {
+        "authorName": "Webb, W. L.",
+        "title": "Railroad construction: theory and practice; a text-book for the use of students in colleges and technical schools. 2d ed.",
+        "publicationYear": 1903,
+        "publisher": "Wiley",
+        "price": "$5",
+        "note": "Railway work from surveys to track construction.",
+        "noteSource": "Engin. n. 45: 7."
+      },
+      {
+        "authorName": "Wellington, A. M.",
+        "title": "Economic theory of the location of railways; an analysis of the conditions controlling the laying out of railways to effect the most judicious expenditure of capital. Rev. ed.",
+        "publicationYear": 1887,
+        "publisher": "Wiley",
+        "price": "$5",
+        "note": "",
+        "noteSource": ""
+      },
+      {
+        "authorName": "Mead, Elwood.",
+        "title": "Irrigation institutions.",
+        "publicationYear": 1903,
+        "publisher": "Macmillan",
+        "price": "$1.25 n",
+        "note": "Discussion of the economic and legal questions created by growth of irrigated agriculture in West.",
+        "noteSource": "Title."
+      },
+      {
+        "authorName": "Harcourt, L. F. V.",
+        "title": "Harbours and docks. 2 v.",
+        "publicationYear": 1885,
+        "publisher": "Clarendon",
+        "price": "$6.50",
+        "note": "Their physical features, history, construction, equipment and maintenance, with statistics as to their commercial development.",
+        "noteSource": "Title."
+      },
+      {
+        "authorName": "Harcourt, L. F. V.",
+        "title": "Rivers and canals. 2d ed. 2 v.",
+        "publicationYear": 1896,
+        "publisher": "Clarendon",
+        "price": "$8",
+        "note": "Contents: v. 1, Rivers. v. 2, Canals. The flow, control and improvement of rivers and the design, construction and development of canals both for navigation and irrigation, with statistics of the traffic on inland waterways.",
+        "noteSource": "Title."
+      },
+      {
+        "authorName": "Thomas, B: F., & Watt, D: A.",
+        "title": "Improvement of rivers.",
+        "publicationYear": 1903,
+        "publisher": "Wiley",
+        "price": "$6 n",
+        "note": "Principal works consulted, pref. p. 5-6. Treatise on the methods employed for improving streams for open navigation, and for navigation by means of locks and dams. Treats also of improvement for flood protection. Authors have had charge of some of most important recent slack water navigation improvements.",
+        "noteSource": "Engin. n. v. 49, 14 May, lit. sup. p. 59."
+      },
+      {
+        "authorName": "Wegmann, Edward.",
+        "title": "Design and construction of dams; including masonry, earth, rock-fill, and timber structures, also the principal types of movable dams. 4th ed.",
+        "publicationYear": 1899,
+        "publisher": "Wiley",
+        "price": "$5",
+        "note": "",
+        "noteSource": ""
+      },
+      {
+        "authorName": "Baker, M. N.",
+        "title": "Municipal engineering and sanitation.",
+        "publicationYear": 1902,
+        "publisher": "Macmillan",
+        "price": "$1.25 n",
+        "note": "Practical, authoritative discussion of problems of transportation, communication, water, lighting, slaughter houses, sewage, street cleaning, smoke, noise, etc. public policy and finance. Author's wide practical experience furnishes many tangible examples.",
+        "noteSource": "Brooks."
+      },
+      {
+        "authorName": "Billings, J: S.",
+        "title": "Ventilation and heating.",
+        "publicationYear": 1893,
+        "publisher": "McGraw",
+        "price": "$6",
+        "note": "For architects, engineers and non-professional inquirers. Comprehensive discussion of principles and practical applied science.",
+        "noteSource": "N. Y."
+      },
+      {
+        "authorName": "Folwell, A. P.",
+        "title": "Sewerage; the designing, construction and maintenance of sewerage systems. 5th ed.",
+        "publicationYear": 1904,
+        "publisher": "Wiley",
+        "price": "$3",
+        "note": "",
+        "noteSource": ""
+      },
+      {
+        "authorName": "Gerhard, W: P.",
+        "title": "House-drainage and sanitary plumbing. 10th ed.",
+        "publicationYear": 1902,
+        "publisher": "Van Nostrand",
+        "price": "50c",
+        "note": "Reprinted from Van Nostrand's magazine.",
+        "noteSource": ""
+      },
+      {
+        "authorName": "Gerhard, W: P.",
+        "title": "Sanitary engineering.",
+        "publicationYear": 1898,
+        "publisher": "Author, New York",
+        "price": "$1.25",
+        "note": "Reprint of Franklin institute address, 1895. Indicates broad, general principles. Semi-popular.",
+        "noteSource": "Engin. n. 39: 248."
+      },
+      {
+        "authorName": "Goodell, John.",
+        "title": "Water-works for small cities and towns.",
+        "publicationYear": 1899,
+        "publisher": "McGraw",
+        "price": "$2",
+        "note": "Refers to successful methods; not technical, of service to trustees as well as executive officers.",
+        "noteSource": "Ed. sel."
+      },
+      {
+        "authorName": "Goodrich, W. F.",
+        "title": "Economic disposal of towns' refuse.",
+        "publicationYear": 1901,
+        "publisher": "Wiley",
+        "price": "$3.50",
+        "note": "More than a description of practice; discusses principles and criticizes. Strong bias in favor of cremation.",
+        "noteSource": "Engin. n. 46: 198."
+      },
+      {
+        "authorName": "Hill, J: W.",
+        "title": "Purification of public water supplies.",
+        "publicationYear": 1898,
+        "publisher": "Van Nostrand",
+        "price": "$3",
+        "note": "Sums up case against impure water and the remedy. Discusses quality of water supplies and relation to typhoid fever; sedimentation, sterilization and filtration; description of American and foreign filter plants.",
+        "noteSource": "Engin. n. 39: 296."
+      },
+      {
+        "authorName": "Mason, W: P.",
+        "title": "Water-supply. 3d ed.",
+        "publicationYear": 1902,
+        "publisher": "Wiley",
+        "price": "$4",
+        "note": "Omits chapters on chemical and bacteriologic examination, now published separately.",
+        "noteSource": "Engin. n. 48: 52."
+      },
+      {
+        "authorName": "Merriman, Mansfield.",
+        "title": "Elements of sanitary engineering. 2d ed.",
+        "publicationYear": 1899,
+        "publisher": "Wiley",
+        "price": "$2",
+        "note": "Adapted for college use. List of topics for further investigation at end of each chapter.",
+        "noteSource": "Engin. n. 40: 424."
+      },
+      {
+        "authorName": "Rafter, G: W., & Baker, M. N.",
+        "title": "Sewage disposal in the United States.",
+        "publicationYear": 1894,
+        "publisher": "Van Nostrand",
+        "price": "$6",
+        "note": "",
+        "noteSource": ""
+      },
+      {
+        "authorName": "Rideal, Samuel.",
+        "title": "Sewage and the bacterial purification of sewage. 2d ed.",
+        "publicationYear": 1901,
+        "publisher": "Wiley",
+        "price": "$3.50",
+        "note": "Best on subject. First comprehensive and satisfactory work on sewage purification since such bacterial methods as septic tank and rapid filter beds. Judicial rather than partizan.",
+        "noteSource": "Engin. n. 45: 33."
+      },
+      {
+        "authorName": "Waring, G: E.",
+        "title": "How to drain a house. 2d ed.",
+        "publicationYear": 1895,
+        "publisher": "Van Nostrand",
+        "price": "$1.25",
+        "note": "Practical expert information for individual householder.",
+        "noteSource": "N. Y."
+      },
+      {
+        "authorName": "Waring, G: E.",
+        "title": "Modern methods of sewage disposal for towns, public institutions and isolated houses.",
+        "publicationYear": 1894,
+        "publisher": "Van Nostrand",
+        "price": "$2",
+        "note": "Expert, practical discussion of general problems and methods, sewage irrigation, filtration, chemical treatment, needs of hotels, country houses, etc.",
+        "noteSource": "N. Y."
+      },
+      {
+        "authorName": "Waring, G: E.",
+        "title": "Sanitary condition of city and country dwelling houses. 2d ed.",
+        "publicationYear": 1898,
+        "publisher": "Van Nostrand",
+        "price": "50c",
+        "note": "Papers on country and city houses, and correspondence regarding them in American architect. States some essentials of house sanitation.",
+        "noteSource": "Engin. n. 41: 372."
+      },
+      {
+        "authorName": "Brooks, W: P.",
+        "title": "Agriculture. 3 v.",
+        "publicationYear": 1901,
+        "publisher": "King",
+        "price": "$2.75",
+        "note": "Contents: v. 1, Soils, formation, physical and chemical characteristics and methods of improvement, including tillage, drainage and irrigation. v. 2, Manures, fertilizers and farm crops, including green manuring and crop rotation. v. 3, Animal husbandry, including breeds of live stock, general principles of breeding, feeding animals; discussion of ensilage, dairy management on farm and poultry farming.",
+        "noteSource": ""
+      },
+      {
+        "authorName": "Burkett, C: W: & others.",
+        "title": "Agriculture for beginners.",
+        "publicationYear": 1903,
+        "publisher": "Ginn",
+        "price": "75c",
+        "note": "Contents: Soil; The soil and the plant; The plant; How to raise a fruit tree; Diseases of plants; Orchard, garden and field insects; Farm crops; Domestic animals; Farm dairying.",
+        "noteSource": ""
+      },
+      {
+        "authorName": "Conn, H. W:",
+        "title": "Agricultural bacteriology.",
+        "publicationYear": 1901,
+        "publisher": "Blakiston",
+        "price": "$2.50 n",
+        "note": "Study of the relation of bacteria to agriculture, with special reference to the bacteria in the soil, in water, in the dairy, in miscellaneous farm products and in plants and domestic animals.",
+        "noteSource": "Title."
+      },
+      {
+        "authorName": "Gregg, Mrs Mary (Kirby), & Kirby, Elizabeth.",
+        "title": "Aunt Martha's corner cupboard; or, Stories about tea, coffee, sugar, rice, etc.",
+        "publicationYear": 1898,
+        "publisher": "Flanagan",
+        "price": "40c",
+        "note": "",
+        "noteSource": ""
+      },
+      {
+        "authorName": "Roberts, I: P.",
+        "title": "The farmstead.",
+        "publicationYear": 1900,
+        "publisher": "Macmillan",
+        "price": "$1.25",
+        "note": "On selection and purchase of farms and location of buildings. Chapters on household administration, water supply, sewage, etc. Clear cut and practical.",
+        "noteSource": "Nat. nurseryman."
+      },
+      {
+        "authorName": "Woll, F. W.",
+        "title": "Handbook for farmers and dairymen. 2d ed.",
+        "publicationYear": 1900,
+        "publisher": "Wiley",
+        "price": "$1.50",
+        "note": "Compend with tables, formulas, receipts, statistics, etc. Compiled largely from publications of experiment stations, scientific divisions of United States department of agriculture, farm papers and standard works. Includes full summary of main results of 12th census as pertaining to agricultural interests.",
+        "noteSource": "Pref."
+      },
+      {
+        "authorName": "Hall, A. D.",
+        "title": "The soil; an introd. to the scientific study of the growth of crops.",
+        "publicationYear": 1903,
+        "publisher": "Murray",
+        "price": "3s6",
+        "note": "Bibliography, p. 277-79. Deals with origin of soils, their physical and chemical properties and composition, methods of analysis, the living organisms within the soil, causes of fertility and sterility, soil types and the natural flora belonging to each. Original and suggestive.",
+        "noteSource": "Nature, 68: 52."
+      },
+      {
+        "authorName": "King, F. H.",
+        "title": "Irrigation and drainage.",
+        "publicationYear": 1899,
+        "publisher": "Macmillan",
+        "price": "$1.50",
+        "note": "Deals with relations of water to soils and plants, presenting practical problems with underlying principles. Avoids engineering problems.",
+        "noteSource": "N. Y."
+      },
+      {
+        "authorName": "Newell, F: H.",
+        "title": "Irrigation in the United States.",
+        "publicationYear": 1902,
+        "publisher": "Crowell",
+        "price": "$2 n",
+        "note": "Geographic conditions, methods of storing and distributing water, and results. But slightly technical, of practical value to farmer, abundantly illustrated. Author hydraulic engineer, U. S. geological survey.",
+        "noteSource": "N. Y."
+      },
+      {
+        "authorName": "Roberts, I: P.",
+        "title": "Fertility of the land.",
+        "publicationYear": 1897,
+        "publisher": "Macmillan",
+        "price": "$1.25",
+        "note": "Summary sketch of the relationship of farm practice to the maintaining and increasing of the productivity of the soil.",
+        "noteSource": "Title."
+      },
+      {
+        "authorName": "Storer, F. H.",
+        "title": "Agriculture in some of its relations with chemistry. 7th ed. 3 v.",
+        "publicationYear": 1897,
+        "publisher": "Scribner",
+        "price": "$5 n",
+        "note": "Not only is agriculture dealt with in its relations to chemistry but very largely in its relations to physics, physiology, botany and zoology. Of very great value to students and farmers alike.",
+        "noteSource": "E. B. Voorhees in Science, n. s. 6: 374 (B)"
+      },
+      {
+        "authorName": "Voorhees, E: B.",
+        "title": "Fertilizers; the source, character and composition of natural, home-made and manufactured fertilizers.",
+        "publicationYear": 1898,
+        "publisher": "Macmillan",
+        "price": "$1",
+        "note": "",
+        "noteSource": ""
+      },
+      {
+        "authorName": "Lodeman, E. G.",
+        "title": "Spraying of plants.",
+        "publicationYear": 1896,
+        "publisher": "Macmillan",
+        "price": "$1",
+        "note": "Succinct account of history, principles and practice of the application of liquids and powders to plants for the purpose of destroying insects and fungi.",
+        "noteSource": "Title"
+      },
+      {
+        "authorName": "Massee, George.",
+        "title": "Text-book of plant diseases caused by cryptogamic parasites. 2d ed.",
+        "publicationYear": 1903,
+        "publisher": "Macmillan",
+        "price": "$1.60 n",
+        "note": "",
+        "noteSource": ""
+      },
+      {
+        "authorName": "Smith, J: B.",
+        "title": "Economic entomology for the farmer and fruit-grower.",
+        "publicationYear": 1896,
+        "publisher": "Lippincott",
+        "price": "$2.50",
+        "note": "",
+        "noteSource": ""
+      },
+      {
+        "authorName": "Beal, W: J.",
+        "title": "Grasses of North America. 2 v.",
+        "publicationYear": 1887,
+        "publisher": "Holt",
+        "price": "v. 1, $2.50 n; v. 2, $5 n",
+        "note": "Bibliography, 2: 671-75. For farmers and general readers who have not studied botany.",
+        "noteSource": "N. Y."
+      },
+      {
+        "authorName": "Myrick, Herbert.",
+        "title": "American sugar industry.",
+        "publicationYear": 1899,
+        "publisher": "Judd",
+        "price": "$1.50",
+        "note": "In four parts; pt. 2, The cane sugar industry, by W. C. Stubbs. Practical manual on production of sugar beets and sugar cane and on manufacture of sugar.",
+        "noteSource": "Title."
+      },
+      {
+        "authorName": "Shaw, Thomas.",
+        "title": "Forage crops other than grasses; how to cultivate, harvest and use them.",
+        "publicationYear": 1900,
+        "publisher": "Judd",
+        "price": "$1",
+        "note": "",
+        "noteSource": ""
+      },
+      {
+        "authorName": "Bailey, L. H.",
+        "title": "Principles of fruit-growing.",
+        "publicationYear": 1897,
+        "publisher": "Macmillan",
+        "price": "$1.25",
+        "note": "Modern arts of growing, storing and marketing fruits on a large scale.",
+        "noteSource": "Buffalo."
+      },
+      {
+        "authorName": "Card, F. W.",
+        "title": "Bush-fruits.",
+        "publicationYear": 1898,
+        "publisher": "Macmillan",
+        "price": "$1.50",
+        "note": "Horticultural monograph of raspberries, blackberries, dewberries, currants, gooseberries and other shrublike fruits. Botany, treatment, diseases and specially persecuting insects of each fruit very fully and carefully treated.",
+        "noteSource": "N. Y."
+      },
+      {
+        "authorName": "Fuller, A. S.",
+        "title": "The nut culturist.",
+        "publicationYear": 1896,
+        "publisher": "Judd",
+        "price": "$1.50",
+        "note": "History, varieties, methods of propagation and culture, diseases, properties and uses of the almond, beechnut, castanopsis, chestnut, filbert, hickorynut, walnut and other nut trees adapted to climate of United States.",
+        "noteSource": "N. Y."
+      },
+      {
+        "authorName": "Gifford, J. C.",
+        "title": "Practical forestry.",
+        "publicationYear": 1902,
+        "publisher": "Appleton",
+        "price": "$1.20 n",
+        "note": "For beginners in forestry, agricultural students, woodland owners, and others desiring a general knowledge of the nature of the art.",
+        "noteSource": "Title."
+      },
+      {
+        "authorName": "Green, S. B.",
+        "title": "Principles of American forestry.",
+        "publicationYear": 1903,
+        "publisher": "Wiley",
+        "price": "$1.50",
+        "note": "List of best books on forestry, p. 318-19. Elementary. Treats tree growth, the forest, forest influences, planting, propagation, forest regeneration, nursery practice, protection, rate of increase, mensuration, uses of wood, durability, forest economics, etc.",
+        "noteSource": "N. Y."
+      },
+      {
+        "authorName": "Thomas, J: J.",
+        "title": "American fruit culturist; 21st ed. by W: H. S. Wood.",
+        "publicationYear": 1903,
+        "publisher": "Wood",
+        "price": "$2.50 n",
+        "note": "Over 800 illustrations. Contains most available accounts of varieties of fruits.",
+        "noteSource": "Bailey."
+      },
+      {
+        "authorName": "Waugh, F. A.",
+        "title": "Fruit harvesting, storing, marketing.",
+        "publicationYear": 1901,
+        "publisher": "Judd",
+        "price": "$1",
+        "note": "Practical guide. Working illustrations.",
+        "noteSource": ""
+      },
+      {
+        "authorName": "Bailey, L. H.",
+        "title": "Plant-breeding.",
+        "publicationYear": 1895,
+        "publisher": "Macmillan",
+        "price": "$1",
+        "note": "Lucid account of various methods adopted by gardeners to secure new and improved varieties. Deals with subjects of variation as influenced by physical environment, the struggle for life, the division of labor, etc.",
+        "noteSource": "Ath. '96, 2: 261."
+      },
+      {
+        "authorName": "Bailey, L. H.",
+        "title": "Principles of vegetable-gardening.",
+        "publicationYear": 1901,
+        "publisher": "Macmillan",
+        "price": "$1.25",
+        "note": "American books on vegetable gardening, p. 244-63; Recent experiment station publications relating to vegetable gardening, p. 263-70. As indispensable for householder as for practical market gardener.",
+        "noteSource": "Chic. trib."
+      },
+      {
+        "authorName": "Henderson, Peter.",
+        "title": "Gardening for profit.",
+        "publicationYear": 1903,
+        "publisher": "Judd",
+        "price": "$1.50",
+        "note": "Marked an era in American horticulture. The secret of its success and of the author's was invention of new methods adapted to operations on a large scale.",
+        "noteSource": "Cycl. of Amer. hort. 2: 729 (B)"
+      },
+      {
+        "authorName": "Coburn, F. D.",
+        "title": "Swine husbandry. 3d ed.",
+        "publicationYear": 1903,
+        "publisher": "Judd",
+        "price": "$1.50",
+        "note": "Practical manual, with suggestions as to the prevention and treatment of diseases.",
+        "noteSource": "Title."
+      },
+      {
+        "authorName": "Henry, W: A.",
+        "title": "Feeds and feeding.",
+        "publicationYear": 1898,
+        "publisher": "Caspar",
+        "price": "$2 n",
+        "note": "Excellent authoritative handbook for stockmen and students.",
+        "noteSource": ""
+      },
+      {
+        "authorName": "Jordan, W. H.",
+        "title": "Feeding of animals. 2d ed.",
+        "publicationYear": 1903,
+        "publisher": "Macmillan",
+        "price": "$1.25 n",
+        "note": "Account of chemical constituents of plants and animals, processes of nutrition and digestion, functions of food in the body, description of different cattle foods, and the most recent results of scientific investigation and farm practice. Intended for reader with some scientific knowledge.",
+        "noteSource": "Pittsburg."
+      },
+      {
+        "authorName": "Miller, Mrs Harriet (Mann)",
+        "title": "Our home pets; how to keep them well and happy, by Olive Thorne Miller.",
+        "publicationYear": 1894,
+        "publisher": "Harper",
+        "price": "$1.25",
+        "note": "On characteristics and proper care of various kinds of birds, dogs, cats, and such unusual pets as the raccoon, alligator, etc.",
+        "noteSource": "N. Y."
+      },
+      {
+        "authorName": "Shaler, N. S.",
+        "title": "Domesticated animals: their relation to man and to his advancement in civilization.",
+        "publicationYear": 1895,
+        "publisher": "Scribner",
+        "price": "$2.50",
+        "note": "We have seldom seen animals so fairly treated and have never known them to be more reliably characterized.",
+        "noteSource": "Nation, 62: 20 (B)"
+      },
+      {
+        "authorName": "Shaw, Thomas.",
+        "title": "Animal breeding.",
+        "publicationYear": 1903,
+        "publisher": "Judd",
+        "price": "$1.50",
+        "note": "",
+        "noteSource": ""
+      },
+      {
+        "authorName": "Stoddard, H. H.",
+        "title": "New egg farm.",
+        "publicationYear": 1900,
+        "publisher": "Judd",
+        "price": "$1",
+        "note": "Management of poultry on a large scale for commercial purposes.",
+        "noteSource": "Title."
+      },
+      {
+        "authorName": "Watson, G: C.",
+        "title": "Farm poultry.",
+        "publicationYear": 1901,
+        "publisher": "Macmillan",
+        "price": "$1.25 n",
+        "note": "Bibliography, p. 331-34. Gives working details on every part of subject, written in a really scientific spirit; language clear and simple. Principles that underlie good practice brought to front.",
+        "noteSource": "Nature, 64: 575 (B)"
+      },
+      {
+        "authorName": "Conn, H. W:",
+        "title": "Bacteria in milk and its products.",
+        "publicationYear": 1903,
+        "publisher": "Blakiston",
+        "price": "$1.25 n",
+        "note": "Partial list of recent literature, p. 291-301. Thorough, concise discussion of action of bacteria on milk, their use in manufacture of milk products and connection between milk bacteria and distribution of certain diseases. Not too technical for general readers, though intended specially for students in dairying, health officers, sanitarians, etc.",
+        "noteSource": "Pittsburg."
+      },
+      {
+        "authorName": "Wing, H: H.",
+        "title": "Milk and its products.",
+        "publicationYear": 1897,
+        "publisher": "Macmillan",
+        "price": "$1",
+        "note": "Gives latest results from many agricultural experiment stations; especially useful to students; contains bibliography (p. 259-67) and dairy laws.",
+        "noteSource": "N. Y."
+      },
+      {
+        "authorName": "Root, A. I.",
+        "title": "A B C of bee culture; rev. by E. R. Root.",
+        "publicationYear": 1903,
+        "publisher": "Judd",
+        "price": "$1.25",
+        "note": "Biographies of noted bee-keepers, p. 407-39.",
+        "noteSource": ""
+      },
+      {
+        "authorName": "Norris, Thaddeus.",
+        "title": "American fish-culture.",
+        "publicationYear": 1868,
+        "publisher": "Coates",
+        "price": "$1.75",
+        "note": "Embracing all details of artificial breeding and rearing of trout, culture of salmon, shad and other fishes.",
+        "noteSource": "Title."
+      },
+      {
+        "authorName": "Campbell, Mrs Helen (Stuart)",
+        "title": "Household economics.",
+        "publicationYear": 1897,
+        "publisher": "Putnam",
+        "price": "$1.50",
+        "note": "References at end of each chapter. States the problems of family life, driving home the conviction of their importance. The organic relation of household activities with all others is made plain.",
+        "noteSource": "C. R. Henderson in Dial, 22: 286 (B)"
+      },
+      {
+        "authorName": "Clark, T. M.",
+        "title": "Care of a house.",
+        "publicationYear": 1903,
+        "publisher": "Macmillan",
+        "price": "$1.50 n",
+        "note": "Valuable handbook on the repair and maintenance of houses, for non-technical readers.",
+        "noteSource": "Craver."
+      },
+      {
+        "authorName": "Herrick, Mrs Christine (Terhune)",
+        "title": "First aid to the young housekeeper.",
+        "publicationYear": 1900,
+        "publisher": "Scribner",
+        "price": "$1",
+        "note": "About marketing, kitchen fire, cooking processes, tidy and sanitary housekeeping, management of servants.",
+        "noteSource": "N. Y."
+      },
+      {
+        "authorName": "Holt, Emily.",
+        "title": "Encyclopædia of household economy.",
+        "publicationYear": 1903,
+        "publisher": "McClure",
+        "price": "$1.60 n",
+        "note": "Treats kitchen, closets, repairs and restorations, house cleaning, laundry, plumbing, sanitation, 'keeping things,' lighting, heating, water, sick room, lawns and gardens, bleaches, disinfectants, healing simples, family sewing, etc.",
+        "noteSource": "N. Y."
+      },
+      {
+        "authorName": "Parloa, Maria.",
+        "title": "Home economics.",
+        "publicationYear": 1898,
+        "publisher": "Century",
+        "price": "$1.50",
+        "note": "Authoritative manual of household management, inclusive, accurate, useful. Well indexed and practical for the housekeeper on a small or large scale.",
+        "noteSource": "N. Y."
+      },
+      {
+        "authorName": "Richards, Mrs E. H. (Swallow)",
+        "title": "Cost of living as modified by sanitary science.",
+        "publicationYear": 1899,
+        "publisher": "Wiley",
+        "price": "$1",
+        "note": "Attempts to indicate best methods, and the proper division of incomes of from $1,500 to $3,000 between food, rent, running expenses, clothing, service, the emotional and intellectual life, etc.",
+        "noteSource": "N. Y."
+      },
+      {
+        "authorName": "Abel, Mrs M.. W. (Hinman)",
+        "title": "Practical sanitary and economic cooking.",
+        "publicationYear": 1900,
+        "publisher": "Amer. pub. health ass'n",
+        "price": "40c",
+        "note": "Appended: Food of children and some remarks on household management, 1900. States clearly food values and proper methods of preparation; gives recipes, bills of fare and prices.",
+        "noteSource": "N. Y."
+      },
+      {
+        "authorName": "Ewing, Mrs Emma (Pike)",
+        "title": "Art of cookery.",
+        "publicationYear": 1899,
+        "publisher": "Merrill",
+        "price": "$1.75",
+        "note": "Author experienced teacher of cooking. Manual of principles: marketing; food materials; methods of cooking; mixing; seasoning; serving and garnishing. Well indexed.",
+        "noteSource": "Buffalo."
+      },
+      {
+        "authorName": "Farmer, F. M.",
+        "title": "Boston cooking-school cook book; rev. with an apx. of 300 recipes and an addenda of 60 recipes.",
+        "publicationYear": 1904,
+        "publisher": "Little",
+        "price": "$2",
+        "note": "",
+        "noteSource": ""
+      },
+      {
+        "authorName": "Farmer, F. M.",
+        "title": "Food and cookery for the sick and convalescent.",
+        "publicationYear": 1904,
+        "publisher": "Little",
+        "price": "$1.50 n",
+        "note": "",
+        "noteSource": ""
+      },
+      {
+        "authorName": "Kirkland, E.. S.",
+        "title": "Dora's housekeeping. 6th ed.",
+        "publicationYear": 1899,
+        "publisher": "McClurg",
+        "price": "75c",
+        "note": "",
+        "noteSource": ""
+      },
+      {
+        "authorName": "Kirkland, E.. S.",
+        "title": "Six little cooks; or, Aunt Jane's cooking class. 10th ed.",
+        "publicationYear": 1900,
+        "publisher": "McClurg",
+        "price": "75c",
+        "note": "Recipes tried by girls from 9 to 12 under careful supervision. In story form, recording a summer's experience.",
+        "noteSource": "N. Y."
+      },
+      {
+        "authorName": "Larned, Mrs Linda (Hull)",
+        "title": "The hostess of to-day.",
+        "publicationYear": 1899,
+        "publisher": "Scribner",
+        "price": "$1.50",
+        "note": "Suggestions as to table service, formal and informal dinners, luncheons, teas, etc. Many compact recipes with approximate prices.",
+        "noteSource": "N. Y."
+      },
+      {
+        "authorName": "Lincoln, Mrs M.. J. (Bailey)",
+        "title": "Boston school kitchen text-book.",
+        "publicationYear": 1887,
+        "publisher": "Little",
+        "price": "$1",
+        "note": "Study of food and explanation of general principles in connection with practical lessons in plain cooking. Adapted to use of classes in public and industrial schools.",
+        "noteSource": "Pref."
+      },
+      {
+        "authorName": "Lincoln, Mrs M.. J. (Bailey)",
+        "title": "Mrs Lincoln's Boston cook book.",
+        "publicationYear": 1900,
+        "publisher": "Little",
+        "price": "$2",
+        "note": "Trustworthy guide in practical cookery. Arrangement of topics systematic and directions for work concise and exact. A useful outline of the chemistry and physiology of food.",
+        "noteSource": "L. & I."
+      },
+      {
+        "authorName": "Parloa, Maria.",
+        "title": "Miss Parloa's young housekeeper; designed especially to aid beginners.",
+        "publicationYear": 1894,
+        "publisher": "Estes",
+        "price": "$1 n",
+        "note": "",
+        "noteSource": ""
+      },
+      {
+        "authorName": "Richards, Mrs E. H. (Swallow), & Elliott, S. M.",
+        "title": "Chemistry of cooking and cleaning. 2d ed.",
+        "publicationYear": 1897,
+        "publisher": "Home science",
+        "price": "50c",
+        "note": "Books of reference, p. 153-54. Excellent practical manual. Assumes elementary knowledge of chemistry.",
+        "noteSource": "N. Y."
+      },
+      {
+        "authorName": "Rorer, Mrs Sarah (Tyson)",
+        "title": "Mrs Rorer's new cook book; a manual of housekeeping.",
+        "publicationYear": 1902,
+        "publisher": "Arnold",
+        "price": "$2 n",
+        "note": "",
+        "noteSource": ""
+      },
+      {
+        "authorName": "Terhune, Mrs M.. V. (Hawes)",
+        "title": "Breakfast, luncheon and tea; by Marion Harland.",
+        "publicationYear": 1900,
+        "publisher": "Scribner",
+        "price": "$1.75",
+        "note": "",
+        "noteSource": ""
+      },
+      {
+        "authorName": "Terhune, Mrs M.. V. (Hawes)",
+        "title": "Marion Harland's complete cook book.",
+        "publicationYear": 1903,
+        "publisher": "Merrill",
+        "price": "$2",
+        "note": "A practical and exhaustive manual of cookery and housekeeping, containing thousands of carefully proved recipes.",
+        "noteSource": "Title."
+      },
+      {
+        "authorName": "Thompson, Sir Henry.",
+        "title": "Food and feeding. 10th ed.",
+        "publicationYear": 1899,
+        "publisher": "Warne",
+        "price": "$1.75",
+        "note": "",
+        "noteSource": ""
+      },
+      {
+        "authorName": "Whitney, Mrs A. D. (Train)",
+        "title": "Just how; a key to the cook-books.",
+        "publicationYear": null,
+        "publisher": "Houghton",
+        "price": "$1",
+        "note": "A \"little grammar of cuisine\", giving details that most cookbooks assume as known: list of utensils, timetables, order and methods of mixing, measures, etc. Contains tested recipes in sufficient variety for most tables, with explicit directions for preparation.",
+        "noteSource": "N. Y."
+      },
+      {
+        "authorName": "Williams, M.. E., & Fisher, K. R.",
+        "title": "Elements of the theory and practice of cookery; a text-book for schools.",
+        "publicationYear": 1901,
+        "publisher": "Macmillan",
+        "price": "$1 n",
+        "note": "",
+        "noteSource": ""
+      },
+      {
+        "authorName": "Williams, W: M.",
+        "title": "Chemistry of cookery.",
+        "publicationYear": 1902,
+        "publisher": "Appleton",
+        "price": "$1.50",
+        "note": "Explains in simple terms chemistry of boiling, roasting, grilling, frying and stewing. Discusses nourishing qualities of foods and effect of cooking. Clear and authoritative.",
+        "noteSource": "N. Y."
+      },
+      {
+        "authorName": "Richards, Mrs E. H. (Swallow)",
+        "title": "Cost of food; a study in dietaries.",
+        "publicationYear": 1901,
+        "publisher": "Wiley",
+        "price": "$1",
+        "note": "Bibliography, p. 155-58. Study of food requirements and economical means of meeting them for infants, school children, brain workers, the aged, etc. Working tables and menus.",
+        "noteSource": "N. Y."
+      },
+      {
+        "authorName": "French, L. H.",
+        "title": "Homes and their decoration.",
+        "publicationYear": 1903,
+        "publisher": "Dodd",
+        "price": "$3 n",
+        "note": "Goes into great detail in descriptions and suggestions, those concerning color being particularly good. Many illustrations.",
+        "noteSource": "Pittsburg."
+      },
+      {
+        "authorName": "Wheeler, Mrs Candace (Thurber)",
+        "title": "Principles of home decoration.",
+        "publicationYear": 1903,
+        "publisher": "Doubleday",
+        "price": "$1.80 n",
+        "note": "Deals with theory and specific applications, art being understood to imply both appropriateness and beauty. Color, fitness, kitchen, bedrooms, walls, floors, draperies, furniture, among subjects discussed.",
+        "noteSource": "N. Y."
+      },
+      {
+        "authorName": "Broughton, Mrs J.",
+        "title": "Practical dressmaking.",
+        "publicationYear": 1902,
+        "publisher": "Macmillan",
+        "price": "75c",
+        "note": "Besides giving general directions for cutting and fitting, tells how to patch and do plain sewing.",
+        "noteSource": "Olcott."
+      },
+      {
+        "authorName": "James, T. M.",
+        "title": "Longmans' complete course of needlework, knitting and cutting-out.",
+        "publicationYear": 1901,
+        "publisher": "Longmans",
+        "price": "$2",
+        "note": "",
+        "noteSource": ""
+      },
+      {
+        "authorName": "Salmon, L. M.",
+        "title": "Domestic service; 2d ed. with an additional chapter on domestic service in Europe.",
+        "publicationYear": 1901,
+        "publisher": "Macmillan",
+        "price": "$2",
+        "note": "Bibliography, p. 317-22. From economic standpoint, based on statistics gathered from employers, employees and census returns. Sketches history and suggests possible remedies.",
+        "noteSource": "N. Y."
+      },
+      {
+        "authorName": "Springsteed, A. F..",
+        "title": "The expert waitress.",
+        "publicationYear": 1903,
+        "publisher": "Harper",
+        "price": "$1",
+        "note": "Plainly written directions concerning all phases of the work. Instructions for carving, serving, care of rooms, dishes and lamps, picnic and traveling lunches, invalid's room, etc. and chapters on truthfulness, adaptability and a servant's contract.",
+        "noteSource": "Buffalo."
+      },
+      {
+        "authorName": "Balderston, L. R., & Limerick, M. C.",
+        "title": "Laundry manual.",
+        "publicationYear": 1900,
+        "publisher": "Avil",
+        "price": "50c",
+        "note": "",
+        "noteSource": ""
+      },
+      {
+        "authorName": "Griffith, J: P. C.",
+        "title": "Care of the baby. 3d ed.",
+        "publicationYear": 1903,
+        "publisher": "Saunders",
+        "price": "$1.50 n",
+        "note": "Manual for mothers and nurses, containing practical directions for the management of infancy and childhood in health and in disease.",
+        "noteSource": "Title."
+      },
+      {
+        "authorName": "Harrison, Eveleen.",
+        "title": "Home nursing.",
+        "publicationYear": 1900,
+        "publisher": "Macmillan",
+        "price": "$1",
+        "note": "Simplest rules and remedies to be used in care of sick, some general directions regarding nourishment, and simple recipes for invalid cooking.",
+        "noteSource": "Pref."
+      },
+      {
+        "authorName": "Oppenheim, Nathan.",
+        "title": "Care of the child in health.",
+        "publicationYear": 1900,
+        "publisher": "Macmillan",
+        "price": "$1.25",
+        "note": "A physician's practical counsels to parents. Beginning with preparations for child's advent, discusses feeding, bathing, sleep, habits, education, defective children, common diseases, relations of parents to children.",
+        "noteSource": "N. Y."
+      },
+      {
+        "authorName": "Uffelmann, J. A.",
+        "title": "Manual of the domestic hygiene of the child; tr. by H. R. Milinowski; ed. by M.. P. Jacobi.",
+        "publicationYear": 1891,
+        "publisher": "Putnam",
+        "price": "$1.75",
+        "note": "Scientific and comprehensive. For trained readers.",
+        "noteSource": "L. & I."
+      },
+      {
+        "authorName": "Wheeler, Marianna.",
+        "title": "The baby; his care and training.",
+        "publicationYear": 1901,
+        "publisher": "Harper",
+        "price": "$1 n",
+        "note": "Plain and sensible in the last degree.",
+        "noteSource": "Nation, 74: 289 (B)"
+      },
+      {
+        "authorName": "Jackson, John.",
+        "title": "Theory and practice of handwriting. Rev. ed.",
+        "publicationYear": 1894,
+        "publisher": "Harison",
+        "price": "$1",
+        "note": "Claims of vertical writing, forms of letters, and directions for teaching. Brief history of former use of upright handwriting, its decay and revival.",
+        "noteSource": "L. & I."
+      },
+      {
+        "authorName": "Kimball, Duran.",
+        "title": "Business shorthand; presenting a method of swift writing for the use of amanuenses and reporters in accordance with the principles of Lindsley's takigrafy. 3d ed.",
+        "publicationYear": 1902,
+        "publisher": "Kimball",
+        "price": "$1",
+        "note": "",
+        "noteSource": ""
+      },
+      {
+        "authorName": "Kitt, C: W.",
+        "title": "Shorthand dictionary; containing characters written in accordance with lessons in Pitman phonography.",
+        "publicationYear": 1901,
+        "publisher": "Powers",
+        "price": "$1",
+        "note": "",
+        "noteSource": ""
+      },
+      {
+        "authorName": "Munson, J. E.",
+        "title": "Art of phonography. Rev. ed.",
+        "publicationYear": 1898,
+        "publisher": "Putnam",
+        "price": "$2",
+        "note": "",
+        "noteSource": ""
+      },
+      {
+        "authorName": "Pitman, Sir Isaac.",
+        "title": "Isaac Pitman's complete phonographic instructor. Rev. ed.",
+        "publicationYear": 1900,
+        "publisher": "Pitman",
+        "price": "$1.50",
+        "note": "",
+        "noteSource": ""
+      },
+      {
+        "authorName": "Pitman, Sir Isaac.",
+        "title": "Shorthand dictionary; prepared by P. B. S. Peters.",
+        "publicationYear": 1901,
+        "publisher": "Powers",
+        "price": "$1",
+        "note": "",
+        "noteSource": ""
+      },
+      {
+        "authorName": "Rose, R. F.",
+        "title": "Stenographers' aid; shorthand illustrations by J. L. Kapus.",
+        "publicationYear": 1900,
+        "publisher": "Author, Chicago",
+        "price": "$1",
+        "note": "",
+        "noteSource": ""
+      },
+      {
+        "authorName": "Torrey, Bates.",
+        "title": "Instruction in practical shorthand; a simple and progressive arrangement of the essentials of Graham phonography.",
+        "publicationYear": 1902,
+        "publisher": "Heath",
+        "price": "$1.50 n",
+        "note": "",
+        "noteSource": ""
+      },
+      {
+        "authorName": "Bright, Charles.",
+        "title": "Story of the Atlantic cable.",
+        "publicationYear": 1903,
+        "publisher": "Appleton",
+        "price": "$1 n",
+        "note": "",
+        "noteSource": ""
+      },
+      {
+        "authorName": "Houston, E. J., & Kennelly, A. E.",
+        "title": "Electric telegraphy.",
+        "publicationYear": 1897,
+        "publisher": "McGraw",
+        "price": "$1",
+        "note": "Duplex, quadruplex and multiplex methods described and illustrated, giving good idea of process of sending simultaneously several messages over same wire. Two chapters on submarine telegraphy. Map of world showing cable and some overland connections. Describes methods of laying and repairing cables.",
+        "noteSource": "Elec. world, 29: 540."
+      },
+      {
+        "authorName": "Houston, E. J., & Kennelly, A. E.",
+        "title": "Electric telephone. 2d ed.",
+        "publicationYear": 1902,
+        "publisher": "McGraw",
+        "price": "$1",
+        "note": "From elementary principles to the complete modern systems, including line work, switch boards and other apparatus. Chapter on radiophony, telephony with a beam of light as a carrier of wave impulses.",
+        "noteSource": "Elec. world, 29: 428."
+      },
+      {
+        "authorName": "Lodge, Sir O. J.",
+        "title": "Signalling across space without wires; a description of the work of Hertz and his successors. 3d ed.",
+        "publicationYear": 1900,
+        "publisher": "Van Nostrand",
+        "price": "$2",
+        "note": "Largely Royal institution lectures 1894. Account also of later applications of wave experiments to wireless telegraphy. Not severely technical.",
+        "noteSource": "Engin. n. 46: 64."
+      },
+      {
+        "authorName": "Maver, William, jr.",
+        "title": "American telegraphy and encyclopedia of the telegraph. 5th ed.",
+        "publicationYear": 1903,
+        "publisher": "Van Nostrand",
+        "price": "$3.50",
+        "note": "Clear and complete description of various systems and apparatus. Excellent for reference. For practical advanced students and engineers.",
+        "noteSource": "Crocker."
+      },
+      {
+        "authorName": "Miller, K. B.",
+        "title": "American telephone practice. 3d ed.",
+        "publicationYear": 1900,
+        "publisher": "Amer. elec. co.",
+        "price": "$3",
+        "note": "Clear and logical; entire field is carefully covered.",
+        "noteSource": "Engin. n. 44: 84."
+      },
+      {
+        "authorName": "Williams, J. A.",
+        "title": "Manual of rural telephony.",
+        "publicationYear": 1902,
+        "publisher": "Manual pub. co.",
+        "price": "$1",
+        "note": "Condenses instruction for organizing and financing telephone companies; intended to aid rural electrician.",
+        "noteSource": "Elec. world, 41: 207."
+      },
+      {
+        "authorName": "Wittbecker, W: A.",
+        "title": "Domestic electrical work.",
+        "publicationYear": 1902,
+        "publisher": "Williams",
+        "price": "50c",
+        "note": "Appeared as articles in the Metal worker. For amateur electrician. How to wire buildings for bells, alarms, annunciators and for gas lighting from batteries.",
+        "noteSource": "Title."
+      },
+      {
+        "authorName": "DeVinne, T. L.",
+        "title": "Practice of typography. v. 1-3.",
+        "publicationYear": 1900,
+        "publisher": "Century",
+        "price": "$2 ea n",
+        "note": "V. 1, Plain printing types: processes of type-making, point system, names, sizes, styles and prices of plain printing types. v. 2, Correct composition; a treatise on spelling, abbreviations, the compounding and division of words, the proper use of figures and numerals, italic and capital letters, notes, etc. with observations on punctuation and proof-reading. v. 3, Treatise on title-pages, with numerous illustrations in facsimile and some observations on the early and recent printing of books.",
+        "noteSource": ""
+      },
+      {
+        "authorName": "Pennell, Joseph.",
+        "title": "Modern illustration.",
+        "publicationYear": 1895,
+        "publisher": "Macmillan",
+        "price": "$3.50 n",
+        "note": "",
+        "noteSource": ""
+      },
+      {
+        "authorName": "Putnam, G: H.",
+        "title": "Authors and their public in ancient times.",
+        "publicationYear": 1894,
+        "publisher": "Putnam",
+        "price": "$1.50",
+        "note": "Principal works referred to, pref. p. 13-17. Sketch of literary conditions and of the relations with the public of literary producers, from the earliest times to the invention of printing.",
+        "noteSource": "Title."
+      },
+      {
+        "authorName": "Putnam, G: H.",
+        "title": "Books and their makers during the middle ages. 2 v.",
+        "publicationYear": 1896,
+        "publisher": "Putnam",
+        "price": "$2.50 ea",
+        "note": "Bibliography, v. 1, pref. p. 17-27. Study of conditions of production and distribution of literature from fall of Roman empire to close of 17th century.",
+        "noteSource": "Title."
+      },
+      {
+        "authorName": "Putnam, G: H. ed.",
+        "title": "Question of copyright. 2d ed.",
+        "publicationYear": 1896,
+        "publisher": "Putnam",
+        "price": "$1.75",
+        "note": "Comprising text of U. S. copyright law and a summary of copyright laws at present in force in the chief countries.",
+        "noteSource": "Title."
+      },
+      {
+        "authorName": "Putnam, G: H. & J: B.",
+        "title": "Authors and publishers. 7th ed.",
+        "publicationYear": 1900,
+        "publisher": "Putnam",
+        "price": "$1.75",
+        "note": "Contents: Publishing methods and arrangements, by G: H. P. The making of books, by J: B. P. Manual of suggestions for beginners in literature, comprising a description of publishing methods and arrangements, together with general hints for authors.",
+        "noteSource": "Title."
+      },
+      {
+        "authorName": "Rawlings, G. B.",
+        "title": "Story of books.",
+        "publicationYear": 1901,
+        "publisher": "Appleton",
+        "price": "35c n",
+        "note": "Outline history of making and preservation of books, manuscript and printed, to about 1550, with brief chapter on modern bookmaking.",
+        "noteSource": "N. Y."
+      },
+      {
+        "authorName": "Thompson, J: S.",
+        "title": "Mechanism of the linotype: installation, operation and care.",
+        "publicationYear": 1902,
+        "publisher": "Inland pr. co.",
+        "price": "$1.50",
+        "note": "Articles originally published in Inland printer, revised and amended to include latest improvements.",
+        "noteSource": "Pref."
+      },
+      {
+        "authorName": "The American railway, its construction, development, management and appliances; with introd. by T: M. Cooley.",
+        "title": "",
+        "publicationYear": 1897,
+        "publisher": "Scribner",
+        "price": "$3",
+        "note": "Reprinted from Scribner's magazine, 1888-89. Papers by T: C. Clarke, John Bogart, M. N. Forney, E. P. Alexander, H. G. Prout, Horace Porter, Theodore Voorhees, Benjamin Norton, A. T. Hadley, T: L. James, C: F. Adams, B. B. Adams jr.",
+        "noteSource": ""
+      },
+      {
+        "authorName": "Brooks, E. S.",
+        "title": "The American sailor. Rev. ed.",
+        "publicationYear": 1899,
+        "publisher": "Lothrop",
+        "price": "$1.50",
+        "note": "Published in 1888 with title Story of the American sailor. Story of his development and deeds on merchant vessel and man of war to 1900.",
+        "noteSource": ""
+      },
+      {
+        "authorName": "Haines, H: S.",
+        "title": "American railway management.",
+        "publicationYear": 1897,
+        "publisher": "Wiley",
+        "price": "$2.50",
+        "note": "Addresses before American railway association, and miscellaneous addresses and papers.",
+        "noteSource": "Title."
+      },
+      {
+        "authorName": "Knight, A. M.",
+        "title": "Modern seamanship.",
+        "publicationYear": 1901,
+        "publisher": "Van Nostrand",
+        "price": "$6 n",
+        "note": "Modern in method and in scope; a valuable manual for yachts and merchant vessels as well as for men of war.",
+        "noteSource": "Pittsburg."
+      },
+      {
+        "authorName": "Maginnis, A. J.",
+        "title": "The Atlantic ferry; its ships, men and working. 3d ed.",
+        "publicationYear": 1900,
+        "publisher": "Macmillan",
+        "price": "$2",
+        "note": "Relates to trans-Atlantic steam trade, giving account of respective lines, vessels and workings. Well illustrated. Important tables and chart show development of steamers.",
+        "noteSource": "Van Nostrand, 21: 103."
+      },
+      {
+        "authorName": "Patterson, Howard.",
+        "title": "Patterson's illustrated nautical encyclopedia. Rev. ed.",
+        "publicationYear": 1901,
+        "publisher": "Marine rev.",
+        "price": "$3",
+        "note": "A work of reference for naval revenue, coast survey, transport and light house services, and adapted for use of the naval reserve.",
+        "noteSource": "Title."
+      },
+      {
+        "authorName": "Weyl, W. E:",
+        "title": "Passenger traffic of railways.",
+        "publicationYear": 1901,
+        "publisher": "Ginn",
+        "price": "$1.50",
+        "note": "Valuable as summary of statistics gathered from principal European countries and United States.",
+        "noteSource": "R. of r. 25: 379."
+      },
+      {
+        "authorName": "Arnold, H. L.",
+        "title": "Complete cost-keeper.",
+        "publicationYear": 1900,
+        "publisher": "Engin. m.",
+        "price": "$5",
+        "note": "Some original systems of shop cost-keeping or factory accounting, with an exposition of advantages of account keeping by means of cards instead of books.",
+        "noteSource": "Title."
+      },
+      {
+        "authorName": "Dean, W. F.",
+        "title": "Bookkeeping for retail stores.",
+        "publicationYear": 1900,
+        "publisher": "Stern",
+        "price": "$1",
+        "note": "Practical treatise, with forms.",
+        "noteSource": ""
+      },
+      {
+        "authorName": "Gilbert, A. L.",
+        "title": "Modern business bookkeeping; text-book for schools and colleges.",
+        "publicationYear": 1902,
+        "publisher": "Merrill",
+        "price": "$1.50 n",
+        "note": "",
+        "noteSource": ""
+      },
+      {
+        "authorName": "Goodwin, J. H.",
+        "title": "Goodwin's improved bookkeeping and business manual. 10th ed.",
+        "publicationYear": 1889,
+        "publisher": "Baker & T.",
+        "price": "$3",
+        "note": "",
+        "noteSource": ""
+      },
+      {
+        "authorName": "Keister, D: A.",
+        "title": "Keister's corporation accounting and auditing; with an introd. by H: C. White. 8th ed.",
+        "publicationYear": 1901,
+        "publisher": "Burrows",
+        "price": "$4 n",
+        "note": "Practical treatise on higher accounting.",
+        "noteSource": "Title."
+      },
+      {
+        "authorName": "Moore, J: H:, & Miner, G: W.",
+        "title": "Accounting and business practice; for use in schools.",
+        "publicationYear": 1902,
+        "publisher": "Ginn",
+        "price": "$1.40",
+        "note": "",
+        "noteSource": ""
+      },
+      {
+        "authorName": "Seavy, Manson.",
+        "title": "Practical business bookkeeping by double entry; for schools and for self-instruction.",
+        "publicationYear": 1893,
+        "publisher": "Heath",
+        "price": "$1.40 n",
+        "note": "",
+        "noteSource": ""
+      },
+      {
+        "authorName": "Soulé, George.",
+        "title": "Soulé's new science and practice of accounts. 7th ed.",
+        "publicationYear": 1903,
+        "publisher": "Caspar",
+        "price": "$4 n",
+        "note": "Exposition of double entry and single entry bookkeeping with the most approved forms of merchandising, commission and other lines of business. Joint stock company and corporation bookkeeping and expert work in corporation accounting and limited partnership companies are special features.",
+        "noteSource": "Title."
+      },
+      {
+        "authorName": "Cromwell, J: H.",
+        "title": "American business woman.",
+        "publicationYear": 1900,
+        "publisher": "Putnam",
+        "price": "$2",
+        "note": "An endeavor to teach women in a serious but readable way how to handle bank accounts and to deal with real and personal property, with cautious advice as to general principles of investment.",
+        "noteSource": "Nation, 71: 191 (B)"
+      },
+      {
+        "authorName": "Hooper, Frederick, & Graham, James.",
+        "title": "Introduction to modern business methods: the home trade.",
+        "publicationYear": 1901,
+        "publisher": "Macmillan",
+        "price": "$1",
+        "note": "Guide to operations incidental to the trade of the United Kingdom, with customary documents and correspondence. A reference book for business men and a text-book for commercial students.",
+        "noteSource": "Title."
+      },
+      {
+        "authorName": "Palmer, O. R.",
+        "title": "Type-writing and business correspondence. Rev. ed.",
+        "publicationYear": 1900,
+        "publisher": "Lippincott",
+        "price": "$1",
+        "note": "Business letters based on actual correspondence, giving commercial forms and expressions; brief rules for punctuation; directions for proper fingering of keys; examples of law forms, statements, specifications, etc. reproduced from type-written work.",
+        "noteSource": "Pref."
+      },
+      {
+        "authorName": "Fowler, N. C.",
+        "title": "Building business.",
+        "publicationYear": 1893,
+        "publisher": "Publicity pub. co.",
+        "price": "$1.50",
+        "note": "Comprehensive and practical book about advertising.",
+        "noteSource": "Buffalo."
+      },
+      {
+        "authorName": "Blount, Bertram.",
+        "title": "Practical electro-chemistry.",
+        "publicationYear": 1901,
+        "publisher": "Macmillan",
+        "price": "$3.25 n",
+        "note": "Discusses economic aspects of every branch of electrochemistry. Masterly discussion of economics of electricity.",
+        "noteSource": "Nation, 73: 173."
+      },
+      {
+        "authorName": "Blount, Bertram, & Bloxam, A. G.",
+        "title": "Chemistry for engineers and manufacturers. 2 v.",
+        "publicationYear": 1900,
+        "publisher": "Lippincott",
+        "price": "v. 1, $3; v. 2, $4",
+        "note": "Bibliography, 2: 438-41. V. 1 includes chemistry of materials of construction, of fuels, waters, lubricants, and the metallurgy of iron, copper, lead, zinc, tin, mercury, silver, gold, etc. V. 2 treats briefly chemistry of manufacture of sulphuric acid, alkali, artificial manure, lime and cement, glass, sugar and starch, oils, etc. also of destructive distillation, petroleum, clay industries, brewing and distilling, textiles and bleaching. Handy manual for general reader.",
+        "noteSource": "Engin. n. 36: 424."
+      },
+      {
+        "authorName": "Cremer, J: H:, & Bicknell, G. A.",
+        "title": "Chemical and metallurgical hand book; containing tables, formulas and information for the use of chemists, metallurgists and mining engineers. 3d ed.",
+        "publicationYear": 1903,
+        "publisher": "Authors, Cleveland",
+        "price": "$3.50 n",
+        "note": "",
+        "noteSource": ""
+      },
+      {
+        "authorName": "Meldola, Raphael.",
+        "title": "Coal and what we get from it. 2d ed.",
+        "publicationYear": 1897,
+        "publisher": "E. & J. B. Young",
+        "price": "$1",
+        "note": "Origin of coal; history and manufacture of coal gas; history and description of substances obtained from coal tar.",
+        "noteSource": "Knowl. 14: 172."
+      },
+      {
+        "authorName": "Sadtler, S: P.",
+        "title": "Hand-book of industrial organic chemistry. 3d ed.",
+        "publicationYear": 1900,
+        "publisher": "Lippincott",
+        "price": "$5 n",
+        "note": "Bibliography at end of each chapter. Describes raw materials and process of manufacture and products of several industries, and gives analytic tests and methods, bibliography and statistics of important industries.",
+        "noteSource": "Engin. n. 36: 352."
+      },
+      {
+        "authorName": "Thorp, F. H.",
+        "title": "Outlines of industrial chemistry; a text-book for students.",
+        "publicationYear": 1898,
+        "publisher": "Macmillan",
+        "price": "$3.50 n",
+        "note": "Brief bibliography, pref. p. 19. Treats subjects under \"Inorganic industries\" and \"Organic industries.\" Descriptions of processes, concise, clear and interesting. Frequent reference to American practice an important feature.",
+        "noteSource": "W. A. Noyes in Science, 32: 150."
+      },
+      {
+        "authorName": "Thorpe, T: E:",
+        "title": "Dictionary of applied chemistry. 3 v.",
+        "publicationYear": 1898,
+        "publisher": "Longmans",
+        "price": "$50",
+        "note": "Essentially a dictionary of chemistry in its application to arts and manufactures. Complementary to Watt's Dictionary of chemistry, general plan and arrangement similar.",
+        "noteSource": "Pref."
+      },
+      {
+        "authorName": "Wagner, Rudolf von.",
+        "title": "Manual of chemical technology; tr. and ed. by Sir William Crookes.",
+        "publicationYear": 1900,
+        "publisher": "Appleton",
+        "price": "$7.50",
+        "note": "",
+        "noteSource": ""
+      },
+      {
+        "authorName": "Poole, Herman.",
+        "title": "Calorific power of fuels. 2d ed.",
+        "publicationYear": 1900,
+        "publisher": "Wiley",
+        "price": "$3",
+        "note": "Authorities consulted, pref. p. 15-17. Based on translation of Pouvoir calorifique des combustibles by M. Scheurer-Kestner, with changes necessary to adapt it to American methods and data, omitting many portions and adding new matter.",
+        "noteSource": "Engin. n. 39: 360."
+      },
+      {
+        "authorName": "Matthews, C: G:",
+        "title": "Manual of alcoholic fermentation and the allied industries.",
+        "publicationYear": 1902,
+        "publisher": "Longmans",
+        "price": "$2.60 n",
+        "note": "",
+        "noteSource": ""
+      },
+      {
+        "authorName": "Hornby, John.",
+        "title": "Text-book of gas manufacture.",
+        "publicationYear": 1902,
+        "publisher": "Macmillan",
+        "price": "$1.50",
+        "note": "Concise little book setting forth the chief points in gas manufacture in a manner that students may readily grasp.",
+        "noteSource": "F. H. Thorp in Science, 26: 815."
+      },
+      {
+        "authorName": "Bolas, Thomas.",
+        "title": "Glass blowing and working.",
+        "publicationYear": 1898,
+        "publisher": "Lane",
+        "price": "$1 n",
+        "note": "Bibliography, p. 207-9. Chapters on glass work in miniature, tools and appliances, methods of working and blowing glass, coloring and modifying materials, making decorative articles, etc. Practical guide. Illustrated with outline drawings.",
+        "noteSource": "N. Y."
+      },
+      {
+        "authorName": "Davis, C: T:",
+        "title": "Practical treatise on the manufacture of bricks, tiles, terra-cotta, etc. 2d ed.",
+        "publicationYear": 1889,
+        "publisher": "Baird",
+        "price": "$5",
+        "note": "",
+        "noteSource": ""
+      },
+      {
+        "authorName": "Meade, R: K.",
+        "title": "Chemical and physical examination of Portland cement.",
+        "publicationYear": 1901,
+        "publisher": "Chemical pub. co.",
+        "price": "$1",
+        "note": "Describes standard methods in detail. Intended as guide for inexperienced chemists and engineers.",
+        "noteSource": "Pittsburg."
+      },
+      {
+        "authorName": "Powell, H. J.",
+        "title": "Principles of glass-making; with treatises on crown and sheet glass, by Henry Chance, and plate glass, by H. G. Harris.",
+        "publicationYear": 1883,
+        "publisher": "Macmillan",
+        "price": "$1",
+        "note": "",
+        "noteSource": ""
+      },
+      {
+        "authorName": "Randau, Paul.",
+        "title": "Enamels and enamelling; tr. by Charles Salter.",
+        "publicationYear": 1900,
+        "publisher": "Van Nostrand",
+        "price": "$4 n",
+        "note": "Introduction to preparation and application of all kinds of enamels for technical and artistic purposes.",
+        "noteSource": "Title."
+      },
+      {
+        "authorName": "Brannt, W: T.",
+        "title": "Varnishes, lacquers, printing inks and sealing-waxes.",
+        "publicationYear": 1893,
+        "publisher": "Baird",
+        "price": "$3",
+        "note": "Includes description of properties of raw materials used and simple methods for testing them. Appendix gives receipts for putties, stains for wood, bone and ivory, etc.",
+        "noteSource": "Pref."
+      },
+      {
+        "authorName": "Hurst, G: H.",
+        "title": "Garment dyeing and cleaning. 2d ed.",
+        "publicationYear": 1901,
+        "publisher": "Lippincott",
+        "price": "$1.75 n",
+        "note": "Practical work by English chemist. Treats also of cleaning garments, bleaching and finishing fabrics, scouring and dyeing skin rugs and mats, feathers and gloves, and straw bleaching and dyeing. Fully illustrated.",
+        "noteSource": "L. & I."
+      },
+      {
+        "authorName": "Hurst, G: H.",
+        "title": "Painters' colours, oils and varnishes; a practical manual. 3d ed.",
+        "publicationYear": 1901,
+        "publisher": "Lippincott",
+        "price": "$3.50 n",
+        "note": "",
+        "noteSource": ""
+      },
+      {
+        "authorName": "Lehner, Sigmund.",
+        "title": "Ink manufacture; tr. from the German by W: T. Brannt.",
+        "publicationYear": 1892,
+        "publisher": "Baird",
+        "price": "$2",
+        "note": "Deals with raw materials, chemical constitution, various kinds of ink, preserving agents, extracts and powders, etc. Most of the receipts have been practically tested. Eng. ed. 1902 tr. by Arthur Morris and Herbert Robson, pub. by Scott, Greenwood & co. 5/ n",
+        "noteSource": "Pref."
+      }
+    ]
+  },
+  "meta": {
+    "provider": "anthropic_bedrock",
+    "model": "claude-sonnet-5",
+    "bedrock_model_id": "global.anthropic.claude-sonnet-5",
+    "bedrock_region": "us-east-1",
+    "doc_id": "VJeLz6Am",
+    "response_id": "msg_bdrk_xswyu57k63io7qy36kd5yjpwlpx7mll7ze6wvrvvd52ffcw75atq",
+    "usage": {
+      "cache_creation_input_tokens": 0,
+      "cache_read_input_tokens": 0,
+      "input_tokens": 78083,
+      "output_tokens": 38594,
+      "server_tool_use": null,
+      "service_tier": "standard",
+      "cache_creation": {
+        "ephemeral_5m_input_tokens": 0,
+        "ephemeral_1h_input_tokens": 0
+      }
+    },
+    "schema_mode": "bedrock_tool_required_nonnullable_v1",
+    "input_mode": "pdf_document",
+    "guidelines_mode": "none",
+    "guidelines_chars": 0
+  }
+}

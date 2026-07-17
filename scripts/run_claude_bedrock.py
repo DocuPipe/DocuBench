@@ -81,7 +81,9 @@ def create_message(
             "tools": [extraction_tool(schema)],
             "tool_choice": {"type": "tool", "name": TOOL_NAME},
         }
-        return bedrock_client().messages.create(**kwargs)
+        # stream so large max_tokens doesn't trip the sdk's non-streaming 10-minute guard
+        with bedrock_client().messages.stream(**kwargs) as stream:
+            return stream.get_final_message()
     except Exception as exc:
         raise ExtractionFailure("api_error", f"bedrock message creation failed: {exc}") from exc
 

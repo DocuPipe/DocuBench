@@ -1,0 +1,1035 @@
+{
+  "status": "ok",
+  "cost": null,
+  "time_sec": 59.84943509101868,
+  "data": {
+    "entries": [
+      {
+        "surname": "ABBOTT",
+        "givenNames": "Mark G",
+        "parenthetical": null,
+        "occupation": "inspr Studebakers",
+        "residence": "h",
+        "address": "122 S St Louis blvd"
+      },
+      {
+        "surname": "ABBOTT",
+        "givenNames": "Silas B",
+        "parenthetical": "Alice",
+        "occupation": "barber",
+        "residence": "h",
+        "address": "1013 E Indiana av"
+      },
+      {
+        "surname": "ABBOTT",
+        "givenNames": "& Meredith",
+        "parenthetical": "Harry Abbott, Arthur Meredith",
+        "occupation": "barbers 1026 E Indiana av",
+        "residence": null,
+        "address": null
+      },
+      {
+        "surname": "ABEL",
+        "givenNames": "JOSEPH A",
+        "parenthetical": "Theresa",
+        "occupation": "Physician and Surgeon, Office Hours 1-3 and 7-8:30 p m 1222 W Division, Tel Main 349",
+        "residence": "h",
+        "address": "507 W Washington, Tel Lincoln 6105"
+      },
+      {
+        "surname": "ABEL",
+        "givenNames": "Ruth",
+        "parenthetical": null,
+        "occupation": "steno Studebakers",
+        "residence": "r",
+        "address": "708 N St Joseph"
+      },
+      {
+        "surname": "Abell",
+        "givenNames": "John W",
+        "parenthetical": "Ovia M",
+        "occupation": "master mech Artificial Ice Co",
+        "residence": "r",
+        "address": "303 N Lafayette"
+      },
+      {
+        "surname": "Abend",
+        "givenNames": "Wm",
+        "parenthetical": null,
+        "occupation": null,
+        "residence": "r",
+        "address": "Robertson Hotel"
+      },
+      {
+        "surname": "Abendroth",
+        "givenNames": "Harry",
+        "parenthetical": null,
+        "occupation": "mach setter Studebakers",
+        "residence": "r",
+        "address": "809 1/2 S Michigan"
+      },
+      {
+        "surname": "Abernathy",
+        "givenNames": "Elmer F",
+        "parenthetical": "Ella",
+        "occupation": "mgr Ins dept St Joseph Loan & Trust Co",
+        "residence": "h",
+        "address": "132 Marquette av"
+      },
+      {
+        "surname": "Abey",
+        "givenNames": "Anton",
+        "parenthetical": "Agnes",
+        "occupation": "finisher",
+        "residence": "h",
+        "address": "840 McPherson"
+      },
+      {
+        "surname": "Ableson",
+        "givenNames": "Marjorie",
+        "parenthetical": null,
+        "occupation": "lab",
+        "residence": "r",
+        "address": "219 N St Louis blvd"
+      },
+      {
+        "surname": "Abraham",
+        "givenNames": "Alexander",
+        "parenthetical": "Anna",
+        "occupation": "lab",
+        "residence": "h",
+        "address": "1210 W Jefferson blvd"
+      },
+      {
+        "surname": "Abraham",
+        "givenNames": "Frank",
+        "parenthetical": "Theresa",
+        "occupation": "autowkr Studebakers",
+        "residence": "h",
+        "address": "1353 E Dayton"
+      },
+      {
+        "surname": "Abraham",
+        "givenNames": "Frank",
+        "parenthetical": null,
+        "occupation": "mach",
+        "residence": "r",
+        "address": "1029 W Jefferson blvd"
+      },
+      {
+        "surname": "Abraham",
+        "givenNames": "Harry R",
+        "parenthetical": "Mabel V",
+        "occupation": null,
+        "residence": "h",
+        "address": "512 Carroll"
+      },
+      {
+        "surname": "Abraham",
+        "givenNames": "John",
+        "parenthetical": "Annie",
+        "occupation": "lab",
+        "residence": "h",
+        "address": "1312 W Jefferson blvd"
+      },
+      {
+        "surname": "Abraham",
+        "givenNames": "Joseph",
+        "parenthetical": null,
+        "occupation": null,
+        "residence": "r",
+        "address": "1210 W Jefferson blvd"
+      },
+      {
+        "surname": "Abraham",
+        "givenNames": "Mabel V",
+        "parenthetical": null,
+        "occupation": "mrs sten Ducomb & Ducomb",
+        "residence": "r",
+        "address": "512 Carroll"
+      },
+      {
+        "surname": "Abraham",
+        "givenNames": "Mary R",
+        "parenthetical": null,
+        "occupation": "bindery girl Peerless Press",
+        "residence": "r",
+        "address": "1210 W Jefferson blvd"
+      },
+      {
+        "surname": "Abraham",
+        "givenNames": "Stephen",
+        "parenthetical": "Barbara",
+        "occupation": "auto wkr Studebakers",
+        "residence": "h",
+        "address": "1029 W Jefferson blvd"
+      },
+      {
+        "surname": "Abrams",
+        "givenNames": "Alfred R",
+        "parenthetical": null,
+        "occupation": "student",
+        "residence": "r",
+        "address": "629 N Hill"
+      },
+      {
+        "surname": "Abrams",
+        "givenNames": "Celia C",
+        "parenthetical": null,
+        "occupation": "clk",
+        "residence": "r",
+        "address": "629 N Hill"
+      },
+      {
+        "surname": "Abrams",
+        "givenNames": "Jacob",
+        "parenthetical": "Jennie",
+        "occupation": "dry goods 603 South Bend av",
+        "residence": "h",
+        "address": "629 N Hill"
+      },
+      {
+        "surname": "Abrams",
+        "givenNames": "Reuben I",
+        "parenthetical": "Anna",
+        "occupation": "slsmn",
+        "residence": "h",
+        "address": "1120 Lawrence"
+      },
+      {
+        "surname": "Abshire",
+        "givenNames": "Anna",
+        "parenthetical": null,
+        "occupation": "bkpr Borough & Borough",
+        "residence": "r",
+        "address": "210 E Broadway"
+      },
+      {
+        "surname": "Abshire",
+        "givenNames": "Homer E",
+        "parenthetical": "Flora",
+        "occupation": "grinder Studebakers",
+        "residence": "h",
+        "address": "210 E Broadway"
+      },
+      {
+        "surname": "Ach",
+        "givenNames": "James",
+        "parenthetical": null,
+        "occupation": "fnshr Studebakers",
+        "residence": "r",
+        "address": "1105 Kendall"
+      },
+      {
+        "surname": "Achbach",
+        "givenNames": "Lawrence",
+        "parenthetical": null,
+        "occupation": "mach opr Studebakers",
+        "residence": "r",
+        "address": "419 W Wayne"
+      },
+      {
+        "surname": "Achenbach",
+        "givenNames": "Arthur E",
+        "parenthetical": "Anna",
+        "occupation": "agt S B Brewing Assn",
+        "residence": "h",
+        "address": "733 Blaine av"
+      },
+      {
+        "surname": "Achenbach",
+        "givenNames": "Frank E",
+        "parenthetical": "Edith",
+        "occupation": "pressfdr Campbell Paper Box Co",
+        "residence": "h",
+        "address": "633 Haney av"
+      },
+      {
+        "surname": "Achille",
+        "givenNames": "Malfalt",
+        "parenthetical": null,
+        "occupation": "lab",
+        "residence": "r",
+        "address": "611 W South"
+      },
+      {
+        "surname": "Acito",
+        "givenNames": "Ralph",
+        "parenthetical": "Pascale",
+        "occupation": "gasmkr",
+        "residence": "h",
+        "address": "601 S Parry"
+      },
+      {
+        "surname": "Acker",
+        "givenNames": "Lawrence W",
+        "parenthetical": "Carrie",
+        "occupation": "carrier P O",
+        "residence": "h",
+        "address": "1113 E Donald"
+      },
+      {
+        "surname": "ACKERHOLMS",
+        "givenNames": "Frank",
+        "parenthetical": null,
+        "occupation": "emp S B Woolen Co",
+        "residence": "r",
+        "address": "308 N Main"
+      },
+      {
+        "surname": "Ackerman",
+        "givenNames": "Albert A",
+        "parenthetical": "Lydia",
+        "occupation": "slsmn",
+        "residence": "h",
+        "address": "529 Ohio"
+      },
+      {
+        "surname": "Ackerman",
+        "givenNames": "Louis",
+        "parenthetical": null,
+        "occupation": "oiler Studebakers",
+        "residence": "r",
+        "address": "122 N Emerick"
+      },
+      {
+        "surname": "Ackerman",
+        "givenNames": "Miller",
+        "parenthetical": "Laura",
+        "occupation": "foremn",
+        "residence": "h",
+        "address": "903 College"
+      },
+      {
+        "surname": "Ackerman",
+        "givenNames": "Ruth",
+        "parenthetical": null,
+        "occupation": "opr",
+        "residence": "r",
+        "address": "529 Ohio"
+      },
+      {
+        "surname": "Ackerman",
+        "givenNames": "Schuyler U",
+        "parenthetical": "Louise",
+        "occupation": "contr 1405 Lincoln Way W",
+        "residence": "h",
+        "address": "same"
+      },
+      {
+        "surname": "Ackermann",
+        "givenNames": "Emma",
+        "parenthetical": null,
+        "occupation": "sten Studebakers",
+        "residence": "r",
+        "address": "201 E Navarre"
+      },
+      {
+        "surname": "Ackermann",
+        "givenNames": "Jacob",
+        "parenthetical": "Philippine",
+        "occupation": "mgr",
+        "residence": "h",
+        "address": "201 E Navarre"
+      },
+      {
+        "surname": "Ackermann",
+        "givenNames": "Rudolph",
+        "parenthetical": null,
+        "occupation": "vice-pres Odell Rubber Co treas Universal Tire Co",
+        "residence": "r",
+        "address": "201 E Navarre"
+      },
+      {
+        "surname": "Ackles",
+        "givenNames": "Noah D",
+        "parenthetical": "Rena B",
+        "occupation": "contr 1318 Clover",
+        "residence": "h",
+        "address": "same"
+      },
+      {
+        "surname": "Ackley",
+        "givenNames": "Claude M",
+        "parenthetical": "Mabel",
+        "occupation": "clk",
+        "residence": "h",
+        "address": "1332 Randolph"
+      },
+      {
+        "surname": "Ackson",
+        "givenNames": "Bruce",
+        "parenthetical": "Jessie",
+        "occupation": "lab",
+        "residence": "r",
+        "address": "1211 S Main"
+      },
+      {
+        "surname": "ACME MANUFACTURING CO",
+        "givenNames": null,
+        "parenthetical": null,
+        "occupation": "Edgar E Burner Pres and Mgr, Kenneth H Burner Treas, Clifford P Duncomb Sec, Manufacturers of Cedar Chests 320 Sycamore, Tel Lincoln 6007",
+        "residence": null,
+        "address": null
+      },
+      {
+        "surname": "ACME STORES COMPANY",
+        "givenNames": null,
+        "parenthetical": null,
+        "occupation": "J F M Cartan Pres, Regis M Cartan V-Pres, J A Crepeau Sec-Treas, General Office 235 S Michigan, Tel Lincoln 1460, Branch Stores, 307 N Hill, Tel Lincoln 1460, 1326 S Michigan and 1811 S Michigan",
+        "residence": null,
+        "address": null
+      },
+      {
+        "surname": "ACME TRUCKS",
+        "givenNames": null,
+        "parenthetical": null,
+        "occupation": "Frank Collmer Jr Distributor 121-125 S Lafayette Blvd, Tel Main 530 (See page 55)",
+        "residence": null,
+        "address": null
+      },
+      {
+        "surname": "Acquisto",
+        "givenNames": "Joseph",
+        "parenthetical": null,
+        "occupation": "lab",
+        "residence": "h",
+        "address": "1820 S William"
+      },
+      {
+        "surname": "Acrey",
+        "givenNames": "Charles",
+        "parenthetical": "Viola",
+        "occupation": "straightener Studebakers",
+        "residence": "h",
+        "address": "2114 Kendall"
+      },
+      {
+        "surname": "Acs",
+        "givenNames": "John",
+        "parenthetical": "Maria",
+        "occupation": "lab",
+        "residence": "h",
+        "address": "709 Ford"
+      },
+      {
+        "surname": "Acs",
+        "givenNames": "Joseph",
+        "parenthetical": "Nancy",
+        "occupation": "former",
+        "residence": "h",
+        "address": "es Olive 3 n of Leeper rd"
+      },
+      {
+        "surname": "Acs",
+        "givenNames": "Mary",
+        "parenthetical": null,
+        "occupation": "student",
+        "residence": "r",
+        "address": "709 Ford"
+      },
+      {
+        "surname": "Acs",
+        "givenNames": "Stephen",
+        "parenthetical": null,
+        "occupation": null,
+        "residence": "r",
+        "address": "1717 Prairie av"
+      },
+      {
+        "surname": "Acs",
+        "givenNames": "Thomas",
+        "parenthetical": "Vera",
+        "occupation": "mldr",
+        "residence": "h",
+        "address": "825 Sherrill"
+      },
+      {
+        "surname": "Acs",
+        "givenNames": "Thomas jr",
+        "parenthetical": null,
+        "occupation": "trucker",
+        "residence": "r",
+        "address": "825 Sherrill"
+      },
+      {
+        "surname": "Adamczak",
+        "givenNames": "Frank",
+        "parenthetical": null,
+        "occupation": "mach",
+        "residence": "r",
+        "address": "715 Dunn"
+      },
+      {
+        "surname": "Adamovic",
+        "givenNames": "Milos",
+        "parenthetical": "Pauline",
+        "occupation": "lab",
+        "residence": "h",
+        "address": "1401 Kendall"
+      },
+      {
+        "surname": "Adams",
+        "givenNames": "Conrad R",
+        "parenthetical": "Lillian M",
+        "occupation": "supt Sibley Machine Co",
+        "residence": "h",
+        "address": "114 E Dayton"
+      },
+      {
+        "surname": "Adams",
+        "givenNames": "Eber A",
+        "parenthetical": null,
+        "occupation": "shaft strtner Studebakers",
+        "residence": "r",
+        "address": "1127 S Lafayette"
+      },
+      {
+        "surname": "Adams",
+        "givenNames": "George P",
+        "parenthetical": "Mildred",
+        "occupation": "mach opr Studebakers",
+        "residence": "h",
+        "address": "1814 S St Joseph"
+      },
+      {
+        "surname": "Adams",
+        "givenNames": "Kate Mrs",
+        "parenthetical": null,
+        "occupation": null,
+        "residence": "r",
+        "address": "207 W Marion"
+      },
+      {
+        "surname": "Adams",
+        "givenNames": "Leo F",
+        "parenthetical": "Lottie",
+        "occupation": "press opr Studebakers",
+        "residence": "h",
+        "address": "321 W Sample"
+      },
+      {
+        "surname": "Adams",
+        "givenNames": "Mary Mrs",
+        "parenthetical": null,
+        "occupation": null,
+        "residence": "h",
+        "address": "2240 W Washington av"
+      },
+      {
+        "surname": "Adams",
+        "givenNames": "Mary S",
+        "parenthetical": null,
+        "occupation": "sten",
+        "residence": "r",
+        "address": "207 W Marion"
+      },
+      {
+        "surname": "Adams",
+        "givenNames": "Mason C",
+        "parenthetical": "Pearl",
+        "occupation": "grocer 819 S Michigan",
+        "residence": "h",
+        "address": "743 Sherman av"
+      },
+      {
+        "surname": "Adams",
+        "givenNames": "Minnie F",
+        "parenthetical": null,
+        "occupation": "tchr High School",
+        "residence": "r",
+        "address": "829 E Donald"
+      },
+      {
+        "surname": "Adams",
+        "givenNames": "Ralph E",
+        "parenthetical": "Myrtle",
+        "occupation": "press opr Studebakers",
+        "residence": "r",
+        "address": "1219 S Lafayette"
+      },
+      {
+        "surname": "Adams",
+        "givenNames": "Truman G",
+        "parenthetical": null,
+        "occupation": "sub carrier P O",
+        "residence": "h",
+        "address": "535 Broadway Mishawaka"
+      },
+      {
+        "surname": "Adamski",
+        "givenNames": "George",
+        "parenthetical": "Mary",
+        "occupation": "lab",
+        "residence": "h",
+        "address": "529 S Brookfield"
+      },
+      {
+        "surname": "Adamski",
+        "givenNames": "John",
+        "parenthetical": "Rose",
+        "occupation": "driver",
+        "residence": "r",
+        "address": "529 S Brookfield"
+      },
+      {
+        "surname": "Adamski",
+        "givenNames": "Leo G",
+        "parenthetical": "Stella",
+        "occupation": "police",
+        "residence": "h",
+        "address": "826 Lawndale"
+      },
+      {
+        "surname": "Adamski",
+        "givenNames": "Wm H",
+        "parenthetical": null,
+        "occupation": "clk T M Moss",
+        "residence": "r",
+        "address": "826 Lawndale"
+      },
+      {
+        "surname": "Adamson",
+        "givenNames": "Earl D",
+        "parenthetical": "Etelka",
+        "occupation": "city firemn",
+        "residence": "h",
+        "address": "127 1/2 N Michigan"
+      },
+      {
+        "surname": "Adamson",
+        "givenNames": "Mary",
+        "parenthetical": null,
+        "occupation": "housekpr 1028 Allen",
+        "residence": null,
+        "address": null
+      },
+      {
+        "surname": "Addison",
+        "givenNames": "Edwin S",
+        "parenthetical": "Louise W",
+        "occupation": "slsmn",
+        "residence": "h",
+        "address": "1221 Woodward av"
+      },
+      {
+        "surname": "Addison",
+        "givenNames": "Marguerite L",
+        "parenthetical": null,
+        "occupation": "student",
+        "residence": "r",
+        "address": "1221 Woodward av"
+      },
+      {
+        "surname": "Addison",
+        "givenNames": "Wm",
+        "parenthetical": "Flora",
+        "occupation": "carp",
+        "residence": "h",
+        "address": "1222 Marietta"
+      },
+      {
+        "surname": "Adelsperger",
+        "givenNames": "Bernice",
+        "parenthetical": null,
+        "occupation": "student",
+        "residence": "r",
+        "address": "511 Corby"
+      },
+      {
+        "surname": "Adelsperger",
+        "givenNames": "Bertha",
+        "parenthetical": null,
+        "occupation": "tchr Kaley Sch",
+        "residence": "res",
+        "address": "Notre Dame Ind"
+      },
+      {
+        "surname": "Adelsperger",
+        "givenNames": "Camilla J",
+        "parenthetical": null,
+        "occupation": "clk Ind & Mich Elec Co",
+        "residence": "r",
+        "address": "511 Corby"
+      },
+      {
+        "surname": "Adelsperger",
+        "givenNames": "Charles E",
+        "parenthetical": "Cecelia",
+        "occupation": "foremn",
+        "residence": "h",
+        "address": "511 Corby"
+      },
+      {
+        "surname": "Adelsperger",
+        "givenNames": "Dora",
+        "parenthetical": "wid Henry",
+        "occupation": null,
+        "residence": "res",
+        "address": "Notre Dame Ind"
+      },
+      {
+        "surname": "Adelsperger",
+        "givenNames": "Elizabeth",
+        "parenthetical": null,
+        "occupation": "emp Davies Laundry",
+        "residence": "r",
+        "address": "505 Corby"
+      },
+      {
+        "surname": "Adelsperger",
+        "givenNames": "Eva C",
+        "parenthetical": null,
+        "occupation": null,
+        "residence": "r",
+        "address": "921 W Washington av"
+      },
+      {
+        "surname": "Adelsperger",
+        "givenNames": "George L",
+        "parenthetical": "Bessie",
+        "occupation": "mach",
+        "residence": "h",
+        "address": "311 Fulton ct"
+      },
+      {
+        "surname": "Adelsperger",
+        "givenNames": "Helen F",
+        "parenthetical": "wid Thomas",
+        "occupation": null,
+        "residence": "h",
+        "address": "921 W Washington"
+      },
+      {
+        "surname": "Adelsperger",
+        "givenNames": "Lilian",
+        "parenthetical": null,
+        "occupation": "bkpr Consumers Service Co",
+        "residence": "r",
+        "address": "511 Corby"
+      },
+      {
+        "surname": "Adelsperger",
+        "givenNames": "Marjorie",
+        "parenthetical": null,
+        "occupation": "student",
+        "residence": "r",
+        "address": "511 Corby"
+      },
+      {
+        "surname": "Adelsperger",
+        "givenNames": "Wm",
+        "parenthetical": "Elizabeth",
+        "occupation": "carp",
+        "residence": "r",
+        "address": "505 Corby"
+      },
+      {
+        "surname": "Ader",
+        "givenNames": "Florian",
+        "parenthetical": "Agnes",
+        "occupation": "paintr",
+        "residence": "h",
+        "address": "1311 Catalpa av"
+      },
+      {
+        "surname": "Ader",
+        "givenNames": "Grace J",
+        "parenthetical": "wid John",
+        "occupation": null,
+        "residence": "h",
+        "address": "117 Adams"
+      },
+      {
+        "surname": "ADLER BROTHERS",
+        "givenNames": null,
+        "parenthetical": null,
+        "occupation": "Norman Adler Pres, Milton B Freudenstein V-Pres-Treas, John A Anderson Sec, Clothiers, \"A Store for Men and Boys\" 107-109 S Michigan and 108 W Washington av, Tel Lincoln 5189",
+        "residence": null,
+        "address": null
+      },
+      {
+        "surname": "ADLER BROTHERS",
+        "givenNames": "Carrie",
+        "parenthetical": "wid Moses",
+        "occupation": null,
+        "residence": "h",
+        "address": "1002 W Washington av"
+      },
+      {
+        "surname": "ADLER BROTHERS",
+        "givenNames": "Max",
+        "parenthetical": "Lillian S",
+        "occupation": "pres-treas Max Adler Co",
+        "residence": "h",
+        "address": "507 W LaSalle av"
+      },
+      {
+        "surname": "ADLER MAX CO",
+        "givenNames": null,
+        "parenthetical": null,
+        "occupation": "Max Adler Pres and Treas, L E Rose Sec, Clothing, Hats and Furnishings 102-104 S Michigan, Tel Lincoln 5156",
+        "residence": null,
+        "address": null
+      },
+      {
+        "surname": "ADLER NORMAN",
+        "givenNames": null,
+        "parenthetical": null,
+        "occupation": "Pres Adler Brothers",
+        "residence": "h",
+        "address": "1002 W Washington av, Tel Lincoln 5537"
+      },
+      {
+        "surname": "Admatis",
+        "givenNames": "Alex",
+        "parenthetical": null,
+        "occupation": "fnshr Studebakers",
+        "residence": "r",
+        "address": "919 Kendall"
+      },
+      {
+        "surname": "Adolph",
+        "givenNames": "Emiel",
+        "parenthetical": null,
+        "occupation": "lab Studebakers",
+        "residence": "r",
+        "address": "1811 S William"
+      },
+      {
+        "surname": "Adolphsen",
+        "givenNames": "Peter W",
+        "parenthetical": "Signe",
+        "occupation": "janitor",
+        "residence": "h",
+        "address": "1012 W LaSalle av"
+      },
+      {
+        "surname": "Adolphsen",
+        "givenNames": "S Theodore",
+        "parenthetical": null,
+        "occupation": "mach",
+        "residence": "r",
+        "address": "1012 LaSalle av"
+      },
+      {
+        "surname": "Adrian",
+        "givenNames": "Emma",
+        "parenthetical": null,
+        "occupation": null,
+        "residence": "r",
+        "address": "717 Fellows"
+      },
+      {
+        "surname": "Adrian",
+        "givenNames": "Rosa W",
+        "parenthetical": null,
+        "occupation": null,
+        "residence": "h",
+        "address": "717 Fellows"
+      },
+      {
+        "surname": "Aeby",
+        "givenNames": "Elery",
+        "parenthetical": "Ella G",
+        "occupation": "grocer 1023 Lincoln Way W",
+        "residence": "res",
+        "address": "LaGrange Ind"
+      },
+      {
+        "surname": "Aeppler",
+        "givenNames": "Angela",
+        "parenthetical": null,
+        "occupation": "steno",
+        "residence": "r",
+        "address": "705 Rush"
+      },
+      {
+        "surname": "AETNA CLEANERS",
+        "givenNames": null,
+        "parenthetical": "Theo Tracas",
+        "occupation": "We Clean Fancy Hats and Garments of Any Material or Color 133 Lincoln Way E, Tel Lincoln 2376",
+        "residence": null,
+        "address": null
+      },
+      {
+        "surname": "AETNA (FIRE) INSURANCE CO",
+        "givenNames": null,
+        "parenthetical": null,
+        "occupation": "Wm G Elliott Agent 621 J M S Bldg, Tel Main 2616 (See left top corner cards and page 92)",
+        "residence": null,
+        "address": null
+      },
+      {
+        "surname": "AETNA LIFE INSURANCE CO",
+        "givenNames": null,
+        "parenthetical": null,
+        "occupation": "Rolla G Page Manager, Victor F Jones Special Agent 308 Union Trust Bldg, Tel Main 1136",
+        "residence": null,
+        "address": null
+      },
+      {
+        "surname": "African M E Zion Church",
+        "givenNames": null,
+        "parenthetical": null,
+        "occupation": "cor Eddy and Campau",
+        "residence": null,
+        "address": null
+      },
+      {
+        "surname": "Aftowski",
+        "givenNames": "Aloysius S",
+        "parenthetical": "Marie",
+        "occupation": "confr 1606 W Division",
+        "residence": "h",
+        "address": "same"
+      },
+      {
+        "surname": "Aftowski",
+        "givenNames": "Eleanor",
+        "parenthetical": "wid Joseph",
+        "occupation": "midwife 302 Cherry",
+        "residence": "h",
+        "address": "same"
+      },
+      {
+        "surname": "Aftowski",
+        "givenNames": "Frank",
+        "parenthetical": "Jennie",
+        "occupation": "ball player",
+        "residence": "h",
+        "address": "302 Cherry"
+      },
+      {
+        "surname": "Aftowski",
+        "givenNames": "John",
+        "parenthetical": null,
+        "occupation": "butcher",
+        "residence": "r",
+        "address": "302 Cherry"
+      },
+      {
+        "surname": "Aftowski",
+        "givenNames": "Joseph",
+        "parenthetical": "Mary",
+        "occupation": "shoemkr",
+        "residence": "h",
+        "address": "135 N Carlisle"
+      },
+      {
+        "surname": "Aftowski",
+        "givenNames": "Walter",
+        "parenthetical": null,
+        "occupation": "painter",
+        "residence": "r",
+        "address": "302 Cherry"
+      },
+      {
+        "surname": "Ager",
+        "givenNames": "Dorothy",
+        "parenthetical": null,
+        "occupation": "clk",
+        "residence": "r",
+        "address": "521 E Dayton"
+      },
+      {
+        "surname": "Ager",
+        "givenNames": "Frank",
+        "parenthetical": "Ager & Bryan",
+        "occupation": null,
+        "residence": "h",
+        "address": "301 W South"
+      },
+      {
+        "surname": "Ager",
+        "givenNames": "& Bryan",
+        "parenthetical": "Frand Ager and John Bryan",
+        "occupation": "restr 301 W South",
+        "residence": null,
+        "address": null
+      },
+      {
+        "surname": "Agler",
+        "givenNames": "Robert B",
+        "parenthetical": "Lillian M",
+        "occupation": "lawyer 353-359 Farmers Trust bldg",
+        "residence": "h",
+        "address": "126 Milton"
+      },
+      {
+        "surname": "Agler",
+        "givenNames": "Wave B",
+        "parenthetical": "Ethel L",
+        "occupation": "trav slsmn",
+        "residence": "h",
+        "address": "1520 Portage av"
+      },
+      {
+        "surname": "Ahlborn",
+        "givenNames": "George H",
+        "parenthetical": "Helen",
+        "occupation": "power supt Studebakers",
+        "residence": "h",
+        "address": "713 Arch av"
+      },
+      {
+        "surname": "Ahlering",
+        "givenNames": "Ed",
+        "parenthetical": null,
+        "occupation": "stckmn Studebakers",
+        "residence": "r",
+        "address": "1136 N Notre Dame av"
+      },
+      {
+        "surname": "Ahlering",
+        "givenNames": "Elizabeth M",
+        "parenthetical": null,
+        "occupation": "asst sec Board of Park Commnrs",
+        "residence": "r",
+        "address": "1136 N Notre Dame av"
+      },
+      {
+        "surname": "AHLERING LOUIS I",
+        "givenNames": null,
+        "parenthetical": "Anna M",
+        "occupation": "Certified Public Accountant, Federal Income Tax Consultant 207-208 Conservative Life Bldg, Tel Main 866",
+        "residence": "h",
+        "address": "1136 N Notre Dame av, Tel Main 5088"
+      },
+      {
+        "surname": "Ahlstrand",
+        "givenNames": "Ivan",
+        "parenthetical": null,
+        "occupation": "mach opr Studebakers",
+        "residence": "r",
+        "address": "311 S Scott"
+      }
+    ]
+  },
+  "meta": {
+    "provider": "google",
+    "model": "gemini-3.5-flash",
+    "doc_id": "9hPCh7ca",
+    "usage": {
+      "promptTokenCount": 5275,
+      "candidatesTokenCount": 8507,
+      "totalTokenCount": 22884,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 55
+        },
+        {
+          "modality": "IMAGE",
+          "tokenCount": 5220
+        }
+      ],
+      "thoughtsTokenCount": 9102,
+      "serviceTier": "standard"
+    },
+    "schema_mode": "gemini_response_schema_nullable_v1",
+    "input_mode": "inline_data",
+    "guidelines_mode": "none",
+    "guidelines_chars": 0
+  }
+}

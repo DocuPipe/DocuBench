@@ -1,0 +1,41 @@
+{
+  "status": "ok",
+  "cost": null,
+  "time_sec": 88.50633120536804,
+  "data": {
+    "issueNumber": 5877,
+    "issueDate": "1945-08-16",
+    "weekday": "Friday",
+    "imperialOrdinanceNumber": 522,
+    "imperialOrdinancePromulgationDate": "1945-08-15",
+    "ministerialOrdinanceNumber": null,
+    "coinFaceValueSen": 50,
+    "coinMaterial": "ニッケル",
+    "coinWeightGrams": 3.5,
+    "coinDiameterMm": 22,
+    "courseTables": null
+  },
+  "meta": {
+    "provider": "openai",
+    "model": "gpt-5.5",
+    "doc_id": "qRCO6ev5",
+    "file_id": "file-1E2L4EALPrZg4nykbVpLJn",
+    "response_id": "resp_030869d6eb3723b5016a594c19e3b4819d814db26de2050aff",
+    "usage": {
+      "input_tokens": 1590,
+      "input_tokens_details": {
+        "cache_write_tokens": 0,
+        "cached_tokens": 0
+      },
+      "output_tokens": 4768,
+      "output_tokens_details": {
+        "reasoning_tokens": 4660
+      },
+      "total_tokens": 6358
+    },
+    "schema_mode": "openai_strict_nullable_v1",
+    "input_mode": "file",
+    "guidelines_mode": "none",
+    "guidelines_chars": 0
+  }
+}

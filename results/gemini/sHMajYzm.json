@@ -1,0 +1,809 @@
+{
+  "status": "ok",
+  "cost": null,
+  "time_sec": 109.66255807876587,
+  "data": {
+    "entries": [
+      {
+        "authorName": "Bagehot, Walter.",
+        "title": "Lombard street; a description of the money market.",
+        "publicationYear": 1902,
+        "publisher": "Scribner",
+        "price": "$1.25",
+        "note": "Descriptions of mechanism of English credit institutions, with able discussions of many points of theory.",
+        "noteSource": "B. & I."
+      },
+      {
+        "authorName": "Brough, William.",
+        "title": "Natural law of money.",
+        "publicationYear": 1896,
+        "publisher": "Putnam",
+        "price": "$1",
+        "note": "Shows that tendency to substitute credit in place of material substances is the distinctive mark of progress in the art of effecting exchange.",
+        "noteSource": "Nation, 59: 414 (B)"
+      },
+      {
+        "authorName": "Bullock, C: J.",
+        "title": "Essays on the monetary history of the United States.",
+        "publicationYear": 1900,
+        "publisher": "Macmillan",
+        "price": "$1.25 n",
+        "note": "Contents: Three centuries of cheap money in the United States; Paper currency of North Carolina; Paper currency of New Hampshire.\\nBibliography, p. 275-88.\\nGeneral thesis: Inflationist movement always due to scarcity of capital in sparsely settled regions.",
+        "noteSource": "D. R. Dewey in Amer. hist. r. 6: 579."
+      },
+      {
+        "authorName": "Burton, T. E.",
+        "title": "Financial crises and periods of industrial and commercial depression.",
+        "publicationYear": 1902,
+        "publisher": "Appleton",
+        "price": "$1.40 n",
+        "note": "Bibliography by Hugh Williams, p. 347-77.\\nDefines terms, discusses indications, accompanying conditions, causes and preventives; brief history of crises and depressions in United States. Diagrams, index.",
+        "noteSource": "N. Y."
+      },
+      {
+        "authorName": "Clare, George.",
+        "title": "The A B C of the foreign exchanges; a practical guide. 3d ed.",
+        "publicationYear": 1901,
+        "publisher": "Macmillan",
+        "price": "$1.25",
+        "note": "",
+        "noteSource": ""
+      },
+      {
+        "authorName": "Cleveland, F: A.",
+        "title": "Funds and their uses. Rev. ed.",
+        "publicationYear": 1903,
+        "publisher": "Appleton",
+        "price": "$1.25 n",
+        "note": "What funds are, how obtained and how operated through U. S. treasury, savings and commercial banks, building associations, brokerage, trust and insurance companies. Facsimiles of business paper.",
+        "noteSource": "N. Y."
+      },
+      {
+        "authorName": "Conant, C: A.",
+        "title": "History of modern banks of issue; with account of the economic crises of the present century.",
+        "publicationYear": 1902,
+        "publisher": "Putnam",
+        "price": "$3",
+        "note": "List of authorities, p. 577-81.",
+        "noteSource": ""
+      },
+      {
+        "authorName": "Darwin, Leonard.",
+        "title": "Bimetallism.",
+        "publicationYear": 1897,
+        "publisher": "Appleton",
+        "price": "$2.50",
+        "note": "Mainly a balancing of arguments. No one book will give an intelligent reader a better grasp of the controversy.",
+        "noteSource": "Annals Amer. acad. pol. sci. 12: 273."
+      },
+      {
+        "authorName": "Dunbar, C: F.",
+        "title": "Chapters on the theory and history of banking. 2d ed.",
+        "publicationYear": 1901,
+        "publisher": "Putnam",
+        "price": "$1.25",
+        "note": "Succinct account of fundamental character of banking operations, nature of credit and its practical manifestation in the chief forms, checks and banknotes.",
+        "noteSource": "Pol. sci. q. 6: 571 (B)"
+      },
+      {
+        "authorName": "Greene, T: L.",
+        "title": "Corporation finance; a study of the principles and methods of the management of the finances of corporations in the United States.",
+        "publicationYear": 1904,
+        "publisher": "Putnam",
+        "price": "$1.25",
+        "note": "",
+        "noteSource": ""
+      },
+      {
+        "authorName": "Hamilton, J. H:",
+        "title": "Savings and savings institutions.",
+        "publicationYear": 1902,
+        "publisher": "Macmillan",
+        "price": "$2.25 n",
+        "note": "Partial list of authorities, p. 429-32.\\nNo one else has been so successful in obtaining useful information on this subject within the limits proposed.",
+        "noteSource": "Char. 9: 347."
+      },
+      {
+        "authorName": "Hepburn, A. B.",
+        "title": "History of coinage and currency in the United States.",
+        "publicationYear": 1903,
+        "publisher": "Macmillan",
+        "price": "$2 n",
+        "note": "Bibliography, p. 435-39.\\n1776-1860, coinage system, paper currency; 1861-90, U. S. legal tender notes, silver question, national banking system; 1891-1902, silver contest of 1896, reform act of 1900. General review, bibliography. U. S. laws and other documents in appendix.",
+        "noteSource": ""
+      },
+      {
+        "authorName": "Jevons, W: S.",
+        "title": "Money and the mechanism of exchange.",
+        "publicationYear": 1875,
+        "publisher": "Appleton",
+        "price": "$1.75",
+        "note": "Contains descriptions of clearinghouse and check bank. Excellent for laying a basis of sound doctrines.",
+        "noteSource": "B. & I."
+      },
+      {
+        "authorName": "Knox, J: J.",
+        "title": "United States notes; a history of the various issues of paper money by the government of the United States. 3d ed. rev.",
+        "publicationYear": 1899,
+        "publisher": "Scribner",
+        "price": "$1.50",
+        "note": "Special emphasis on constitutionality of government paper money. Historical rather than controversial; not exhaustive, but adequate.",
+        "noteSource": "L. A. H."
+      },
+      {
+        "authorName": "Laughlin, J. L.",
+        "title": "History of bimetallism in the United States. 4th ed.",
+        "publicationYear": 1897,
+        "publisher": "Appleton",
+        "price": "$2.25",
+        "note": "By a monometalist. Serviceable historical compendium, if reader bears in mind that author writes to persuade.",
+        "noteSource": "L. A. H."
+      },
+      {
+        "authorName": "Laughlin, J. L.",
+        "title": "Principles of money.",
+        "publicationYear": 1903,
+        "publisher": "Scribner",
+        "price": "$3 n",
+        "note": "Bibliographies.\\nComprehensive treatment. First of a proposed series of 6 volumes on money and banking.",
+        "noteSource": ""
+      },
+      {
+        "authorName": "Nicholson, J. S.",
+        "title": "Treatise on money, and essays on monetary problems. 5th ed.",
+        "publicationYear": 1901,
+        "publisher": "Macmillan",
+        "price": "$1.90 n",
+        "note": "",
+        "noteSource": ""
+      },
+      {
+        "authorName": "Scott, W: A.",
+        "title": "Money and banking; an introduction to the study of modern currencies.",
+        "publicationYear": 1903,
+        "publisher": "Holt",
+        "price": "$2",
+        "note": "List of references, p. 353-63.\\nIntended for college use and as handbook for average citizen. On points at issue all important views are set forth clearly. Bibliographic references.",
+        "noteSource": "H. A. Mills in Annals Amer. acad. pol. sci. 22: 126."
+      },
+      {
+        "authorName": "Taussig, F. W.",
+        "title": "Silver situation in the United States. 3d ed.",
+        "publicationYear": 1896,
+        "publisher": "Putnam",
+        "price": "75c",
+        "note": "Reviews legislation and conditions from 1878 to close of 1896; advocates monometalism but considers bimetalist arguments fairly.",
+        "noteSource": "N. Y."
+      },
+      {
+        "authorName": "Walker, F. A.",
+        "title": "International bimetallism.",
+        "publicationYear": 1896,
+        "publisher": "Holt",
+        "price": "$1.25",
+        "note": "Reviews briefly history of gold and silver currency and argues strongly for international bimetalism. Opposes free coinage of silver.",
+        "noteSource": "N. Y."
+      },
+      {
+        "authorName": "Walker, F. A.",
+        "title": "Money.",
+        "publicationYear": 1891,
+        "publisher": "Holt",
+        "price": "$2",
+        "note": "States and impartially examines various theories. Holds that paper money nominally or really convertible into coin is liable to overissue.",
+        "noteSource": "B. & I."
+      },
+      {
+        "authorName": "Walker, F. A.",
+        "title": "Money in its relations to trade and industry.",
+        "publicationYear": 1889,
+        "publisher": "Holt",
+        "price": "$1.25",
+        "note": "First published in 1879.\\nAn abridgment of Money, with added chapters.",
+        "noteSource": ""
+      },
+      {
+        "authorName": "Watson, D: K.",
+        "title": "History of American coinage.",
+        "publicationYear": 1899,
+        "publisher": "Putnam",
+        "price": "$1.50",
+        "note": "History of gold and silver coinage in U. S. beginning with Massachusetts colonial mint, 1652. Opposes free coinage of silver.",
+        "noteSource": "L. A. H."
+      },
+      {
+        "authorName": "White, Horace.",
+        "title": "Money and banking illustrated by American history; 2d ed. rev. and continued to 1902.",
+        "publicationYear": 1903,
+        "publisher": "Ginn",
+        "price": "$1.50",
+        "note": "Bibliographies.\\nTreats evolution of money, the gold standard, fiat money as developed in colonial, continental and federal currency, and banks.",
+        "noteSource": "N. Y."
+      },
+      {
+        "authorName": "Dumas, Jacques.",
+        "title": "Registering titles to land.",
+        "publicationYear": 1900,
+        "publisher": "Callaghan",
+        "price": "$1.50 n",
+        "note": "Bibliography about registration, p. 26-28.\\nExplains systems in various countries.",
+        "noteSource": ""
+      },
+      {
+        "authorName": "Walker, F. A.",
+        "title": "Land and its rent.",
+        "publicationYear": 1883,
+        "publisher": "Little",
+        "price": "75c n",
+        "note": "Reviews the doctrines of Carey, Bastiat, Mill, Leroy-Beaulieu and George as to rent. From conservative standpoint.",
+        "noteSource": "L. & I."
+      },
+      {
+        "authorName": "Brown, M.. W.",
+        "title": "Development of thrift.",
+        "publicationYear": 1899,
+        "publisher": "Macmillan",
+        "price": "$1",
+        "note": "For charity workers and working men seeking good methods of saving.",
+        "noteSource": "N. Y."
+      },
+      {
+        "authorName": "Jones, Benjamin.",
+        "title": "Co-operative production; with pref. by A. H. D. Acland. 2 v.",
+        "publicationYear": 1894,
+        "publisher": "Clarendon",
+        "price": "$2.50",
+        "note": "A sketch of conditions before and during time of Robert Owen; a history of subsequent experiments, with suggestions.",
+        "noteSource": "Marot."
+      },
+      {
+        "authorName": "Bax, E. B.",
+        "title": "Ethics of socialism, being further essays in modern socialist criticism, &c.",
+        "publicationYear": 1902,
+        "publisher": "Scribner",
+        "price": "$1",
+        "note": "The earlier essays appeared under title The religion of socialism.",
+        "noteSource": ""
+      },
+      {
+        "authorName": "Bliss, W: D. P.",
+        "title": "Handbook of socialism; a statement of socialism in its various aspects, and a history of socialism in all countries.",
+        "publicationYear": 1895,
+        "publisher": "Scribner",
+        "price": "$1.25",
+        "note": "Biographie notes on socialist writers and leaders, p. 205-63; bibliography, p. 234-86.",
+        "noteSource": "Pittsburg."
+      },
+      {
+        "authorName": "Ely, R: T.",
+        "title": "French and German socialism in modern times.",
+        "publicationYear": 1883,
+        "publisher": "Harper",
+        "price": "75c",
+        "note": "Impartial presentation, brief and clear.",
+        "noteSource": "B. & I."
+      },
+      {
+        "authorName": "Ely, R: T.",
+        "title": "Socialism.",
+        "publicationYear": 1894,
+        "publisher": "Crowell",
+        "price": "$1.50",
+        "note": "Bibliography, p. 399-412.\\nExamines its nature, strength and weakness; concedes merits generously but in the main disapproves, though advocating socialization of monopolies.",
+        "noteSource": "N. Y."
+      },
+      {
+        "authorName": "Engels, Friedrich.",
+        "title": "Socialism; tr. by Edward Aveling.",
+        "publicationYear": 1901,
+        "publisher": "N. Y. labor news co.",
+        "price": "50c",
+        "note": "Contents: Utopian socialism; Materialist conception of history; Scientific socialism; Apx. The mark.",
+        "noteSource": ""
+      },
+      {
+        "authorName": "Fabian essays in socialism",
+        "title": "Fabian essays in socialism, by G. B. Shaw, Sidney Webb, William Clarke, Sydney Olivier, Annie Besant, Graham Wallas, and Hubert Bland; ed. by G. B. Shaw; Amer. ed. by H. G. Wilshire.",
+        "publicationYear": 1891,
+        "publisher": "Humboldt pub. co.",
+        "price": "75c",
+        "note": "",
+        "noteSource": ""
+      },
+      {
+        "authorName": "Fabian tracts",
+        "title": "Fabian tracts, nos. 1 to 117; pub. by the Fabian society, 1884-1904.",
+        "publicationYear": 1904,
+        "publisher": "Fabian office",
+        "price": "4/6",
+        "note": "The 86 tracts are bound in order of number. Those missing are out of print or withdrawn.\\nThe great propaganda of English socialism.",
+        "noteSource": "Ed. sel."
+      },
+      {
+        "authorName": "George, Henry.",
+        "title": "Progress and poverty. New ed.",
+        "publicationYear": 1899,
+        "publisher": "Doubleday",
+        "price": "$1",
+        "note": "Endeavors to show that principal cause of poverty and wretchedness in midst of wealth and abundance is private ownership of land. Style engaging and often eloquent.\\nBasis of \"single tax\" theory.",
+        "noteSource": "Nation, 31:65 (B)"
+      },
+      {
+        "authorName": "Gilman, N.. P.",
+        "title": "Socialism and the American spirit. 2d ed.",
+        "publicationYear": 1896,
+        "publisher": "Houghton",
+        "price": "$1.50",
+        "note": "Select bibliography, p. 367-70.\\nMaintains that socialism and extreme forms of individualism are alike unamerican, and that moral improvement is more needed than economic changes.",
+        "noteSource": "N. Y."
+      },
+      {
+        "authorName": "Graham, William.",
+        "title": "Socialism, new and old.",
+        "publicationYear": 1901,
+        "publisher": "Appleton",
+        "price": "$1.75",
+        "note": "Historical and critical, with examination of proposed remedies for low wages and unemployed labor, and of eight-hour working day.",
+        "noteSource": "B. & I."
+      },
+      {
+        "authorName": "Gronlund, Laurence.",
+        "title": "Co-operative commonwealth; an exposition of modern socialism.",
+        "publicationYear": 1896,
+        "publisher": "Lee",
+        "price": "$1",
+        "note": "Statement of case for state socialism, with plans for its operation.",
+        "noteSource": "B. & I."
+      },
+      {
+        "authorName": "Hinds, W: A.",
+        "title": "American communities; rev. ed. enl. to incl. additional societies, communistic, semi-communistic and co-operative.",
+        "publicationYear": 1902,
+        "publisher": "Kerr",
+        "price": "$1",
+        "note": "",
+        "noteSource": ""
+      },
+      {
+        "authorName": "Kirkup, Thomas.",
+        "title": "History of socialism. Rev. ed.",
+        "publicationYear": 1900,
+        "publisher": "Macmillan",
+        "price": "$2",
+        "note": "Limited to 19th century. Gives friendly interpretation to theories; opposes state control and advocates a socialism only equivalent to co-operation.",
+        "noteSource": "N. Y."
+      },
+      {
+        "authorName": "Letourneau, C: J. M.",
+        "title": "Property: its origin and development.",
+        "publicationYear": 1901,
+        "publisher": "Scribner",
+        "price": "$1.50",
+        "note": "Translation of his L'évolution de la propriété. First published 1892.\\nEthnographic and historical: holds that decrease in private holding of property will be future necessity.",
+        "noteSource": "Marot."
+      },
+      {
+        "authorName": "Mackay, Thomas.",
+        "title": "A plea for liberty; an argument against socialism and socialistic legislation, consisting of an introd. by Herbert Spencer and essays by various writers.",
+        "publicationYear": 1891,
+        "publisher": "Appleton",
+        "price": "$2.25",
+        "note": "On proper limits of state action relating to labor, care of poor, schools, post-office, etc.\\nLaissez-faire and individualism present in formal array the arguments by which they hope to check the tide of socialism.",
+        "noteSource": "Pol. sci. q. 6:581 (B)"
+      },
+      {
+        "authorName": "Menger, Anton.",
+        "title": "Right to the whole produce of labour: the origin and development of the theory of labour's claim to the whole product of industry; tr. by M. E. Tanner; introd. and bibliography by H. S. Foxwell.",
+        "publicationYear": 1899,
+        "publisher": "Macmillan",
+        "price": "$2 n",
+        "note": "Bibliography of English socialist school, p. 191-267.",
+        "noteSource": ""
+      },
+      {
+        "authorName": "Morris, William.",
+        "title": "Signs of change; 7 lectures.",
+        "publicationYear": 1903,
+        "publisher": "Longmans",
+        "price": "$1.50",
+        "note": "Contents: How we live and how we might live: Whigs, democrats and socialists; Feudal England; Hopes of civilization; Aims of art; Useful work versus useless toil; Dawn of a new epoch.",
+        "noteSource": ""
+      },
+      {
+        "authorName": "Morris, William, & Bax, E. B.",
+        "title": "Socialism, its growth and outcome.",
+        "publicationYear": 1893,
+        "publisher": "Scribner",
+        "price": "$1",
+        "note": "",
+        "noteSource": ""
+      },
+      {
+        "authorName": "Nordhoff, Charles.",
+        "title": "Communistic societies of the United States.",
+        "publicationYear": 1875,
+        "publisher": "Harper",
+        "price": "$4",
+        "note": "Valuable account by a trained journalist from personal visits and observations in many communistic societies.",
+        "noteSource": "L. A. H."
+      },
+      {
+        "authorName": "Rae, John.",
+        "title": "Contemporary socialism.",
+        "publicationYear": 1901,
+        "publisher": "Scribner",
+        "price": "$2.50",
+        "note": "Third ed. with additional chapter.\\nStatement and criticism of principles of Lassalle, Marx, Karl Marlo, the socialists of the chair, Christian socialists, Russian nihilists and Henry George.",
+        "noteSource": "N. Y."
+      },
+      {
+        "authorName": "Schäffle, A. E. F.",
+        "title": "Impossibility of social democracy; sup. to \"The quintessence of socialism;\" authorized Eng. ed. with pref. by Bernard Bosanquet.",
+        "publicationYear": 1892,
+        "publisher": "Scribner",
+        "price": "$1.25",
+        "note": "",
+        "noteSource": ""
+      },
+      {
+        "authorName": "Schäffle, A. E. F.",
+        "title": "Quintessence of socialism; tr. under supervision of Bernard Bosanquet.",
+        "publicationYear": 1898,
+        "publisher": "Scribner",
+        "price": "$1",
+        "note": "The author is opponent of socialism, book is used by socialists in propaganda work and considered a fair analysis of Marx's Capital.",
+        "noteSource": "Marot."
+      },
+      {
+        "authorName": "Swift, Lindsay.",
+        "title": "Brook Farm; its members, scholars, and visitors.",
+        "publicationYear": 1900,
+        "publisher": "Macmillan",
+        "price": "$1.25",
+        "note": "List of books and magazine articles, p. 283-92.\\nIf no humorous aspect of the Farm escapes him, he is quick to find and praise whatever was noble and generous in its inspiration.",
+        "noteSource": "Nation, 70: 152 (B)"
+      },
+      {
+        "authorName": "Adams, H: C.",
+        "title": "Public debts; an essay in the science of finance.",
+        "publicationYear": 1893,
+        "publisher": "Appleton",
+        "price": "$2.50",
+        "note": "Contents: Public borrowing as a financial policy; National deficit financiering; Local deficit financiering.\\nSurvey of facts as they were in 1880, with masterly statement of economic principles which should limit public indebtedness and decide its form.",
+        "noteSource": "B. & I."
+      },
+      {
+        "authorName": "Adams, H: C.",
+        "title": "Science of finance; an investigation of public expenditures and public revenues.",
+        "publicationYear": 1898,
+        "publisher": "Holt",
+        "price": "$2.75",
+        "note": "Applies theory to existing conditions in United States, without touching questions of currency, banking, etc.",
+        "noteSource": "N. Y."
+      },
+      {
+        "authorName": "Bastable, C: F.",
+        "title": "Public finance. 3d ed. rev.",
+        "publicationYear": 1903,
+        "publisher": "Macmillan",
+        "price": "$4 n",
+        "note": "Discusses public expenditure, public revenues, principles of taxation, taxation on lands, business, property, consumption, etc. public credit and debts, and financial administration.",
+        "noteSource": "N. Y."
+      },
+      {
+        "authorName": "Daniels, W. M.",
+        "title": "Elements of public finance, including the monetary system of the United States.",
+        "publicationYear": 1899,
+        "publisher": "Holt",
+        "price": "$1.50 n",
+        "note": "Public finance though defined as a science is treated throughout as an art. Attention is concentrated on the practical bearings of the subject.",
+        "noteSource": "Pol. sci. q. 15: 156 (B)"
+      },
+      {
+        "authorName": "Dewey, D. R.",
+        "title": "Financial history of the United States.",
+        "publicationYear": 1903,
+        "publisher": "Longmans",
+        "price": "$2",
+        "note": "Suggestions for students, teachers and readers, pref. p. 9-28.\\nReferences at beginning of chapters.",
+        "noteSource": ""
+      },
+      {
+        "authorName": "Noyes, A. D.",
+        "title": "Thirty years of American finance; a short financial history of the government and people of the United States, 1865-1896.",
+        "publicationYear": 1898,
+        "publisher": "Putnam",
+        "price": "$1.25",
+        "note": "List of authorities, pref. p. 13-15.\\nShows grasp of principles, thorough mastery of facts, and skill in unraveling and interpreting complex phenomena.",
+        "noteSource": ""
+      },
+      {
+        "authorName": "Plehn, C. C.",
+        "title": "Introduction to public finance.",
+        "publicationYear": 1897,
+        "publisher": "Macmillan",
+        "price": "$1.60 n",
+        "note": "",
+        "noteSource": ""
+      },
+      {
+        "authorName": "Seligman, E. R. A.",
+        "title": "Essays in taxation.",
+        "publicationYear": 1895,
+        "publisher": "Macmillan",
+        "price": "$3 n",
+        "note": "Legislator and citizen alike may read with alternate complacency and mortification, but with uniform profit.",
+        "noteSource": "Nation, 62: 166 (B)"
+      },
+      {
+        "authorName": "Wells, D: A.",
+        "title": "Theory and practice of taxation.",
+        "publicationYear": 1900,
+        "publisher": "Appleton",
+        "price": "$2",
+        "note": "We might almost say, no citizen is qualified for proper discharge of his political duties without mastering the principles here expounded.",
+        "noteSource": "Nation, 71: 57."
+      },
+      {
+        "authorName": "Bastable, C: F.",
+        "title": "Commerce of nations. 2d ed. rev.",
+        "publicationYear": 1899,
+        "publisher": "Scribner",
+        "price": "$1 n",
+        "note": "Historical sketch of prevailing tariff systems. Compact review of arguments for protection.",
+        "noteSource": "Nation, 56: 89."
+      },
+      {
+        "authorName": "Bastable, C: F.",
+        "title": "Theory of international trade, with some of its applications to economic policy. 4th ed. rev.",
+        "publicationYear": 1903,
+        "publisher": "Macmillan",
+        "price": "$1.25 n",
+        "note": "Analytic study from English standpoint.",
+        "noteSource": "Wis."
+      },
+      {
+        "authorName": "Bastiat, Frédéric.",
+        "title": "Sophisms of protection.",
+        "publicationYear": 1877,
+        "publisher": "Putnam",
+        "price": "$1",
+        "note": "Also issued under title Essays on political economy. Includes 4 parts: Sophisms of protection, 1st and 2d ser. Spoliation and law; Capital and interest.",
+        "noteSource": "Ed. sel."
+      },
+      {
+        "authorName": "George, Henry.",
+        "title": "Protection or free trade: an examination of the tariff question with especial regard to the interests of labor.",
+        "publicationYear": 1897,
+        "publisher": "Doubleday",
+        "price": "$1",
+        "note": "Leads up to doctrine that ultimate \"free trade\" means free access to land through operation of single tax.",
+        "noteSource": "B. & I."
+      },
+      {
+        "authorName": "Laughlin, J. L., & Willis, H. P.",
+        "title": "Reciprocity.",
+        "publicationYear": 1903,
+        "publisher": "Baker & T.",
+        "price": "$2 n",
+        "note": "Bibliography, p. 439-71.\\nContents: Origin and nature of the reciprocity idea; Reciprocity with Canada; Reciprocity with Hawaii, 1876-1900; Reciprocity and the tariff controversy in the U. S. 1880-90; Reciprocity and the sugar situation; Reciprocity and the McKinley act; Operation of the McKinley act; Abandonment of reciprocity; Dingley act; Kasson treaties; Struggle for reciprocity with Cuba; Present and future of reciprocity.",
+        "noteSource": ""
+      },
+      {
+        "authorName": "Stanwood, Edward.",
+        "title": "American tariff controversies in the nineteenth century. 2 v.",
+        "publicationYear": 1903,
+        "publisher": "Houghton",
+        "price": "$5 n",
+        "note": "Political and historical. Author protectionist, free from partisan rancor.",
+        "noteSource": "N. Y."
+      },
+      {
+        "authorName": "Sumner, W: G.",
+        "title": "Protectionism: the -ism which teaches that waste makes wealth.",
+        "publicationYear": 1888,
+        "publisher": "Holt",
+        "price": "$1",
+        "note": "",
+        "noteSource": ""
+      },
+      {
+        "authorName": "Taussig, F. W.",
+        "title": "The tariff history of the United States; a series of essays.",
+        "publicationYear": 1896,
+        "publisher": "Putnam",
+        "price": "$1.25",
+        "note": "Accurate, noncontroversial record of facts, by a tariff reformer. For general students.",
+        "noteSource": "N. Y."
+      },
+      {
+        "authorName": "Ashley, W: J.",
+        "title": "British industries; a series of general reviews for business men and students.",
+        "publicationYear": 1903,
+        "publisher": "Longmans",
+        "price": "$1.80 n",
+        "note": "Iron and steel industries, their conditions and outlook; Midland iron and steel wages board; Cotton industry; Yorkshire woolen and worsted industries; Linen and flax industry, with special reference to Ireland; British railways as business enterprises; British shipping, and its present position; Trust movement in Great Britain.",
+        "noteSource": ""
+      },
+      {
+        "authorName": "Baker, C: W.",
+        "title": "Monopolies and the people. 3d ed. rev.",
+        "publicationYear": 1899,
+        "publisher": "Putnam",
+        "price": "$1.50",
+        "note": "Railroad combinations, industrial trusts, monopolies of municipal service and labor unions.",
+        "noteSource": "Griffin."
+      },
+      {
+        "authorName": "Bridge, J. H.",
+        "title": "The trust: its book; a presentation of the several aspects of the latest form of industrial evolution.",
+        "publicationYear": 1902,
+        "publisher": "Doubleday",
+        "price": "$1.25 n",
+        "note": "A list of books relating to trusts, p. 227-55.\\nEight essays by C. R. Flint, J. J. Hill, J. H. Bridge, S. C. T. Dodd and F. B. Thurber, emphasizing importance of the trust as an essential part of our industrial system, and showing its advantage as a productive agent.",
+        "noteSource": "Dial, 34: 150."
+      },
+      {
+        "authorName": "Chittenden, H. M.",
+        "title": "American fur trade of the far West; a history of the pioneer trading posts and early fur companies of the Missouri valley and the Rocky mountains and of the overland commerce with Santa Fé. 3 v.",
+        "publicationYear": 1902,
+        "publisher": "F. P. Harper",
+        "price": "$10 n",
+        "note": "1806-43. Explains importance and characteristics of fur trade, with chronologic narrative of events, biographic sketches, and a scientist's description of physical features and native tribes. Of great value for beginnings of domestic expansion and of trans-Pacific relations.",
+        "noteSource": "Wells."
+      },
+      {
+        "authorName": "Clark, J: B.",
+        "title": "Control of trusts.",
+        "publicationYear": 1901,
+        "publisher": "Macmillan",
+        "price": "60c n",
+        "note": "An attempt to formulate a method by which governmental control can be so exercised that the benefits of trusts may be secured and ill effects eliminated.",
+        "noteSource": "A. C. Pigou in Econ. j. 12: 63."
+      },
+      {
+        "authorName": "Collier, W: M.",
+        "title": "The trusts. What can we do with them? What can they do for us?",
+        "publicationYear": 1900,
+        "publisher": "Twentieth cent. press",
+        "price": "$1.25",
+        "note": "Clear and brief explanation of consolidation of industry, with particular consideration of relations to tariff and territorial expansion.",
+        "noteSource": "World's work, 1:214."
+      },
+      {
+        "authorName": "Crookes, Sir William.",
+        "title": "The wheat problem; based on presidential address to the wheat supply of the United States by C. W. Davis and John Hyde.",
+        "publicationYear": 1900,
+        "publisher": "Putnam",
+        "price": "$1.25",
+        "note": "Three very suggestive lines of thought: (1) possibility of increasing supply of nitrogen available for wheat crops by general utilization of sewage; (2) practicability of attaining the same end by electrically fixing free nitrogen of the air; (3) increasing arable lands by irrigation.",
+        "noteSource": "Engin. n. 43:280."
+      },
+      {
+        "authorName": "Edgar, W: C.",
+        "title": "Story of a grain of wheat.",
+        "publicationYear": 1903,
+        "publisher": "Appleton",
+        "price": "$1",
+        "note": "History and present status of wheat, including its place in vegetable world, use in ancient and modern times, development of wheat growing industry, flour milling and relation of tariff and transportation to wheat and flour trade.",
+        "noteSource": "Engin. n. v. 49, June 18 lit. sup. p. 68."
+      },
+      {
+        "authorName": "Ely, R: T.",
+        "title": "Monopolies and trusts.",
+        "publicationYear": 1900,
+        "publisher": "Macmillan",
+        "price": "$1.25 n",
+        "note": "Pt. 7 of his Distribution of wealth.\\nFull of information, moderate and impartial.",
+        "noteSource": "Pol. sci. q. 15:547 (B)"
+      },
+      {
+        "authorName": "Halle, E. von.",
+        "title": "Trusts; or, Industrial combinations and coalitions in the United States.",
+        "publicationYear": 1899,
+        "publisher": "Macmillan",
+        "price": "$1.25",
+        "note": "Sketches forms, objects and effects of organization, corporation law and public opinion in United States. Appendixes give specimen contracts, national and state legislation, lists of combinations, bibliography, etc.",
+        "noteSource": "N. Y."
+      },
+      {
+        "authorName": "Hobson, J: A.",
+        "title": "Evolution of modern capitalism: a study of machine production.",
+        "publicationYear": 1894,
+        "publisher": "Scribner",
+        "price": "$1.50",
+        "note": "Discussion of effects of machinery on labor, industrial depressions, women's work, wages and evolution of the trust.",
+        "noteSource": "Buffalo."
+      },
+      {
+        "authorName": "Jenks, J. W.",
+        "title": "Trust problem. Rev. ed.",
+        "publicationYear": 1903,
+        "publisher": "McClure",
+        "price": "$1 n",
+        "note": "Bibliographic note, p. 317-18.\\nBrief compendium of industrial conditions as affecting combinations. By expert agent of U. S. industrial commission.",
+        "noteSource": "N. Y."
+      },
+      {
+        "authorName": "Kropotkin, P. A. prince.",
+        "title": "Fields, factories and workshops; or, Industry combined with agriculture and brain work with manual work.",
+        "publicationYear": 1901,
+        "publisher": "Putnam",
+        "price": "90c n",
+        "note": "",
+        "noteSource": ""
+      },
+      {
+        "authorName": "Le Rossignol, J. E.",
+        "title": "Monopolies past and present; an introductory study.",
+        "publicationYear": 1901,
+        "publisher": "Crowell",
+        "price": "$1.25",
+        "note": "Bibliography, p. 2.",
+        "noteSource": ""
+      },
+      {
+        "authorName": "Lloyd, H: D.",
+        "title": "Wealth against commonwealth.",
+        "publicationYear": 1894,
+        "publisher": "Harper",
+        "price": "$2.50 Pop. ed. $1",
+        "note": "A study of trusts, particularly of the Standard Oil company.",
+        "noteSource": ""
+      },
+      {
+        "authorName": "Macrosty, H: W.",
+        "title": "Trusts and the state, a sketch of competition.",
+        "publicationYear": 1901,
+        "publisher": "Dutton",
+        "price": "$1.50 n",
+        "note": "Maintains that state should guide tendency toward monopoly so that it will terminate in the passing of industry into public ownership.",
+        "noteSource": "Author."
+      },
+      {
+        "authorName": "Meade, E: S.",
+        "title": "Trust finance; a study of the genesis, organization, and management of industrial combinations.",
+        "publicationYear": 1903,
+        "publisher": "Appleton",
+        "price": "$1.25 n",
+        "note": "Extended examination of United States steel corporation of particular interest.",
+        "noteSource": "J. pol. econ. 12:156."
+      },
+      {
+        "authorName": "Montague, G. H.",
+        "title": "The rise and progress of the Standard oil company.",
+        "publicationYear": 1903,
+        "publisher": "Harper",
+        "price": "$1 n",
+        "note": "First published as 2 articles in the Quarterly journal of economics, Feb. 1902 and Feb. 1903. Pref.\\nStudy made while author was Ricardo scholar in economics at Harvard, 1900-1.\\nRemarkably free from bias.",
+        "noteSource": "Annals Amer. acad. pol. sci. 22:513."
+      }
+    ]
+  },
+  "meta": {
+    "provider": "google",
+    "model": "gemini-3.5-flash",
+    "doc_id": "sHMajYzm",
+    "usage": {
+      "promptTokenCount": 8629,
+      "candidatesTokenCount": 10019,
+      "totalTokenCount": 31597,
+      "promptTokensDetails": [
+        {
+          "modality": "IMAGE",
+          "tokenCount": 8576
+        },
+        {
+          "modality": "TEXT",
+          "tokenCount": 53
+        }
+      ],
+      "thoughtsTokenCount": 12949,
+      "serviceTier": "standard"
+    },
+    "schema_mode": "gemini_response_schema_nullable_v1",
+    "input_mode": "inline_data",
+    "guidelines_mode": "none",
+    "guidelines_chars": 0
+  }
+}

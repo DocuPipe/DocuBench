@@ -13,13 +13,12 @@ from scorer import score_standardization
 
 
 DEFAULT_ENGINE_DISPLAY_NAMES = {
-    "claude": "Claude",
     "claude5": "Claude Sonnet 5",
     "docupipe_high": "DocuPipe high",
     "docupipe_standard": "DocuPipe standard",
     "extend": "Extend",
-    "gemini": "Gemini",
-    "gpt": "GPT",
+    "gemini": "Gemini 3.5 Flash",
+    "gpt": "GPT-5.5",
     "reducto": "Reducto Deep Extract",
     "reducto_standard": "Reducto standard",
 }

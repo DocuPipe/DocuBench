@@ -1,0 +1,2552 @@
+{
+  "status": "ok",
+  "cost": null,
+  "time_sec": 269.7654449939728,
+  "data": {
+    "entries": [
+      {
+        "authorName": "Bagehot, Walter.",
+        "title": "Lombard street; a description of the money market.",
+        "publicationYear": 1902,
+        "publisher": "Scribner",
+        "price": "$1.25",
+        "note": null,
+        "noteSource": null
+      },
+      {
+        "authorName": "Brough, William.",
+        "title": "Natural law of money.",
+        "publicationYear": 1896,
+        "publisher": "Putnam",
+        "price": "$1",
+        "note": null,
+        "noteSource": null
+      },
+      {
+        "authorName": "Bullock, C. J.",
+        "title": "Essays on the monetary history of the United States.",
+        "publicationYear": 1900,
+        "publisher": "Macmillan",
+        "price": "$2.25 n",
+        "note": null,
+        "noteSource": null
+      },
+      {
+        "authorName": "Burton, T. E.",
+        "title": "Financial crises and periods of industrial and commercial depression.",
+        "publicationYear": 1902,
+        "publisher": "Appleton",
+        "price": "$1.40 n",
+        "note": null,
+        "noteSource": null
+      },
+      {
+        "authorName": "Clare, George.",
+        "title": "The A B C of the foreign exchanges; a practical guide. 3d ed.",
+        "publicationYear": 1901,
+        "publisher": "Macmillan",
+        "price": "$1.25",
+        "note": null,
+        "noteSource": null
+      },
+      {
+        "authorName": "Cleveland, F. A.",
+        "title": "Funds and their uses. Rev. ed.",
+        "publicationYear": 1903,
+        "publisher": "Appleton",
+        "price": "$1.25 n",
+        "note": null,
+        "noteSource": null
+      },
+      {
+        "authorName": "Conant, C. A.",
+        "title": "History of modern banks of issue; with account of the economic crises of the present century.",
+        "publicationYear": 1902,
+        "publisher": "Putnam",
+        "price": "$3",
+        "note": null,
+        "noteSource": null
+      },
+      {
+        "authorName": "Darwin, Leonard.",
+        "title": "Bimetallism.",
+        "publicationYear": 1897,
+        "publisher": "Appleton",
+        "price": "$2.50",
+        "note": null,
+        "noteSource": null
+      },
+      {
+        "authorName": "Dunbar, C. F.",
+        "title": "Chapters on the theory and history of banking. 2d ed.",
+        "publicationYear": 1901,
+        "publisher": "Putnam",
+        "price": "$1.25",
+        "note": null,
+        "noteSource": null
+      },
+      {
+        "authorName": "Greene, T. L.",
+        "title": "Corporation finance; a study of the principles and methods of the management of the finances of corporations in the United States. 3d ed.",
+        "publicationYear": 1904,
+        "publisher": "Putnam",
+        "price": "$1.25",
+        "note": null,
+        "noteSource": null
+      },
+      {
+        "authorName": "Hamilton, J. H.",
+        "title": "Savings and saving institutions.",
+        "publicationYear": 1902,
+        "publisher": "Macmillan",
+        "price": "$2.25 n",
+        "note": null,
+        "noteSource": null
+      },
+      {
+        "authorName": "Hepburn, A. B.",
+        "title": "History of coinage and currency in the United States.",
+        "publicationYear": 1903,
+        "publisher": "Macmillan",
+        "price": "$2 n",
+        "note": null,
+        "noteSource": null
+      },
+      {
+        "authorName": "Jevons, W. S.",
+        "title": "Money and the mechanism of exchange.",
+        "publicationYear": 1875,
+        "publisher": "Appleton",
+        "price": "$1.75",
+        "note": null,
+        "noteSource": null
+      },
+      {
+        "authorName": "Knox, J. J.",
+        "title": "United States notes; a history of the various issues of paper money by the government of the United States. 3d ed. rev.",
+        "publicationYear": 1899,
+        "publisher": "Scribner",
+        "price": "$1.50",
+        "note": null,
+        "noteSource": null
+      },
+      {
+        "authorName": "Laughlin, J. L.",
+        "title": "History of bimetallism in the United States. 4th ed.",
+        "publicationYear": 1897,
+        "publisher": "Appleton",
+        "price": "$2.25",
+        "note": null,
+        "noteSource": null
+      },
+      {
+        "authorName": "Laughlin, J. L.",
+        "title": "Principles of money.",
+        "publicationYear": 1903,
+        "publisher": "Scribner",
+        "price": "$3 n",
+        "note": null,
+        "noteSource": null
+      },
+      {
+        "authorName": "Nicholson, J. S.",
+        "title": "Treatise on money and essays on monetary problems. 5th ed.",
+        "publicationYear": 1901,
+        "publisher": "Macmillan",
+        "price": "$1.90 n",
+        "note": null,
+        "noteSource": null
+      },
+      {
+        "authorName": "Scott, W. A.",
+        "title": "Money and banking; an introduction to the study of modern currencies.",
+        "publicationYear": 1903,
+        "publisher": "Holt",
+        "price": "$2",
+        "note": null,
+        "noteSource": null
+      },
+      {
+        "authorName": "Taussig, F. W.",
+        "title": "Silver situation in the United States. 3d ed.",
+        "publicationYear": 1896,
+        "publisher": "Putnam",
+        "price": "75c",
+        "note": null,
+        "noteSource": null
+      },
+      {
+        "authorName": "Walker, F. A.",
+        "title": "International bimetallism.",
+        "publicationYear": 1896,
+        "publisher": "Holt",
+        "price": "$1.25",
+        "note": null,
+        "noteSource": null
+      },
+      {
+        "authorName": "Walker, F. A.",
+        "title": "Money.",
+        "publicationYear": 1891,
+        "publisher": "Holt",
+        "price": "$2",
+        "note": null,
+        "noteSource": null
+      },
+      {
+        "authorName": "Walker, F. A.",
+        "title": "Money in its relations to trade and industry.",
+        "publicationYear": 1889,
+        "publisher": "Holt",
+        "price": "$1.25",
+        "note": null,
+        "noteSource": null
+      },
+      {
+        "authorName": "Watson, D. K.",
+        "title": "History of American coinage.",
+        "publicationYear": 1899,
+        "publisher": "Putnam",
+        "price": "$1.50",
+        "note": null,
+        "noteSource": null
+      },
+      {
+        "authorName": "White, Horace.",
+        "title": "Money and banking illustrated by American history; 2d ed. rev. and continued to 1902.",
+        "publicationYear": 1902,
+        "publisher": "Ginn",
+        "price": "$1.50",
+        "note": null,
+        "noteSource": null
+      },
+      {
+        "authorName": "Dumas, Jacques.",
+        "title": "Registering titles to land.",
+        "publicationYear": 1900,
+        "publisher": "Callaghan",
+        "price": "$1.50 n",
+        "note": null,
+        "noteSource": null
+      },
+      {
+        "authorName": "Walker, F. A.",
+        "title": "Land and its rent.",
+        "publicationYear": 1883,
+        "publisher": "Little",
+        "price": "75c n",
+        "note": null,
+        "noteSource": null
+      },
+      {
+        "authorName": "Brown, M. W.",
+        "title": "Development of thrift.",
+        "publicationYear": 1899,
+        "publisher": "Macmillan",
+        "price": "$1",
+        "note": null,
+        "noteSource": null
+      },
+      {
+        "authorName": "Jones, Benjamin.",
+        "title": "Cooperative production; with pref. by A. H. D. Acland. 2 v.",
+        "publicationYear": 1894,
+        "publisher": "Longmans",
+        "price": "$2.50",
+        "note": null,
+        "noteSource": null
+      },
+      {
+        "authorName": "Bax, E. B.",
+        "title": "Ethics of socialism, being further essays in modern socialist criticism, &c.",
+        "publicationYear": 1902,
+        "publisher": "Scribner",
+        "price": "$1",
+        "note": null,
+        "noteSource": null
+      },
+      {
+        "authorName": "Bliss, W. D. P.",
+        "title": "Handbook of socialism; a statement of socialism in its various aspects, and a history of socialism in all countries.",
+        "publicationYear": 1895,
+        "publisher": "Scribner",
+        "price": "$1.25",
+        "note": null,
+        "noteSource": null
+      },
+      {
+        "authorName": "Ely, R. T.",
+        "title": "French and German socialism in modern times.",
+        "publicationYear": 1883,
+        "publisher": "Harper",
+        "price": "75c",
+        "note": null,
+        "noteSource": null
+      },
+      {
+        "authorName": "Ely, R. T.",
+        "title": "Socialism.",
+        "publicationYear": 1904,
+        "publisher": "Crowell",
+        "price": "$1.50",
+        "note": null,
+        "noteSource": null
+      },
+      {
+        "authorName": "Engels, Friedrich.",
+        "title": "Socialism; tr. by Edward Aveling.",
+        "publicationYear": 1901,
+        "publisher": "N. Y. Labor news co.",
+        "price": "50c",
+        "note": null,
+        "noteSource": null
+      },
+      {
+        "authorName": "Fabian essays in socialism, by G. B. Shaw, Sidney Webb, William Clarke, Sydney Olivier, Annie Besant, Graham Wallas, and Hubert Bland; ed. by G. B. Shaw; Amer. ed. by H. G. Wilshire.",
+        "title": "Fabian essays in socialism, by G. B. Shaw, Sidney Webb, William Clarke, Sydney Olivier, Annie Besant, Graham Wallas, and Hubert Bland; ed. by G. B. Shaw; Amer. ed. by H. G. Wilshire.",
+        "publicationYear": 1891,
+        "publisher": "Humboldt pub. co.",
+        "price": "75c",
+        "note": null,
+        "noteSource": null
+      },
+      {
+        "authorName": "Fabian tracts.",
+        "title": "Fabian tracts, nos. 1 to 117; pub. by the Fabian society, 1884-1904.",
+        "publicationYear": 1904,
+        "publisher": "Fabian office",
+        "price": "4/6",
+        "note": null,
+        "noteSource": null
+      },
+      {
+        "authorName": "George, Henry.",
+        "title": "Progress and poverty. New ed.",
+        "publicationYear": 1899,
+        "publisher": "Doubleday",
+        "price": "$1",
+        "note": null,
+        "noteSource": null
+      },
+      {
+        "authorName": "Gilman, N. P.",
+        "title": "Socialism and the American spirit. 2ded.",
+        "publicationYear": 1896,
+        "publisher": "Houghton",
+        "price": "$1.50",
+        "note": null,
+        "noteSource": null
+      },
+      {
+        "authorName": "Graham, William.",
+        "title": "Socialism, new and old.",
+        "publicationYear": 1901,
+        "publisher": "Appleton",
+        "price": "$1.75",
+        "note": null,
+        "noteSource": null
+      },
+      {
+        "authorName": "Gronlund, Laurence.",
+        "title": "Co-operative commonwealth; an exposition of modern socialism.",
+        "publicationYear": 1899,
+        "publisher": "Lee",
+        "price": "$1",
+        "note": null,
+        "noteSource": null
+      },
+      {
+        "authorName": "Hinds, W. A.",
+        "title": "American communities; rev. ed. to incl. additional societies, communistic, semi-communistic and cooperative.",
+        "publicationYear": 1902,
+        "publisher": "Kerr",
+        "price": "$1",
+        "note": null,
+        "noteSource": null
+      },
+      {
+        "authorName": "Kirkup, Thomas.",
+        "title": "History of socialism. Rev. ed.",
+        "publicationYear": 1900,
+        "publisher": "Macmillan",
+        "price": "$2",
+        "note": null,
+        "noteSource": null
+      },
+      {
+        "authorName": "Letourneau, C. J. M.",
+        "title": "Property: its origin and development.",
+        "publicationYear": 1901,
+        "publisher": "Scribner",
+        "price": "$1.50",
+        "note": null,
+        "noteSource": null
+      },
+      {
+        "authorName": "Mackay, Thomas, ed.",
+        "title": "A plea for liberty; an argument against socialism and socialistic legislation, consisting of an introd. by Herbert Spencer and essays by various writers.",
+        "publicationYear": 1891,
+        "publisher": "Appleton",
+        "price": "$2.25",
+        "note": null,
+        "noteSource": null
+      },
+      {
+        "authorName": "Menger, Anton.",
+        "title": "Right to the whole produce of labour; the origin and development of the theory of labour's claim to the whole product of industry; tr. by M. E. Tanner; introd. and bibliography by H. S. Foxwell.",
+        "publicationYear": 1899,
+        "publisher": "Macmillan",
+        "price": "$2 n",
+        "note": null,
+        "noteSource": null
+      },
+      {
+        "authorName": "Morris, William.",
+        "title": "Signs of change; 7 lectures.",
+        "publicationYear": 1902,
+        "publisher": "Longmans",
+        "price": "$1.50",
+        "note": null,
+        "noteSource": null
+      },
+      {
+        "authorName": "Morris, William.",
+        "title": "Socialism, its growth and outcome.",
+        "publicationYear": 1893,
+        "publisher": "Scribner",
+        "price": "$1",
+        "note": null,
+        "noteSource": null
+      },
+      {
+        "authorName": "Nordhoff, Charles.",
+        "title": "Communistic societies of the United States.",
+        "publicationYear": 1875,
+        "publisher": "Harper",
+        "price": "$4",
+        "note": null,
+        "noteSource": null
+      },
+      {
+        "authorName": "Rae, John.",
+        "title": "Contemporary socialism.",
+        "publicationYear": 1901,
+        "publisher": "Scribner",
+        "price": "$2.50",
+        "note": null,
+        "noteSource": null
+      },
+      {
+        "authorName": "Schäffle, A. E. F.",
+        "title": "Impossibility of social democracy; sup. to “The quintessence of socialism;” authorized Eng. ed. with pref. by Bernard Bosanquet.",
+        "publicationYear": 1892,
+        "publisher": "Scribner",
+        "price": "$1.25",
+        "note": null,
+        "noteSource": null
+      },
+      {
+        "authorName": "Schäffle, A. E. F.",
+        "title": "Quintessence of socialism; tr. under supervision of Bernard Bosanquet.",
+        "publicationYear": 1898,
+        "publisher": "Scribner",
+        "price": "$1",
+        "note": null,
+        "noteSource": null
+      },
+      {
+        "authorName": "Swift, Lindsay.",
+        "title": "Brook Farm; its members, scholars, and visitors.",
+        "publicationYear": 1900,
+        "publisher": "Macmillan",
+        "price": "$1.25",
+        "note": null,
+        "noteSource": null
+      },
+      {
+        "authorName": "Adams, H. C.",
+        "title": "Public debts; an essay in the science of finance.",
+        "publicationYear": 1888,
+        "publisher": "Appleton",
+        "price": "$2.50",
+        "note": null,
+        "noteSource": null
+      },
+      {
+        "authorName": "Adams, H. C.",
+        "title": "Science of finance; an investigation of public expenditures and public revenues.",
+        "publicationYear": 1898,
+        "publisher": "Holt",
+        "price": "$2.75",
+        "note": null,
+        "noteSource": null
+      },
+      {
+        "authorName": "Bastable, C. F.",
+        "title": "Public finance. 3d ed. rev.",
+        "publicationYear": 1903,
+        "publisher": "Macmillan",
+        "price": "$4 n",
+        "note": null,
+        "noteSource": null
+      },
+      {
+        "authorName": "Daniels, W. M.",
+        "title": "Elements of public finance, including the monetary system of the United States.",
+        "publicationYear": 1899,
+        "publisher": "Holt",
+        "price": "$1.50 n",
+        "note": null,
+        "noteSource": null
+      },
+      {
+        "authorName": "Dewey, D. R.",
+        "title": "Financial history of the United States.",
+        "publicationYear": 1903,
+        "publisher": "Longmans",
+        "price": "$2",
+        "note": null,
+        "noteSource": null
+      },
+      {
+        "authorName": "Noyes, A. D.",
+        "title": "Thirty years of American finance; a short financial history of the government and people of the United States, 1865-1896.",
+        "publicationYear": 1898,
+        "publisher": "Putnam",
+        "price": "$1.25",
+        "note": null,
+        "noteSource": null
+      },
+      {
+        "authorName": "Plehn, C. C.",
+        "title": "Introduction to public finance.",
+        "publicationYear": 1897,
+        "publisher": "Macmillan",
+        "price": "$1.60 n",
+        "note": null,
+        "noteSource": null
+      },
+      {
+        "authorName": "Seligman, E. R. A.",
+        "title": "Essays in taxation.",
+        "publicationYear": 1895,
+        "publisher": "Macmillan",
+        "price": "$3 n",
+        "note": null,
+        "noteSource": null
+      },
+      {
+        "authorName": "Wells, D. A.",
+        "title": "Theory and practice of taxation.",
+        "publicationYear": 1900,
+        "publisher": "Appleton",
+        "price": "$2",
+        "note": null,
+        "noteSource": null
+      },
+      {
+        "authorName": "Bastable, C. F.",
+        "title": "Commerce of nations. 3d ed. rev.",
+        "publicationYear": 1899,
+        "publisher": "Scribner",
+        "price": "$1 n",
+        "note": null,
+        "noteSource": null
+      },
+      {
+        "authorName": "Bastable, C. F.",
+        "title": "Theory of international trade, with some of its applications to economic policy. 4th ed. rev.",
+        "publicationYear": 1903,
+        "publisher": "Macmillan",
+        "price": "$1.25 n",
+        "note": null,
+        "noteSource": null
+      },
+      {
+        "authorName": "Bastiat, Frédéric.",
+        "title": "Sophisms of protection.",
+        "publicationYear": 1877,
+        "publisher": "Putnam",
+        "price": "$1",
+        "note": null,
+        "noteSource": null
+      },
+      {
+        "authorName": "George, Henry.",
+        "title": "Protection or free trade: an examination of the tariff question with especial regard to the interests of labor.",
+        "publicationYear": 1891,
+        "publisher": "Doubleday",
+        "price": "$1",
+        "note": null,
+        "noteSource": null
+      },
+      {
+        "authorName": "Laughlin, J. L., & Willis, H. P.",
+        "title": "Reciprocity.",
+        "publicationYear": 1903,
+        "publisher": "Baker & T.",
+        "price": "$2 n",
+        "note": null,
+        "noteSource": null
+      },
+      {
+        "authorName": "Stanwood, Edward.",
+        "title": "American tariff controversies in the nineteenth century. 2 v.",
+        "publicationYear": 1903,
+        "publisher": "Houghton",
+        "price": "$5 n",
+        "note": null,
+        "noteSource": null
+      },
+      {
+        "authorName": "Sumner, W. G.",
+        "title": "Protectionism: the -ism which teaches that waste makes wealth.",
+        "publicationYear": 1888,
+        "publisher": "Holt",
+        "price": "$1",
+        "note": null,
+        "noteSource": null
+      },
+      {
+        "authorName": "Taussig, F. W.",
+        "title": "The tariff history of the United States; a series of essays.",
+        "publicationYear": 1898,
+        "publisher": "Putnam",
+        "price": "$1.25",
+        "note": null,
+        "noteSource": null
+      },
+      {
+        "authorName": "Ashley, W. J. ed.",
+        "title": "British industries; a series of general reviews for business men and students.",
+        "publicationYear": 1903,
+        "publisher": "Longmans",
+        "price": "$1.80 n",
+        "note": null,
+        "noteSource": null
+      },
+      {
+        "authorName": "Baker, C. W.",
+        "title": "Monopolies and the people. 3d ed. rev.",
+        "publicationYear": 1899,
+        "publisher": "Putnam",
+        "price": "$1.50",
+        "note": null,
+        "noteSource": null
+      },
+      {
+        "authorName": "Bridge, J. H.",
+        "title": "The trust: its book; a presentation of the several aspects of the latest form of industrial evolution.",
+        "publicationYear": 1902,
+        "publisher": "Doubleday",
+        "price": "$1.25 n",
+        "note": null,
+        "noteSource": null
+      },
+      {
+        "authorName": "Chittenden, H. M.",
+        "title": "American fur trade of the far West; a history of the pioneer trading posts and early fur companies of the Missouri valley and the Rocky mountains and of the overland commerce with Santa Fé. 3 v.",
+        "publicationYear": 1902,
+        "publisher": "Harper",
+        "price": "$10 n",
+        "note": null,
+        "noteSource": null
+      },
+      {
+        "authorName": "Clark, J. B.",
+        "title": "Control of trusts.",
+        "publicationYear": 1901,
+        "publisher": "Macmillan",
+        "price": "60c n",
+        "note": null,
+        "noteSource": null
+      },
+      {
+        "authorName": "Collier, W. M.",
+        "title": "The trusts. What can we do with them? What can they do for us?",
+        "publicationYear": 1900,
+        "publisher": "Twentieth cent. press",
+        "price": "$1.25",
+        "note": null,
+        "noteSource": null
+      },
+      {
+        "authorName": "Crookes, W.",
+        "title": "The wheat problem; based on presidential address to the British association, 1898; rev. with chapters on the future wheat supply of the United States, by C. W. Davis and John Hyde.",
+        "publicationYear": 1900,
+        "publisher": "Putnam",
+        "price": "$1.25",
+        "note": null,
+        "noteSource": null
+      },
+      {
+        "authorName": "Edgar, W. C.",
+        "title": "Story of a grain of wheat.",
+        "publicationYear": 1903,
+        "publisher": "Appleton",
+        "price": "$1",
+        "note": null,
+        "noteSource": null
+      },
+      {
+        "authorName": "Ely, R. T.",
+        "title": "Monopolies and trusts.",
+        "publicationYear": 1900,
+        "publisher": "Macmillan",
+        "price": "$1.25 n",
+        "note": null,
+        "noteSource": null
+      },
+      {
+        "authorName": "Hall, E. L. von.",
+        "title": "Trusts; or, Industrial combinations and coalitions in the United States.",
+        "publicationYear": 1899,
+        "publisher": "Macmillan",
+        "price": "$1.25",
+        "note": null,
+        "noteSource": null
+      },
+      {
+        "authorName": "Hobson, J. A.",
+        "title": "Evolution of modern capitalism: a study of machine production.",
+        "publicationYear": 1894,
+        "publisher": "Scribner",
+        "price": "$1.50",
+        "note": null,
+        "noteSource": null
+      },
+      {
+        "authorName": "Jenks, J. W.",
+        "title": "Trust problem. Rev. ed.",
+        "publicationYear": 1903,
+        "publisher": "McClure",
+        "price": "$1 n",
+        "note": null,
+        "noteSource": null
+      },
+      {
+        "authorName": "Kropotkin, P. A. prince.",
+        "title": "Fields, factories and workshops; or, Industry combined with agriculture and brain work with manual work.",
+        "publicationYear": 1901,
+        "publisher": "Putnam",
+        "price": "90c n",
+        "note": null,
+        "noteSource": null
+      },
+      {
+        "authorName": "Le Rossignol, J. E.",
+        "title": "Monopolies past and present; an introductory study.",
+        "publicationYear": 1901,
+        "publisher": "Crowell",
+        "price": "$1.25",
+        "note": null,
+        "noteSource": null
+      },
+      {
+        "authorName": "Lloyd, H. D.",
+        "title": "Wealth against commonwealth.",
+        "publicationYear": 1894,
+        "publisher": "Harper",
+        "price": "$2.50",
+        "note": null,
+        "noteSource": null
+      },
+      {
+        "authorName": "Macrosty, H. W.",
+        "title": "Trusts and the state; a sketch of competition.",
+        "publicationYear": 1901,
+        "publisher": "Dutton",
+        "price": "$2.50 n",
+        "note": null,
+        "noteSource": null
+      },
+      {
+        "authorName": "Meade, E. S.",
+        "title": "Trust finance; a study of the genesis, organization, and management of industrial combinations.",
+        "publicationYear": 1903,
+        "publisher": "Appleton",
+        "price": "$1.25 n",
+        "note": null,
+        "noteSource": null
+      },
+      {
+        "authorName": "Montague, G. H.",
+        "title": "The rise and progress of the Standard oil company.",
+        "publicationYear": 1903,
+        "publisher": "Harper",
+        "price": "$1 n",
+        "note": null,
+        "noteSource": null
+      },
+      {
+        "authorName": "Booth, Charles.",
+        "title": "Pauperism, a picture; and The endowment of old age, an argument.",
+        "publicationYear": 1892,
+        "publisher": "Macmillan",
+        "price": "$1.25",
+        "note": null,
+        "noteSource": null
+      },
+      {
+        "authorName": "Bosanquet, Mrs Helen (Dendy).",
+        "title": "Strength of the people; a study in social economics.",
+        "publicationYear": 1902,
+        "publisher": "Macmillan",
+        "price": "$2.75 n",
+        "note": null,
+        "noteSource": null
+      },
+      {
+        "authorName": "Willard, J. F.",
+        "title": "Tramping with tramps; studies and sketches of vagabond life, by Josiah Flynt.",
+        "publicationYear": 1894,
+        "publisher": "Century",
+        "price": "$1.50",
+        "note": null,
+        "noteSource": null
+      },
+      {
+        "authorName": "Baldwin, S. E.",
+        "title": "Modern political institutions.",
+        "publicationYear": 1898,
+        "publisher": "Little",
+        "price": "$2 n",
+        "note": null,
+        "noteSource": null
+      },
+      {
+        "authorName": "Bouvier, John.",
+        "title": "Bouvier's law dictionary; new ed. rev. by Francis Rawle. 2 v.",
+        "publicationYear": 1897,
+        "publisher": "Boston bk. co.",
+        "price": "$12 n",
+        "note": null,
+        "noteSource": null
+      },
+      {
+        "authorName": "Bryce, James.",
+        "title": "Studies in history and jurisprudence.",
+        "publicationYear": 1901,
+        "publisher": "Clarendon",
+        "price": "$3.50",
+        "note": null,
+        "noteSource": null
+      },
+      {
+        "authorName": "Holland, T. E.",
+        "title": "Elements of jurisprudence. 9th ed.",
+        "publicationYear": 1900,
+        "publisher": "Clarendon",
+        "price": "$2.90",
+        "note": null,
+        "noteSource": null
+      },
+      {
+        "authorName": "Maine, Sir H. S.",
+        "title": "Ancient law, its connection with the early history of society and its relation to modern ideas. 3d Amer. ed. n. d.",
+        "publicationYear": null,
+        "publisher": "Holt",
+        "price": "$3.50",
+        "note": null,
+        "noteSource": null
+      },
+      {
+        "authorName": "Maine, Sir H. S.",
+        "title": "Dissertations on early law and custom.",
+        "publicationYear": 1886,
+        "publisher": "Holt",
+        "price": "$3.50",
+        "note": null,
+        "noteSource": null
+      },
+      {
+        "authorName": "Markby, Sir William.",
+        "title": "Elements of law considered with reference to principles of general jurisprudence. 5th ed.",
+        "publicationYear": 1896,
+        "publisher": "Clarendon",
+        "price": "$5",
+        "note": null,
+        "noteSource": null
+      },
+      {
+        "authorName": "Davis, G. B.",
+        "title": "Treatise on international law, including American diplomacy; introd. by H. C. Lodge; annot. and rev. by P. J. Healy.",
+        "publicationYear": 1901,
+        "publisher": "Neefe-Davidson",
+        "price": "$3.50",
+        "note": null,
+        "noteSource": null
+      },
+      {
+        "authorName": "Taylor, Hannis.",
+        "title": "Treatise on international public law.",
+        "publicationYear": 1901,
+        "publisher": "Callaghan",
+        "price": "$6.50 n",
+        "note": null,
+        "noteSource": null
+      },
+      {
+        "authorName": "Woolsey, T. D.",
+        "title": "Introduction to the study of international law. 6th ed. rev. by T. S. Woolsey.",
+        "publicationYear": 1901,
+        "publisher": "Scribner",
+        "price": "$2.50",
+        "note": null,
+        "noteSource": null
+      },
+      {
+        "authorName": "Andrews, I. W.",
+        "title": "Manual of the constitution of the United States, rev. by Homer Morris.",
+        "publicationYear": 1900,
+        "publisher": "Elder",
+        "price": "$1",
+        "note": null,
+        "noteSource": null
+      },
+      {
+        "authorName": "Anson, Sir W. R.",
+        "title": "Law and custom of the constitution. 3d ed.",
+        "publicationYear": 1897,
+        "publisher": "Clarendon",
+        "price": "v. 1, $2; v. 2, pt. 1, $2.50",
+        "note": null,
+        "noteSource": null
+      },
+      {
+        "authorName": "Ashley, R. L.",
+        "title": "American federal state; text-book in civics.",
+        "publicationYear": 1902,
+        "publisher": "Macmillan",
+        "price": "$2 n",
+        "note": null,
+        "noteSource": null
+      },
+      {
+        "authorName": "Bagehot, Walter.",
+        "title": "English constitution, and other political essays. Rev. ed.",
+        "publicationYear": 1902,
+        "publisher": "Appleton",
+        "price": "$2",
+        "note": null,
+        "noteSource": null
+      },
+      {
+        "authorName": "Blauvelt, M. T.",
+        "title": "Development of cabinet government in England.",
+        "publicationYear": 1902,
+        "publisher": "Macmillan",
+        "price": "$1.50 n",
+        "note": null,
+        "noteSource": null
+      },
+      {
+        "authorName": "Bodley, J. E. C.",
+        "title": "France. 2v.",
+        "publicationYear": 1898,
+        "publisher": "Macmillan",
+        "price": "$2.50 n",
+        "note": null,
+        "noteSource": null
+      },
+      {
+        "authorName": "Bourinot, Sir J. G.",
+        "title": "How Canada is governed. 5th ed.",
+        "publicationYear": 1902,
+        "publisher": "Copp",
+        "price": "$1",
+        "note": null,
+        "noteSource": null
+      },
+      {
+        "authorName": "Bourinot, Sir J. G.",
+        "title": "Manual of the constitutional history of Canada to 1901. Rev. ed.",
+        "publicationYear": 1901,
+        "publisher": "Copp",
+        "price": "50c n",
+        "note": null,
+        "noteSource": null
+      },
+      {
+        "authorName": "Bryce, James.",
+        "title": "American commonwealth. 3d ed. rev. 2 v.",
+        "publicationYear": 1895,
+        "publisher": "Macmillan",
+        "price": "$4 n",
+        "note": null,
+        "noteSource": null
+      },
+      {
+        "authorName": "Burgess, J. W.",
+        "title": "Political science and comparative constitutional law. 2 v.",
+        "publicationYear": 1902,
+        "publisher": "Ginn",
+        "price": "$5",
+        "note": null,
+        "noteSource": null
+      },
+      {
+        "authorName": "Cooley, T. M.",
+        "title": "General principles of constitutional law in the United States of America; 3d ed. by A. C. McLaughlin.",
+        "publicationYear": 1901,
+        "publisher": "Little",
+        "price": "$2.50 n",
+        "note": null,
+        "noteSource": null
+      },
+      {
+        "authorName": "Courtney, L. H.",
+        "title": "Working constitution of the United Kingdom.",
+        "publicationYear": 1901,
+        "publisher": "Macmillan",
+        "price": "$2 n",
+        "note": null,
+        "noteSource": null
+      },
+      {
+        "authorName": "Dicey, A. V.",
+        "title": "Introduction to the study of the law of the constitution. 6th ed.",
+        "publicationYear": 1902,
+        "publisher": "Macmillan",
+        "price": "$3.50",
+        "note": null,
+        "noteSource": null
+      },
+      {
+        "authorName": "Federalist. The.",
+        "title": "The Federalist; a commentary on the Constitution of the United States; reprinted fr. the original text of Alexander Hamilton, John Jay and James Madison; ed. by H. C. Lodge.",
+        "publicationYear": 1902,
+        "publisher": "Putnam",
+        "price": "$1.50",
+        "note": null,
+        "noteSource": null
+      },
+      {
+        "authorName": "Fiske, John.",
+        "title": "Civil government in the United States, considered with some reference to its origins. New ed.",
+        "publicationYear": 1904,
+        "publisher": "Houghton",
+        "price": "$1 n",
+        "note": null,
+        "noteSource": null
+      },
+      {
+        "authorName": "Ford, H. J.",
+        "title": "Rise and growth of American politics; a sketch of constitutional development.",
+        "publicationYear": 1898,
+        "publisher": "Macmillan",
+        "price": "$1.50",
+        "note": null,
+        "noteSource": null
+      },
+      {
+        "authorName": "Fowler, W. W.",
+        "title": "City-state of the Greeks and Romans.",
+        "publicationYear": 1895,
+        "publisher": "Macmillan",
+        "price": "$1 n",
+        "note": null,
+        "noteSource": null
+      },
+      {
+        "authorName": "Freeman, E. A.",
+        "title": "Growth of the English constitution from the earliest times.",
+        "publicationYear": 1888,
+        "publisher": "Macmillan",
+        "price": "$1.75",
+        "note": null,
+        "noteSource": null
+      },
+      {
+        "authorName": "Frothingham, Richard.",
+        "title": "Rise of the republic of the United States [1642-1790]. 6th ed.",
+        "publicationYear": 1902,
+        "publisher": "Little",
+        "price": "$3.50",
+        "note": null,
+        "noteSource": null
+      },
+      {
+        "authorName": "Fustel de Coulanges, N. D.",
+        "title": "The ancient city; a study on the religion, laws and institutions of Greece and Rome; tr. by Willard Small. 10th ed.",
+        "publicationYear": 1901,
+        "publisher": "Lee",
+        "price": "$2",
+        "note": null,
+        "noteSource": null
+      },
+      {
+        "authorName": "Hallam, Henry.",
+        "title": "Constitutional history of England, from Henry VII to George II [1485-1760]. 2 v.",
+        "publicationYear": 1896,
+        "publisher": "Armstrong",
+        "price": "$2.50",
+        "note": null,
+        "noteSource": null
+      },
+      {
+        "authorName": "Hart, A. B.",
+        "title": "Actual government as applied under American conditions.",
+        "publicationYear": 1903,
+        "publisher": "Longmans",
+        "price": "$2",
+        "note": null,
+        "noteSource": null
+      },
+      {
+        "authorName": "Holst, H. E. von.",
+        "title": "Constitutional and political history of the United States [to 1861] 8 v.",
+        "publicationYear": 1892,
+        "publisher": "Callaghan",
+        "price": "$12 n",
+        "note": null,
+        "noteSource": null
+      },
+      {
+        "authorName": "Hoxie, C. De F.",
+        "title": "How the people rule; civics for boys and girls.",
+        "publicationYear": 1903,
+        "publisher": "Silver",
+        "price": "40c n",
+        "note": null,
+        "noteSource": null
+      },
+      {
+        "authorName": "James, J. A., & Sanford, A. H.",
+        "title": "Government in state and nation.",
+        "publicationYear": 1901,
+        "publisher": "Scribner",
+        "price": "$1 n",
+        "note": null,
+        "noteSource": null
+      },
+      {
+        "authorName": "Lowell, A. L.",
+        "title": "Governments and parties in continental Europe. 2 v.",
+        "publicationYear": 1896,
+        "publisher": "Houghton",
+        "price": "$5",
+        "note": null,
+        "noteSource": null
+      },
+      {
+        "authorName": "Macy, Jesse.",
+        "title": "English constitution.",
+        "publicationYear": 1903,
+        "publisher": "Macmillan",
+        "price": "$2 n",
+        "note": null,
+        "noteSource": null
+      },
+      {
+        "authorName": "May, T. E. baron Farnborough.",
+        "title": "Constitutional history of England [1760-1860]; with a new supplementary chapter, 1861-71. 11th ed. 3 v.",
+        "publicationYear": 1896,
+        "publisher": "Longmans",
+        "price": "$4.50",
+        "note": null,
+        "noteSource": null
+      },
+      {
+        "authorName": "Medley, D. J.",
+        "title": "Student's manual of English constitutional history. 2d ed.",
+        "publicationYear": 1898,
+        "publisher": "Macmillan",
+        "price": "$3.50 n",
+        "note": null,
+        "noteSource": null
+      },
+      {
+        "authorName": "Merriam, C. E.",
+        "title": "History of American political theories, 1865.",
+        "publicationYear": 1903,
+        "publisher": "Macmillan",
+        "price": "$1.50 n",
+        "note": null,
+        "noteSource": null
+      },
+      {
+        "authorName": "Stubbs, William.",
+        "title": "Constitutional history of England in its origin and development [to 1485] 3 v.",
+        "publicationYear": 1897,
+        "publisher": "Clarendon press",
+        "price": "$2.60 ea",
+        "note": null,
+        "noteSource": null
+      },
+      {
+        "authorName": "Tocqueville, Alexis de.",
+        "title": "Democracy in America; translation by Henry Reeve, as rev. and annot. by Francis Bowen; introd. by D. C. Gilman. 2 v.",
+        "publicationYear": 1898,
+        "publisher": "Century",
+        "price": "$5",
+        "note": null,
+        "noteSource": null
+      },
+      {
+        "authorName": "Vincent, J. M.",
+        "title": "Government in Switzerland.",
+        "publicationYear": 1900,
+        "publisher": "Macmillan",
+        "price": "$1.25 n",
+        "note": null,
+        "noteSource": null
+      },
+      {
+        "authorName": "Blackstone, Sir William.",
+        "title": "Commentaries on the laws of England; with analysis and notes by T. M. Cooley; 4th ed. by J. D. Andrews. 2 v.",
+        "publicationYear": 1899,
+        "publisher": "Callaghan",
+        "price": "$9 n",
+        "note": null,
+        "noteSource": null
+      },
+      {
+        "authorName": "Burdick, F. M.",
+        "title": "Essentials of business law.",
+        "publicationYear": 1902,
+        "publisher": "Appleton",
+        "price": "$1.10 n",
+        "note": null,
+        "noteSource": null
+      },
+      {
+        "authorName": "Holmes, O. W. jr.",
+        "title": "The common law.",
+        "publicationYear": 1881,
+        "publisher": "Little",
+        "price": "$3",
+        "note": null,
+        "noteSource": null
+      },
+      {
+        "authorName": "Pollock, Sir Frederick.",
+        "title": "First book of jurisprudence for students of the common law.",
+        "publicationYear": 1896,
+        "publisher": "Macmillan",
+        "price": "$1.75",
+        "note": null,
+        "noteSource": null
+      },
+      {
+        "authorName": "Hadley, James.",
+        "title": "Introduction to Roman law.",
+        "publicationYear": 1904,
+        "publisher": "Appleton",
+        "price": "$1.25",
+        "note": null,
+        "noteSource": null
+      },
+      {
+        "authorName": "Goodnow, F. J.",
+        "title": "Comparative administrative law; an analysis of the administrative systems, national and local, of the United States, England, France and Germany. Student's ed. 2 v.",
+        "publicationYear": 1903,
+        "publisher": "Putnam",
+        "price": "$3",
+        "note": null,
+        "noteSource": null
+      },
+      {
+        "authorName": "Goodnow, F. J.",
+        "title": "Politics and administration; a study in government.",
+        "publicationYear": 1900,
+        "publisher": "Macmillan",
+        "price": "$1.50 n",
+        "note": null,
+        "noteSource": null
+      },
+      {
+        "authorName": "Wilson, Woodrow.",
+        "title": "The state; elements of historical and practical politics.",
+        "publicationYear": 1898,
+        "publisher": "Heath",
+        "price": "$2",
+        "note": null,
+        "noteSource": null
+      },
+      {
+        "authorName": "Booth, Charles.",
+        "title": "Old age pensions.",
+        "publicationYear": 1899,
+        "publisher": "Macmillan",
+        "price": "$2.50",
+        "note": null,
+        "noteSource": null
+      },
+      {
+        "authorName": "Leupp, F. E.",
+        "title": "How to prepare for a civil service examination, with recent questions and answers.",
+        "publicationYear": 1899,
+        "publisher": "Hinds",
+        "price": "$2",
+        "note": null,
+        "noteSource": null
+      },
+      {
+        "authorName": "Bemis, E. W. ed.",
+        "title": "Municipal monopolies.",
+        "publicationYear": 1899,
+        "publisher": "Crowell",
+        "price": "$2",
+        "note": null,
+        "noteSource": null
+      },
+      {
+        "authorName": "Ely, R. T.",
+        "title": "The coming city.",
+        "publicationYear": 1902,
+        "publisher": "Crowell",
+        "price": "60c n",
+        "note": null,
+        "noteSource": null
+      },
+      {
+        "authorName": "Fairlie, J. A.",
+        "title": "Municipal administration.",
+        "publicationYear": 1901,
+        "publisher": "Macmillan",
+        "price": "$3 n",
+        "note": null,
+        "noteSource": null
+      },
+      {
+        "authorName": "Goodhue, W. F.",
+        "title": "Municipal improvements; a manual of methods, utility, and cost of public improvements. 3d ed. rev.",
+        "publicationYear": 1904,
+        "publisher": "Wiley",
+        "price": "$1.75",
+        "note": null,
+        "noteSource": null
+      },
+      {
+        "authorName": "Goodnow, F. J.",
+        "title": "Municipal home rule; a study in administration.",
+        "publicationYear": 1895,
+        "publisher": "Macmillan",
+        "price": "$1.50 n",
+        "note": null,
+        "noteSource": null
+      },
+      {
+        "authorName": "Goodnow, F. J.",
+        "title": "Municipal problems.",
+        "publicationYear": 1897,
+        "publisher": "Macmillan",
+        "price": "$1.50 n",
+        "note": null,
+        "noteSource": null
+      },
+      {
+        "authorName": "National municipal league.",
+        "title": "A municipal program; report of a committee adopted Nov. 17, 1899; with other papers.",
+        "publicationYear": 1900,
+        "publisher": "Macmillan",
+        "price": "$1 n",
+        "note": null,
+        "noteSource": null
+      },
+      {
+        "authorName": "Shaw, Albert.",
+        "title": "Municipal government in continental Europe.",
+        "publicationYear": 1901,
+        "publisher": "Macmillan",
+        "price": "$2 n",
+        "note": null,
+        "noteSource": null
+      },
+      {
+        "authorName": "Shaw, Albert.",
+        "title": "Municipal government in Great Britain.",
+        "publicationYear": 1901,
+        "publisher": "Macmillan",
+        "price": "$2 n",
+        "note": null,
+        "noteSource": null
+      },
+      {
+        "authorName": "Weber, A. F.",
+        "title": "Growth of cities in the nineteenth century; study in statistics.",
+        "publicationYear": 1899,
+        "publisher": "Macmillan",
+        "price": "$4 n",
+        "note": null,
+        "noteSource": null
+      },
+      {
+        "authorName": "Zueblin, Charles.",
+        "title": "American municipal progress; chapters in municipal sociology.",
+        "publicationYear": 1902,
+        "publisher": "Macmillan",
+        "price": "$1.25 n",
+        "note": null,
+        "noteSource": null
+      },
+      {
+        "authorName": "Brooks, E. S.",
+        "title": "Century book for young Americans.",
+        "publicationYear": 1894,
+        "publisher": "Century",
+        "price": "$1.50",
+        "note": null,
+        "noteSource": null
+      },
+      {
+        "authorName": "Dole, C. F.",
+        "title": "Young citizen.",
+        "publicationYear": 1899,
+        "publisher": "Heath",
+        "price": "45c n",
+        "note": null,
+        "noteSource": null
+      },
+      {
+        "authorName": "Harrison, Benjamin.",
+        "title": "This country of ours.",
+        "publicationYear": 1897,
+        "publisher": "Scribner",
+        "price": "$1.50",
+        "note": null,
+        "noteSource": null
+      },
+      {
+        "authorName": "The ship of state, by those at the helm.",
+        "title": "The ship of state, by those at the helm.",
+        "publicationYear": 1903,
+        "publisher": "Ginn",
+        "price": "75c",
+        "note": null,
+        "noteSource": null
+      },
+      {
+        "authorName": "Firth, C. H.",
+        "title": "Cromwell's army; a history of the English soldier during the civil wars, the commonwealth and the protectorate.",
+        "publicationYear": 1902,
+        "publisher": "Methuen 7/6; Pott",
+        "price": "$1.75 n",
+        "note": null,
+        "noteSource": null
+      },
+      {
+        "authorName": "Hancock, H. I.",
+        "title": "Life at West Point.",
+        "publicationYear": 1902,
+        "publisher": "Putnam",
+        "price": "$1.40 n",
+        "note": null,
+        "noteSource": null
+      },
+      {
+        "authorName": "Brackett, J. R.",
+        "title": "Supervision and education in charity.",
+        "publicationYear": 1903,
+        "publisher": "Macmillan",
+        "price": "$1 n",
+        "note": null,
+        "noteSource": null
+      },
+      {
+        "authorName": "Henderson, C. R.",
+        "title": "Introduction to the study of the dependent, defective, and delinquent classes; and of their social treatment. 2d ed.",
+        "publicationYear": 1901,
+        "publisher": "Heath",
+        "price": "$1.50 n",
+        "note": null,
+        "noteSource": null
+      },
+      {
+        "authorName": "Devine, E. T.",
+        "title": "Practice of charity; individual, associated and organized.",
+        "publicationYear": 1901,
+        "publisher": "Lentilhon & co.",
+        "price": "65c n",
+        "note": null,
+        "noteSource": null
+      },
+      {
+        "authorName": "Loch, C. S.",
+        "title": "Charity organization. 2d ed.",
+        "publicationYear": 1892,
+        "publisher": "Scribner",
+        "price": "$1",
+        "note": null,
+        "noteSource": null
+      },
+      {
+        "authorName": "Philanthropy and social progress; seven essays with introd. by H. C. Adams.",
+        "title": "Philanthropy and social progress; seven essays with introd. by H. C. Adams.",
+        "publicationYear": 1893,
+        "publisher": "Crowell",
+        "price": "$1.50",
+        "note": null,
+        "noteSource": null
+      },
+      {
+        "authorName": "Warner, A. G.",
+        "title": "American charities; a study of philanthropy and economics.",
+        "publicationYear": 1894,
+        "publisher": "Crowell",
+        "price": "$1.75",
+        "note": null,
+        "noteSource": null
+      },
+      {
+        "authorName": "Folks, Homer.",
+        "title": "Care of destitute, neglected, and delinquent children.",
+        "publicationYear": 1902,
+        "publisher": "Macmillan",
+        "price": "$1",
+        "note": null,
+        "noteSource": null
+      },
+      {
+        "authorName": "Boies, H. M.",
+        "title": "Science of penology; the defence of society against crime.",
+        "publicationYear": 1901,
+        "publisher": "Putnam",
+        "price": "$3.50 n",
+        "note": null,
+        "noteSource": null
+      },
+      {
+        "authorName": "Booth, Maud B. (Charlesworth).",
+        "title": "After prison—What?",
+        "publicationYear": 1903,
+        "publisher": "Revell",
+        "price": "$1.25 n",
+        "note": null,
+        "noteSource": null
+      },
+      {
+        "authorName": "Dugdale, R. L.",
+        "title": "“The Jukes”; a study in crime, pauperism, disease and heredity. 5th ed.",
+        "publicationYear": 1895,
+        "publisher": "Putnam",
+        "price": "$1",
+        "note": null,
+        "noteSource": null
+      },
+      {
+        "authorName": "Ellis, Havelock.",
+        "title": "The criminal. 2d ed.",
+        "publicationYear": 1900,
+        "publisher": "Scribner",
+        "price": "$1.50",
+        "note": null,
+        "noteSource": null
+      },
+      {
+        "authorName": "Morrison, W. D.",
+        "title": "Crime and its causes.",
+        "publicationYear": 1891,
+        "publisher": "Scribner",
+        "price": "$1",
+        "note": null,
+        "noteSource": null
+      },
+      {
+        "authorName": "Morrison, W. D.",
+        "title": "Juvenile offenders.",
+        "publicationYear": 1897,
+        "publisher": "Appleton",
+        "price": "$1.50",
+        "note": null,
+        "noteSource": null
+      },
+      {
+        "authorName": "Tallack, William.",
+        "title": "Penological and preventive principles, with special reference to Europe and America, and to crime, pauperism and their prevention. 2d ed.",
+        "publicationYear": 1896,
+        "publisher": "Wertheimer",
+        "price": "8/",
+        "note": null,
+        "noteSource": null
+      },
+      {
+        "authorName": "Wines, F. H.",
+        "title": "Punishment and reformation; an historical sketch of the rise of the penitentiary system.",
+        "publicationYear": 1895,
+        "publisher": "Crowell",
+        "price": "$1.75",
+        "note": null,
+        "noteSource": null
+      },
+      {
+        "authorName": "Butler, N. M.",
+        "title": "Meaning of education, and other essays and addresses.",
+        "publicationYear": 1903,
+        "publisher": "Macmillan",
+        "price": "$1",
+        "note": null,
+        "noteSource": null
+      },
+      {
+        "authorName": "Davidson, Thomas.",
+        "title": "Rousseau and education according to nature.",
+        "publicationYear": 1898,
+        "publisher": "Scribner",
+        "price": "$1 n",
+        "note": null,
+        "noteSource": null
+      },
+      {
+        "authorName": "De Garmo, Charles.",
+        "title": "Herbart and the Herbartians.",
+        "publicationYear": 1895,
+        "publisher": "Scribner",
+        "price": "$1 n",
+        "note": null,
+        "noteSource": null
+      },
+      {
+        "authorName": "De Garmo, Charles.",
+        "title": "Interest and education; the doctrine of interest and its concrete application.",
+        "publicationYear": 1902,
+        "publisher": "Macmillan",
+        "price": "$1 n",
+        "note": null,
+        "noteSource": null
+      },
+      {
+        "authorName": "Dewey, John.",
+        "title": "School and society.",
+        "publicationYear": 1900,
+        "publisher": "Chicago univ.",
+        "price": "$1",
+        "note": null,
+        "noteSource": null
+      },
+      {
+        "authorName": "Dutton, S. T.",
+        "title": "Social phases of education in the school and the home.",
+        "publicationYear": 1899,
+        "publisher": "Macmillan",
+        "price": "$1.25",
+        "note": null,
+        "noteSource": null
+      },
+      {
+        "authorName": "Eliot, C. W.",
+        "title": "Educational reform.",
+        "publicationYear": 1898,
+        "publisher": "Century",
+        "price": "$2",
+        "note": null,
+        "noteSource": null
+      },
+      {
+        "authorName": "Felkin, H. M., & Felkin, Mrs Emmie.",
+        "title": "Introduction to Herbart's Science and practice of education; with a pref. by Oscar Browning.",
+        "publicationYear": 1900,
+        "publisher": "Heath",
+        "price": "$1",
+        "note": null,
+        "noteSource": null
+      },
+      {
+        "authorName": "Fitch, Sir J. G.",
+        "title": "Educational aims and methods; lectures and addresses.",
+        "publicationYear": 1900,
+        "publisher": "Macmillan",
+        "price": "$1.25 n",
+        "note": null,
+        "noteSource": null
+      },
+      {
+        "authorName": "Henderson, C. H.",
+        "title": "Education and the larger life.",
+        "publicationYear": 1902,
+        "publisher": "Houghton",
+        "price": "$1.30 n",
+        "note": null,
+        "noteSource": null
+      },
+      {
+        "authorName": "Hughes, R. E.",
+        "title": "The making of citizens; a study in comparative education.",
+        "publicationYear": 1902,
+        "publisher": "Scribner",
+        "price": "$1.50",
+        "note": null,
+        "noteSource": null
+      },
+      {
+        "authorName": "Huxley, T. H.",
+        "title": "Science and education.",
+        "publicationYear": 1901,
+        "publisher": "Appleton",
+        "price": "$1.25",
+        "note": null,
+        "noteSource": null
+      },
+      {
+        "authorName": "James, William.",
+        "title": "Talks to teachers on psychology; and to students on some of life's ideals.",
+        "publicationYear": 1899,
+        "publisher": "Holt",
+        "price": "$1.50",
+        "note": null,
+        "noteSource": null
+      },
+      {
+        "authorName": "Locke, John.",
+        "title": "Some thoughts concerning education; with introd. and notes by R. H. Quick.",
+        "publicationYear": 1902,
+        "publisher": "Macmillan",
+        "price": "$1 n",
+        "note": null,
+        "noteSource": null
+      },
+      {
+        "authorName": "McMurry, C. A.",
+        "title": "Elements of general method. Rev. ed.",
+        "publicationYear": 1903,
+        "publisher": "Macmillan",
+        "price": "90c n",
+        "note": null,
+        "noteSource": null
+      },
+      {
+        "authorName": "Mullany, P. F.",
+        "title": "Essays educational; by Brother Azarias.",
+        "publicationYear": 1886,
+        "publisher": "McBride",
+        "price": "$1.50",
+        "note": null,
+        "noteSource": null
+      },
+      {
+        "authorName": "National educational association.",
+        "title": "Journal of proceedings. Latest vol.",
+        "publicationYear": null,
+        "publisher": "",
+        "price": "$2",
+        "note": null,
+        "noteSource": null
+      },
+      {
+        "authorName": "Oppenheim, Nathan.",
+        "title": "Mental growth and control.",
+        "publicationYear": 1902,
+        "publisher": "Macmillan",
+        "price": "$1 n",
+        "note": null,
+        "noteSource": null
+      },
+      {
+        "authorName": "Spalding, J. L. bp.",
+        "title": "Means and ends of education.",
+        "publicationYear": 1895,
+        "publisher": "McClurg",
+        "price": "$1",
+        "note": null,
+        "noteSource": null
+      },
+      {
+        "authorName": "Spencer, Herbert.",
+        "title": "Education; intellectual, moral and physical.",
+        "publicationYear": 1900,
+        "publisher": "Appleton",
+        "price": "$1.25",
+        "note": null,
+        "noteSource": null
+      },
+      {
+        "authorName": "Compayré, Gabriel.",
+        "title": "History of pedagogy; tr. by W. H. Payne.",
+        "publicationYear": 1899,
+        "publisher": "Heath",
+        "price": "$1.50",
+        "note": null,
+        "noteSource": null
+      },
+      {
+        "authorName": "Cubberley, E. P.",
+        "title": "Syllabus of lectures on the history of education, with selected bibliographies. 2 v.",
+        "publicationYear": 1902,
+        "publisher": "Macmillan",
+        "price": "$2.50 n",
+        "note": null,
+        "noteSource": null
+      },
+      {
+        "authorName": "Davidson, Thomas.",
+        "title": "Education of the Greek people and its influence on civilization.",
+        "publicationYear": 1894,
+        "publisher": "Appleton",
+        "price": "$1.50",
+        "note": null,
+        "noteSource": null
+      },
+      {
+        "authorName": "Davidson, Thomas.",
+        "title": "History of education.",
+        "publicationYear": 1900,
+        "publisher": "Scribner",
+        "price": "$1 n",
+        "note": null,
+        "noteSource": null
+      },
+      {
+        "authorName": "Kemp, E. L.",
+        "title": "History of education.",
+        "publicationYear": 1902,
+        "publisher": "Lippincott",
+        "price": "$1.25",
+        "note": null,
+        "noteSource": null
+      },
+      {
+        "authorName": "Quick, R. H.",
+        "title": "Essays on educational reformers.",
+        "publicationYear": 1890,
+        "publisher": "Appleton",
+        "price": "$1.50",
+        "note": null,
+        "noteSource": null
+      },
+      {
+        "authorName": "Ware, Fabian.",
+        "title": "Educational foundations of trade and industry.",
+        "publicationYear": 1901,
+        "publisher": "Appleton",
+        "price": "$1.20 n",
+        "note": null,
+        "noteSource": null
+      },
+      {
+        "authorName": "Burrage, Severance, & Bailey, H. T.",
+        "title": "School sanitation and decoration.",
+        "publicationYear": 1899,
+        "publisher": "Heath",
+        "price": "$1.50",
+        "note": null,
+        "noteSource": null
+      },
+      {
+        "authorName": "Dutton, S. T.",
+        "title": "School management; practical suggestions concerning the conduct and life of the school.",
+        "publicationYear": 1903,
+        "publisher": "Scribner",
+        "price": "$1 n",
+        "note": null,
+        "noteSource": null
+      },
+      {
+        "authorName": "Fitch, Sir J. G.",
+        "title": "Lectures on teaching. New ed.",
+        "publicationYear": 1901,
+        "publisher": "Macmillan",
+        "price": "$1 n",
+        "note": null,
+        "noteSource": null
+      },
+      {
+        "authorName": "Ham, C. H.",
+        "title": "Mind and hand; manual training the chief factor in education.",
+        "publicationYear": 1900,
+        "publisher": "Amer. bk. co.",
+        "price": "$1.25",
+        "note": null,
+        "noteSource": null
+      },
+      {
+        "authorName": "Hinsdale, B. A.",
+        "title": "Art of study; a manual for teachers and students of the science and the art of teaching.",
+        "publicationYear": 1901,
+        "publisher": "Amer. bk. co.",
+        "price": "$1",
+        "note": null,
+        "noteSource": null
+      },
+      {
+        "authorName": "McMurry, C. A. & F. M.",
+        "title": "Method of the recitation.",
+        "publicationYear": 1903,
+        "publisher": "Macmillan",
+        "price": "90c n",
+        "note": null,
+        "noteSource": null
+      },
+      {
+        "authorName": "Parker, F. W.",
+        "title": "Talks on teaching. 15th ed.",
+        "publicationYear": 1903,
+        "publisher": "Kellogg",
+        "price": "$1",
+        "note": null,
+        "noteSource": null
+      },
+      {
+        "authorName": "Schaeffer, N. C.",
+        "title": "Thinking and learning to think.",
+        "publicationYear": 1900,
+        "publisher": "Lippincott",
+        "price": "$1.25 n",
+        "note": null,
+        "noteSource": null
+      },
+      {
+        "authorName": "Shaw, E. R.",
+        "title": "School hygiene.",
+        "publicationYear": 1901,
+        "publisher": "Macmillan",
+        "price": "$1 n",
+        "note": null,
+        "noteSource": null
+      },
+      {
+        "authorName": "White, E. E.",
+        "title": "School management.",
+        "publicationYear": 1893,
+        "publisher": "Amer. bk. co.",
+        "price": "$1",
+        "note": null,
+        "noteSource": null
+      },
+      {
+        "authorName": "National educational association.",
+        "title": "Report of the Committee of fifteen on elementary education, with the reports of the subcommittees: on the training of teachers; on the correlation of studies in elementary education; on the organization of city school systems.",
+        "publicationYear": 1895,
+        "publisher": "Amer. bk. co.",
+        "price": "30c",
+        "note": null,
+        "noteSource": null
+      },
+      {
+        "authorName": "Oppenheim, Nathan.",
+        "title": "Development of the child.",
+        "publicationYear": 1902,
+        "publisher": "Macmillan",
+        "price": "$1.25 n",
+        "note": null,
+        "noteSource": null
+      },
+      {
+        "authorName": "Warner, Francis.",
+        "title": "Study of children and their school training.",
+        "publicationYear": 1897,
+        "publisher": "Macmillan",
+        "price": "$1 n",
+        "note": null,
+        "noteSource": null
+      },
+      {
+        "authorName": "Blow, S. E.",
+        "title": "Letters to a mother on the philosophy of Froebel.",
+        "publicationYear": 1899,
+        "publisher": "Appleton",
+        "price": "$1.50",
+        "note": null,
+        "noteSource": null
+      },
+      {
+        "authorName": "Blow, S. E.",
+        "title": "Symbolic education; a commentary on Froebel's “Mother play.”",
+        "publicationYear": 1894,
+        "publisher": "Appleton",
+        "price": "$1.50",
+        "note": null,
+        "noteSource": null
+      },
+      {
+        "authorName": "Froebel, Friedrich.",
+        "title": "Education of man; tr. and annot. by W. N. Hailmann.",
+        "publicationYear": 1903,
+        "publisher": "Appleton",
+        "price": "$1.50",
+        "note": null,
+        "noteSource": null
+      },
+      {
+        "authorName": "Froebel, Friedrich.",
+        "title": "Songs and music of Mother play newly tr. and furnished with new music; prepared and arr. by S. E. Blow.",
+        "publicationYear": 1895,
+        "publisher": "Appleton",
+        "price": "$1.50",
+        "note": null,
+        "noteSource": null
+      },
+      {
+        "authorName": "Harrison, Elizabeth.",
+        "title": "Study of child-nature.",
+        "publicationYear": 1891,
+        "publisher": "Chic. kind. tr. school",
+        "price": "$1 n",
+        "note": null,
+        "noteSource": null
+      },
+      {
+        "authorName": "Hughes, J. L.",
+        "title": "Froebel's educational laws for all teachers.",
+        "publicationYear": 1897,
+        "publisher": "Appleton",
+        "price": "$1.50",
+        "note": null,
+        "noteSource": null
+      },
+      {
+        "authorName": "Poulsson, Emilie.",
+        "title": "In the child's world.",
+        "publicationYear": 1893,
+        "publisher": "Bradley",
+        "price": "$2",
+        "note": null,
+        "noteSource": null
+      },
+      {
+        "authorName": "Smith, N. A.",
+        "title": "Children of the future.",
+        "publicationYear": 1898,
+        "publisher": "Houghton",
+        "price": "$1",
+        "note": null,
+        "noteSource": null
+      },
+      {
+        "authorName": "Wiggin, Mrs K. D. (Smith), & Smith, N. A.",
+        "title": "Republic of childhood. 3 v.",
+        "publicationYear": 1896,
+        "publisher": "Houghton",
+        "price": "$1 ea",
+        "note": null,
+        "noteSource": null
+      },
+      {
+        "authorName": "Brown, E. E.",
+        "title": "Making of our middle schools; an account of the development of secondary education in the United States.",
+        "publicationYear": 1902,
+        "publisher": "Longmans",
+        "price": "$3",
+        "note": null,
+        "noteSource": null
+      },
+      {
+        "authorName": "Avebury, John Lubbock, 1st baron.",
+        "title": "Use of life.",
+        "publicationYear": 1900,
+        "publisher": "Macmillan",
+        "price": "$1.25",
+        "note": null,
+        "noteSource": null
+      },
+      {
+        "authorName": "Brookings, W. D., & Ringwalt, R. C. ed.",
+        "title": "Briefs for debate on current political, economic and social topics.",
+        "publicationYear": 1899,
+        "publisher": "Longmans",
+        "price": "$1.25",
+        "note": null,
+        "noteSource": null
+      },
+      {
+        "authorName": "Hale, E. E.",
+        "title": "How to do it; [called] How to live.",
+        "publicationYear": 1900,
+        "publisher": "Little",
+        "price": "$1",
+        "note": null,
+        "noteSource": null
+      },
+      {
+        "authorName": "Hazard, P. G.",
+        "title": "The intellectual life. Latest ed.",
+        "publicationYear": 1902,
+        "publisher": "Little",
+        "price": "$1.50 n",
+        "note": null,
+        "noteSource": null
+      },
+      {
+        "authorName": "Matson, Henry.",
+        "title": "References for literary workers, with introductions to topics and questions for debate.",
+        "publicationYear": 1892,
+        "publisher": "McClurg",
+        "price": "$2",
+        "note": null,
+        "noteSource": null
+      },
+      {
+        "authorName": "Munger, T. T.",
+        "title": "On the threshold. Rev. ed.",
+        "publicationYear": 1898,
+        "publisher": "Houghton",
+        "price": "$1",
+        "note": null,
+        "noteSource": null
+      },
+      {
+        "authorName": "Paine, H. E.",
+        "title": "Girls and women, by E. Chester.",
+        "publicationYear": 1898,
+        "publisher": "Longmans",
+        "price": "75c",
+        "note": null,
+        "noteSource": null
+      },
+      {
+        "authorName": "Smiles, Samuel.",
+        "title": "Self-help; with illustrations of character, conduct and perseverance.",
+        "publicationYear": 1903,
+        "publisher": "Harper",
+        "price": "$1",
+        "note": null,
+        "noteSource": null
+      },
+      {
+        "authorName": "Barnett, P. A.",
+        "title": "Common sense in education and teaching; an introduction to practice.",
+        "publicationYear": 1899,
+        "publisher": "Longmans",
+        "price": "$1.50",
+        "note": null,
+        "noteSource": null
+      },
+      {
+        "authorName": "National educational association.",
+        "title": "Report of the Committee of ten on secondary school studies; with the reports of the conferences arranged by the committee.",
+        "publicationYear": 1894,
+        "publisher": "Amer. bk. co.",
+        "price": "30c",
+        "note": null,
+        "noteSource": null
+      },
+      {
+        "authorName": "Lange, Helene.",
+        "title": "Higher education of women in Europe; tr. by L. R. Klemm.",
+        "publicationYear": 1890,
+        "publisher": "Appleton",
+        "price": "$1",
+        "note": null,
+        "noteSource": null
+      },
+      {
+        "authorName": "Thwing, C. F.",
+        "title": "The college woman.",
+        "publicationYear": 1894,
+        "publisher": "Baker & T.",
+        "price": "$1",
+        "note": null,
+        "noteSource": null
+      },
+      {
+        "authorName": "Adler, Felix.",
+        "title": "Moral instruction of children.",
+        "publicationYear": 1892,
+        "publisher": "Appleton",
+        "price": "$1.50",
+        "note": null,
+        "noteSource": null
+      },
+      {
+        "authorName": "Hughes, T. A.",
+        "title": "Loyola and the educational system of the Jesuits.",
+        "publicationYear": 1892,
+        "publisher": "Scribner",
+        "price": "$1 n",
+        "note": null,
+        "noteSource": null
+      },
+      {
+        "authorName": "Compayré, Gabriel.",
+        "title": "Abelard and the origin and early history of universities.",
+        "publicationYear": 1893,
+        "publisher": "Scribner",
+        "price": "$1 n",
+        "note": null,
+        "noteSource": null
+      },
+      {
+        "authorName": "Gilman, D. C.",
+        "title": "University problems in the United States.",
+        "publicationYear": 1898,
+        "publisher": "Century",
+        "price": "$2",
+        "note": null,
+        "noteSource": null
+      },
+      {
+        "authorName": "Newman, J. H. card.",
+        "title": "Idea of a university defined and illustrated.",
+        "publicationYear": 1892,
+        "publisher": "Longmans",
+        "price": "$1.25",
+        "note": null,
+        "noteSource": null
+      },
+      {
+        "authorName": "Smith, Goldwin.",
+        "title": "Oxford and her colleges.",
+        "publicationYear": 1894,
+        "publisher": "Macmillan",
+        "price": "6/",
+        "note": null,
+        "noteSource": null
+      },
+      {
+        "authorName": "Eliot, C. W.",
+        "title": "More money for the public schools.",
+        "publicationYear": 1903,
+        "publisher": "Doubleday",
+        "price": "$1 n",
+        "note": null,
+        "noteSource": null
+      },
+      {
+        "authorName": "Clow, F. R.",
+        "title": "Introduction to the study of commerce.",
+        "publicationYear": 1901,
+        "publisher": "Silver",
+        "price": "$1.25 n",
+        "note": null,
+        "noteSource": null
+      },
+      {
+        "authorName": "Farrer, T. H. Farrer, 1st baron.",
+        "title": "The state in its relation to trade, with supplementary chapter by Sir Robert Giffen.",
+        "publicationYear": 1902,
+        "publisher": "Macmillan",
+        "price": "$1",
+        "note": null,
+        "noteSource": null
+      },
+      {
+        "authorName": "Stickney, Albert.",
+        "title": "State control of trade and commerce by national or state authority.",
+        "publicationYear": 1897,
+        "publisher": "Baker, V. & co.",
+        "price": "$2.25",
+        "note": null,
+        "noteSource": null
+      },
+      {
+        "authorName": "Webster, W. C.",
+        "title": "General history of commerce.",
+        "publicationYear": 1903,
+        "publisher": "Ginn",
+        "price": "$1.40",
+        "note": null,
+        "noteSource": null
+      },
+      {
+        "authorName": "Willson, Beckles.",
+        "title": "Story of rapid transit.",
+        "publicationYear": 1903,
+        "publisher": "Appleton",
+        "price": "$1 n",
+        "note": null,
+        "noteSource": null
+      },
+      {
+        "authorName": "Bryce, George.",
+        "title": "Remarkable history of the Hudson's Bay company, including that of the French traders of north western Canada and of the North-west, X. Y. and Astor fur companies.",
+        "publicationYear": 1900,
+        "publisher": "Scribner",
+        "price": "$4",
+        "note": null,
+        "noteSource": null
+      },
+      {
+        "authorName": "Willson, Beckles.",
+        "title": "The Great company (1667-1871) being a history of the honourable company of merchants-adventurers trading into Hudson's bay. 2 v.",
+        "publicationYear": 1900,
+        "publisher": "Dodd",
+        "price": "$5",
+        "note": null,
+        "noteSource": null
+      },
+      {
+        "authorName": "Dixon, F. H.",
+        "title": "State railroad control, with a history of its development in Iowa.",
+        "publicationYear": 1896,
+        "publisher": "Crowell",
+        "price": "$1.75",
+        "note": null,
+        "noteSource": null
+      },
+      {
+        "authorName": "Hadley, A. T.",
+        "title": "Railroad transportation, its history and its laws.",
+        "publicationYear": 1903,
+        "publisher": "Putnam",
+        "price": "$1.50",
+        "note": null,
+        "noteSource": null
+      },
+      {
+        "authorName": "Johnson, E. R.",
+        "title": "American railway transportation.",
+        "publicationYear": 1903,
+        "publisher": "Appleton",
+        "price": "$1.50",
+        "note": null,
+        "noteSource": null
+      },
+      {
+        "authorName": "Meyer, B. H.",
+        "title": "Railway legislation in the United States.",
+        "publicationYear": 1903,
+        "publisher": "Macmillan",
+        "price": "$1.25 n",
+        "note": null,
+        "noteSource": null
+      },
+      {
+        "authorName": "Newcomb, H. T.",
+        "title": "Railway economics.",
+        "publicationYear": 1898,
+        "publisher": "Railway world pub. co.",
+        "price": "$1",
+        "note": null,
+        "noteSource": null
+      },
+      {
+        "authorName": "Pratt, E. A.",
+        "title": "American railways.",
+        "publicationYear": 1903,
+        "publisher": "Macmillan",
+        "price": "$1.25 n",
+        "note": null,
+        "noteSource": null
+      },
+      {
+        "authorName": "Jeans, J. S.",
+        "title": "Waterways and water transport in different countries; with a description of the Panama, Suez, Manchester, Nicaraguan, and other canals.",
+        "publicationYear": 1890,
+        "publisher": "Spon",
+        "price": "$5.50",
+        "note": null,
+        "noteSource": null
+      },
+      {
+        "authorName": "Abbot, W. J.",
+        "title": "American merchant ships and sailors.",
+        "publicationYear": 1902,
+        "publisher": "Dodd",
+        "price": "$2 n",
+        "note": null,
+        "noteSource": null
+      },
+      {
+        "authorName": "Bates, W. W.",
+        "title": "American navigation; the political history of its rise and ruin and the proper means for its encouragement.",
+        "publicationYear": 1902,
+        "publisher": "Houghton",
+        "price": "$3.50 n",
+        "note": null,
+        "noteSource": null
+      },
+      {
+        "authorName": "Blackmore, Edward.",
+        "title": "British mercantile marine: a short historical review, including the rise and progress of British shipping and commerce, the education of the merchant officer, and duty and discipline in the merchant service.",
+        "publicationYear": 1897,
+        "publisher": "Lippincott",
+        "price": "$1.50",
+        "note": null,
+        "noteSource": null
+      },
+      {
+        "authorName": "Marvin, W. L.",
+        "title": "American merchant marine; its history and romance, 1620-1902.",
+        "publicationYear": 1902,
+        "publisher": "Scribner",
+        "price": "$2 n",
+        "note": null,
+        "noteSource": null
+      },
+      {
+        "authorName": "Clarke, F. W.",
+        "title": "Weights, measures and money, of all nations.",
+        "publicationYear": 1875,
+        "publisher": "Appleton",
+        "price": "$1.50",
+        "note": null,
+        "noteSource": null
+      },
+      {
+        "authorName": "Woolhouse, W. S. B.",
+        "title": "Measures, weights and moneys of all nations, and an analysis of the Christian, Hebrew and Mahometan calendars. 6th ed. rev.",
+        "publicationYear": 1890,
+        "publisher": "Van Nostrand",
+        "price": "$2",
+        "note": null,
+        "noteSource": null
+      },
+      {
+        "authorName": "Earle, Mrs Alice Morse.",
+        "title": "Two centuries of costume in America, 1620-1820. 2 v.",
+        "publicationYear": 1903,
+        "publisher": "Macmillan",
+        "price": "$5 n",
+        "note": null,
+        "noteSource": null
+      },
+      {
+        "authorName": "Evans, M. M. (Lathbury) lady.",
+        "title": "Chapters on Greek dress.",
+        "publicationYear": 1893,
+        "publisher": "Macmillan",
+        "price": "$2",
+        "note": null,
+        "noteSource": null
+      },
+      {
+        "authorName": "Fairholt, F. W.",
+        "title": "Costume in England; 4th ed. rev. by H. A. Dillon. 2 v.",
+        "publicationYear": 1885,
+        "publisher": "Macmillan",
+        "price": "$1.50 ea n",
+        "note": null,
+        "noteSource": null
+      },
+      {
+        "authorName": "Holt, Ardern.",
+        "title": "Fancy dresses described; or, What to wear at fancy balls. 6th ed.",
+        "publicationYear": 1882,
+        "publisher": "Scribner",
+        "price": "$5 n",
+        "note": null,
+        "noteSource": null
+      },
+      {
+        "authorName": "Holt, Ardern.",
+        "title": "Gentlemen's fancy dress: how to choose it. 4th ed.",
+        "publicationYear": 1891,
+        "publisher": "Scribner",
+        "price": "$1.25 n",
+        "note": null,
+        "noteSource": null
+      },
+      {
+        "authorName": "Planché, J. R.",
+        "title": "History of British costume, to close of eighteenth century. 3d ed.",
+        "publicationYear": 1900,
+        "publisher": "Macmillan",
+        "price": "$1.50 n",
+        "note": null,
+        "noteSource": null
+      },
+      {
+        "authorName": "Starcke, C. N.",
+        "title": "Primitive family in its origin and development.",
+        "publicationYear": 1898,
+        "publisher": "Appleton",
+        "price": "$1.75",
+        "note": null,
+        "noteSource": null
+      },
+      {
+        "authorName": "Brand, John.",
+        "title": "Observations on the popular antiquities of Great Britain; rev. and enl. by Sir Henry Ellis. 3 v.",
+        "publicationYear": 1900,
+        "publisher": "Macmillan",
+        "price": "$1.50 ea n",
+        "note": null,
+        "noteSource": null
+      },
+      {
+        "authorName": "Cornish, F. W.",
+        "title": "Chivalry.",
+        "publicationYear": 1901,
+        "publisher": "Macmillan",
+        "price": "$1.75",
+        "note": null,
+        "noteSource": null
+      },
+      {
+        "authorName": "Kingsland, Mrs Florence.",
+        "title": "Etiquette for all occasions.",
+        "publicationYear": 1901,
+        "publisher": "Doubleday",
+        "price": "$1.50 n",
+        "note": null,
+        "noteSource": null
+      },
+      {
+        "authorName": "Sherwood, Mrs M. E. (Wilson).",
+        "title": "Manners and social usages; by Mrs John Sherwood. Rev. ed.",
+        "publicationYear": 1903,
+        "publisher": "Harper",
+        "price": "$1.25",
+        "note": null,
+        "noteSource": null
+      },
+      {
+        "authorName": "Bayles, G. J.",
+        "title": "Woman and the law.",
+        "publicationYear": 1901,
+        "publisher": "Century",
+        "price": "$1.40 n",
+        "note": null,
+        "noteSource": null
+      },
+      {
+        "authorName": "Candee, Mrs H. C.",
+        "title": "How women may earn a living.",
+        "publicationYear": 1900,
+        "publisher": "Macmillan",
+        "price": "$1",
+        "note": null,
+        "noteSource": null
+      },
+      {
+        "authorName": "Collet, C. E.",
+        "title": "Educated working women; essays on the economic position of women workers in the middle classes.",
+        "publicationYear": 1902,
+        "publisher": "P. S. King",
+        "price": "2/6",
+        "note": null,
+        "noteSource": null
+      },
+      {
+        "authorName": "Gilman, Mrs Charlotte (Perkins) Stetson.",
+        "title": "Women and economics; a study of the economic relation between men and women as a factor in social evolution. 2d ed.",
+        "publicationYear": 1899,
+        "publisher": "Small",
+        "price": "$1.50",
+        "note": null,
+        "noteSource": null
+      },
+      {
+        "authorName": "Higginson, T. W.",
+        "title": "Women and the alphabet; a series of essays.",
+        "publicationYear": 1900,
+        "publisher": "Longmans",
+        "price": "$2",
+        "note": null,
+        "noteSource": null
+      },
+      {
+        "authorName": "Asbjörnsen, P. C.",
+        "title": "Fairy tales from the far North; tr. by H. L. Brækstad.",
+        "publicationYear": 1897,
+        "publisher": "Armstrong",
+        "price": "$2",
+        "note": null,
+        "noteSource": null
+      }
+    ]
+  },
+  "meta": {
+    "provider": "openai",
+    "model": "gpt-5.5",
+    "doc_id": "sHMajYzm",
+    "file_id": "file-REfNoetjwVwikfdp5ZTNpi",
+    "response_id": "resp_0d923eac3504fbf3016a594c7229bc8191a0132a1c8d563147",
+    "usage": {
+      "input_tokens": 10586,
+      "input_tokens_details": {
+        "cache_write_tokens": 0,
+        "cached_tokens": 0
+      },
+      "output_tokens": 21457,
+      "output_tokens_details": {
+        "reasoning_tokens": 6732
+      },
+      "total_tokens": 32043
+    },
+    "schema_mode": "openai_strict_nullable_v1",
+    "input_mode": "file",
+    "guidelines_mode": "none",
+    "guidelines_chars": 0
+  }
+}

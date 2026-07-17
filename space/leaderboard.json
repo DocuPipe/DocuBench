@@ -7,6 +7,12 @@
   },
   "engines": [
     {
+      "key": "claude5",
+      "display": "Claude Sonnet 5",
+      "model": "claude-sonnet-5",
+      "overall": 0.9166555363015753
+    },
+    {
       "key": "docupipe_high",
       "display": "DocuPipe high",
       "model": null,
@@ -23,6 +29,18 @@
       "display": "Extend",
       "model": null,
       "overall": 0.8021850439187752
+    },
+    {
+      "key": "gemini",
+      "display": "Gemini 3.5 Flash",
+      "model": "gemini-3.5-flash",
+      "overall": 0.7292155423439277
+    },
+    {
+      "key": "gpt",
+      "display": "GPT-5.5",
+      "model": "gpt-5.5",
+      "overall": 0.7641847482326587
     },
     {
       "key": "reducto",
@@ -42,90 +60,120 @@
       {
         "value": "csv",
         "doc_count": 1,
+        "claude5": 0.9714285714285714,
         "docupipe_high": 1.0,
         "docupipe_standard": 0.9857142857142858,
         "extend": 0.5396825396825397,
+        "gemini": 1.0,
+        "gpt": 1.0,
         "reducto": 1.0,
         "reducto_standard": 1.0
       },
       {
         "value": "docx",
         "doc_count": 1,
+        "claude5": 1.0,
         "docupipe_high": 1.0,
         "docupipe_standard": 1.0,
         "extend": 0.8333333333333334,
+        "gemini": 1.0,
+        "gpt": 0.8333333333333334,
         "reducto": 1.0,
         "reducto_standard": 0.7592592592592593
       },
       {
         "value": "html",
         "doc_count": 1,
+        "claude5": 1.0,
         "docupipe_high": 1.0,
         "docupipe_standard": 1.0,
         "extend": 1.0,
+        "gemini": 1.0,
+        "gpt": 1.0,
         "reducto": 0.9583333333333334,
         "reducto_standard": 0.9583333333333334
       },
       {
         "value": "jpeg",
         "doc_count": 5,
+        "claude5": 0.7592880978865406,
         "docupipe_high": 0.9665732139841243,
         "docupipe_standard": 0.9838709677419356,
         "extend": 0.8262019762837083,
+        "gemini": 0.9521174002010554,
+        "gpt": 0.8827642633108563,
         "reducto": 0.7763880719786308,
         "reducto_standard": 0.6670318990579034
       },
       {
         "value": "pdf",
         "doc_count": 58,
+        "claude5": 0.9221632056241317,
         "docupipe_high": 0.966629295734212,
         "docupipe_standard": 0.9569623052209498,
         "extend": 0.7838426728288738,
+        "gemini": 0.669333467908045,
+        "gpt": 0.723799375869033,
         "reducto": 0.8902220662082243,
         "reducto_standard": 0.8021619605789584
       },
       {
         "value": "png",
         "doc_count": 1,
+        "claude5": 0.9565173796791445,
         "docupipe_high": 1.0,
         "docupipe_standard": 1.0,
         "extend": 1.0,
+        "gemini": 0.921590909090909,
+        "gpt": 0.793783422459893,
         "reducto": 0.9886363636363636,
         "reducto_standard": 0.9886363636363636
       },
       {
         "value": "tiff",
         "doc_count": 1,
+        "claude5": 0.8571428571428571,
         "docupipe_high": 1.0,
         "docupipe_standard": 0.8571428571428571,
         "extend": 0.9523809523809523,
+        "gemini": 1.0,
+        "gpt": 1.0,
         "reducto": 0.9523809523809523,
         "reducto_standard": 0.95
       },
       {
         "value": "txt",
         "doc_count": 1,
+        "claude5": 1.0,
         "docupipe_high": 1.0,
         "docupipe_standard": 1.0,
         "extend": 0.8888888888888888,
+        "gemini": 1.0,
+        "gpt": 1.0,
         "reducto": 1.0,
         "reducto_standard": 1.0
       },
       {
         "value": "xlsx",
         "doc_count": 1,
+        "claude5": 0.9322033898305084,
         "docupipe_high": 0.9661016949152542,
         "docupipe_standard": 0.9661016949152542,
         "extend": 0.9491525423728815,
+        "gemini": 1.0,
+        "gpt": 1.0,
         "reducto": 1.0,
         "reducto_standard": 1.0
       },
       {
         "value": "xml",
         "doc_count": 2,
+        "claude5": 1.0,
         "docupipe_high": 1.0,
         "docupipe_standard": 1.0,
         "extend": 1.0,
+        "gemini": 1.0,
+        "gpt": 1.0,
         "reducto": 0.9431818181818181,
         "reducto_standard": 0.9214426877470356
       }
@@ -134,108 +182,144 @@
       {
         "value": "ar",
         "doc_count": 1,
+        "claude5": 1.0,
         "docupipe_high": 0.9836065573770492,
         "docupipe_standard": 0.9836065573770492,
         "extend": 0.9836065573770492,
+        "gemini": 1.0,
+        "gpt": 1.0,
         "reducto": 1.0,
         "reducto_standard": 0.9836065573770492
       },
       {
         "value": "de",
         "doc_count": 2,
+        "claude5": 0.9608695652173913,
         "docupipe_high": 0.9399954473025267,
         "docupipe_standard": 0.9782608695652174,
         "extend": 0.7607417065044183,
+        "gemini": 0.9956521739130435,
+        "gpt": 0.9624416605256694,
         "reducto": 0.8975927290591992,
         "reducto_standard": 0.9003642157978603
       },
       {
         "value": "en",
         "doc_count": 47,
+        "claude5": 0.9518831844115059,
         "docupipe_high": 0.9859047754386904,
         "docupipe_standard": 0.9708390908179392,
         "extend": 0.8601187360278305,
+        "gemini": 0.7511689804946078,
+        "gpt": 0.8020074282113708,
         "reducto": 0.9219811515135664,
         "reducto_standard": 0.8409842439444263
       },
       {
         "value": "es",
         "doc_count": 3,
+        "claude5": 0.982934898173999,
         "docupipe_high": 0.9946683529402408,
         "docupipe_standard": 0.9900770265604725,
         "extend": 0.6902812577055544,
+        "gemini": 0.3576502732240437,
+        "gpt": 0.6070232896652116,
         "reducto": 0.9576447716239397,
         "reducto_standard": 0.9858067334282526
       },
       {
         "value": "fr",
         "doc_count": 1,
+        "claude5": 0.8098159509202455,
         "docupipe_high": 1.0,
         "docupipe_standard": 0.9551374819102749,
         "extend": 0.8098159509202455,
+        "gemini": 0.9476603955619874,
+        "gpt": 1.0,
         "reducto": 1.0,
         "reducto_standard": 0.9464544138929087
       },
       {
         "value": "he",
         "doc_count": 7,
+        "claude5": 0.7063286150370088,
         "docupipe_high": 0.8895525006204071,
         "docupipe_standard": 0.8747304406284704,
         "extend": 0.6303010350368858,
+        "gemini": 0.8254080586808038,
+        "gpt": 0.7653421262441775,
         "reducto": 0.8550384666337049,
         "reducto_standard": 0.6305014049172664
       },
       {
         "value": "hi",
         "doc_count": 2,
+        "claude5": 0.8575539423684226,
         "docupipe_high": 0.9693241609168648,
         "docupipe_standard": 0.9885724765848245,
         "extend": 0.2864197233943061,
+        "gemini": 0.08219520054924759,
+        "gpt": 0.08521480087801796,
         "reducto": 0.5709148064241134,
         "reducto_standard": 0.03911148628313431
       },
       {
         "value": "it",
         "doc_count": 1,
+        "claude5": 1.0,
         "docupipe_high": 0.9735054347826086,
         "docupipe_standard": 0.9735054347826086,
         "extend": 0.9429347826086957,
+        "gemini": 1.0,
+        "gpt": 0.9646739130434783,
         "reducto": 1.0,
         "reducto_standard": 1.0
       },
       {
         "value": "ja",
         "doc_count": 4,
+        "claude5": 0.7884609004431012,
         "docupipe_high": 0.9003075236335897,
         "docupipe_standard": 0.9263108456046056,
         "extend": 0.659236608444772,
+        "gemini": 0.5217554384847919,
+        "gpt": 0.4739302805028174,
         "reducto": 0.6656848669527823,
         "reducto_standard": 0.7726508120179412
       },
       {
         "value": "nl",
         "doc_count": 1,
+        "claude5": 1.0,
         "docupipe_high": 1.0,
         "docupipe_standard": 1.0,
         "extend": 1.0,
+        "gemini": 1.0,
+        "gpt": 0.7671232876712328,
         "reducto": 1.0,
         "reducto_standard": 0.958904109589041
       },
       {
         "value": "pt",
         "doc_count": 1,
+        "claude5": 0.963855421686747,
         "docupipe_high": 0.975609756097561,
         "docupipe_standard": 1.0,
         "extend": 1.0,
+        "gemini": 0.963855421686747,
+        "gpt": 0.975609756097561,
         "reducto": 0.975609756097561,
         "reducto_standard": 0.963855421686747
       },
       {
         "value": "zh",
         "doc_count": 2,
+        "claude5": 0.9016109785202885,
         "docupipe_high": 0.9812394247038914,
         "docupipe_standard": 0.9790931989924432,
         "extend": 0.6905824829931975,
+        "gemini": 0.5967687074829933,
+        "gpt": 0.7250234962406019,
         "reducto": 0.7669262441818825,
         "reducto_standard": 0.8200514428594881
       }
@@ -245,9 +329,12 @@
         "flag": "arrays",
         "label": "Array / line-item tables",
         "doc_count": 51,
+        "claude5": 0.9249212438302626,
         "docupipe_high": 0.9680597889636372,
         "docupipe_standard": 0.9647232042511563,
         "extend": 0.7622780296472694,
+        "gemini": 0.6339491337937474,
+        "gpt": 0.705834475055247,
         "reducto": 0.8828083899085781,
         "reducto_standard": 0.7916573337818869
       },
@@ -255,9 +342,12 @@
         "flag": "reconcile",
         "label": "Totals must reconcile",
         "doc_count": 26,
+        "claude5": 0.886812271514493,
         "docupipe_high": 0.9600123187739903,
         "docupipe_standard": 0.9577347179838175,
         "extend": 0.8642498025395061,
+        "gemini": 0.9317302098381265,
+        "gpt": 0.8929383660911474,
         "reducto": 0.9015070894612413,
         "reducto_standard": 0.8701797778080578
       },
@@ -265,9 +355,12 @@
         "flag": "rtl",
         "label": "Right-to-left script",
         "doc_count": 8,
+        "claude5": 0.7430375381573826,
         "docupipe_high": 0.9013092577149873,
         "docupipe_standard": 0.8883399552220427,
         "extend": 0.6744642253294063,
+        "gemini": 0.8472320513457033,
+        "gpt": 0.7946743604636554,
         "reducto": 0.8731586583044918,
         "reducto_standard": 0.6746395489747393
       },
@@ -275,9 +368,12 @@
         "flag": "cjk",
         "label": "CJK script",
         "doc_count": 6,
+        "claude5": 0.826177593135497,
         "docupipe_high": 0.9272848239903569,
         "docupipe_standard": 0.9439049634005515,
         "extend": 0.6696852332942472,
+        "gemini": 0.5467598614841923,
+        "gpt": 0.5576280190820789,
         "reducto": 0.6994319926958156,
         "reducto_standard": 0.7884510222984568
       },
@@ -285,9 +381,12 @@
         "flag": "handwriting",
         "label": "Handwriting",
         "doc_count": 3,
+        "claude5": 0.7412957460025592,
         "docupipe_high": 0.9599128711717224,
         "docupipe_standard": 0.9462116669168804,
         "extend": 0.8782144641043553,
+        "gemini": 0.852375205622165,
+        "gpt": 0.5790912185421065,
         "reducto": 0.67831890612415,
         "reducto_standard": 0.6710634066831203
       },
@@ -295,9 +394,12 @@
         "flag": "rotated",
         "label": "Rotated scan",
         "doc_count": 3,
+        "claude5": 0.7550910466826027,
         "docupipe_high": 0.978494623655914,
         "docupipe_standard": 0.9254992319508449,
         "extend": 0.9572452636968766,
+        "gemini": 0.9362292277614858,
+        "gpt": 0.8022288827554482,
         "reducto": 0.8190487827584602,
         "reducto_standard": 0.8182551319648094
       },
@@ -305,9 +407,12 @@
         "flag": "needle",
         "label": "Needle-in-haystack lookup",
         "doc_count": 2,
+        "claude5": 0.9857142857142858,
         "docupipe_high": 1.0,
         "docupipe_standard": 0.9928571428571429,
         "extend": 0.7698412698412698,
+        "gemini": 1.0,
+        "gpt": 1.0,
         "reducto": 0.9431818181818181,
         "reducto_standard": 0.9431818181818181
       },
@@ -315,9 +420,12 @@
         "flag": "nested",
         "label": "Nested objects",
         "doc_count": 1,
+        "claude5": 0.9807692307692307,
         "docupipe_high": 1.0,
         "docupipe_standard": 1.0,
         "extend": 0.9807692307692307,
+        "gemini": 1.0,
+        "gpt": 0.9807692307692307,
         "reducto": 1.0,
         "reducto_standard": 1.0
       }
@@ -344,9 +452,12 @@
         "nested": false
       },
       "scores": {
+        "claude5": 1.0,
         "docupipe_high": 1.0,
         "docupipe_standard": 1.0,
         "extend": 1.0,
+        "gemini": 1.0,
+        "gpt": 1.0,
         "reducto": 1.0,
         "reducto_standard": 0.96
       }
@@ -371,9 +482,12 @@
         "nested": false
       },
       "scores": {
+        "claude5": 0.9947552447552448,
         "docupipe_high": 0.991841491841492,
         "docupipe_standard": 0.9982517482517481,
         "extend": 0.8776223776223775,
+        "gemini": 0.0,
+        "gpt": 0.9702797202797202,
         "reducto": 0.9667832167832169,
         "reducto_standard": 0.8682983682983683
       }
@@ -398,9 +512,12 @@
         "nested": false
       },
       "scores": {
+        "claude5": 0.9884335154826958,
         "docupipe_high": 0.9986338797814209,
         "docupipe_standard": 0.9907103825136612,
         "extend": 0.34289617486338797,
+        "gemini": 0.07295081967213114,
+        "gpt": 0.0,
         "reducto": 0.9744990892531876,
         "reducto_standard": 0.9802367941712203
       }
@@ -425,9 +542,12 @@
         "nested": false
       },
       "scores": {
+        "claude5": 0.8721138211382113,
         "docupipe_high": 0.9442547425474253,
         "docupipe_standard": 0.941431044866004,
         "extend": 0.7377604637157483,
+        "gemini": 0.6925007527853059,
+        "gpt": 0.2596031746031746,
         "reducto": 0.5523750376392652,
         "reducto_standard": 0.5416839807286961
       }
@@ -452,9 +572,12 @@
         "nested": false
       },
       "scores": {
+        "claude5": 0.9028501157407409,
         "docupipe_high": 0.9894612630208334,
         "docupipe_standard": 1.0,
         "extend": 0.9000771604938274,
+        "gemini": 0.9028501157407409,
+        "gpt": 0.9028501157407409,
         "reducto": 0.9028501157407409,
         "reducto_standard": 0.9762716411072532
       }
@@ -479,9 +602,12 @@
         "nested": false
       },
       "scores": {
+        "claude5": 0.9976190476190476,
         "docupipe_high": 0.9976190476190476,
         "docupipe_standard": 1.0,
         "extend": 0.9976190476190476,
+        "gemini": 0.9976190476190476,
+        "gpt": 0.9404761904761905,
         "reducto": 0.9952380952380953,
         "reducto_standard": 0.9619047619047619
       }
@@ -506,9 +632,12 @@
         "nested": false
       },
       "scores": {
+        "claude5": 0.963855421686747,
         "docupipe_high": 0.975609756097561,
         "docupipe_standard": 1.0,
         "extend": 1.0,
+        "gemini": 0.963855421686747,
+        "gpt": 0.975609756097561,
         "reducto": 0.975609756097561,
         "reducto_standard": 0.963855421686747
       }
@@ -533,9 +662,12 @@
         "nested": false
       },
       "scores": {
+        "claude5": 0.9322033898305084,
         "docupipe_high": 0.9661016949152542,
         "docupipe_standard": 0.9661016949152542,
         "extend": 0.9491525423728815,
+        "gemini": 1.0,
+        "gpt": 1.0,
         "reducto": 1.0,
         "reducto_standard": 1.0
       }
@@ -560,9 +692,12 @@
         "nested": false
       },
       "scores": {
+        "claude5": 1.0,
         "docupipe_high": 1.0,
         "docupipe_standard": 1.0,
         "extend": 1.0,
+        "gemini": 1.0,
+        "gpt": 0.7671232876712328,
         "reducto": 1.0,
         "reducto_standard": 0.958904109589041
       }
@@ -587,9 +722,12 @@
         "nested": false
       },
       "scores": {
+        "claude5": 0.45161290322580644,
         "docupipe_high": 0.9354838709677419,
         "docupipe_standard": 0.9193548387096774,
         "extend": 0.9193548387096774,
+        "gemini": 0.8870967741935484,
+        "gpt": 0.6129032258064516,
         "reducto": 0.5161290322580645,
         "reducto_standard": 0.5161290322580645
       }
@@ -614,9 +752,12 @@
         "nested": false
       },
       "scores": {
+        "claude5": 0.8571428571428571,
         "docupipe_high": 1.0,
         "docupipe_standard": 0.8571428571428571,
         "extend": 0.9523809523809523,
+        "gemini": 1.0,
+        "gpt": 1.0,
         "reducto": 0.9523809523809523,
         "reducto_standard": 0.95
       }
@@ -641,9 +782,12 @@
         "nested": false
       },
       "scores": {
+        "claude5": 1.0,
         "docupipe_high": 1.0,
         "docupipe_standard": 1.0,
         "extend": 1.0,
+        "gemini": 1.0,
+        "gpt": 1.0,
         "reducto": 1.0,
         "reducto_standard": 0.995260663507109
       }
@@ -668,9 +812,12 @@
         "nested": false
       },
       "scores": {
+        "claude5": 0.9243417784401387,
         "docupipe_high": 0.9910084451068059,
         "docupipe_standard": 0.9845504222553402,
         "extend": 0.19515648286140083,
+        "gemini": 0.179806259314456,
+        "gpt": 0.8419523099850954,
         "reducto": 0.8153502235469438,
         "reducto_standard": 0.987332339791356
       }
@@ -695,9 +842,12 @@
         "nested": false
       },
       "scores": {
+        "claude5": 0.9565173796791445,
         "docupipe_high": 1.0,
         "docupipe_standard": 1.0,
         "extend": 1.0,
+        "gemini": 0.921590909090909,
+        "gpt": 0.793783422459893,
         "reducto": 0.9886363636363636,
         "reducto_standard": 0.9886363636363636
       }
@@ -722,9 +872,12 @@
         "nested": false
       },
       "scores": {
+        "claude5": 1.0,
         "docupipe_high": 1.0,
         "docupipe_standard": 1.0,
         "extend": 1.0,
+        "gemini": 1.0,
+        "gpt": 1.0,
         "reducto": 1.0,
         "reducto_standard": 1.0
       }
@@ -749,9 +902,12 @@
         "nested": false
       },
       "scores": {
+        "claude5": 1.0,
         "docupipe_high": 1.0,
         "docupipe_standard": 1.0,
         "extend": 1.0,
+        "gemini": 1.0,
+        "gpt": 1.0,
         "reducto": 1.0,
         "reducto_standard": 0.9565217391304348
       }
@@ -776,9 +932,12 @@
         "nested": false
       },
       "scores": {
+        "claude5": 1.0,
         "docupipe_high": 1.0,
         "docupipe_standard": 1.0,
         "extend": 1.0,
+        "gemini": 1.0,
+        "gpt": 1.0,
         "reducto": 1.0,
         "reducto_standard": 1.0
       }
@@ -803,9 +962,12 @@
         "nested": false
       },
       "scores": {
+        "claude5": 0.9010294117647061,
         "docupipe_high": 0.9476923076923077,
         "docupipe_standard": 0.804,
         "extend": 0.7953846153846155,
+        "gemini": 0.9483076923076923,
+        "gpt": 0.8984615384615384,
         "reducto": 0.9267692307692307,
         "reducto_standard": 0.9353846153846155
       }
@@ -830,9 +992,12 @@
         "nested": false
       },
       "scores": {
+        "claude5": 0.9103101424979044,
         "docupipe_high": 0.951505016722408,
         "docupipe_standard": 0.9932942162615256,
         "extend": 0.31978206202849957,
+        "gemini": 0.03143336127409891,
+        "gpt": 0.0,
         "reducto": 0.8210393964794636,
         "reducto_standard": 0.05909471919530594
       }
@@ -857,9 +1022,12 @@
         "nested": false
       },
       "scores": {
+        "claude5": 1.0,
         "docupipe_high": 0.9836065573770492,
         "docupipe_standard": 0.9836065573770492,
         "extend": 0.9836065573770492,
+        "gemini": 1.0,
+        "gpt": 1.0,
         "reducto": 1.0,
         "reducto_standard": 0.9836065573770492
       }
@@ -884,9 +1052,12 @@
         "nested": false
       },
       "scores": {
+        "claude5": 0.9937106918238994,
         "docupipe_high": 0.9559674027339654,
         "docupipe_standard": 0.9980283911671926,
         "extend": 0.8723794549266247,
+        "gemini": 0.0,
+        "gpt": 0.0,
         "reducto": 0.8112513144058869,
         "reducto_standard": 0.643993165089378
       }
@@ -911,9 +1082,12 @@
         "nested": false
       },
       "scores": {
+        "claude5": 0.9523809523809523,
         "docupipe_high": 1.0,
         "docupipe_standard": 0.7619047619047619,
         "extend": 1.0,
+        "gemini": 1.0,
+        "gpt": 0.9523809523809523,
         "reducto": 0.9523809523809523,
         "reducto_standard": 0.8
       }
@@ -938,9 +1112,12 @@
         "nested": false
       },
       "scores": {
+        "claude5": 0.9603711790393016,
         "docupipe_high": 0.9853711790393016,
         "docupipe_standard": 0.9795206971677562,
         "extend": 0.7279475982532755,
+        "gemini": 0.0,
+        "gpt": 0.8210698689956347,
         "reducto": 0.8984352256186312,
         "reducto_standard": 0.9771834061135375
       }
@@ -965,9 +1142,12 @@
         "nested": false
       },
       "scores": {
+        "claude5": 0.803221957040577,
         "docupipe_high": 0.9624788494077827,
         "docupipe_standard": 0.9581863979848863,
         "extend": 0.3811649659863949,
+        "gemini": 0.19353741496598653,
+        "gpt": 0.5026785714285724,
         "reducto": 0.6391156462585017,
         "reducto_standard": 0.7453660436137131
       }
@@ -992,9 +1172,12 @@
         "nested": false
       },
       "scores": {
+        "claude5": 1.0,
         "docupipe_high": 1.0,
         "docupipe_standard": 1.0,
         "extend": 0.9117647058823529,
+        "gemini": 1.0,
+        "gpt": 1.0,
         "reducto": 1.0,
         "reducto_standard": 1.0
       }
@@ -1019,9 +1202,12 @@
         "nested": false
       },
       "scores": {
+        "claude5": 1.0,
         "docupipe_high": 1.0,
         "docupipe_standard": 1.0,
         "extend": 1.0,
+        "gemini": 1.0,
+        "gpt": 1.0,
         "reducto": 1.0,
         "reducto_standard": 1.0
       }
@@ -1046,9 +1232,12 @@
         "nested": false
       },
       "scores": {
+        "claude5": 0.6985839843749999,
         "docupipe_high": 0.9546126471393375,
         "docupipe_standard": 0.951444018614837,
         "extend": 0.6278760656338802,
+        "gemini": 0.8975499589378592,
+        "gpt": 0.8939570216260606,
         "reducto": 0.9404804270462633,
         "reducto_standard": 0.9550369559266355
       }
@@ -1073,9 +1262,12 @@
         "nested": false
       },
       "scores": {
+        "claude5": 0.989247311827957,
         "docupipe_high": 0.9959677419354839,
         "docupipe_standard": 0.9979838709677419,
         "extend": 0.8807123655913977,
+        "gemini": 0.24563172043010753,
+        "gpt": 0.9709341397849464,
         "reducto": 0.9583333333333334,
         "reducto_standard": 0.0
       }
@@ -1100,9 +1292,12 @@
         "nested": false
       },
       "scores": {
+        "claude5": 0.9924471299093656,
         "docupipe_high": 0.966012084592145,
         "docupipe_standard": 0.9707955689828801,
         "extend": 0.9919436052366566,
+        "gemini": 0.1593655589123867,
+        "gpt": 0.0,
         "reducto": 0.9400805639476334,
         "reducto_standard": 0.0
       }
@@ -1127,9 +1322,12 @@
         "nested": false
       },
       "scores": {
+        "claude5": 0.9620000000000001,
         "docupipe_high": 0.9861818181818183,
         "docupipe_standard": 0.9620000000000001,
         "extend": 0.9493333333333331,
+        "gemini": 0.9620000000000001,
+        "gpt": 0.8986666666666667,
         "reducto": 0.8986666666666667,
         "reducto_standard": 0.9470303030303031
       }
@@ -1154,9 +1352,12 @@
         "nested": true
       },
       "scores": {
+        "claude5": 0.9807692307692307,
         "docupipe_high": 1.0,
         "docupipe_standard": 1.0,
         "extend": 0.9807692307692307,
+        "gemini": 1.0,
+        "gpt": 0.9807692307692307,
         "reducto": 1.0,
         "reducto_standard": 1.0
       }
@@ -1181,9 +1382,12 @@
         "nested": false
       },
       "scores": {
+        "claude5": 1.0,
         "docupipe_high": 1.0,
         "docupipe_standard": 1.0,
         "extend": 1.0,
+        "gemini": 1.0,
+        "gpt": 0.9473684210526315,
         "reducto": 0.8947368421052632,
         "reducto_standard": 0.8947368421052632
       }
@@ -1208,9 +1412,12 @@
         "nested": false
       },
       "scores": {
+        "claude5": 0.9001605136436596,
         "docupipe_high": 1.0,
         "docupipe_standard": 0.9778491171749598,
         "extend": 0.9775280898876404,
+        "gemini": 0.9775280898876404,
+        "gpt": 0.8647672552166934,
         "reducto": 0.9664526484751205,
         "reducto_standard": 0.9553772070626004
       }
@@ -1235,9 +1442,12 @@
         "nested": false
       },
       "scores": {
+        "claude5": 1.0,
         "docupipe_high": 1.0,
         "docupipe_standard": 1.0,
         "extend": 1.0,
+        "gemini": 0.9523809523809523,
+        "gpt": 1.0,
         "reducto": 1.0,
         "reducto_standard": 1.0
       }
@@ -1262,9 +1472,12 @@
         "nested": false
       },
       "scores": {
+        "claude5": 1.0,
         "docupipe_high": 1.0,
         "docupipe_standard": 0.9444444444444444,
         "extend": 1.0,
+        "gemini": 1.0,
+        "gpt": 1.0,
         "reducto": 1.0,
         "reducto_standard": 1.0
       }
@@ -1289,9 +1502,12 @@
         "nested": false
       },
       "scores": {
+        "claude5": 0.8098159509202455,
         "docupipe_high": 1.0,
         "docupipe_standard": 0.9551374819102749,
         "extend": 0.8098159509202455,
+        "gemini": 0.9476603955619874,
+        "gpt": 1.0,
         "reducto": 1.0,
         "reducto_standard": 0.9464544138929087
       }
@@ -1316,9 +1532,12 @@
         "nested": false
       },
       "scores": {
+        "claude5": 1.0,
         "docupipe_high": 1.0,
         "docupipe_standard": 1.0,
         "extend": 1.0,
+        "gemini": 1.0,
+        "gpt": 1.0,
         "reducto": 1.0,
         "reducto_standard": 1.0
       }
@@ -1343,9 +1562,12 @@
         "nested": false
       },
       "scores": {
+        "claude5": 1.0,
         "docupipe_high": 1.0,
         "docupipe_standard": 1.0,
         "extend": 0.8888888888888888,
+        "gemini": 1.0,
+        "gpt": 1.0,
         "reducto": 1.0,
         "reducto_standard": 1.0
       }
@@ -1370,9 +1592,12 @@
         "nested": false
       },
       "scores": {
+        "claude5": 1.0,
         "docupipe_high": 1.0,
         "docupipe_standard": 1.0,
         "extend": 1.0,
+        "gemini": 1.0,
+        "gpt": 1.0,
         "reducto": 1.0,
         "reducto_standard": 1.0
       }
@@ -1397,9 +1622,12 @@
         "nested": false
       },
       "scores": {
+        "claude5": 0.3448275862068966,
         "docupipe_high": 1.0,
         "docupipe_standard": 1.0,
         "extend": 0.4482758620689655,
+        "gemini": 0.896551724137931,
+        "gpt": 0.896551724137931,
         "reducto": 0.6206896551724138,
         "reducto_standard": 0.13793103448275862
       }
@@ -1424,9 +1652,12 @@
         "nested": false
       },
       "scores": {
+        "claude5": 1.0,
         "docupipe_high": 1.0,
         "docupipe_standard": 1.0,
         "extend": 1.0,
+        "gemini": 1.0,
+        "gpt": 1.0,
         "reducto": 1.0,
         "reducto_standard": 1.0
       }
@@ -1451,9 +1682,12 @@
         "nested": false
       },
       "scores": {
+        "claude5": 1.0,
         "docupipe_high": 1.0,
         "docupipe_standard": 1.0,
         "extend": 0.9131313131313131,
+        "gemini": 0.9696969696969697,
+        "gpt": 0.9696969696969697,
         "reducto": 0.9411764705882353,
         "reducto_standard": 0.9411764705882353
       }
@@ -1478,9 +1712,12 @@
         "nested": false
       },
       "scores": {
+        "claude5": 0.804797742238941,
         "docupipe_high": 0.9871433051113218,
         "docupipe_standard": 0.9838507369081233,
         "extend": 0.2530573847601127,
+        "gemini": 0.13295703982439627,
+        "gpt": 0.17042960175603591,
         "reducto": 0.32079021636876326,
         "reducto_standard": 0.019128253370962668
       }
@@ -1505,9 +1742,12 @@
         "nested": false
       },
       "scores": {
+        "claude5": 0.9880634920634912,
         "docupipe_high": 0.9919841269841263,
         "docupipe_standard": 0.9828095238095227,
         "extend": 0.46769841269841256,
+        "gemini": 0.15071428571428572,
+        "gpt": 0.8633711762850872,
         "reducto": 0.7526190476190513,
         "reducto_standard": 0.7956190476190521
       }
@@ -1532,9 +1772,12 @@
         "nested": false
       },
       "scores": {
+        "claude5": 0.8897569444444443,
         "docupipe_high": 0.9993055555555556,
         "docupipe_standard": 0.9982638888888888,
         "extend": 0.9828125,
+        "gemini": 0.0,
+        "gpt": 0.0,
         "reducto": 0.9511408730158731,
         "reducto_standard": 0.09236111111111113
       }
@@ -1559,9 +1802,12 @@
         "nested": false
       },
       "scores": {
+        "claude5": 0.9333333333333333,
         "docupipe_high": 1.0,
         "docupipe_standard": 1.0,
         "extend": 0.8484848484848485,
+        "gemini": 1.0,
+        "gpt": 0.975,
         "reducto": 1.0,
         "reducto_standard": 1.0
       }
@@ -1586,9 +1832,12 @@
         "nested": false
       },
       "scores": {
+        "claude5": 1.0,
         "docupipe_high": 0.9735054347826086,
         "docupipe_standard": 0.9735054347826086,
         "extend": 0.9429347826086957,
+        "gemini": 1.0,
+        "gpt": 0.9646739130434783,
         "reducto": 1.0,
         "reducto_standard": 1.0
       }
@@ -1613,9 +1862,12 @@
         "nested": false
       },
       "scores": {
+        "claude5": 0.9217391304347826,
         "docupipe_high": 0.9826086956521739,
         "docupipe_standard": 0.9565217391304348,
         "extend": 0.7350427350427351,
+        "gemini": 0.991304347826087,
+        "gpt": 0.9565217391304348,
         "reducto": 0.9217391304347826,
         "reducto_standard": 0.991304347826087
       }
@@ -1640,9 +1892,12 @@
         "nested": false
       },
       "scores": {
+        "claude5": 0.9714285714285714,
         "docupipe_high": 1.0,
         "docupipe_standard": 0.9857142857142858,
         "extend": 0.5396825396825397,
+        "gemini": 1.0,
+        "gpt": 1.0,
         "reducto": 1.0,
         "reducto_standard": 1.0
       }
@@ -1667,9 +1922,12 @@
         "nested": false
       },
       "scores": {
+        "claude5": 1.0,
         "docupipe_high": 1.0,
         "docupipe_standard": 1.0,
         "extend": 1.0,
+        "gemini": 1.0,
+        "gpt": 1.0,
         "reducto": 1.0,
         "reducto_standard": 1.0
       }
@@ -1694,9 +1952,12 @@
         "nested": false
       },
       "scores": {
+        "claude5": 1.0,
         "docupipe_high": 0.9523809523809523,
         "docupipe_standard": 0.9523809523809523,
         "extend": 0.9761904761904762,
+        "gemini": 1.0,
+        "gpt": 0.6666666666666666,
         "reducto": 0.9285714285714286,
         "reducto_standard": 0.7619047619047619
       }
@@ -1721,9 +1982,12 @@
         "nested": false
       },
       "scores": {
+        "claude5": 1.0,
         "docupipe_high": 1.0,
         "docupipe_standard": 1.0,
         "extend": 1.0,
+        "gemini": 1.0,
+        "gpt": 1.0,
         "reducto": 0.9583333333333334,
         "reducto_standard": 0.9583333333333334
       }
@@ -1748,9 +2012,12 @@
         "nested": false
       },
       "scores": {
+        "claude5": 0.9071428571428565,
         "docupipe_high": 0.9845410628019321,
         "docupipe_standard": 0.9396135265700474,
         "extend": 0.2657004830917875,
+        "gemini": 0.0,
+        "gpt": 0.5666666666666675,
         "reducto": 0.7080193236714993,
         "reducto_standard": 0.936897880539497
       }
@@ -1775,9 +2042,12 @@
         "nested": false
       },
       "scores": {
+        "claude5": 0.6135057471264369,
         "docupipe_high": 0.8599137931034483,
         "docupipe_standard": 0.7794540229885055,
         "extend": 0.0711206896551724,
+        "gemini": 0.6228448275862071,
+        "gpt": 0.3778735632183906,
         "reducto": 0.8908045977011494,
         "reducto_standard": 0.46767241379310354
       }
@@ -1802,9 +2072,12 @@
         "nested": false
       },
       "scores": {
+        "claude5": 0.9642583470169617,
         "docupipe_high": 0.9787318542864932,
         "docupipe_standard": 0.9926595453300462,
         "extend": 0.29018077239112605,
+        "gemini": 0.0887428101889893,
+        "gpt": 0.0,
         "reducto": 0.9286770747740304,
         "reducto_standard": 0.9826348945494364
       }
@@ -1829,9 +2102,12 @@
         "nested": false
       },
       "scores": {
+        "claude5": 0.7333333333333333,
         "docupipe_high": 0.8,
         "docupipe_standard": 0.8,
         "extend": 0.6153846153846154,
+        "gemini": 1.0,
+        "gpt": 0.9818181818181818,
         "reducto": 0.9818181818181818,
         "reducto_standard": 0.9818181818181818
       }
@@ -1856,9 +2132,12 @@
         "nested": false
       },
       "scores": {
+        "claude5": 0.9708121827411168,
         "docupipe_high": 0.9840101522842638,
         "docupipe_standard": 0.9840101522842638,
         "extend": 0.9071065989847712,
+        "gemini": 0.9758883248730964,
+        "gpt": 0.9708121827411168,
         "reducto": 0.9708121827411168,
         "reducto_standard": 0.9809644670050761
       }
@@ -1883,9 +2162,12 @@
         "nested": false
       },
       "scores": {
+        "claude5": 0.6478283621140764,
         "docupipe_high": 0.8556998556998493,
         "docupipe_standard": 0.8756449948400409,
         "extend": 0.44740973312401877,
+        "gemini": 0.061224489795918415,
+        "gpt": 0.0,
         "reducto": 0.6567242281528005,
         "reducto_standard": 0.7068965517241415
       }
@@ -1910,9 +2192,12 @@
         "nested": false
       },
       "scores": {
+        "claude5": 0.9090909090909091,
         "docupipe_high": 0.9545454545454546,
         "docupipe_standard": 0.9545454545454546,
         "extend": 1.0,
+        "gemini": 0.9090909090909091,
+        "gpt": 0.9090909090909091,
         "reducto": 1.0,
         "reducto_standard": 0.8636363636363636
       }
@@ -1937,9 +2222,12 @@
         "nested": false
       },
       "scores": {
+        "claude5": 0.9169741697416989,
         "docupipe_high": 0.9922509225092243,
         "docupipe_standard": 0.9827171903881693,
         "extend": 0.24488601355514478,
+        "gemini": 0.0,
+        "gpt": 0.0,
         "reducto": 0.5633394947627846,
         "reducto_standard": 0.31127541589648805
       }
@@ -1964,9 +2252,12 @@
         "nested": false
       },
       "scores": {
+        "claude5": 1.0,
         "docupipe_high": 1.0,
         "docupipe_standard": 1.0,
         "extend": 1.0,
+        "gemini": 1.0,
+        "gpt": 1.0,
         "reducto": 1.0,
         "reducto_standard": 1.0
       }
@@ -1991,9 +2282,12 @@
         "nested": false
       },
       "scores": {
+        "claude5": 1.0,
         "docupipe_high": 1.0,
         "docupipe_standard": 1.0,
         "extend": 0.8333333333333334,
+        "gemini": 1.0,
+        "gpt": 0.8333333333333334,
         "reducto": 1.0,
         "reducto_standard": 0.7592592592592593
       }
@@ -2018,9 +2312,12 @@
         "nested": false
       },
       "scores": {
+        "claude5": 0.7282920784598185,
         "docupipe_high": 0.7633511651101644,
         "docupipe_standard": 0.7814195882504955,
         "extend": 0.7370568501224051,
+        "gemini": 0.7210497602434898,
+        "gpt": 0.7608740465883324,
         "reducto": 0.7832945865161076,
         "reducto_standard": 0.6049738073227445
       }
@@ -2045,9 +2342,12 @@
         "nested": false
       },
       "scores": {
+        "claude5": 0.6323529411764706,
         "docupipe_high": 0.7720588235294121,
         "docupipe_standard": 0.8455882352941176,
         "extend": 0.38235294117647084,
+        "gemini": 0.14705882352941177,
+        "gpt": 0.022058823529411766,
         "reducto": 0.1323529411764706,
         "reducto_standard": 0.426470588235294
       }
@@ -2072,9 +2372,12 @@
         "nested": false
       },
       "scores": {
+        "claude5": 0.65,
         "docupipe_high": 0.6944444444444444,
         "docupipe_standard": 0.65625,
         "extend": 0.6944444444444444,
+        "gemini": 0.7307692307692307,
+        "gpt": 0.6857142857142857,
         "reducto": 0.75,
         "reducto_standard": 0.625
       }
@@ -2099,9 +2402,12 @@
         "nested": false
       },
       "scores": {
+        "claude5": 0.944897959183674,
         "docupipe_high": 0.9854251700680255,
         "docupipe_standard": 0.9767962308598341,
         "extend": 0.5726020408163278,
+        "gemini": 0.28666666666666635,
+        "gpt": 0.7231207482993208,
         "reducto": 0.6552040816326536,
         "reducto_standard": 0.7882738095238125
       }
@@ -2126,9 +2432,12 @@
         "nested": false
       },
       "scores": {
+        "claude5": 0.8604146034032591,
         "docupipe_high": 0.9769402178806157,
         "docupipe_standard": 0.9469177319495793,
         "extend": 0.8760504374255554,
+        "gemini": 0.908355091383812,
+        "gpt": 0.9743945259746104,
         "reducto": 0.896583235797245,
         "reducto_standard": 0.9428716124966238
       }
@@ -2153,9 +2462,12 @@
         "nested": false
       },
       "scores": {
+        "claude5": 0.9708543922984306,
         "docupipe_high": 0.9978339350180501,
         "docupipe_standard": 0.9877256317689506,
         "extend": 0.9780866425992741,
+        "gemini": 0.0,
+        "gpt": 0.0,
         "reducto": 0.9635018050541446,
         "reducto_standard": 0.16223826714801473
       }
@@ -2180,9 +2492,12 @@
         "nested": false
       },
       "scores": {
+        "claude5": 1.0,
         "docupipe_high": 1.0,
         "docupipe_standard": 1.0,
         "extend": 0.9769385026737968,
+        "gemini": 0.9769385026737968,
+        "gpt": 0.9886363636363636,
         "reducto": 0.9769385026737968,
         "reducto_standard": 0.9769385026737968
       }
@@ -2207,9 +2522,12 @@
         "nested": false
       },
       "scores": {
+        "claude5": 1.0,
         "docupipe_high": 0.8973821989528795,
         "docupipe_standard": 1.0,
         "extend": 0.7864406779661015,
+        "gemini": 1.0,
+        "gpt": 0.968361581920904,
         "reducto": 0.8734463276836159,
         "reducto_standard": 0.8094240837696336
       }
@@ -2234,9 +2552,12 @@
         "nested": false
       },
       "scores": {
+        "claude5": 1.0,
         "docupipe_high": 1.0,
         "docupipe_standard": 1.0,
         "extend": 1.0,
+        "gemini": 1.0,
+        "gpt": 1.0,
         "reducto": 1.0,
         "reducto_standard": 1.0
       }
@@ -2261,9 +2582,12 @@
         "nested": false
       },
       "scores": {
+        "claude5": 1.0,
         "docupipe_high": 1.0,
         "docupipe_standard": 1.0,
         "extend": 1.0,
+        "gemini": 1.0,
+        "gpt": 1.0,
         "reducto": 0.8863636363636364,
         "reducto_standard": 0.8863636363636364
       }

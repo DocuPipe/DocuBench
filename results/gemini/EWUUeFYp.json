@@ -1,0 +1,203 @@
+{
+  "status": "ok",
+  "cost": null,
+  "time_sec": 30.565788984298706,
+  "data": {
+    "entries": [
+      {
+        "headword": "इक्षुमती",
+        "genderTag": "स्त्री."
+      },
+      {
+        "headword": "इक्षुमेह",
+        "genderTag": "पुं."
+      },
+      {
+        "headword": "इक्षुर",
+        "genderTag": "पुं."
+      },
+      {
+        "headword": "इक्षुसार",
+        "genderTag": "पुं."
+      },
+      {
+        "headword": "इक्ष्वाकु",
+        "genderTag": "पुं."
+      },
+      {
+        "headword": "इक्ष्वालिका",
+        "genderTag": "स्त्री."
+      },
+      {
+        "headword": "इख्",
+        "genderTag": "क्रि."
+      },
+      {
+        "headword": "इग्",
+        "genderTag": "क्रि."
+      },
+      {
+        "headword": "इङ्ग्",
+        "genderTag": "क्रि."
+      },
+      {
+        "headword": "इङ्गः",
+        "genderTag": "पुं."
+      },
+      {
+        "headword": "इङ्गित",
+        "genderTag": "न."
+      },
+      {
+        "headword": "इच्छूः",
+        "genderTag": "पुं."
+      },
+      {
+        "headword": "इज्जुद्-दी",
+        "genderTag": "पुं. स्त्री."
+      },
+      {
+        "headword": "इज्यिकेलः",
+        "genderTag": "पुं."
+      },
+      {
+        "headword": "इच्छा",
+        "genderTag": "स्त्री."
+      },
+      {
+        "headword": "इच्छुकः",
+        "genderTag": "पुं."
+      },
+      {
+        "headword": "इच्छुलः",
+        "genderTag": "पुं."
+      },
+      {
+        "headword": "इज्य",
+        "genderTag": "पुं."
+      },
+      {
+        "headword": "इज्या",
+        "genderTag": "स्त्री."
+      },
+      {
+        "headword": "इञ्जाकः",
+        "genderTag": "पुं."
+      },
+      {
+        "headword": "इट्",
+        "genderTag": "क्रि."
+      },
+      {
+        "headword": "इटः",
+        "genderTag": "पुं."
+      },
+      {
+        "headword": "इट्ठचरः",
+        "genderTag": "पुं."
+      },
+      {
+        "headword": "इड्",
+        "genderTag": "स्त्री."
+      },
+      {
+        "headword": "इडस्पति",
+        "genderTag": "पुं."
+      },
+      {
+        "headword": "इडः",
+        "genderTag": "पुं."
+      },
+      {
+        "headword": "इडाला",
+        "genderTag": "स्त्री."
+      },
+      {
+        "headword": "इडाचिका",
+        "genderTag": "स्त्री."
+      },
+      {
+        "headword": "इडिका",
+        "genderTag": "स्त्री."
+      },
+      {
+        "headword": "इण्",
+        "genderTag": "क्रि."
+      },
+      {
+        "headword": "इत",
+        "genderTag": "त्रि."
+      },
+      {
+        "headword": "इतर",
+        "genderTag": "त्रि."
+      },
+      {
+        "headword": "इतरथा",
+        "genderTag": "अव्य."
+      },
+      {
+        "headword": "इतरेतर",
+        "genderTag": "त्रि."
+      },
+      {
+        "headword": "इतस्",
+        "genderTag": "अव्य."
+      },
+      {
+        "headword": "इतरेद्युः",
+        "genderTag": "अव्य."
+      },
+      {
+        "headword": "इतस्ततः",
+        "genderTag": "अव्य."
+      },
+      {
+        "headword": "इति",
+        "genderTag": "अव्य."
+      },
+      {
+        "headword": "इतिकर्त्तव्यता",
+        "genderTag": "स्त्री."
+      },
+      {
+        "headword": "इतिमद्ध्ये",
+        "genderTag": "अव्य."
+      },
+      {
+        "headword": "इतिह",
+        "genderTag": "अव्य."
+      },
+      {
+        "headword": "इतिहास",
+        "genderTag": "पुं."
+      }
+    ]
+  },
+  "meta": {
+    "provider": "google",
+    "model": "gemini-3.5-flash",
+    "doc_id": "EWUUeFYp",
+    "usage": {
+      "promptTokenCount": 15061,
+      "candidatesTokenCount": 712,
+      "totalTokenCount": 19232,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 53
+        },
+        {
+          "modality": "IMAGE",
+          "tokenCount": 15008
+        }
+      ],
+      "thoughtsTokenCount": 3459,
+      "serviceTier": "standard"
+    },
+    "schema_mode": "gemini_response_schema_nullable_v1",
+    "input_mode": "inline_data",
+    "guidelines_mode": "none",
+    "guidelines_chars": 0
+  }
+}

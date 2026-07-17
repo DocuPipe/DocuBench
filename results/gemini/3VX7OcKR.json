@@ -1,0 +1,437 @@
+{
+  "status": "ok",
+  "cost": null,
+  "time_sec": 67.81197094917297,
+  "data": {
+    "entries": [
+      {
+        "headword": "Cazurro",
+        "pronunciation": "kar-thoor'-ro",
+        "partOfSpeech": "a.",
+        "englishTranslation": "taciturn: gloomy: sullen."
+      },
+      {
+        "headword": "Ce",
+        "pronunciation": "thay",
+        "partOfSpeech": "interj.",
+        "englishTranslation": "here."
+      },
+      {
+        "headword": "Cebada",
+        "pronunciation": "thay-bar'-dar",
+        "partOfSpeech": "f.",
+        "englishTranslation": "barley."
+      },
+      {
+        "headword": "Cebar",
+        "pronunciation": "thay-bar'",
+        "partOfSpeech": "v.",
+        "englishTranslation": "to fatten."
+      },
+      {
+        "headword": "Cebo",
+        "pronunciation": "thay'-bo",
+        "partOfSpeech": "m.",
+        "englishTranslation": "food: fodder."
+      },
+      {
+        "headword": "Cebolla",
+        "pronunciation": "thay - boll' - yar",
+        "partOfSpeech": "f.",
+        "englishTranslation": "onion."
+      },
+      {
+        "headword": "Cebra",
+        "pronunciation": "thay'-brar",
+        "partOfSpeech": "f.",
+        "englishTranslation": "zebra."
+      },
+      {
+        "headword": "Cecear",
+        "pronunciation": "thay-thay-r'",
+        "partOfSpeech": "v.",
+        "englishTranslation": "to lisp."
+      },
+      {
+        "headword": "Ceder",
+        "pronunciation": "thay-dayr'",
+        "partOfSpeech": "v.",
+        "englishTranslation": "to abate: grant: submit: yield."
+      },
+      {
+        "headword": "Cegar",
+        "pronunciation": "thay-gar'",
+        "partOfSpeech": "v.",
+        "englishTranslation": "to blind."
+      },
+      {
+        "headword": "Cegato",
+        "pronunciation": "thay-gar'-to",
+        "partOfSpeech": "a.",
+        "englishTranslation": "short-sighted."
+      },
+      {
+        "headword": "Ceguera",
+        "pronunciation": "thay - gay' - rar",
+        "partOfSpeech": "f.",
+        "englishTranslation": "blindness."
+      },
+      {
+        "headword": "Ceja",
+        "pronunciation": "thay'-har",
+        "partOfSpeech": "f.",
+        "englishTranslation": "eyebrow."
+      },
+      {
+        "headword": "Cejar",
+        "pronunciation": "thay-harr'",
+        "partOfSpeech": "v.",
+        "englishTranslation": "to relax: slacken."
+      },
+      {
+        "headword": "Celda",
+        "pronunciation": "thayl'-dar",
+        "partOfSpeech": "f.",
+        "englishTranslation": "cell."
+      },
+      {
+        "headword": "Celebrar",
+        "pronunciation": "thayl'-ay-brar'",
+        "partOfSpeech": "v.",
+        "englishTranslation": "to celebrate: praise."
+      },
+      {
+        "headword": "Célebre",
+        "pronunciation": "thayl-ay-bray",
+        "partOfSpeech": "a.",
+        "englishTranslation": "famous: celebrated."
+      },
+      {
+        "headword": "Celeridad",
+        "pronunciation": "thayl-ay-ree-dahd'",
+        "partOfSpeech": "f.",
+        "englishTranslation": "velocity: speed."
+      },
+      {
+        "headword": "Celeste",
+        "pronunciation": "thay-less'-tay",
+        "partOfSpeech": "a.",
+        "englishTranslation": "sky-blue: heavenly."
+      },
+      {
+        "headword": "Celestial",
+        "pronunciation": "thay-less-tee-arl'",
+        "partOfSpeech": "a.",
+        "englishTranslation": "heavenly: excellent: perfect."
+      },
+      {
+        "headword": "Célibe",
+        "pronunciation": "thay'-lee-bay",
+        "partOfSpeech": "m.",
+        "englishTranslation": "bachelor."
+      },
+      {
+        "headword": "Celosia",
+        "pronunciation": "thay-lo-see'-r",
+        "partOfSpeech": "f.",
+        "englishTranslation": "lattice of a window."
+      },
+      {
+        "headword": "Celoso",
+        "pronunciation": "thay-lo'-so",
+        "partOfSpeech": "a.",
+        "englishTranslation": "zealous: jealous."
+      },
+      {
+        "headword": "Cena",
+        "pronunciation": "thay'-nar",
+        "partOfSpeech": "f.",
+        "englishTranslation": "supper."
+      },
+      {
+        "headword": "Cenar",
+        "pronunciation": "thay-narr'",
+        "partOfSpeech": "v.",
+        "englishTranslation": "to have supper."
+      },
+      {
+        "headword": "Ceniza",
+        "pronunciation": "thay-nee'-thar",
+        "partOfSpeech": "f.",
+        "englishTranslation": "ashes.\nMiércoles de Ceniza, Ash Wednesday."
+      },
+      {
+        "headword": "Cenojil",
+        "pronunciation": "thay-no-heel'",
+        "partOfSpeech": "m.",
+        "englishTranslation": "garter."
+      },
+      {
+        "headword": "Centella",
+        "pronunciation": "then-tayl'-yar",
+        "partOfSpeech": "f.",
+        "englishTranslation": "spark: lightning."
+      },
+      {
+        "headword": "Centellar",
+        "pronunciation": "then-tayl'-yarr",
+        "partOfSpeech": "v.",
+        "englishTranslation": "to sparkle."
+      },
+      {
+        "headword": "Centena",
+        "pronunciation": "then - tay' - nar",
+        "partOfSpeech": "f.",
+        "englishTranslation": "hundred."
+      },
+      {
+        "headword": "Centenario",
+        "pronunciation": "then-tay-nar-ee'-o",
+        "partOfSpeech": "m.",
+        "englishTranslation": "centenary."
+      },
+      {
+        "headword": "Centinela",
+        "pronunciation": "then-tee-nay'-lar",
+        "partOfSpeech": "f.",
+        "englishTranslation": "sentry: sentinel."
+      },
+      {
+        "headword": "Centro",
+        "pronunciation": "then'-tro",
+        "partOfSpeech": "m.",
+        "englishTranslation": "centre: chief thing."
+      },
+      {
+        "headword": "Centuria",
+        "pronunciation": "then-toor-ee'-r",
+        "partOfSpeech": "f.",
+        "englishTranslation": "century."
+      },
+      {
+        "headword": "Cenzalo",
+        "pronunciation": "then-thar'-lo",
+        "partOfSpeech": "m.",
+        "englishTranslation": "gnat."
+      },
+      {
+        "headword": "Ceñidor",
+        "pronunciation": "then-yee'-dor",
+        "partOfSpeech": "m.",
+        "englishTranslation": "belt: girdle."
+      },
+      {
+        "headword": "Ceño",
+        "pronunciation": "then'-yo",
+        "partOfSpeech": "m.",
+        "englishTranslation": "frown."
+      },
+      {
+        "headword": "Cepillo",
+        "pronunciation": "thay - peel' - yo",
+        "partOfSpeech": "m.",
+        "englishTranslation": "brush."
+      },
+      {
+        "headword": "Cepo",
+        "pronunciation": "thay'-po",
+        "partOfSpeech": "m.",
+        "englishTranslation": "trap: snare: poor-box."
+      },
+      {
+        "headword": "Cera",
+        "pronunciation": "thay'-rar",
+        "partOfSpeech": "f.",
+        "englishTranslation": "wax: wax-taper: wax-candle."
+      },
+      {
+        "headword": "Cercano",
+        "pronunciation": "thayr-kar'-no",
+        "partOfSpeech": "a.",
+        "englishTranslation": "near: close to: adjoining."
+      },
+      {
+        "headword": "Cercenar",
+        "pronunciation": "thayr-thay-nar'",
+        "partOfSpeech": "v.",
+        "englishTranslation": "to clip: lop off: pare: curtail."
+      },
+      {
+        "headword": "Cerdo",
+        "pronunciation": "thayr'-do",
+        "partOfSpeech": "m.",
+        "englishTranslation": "pig: hog."
+      },
+      {
+        "headword": "Ceremonia",
+        "pronunciation": "thayr-ay-mo-nee'-r",
+        "partOfSpeech": "f.",
+        "englishTranslation": "ceremony."
+      },
+      {
+        "headword": "Cereza",
+        "pronunciation": "thayr - ay - thar",
+        "partOfSpeech": "f.",
+        "englishTranslation": "cherry."
+      },
+      {
+        "headword": "Cero",
+        "pronunciation": "thay'-ro",
+        "partOfSpeech": "m.",
+        "englishTranslation": "zero."
+      },
+      {
+        "headword": "Ceroso",
+        "pronunciation": "thay-ro'-so",
+        "partOfSpeech": "a.",
+        "englishTranslation": "waxy."
+      },
+      {
+        "headword": "Cerrado",
+        "pronunciation": "thayr - rar - do",
+        "partOfSpeech": "a.",
+        "englishTranslation": "close: concealed: reserved."
+      },
+      {
+        "headword": "Cerrajero",
+        "pronunciation": "thayr-rar-hay'-ro",
+        "partOfSpeech": "m.",
+        "englishTranslation": "locksmith."
+      },
+      {
+        "headword": "Cerrar",
+        "pronunciation": "thayr-rar'",
+        "partOfSpeech": "v.",
+        "englishTranslation": "to close: shut: lock."
+      },
+      {
+        "headword": "Cerril",
+        "pronunciation": "thayr-reel'",
+        "partOfSpeech": "a.",
+        "englishTranslation": "wild: rough: untamed."
+      },
+      {
+        "headword": "Cerro",
+        "pronunciation": "thayr'-ro",
+        "partOfSpeech": "m.",
+        "englishTranslation": "hill."
+      },
+      {
+        "headword": "Cerrojo",
+        "pronunciation": "thayr-ro'-ho",
+        "partOfSpeech": "m.",
+        "englishTranslation": "door-bolt."
+      },
+      {
+        "headword": "Certificar",
+        "pronunciation": "thayr-tee-fee-kar'",
+        "partOfSpeech": "v.",
+        "englishTranslation": "to affirm: certify."
+      },
+      {
+        "headword": "Cerveceero",
+        "pronunciation": "thayr-vay-thay'-ro",
+        "partOfSpeech": "m.",
+        "englishTranslation": "brewer."
+      },
+      {
+        "headword": "Cerveza",
+        "pronunciation": "thayr-vay'-thar",
+        "partOfSpeech": "m.",
+        "englishTranslation": "ale: beer."
+      },
+      {
+        "headword": "Cesar",
+        "pronunciation": "thay-sar'",
+        "partOfSpeech": "v.",
+        "englishTranslation": "to cease: desist."
+      },
+      {
+        "headword": "Cesión",
+        "pronunciation": "thay-see-on'",
+        "partOfSpeech": "f.",
+        "englishTranslation": "cession: transfer."
+      },
+      {
+        "headword": "Césped",
+        "pronunciation": "thess'-payd",
+        "partOfSpeech": "m.",
+        "englishTranslation": "turf: sod."
+      },
+      {
+        "headword": "Cesta",
+        "pronunciation": "thess'-tar",
+        "partOfSpeech": "f.",
+        "englishTranslation": "basket: pannier."
+      },
+      {
+        "headword": "Cetrino",
+        "pronunciation": "thay - tree' - no",
+        "partOfSpeech": "a.",
+        "englishTranslation": "lemon-coloured: jaundiced."
+      },
+      {
+        "headword": "Cía",
+        "pronunciation": "thee'-r",
+        "partOfSpeech": "f.",
+        "englishTranslation": "hip-bone."
+      },
+      {
+        "headword": "Ciática",
+        "pronunciation": "thee - r' - tee - kar",
+        "partOfSpeech": "f.",
+        "englishTranslation": "sciatica."
+      },
+      {
+        "headword": "Cicatear",
+        "pronunciation": "thee-kar-tay-r'",
+        "partOfSpeech": "v.",
+        "englishTranslation": "to be stingy: niggardly."
+      },
+      {
+        "headword": "Ciclo",
+        "pronunciation": "thee'-klo",
+        "partOfSpeech": "m.",
+        "englishTranslation": "cycle."
+      },
+      {
+        "headword": "Ciego",
+        "pronunciation": "thee-ay'-go",
+        "partOfSpeech": "a.",
+        "englishTranslation": "blind."
+      },
+      {
+        "headword": "Cielo",
+        "pronunciation": "thee-ay'-lo",
+        "partOfSpeech": "m.",
+        "englishTranslation": "heaven: sky: atmosphere."
+      }
+    ]
+  },
+  "meta": {
+    "provider": "google",
+    "model": "gemini-3.5-flash",
+    "doc_id": "3VX7OcKR",
+    "usage": {
+      "promptTokenCount": 8154,
+      "candidatesTokenCount": 3495,
+      "totalTokenCount": 21531,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 54
+        },
+        {
+          "modality": "IMAGE",
+          "tokenCount": 8100
+        }
+      ],
+      "thoughtsTokenCount": 9882,
+      "serviceTier": "standard"
+    },
+    "schema_mode": "gemini_response_schema_nullable_v1",
+    "input_mode": "inline_data",
+    "guidelines_mode": "none",
+    "guidelines_chars": 0
+  }
+}

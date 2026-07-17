@@ -14,12 +14,12 @@ DocuBench is built to break extraction systems on what real documents actually l
 <br>
 
 <a href="https://htmlpreview.github.io/?https://github.com/DocuPipe/docubench/blob/main/docubench-explorer.html">
-  <img src="docs/explorer-preview.png" alt="DocuBench interactive results explorer — filter 72 documents and compare five complete configurations" width="100%">
+  <img src="docs/explorer-preview.png" alt="DocuBench interactive results explorer — filter 72 documents and compare eight complete configurations" width="100%">
 </a>
 
 <h3 align="center"><a href="https://htmlpreview.github.io/?https://github.com/DocuPipe/docubench/blob/main/docubench-explorer.html">🔎&nbsp; Open the interactive results explorer &nbsp;→</a></h3>
 <p align="center">
-  Filter all 72 documents by language, length, format &amp; capability · compare five complete configurations · drill into per-document scores.<br>
+  Filter all 72 documents by language, length, format &amp; capability · compare eight complete configurations · drill into per-document scores.<br>
 </p>
 
 <br>
@@ -31,15 +31,18 @@ DocuBench is built to break extraction systems on what real documents actually l
 
 ## Leaderboard
 
-The complete committed baselines, scored by the public scorer ([`scorer.py`](scorer.py)) against the hand-verified labels. Headline metric is **macro-average field accuracy** with order-independent array matching. Historical 50-document result sets remain under [`results/`](results), but are not ranked against systems that cover all 72 documents.
+The complete committed baselines, scored by the public scorer ([`scorer.py`](scorer.py)) against the hand-verified labels. Headline metric is **macro-average field accuracy** with order-independent array matching. Every ranked system covers all 72 documents. Alongside the specialized extraction platforms, we include three frontier LLMs called **directly** with the same schema and a generous output budget (each at its own maximum) — the do-it-yourself baseline a team would build in-house.
 
 | Rank | System | Accuracy |
 |---:|---|---:|
 | 🥇 | **DocuPipe** — high effort | **97.03%** |
 | 🥈 | **DocuPipe** — standard effort | **96.16%** |
-| 🥉 | Reducto — Deep Extract | 89.31% |
-| 4 | Reducto — standard | 81.06% |
-| 5 | Extend | 80.22% |
+| 🥉 | Claude Sonnet 5 — direct LLM | 91.67% |
+| 4 | Reducto — Deep Extract | 89.31% |
+| 5 | Reducto — standard | 81.06% |
+| 6 | Extend | 80.22% |
+| 7 | GPT-5.5 — direct LLM | 76.42% |
+| 8 | Gemini 3.5 Flash — direct LLM | 72.92% |
 
 > DocuPipe built this benchmark, so we hold our own results to the same bar as everyone else: identical schemas, identical labels, the same open scorer, and every raw model output committed under [`results/`](results). Run `docubench score` and you will reproduce this table.
 
@@ -164,13 +167,15 @@ See [`docs/submissions.md`](docs/submissions.md) for the recommended metadata an
 
 The model runners send each document, its paired schema, and any `guidelines/<doc_id>.txt` instructions to a provider and write the result envelope to `results/<engine>/<doc_id>.json`. Failures (API/model/schema) are written with `status: "failed"` and `data: {}`, so the scorer counts every labeled field as a miss instead of silently dropping the document. TIFF inputs are converted to ordered PNG pages for providers that do not accept TIFF.
 
-| Engine | Script | API key |
+| Engine | Script | Credentials |
 |---|---|---|
-| GPT | `scripts/run_gpt.py` | `OPENAI_API_KEY` |
-| Claude | `scripts/run_claude.py` | `ANTHROPIC_API_KEY` |
-| Gemini | `scripts/run_gemini.py` | `GOOGLE_API_KEY` |
+| GPT-5.5 | `scripts/run_gpt.py` | `OPENAI_API_KEY` |
+| Claude Sonnet 5 | `scripts/run_claude_bedrock.py` | AWS Bedrock credentials |
+| Gemini 3.5 Flash | `scripts/run_gemini.py` | `GOOGLE_API_KEY` |
 | Extend | `scripts/run_extend.py` | `EXTEND_API_KEY` |
 | Reducto | `scripts/run_reducto.py` | `REDUCTO_API_KEY` |
+
+The three direct-LLM runners give each model its full output budget — Claude Sonnet 5 and GPT-5.5 up to 128K tokens, Gemini 3.5 Flash up to 65,536 — so a low output cap never causes an artificial failure. Override per-model with `OPENAI_MAX_OUTPUT_TOKENS`, `BEDROCK_CLAUDE_MAX_TOKENS`, or `GEMINI_MAX_OUTPUT_TOKENS`.
 
 ```bash
 export OPENAI_API_KEY=...
@@ -178,7 +183,7 @@ python3 scripts/run_gpt.py documents/PSU5pciM.pdf schemas/PSU5pciM.json results/
 
 # or run the full benchmark idempotently (skips completed docs; --force to rerun)
 python3 scripts/run_all.py --engine gpt
-python3 scripts/run_all.py --engine claude
+python3 scripts/run_all.py --engine claude5
 python3 scripts/run_all.py --engine gemini
 
 # reducto ships two modes; the output dir selects deep vs standard extract

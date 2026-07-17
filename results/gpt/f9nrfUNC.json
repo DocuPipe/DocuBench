@@ -1,0 +1,972 @@
+{
+  "status": "ok",
+  "cost": null,
+  "time_sec": 189.4903120994568,
+  "data": {
+    "entries": [
+      {
+        "headword": "גשם",
+        "homographIndex": null,
+        "grammaticalTag": null
+      },
+      {
+        "headword": "גשמים",
+        "homographIndex": null,
+        "grammaticalTag": null
+      },
+      {
+        "headword": "גשמים",
+        "homographIndex": null,
+        "grammaticalTag": "m."
+      },
+      {
+        "headword": "גשתא",
+        "homographIndex": null,
+        "grammaticalTag": "f."
+      },
+      {
+        "headword": "גשושא",
+        "homographIndex": null,
+        "grammaticalTag": "f."
+      },
+      {
+        "headword": "גשר",
+        "homographIndex": null,
+        "grammaticalTag": "m."
+      },
+      {
+        "headword": "גישרא",
+        "homographIndex": null,
+        "grammaticalTag": null
+      },
+      {
+        "headword": "גשר",
+        "homographIndex": null,
+        "grammaticalTag": "ch."
+      },
+      {
+        "headword": "גשורה",
+        "homographIndex": null,
+        "grammaticalTag": "m."
+      },
+      {
+        "headword": "גשש",
+        "homographIndex": null,
+        "grammaticalTag": null
+      },
+      {
+        "headword": "גשש",
+        "homographIndex": null,
+        "grammaticalTag": "m."
+      },
+      {
+        "headword": "גת",
+        "homographIndex": null,
+        "grammaticalTag": "pt. m. pl."
+      },
+      {
+        "headword": "גת",
+        "homographIndex": "II",
+        "grammaticalTag": "f."
+      },
+      {
+        "headword": "גת",
+        "homographIndex": "III",
+        "grammaticalTag": "f."
+      },
+      {
+        "headword": "גתיתא",
+        "homographIndex": null,
+        "grammaticalTag": null
+      },
+      {
+        "headword": "דא",
+        "homographIndex": null,
+        "grammaticalTag": "f."
+      },
+      {
+        "headword": "די",
+        "homographIndex": "I",
+        "grammaticalTag": null
+      },
+      {
+        "headword": "דיא",
+        "homographIndex": "II",
+        "grammaticalTag": null
+      },
+      {
+        "headword": "דאב",
+        "homographIndex": null,
+        "grammaticalTag": null
+      },
+      {
+        "headword": "דובר",
+        "homographIndex": null,
+        "grammaticalTag": null
+      },
+      {
+        "headword": "דאוג",
+        "homographIndex": null,
+        "grammaticalTag": null
+      },
+      {
+        "headword": "דאב",
+        "homographIndex": null,
+        "grammaticalTag": null
+      },
+      {
+        "headword": "דיב",
+        "homographIndex": null,
+        "grammaticalTag": null
+      },
+      {
+        "headword": "דא",
+        "homographIndex": null,
+        "grammaticalTag": null
+      },
+      {
+        "headword": "דוב",
+        "homographIndex": "I",
+        "grammaticalTag": "m."
+      },
+      {
+        "headword": "דוב",
+        "homographIndex": "II",
+        "grammaticalTag": null
+      },
+      {
+        "headword": "דוה",
+        "homographIndex": "I",
+        "grammaticalTag": null
+      },
+      {
+        "headword": "דוה",
+        "homographIndex": "II",
+        "grammaticalTag": null
+      },
+      {
+        "headword": "דאי",
+        "homographIndex": null,
+        "grammaticalTag": null
+      },
+      {
+        "headword": "דאידא",
+        "homographIndex": null,
+        "grammaticalTag": null
+      },
+      {
+        "headword": "דואיס",
+        "homographIndex": "I",
+        "grammaticalTag": null
+      },
+      {
+        "headword": "דואיס",
+        "homographIndex": "II",
+        "grammaticalTag": null
+      },
+      {
+        "headword": "דאיר",
+        "homographIndex": null,
+        "grammaticalTag": null
+      },
+      {
+        "headword": "דאיר",
+        "homographIndex": null,
+        "grammaticalTag": null
+      },
+      {
+        "headword": "דאירא",
+        "homographIndex": null,
+        "grammaticalTag": "f."
+      },
+      {
+        "headword": "דאייר",
+        "homographIndex": null,
+        "grammaticalTag": null
+      },
+      {
+        "headword": "דיירא",
+        "homographIndex": null,
+        "grammaticalTag": "m."
+      },
+      {
+        "headword": "דינא",
+        "homographIndex": null,
+        "grammaticalTag": "m. n. pr."
+      },
+      {
+        "headword": "דאיה",
+        "homographIndex": null,
+        "grammaticalTag": null
+      },
+      {
+        "headword": "דאה",
+        "homographIndex": null,
+        "grammaticalTag": null
+      },
+      {
+        "headword": "דבב",
+        "homographIndex": null,
+        "grammaticalTag": null
+      },
+      {
+        "headword": "דב",
+        "homographIndex": null,
+        "grammaticalTag": null
+      },
+      {
+        "headword": "דבא",
+        "homographIndex": null,
+        "grammaticalTag": null
+      },
+      {
+        "headword": "דבא",
+        "homographIndex": null,
+        "grammaticalTag": null
+      },
+      {
+        "headword": "דבה",
+        "homographIndex": "I",
+        "grammaticalTag": null
+      },
+      {
+        "headword": "דבה",
+        "homographIndex": "II",
+        "grammaticalTag": null
+      },
+      {
+        "headword": "דבב",
+        "homographIndex": null,
+        "grammaticalTag": "ch."
+      },
+      {
+        "headword": "דיבה",
+        "homographIndex": null,
+        "grammaticalTag": null
+      },
+      {
+        "headword": "דיבא",
+        "homographIndex": "II",
+        "grammaticalTag": "ch."
+      },
+      {
+        "headword": "דוב",
+        "homographIndex": "I",
+        "grammaticalTag": null
+      },
+      {
+        "headword": "דוב",
+        "homographIndex": "II",
+        "grammaticalTag": "ch."
+      },
+      {
+        "headword": "דיבוב",
+        "homographIndex": null,
+        "grammaticalTag": "l."
+      },
+      {
+        "headword": "דבבה",
+        "homographIndex": null,
+        "grammaticalTag": "f. pl."
+      },
+      {
+        "headword": "דבביתא",
+        "homographIndex": null,
+        "grammaticalTag": "f."
+      },
+      {
+        "headword": "דביב",
+        "homographIndex": null,
+        "grammaticalTag": null
+      },
+      {
+        "headword": "דבא",
+        "homographIndex": null,
+        "grammaticalTag": null
+      },
+      {
+        "headword": "דבאי",
+        "homographIndex": null,
+        "grammaticalTag": null
+      },
+      {
+        "headword": "דבבתא",
+        "homographIndex": null,
+        "grammaticalTag": null
+      },
+      {
+        "headword": "דבוק",
+        "homographIndex": "I",
+        "grammaticalTag": null
+      },
+      {
+        "headword": "דבוקנא",
+        "homographIndex": null,
+        "grammaticalTag": "m."
+      },
+      {
+        "headword": "דבוח",
+        "homographIndex": null,
+        "grammaticalTag": null
+      },
+      {
+        "headword": "דביחא",
+        "homographIndex": null,
+        "grammaticalTag": null
+      },
+      {
+        "headword": "דבח",
+        "homographIndex": "II",
+        "grammaticalTag": null
+      },
+      {
+        "headword": "דביכה",
+        "homographIndex": null,
+        "grammaticalTag": null
+      },
+      {
+        "headword": "דבך",
+        "homographIndex": "I",
+        "grammaticalTag": null
+      },
+      {
+        "headword": "דבך",
+        "homographIndex": "II",
+        "grammaticalTag": null
+      },
+      {
+        "headword": "דבכא",
+        "homographIndex": null,
+        "grammaticalTag": "ch."
+      },
+      {
+        "headword": "דבכיא",
+        "homographIndex": null,
+        "grammaticalTag": null
+      },
+      {
+        "headword": "דבק",
+        "homographIndex": "I",
+        "grammaticalTag": null
+      },
+      {
+        "headword": "דבק",
+        "homographIndex": null,
+        "grammaticalTag": "m."
+      },
+      {
+        "headword": "דבקא",
+        "homographIndex": null,
+        "grammaticalTag": "f."
+      },
+      {
+        "headword": "דבק",
+        "homographIndex": "II",
+        "grammaticalTag": null
+      },
+      {
+        "headword": "דבק",
+        "homographIndex": null,
+        "grammaticalTag": null
+      },
+      {
+        "headword": "דבק",
+        "homographIndex": null,
+        "grammaticalTag": "ch."
+      },
+      {
+        "headword": "דביק",
+        "homographIndex": null,
+        "grammaticalTag": null
+      },
+      {
+        "headword": "דיבוק",
+        "homographIndex": null,
+        "grammaticalTag": "m."
+      },
+      {
+        "headword": "דבקא",
+        "homographIndex": null,
+        "grammaticalTag": null
+      },
+      {
+        "headword": "דבר",
+        "homographIndex": "I",
+        "grammaticalTag": null
+      },
+      {
+        "headword": "דבר",
+        "homographIndex": "II",
+        "grammaticalTag": "m."
+      },
+      {
+        "headword": "דבר",
+        "homographIndex": null,
+        "grammaticalTag": "ch."
+      },
+      {
+        "headword": "דבר",
+        "homographIndex": null,
+        "grammaticalTag": "m."
+      },
+      {
+        "headword": "דבר",
+        "homographIndex": null,
+        "grammaticalTag": null
+      },
+      {
+        "headword": "דברא",
+        "homographIndex": "I",
+        "grammaticalTag": "ch."
+      },
+      {
+        "headword": "דברא",
+        "homographIndex": "II",
+        "grammaticalTag": null
+      },
+      {
+        "headword": "דברה",
+        "homographIndex": null,
+        "grammaticalTag": null
+      },
+      {
+        "headword": "דברתא",
+        "homographIndex": null,
+        "grammaticalTag": "m."
+      },
+      {
+        "headword": "דבירא",
+        "homographIndex": null,
+        "grammaticalTag": null
+      },
+      {
+        "headword": "דבר",
+        "homographIndex": null,
+        "grammaticalTag": "m."
+      },
+      {
+        "headword": "דבר",
+        "homographIndex": null,
+        "grammaticalTag": "m."
+      },
+      {
+        "headword": "דבירא",
+        "homographIndex": "I",
+        "grammaticalTag": "f."
+      },
+      {
+        "headword": "דבירא",
+        "homographIndex": "II",
+        "grammaticalTag": "f."
+      },
+      {
+        "headword": "דבירות",
+        "homographIndex": null,
+        "grammaticalTag": "f. ch."
+      },
+      {
+        "headword": "דבר",
+        "homographIndex": null,
+        "grammaticalTag": null
+      },
+      {
+        "headword": "דביר",
+        "homographIndex": null,
+        "grammaticalTag": "m."
+      },
+      {
+        "headword": "דוברא",
+        "homographIndex": null,
+        "grammaticalTag": null
+      },
+      {
+        "headword": "דוברנא",
+        "homographIndex": null,
+        "grammaticalTag": null
+      },
+      {
+        "headword": "דג",
+        "homographIndex": null,
+        "grammaticalTag": "m."
+      },
+      {
+        "headword": "דגה",
+        "homographIndex": null,
+        "grammaticalTag": "f."
+      },
+      {
+        "headword": "דגה",
+        "homographIndex": null,
+        "grammaticalTag": "m."
+      },
+      {
+        "headword": "דגיא",
+        "homographIndex": null,
+        "grammaticalTag": "f."
+      },
+      {
+        "headword": "דגל",
+        "homographIndex": null,
+        "grammaticalTag": null
+      },
+      {
+        "headword": "דגיל",
+        "homographIndex": null,
+        "grammaticalTag": null
+      },
+      {
+        "headword": "דגון",
+        "homographIndex": null,
+        "grammaticalTag": "m."
+      },
+      {
+        "headword": "דגים",
+        "homographIndex": null,
+        "grammaticalTag": "m. pl."
+      },
+      {
+        "headword": "דגה",
+        "homographIndex": null,
+        "grammaticalTag": "f."
+      },
+      {
+        "headword": "דגל",
+        "homographIndex": "I",
+        "grammaticalTag": null
+      },
+      {
+        "headword": "דגל",
+        "homographIndex": null,
+        "grammaticalTag": null
+      },
+      {
+        "headword": "דגל",
+        "homographIndex": null,
+        "grammaticalTag": null
+      },
+      {
+        "headword": "דגל",
+        "homographIndex": null,
+        "grammaticalTag": "m."
+      },
+      {
+        "headword": "דגלא",
+        "homographIndex": null,
+        "grammaticalTag": "m."
+      },
+      {
+        "headword": "דגיל",
+        "homographIndex": null,
+        "grammaticalTag": "m."
+      },
+      {
+        "headword": "דגלום",
+        "homographIndex": null,
+        "grammaticalTag": null
+      },
+      {
+        "headword": "דגליל",
+        "homographIndex": null,
+        "grammaticalTag": null
+      },
+      {
+        "headword": "דגן",
+        "homographIndex": null,
+        "grammaticalTag": "m."
+      },
+      {
+        "headword": "דגן",
+        "homographIndex": null,
+        "grammaticalTag": null
+      },
+      {
+        "headword": "דגש",
+        "homographIndex": "I",
+        "grammaticalTag": null
+      },
+      {
+        "headword": "דגש",
+        "homographIndex": "II",
+        "grammaticalTag": null
+      },
+      {
+        "headword": "דד",
+        "homographIndex": null,
+        "grammaticalTag": null
+      },
+      {
+        "headword": "דד",
+        "homographIndex": null,
+        "grammaticalTag": "m."
+      },
+      {
+        "headword": "דד",
+        "homographIndex": null,
+        "grammaticalTag": "ch."
+      },
+      {
+        "headword": "דדבא",
+        "homographIndex": null,
+        "grammaticalTag": null
+      },
+      {
+        "headword": "דודתא",
+        "homographIndex": null,
+        "grammaticalTag": null
+      },
+      {
+        "headword": "דדי",
+        "homographIndex": null,
+        "grammaticalTag": null
+      },
+      {
+        "headword": "דד",
+        "homographIndex": null,
+        "grammaticalTag": null
+      },
+      {
+        "headword": "דדקון",
+        "homographIndex": null,
+        "grammaticalTag": null
+      },
+      {
+        "headword": "דדאה",
+        "homographIndex": null,
+        "grammaticalTag": null
+      },
+      {
+        "headword": "דדיה",
+        "homographIndex": null,
+        "grammaticalTag": "f."
+      },
+      {
+        "headword": "דודים",
+        "homographIndex": null,
+        "grammaticalTag": "m. pl."
+      },
+      {
+        "headword": "דדא",
+        "homographIndex": null,
+        "grammaticalTag": null
+      },
+      {
+        "headword": "דידקית",
+        "homographIndex": null,
+        "grammaticalTag": null
+      },
+      {
+        "headword": "דך",
+        "homographIndex": null,
+        "grammaticalTag": null
+      },
+      {
+        "headword": "דהב",
+        "homographIndex": null,
+        "grammaticalTag": "ch."
+      },
+      {
+        "headword": "דהבא",
+        "homographIndex": null,
+        "grammaticalTag": "pr. n. m."
+      },
+      {
+        "headword": "דהבניתא",
+        "homographIndex": null,
+        "grammaticalTag": "m."
+      },
+      {
+        "headword": "דהבילא",
+        "homographIndex": null,
+        "grammaticalTag": "m."
+      },
+      {
+        "headword": "דהבא",
+        "homographIndex": null,
+        "grammaticalTag": "ch."
+      },
+      {
+        "headword": "דהב",
+        "homographIndex": null,
+        "grammaticalTag": "pr. n. pl."
+      },
+      {
+        "headword": "דהדהא",
+        "homographIndex": null,
+        "grammaticalTag": null
+      },
+      {
+        "headword": "דהדום",
+        "homographIndex": null,
+        "grammaticalTag": "m."
+      },
+      {
+        "headword": "דהדן",
+        "homographIndex": null,
+        "grammaticalTag": null
+      },
+      {
+        "headword": "דהדור",
+        "homographIndex": null,
+        "grammaticalTag": null
+      },
+      {
+        "headword": "דהוה",
+        "homographIndex": null,
+        "grammaticalTag": null
+      },
+      {
+        "headword": "דהון",
+        "homographIndex": null,
+        "grammaticalTag": null
+      },
+      {
+        "headword": "דהיו",
+        "homographIndex": null,
+        "grammaticalTag": "m."
+      },
+      {
+        "headword": "דהיא",
+        "homographIndex": null,
+        "grammaticalTag": "f."
+      },
+      {
+        "headword": "דהו",
+        "homographIndex": null,
+        "grammaticalTag": null
+      },
+      {
+        "headword": "דהזן",
+        "homographIndex": null,
+        "grammaticalTag": null
+      },
+      {
+        "headword": "דהידא",
+        "homographIndex": null,
+        "grammaticalTag": "f."
+      },
+      {
+        "headword": "דהמסיא",
+        "homographIndex": null,
+        "grammaticalTag": "f."
+      },
+      {
+        "headword": "דהמיתא",
+        "homographIndex": null,
+        "grammaticalTag": "f."
+      },
+      {
+        "headword": "דהנא",
+        "homographIndex": null,
+        "grammaticalTag": "f."
+      },
+      {
+        "headword": "דהר",
+        "homographIndex": "I",
+        "grammaticalTag": null
+      },
+      {
+        "headword": "דהר",
+        "homographIndex": "II",
+        "grammaticalTag": null
+      },
+      {
+        "headword": "דו",
+        "homographIndex": "III",
+        "grammaticalTag": null
+      },
+      {
+        "headword": "דיא",
+        "homographIndex": null,
+        "grammaticalTag": null
+      },
+      {
+        "headword": "דאב",
+        "homographIndex": null,
+        "grammaticalTag": "n. pr. m."
+      },
+      {
+        "headword": "דובאר",
+        "homographIndex": null,
+        "grammaticalTag": "m."
+      },
+      {
+        "headword": "דאב",
+        "homographIndex": null,
+        "grammaticalTag": null
+      },
+      {
+        "headword": "דובב",
+        "homographIndex": "I",
+        "grammaticalTag": null
+      },
+      {
+        "headword": "דובב",
+        "homographIndex": "II",
+        "grammaticalTag": "m."
+      },
+      {
+        "headword": "דובי",
+        "homographIndex": null,
+        "grammaticalTag": null
+      },
+      {
+        "headword": "דוד",
+        "homographIndex": null,
+        "grammaticalTag": "pr. n. m."
+      },
+      {
+        "headword": "דויד",
+        "homographIndex": null,
+        "grammaticalTag": "ch."
+      },
+      {
+        "headword": "דוא",
+        "homographIndex": null,
+        "grammaticalTag": null
+      },
+      {
+        "headword": "דווי",
+        "homographIndex": null,
+        "grammaticalTag": "m."
+      },
+      {
+        "headword": "דיווא",
+        "homographIndex": null,
+        "grammaticalTag": "f."
+      },
+      {
+        "headword": "דוירא",
+        "homographIndex": null,
+        "grammaticalTag": null
+      },
+      {
+        "headword": "דוואשא",
+        "homographIndex": null,
+        "grammaticalTag": "m. ch."
+      },
+      {
+        "headword": "דוואשא",
+        "homographIndex": null,
+        "grammaticalTag": "m. ch."
+      },
+      {
+        "headword": "דוואש",
+        "homographIndex": null,
+        "grammaticalTag": "m."
+      },
+      {
+        "headword": "דוי",
+        "homographIndex": null,
+        "grammaticalTag": "ch."
+      },
+      {
+        "headword": "דווי",
+        "homographIndex": null,
+        "grammaticalTag": "m. pl."
+      },
+      {
+        "headword": "דווייא",
+        "homographIndex": null,
+        "grammaticalTag": null
+      },
+      {
+        "headword": "דוו",
+        "homographIndex": null,
+        "grammaticalTag": null
+      },
+      {
+        "headword": "דוודא",
+        "homographIndex": null,
+        "grammaticalTag": null
+      },
+      {
+        "headword": "דודא",
+        "homographIndex": null,
+        "grammaticalTag": "f."
+      },
+      {
+        "headword": "דודאים",
+        "homographIndex": null,
+        "grammaticalTag": "m. pl."
+      },
+      {
+        "headword": "דוד",
+        "homographIndex": null,
+        "grammaticalTag": "pr. n. m."
+      },
+      {
+        "headword": "דוד",
+        "homographIndex": null,
+        "grammaticalTag": "m."
+      },
+      {
+        "headword": "דוד",
+        "homographIndex": null,
+        "grammaticalTag": "ch."
+      },
+      {
+        "headword": "דודא",
+        "homographIndex": null,
+        "grammaticalTag": "m."
+      },
+      {
+        "headword": "דודים",
+        "homographIndex": null,
+        "grammaticalTag": "m. pl."
+      },
+      {
+        "headword": "דודה",
+        "homographIndex": null,
+        "grammaticalTag": null
+      },
+      {
+        "headword": "דודית",
+        "homographIndex": null,
+        "grammaticalTag": "f."
+      },
+      {
+        "headword": "דודיתא",
+        "homographIndex": null,
+        "grammaticalTag": null
+      },
+      {
+        "headword": "דודניא",
+        "homographIndex": null,
+        "grammaticalTag": null
+      },
+      {
+        "headword": "דודא",
+        "homographIndex": null,
+        "grammaticalTag": "m."
+      },
+      {
+        "headword": "דליים",
+        "homographIndex": null,
+        "grammaticalTag": "m. pl."
+      }
+    ]
+  },
+  "meta": {
+    "provider": "openai",
+    "model": "gpt-5.5",
+    "doc_id": "f9nrfUNC",
+    "file_id": "file-2GdLGHbNWRSwQPzpRWvN3Q",
+    "response_id": "resp_0c3870fcfe0207c2016a594afddf4c81a3841756b419c602ae",
+    "usage": {
+      "input_tokens": 6630,
+      "input_tokens_details": {
+        "cache_write_tokens": 0,
+        "cached_tokens": 0
+      },
+      "output_tokens": 9506,
+      "output_tokens_details": {
+        "reasoning_tokens": 5696
+      },
+      "total_tokens": 16136
+    },
+    "schema_mode": "openai_strict_nullable_v1",
+    "input_mode": "file",
+    "guidelines_mode": "none",
+    "guidelines_chars": 0
+  }
+}

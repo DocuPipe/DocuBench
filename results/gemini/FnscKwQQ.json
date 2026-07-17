@@ -1,0 +1,37 @@
+{
+  "status": "failed",
+  "error": {
+    "type": "incomplete_response",
+    "message": "finishReason was MAX_TOKENS"
+  },
+  "cost": null,
+  "time_sec": 306.020067691803,
+  "data": {},
+  "meta": {
+    "provider": "google",
+    "model": "gemini-3.5-flash",
+    "doc_id": "FnscKwQQ",
+    "usage": {
+      "promptTokenCount": 8678,
+      "candidatesTokenCount": 20554,
+      "totalTokenCount": 74195,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 166
+        },
+        {
+          "modality": "IMAGE",
+          "tokenCount": 8512
+        }
+      ],
+      "thoughtsTokenCount": 44963,
+      "serviceTier": "standard"
+    },
+    "schema_mode": "gemini_response_schema_nullable_v1",
+    "input_mode": "inline_data",
+    "guidelines_mode": "guidelines_txt_v1",
+    "guidelines_chars": 570,
+    "guidelines_sha256": "11175883aa9b1088d5b56e2cb129d53a780e6daeb7308efe0a300d0b05100ab1"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "status": "failed",
+  "error": {
+    "type": "incomplete_response",
+    "message": "finishReason was RECITATION"
+  },
+  "cost": null,
+  "time_sec": 153.05129599571228,
+  "data": {},
+  "meta": {
+    "provider": "google",
+    "model": "gemini-3.5-flash",
+    "doc_id": "2Kqu7k2B",
+    "usage": {
+      "promptTokenCount": 7616,
+      "totalTokenCount": 26879,
+      "promptTokensDetails": [
+        {
+          "modality": "IMAGE",
+          "tokenCount": 7560
+        },
+        {
+          "modality": "TEXT",
+          "tokenCount": 56
+        }
+      ],
+      "thoughtsTokenCount": 19263,
+      "serviceTier": "standard"
+    },
+    "schema_mode": "gemini_response_schema_nullable_v1",
+    "input_mode": "inline_data",
+    "guidelines_mode": "none",
+    "guidelines_chars": 0
+  }
+}

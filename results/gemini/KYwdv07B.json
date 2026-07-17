@@ -1,0 +1,995 @@
+{
+  "status": "ok",
+  "cost": null,
+  "time_sec": 79.9430410861969,
+  "data": {
+    "entries": [
+      {
+        "exchange": "West",
+        "phoneNumber": "6445",
+        "subscriberName": "B. B. Grand Lodge",
+        "listingDetail": "1838 Sutter"
+      },
+      {
+        "exchange": "Markt",
+        "phoneNumber": "149",
+        "subscriberName": "B. & M. Cabinet Manufacturing Co.",
+        "listingDetail": "Bank, Store and Office Fixtures, 3060 Seventeenth"
+      },
+      {
+        "exchange": "West",
+        "phoneNumber": "1025",
+        "subscriberName": "B. & S. Drug Co.",
+        "listingDetail": "1441 Eddy"
+      },
+      {
+        "exchange": "Fell",
+        "phoneNumber": "4692",
+        "subscriberName": "Baagoe, C.",
+        "listingDetail": "Res 968 Clayton"
+      },
+      {
+        "exchange": "West",
+        "phoneNumber": "397",
+        "subscriberName": "Babcock, Harry",
+        "listingDetail": "Res 2660 Scott"
+      },
+      {
+        "exchange": "West",
+        "phoneNumber": "4664",
+        "subscriberName": "Bacciocco, G.",
+        "listingDetail": "Fuel & Feed, 1604 Grove"
+      },
+      {
+        "exchange": "Frnkln",
+        "phoneNumber": "489",
+        "subscriberName": "Bachman, S. & Co., Inc.",
+        "listingDetail": "Wholesale Cigars, Pine and Polk"
+      },
+      {
+        "exchange": "West",
+        "phoneNumber": "5107",
+        "subscriberName": "Bacigalupi, Peter, & Sons",
+        "listingDetail": "Talking Machines, 1113 Fillmore"
+      },
+      {
+        "exchange": "West",
+        "phoneNumber": "6478",
+        "subscriberName": "Backus, Saml. W.",
+        "listingDetail": "President Western Expanded Metal & Fireproofing Co., 2265 California"
+      },
+      {
+        "exchange": "West",
+        "phoneNumber": "3900",
+        "subscriberName": "Badt, Alexander L.",
+        "listingDetail": "Res 2319 Sacramento"
+      },
+      {
+        "exchange": "West",
+        "phoneNumber": "3470",
+        "subscriberName": "Badt, Mrs. L.",
+        "listingDetail": "Res 3038 Jackson"
+      },
+      {
+        "exchange": "West",
+        "phoneNumber": "2302",
+        "subscriberName": "Baehr's Cafe",
+        "listingDetail": "1749 Fillmore"
+      },
+      {
+        "exchange": "West",
+        "phoneNumber": "5238",
+        "subscriberName": "Baer, August",
+        "listingDetail": "Res 2337 Bush"
+      },
+      {
+        "exchange": "Frnkln",
+        "phoneNumber": "2144",
+        "subscriberName": "Baer, Dr. Julius",
+        "listingDetail": "Ofc., Sutter & Polk"
+      },
+      {
+        "exchange": "Pac",
+        "phoneNumber": "1148",
+        "subscriberName": "Baer, Louis",
+        "listingDetail": "Res 655 2nd Ave"
+      },
+      {
+        "exchange": "Markt",
+        "phoneNumber": "3835",
+        "subscriberName": "Bagot, E. A.",
+        "listingDetail": "Res 1065 Dolores"
+      },
+      {
+        "exchange": "West",
+        "phoneNumber": "2119",
+        "subscriberName": "Bailey, Mrs. Herbert W.",
+        "listingDetail": "Res 650 Lyon"
+      },
+      {
+        "exchange": "Markt",
+        "phoneNumber": "189",
+        "subscriberName": "Bailly & Hampton",
+        "listingDetail": "National Carpet Beating Wks, 346 Church"
+      },
+      {
+        "exchange": "West",
+        "phoneNumber": "1559",
+        "subscriberName": "Baker, A. W.",
+        "listingDetail": "Dentist, 357 Presidio Ave"
+      },
+      {
+        "exchange": "West",
+        "phoneNumber": "5773",
+        "subscriberName": "Baker, Chas. H.",
+        "listingDetail": "Mgr Pacific Lithograph Co., 2812 Sacramento"
+      },
+      {
+        "exchange": "West",
+        "phoneNumber": "704",
+        "subscriberName": "Baker-Street Pharmacy",
+        "listingDetail": "1799 McAllister"
+      },
+      {
+        "exchange": "Tmpy",
+        "phoneNumber": "2800",
+        "subscriberName": "Baker & Hamilton",
+        "listingDetail": "Hardware, Third and Berry Private Exchange Connecting All Departments."
+      },
+      {
+        "exchange": "West",
+        "phoneNumber": "1883",
+        "subscriberName": "Bakewell & Brown",
+        "listingDetail": "Architects, 1860 Webster"
+      },
+      {
+        "exchange": "West",
+        "phoneNumber": "584",
+        "subscriberName": "Baldwin, Alexander R.",
+        "listingDetail": "Attorney, 2416 Washington"
+      },
+      {
+        "exchange": "Frnkln",
+        "phoneNumber": "2717",
+        "subscriberName": "Baldwin, D. H., & Co.",
+        "listingDetail": "Pianos, Van Ness & California"
+      },
+      {
+        "exchange": "West",
+        "phoneNumber": "1869",
+        "subscriberName": "Baldwin, D. H. & Co.",
+        "listingDetail": "Piano Mfrs, 2512 Sacramento"
+      },
+      {
+        "exchange": "West",
+        "phoneNumber": "4573",
+        "subscriberName": "Baldwin, H. E.",
+        "listingDetail": "Res 2628 Laguna"
+      },
+      {
+        "exchange": "West",
+        "phoneNumber": "6122",
+        "subscriberName": "Baldwin & Howell",
+        "listingDetail": "Real Estate, 1692 Fillmore"
+      },
+      {
+        "exchange": "West",
+        "phoneNumber": "3343",
+        "subscriberName": "Balich, Mrs. A.",
+        "listingDetail": "Res 1143 Devisadero"
+      },
+      {
+        "exchange": "West",
+        "phoneNumber": "5645",
+        "subscriberName": "Ballard, Dr. J. Stow",
+        "listingDetail": "Res 3303 Clay"
+      },
+      {
+        "exchange": "West",
+        "phoneNumber": "1123",
+        "subscriberName": "Balny, A. J.",
+        "listingDetail": "Res 2215A Sutter"
+      },
+      {
+        "exchange": "Frnkln",
+        "phoneNumber": "123",
+        "subscriberName": "Baltimore Hotel",
+        "listingDetail": "1015 Van Ness Ave Private Exchange Connecting All Apartments."
+      },
+      {
+        "exchange": "West",
+        "phoneNumber": "7839",
+        "subscriberName": "Balzer, Julius",
+        "listingDetail": "Res 2329 Pine"
+      },
+      {
+        "exchange": "Tmpy",
+        "phoneNumber": "972",
+        "subscriberName": "Bancroft, Philip",
+        "listingDetail": "Attorney, Monadnock Bldg"
+      },
+      {
+        "exchange": "West",
+        "phoneNumber": "7197",
+        "subscriberName": "Banfield's Pharmacy",
+        "listingDetail": "2204 Fillmore"
+      },
+      {
+        "exchange": "Tmpy",
+        "phoneNumber": "434",
+        "subscriberName": "Bank of California",
+        "listingDetail": "424 California Private Exchange Connecting All Departments."
+      },
+      {
+        "exchange": "West",
+        "phoneNumber": "4129",
+        "subscriberName": "Bannan, Mrs. Geo.",
+        "listingDetail": "Res 2645 Sacramento"
+      },
+      {
+        "exchange": "West",
+        "phoneNumber": "3222",
+        "subscriberName": "Bantel, Chas. A.",
+        "listingDetail": "Res 1614 McAllister"
+      },
+      {
+        "exchange": "West",
+        "phoneNumber": "6297",
+        "subscriberName": "Baraco, C.",
+        "listingDetail": "Mgr Edison Elec. Const. Co., 1430 Geary"
+      },
+      {
+        "exchange": "Frnkln",
+        "phoneNumber": "1489",
+        "subscriberName": "Barber, Mrs. T. H.",
+        "listingDetail": "Res 1612 Vallejo"
+      },
+      {
+        "exchange": "West",
+        "phoneNumber": "4441",
+        "subscriberName": "Barker, Mrs. J. W.",
+        "listingDetail": "Res 1176 Ellis"
+      },
+      {
+        "exchange": "West",
+        "phoneNumber": "4321",
+        "subscriberName": "Barker & Walsh",
+        "listingDetail": "Consulting Engineers, 2504A Clay"
+      },
+      {
+        "exchange": "West",
+        "phoneNumber": "5691",
+        "subscriberName": "Barman, Mrs. H.",
+        "listingDetail": "Res 2672 Bush"
+      },
+      {
+        "exchange": "West",
+        "phoneNumber": "2823",
+        "subscriberName": "Barner, Charles",
+        "listingDetail": "Grocer, 3001 Laguna"
+      },
+      {
+        "exchange": "West",
+        "phoneNumber": "3756",
+        "subscriberName": "Barner & Kehlenbeck",
+        "listingDetail": "Wholesale Liquors, 1801 Devisadero"
+      },
+      {
+        "exchange": "West",
+        "phoneNumber": "7532",
+        "subscriberName": "Barnes, Mrs. L. E.",
+        "listingDetail": "Res 2380 Green"
+      },
+      {
+        "exchange": "West",
+        "phoneNumber": "5947",
+        "subscriberName": "Barnes, W. F.",
+        "listingDetail": "Res 2301 Scott"
+      },
+      {
+        "exchange": "West",
+        "phoneNumber": "2342",
+        "subscriberName": "Barnett, A. T.",
+        "listingDetail": "Atty, 1909 Sutter"
+      },
+      {
+        "exchange": "West",
+        "phoneNumber": "6043",
+        "subscriberName": "Barnett, Mrs. W. T.",
+        "listingDetail": "Res 742 Devisadero"
+      },
+      {
+        "exchange": "West",
+        "phoneNumber": "5056",
+        "subscriberName": "Baron, Ben",
+        "listingDetail": "Res 1222 Eddy"
+      },
+      {
+        "exchange": "West",
+        "phoneNumber": "5861",
+        "subscriberName": "Barrett, E. T.",
+        "listingDetail": "Attorney, 1300 Golden Gate Ave"
+      },
+      {
+        "exchange": "West",
+        "phoneNumber": "4181",
+        "subscriberName": "Barrett, Dr. Gilbert M.",
+        "listingDetail": "Ofc., 1796 Post"
+      },
+      {
+        "exchange": "West",
+        "phoneNumber": "4588",
+        "subscriberName": "Barrett, John J.",
+        "listingDetail": "Res 3919 California"
+      },
+      {
+        "exchange": "West",
+        "phoneNumber": "4327",
+        "subscriberName": "Barrett, Miss N.",
+        "listingDetail": "Res 2709A Laguna"
+      },
+      {
+        "exchange": "West",
+        "phoneNumber": "6116",
+        "subscriberName": "Barry, Dr. Ernest",
+        "listingDetail": "Ofc., 2510 Washington"
+      },
+      {
+        "exchange": "West",
+        "phoneNumber": "1836",
+        "subscriberName": "Barry, Mrs. M. H.",
+        "listingDetail": "Res 3028 Webster"
+      },
+      {
+        "exchange": "West",
+        "phoneNumber": "7967",
+        "subscriberName": "Barry, T. J.",
+        "listingDetail": "Res 1817 Lyon"
+      },
+      {
+        "exchange": "West",
+        "phoneNumber": "7636",
+        "subscriberName": "Barth, Mrs. E. M.",
+        "listingDetail": "Res 1858 Fell"
+      },
+      {
+        "exchange": "West",
+        "phoneNumber": "1317",
+        "subscriberName": "Barth, Hermann",
+        "listingDetail": "Architect, 2500 Fillmore"
+      },
+      {
+        "exchange": "West",
+        "phoneNumber": "2849",
+        "subscriberName": "Barthels, Mrs. A.",
+        "listingDetail": "Res 3000 California"
+      },
+      {
+        "exchange": "West",
+        "phoneNumber": "780",
+        "subscriberName": "Baruch, Frederick",
+        "listingDetail": "Res 2230 Washington"
+      },
+      {
+        "exchange": "West",
+        "phoneNumber": "6812",
+        "subscriberName": "Baruh & Lasar",
+        "listingDetail": "Camel Bar & Cafe, 1046 Golden Gate Ave"
+      },
+      {
+        "exchange": "West",
+        "phoneNumber": "3341",
+        "subscriberName": "Basch, Mrs. J.",
+        "listingDetail": "Res 3495 Sacramento"
+      },
+      {
+        "exchange": "West",
+        "phoneNumber": "5647",
+        "subscriberName": "Basch, S.",
+        "listingDetail": "Res 1463 Steiner"
+      },
+      {
+        "exchange": "West",
+        "phoneNumber": "2008",
+        "subscriberName": "Bassett, A. C.",
+        "listingDetail": "Gen. Mgr Loma Prieta Lumber Co., 1860 Webster"
+      },
+      {
+        "exchange": "West",
+        "phoneNumber": "3735",
+        "subscriberName": "Bassett, H. F.",
+        "listingDetail": "Res 2865 Broderick"
+      },
+      {
+        "exchange": "West",
+        "phoneNumber": "7045",
+        "subscriberName": "Bassity, J. A.",
+        "listingDetail": "Saloon, 1644 Fillmore"
+      },
+      {
+        "exchange": "West",
+        "phoneNumber": "7566",
+        "subscriberName": "Batchelder, W. J.",
+        "listingDetail": "Res 1931 California"
+      },
+      {
+        "exchange": "West",
+        "phoneNumber": "3974",
+        "subscriberName": "Bateman, J. C.",
+        "listingDetail": "Res 2305 Bush"
+      },
+      {
+        "exchange": "West",
+        "phoneNumber": "4560",
+        "subscriberName": "Bateman, Marie T.",
+        "listingDetail": "Res 2162 Pine"
+      },
+      {
+        "exchange": "West",
+        "phoneNumber": "3703",
+        "subscriberName": "Baumeister & Edlin",
+        "listingDetail": "Saloon, 1300 Devisadero"
+      },
+      {
+        "exchange": "West",
+        "phoneNumber": "4931",
+        "subscriberName": "Bauix, Madam V. B.",
+        "listingDetail": "French Laundry, 3472 Sacramento"
+      },
+      {
+        "exchange": "West",
+        "phoneNumber": "2239",
+        "subscriberName": "Baum, S.",
+        "listingDetail": "Res 2918 Jackson"
+      },
+      {
+        "exchange": "West",
+        "phoneNumber": "7755",
+        "subscriberName": "Baumgaertel, Mrs. H.",
+        "listingDetail": "Res 2970 Pine"
+      },
+      {
+        "exchange": "West",
+        "phoneNumber": "65",
+        "subscriberName": "Baumgarten Bros.",
+        "listingDetail": "Clover Market, 2019 Fillmore"
+      },
+      {
+        "exchange": "West",
+        "phoneNumber": "2730",
+        "subscriberName": "Baumgarten Bros.",
+        "listingDetail": "Elite Market, 1495 Ellis"
+      },
+      {
+        "exchange": "West",
+        "phoneNumber": "4903",
+        "subscriberName": "Baumgarten, Mrs. H.",
+        "listingDetail": "Res 1418 Steiner"
+      },
+      {
+        "exchange": "West",
+        "phoneNumber": "5615",
+        "subscriberName": "Baumgarten, J.",
+        "listingDetail": "Res 1227 Webster"
+      },
+      {
+        "exchange": "West",
+        "phoneNumber": "91",
+        "subscriberName": "Baumgarten, J.",
+        "listingDetail": "Res 2005 Lyon"
+      },
+      {
+        "exchange": "West",
+        "phoneNumber": "4111",
+        "subscriberName": "Bausch & Lomb Optical Co.",
+        "listingDetail": "1629 Geary"
+      },
+      {
+        "exchange": "West",
+        "phoneNumber": "20",
+        "subscriberName": "Bayer, Dr. Joseph",
+        "listingDetail": "Res 2265 Post"
+      },
+      {
+        "exchange": "West",
+        "phoneNumber": "4429",
+        "subscriberName": "Bayha, George",
+        "listingDetail": "Res 2712 Webster"
+      },
+      {
+        "exchange": "West",
+        "phoneNumber": "4876",
+        "subscriberName": "Bayley, E. F.",
+        "listingDetail": "Res 1138 Webster"
+      },
+      {
+        "exchange": "West",
+        "phoneNumber": "5971",
+        "subscriberName": "Bayly Drug Co., The",
+        "listingDetail": "1400 Devisadero"
+      },
+      {
+        "exchange": "West",
+        "phoneNumber": "5967",
+        "subscriberName": "Bayne, Richard",
+        "listingDetail": "Res 3733 Clay"
+      },
+      {
+        "exchange": "West",
+        "phoneNumber": "5916",
+        "subscriberName": "Bazaar Co., The",
+        "listingDetail": "1731 Devisadero"
+      },
+      {
+        "exchange": "West",
+        "phoneNumber": "252",
+        "subscriberName": "Beadle, A. W.",
+        "listingDetail": "Res 2426 Buchanan"
+      },
+      {
+        "exchange": "West",
+        "phoneNumber": "7939",
+        "subscriberName": "Beizley, Mrs. E. W.",
+        "listingDetail": "Res 540 Baker"
+      },
+      {
+        "exchange": "West",
+        "phoneNumber": "2728",
+        "subscriberName": "Beal, C. N.",
+        "listingDetail": "Res 3248 Washington"
+      },
+      {
+        "exchange": "West",
+        "phoneNumber": "5643",
+        "subscriberName": "Bean, Dr. Geo. L.",
+        "listingDetail": "Ofc., 2405 Fillmore"
+      },
+      {
+        "exchange": "West",
+        "phoneNumber": "2243",
+        "subscriberName": "Beck, Mrs. E. E.",
+        "listingDetail": "Res 2202 Steiner"
+      },
+      {
+        "exchange": "West",
+        "phoneNumber": "4687",
+        "subscriberName": "Beck, Dr. H. M.",
+        "listingDetail": "Res 1673 Sutter"
+      },
+      {
+        "exchange": "West",
+        "phoneNumber": "197",
+        "subscriberName": "Beck, Ignatz",
+        "listingDetail": "Drugs, 1348 Ellis"
+      },
+      {
+        "exchange": "West",
+        "phoneNumber": "3941",
+        "subscriberName": "Beck, W. T., & Sons",
+        "listingDetail": "Painters and Decorators, 731 Devisadero"
+      },
+      {
+        "exchange": "West",
+        "phoneNumber": "2218",
+        "subscriberName": "Becker, Adolph",
+        "listingDetail": "Res 1122 Buchanan"
+      },
+      {
+        "exchange": "West",
+        "phoneNumber": "7549",
+        "subscriberName": "Becker, Dave",
+        "listingDetail": "Saloon & Cafe, 1754 Geary"
+      },
+      {
+        "exchange": "West",
+        "phoneNumber": "7854",
+        "subscriberName": "Becker, Mrs. E.",
+        "listingDetail": "Res 2633 Sacramento"
+      },
+      {
+        "exchange": "West",
+        "phoneNumber": "907",
+        "subscriberName": "Becker, H.",
+        "listingDetail": "Res 1564 Buchanan"
+      },
+      {
+        "exchange": "West",
+        "phoneNumber": "1901",
+        "subscriberName": "Becker, O. W., & Co.",
+        "listingDetail": "Loans and Investments, 2111 Fillmore"
+      },
+      {
+        "exchange": "West",
+        "phoneNumber": "2096",
+        "subscriberName": "Beckett, S. H.",
+        "listingDetail": "Res 1834 Golden Gate Ave"
+      },
+      {
+        "exchange": "West",
+        "phoneNumber": "194",
+        "subscriberName": "Belinge, Raymond A.",
+        "listingDetail": "Res 2389 Filbert"
+      },
+      {
+        "exchange": "West",
+        "phoneNumber": "5434",
+        "subscriberName": "Belknap, Alden",
+        "listingDetail": "Res 2832 California"
+      },
+      {
+        "exchange": "West",
+        "phoneNumber": "5128",
+        "subscriberName": "Bell, Arthur F. L.",
+        "listingDetail": "Res 220 Ashbury"
+      },
+      {
+        "exchange": "West",
+        "phoneNumber": "506",
+        "subscriberName": "Bell, Chas. H.",
+        "listingDetail": "Dentist, 2202 Fillmore"
+      },
+      {
+        "exchange": "West",
+        "phoneNumber": "231",
+        "subscriberName": "Bell, Chas. H.",
+        "listingDetail": "Res 2625 Sacramento"
+      },
+      {
+        "exchange": "West",
+        "phoneNumber": "6396",
+        "subscriberName": "Bell, Frank A.",
+        "listingDetail": "Res 676 Lyon"
+      },
+      {
+        "exchange": "West",
+        "phoneNumber": "5422",
+        "subscriberName": "Bell, Frank V.",
+        "listingDetail": "Res 2078 Green"
+      },
+      {
+        "exchange": "West",
+        "phoneNumber": "4373",
+        "subscriberName": "Bell, Geo. W.",
+        "listingDetail": "Res 1920 Filbert"
+      },
+      {
+        "exchange": "West",
+        "phoneNumber": "7791",
+        "subscriberName": "Bell, Rev. H. H.",
+        "listingDetail": "Res 1548 Fulton"
+      },
+      {
+        "exchange": "West",
+        "phoneNumber": "4725",
+        "subscriberName": "Bell, W. H.",
+        "listingDetail": "Res 1154 Webster"
+      },
+      {
+        "exchange": "West",
+        "phoneNumber": "3082",
+        "subscriberName": "Benedict, C. S.",
+        "listingDetail": "Res 2119 California"
+      },
+      {
+        "exchange": "West",
+        "phoneNumber": "3650",
+        "subscriberName": "Benedict, H. G.",
+        "listingDetail": "Res 3035 California"
+      },
+      {
+        "exchange": "West",
+        "phoneNumber": "4243",
+        "subscriberName": "Benjamin, Mrs. R.",
+        "listingDetail": "Res 1564 O'Farrell"
+      },
+      {
+        "exchange": "West",
+        "phoneNumber": "1963",
+        "subscriberName": "Benjamin, Mrs. R. D.",
+        "listingDetail": "Res 2712 Pine"
+      },
+      {
+        "exchange": "West",
+        "phoneNumber": "461",
+        "subscriberName": "Bennett, Dr. D. Gates",
+        "listingDetail": "Res 1716 Sutter"
+      },
+      {
+        "exchange": "West",
+        "phoneNumber": "4205",
+        "subscriberName": "Bennett, E. D.",
+        "listingDetail": "Res 1752 Turk"
+      },
+      {
+        "exchange": "West",
+        "phoneNumber": "5423",
+        "subscriberName": "Bennett, Mrs. Helen",
+        "listingDetail": "Res 1927 Devisadero"
+      },
+      {
+        "exchange": "West",
+        "phoneNumber": "7265",
+        "subscriberName": "Benninger, C. J.",
+        "listingDetail": "Res 1404 O'Farrell"
+      },
+      {
+        "exchange": "West",
+        "phoneNumber": "3840",
+        "subscriberName": "Benone, J.",
+        "listingDetail": "Fish and Fruits, 1474 Fulton"
+      },
+      {
+        "exchange": "West",
+        "phoneNumber": "6751",
+        "subscriberName": "Bensen, Conrad",
+        "listingDetail": "Saloon, 1501 Buchanan"
+      },
+      {
+        "exchange": "West",
+        "phoneNumber": "7758",
+        "subscriberName": "Berg, Jacob",
+        "listingDetail": "Res 2722 Sutter"
+      },
+      {
+        "exchange": "West",
+        "phoneNumber": "4775",
+        "subscriberName": "Berg, Miss Toby",
+        "listingDetail": "Res 1609 McAllister"
+      },
+      {
+        "exchange": "West",
+        "phoneNumber": "6879",
+        "subscriberName": "Berger's",
+        "listingDetail": "Haberdashery, 1449 Fillmore"
+      },
+      {
+        "exchange": "West",
+        "phoneNumber": "4146",
+        "subscriberName": "Berges, Dr. E. R.",
+        "listingDetail": "Res 1653 Devisadero"
+      },
+      {
+        "exchange": "West",
+        "phoneNumber": "3154",
+        "subscriberName": "Berghauser, Mrs. J. H.",
+        "listingDetail": "Res 2848 Washington"
+      },
+      {
+        "exchange": "West",
+        "phoneNumber": "5352",
+        "subscriberName": "Bergin, T. I.",
+        "listingDetail": "Res 2012 Jackson"
+      },
+      {
+        "exchange": "West",
+        "phoneNumber": "3471",
+        "subscriberName": "Bergman, E. E.",
+        "listingDetail": "Res 2169 15th"
+      },
+      {
+        "exchange": "West",
+        "phoneNumber": "978",
+        "subscriberName": "Bergren, J.",
+        "listingDetail": "Foxhall Cafe and Oyster House, 2318 Fillmore"
+      },
+      {
+        "exchange": "West",
+        "phoneNumber": "806",
+        "subscriberName": "Bergstein, Miss C.",
+        "listingDetail": "Res 1653 Post"
+      },
+      {
+        "exchange": "West",
+        "phoneNumber": "3816",
+        "subscriberName": "Bering, E. A.",
+        "listingDetail": "Res 1643 Webster"
+      },
+      {
+        "exchange": "West",
+        "phoneNumber": "5844",
+        "subscriberName": "Bernheim, Wm. A.",
+        "listingDetail": "Trunks, 1690 Fillmore"
+      },
+      {
+        "exchange": "West",
+        "phoneNumber": "4906",
+        "subscriberName": "Bernstein, Mrs. B.",
+        "listingDetail": "Res 1109 Ellis"
+      },
+      {
+        "exchange": "West",
+        "phoneNumber": "2532",
+        "subscriberName": "Bernstein, Harry",
+        "listingDetail": "Res 1830 Sutter"
+      },
+      {
+        "exchange": "West",
+        "phoneNumber": "4351",
+        "subscriberName": "Bernstein, J. A.",
+        "listingDetail": "Res 845 Devisadero"
+      },
+      {
+        "exchange": "West",
+        "phoneNumber": "7650",
+        "subscriberName": "Bernstein, M.",
+        "listingDetail": "Res 1347 Ellis"
+      },
+      {
+        "exchange": "West",
+        "phoneNumber": "5686",
+        "subscriberName": "Bernstein, Mrs. M.",
+        "listingDetail": "Res 2192 Green"
+      },
+      {
+        "exchange": "West",
+        "phoneNumber": "1055",
+        "subscriberName": "Beronio, Miss Eda",
+        "listingDetail": "Res 2240 Broderick"
+      },
+      {
+        "exchange": "West",
+        "phoneNumber": "3896",
+        "subscriberName": "Berringer, C. E.",
+        "listingDetail": "Res 1610 Fulton"
+      },
+      {
+        "exchange": "West",
+        "phoneNumber": "5810",
+        "subscriberName": "Berry, Edith",
+        "listingDetail": "Res 2979 Pacific Ave"
+      },
+      {
+        "exchange": "West",
+        "phoneNumber": "4061",
+        "subscriberName": "Berry, Wm. R.",
+        "listingDetail": "Res 2680 Sacramento"
+      },
+      {
+        "exchange": "West",
+        "phoneNumber": "7026",
+        "subscriberName": "Beveridge, H.",
+        "listingDetail": "Res 58 Stanyan"
+      },
+      {
+        "exchange": "West",
+        "phoneNumber": "1839",
+        "subscriberName": "Bianchi, R.",
+        "listingDetail": "New Saratoga Market, 3777 Sacramento"
+      },
+      {
+        "exchange": "West",
+        "phoneNumber": "3952",
+        "subscriberName": "Bianucci, R., & Co.",
+        "listingDetail": "Reliance Fruit Market, 1919 McAllister"
+      },
+      {
+        "exchange": "West",
+        "phoneNumber": "454",
+        "subscriberName": "Bibb, D. H.",
+        "listingDetail": "1401 Gough"
+      },
+      {
+        "exchange": "West",
+        "phoneNumber": "3113",
+        "subscriberName": "Bibbero, D.",
+        "listingDetail": "Res 2614 Webster"
+      },
+      {
+        "exchange": "West",
+        "phoneNumber": "3534",
+        "subscriberName": "Bibbero, Lesser & Co.",
+        "listingDetail": "R. G. Co., 2355 Bush"
+      },
+      {
+        "exchange": "West",
+        "phoneNumber": "6622",
+        "subscriberName": "Biber, Dr. Paul E.",
+        "listingDetail": "Res 1626 Octavia"
+      },
+      {
+        "exchange": "West",
+        "phoneNumber": "3979",
+        "subscriberName": "Bibo, Sol",
+        "listingDetail": "Res 312 Maple"
+      },
+      {
+        "exchange": "West",
+        "phoneNumber": "2911",
+        "subscriberName": "Bidderman, M.",
+        "listingDetail": "Notions, 2804 Greenwich"
+      },
+      {
+        "exchange": "West",
+        "phoneNumber": "5395",
+        "subscriberName": "Bidwell, Mrs. Richard",
+        "listingDetail": "Res 3634 Sacramento"
+      },
+      {
+        "exchange": "West",
+        "phoneNumber": "3429",
+        "subscriberName": "Bird, P. F.",
+        "listingDetail": "Res 2973 Pine"
+      },
+      {
+        "exchange": "West",
+        "phoneNumber": "6947",
+        "subscriberName": "Birdsall, Dr. G. W.",
+        "listingDetail": "Res 1808 Bush"
+      },
+      {
+        "exchange": "West",
+        "phoneNumber": "1683",
+        "subscriberName": "Birlem, J. F.",
+        "listingDetail": "Res 2005 Green"
+      },
+      {
+        "exchange": "West",
+        "phoneNumber": "4553",
+        "subscriberName": "Birmingham, J. F.",
+        "listingDetail": "Res 2730 Pierce"
+      },
+      {
+        "exchange": "West",
+        "phoneNumber": "7921",
+        "subscriberName": "Birnbaum, I.",
+        "listingDetail": "Res 2706 Pine"
+      },
+      {
+        "exchange": "West",
+        "phoneNumber": "3478",
+        "subscriberName": "Bishop, Mrs. C. A.",
+        "listingDetail": "Res 2682 Sacramento"
+      },
+      {
+        "exchange": "West",
+        "phoneNumber": "233",
+        "subscriberName": "Bishop, Mrs. Thos. B.",
+        "listingDetail": "Res 2309 Washington"
+      },
+      {
+        "exchange": "West",
+        "phoneNumber": "2250",
+        "subscriberName": "Bishop, Thos. P.",
+        "listingDetail": "Res 2805 Washington"
+      },
+      {
+        "exchange": "West",
+        "phoneNumber": "3420",
+        "subscriberName": "Bishop, Mrs. W. H.",
+        "listingDetail": "Res 1694 Sutter"
+      },
+      {
+        "exchange": "West",
+        "phoneNumber": "1295",
+        "subscriberName": "Bissinger, Samuel",
+        "listingDetail": "Res 2129 Jackson"
+      }
+    ]
+  },
+  "meta": {
+    "provider": "google",
+    "model": "gemini-3.5-flash",
+    "doc_id": "KYwdv07B",
+    "usage": {
+      "promptTokenCount": 8694,
+      "candidatesTokenCount": 8760,
+      "totalTokenCount": 25357,
+      "promptTokensDetails": [
+        {
+          "modality": "TEXT",
+          "tokenCount": 54
+        },
+        {
+          "modality": "IMAGE",
+          "tokenCount": 8640
+        }
+      ],
+      "thoughtsTokenCount": 7903,
+      "serviceTier": "standard"
+    },
+    "schema_mode": "gemini_response_schema_nullable_v1",
+    "input_mode": "inline_data",
+    "guidelines_mode": "none",
+    "guidelines_chars": 0
+  }
+}
