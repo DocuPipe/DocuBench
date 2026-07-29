@@ -13,17 +13,19 @@
     "gemini": "Gemini 3.5 Flash",
     "gpt": "GPT-5.5",
     "reducto": "Reducto Deep Extract",
-    "reducto_standard": "Reducto standard"
+    "reducto_standard": "Reducto standard",
+    "unstructured": "Unstructured"
   },
   "aggregates": {
-    "claude5": 0.9166555363015753,
-    "docupipe_high": 0.9703259294086135,
-    "docupipe_standard": 0.9615573247124605,
-    "extend": 0.8021850439187752,
-    "gemini": 0.7292155423439277,
-    "gpt": 0.7641847482326587,
-    "reducto": 0.8930629789678396,
-    "reducto_standard": 0.8105509380637796
+    "claude5": 0.9173235017415949,
+    "docupipe_high": 0.9701698744772776,
+    "docupipe_standard": 0.9614012697811246,
+    "extend": 0.8027669374245345,
+    "gemini": 0.7297547069606681,
+    "gpt": 0.7647756598273756,
+    "reducto": 0.8937915784838248,
+    "reducto_standard": 0.8111096064995544,
+    "unstructured": 0.676743967745659
   },
   "breakdowns": {
     "ftype": [
@@ -37,7 +39,8 @@
         "gemini": 1.0,
         "gpt": 1.0,
         "reducto": 1.0,
-        "reducto_standard": 1.0
+        "reducto_standard": 1.0,
+        "unstructured": 1.0
       },
       {
         "value": "docx",
@@ -49,7 +52,8 @@
         "gemini": 1.0,
         "gpt": 0.8333333333333334,
         "reducto": 1.0,
-        "reducto_standard": 0.7592592592592593
+        "reducto_standard": 0.7592592592592593,
+        "unstructured": 0.9814814814814815
       },
       {
         "value": "html",
@@ -61,7 +65,8 @@
         "gemini": 1.0,
         "gpt": 1.0,
         "reducto": 0.9583333333333334,
-        "reducto_standard": 0.9583333333333334
+        "reducto_standard": 0.9583333333333334,
+        "unstructured": 1.0
       },
       {
         "value": "jpeg",
@@ -73,19 +78,21 @@
         "gemini": 0.9521174002010554,
         "gpt": 0.8827642633108563,
         "reducto": 0.7763880719786308,
-        "reducto_standard": 0.6670318990579034
+        "reducto_standard": 0.6670318990579034,
+        "unstructured": 0.8319370549826235
       },
       {
         "value": "pdf",
         "doc_count": 58,
-        "claude5": 0.9221632056241317,
-        "docupipe_high": 0.966629295734212,
-        "docupipe_standard": 0.9569623052209498,
-        "extend": 0.7838426728288738,
-        "gemini": 0.669333467908045,
-        "gpt": 0.723799375869033,
-        "reducto": 0.8902220662082243,
-        "reducto_standard": 0.8021619605789584
+        "claude5": 0.9229924041013975,
+        "docupipe_high": 0.9664355723711744,
+        "docupipe_standard": 0.9567685818579122,
+        "extend": 0.7845650233877474,
+        "gemini": 0.6700027757081365,
+        "gpt": 0.7245329212969575,
+        "reducto": 0.8911265345728956,
+        "reducto_standard": 0.8028554800164722,
+        "unstructured": 0.6180365153023353
       },
       {
         "value": "png",
@@ -97,7 +104,8 @@
         "gemini": 0.921590909090909,
         "gpt": 0.793783422459893,
         "reducto": 0.9886363636363636,
-        "reducto_standard": 0.9886363636363636
+        "reducto_standard": 0.9886363636363636,
+        "unstructured": 0.9430147058823529
       },
       {
         "value": "tiff",
@@ -109,7 +117,8 @@
         "gemini": 1.0,
         "gpt": 1.0,
         "reducto": 0.9523809523809523,
-        "reducto_standard": 0.95
+        "reducto_standard": 0.95,
+        "unstructured": 0.9523809523809523
       },
       {
         "value": "txt",
@@ -121,7 +130,8 @@
         "gemini": 1.0,
         "gpt": 1.0,
         "reducto": 1.0,
-        "reducto_standard": 1.0
+        "reducto_standard": 1.0,
+        "unstructured": 1.0
       },
       {
         "value": "xlsx",
@@ -133,7 +143,8 @@
         "gemini": 1.0,
         "gpt": 1.0,
         "reducto": 1.0,
-        "reducto_standard": 1.0
+        "reducto_standard": 1.0,
+        "unstructured": 1.0
       },
       {
         "value": "xml",
@@ -145,7 +156,8 @@
         "gemini": 1.0,
         "gpt": 1.0,
         "reducto": 0.9431818181818181,
-        "reducto_standard": 0.9214426877470356
+        "reducto_standard": 0.9214426877470356,
+        "unstructured": 0.9214426877470356
       }
     ],
     "lang": [
@@ -159,7 +171,8 @@
         "gemini": 1.0,
         "gpt": 1.0,
         "reducto": 1.0,
-        "reducto_standard": 0.9836065573770492
+        "reducto_standard": 0.9836065573770492,
+        "unstructured": 0.9836065573770492
       },
       {
         "value": "de",
@@ -171,19 +184,21 @@
         "gemini": 0.9956521739130435,
         "gpt": 0.9624416605256694,
         "reducto": 0.8975927290591992,
-        "reducto_standard": 0.9003642157978603
+        "reducto_standard": 0.9003642157978603,
+        "unstructured": 0.8450503561778433
       },
       {
         "value": "en",
         "doc_count": 47,
-        "claude5": 0.9518831844115059,
-        "docupipe_high": 0.9859047754386904,
-        "docupipe_standard": 0.9708390908179392,
-        "extend": 0.8601187360278305,
-        "gemini": 0.7511689804946078,
-        "gpt": 0.8020074282113708,
-        "reducto": 0.9219811515135664,
-        "reducto_standard": 0.8409842439444263
+        "claude5": 0.9522115561604486,
+        "docupipe_high": 0.9856657125651547,
+        "docupipe_standard": 0.9706000279444035,
+        "extend": 0.8610101473558022,
+        "gemini": 0.7514080433681435,
+        "gpt": 0.8023257630511684,
+        "reducto": 0.9223712312338705,
+        "reducto_standard": 0.8414283932307403,
+        "unstructured": 0.7058442292255603
       },
       {
         "value": "es",
@@ -195,7 +210,8 @@
         "gemini": 0.3576502732240437,
         "gpt": 0.6070232896652116,
         "reducto": 0.9576447716239397,
-        "reducto_standard": 0.9858067334282526
+        "reducto_standard": 0.9858067334282526,
+        "unstructured": 0.41730089415678934
       },
       {
         "value": "fr",
@@ -207,7 +223,8 @@
         "gemini": 0.9476603955619874,
         "gpt": 1.0,
         "reducto": 1.0,
-        "reducto_standard": 0.9464544138929087
+        "reducto_standard": 0.9464544138929087,
+        "unstructured": 0.8831818181818184
       },
       {
         "value": "he",
@@ -219,7 +236,8 @@
         "gemini": 0.8254080586808038,
         "gpt": 0.7653421262441775,
         "reducto": 0.8550384666337049,
-        "reducto_standard": 0.6305014049172664
+        "reducto_standard": 0.6305014049172664,
+        "unstructured": 0.7516470972686495
       },
       {
         "value": "hi",
@@ -230,8 +248,9 @@
         "extend": 0.2864197233943061,
         "gemini": 0.08219520054924759,
         "gpt": 0.08521480087801796,
-        "reducto": 0.5709148064241134,
-        "reducto_standard": 0.03911148628313431
+        "reducto": 0.5716474958318821,
+        "reducto_standard": 0.03926827524519137,
+        "unstructured": 0.1595787673312258
       },
       {
         "value": "it",
@@ -243,19 +262,21 @@
         "gemini": 1.0,
         "gpt": 0.9646739130434783,
         "reducto": 1.0,
-        "reducto_standard": 1.0
+        "reducto_standard": 1.0,
+        "unstructured": 0.9782608695652174
       },
       {
         "value": "ja",
         "doc_count": 4,
-        "claude5": 0.7884609004431012,
+        "claude5": 0.7966259103133776,
         "docupipe_high": 0.9003075236335897,
         "docupipe_standard": 0.9263108456046056,
         "extend": 0.659236608444772,
-        "gemini": 0.5217554384847919,
-        "gpt": 0.4739302805028174,
-        "reducto": 0.6656848669527823,
-        "reducto_standard": 0.7726508120179412
+        "gemini": 0.5286514128220734,
+        "gpt": 0.4808262548400988,
+        "reducto": 0.6738498768230586,
+        "reducto_standard": 0.7774096952666721,
+        "unstructured": 0.30285510798807963
       },
       {
         "value": "nl",
@@ -267,7 +288,8 @@
         "gemini": 1.0,
         "gpt": 0.7671232876712328,
         "reducto": 1.0,
-        "reducto_standard": 0.958904109589041
+        "reducto_standard": 0.958904109589041,
+        "unstructured": 0.958904109589041
       },
       {
         "value": "pt",
@@ -279,7 +301,8 @@
         "gemini": 0.963855421686747,
         "gpt": 0.975609756097561,
         "reducto": 0.975609756097561,
-        "reducto_standard": 0.963855421686747
+        "reducto_standard": 0.963855421686747,
+        "unstructured": 0.7439024390243902
       },
       {
         "value": "zh",
@@ -291,7 +314,8 @@
         "gemini": 0.5967687074829933,
         "gpt": 0.7250234962406019,
         "reducto": 0.7669262441818825,
-        "reducto_standard": 0.8200514428594881
+        "reducto_standard": 0.8200514428594881,
+        "unstructured": 0.6344600340136055
       }
     ]
   },
@@ -305,7 +329,8 @@
       "gemini": 1.0,
       "gpt": 1.0,
       "reducto": 1.0,
-      "reducto_standard": 0.96
+      "reducto_standard": 0.96,
+      "unstructured": 1.0
     },
     {
       "doc_id": "2Kqu7k2B",
@@ -316,7 +341,8 @@
       "gemini": 0.0,
       "gpt": 0.9702797202797202,
       "reducto": 0.9667832167832169,
-      "reducto_standard": 0.8682983682983683
+      "reducto_standard": 0.8682983682983683,
+      "unstructured": 0.9982517482517481
     },
     {
       "doc_id": "3VX7OcKR",
@@ -327,7 +353,8 @@
       "gemini": 0.07295081967213114,
       "gpt": 0.0,
       "reducto": 0.9744990892531876,
-      "reducto_standard": 0.9802367941712203
+      "reducto_standard": 0.9802367941712203,
+      "unstructured": 0.0
     },
     {
       "doc_id": "3cS2qu1e",
@@ -338,18 +365,20 @@
       "gemini": 0.6925007527853059,
       "gpt": 0.2596031746031746,
       "reducto": 0.5523750376392652,
-      "reducto_standard": 0.5416839807286961
+      "reducto_standard": 0.5416839807286961,
+      "unstructured": 0.770687292984041
     },
     {
       "doc_id": "45xidifn",
-      "claude5": 0.9028501157407409,
+      "claude5": 0.9063223379629631,
       "docupipe_high": 0.9894612630208334,
       "docupipe_standard": 1.0,
       "extend": 0.9000771604938274,
-      "gemini": 0.9028501157407409,
-      "gpt": 0.9028501157407409,
-      "reducto": 0.9028501157407409,
-      "reducto_standard": 0.9762716411072532
+      "gemini": 0.9063223379629631,
+      "gpt": 0.9063223379629631,
+      "reducto": 0.9063223379629631,
+      "reducto_standard": 0.9762716411072532,
+      "unstructured": 0.3718638478973765
     },
     {
       "doc_id": "4kVtTRoL",
@@ -360,7 +389,8 @@
       "gemini": 0.9976190476190476,
       "gpt": 0.9404761904761905,
       "reducto": 0.9952380952380953,
-      "reducto_standard": 0.9619047619047619
+      "reducto_standard": 0.9619047619047619,
+      "unstructured": 0.9976190476190476
     },
     {
       "doc_id": "5YJaBbNg",
@@ -371,7 +401,8 @@
       "gemini": 0.963855421686747,
       "gpt": 0.975609756097561,
       "reducto": 0.975609756097561,
-      "reducto_standard": 0.963855421686747
+      "reducto_standard": 0.963855421686747,
+      "unstructured": 0.7439024390243902
     },
     {
       "doc_id": "5ukZftw0",
@@ -382,7 +413,8 @@
       "gemini": 1.0,
       "gpt": 1.0,
       "reducto": 1.0,
-      "reducto_standard": 1.0
+      "reducto_standard": 1.0,
+      "unstructured": 1.0
     },
     {
       "doc_id": "62PhJTyf",
@@ -393,7 +425,8 @@
       "gemini": 1.0,
       "gpt": 0.7671232876712328,
       "reducto": 1.0,
-      "reducto_standard": 0.958904109589041
+      "reducto_standard": 0.958904109589041,
+      "unstructured": 0.958904109589041
     },
     {
       "doc_id": "69Ny1DwE",
@@ -404,7 +437,8 @@
       "gemini": 0.8870967741935484,
       "gpt": 0.6129032258064516,
       "reducto": 0.5161290322580645,
-      "reducto_standard": 0.5161290322580645
+      "reducto_standard": 0.5161290322580645,
+      "unstructured": 0.22580645161290322
     },
     {
       "doc_id": "7ZhgzAzp",
@@ -415,7 +449,8 @@
       "gemini": 1.0,
       "gpt": 1.0,
       "reducto": 0.9523809523809523,
-      "reducto_standard": 0.95
+      "reducto_standard": 0.95,
+      "unstructured": 0.9523809523809523
     },
     {
       "doc_id": "97uZroyv",
@@ -426,18 +461,20 @@
       "gemini": 1.0,
       "gpt": 1.0,
       "reducto": 1.0,
-      "reducto_standard": 0.995260663507109
+      "reducto_standard": 0.995260663507109,
+      "unstructured": 0.7236548647895177
     },
     {
       "doc_id": "9hPCh7ca",
-      "claude5": 0.9243417784401387,
+      "claude5": 0.9279185295578735,
       "docupipe_high": 0.9910084451068059,
       "docupipe_standard": 0.9845504222553402,
       "extend": 0.19515648286140083,
       "gemini": 0.179806259314456,
-      "gpt": 0.8419523099850954,
+      "gpt": 0.8456780923994017,
       "reducto": 0.8153502235469438,
-      "reducto_standard": 0.987332339791356
+      "reducto_standard": 0.9908594138102333,
+      "unstructured": 0.27923497267759567
     },
     {
       "doc_id": "B0nA2c30",
@@ -448,7 +485,8 @@
       "gemini": 0.921590909090909,
       "gpt": 0.793783422459893,
       "reducto": 0.9886363636363636,
-      "reducto_standard": 0.9886363636363636
+      "reducto_standard": 0.9886363636363636,
+      "unstructured": 0.9430147058823529
     },
     {
       "doc_id": "BnftpXVQ",
@@ -459,7 +497,8 @@
       "gemini": 1.0,
       "gpt": 1.0,
       "reducto": 1.0,
-      "reducto_standard": 1.0
+      "reducto_standard": 1.0,
+      "unstructured": 0.96
     },
     {
       "doc_id": "C7fe2lau",
@@ -470,7 +509,8 @@
       "gemini": 1.0,
       "gpt": 1.0,
       "reducto": 1.0,
-      "reducto_standard": 0.9565217391304348
+      "reducto_standard": 0.9565217391304348,
+      "unstructured": 0.9565217391304348
     },
     {
       "doc_id": "DtfW60lS",
@@ -481,7 +521,8 @@
       "gemini": 1.0,
       "gpt": 1.0,
       "reducto": 1.0,
-      "reducto_standard": 1.0
+      "reducto_standard": 1.0,
+      "unstructured": 0.8571428571428571
     },
     {
       "doc_id": "ENoM9faK",
@@ -492,7 +533,8 @@
       "gemini": 0.9483076923076923,
       "gpt": 0.8984615384615384,
       "reducto": 0.9267692307692307,
-      "reducto_standard": 0.9353846153846155
+      "reducto_standard": 0.9353846153846155,
+      "unstructured": 0.015384615384615385
     },
     {
       "doc_id": "EWUUeFYp",
@@ -502,8 +544,9 @@
       "extend": 0.31978206202849957,
       "gemini": 0.03143336127409891,
       "gpt": 0.0,
-      "reducto": 0.8210393964794636,
-      "reducto_standard": 0.05909471919530594
+      "reducto": 0.8218776194467728,
+      "reducto_standard": 0.05909471919530594,
+      "unstructured": 0.25565800502933783
     },
     {
       "doc_id": "Eet2wW3x",
@@ -514,18 +557,20 @@
       "gemini": 1.0,
       "gpt": 1.0,
       "reducto": 1.0,
-      "reducto_standard": 0.9836065573770492
+      "reducto_standard": 0.9836065573770492,
+      "unstructured": 0.9836065573770492
     },
     {
       "doc_id": "EkMAR28T",
       "claude5": 0.9937106918238994,
       "docupipe_high": 0.9559674027339654,
       "docupipe_standard": 0.9980283911671926,
-      "extend": 0.8723794549266247,
+      "extend": 0.9030398322851155,
       "gemini": 0.0,
       "gpt": 0.0,
-      "reducto": 0.8112513144058869,
-      "reducto_standard": 0.643993165089378
+      "reducto": 0.8183491062039944,
+      "reducto_standard": 0.6501051524710816,
+      "unstructured": 0.17875920084121977
     },
     {
       "doc_id": "FiFgt4a6",
@@ -536,7 +581,8 @@
       "gemini": 1.0,
       "gpt": 0.9523809523809523,
       "reducto": 0.9523809523809523,
-      "reducto_standard": 0.8
+      "reducto_standard": 0.8,
+      "unstructured": 0.9523809523809523
     },
     {
       "doc_id": "FnscKwQQ",
@@ -547,7 +593,8 @@
       "gemini": 0.0,
       "gpt": 0.8210698689956347,
       "reducto": 0.8984352256186312,
-      "reducto_standard": 0.9771834061135375
+      "reducto_standard": 0.9771834061135375,
+      "unstructured": 0.3947598253275109
     },
     {
       "doc_id": "FsGU3Q4X",
@@ -558,7 +605,8 @@
       "gemini": 0.19353741496598653,
       "gpt": 0.5026785714285724,
       "reducto": 0.6391156462585017,
-      "reducto_standard": 0.7453660436137131
+      "reducto_standard": 0.7453660436137131,
+      "unstructured": 0.26892006802721097
     },
     {
       "doc_id": "GW7i2xbM",
@@ -569,7 +617,8 @@
       "gemini": 1.0,
       "gpt": 1.0,
       "reducto": 1.0,
-      "reducto_standard": 1.0
+      "reducto_standard": 1.0,
+      "unstructured": 0.967741935483871
     },
     {
       "doc_id": "IPm0MkgQ",
@@ -580,7 +629,8 @@
       "gemini": 1.0,
       "gpt": 1.0,
       "reducto": 1.0,
-      "reducto_standard": 1.0
+      "reducto_standard": 1.0,
+      "unstructured": 0.9949757996632995
     },
     {
       "doc_id": "J6buHXQ4",
@@ -591,7 +641,8 @@
       "gemini": 0.8975499589378592,
       "gpt": 0.8939570216260606,
       "reducto": 0.9404804270462633,
-      "reducto_standard": 0.9550369559266355
+      "reducto_standard": 0.9550369559266355,
+      "unstructured": 0.6810750918070154
     },
     {
       "doc_id": "JPIU6gjr",
@@ -602,18 +653,20 @@
       "gemini": 0.24563172043010753,
       "gpt": 0.9709341397849464,
       "reducto": 0.9583333333333334,
-      "reducto_standard": 0.0
+      "reducto_standard": 0.0,
+      "unstructured": 0.03024193548387097
     },
     {
       "doc_id": "KYwdv07B",
-      "claude5": 0.9924471299093656,
+      "claude5": 0.99269889224572,
       "docupipe_high": 0.966012084592145,
       "docupipe_standard": 0.9707955689828801,
       "extend": 0.9919436052366566,
       "gemini": 0.1593655589123867,
       "gpt": 0.0,
       "reducto": 0.9400805639476334,
-      "reducto_standard": 0.0
+      "reducto_standard": 0.0,
+      "unstructured": 0.0
     },
     {
       "doc_id": "KpewWz3R",
@@ -624,7 +677,8 @@
       "gemini": 0.9620000000000001,
       "gpt": 0.8986666666666667,
       "reducto": 0.8986666666666667,
-      "reducto_standard": 0.9470303030303031
+      "reducto_standard": 0.9470303030303031,
+      "unstructured": 0.8986666666666667
     },
     {
       "doc_id": "LYeb3G3s",
@@ -635,7 +689,8 @@
       "gemini": 1.0,
       "gpt": 0.9807692307692307,
       "reducto": 1.0,
-      "reducto_standard": 1.0
+      "reducto_standard": 1.0,
+      "unstructured": 0.8461538461538461
     },
     {
       "doc_id": "M66HZlWT",
@@ -646,18 +701,20 @@
       "gemini": 1.0,
       "gpt": 0.9473684210526315,
       "reducto": 0.8947368421052632,
-      "reducto_standard": 0.8947368421052632
+      "reducto_standard": 0.8947368421052632,
+      "unstructured": 1.0
     },
     {
       "doc_id": "NNaGgwE5",
-      "claude5": 0.9001605136436596,
-      "docupipe_high": 1.0,
-      "docupipe_standard": 0.9778491171749598,
-      "extend": 0.9775280898876404,
-      "gemini": 0.9775280898876404,
-      "gpt": 0.8647672552166934,
-      "reducto": 0.9664526484751205,
-      "reducto_standard": 0.9553772070626004
+      "claude5": 0.9113964686998394,
+      "docupipe_high": 0.9887640449438202,
+      "docupipe_standard": 0.96661316211878,
+      "extend": 0.9887640449438202,
+      "gemini": 0.9887640449438202,
+      "gpt": 0.8760032102728731,
+      "reducto": 0.9776886035313003,
+      "reducto_standard": 0.9666131621187802,
+      "unstructured": 0.8613964686998394
     },
     {
       "doc_id": "NlWTPen5",
@@ -668,7 +725,8 @@
       "gemini": 0.9523809523809523,
       "gpt": 1.0,
       "reducto": 1.0,
-      "reducto_standard": 1.0
+      "reducto_standard": 1.0,
+      "unstructured": 1.0
     },
     {
       "doc_id": "OayFbGlG",
@@ -679,7 +737,8 @@
       "gemini": 1.0,
       "gpt": 1.0,
       "reducto": 1.0,
-      "reducto_standard": 1.0
+      "reducto_standard": 1.0,
+      "unstructured": 1.0
     },
     {
       "doc_id": "Oe7iRM1G",
@@ -690,7 +749,8 @@
       "gemini": 0.9476603955619874,
       "gpt": 1.0,
       "reducto": 1.0,
-      "reducto_standard": 0.9464544138929087
+      "reducto_standard": 0.9464544138929087,
+      "unstructured": 0.8831818181818184
     },
     {
       "doc_id": "PSU5pciM",
@@ -701,7 +761,8 @@
       "gemini": 1.0,
       "gpt": 1.0,
       "reducto": 1.0,
-      "reducto_standard": 1.0
+      "reducto_standard": 1.0,
+      "unstructured": 0.9285714285714286
     },
     {
       "doc_id": "PYhFptk3",
@@ -712,7 +773,8 @@
       "gemini": 1.0,
       "gpt": 1.0,
       "reducto": 1.0,
-      "reducto_standard": 1.0
+      "reducto_standard": 1.0,
+      "unstructured": 1.0
     },
     {
       "doc_id": "QxoQ6zgn",
@@ -723,7 +785,8 @@
       "gemini": 1.0,
       "gpt": 1.0,
       "reducto": 1.0,
-      "reducto_standard": 1.0
+      "reducto_standard": 1.0,
+      "unstructured": 0.0
     },
     {
       "doc_id": "SBR9L7Y8",
@@ -734,7 +797,8 @@
       "gemini": 0.896551724137931,
       "gpt": 0.896551724137931,
       "reducto": 0.6206896551724138,
-      "reducto_standard": 0.13793103448275862
+      "reducto_standard": 0.13793103448275862,
+      "unstructured": 0.9655172413793104
     },
     {
       "doc_id": "SkD8Lz8o",
@@ -745,7 +809,8 @@
       "gemini": 1.0,
       "gpt": 1.0,
       "reducto": 1.0,
-      "reducto_standard": 1.0
+      "reducto_standard": 1.0,
+      "unstructured": 1.0
     },
     {
       "doc_id": "UnG6cLfP",
@@ -756,7 +821,8 @@
       "gemini": 0.9696969696969697,
       "gpt": 0.9696969696969697,
       "reducto": 0.9411764705882353,
-      "reducto_standard": 0.9411764705882353
+      "reducto_standard": 0.9411764705882353,
+      "unstructured": 0.9696969696969697
     },
     {
       "doc_id": "UqY6ItFZ",
@@ -766,8 +832,9 @@
       "extend": 0.2530573847601127,
       "gemini": 0.13295703982439627,
       "gpt": 0.17042960175603591,
-      "reducto": 0.32079021636876326,
-      "reducto_standard": 0.019128253370962668
+      "reducto": 0.32141737221699146,
+      "reducto_standard": 0.01944183129507681,
+      "unstructured": 0.0634995296331138
     },
     {
       "doc_id": "VJeLz6Am",
@@ -778,7 +845,8 @@
       "gemini": 0.15071428571428572,
       "gpt": 0.8633711762850872,
       "reducto": 0.7526190476190513,
-      "reducto_standard": 0.7956190476190521
+      "reducto_standard": 0.7956190476190521,
+      "unstructured": 0.05549206349206348
     },
     {
       "doc_id": "WM9ZKrAr",
@@ -789,7 +857,8 @@
       "gemini": 0.0,
       "gpt": 0.0,
       "reducto": 0.9511408730158731,
-      "reducto_standard": 0.09236111111111113
+      "reducto_standard": 0.09236111111111113,
+      "unstructured": 0.2657738095238095
     },
     {
       "doc_id": "WnxX1Buq",
@@ -800,7 +869,8 @@
       "gemini": 1.0,
       "gpt": 0.975,
       "reducto": 1.0,
-      "reducto_standard": 1.0
+      "reducto_standard": 1.0,
+      "unstructured": 1.0
     },
     {
       "doc_id": "WxP8Tqgf",
@@ -811,7 +881,8 @@
       "gemini": 1.0,
       "gpt": 0.9646739130434783,
       "reducto": 1.0,
-      "reducto_standard": 1.0
+      "reducto_standard": 1.0,
+      "unstructured": 0.9782608695652174
     },
     {
       "doc_id": "XhJyv5mb",
@@ -822,7 +893,8 @@
       "gemini": 0.991304347826087,
       "gpt": 0.9565217391304348,
       "reducto": 0.9217391304347826,
-      "reducto_standard": 0.991304347826087
+      "reducto_standard": 0.991304347826087,
+      "unstructured": 0.7217391304347827
     },
     {
       "doc_id": "ZN6HbuKp",
@@ -833,7 +905,8 @@
       "gemini": 1.0,
       "gpt": 1.0,
       "reducto": 1.0,
-      "reducto_standard": 1.0
+      "reducto_standard": 1.0,
+      "unstructured": 1.0
     },
     {
       "doc_id": "ZXlksSpk",
@@ -844,7 +917,8 @@
       "gemini": 1.0,
       "gpt": 1.0,
       "reducto": 1.0,
-      "reducto_standard": 1.0
+      "reducto_standard": 1.0,
+      "unstructured": 1.0
     },
     {
       "doc_id": "bjBNmyNw",
@@ -855,7 +929,8 @@
       "gemini": 1.0,
       "gpt": 0.6666666666666666,
       "reducto": 0.9285714285714286,
-      "reducto_standard": 0.7619047619047619
+      "reducto_standard": 0.7619047619047619,
+      "unstructured": 0.8333333333333334
     },
     {
       "doc_id": "eKzY7gEA",
@@ -866,7 +941,8 @@
       "gemini": 1.0,
       "gpt": 1.0,
       "reducto": 0.9583333333333334,
-      "reducto_standard": 0.9583333333333334
+      "reducto_standard": 0.9583333333333334,
+      "unstructured": 1.0
     },
     {
       "doc_id": "eeqkpCkH",
@@ -877,7 +953,8 @@
       "gemini": 0.0,
       "gpt": 0.5666666666666675,
       "reducto": 0.7080193236714993,
-      "reducto_standard": 0.936897880539497
+      "reducto_standard": 0.936897880539497,
+      "unstructured": 0.00821256038647343
     },
     {
       "doc_id": "f9nrfUNC",
@@ -888,7 +965,8 @@
       "gemini": 0.6228448275862071,
       "gpt": 0.3778735632183906,
       "reducto": 0.8908045977011494,
-      "reducto_standard": 0.46767241379310354
+      "reducto_standard": 0.46767241379310354,
+      "unstructured": 0.5330459770114944
     },
     {
       "doc_id": "fK6kDNqE",
@@ -899,7 +977,8 @@
       "gemini": 0.0887428101889893,
       "gpt": 0.0,
       "reducto": 0.9286770747740304,
-      "reducto_standard": 0.9826348945494364
+      "reducto_standard": 0.9826348945494364,
+      "unstructured": 0.03683922213092302
     },
     {
       "doc_id": "iTruRDrG",
@@ -910,18 +989,20 @@
       "gemini": 1.0,
       "gpt": 0.9818181818181818,
       "reducto": 0.9818181818181818,
-      "reducto_standard": 0.9818181818181818
+      "reducto_standard": 0.9818181818181818,
+      "unstructured": 0.9818181818181818
     },
     {
       "doc_id": "jlKc8eVi",
-      "claude5": 0.9708121827411168,
+      "claude5": 1.0,
       "docupipe_high": 0.9840101522842638,
       "docupipe_standard": 0.9840101522842638,
       "extend": 0.9071065989847712,
-      "gemini": 0.9758883248730964,
-      "gpt": 0.9708121827411168,
-      "reducto": 0.9708121827411168,
-      "reducto_standard": 0.9809644670050761
+      "gemini": 1.0,
+      "gpt": 0.9949238578680203,
+      "reducto": 1.0,
+      "reducto_standard": 1.0,
+      "unstructured": 0.8027918781725891
     },
     {
       "doc_id": "kcnZ5EWa",
@@ -932,7 +1013,8 @@
       "gemini": 0.061224489795918415,
       "gpt": 0.0,
       "reducto": 0.6567242281528005,
-      "reducto_standard": 0.7068965517241415
+      "reducto_standard": 0.7068965517241415,
+      "unstructured": 0.0
     },
     {
       "doc_id": "nESapyAA",
@@ -943,18 +1025,20 @@
       "gemini": 0.9090909090909091,
       "gpt": 0.9090909090909091,
       "reducto": 1.0,
-      "reducto_standard": 0.8636363636363636
+      "reducto_standard": 0.8636363636363636,
+      "unstructured": 0.8636363636363636
     },
     {
       "doc_id": "o0dn9Dd4",
-      "claude5": 0.9169741697416989,
+      "claude5": 0.9173431734317357,
       "docupipe_high": 0.9922509225092243,
       "docupipe_standard": 0.9827171903881693,
       "extend": 0.24488601355514478,
       "gemini": 0.0,
       "gpt": 0.0,
       "reducto": 0.5633394947627846,
-      "reducto_standard": 0.31127541589648805
+      "reducto_standard": 0.31127541589648805,
+      "unstructured": 0.8848428835489869
     },
     {
       "doc_id": "phovuuuk",
@@ -965,7 +1049,8 @@
       "gemini": 1.0,
       "gpt": 1.0,
       "reducto": 1.0,
-      "reducto_standard": 1.0
+      "reducto_standard": 1.0,
+      "unstructured": 1.0
     },
     {
       "doc_id": "pw8elPW9",
@@ -976,7 +1061,8 @@
       "gemini": 1.0,
       "gpt": 0.8333333333333334,
       "reducto": 1.0,
-      "reducto_standard": 0.7592592592592593
+      "reducto_standard": 0.7592592592592593,
+      "unstructured": 0.9814814814814815
     },
     {
       "doc_id": "qQUPWQNA",
@@ -987,7 +1073,8 @@
       "gemini": 0.7210497602434898,
       "gpt": 0.7608740465883324,
       "reducto": 0.7832945865161076,
-      "reducto_standard": 0.6049738073227445
+      "reducto_standard": 0.6049738073227445,
+      "unstructured": 0.6264794079178228
     },
     {
       "doc_id": "qRCO6ev5",
@@ -998,7 +1085,8 @@
       "gemini": 0.14705882352941177,
       "gpt": 0.022058823529411766,
       "reducto": 0.1323529411764706,
-      "reducto_standard": 0.426470588235294
+      "reducto_standard": 0.426470588235294,
+      "unstructured": 0.03676470588235294
     },
     {
       "doc_id": "qoSTXgNE",
@@ -1009,7 +1097,8 @@
       "gemini": 0.7307692307692307,
       "gpt": 0.6857142857142857,
       "reducto": 0.75,
-      "reducto_standard": 0.625
+      "reducto_standard": 0.625,
+      "unstructured": 0.6102941176470589
     },
     {
       "doc_id": "sHMajYzm",
@@ -1020,7 +1109,8 @@
       "gemini": 0.28666666666666635,
       "gpt": 0.7231207482993208,
       "reducto": 0.6552040816326536,
-      "reducto_standard": 0.7882738095238125
+      "reducto_standard": 0.7882738095238125,
+      "unstructured": 0.0714965986394558
     },
     {
       "doc_id": "tLFa76nQ",
@@ -1031,7 +1121,8 @@
       "gemini": 0.908355091383812,
       "gpt": 0.9743945259746104,
       "reducto": 0.896583235797245,
-      "reducto_standard": 0.9428716124966238
+      "reducto_standard": 0.9428716124966238,
+      "unstructured": 0.8160315566759698
     },
     {
       "doc_id": "vAdukzpt",
@@ -1042,7 +1133,8 @@
       "gemini": 0.0,
       "gpt": 0.0,
       "reducto": 0.9635018050541446,
-      "reducto_standard": 0.16223826714801473
+      "reducto_standard": 0.16223826714801473,
+      "unstructured": 0.0
     },
     {
       "doc_id": "vBIz5dut",
@@ -1053,7 +1145,8 @@
       "gemini": 0.9769385026737968,
       "gpt": 0.9886363636363636,
       "reducto": 0.9769385026737968,
-      "reducto_standard": 0.9769385026737968
+      "reducto_standard": 0.9769385026737968,
+      "unstructured": 1.0
     },
     {
       "doc_id": "wVafMvAC",
@@ -1064,7 +1157,8 @@
       "gemini": 1.0,
       "gpt": 0.968361581920904,
       "reducto": 0.8734463276836159,
-      "reducto_standard": 0.8094240837696336
+      "reducto_standard": 0.8094240837696336,
+      "unstructured": 0.968361581920904
     },
     {
       "doc_id": "yTRFKVPx",
@@ -1075,7 +1169,8 @@
       "gemini": 1.0,
       "gpt": 1.0,
       "reducto": 1.0,
-      "reducto_standard": 1.0
+      "reducto_standard": 1.0,
+      "unstructured": 0.8833333333333333
     },
     {
       "doc_id": "zKibU88u",
@@ -1086,7 +1181,8 @@
       "gemini": 1.0,
       "gpt": 1.0,
       "reducto": 0.8863636363636364,
-      "reducto_standard": 0.8863636363636364
+      "reducto_standard": 0.8863636363636364,
+      "unstructured": 0.8863636363636364
     }
   ]
 }

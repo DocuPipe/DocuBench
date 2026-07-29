@@ -1,0 +1,74 @@
+{
+  "score": 0.9655172413793104,
+  "cost": 0.0,
+  "time_sec": 140.1415512561798,
+  "num_pages": 1,
+  "data": {
+    "payPeriodMonth": 9,
+    "payPeriodYear": 2008,
+    "grade": "03",
+    "totalPayments": 12845.38,
+    "totalDeductions": 3792.1,
+    "netToBank": 9053.28,
+    "totalHours": null,
+    "payments": [
+      {
+        "description": "משולב אופק חדש",
+        "amount": 10950.0,
+        "difference": null
+      },
+      {
+        "description": "גמול חינוך כיתה",
+        "amount": 1095.0,
+        "difference": null
+      },
+      {
+        "description": "קצובת נסיעה",
+        "amount": 616.0,
+        "difference": null
+      },
+      {
+        "description": "החזר טלפון",
+        "amount": 30.38,
+        "difference": null
+      },
+      {
+        "description": "מק' נסיעות בתפק.",
+        "amount": 154.0,
+        "difference": null
+      }
+    ],
+    "deductions": [
+      {
+        "description": "מס הכנסה",
+        "amount": 1854.67,
+        "difference": null
+      },
+      {
+        "description": "ק. השתל(ארג)בינ\"ל",
+        "amount": 505.89,
+        "difference": null
+      },
+      {
+        "description": "בטוח לאומי",
+        "amount": 595.71,
+        "difference": null
+      },
+      {
+        "description": "בטוח בריאות",
+        "amount": 554.91,
+        "difference": null
+      },
+      {
+        "description": "דמי ניהול פנסיה ת",
+        "amount": 240.9,
+        "difference": null
+      },
+      {
+        "description": "קופת גמל רשף",
+        "amount": 40.02,
+        "difference": null
+      }
+    ]
+  }
+}

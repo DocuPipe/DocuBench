@@ -10,6 +10,7 @@ scoring model:
 """
 import json
 import re
+import unicodedata
 from typing import Any
 
 
@@ -31,6 +32,8 @@ def cast_numbers_to_float(data):
 def normalize(val: str) -> str:
     """remove all whitespace, punctuation, and lowercase.
     """
+    # fold unicode compatibility variants first so cjk fullwidth forms compare equal to ascii (１１１ == 111)
+    val = unicodedata.normalize("NFKC", val)
     val = re.sub(r"\s+", "", val).lower()
     val = re.sub(r"\W", "", val, flags=re.UNICODE)
     return val

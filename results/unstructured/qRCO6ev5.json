@@ -1,0 +1,19 @@
+{
+  "score": 0.03676470588235294,
+  "cost": 0.0,
+  "time_sec": 117.79597282409668,
+  "num_pages": 1,
+  "data": {
+    "issueNumber": 5877,
+    "issueDate": "1946-08-16",
+    "weekday": "Friday",
+    "imperialOrdinanceNumber": null,
+    "imperialOrdinancePromulgationDate": "1946-08-15",
+    "ministerialOrdinanceNumber": 25,
+    "coinFaceValueSen": null,
+    "coinMaterial": null,
+    "coinWeightGrams": null,
+    "coinDiameterMm": null,
+    "courseTables": []
+  }
+}

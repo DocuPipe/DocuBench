@@ -1,0 +1,417 @@
+{
+  "score": 0.3718638478973765,
+  "cost": 0.0,
+  "time_sec": 120.2589099407196,
+  "num_pages": 1,
+  "data": {
+    "department": "058",
+    "paymentDate": null,
+    "preparationDate": "2011年07月02日",
+    "tripRows": [
+      {
+        "employeeNumber": "123456",
+        "departureDateTime": "06/05 08:30",
+        "returnDateTime": "08/02 00:00",
+        "distanceCategory": null,
+        "purposeCategory": null,
+        "destination": null,
+        "route": null,
+        "nights": null,
+        "paymentAmount": 66300
+      },
+      {
+        "employeeNumber": "123456",
+        "departureDateTime": "06/25 08:00",
+        "returnDateTime": "08/05 15:00",
+        "distanceCategory": null,
+        "purposeCategory": null,
+        "destination": null,
+        "route": null,
+        "nights": null,
+        "paymentAmount": 560
+      },
+      {
+        "employeeNumber": "123456",
+        "departureDateTime": "06/19 08:15",
+        "returnDateTime": "08/05 15:00",
+        "distanceCategory": null,
+        "purposeCategory": null,
+        "destination": null,
+        "route": null,
+        "nights": null,
+        "paymentAmount": 1480
+      },
+      {
+        "employeeNumber": "123456",
+        "departureDateTime": "06/21 13:30",
+        "returnDateTime": "08/05 15:00",
+        "distanceCategory": null,
+        "purposeCategory": null,
+        "destination": null,
+        "route": null,
+        "nights": null,
+        "paymentAmount": 210
+      },
+      {
+        "employeeNumber": "123456",
+        "departureDateTime": "06/25 08:00",
+        "returnDateTime": "08/05 15:00",
+        "distanceCategory": null,
+        "purposeCategory": null,
+        "destination": null,
+        "route": null,
+        "nights": null,
+        "paymentAmount": 560
+      },
+      {
+        "employeeNumber": "123456",
+        "departureDateTime": "06/27 13:30",
+        "returnDateTime": "08/05 15:00",
+        "distanceCategory": null,
+        "purposeCategory": null,
+        "destination": null,
+        "route": null,
+        "nights": null,
+        "paymentAmount": 210
+      },
+      {
+        "employeeNumber": "123567",
+        "departureDateTime": "06/19 08:30",
+        "returnDateTime": "08/02 00:00",
+        "distanceCategory": null,
+        "purposeCategory": null,
+        "destination": null,
+        "route": null,
+        "nights": null,
+        "paymentAmount": 260
+      },
+      {
+        "employeeNumber": "123567",
+        "departureDateTime": "06/25 08:00",
+        "returnDateTime": "08/05 15:00",
+        "distanceCategory": null,
+        "purposeCategory": null,
+        "destination": null,
+        "route": null,
+        "nights": null,
+        "paymentAmount": 420
+      },
+      {
+        "employeeNumber": "123890",
+        "departureDateTime": "06/05 13:30",
+        "returnDateTime": "08/05 15:00",
+        "distanceCategory": null,
+        "purposeCategory": null,
+        "destination": null,
+        "route": null,
+        "nights": null,
+        "paymentAmount": 420
+      },
+      {
+        "employeeNumber": "123890",
+        "departureDateTime": "06/19 06:30",
+        "returnDateTime": "06/20 30:00",
+        "distanceCategory": null,
+        "purposeCategory": null,
+        "destination": null,
+        "route": null,
+        "nights": null,
+        "paymentAmount": 39860
+      },
+      {
+        "employeeNumber": "123890",
+        "departureDateTime": "06/25 08:00",
+        "returnDateTime": "08/05 15:00",
+        "distanceCategory": null,
+        "purposeCategory": null,
+        "destination": null,
+        "route": null,
+        "nights": null,
+        "paymentAmount": 420
+      },
+      {
+        "employeeNumber": "123890",
+        "departureDateTime": "06/26 13:00",
+        "returnDateTime": "06/26 00:00",
+        "distanceCategory": null,
+        "purposeCategory": null,
+        "destination": null,
+        "route": null,
+        "nights": null,
+        "paymentAmount": 420
+      },
+      {
+        "employeeNumber": "134567",
+        "departureDateTime": "06/10 08:30",
+        "returnDateTime": "08/02 00:00",
+        "distanceCategory": null,
+        "purposeCategory": null,
+        "destination": null,
+        "route": null,
+        "nights": null,
+        "paymentAmount": 900
+      },
+      {
+        "employeeNumber": "134567",
+        "departureDateTime": "06/25 08:00",
+        "returnDateTime": "08/05 15:00",
+        "distanceCategory": null,
+        "purposeCategory": null,
+        "destination": null,
+        "route": null,
+        "nights": null,
+        "paymentAmount": 560
+      },
+      {
+        "employeeNumber": "135790",
+        "departureDateTime": "06/19 06:30",
+        "returnDateTime": "06/20 30:00",
+        "distanceCategory": null,
+        "purposeCategory": null,
+        "destination": null,
+        "route": null,
+        "nights": null,
+        "paymentAmount": 500
+      },
+      {
+        "employeeNumber": "147258",
+        "departureDateTime": "06/02 00:00",
+        "returnDateTime": "06/02 00:00",
+        "distanceCategory": null,
+        "purposeCategory": null,
+        "destination": null,
+        "route": null,
+        "nights": null,
+        "paymentAmount": 320
+      },
+      {
+        "employeeNumber": "147258",
+        "departureDateTime": "06/01 30:00",
+        "returnDateTime": "08/05 15:00",
+        "distanceCategory": null,
+        "purposeCategory": null,
+        "destination": null,
+        "route": null,
+        "nights": null,
+        "paymentAmount": 420
+      },
+      {
+        "employeeNumber": "223344",
+        "departureDateTime": "06/13 08:30",
+        "returnDateTime": "08/02 00:00",
+        "distanceCategory": null,
+        "purposeCategory": null,
+        "destination": null,
+        "route": null,
+        "nights": null,
+        "paymentAmount": 900
+      },
+      {
+        "employeeNumber": "223344",
+        "departureDateTime": "06/22 13:30",
+        "returnDateTime": "08/05 15:00",
+        "distanceCategory": null,
+        "purposeCategory": null,
+        "destination": null,
+        "route": null,
+        "nights": null,
+        "paymentAmount": 420
+      },
+      {
+        "employeeNumber": "223344",
+        "departureDateTime": "06/25 08:00",
+        "returnDateTime": "08/05 15:00",
+        "distanceCategory": null,
+        "purposeCategory": null,
+        "destination": null,
+        "route": null,
+        "nights": null,
+        "paymentAmount": 560
+      },
+      {
+        "employeeNumber": "223344",
+        "departureDateTime": "06/27 13:30",
+        "returnDateTime": "08/05 15:00",
+        "distanceCategory": null,
+        "purposeCategory": null,
+        "destination": null,
+        "route": null,
+        "nights": null,
+        "paymentAmount": 210
+      },
+      {
+        "employeeNumber": "234567",
+        "departureDateTime": "07/29 08:30",
+        "returnDateTime": "08/02 00:00",
+        "distanceCategory": null,
+        "purposeCategory": null,
+        "destination": null,
+        "route": null,
+        "nights": null,
+        "paymentAmount": 560
+      },
+      {
+        "employeeNumber": "234567",
+        "departureDateTime": "06/26 08:30",
+        "returnDateTime": "08/02 00:00",
+        "distanceCategory": null,
+        "purposeCategory": null,
+        "destination": null,
+        "route": null,
+        "nights": null,
+        "paymentAmount": 260
+      },
+      {
+        "employeeNumber": "246802",
+        "departureDateTime": "06/15 08:30",
+        "returnDateTime": "08/02 00:00",
+        "distanceCategory": null,
+        "purposeCategory": null,
+        "destination": null,
+        "route": null,
+        "nights": null,
+        "paymentAmount": 300
+      },
+      {
+        "employeeNumber": "456789",
+        "departureDateTime": "06/10 08:30",
+        "returnDateTime": "08/02 00:00",
+        "distanceCategory": null,
+        "purposeCategory": null,
+        "destination": null,
+        "route": null,
+        "nights": null,
+        "paymentAmount": 900
+      },
+      {
+        "employeeNumber": "456789",
+        "departureDateTime": "06/25 08:00",
+        "returnDateTime": "08/05 15:00",
+        "distanceCategory": null,
+        "purposeCategory": null,
+        "destination": null,
+        "route": null,
+        "nights": null,
+        "paymentAmount": 420
+      },
+      {
+        "employeeNumber": "4567717",
+        "departureDateTime": "06/19 08:30",
+        "returnDateTime": "08/02 00:00",
+        "distanceCategory": null,
+        "purposeCategory": null,
+        "destination": null,
+        "route": null,
+        "nights": null,
+        "paymentAmount": 260
+      },
+      {
+        "employeeNumber": "4567717",
+        "departureDateTime": "06/22 13:30",
+        "returnDateTime": "08/05 15:00",
+        "distanceCategory": null,
+        "purposeCategory": null,
+        "destination": null,
+        "route": null,
+        "nights": null,
+        "paymentAmount": 420
+      },
+      {
+        "employeeNumber": "4567717",
+        "departureDateTime": "06/25 08:00",
+        "returnDateTime": "08/05 15:00",
+        "distanceCategory": null,
+        "purposeCategory": null,
+        "destination": null,
+        "route": null,
+        "nights": null,
+        "paymentAmount": 560
+      },
+      {
+        "employeeNumber": "4567717",
+        "departureDateTime": "06/26 08:30",
+        "returnDateTime": "08/02 00:00",
+        "distanceCategory": null,
+        "purposeCategory": null,
+        "destination": null,
+        "route": null,
+        "nights": null,
+        "paymentAmount": 260
+      },
+      {
+        "employeeNumber": "4567717",
+        "departureDateTime": "06/27 13:30",
+        "returnDateTime": "08/05 15:00",
+        "distanceCategory": null,
+        "purposeCategory": null,
+        "destination": null,
+        "route": null,
+        "nights": null,
+        "paymentAmount": 210
+      },
+      {
+        "employeeNumber": "464567",
+        "departureDateTime": "06/10 08:30",
+        "returnDateTime": "08/02 00:00",
+        "distanceCategory": null,
+        "purposeCategory": null,
+        "destination": null,
+        "route": null,
+        "nights": null,
+        "paymentAmount": 900
+      }
+    ],
+    "employeeSubtotals": [
+      {
+        "employeeNumber": "123456",
+        "subtotal": 69320
+      },
+      {
+        "employeeNumber": "123567",
+        "subtotal": 680
+      },
+      {
+        "employeeNumber": "123890",
+        "subtotal": 41120
+      },
+      {
+        "employeeNumber": "134567",
+        "subtotal": 1460
+      },
+      {
+        "employeeNumber": "135790",
+        "subtotal": 500
+      },
+      {
+        "employeeNumber": "147258",
+        "subtotal": 740
+      },
+      {
+        "employeeNumber": "223344",
+        "subtotal": 2090
+      },
+      {
+        "employeeNumber": "234567",
+        "subtotal": 820
+      },
+      {
+        "employeeNumber": "246802",
+        "subtotal": 300
+      },
+      {
+        "employeeNumber": "456789",
+        "subtotal": 1320
+      },
+      {
+        "employeeNumber": "4567717",
+        "subtotal": 1710
+      },
+      {
+        "employeeNumber": "464567",
+        "subtotal": 900
+      }
+    ],
+    "headcount": 12,
+    "grandTotal": 140960
+  }
+}

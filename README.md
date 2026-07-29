@@ -14,12 +14,12 @@ DocuBench is built to break extraction systems on what real documents actually l
 <br>
 
 <a href="https://htmlpreview.github.io/?https://github.com/DocuPipe/docubench/blob/main/docubench-explorer.html">
-  <img src="docs/explorer-preview.png" alt="DocuBench interactive results explorer — filter 72 documents and compare eight complete configurations" width="100%">
+  <img src="docs/explorer-preview.png" alt="DocuBench interactive results explorer — filter 72 documents and compare nine complete configurations" width="100%">
 </a>
 
 <h3 align="center"><a href="https://htmlpreview.github.io/?https://github.com/DocuPipe/docubench/blob/main/docubench-explorer.html">🔎&nbsp; Open the interactive results explorer &nbsp;→</a></h3>
 <p align="center">
-  Filter all 72 documents by language, length, format &amp; capability · compare eight complete configurations · drill into per-document scores.<br>
+  Filter all 72 documents by language, length, format &amp; capability · compare nine complete configurations · drill into per-document scores.<br>
 </p>
 
 <br>
@@ -35,14 +35,15 @@ The complete committed baselines, scored by the public scorer ([`scorer.py`](sco
 
 | Rank | System | Accuracy |
 |---:|---|---:|
-| 🥇 | **DocuPipe** — high effort | **97.03%** |
-| 🥈 | **DocuPipe** — standard effort | **96.16%** |
-| 🥉 | Claude Sonnet 5 — direct LLM | 91.67% |
-| 4 | Reducto — Deep Extract | 89.31% |
-| 5 | Reducto — standard | 81.06% |
-| 6 | Extend | 80.22% |
-| 7 | GPT-5.5 — direct LLM | 76.42% |
-| 8 | Gemini 3.5 Flash — direct LLM | 72.92% |
+| 🥇 | **DocuPipe** — high effort | **97.02%** |
+| 🥈 | **DocuPipe** — standard effort | **96.14%** |
+| 🥉 | Claude Sonnet 5 — direct LLM | 91.73% |
+| 4 | Reducto — Deep Extract | 89.38% |
+| 5 | Reducto — standard | 81.11% |
+| 6 | Extend | 80.28% |
+| 7 | GPT-5.5 — direct LLM | 76.48% |
+| 8 | Gemini 3.5 Flash — direct LLM | 72.98% |
+| 9 | Unstructured | 67.67% |
 
 > DocuPipe built this benchmark, so we hold our own results to the same bar as everyone else: identical schemas, identical labels, the same open scorer, and every raw model output committed under [`results/`](results). Run `docubench score` and you will reproduce this table.
 
@@ -174,6 +175,7 @@ The model runners send each document, its paired schema, and any `guidelines/<do
 | Gemini 3.5 Flash | `scripts/run_gemini.py` | `GOOGLE_API_KEY` |
 | Extend | `scripts/run_extend.py` | `EXTEND_API_KEY` |
 | Reducto | `scripts/run_reducto.py` | `REDUCTO_API_KEY` |
+| Unstructured | `scripts/run_unstructured.py` | `UNSTRUCTURED_API_KEY` |
 
 The three direct-LLM runners give each model its full output budget — Claude Sonnet 5 and GPT-5.5 up to 128K tokens, Gemini 3.5 Flash up to 65,536 — so a low output cap never causes an artificial failure. Override per-model with `OPENAI_MAX_OUTPUT_TOKENS`, `BEDROCK_CLAUDE_MAX_TOKENS`, or `GEMINI_MAX_OUTPUT_TOKENS`.
 

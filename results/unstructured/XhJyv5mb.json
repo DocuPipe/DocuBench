@@ -1,0 +1,233 @@
+{
+  "score": 0.7217391304347827,
+  "cost": 0.0,
+  "time_sec": 106.97887110710144,
+  "num_pages": 2,
+  "data": {
+    "companyName": "DEG",
+    "balanceSheetDate": "2022-12-31",
+    "totalAssets": 7701888860,
+    "totalEquityAndLiabilities": 7701888860,
+    "netResult": 10249807,
+    "balanceSheet": [
+      {
+        "lineItem": "1. Entgeltlich erworbene gewerbliche Schutzrechte und dhnliche Rechte und Werte sowie Lizenzen an solchen Rechten und Werten",
+        "amount": 2807912
+      },
+      {
+        "lineItem": "2. Geleistete Anzahlungen",
+        "amount": 387577
+      },
+      {
+        "lineItem": "1. Grundstiicke und Bauten",
+        "amount": 70848833
+      },
+      {
+        "lineItem": "2. Betriebs- und Geschéftsausstattung",
+        "amount": 5088545
+      },
+      {
+        "lineItem": "3. Geleistete Anzahlungen",
+        "amount": 1403051
+      },
+      {
+        "lineItem": "a) Beteiligungen",
+        "amount": 2088313438
+      },
+      {
+        "lineItem": "b) Ausleihungen an Unternehmen, mit denen ein Beteiligungsverhältnis besteht",
+        "amount": 42703519
+      },
+      {
+        "lineItem": "c) Sonstige Ausleihungen",
+        "amount": 4580821627
+      },
+      {
+        "lineItem": "a) Wertpapiere des Anlagevermégens",
+        "amount": 220351532
+      },
+      {
+        "lineItem": "b) Sonstige Ausleihungen",
+        "amount": 5497368
+      },
+      {
+        "lineItem": "1. Forderungen aus dem Investitionsgeschaft",
+        "amount": 69925680
+      },
+      {
+        "lineItem": "2. Forderungen aus der Abwicklung von Investitionen",
+        "amount": 3782662
+      },
+      {
+        "lineItem": "3. Forderungen aus Beratung und sonstigen Dienstleistungen",
+        "amount": 2320113
+      },
+      {
+        "lineItem": "4. Sonstige Vermgensgegenstande",
+        "amount": 55034411
+      },
+      {
+        "lineItem": "Il. Sonstige Wertpapiere",
+        "amount": 2516308
+      },
+      {
+        "lineItem": "1l. Kassenbestand, Guthaben bei Kreditinstituten",
+        "amount": 171301263
+      },
+      {
+        "lineItem": "C. Rechnungsabgrenzungsposten",
+        "amount": 3270377
+      },
+      {
+        "lineItem": "D. Treuhandvermégen",
+        "amount": 375514644
+      },
+      {
+        "lineItem": "1. Gezeichnetes Kapital",
+        "amount": 750000000
+      },
+      {
+        "lineItem": "Stand 1. Januar",
+        "amount": 1541036881
+      },
+      {
+        "lineItem": "Einstellung aus dem Jahresiiberschuss (i. Vj. Entnahme des Jahresfehlbetrages des Vorjahres)",
+        "amount": 215585315
+      },
+      {
+        "lineItem": "Stand 31. Dezember",
+        "amount": 1756622196
+      },
+      {
+        "lineItem": "1I. Jahresiiberschuss",
+        "amount": 10249807
+      },
+      {
+        "lineItem": "1. Riickstellungen fiir Pensionen und hnliche Verpflichtungen",
+        "amount": 166920194
+      },
+      {
+        "lineItem": "2. Steuerriickstellungen",
+        "amount": 9221336
+      },
+      {
+        "lineItem": "3. Sonstige Riickstellungen",
+        "amount": 69291277
+      },
+      {
+        "lineItem": "1. Verbindlichkeiten zur Finanzierung des Investitionsgeschaftes",
+        "amount": 4482620874
+      },
+      {
+        "lineItem": "2. Verbindlichkeiten aus Lieferungen und Leistungen",
+        "amount": 484526
+      },
+      {
+        "lineItem": "3. Sonstige Verbindlichkeiten",
+        "amount": 80964006
+      },
+      {
+        "lineItem": "D. Verbindlichkeiten gegeniiber Treugebern",
+        "amount": 375514644
+      }
+    ],
+    "incomeStatement": [
+      {
+        "lineItem": "a) aus Beratungsauftragen",
+        "amount": 2442901
+      },
+      {
+        "lineItem": "b) aus Treuhandgeschaft",
+        "amount": 432554
+      },
+      {
+        "lineItem": "c) aus Dienstleistungen",
+        "amount": 13079359
+      },
+      {
+        "lineItem": "2. Ertrage aus Beteiligungen",
+        "amount": 73951663
+      },
+      {
+        "lineItem": "3. Ertrage aus Ausleihungen des Finanzanlagevermgens",
+        "amount": 260142174
+      },
+      {
+        "lineItem": "4. Sonstige Zinsen und dhnliche Ertrge",
+        "amount": 2031676
+      },
+      {
+        "lineItem": "a) Zuschreibungen zu Finanzanlagen",
+        "amount": 85397804
+      },
+      {
+        "lineItem": "b) Zuschreibungen zu Forderungen aus dem Investitionsgeschaft und der Abwicklung von Investitionen",
+        "amount": 327238
+      },
+      {
+        "lineItem": "c) Auflésung von Riickstellungen im Kredit- und Beteiligungsgeschaft",
+        "amount": 5946036
+      },
+      {
+        "lineItem": "d) Zuschreibungen zu Wertpapieren",
+        "amount": 423404
+      },
+      {
+        "lineItem": "6. Sonstige betriebliche Ertrge",
+        "amount": 225186269
+      },
+      {
+        "lineItem": "7. Aufwendungen fiir bezogene Leistungen",
+        "amount": 1822383
+      },
+      {
+        "lineItem": "a) Abschreibungen und Wertberichtigungen auf Finanzanlagen",
+        "amount": 287123690
+      },
+      {
+        "lineItem": "c) Zufuhrungen zu Riickstellungen im Kredit- und Beteiligungsgeschaft",
+        "amount": 4102323
+      },
+      {
+        "lineItem": "d) Abschreibungen und Wertberichtigungen auf Wertpapiere",
+        "amount": 1388639
+      },
+      {
+        "lineItem": "9. Zinsen und dhnliche Aufwendungen",
+        "amount": 74832434
+      },
+      {
+        "lineItem": "a) Lhne und Gehélter",
+        "amount": 65277746
+      },
+      {
+        "lineItem": "b) Soziale Abgaben und Aufwendungen fiir Altersversorgung und Unterstiitzung",
+        "amount": 18575005
+      },
+      {
+        "lineItem": "11. Abschreibungen auf immaterielle Vermogensgegenstande des Anlagevermégens und Sachanlagen",
+        "amount": 5210976
+      },
+      {
+        "lineItem": "12. Sonstige betriebliche Aufwendungen",
+        "amount": 188562305
+      },
+      {
+        "lineItem": "13. Steuern vom Einkommen und vom Ertrag",
+        "amount": 11802977
+      },
+      {
+        "lineItem": "14. Ergebnis nach Steuern",
+        "amount": 10662594
+      },
+      {
+        "lineItem": "15. Sonstige Steuern",
+        "amount": 412787
+      },
+      {
+        "lineItem": "16. Jahresiiberschuss",
+        "amount": 10249807
+      }
+    ]
+  }
+}

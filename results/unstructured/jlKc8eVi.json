@@ -1,0 +1,288 @@
+{
+  "score": 0.8027918781725891,
+  "cost": 0.0,
+  "time_sec": 117.33338785171509,
+  "num_pages": 1,
+  "data": {
+    "sellerName": "株式会社 ○×コンピュータ販売",
+    "sellerPhone": "（０４５）ＸＸＸ－ＸＸＸＸ",
+    "buyerName": "○○商会横浜南支店",
+    "buyerAddress": "神奈川県横浜市◇◇区△△町１－１－１",
+    "branch": "横浜南",
+    "personInCharge": "山田",
+    "issueDate": "平成22年06月29日",
+    "lineItems": [
+      {
+        "productName": "RYavE (FEF1)",
+        "productCode": "®-0001",
+        "quantity": 10,
+        "unitPrice": 150000,
+        "discountPercent": 40,
+        "subtotal": 900000,
+        "remark": "特別セール割引"
+      },
+      {
+        "productName": "1585 (AT LA",
+        "productCode": "@®-1015",
+        "quantity": 10,
+        "unitPrice": 50000,
+        "discountPercent": 40,
+        "subtotal": 300000,
+        "remark": "特別セール割引"
+      },
+      {
+        "productName": "AT Y —",
+        "productCode": "©-1010",
+        "quantity": 10,
+        "unitPrice": 5000,
+        "discountPercent": 30,
+        "subtotal": 35000,
+        "remark": null
+      },
+      {
+        "productName": "HWRT 4 A",
+        "productCode": "O-2001",
+        "quantity": 10,
+        "unitPrice": 30000,
+        "discountPercent": 30,
+        "subtotal": 210000,
+        "remark": null
+      },
+      {
+        "productName": "TNTYH",
+        "productCode": "<-0002",
+        "quantity": 5,
+        "unitPrice": 150000,
+        "discountPercent": 30,
+        "subtotal": 525000,
+        "remark": null
+      },
+      {
+        "productName": "NHXT 4 —",
+        "productCode": "<&-0101",
+        "quantity": 5,
+        "unitPrice": 15000,
+        "discountPercent": 30,
+        "subtotal": 52500,
+        "remark": null
+      },
+      {
+        "productName": "7",
+        "productCode": "<©-0110",
+        "quantity": 5,
+        "unitPrice": 3000,
+        "discountPercent": 30,
+        "subtotal": 10500,
+        "remark": null
+      },
+      {
+        "productName": "A IR",
+        "productCode": "<-0201",
+        "quantity": 10,
+        "unitPrice": 2000,
+        "discountPercent": 30,
+        "subtotal": 14000,
+        "remark": null
+      },
+      {
+        "productName": "EE— )",
+        "productCode": "<-1001",
+        "quantity": 2,
+        "unitPrice": 498000,
+        "discountPercent": 30,
+        "subtotal": 697200,
+        "remark": null
+      },
+      {
+        "productName": "A KA y —",
+        "productCode": "<-1101",
+        "quantity": 2,
+        "unitPrice": 50000,
+        "discountPercent": 30,
+        "subtotal": 70000,
+        "remark": null
+      },
+      {
+        "productName": "R",
+        "productCode": "O-1111",
+        "quantity": 2,
+        "unitPrice": 90000,
+        "discountPercent": 30,
+        "subtotal": 126000,
+        "remark": null
+      },
+      {
+        "productName": "LAN#A 7> a",
+        "productCode": "-1122",
+        "quantity": 2,
+        "unitPrice": 30000,
+        "discountPercent": 30,
+        "subtotal": 42000,
+        "remark": null
+      },
+      {
+        "productName": "TV HRT 4 A",
+        "productCode": "O-1131",
+        "quantity": 2,
+        "unitPrice": 30000,
+        "discountPercent": 30,
+        "subtotal": 42000,
+        "remark": null
+      },
+      {
+        "productName": "T EAEY —",
+        "productCode": "-1141",
+        "quantity": 2,
+        "unitPrice": 10000,
+        "discountPercent": 30,
+        "subtotal": 14000,
+        "remark": null
+      },
+      {
+        "productName": "TV EAR—",
+        "productCode": "O-1141",
+        "quantity": 2,
+        "unitPrice": 15000,
+        "discountPercent": 30,
+        "subtotal": 21000,
+        "remark": null
+      },
+      {
+        "productName": null,
+        "productCode": "-1201",
+        "quantity": 4,
+        "unitPrice": 18000,
+        "discountPercent": 30,
+        "subtotal": 50400,
+        "remark": null
+      },
+      {
+        "productName": "NT g —a— R —",
+        "productCode": "-1000",
+        "quantity": 10,
+        "unitPrice": 125000,
+        "discountPercent": 30,
+        "subtotal": 875000,
+        "remark": null
+      },
+      {
+        "productName": "AV EYS DA",
+        "productCode": "-1101",
+        "quantity": 10,
+        "unitPrice": 20000,
+        "discountPercent": 30,
+        "subtotal": 140000,
+        "remark": null
+      },
+      {
+        "productName": "V EY",
+        "productCode": "-0001",
+        "quantity": 10,
+        "unitPrice": 30000,
+        "discountPercent": 40,
+        "subtotal": 180000,
+        "remark": "特別セール割引"
+      },
+      {
+        "productName": "HET 4V T4 b",
+        "productCode": "0-0010",
+        "quantity": 10,
+        "unitPrice": 20000,
+        "discountPercent": 40,
+        "subtotal": 120000,
+        "remark": "特別セール割引"
+      },
+      {
+        "productName": "DBYZ7y=7Tty b",
+        "productCode": "0-0020",
+        "quantity": 10,
+        "unitPrice": 50000,
+        "discountPercent": 40,
+        "subtotal": 300000,
+        "remark": "特別セール割引"
+      },
+      {
+        "productName": "EET 7 by =T",
+        "productCode": "0-0030",
+        "quantity": 10,
+        "unitPrice": 10000,
+        "discountPercent": 40,
+        "subtotal": 60000,
+        "remark": "特別セール割引"
+      },
+      {
+        "productName": "EBET SV —a",
+        "productCode": "0-1001",
+        "quantity": 10,
+        "unitPrice": 120000,
+        "discountPercent": 40,
+        "subtotal": 720000,
+        "remark": "特別セール割引"
+      },
+      {
+        "productName": "AY— R",
+        "productCode": "-0001",
+        "quantity": 10,
+        "unitPrice": 10000,
+        "discountPercent": 10,
+        "subtotal": 90000,
+        "remark": null
+      },
+      {
+        "productName": "EGEREY— R",
+        "productCode": "-0010",
+        "quantity": 10,
+        "unitPrice": 10000,
+        "discountPercent": 10,
+        "subtotal": 90000,
+        "remark": null
+      },
+      {
+        "productName": "REA AP —E R",
+        "productCode": "-0100",
+        "quantity": 20,
+        "unitPrice": 20000,
+        "discountPercent": 40,
+        "subtotal": 240000,
+        "remark": "特別セール割引"
+      },
+      {
+        "productName": "SR Y — B A",
+        "productCode": "m-0110",
+        "quantity": 10,
+        "unitPrice": 90000,
+        "discountPercent": 40,
+        "subtotal": 540000,
+        "remark": "特別セール割引"
+      },
+      {
+        "productName": "~NVF —E R",
+        "productCode": "-1001",
+        "quantity": 1,
+        "unitPrice": 300000,
+        "discountPercent": 10,
+        "subtotal": 270000,
+        "remark": null
+      },
+      {
+        "productName": "EHEY—X",
+        "productCode": "-1100",
+        "quantity": 1,
+        "unitPrice": 300000,
+        "discountPercent": 10,
+        "subtotal": 270000,
+        "remark": null
+      },
+      {
+        "productName": "FFY—E X",
+        "productCode": "-1101",
+        "quantity": 1,
+        "unitPrice": 300000,
+        "discountPercent": 10,
+        "subtotal": 270000,
+        "remark": null
+      }
+    ],
+    "grandTotal": 7274600
+  }
+}

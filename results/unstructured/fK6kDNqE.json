@@ -1,0 +1,388 @@
+{
+  "score": 0.03683922213092302,
+  "cost": 0.0,
+  "time_sec": 2291.2774448394775,
+  "num_pages": 22,
+  "data": {
+    "entries": [
+      {
+        "surname": "Cabral",
+        "givenNames": "Manoel",
+        "occupationOrStatus": "carder",
+        "residenceWord": "house",
+        "address": "350 William"
+      },
+      {
+        "surname": null,
+        "givenNames": "Manoel",
+        "occupationOrStatus": "dyer",
+        "residenceWord": "boards",
+        "address": "105 Pitman"
+      },
+      {
+        "surname": null,
+        "givenNames": "Manoel",
+        "occupationOrStatus": "laborer",
+        "residenceWord": "house",
+        "address": "521 Tecumseh"
+      },
+      {
+        "surname": null,
+        "givenNames": "Manoel",
+        "occupationOrStatus": "operative",
+        "residenceWord": "house",
+        "address": "486 Tecumseh"
+      },
+      {
+        "surname": null,
+        "givenNames": "Manoel Almeida",
+        "occupationOrStatus": "operative",
+        "residenceWord": "boards",
+        "address": "22 Morton"
+      },
+      {
+        "surname": null,
+        "givenNames": "Manoel Carreira",
+        "occupationOrStatus": "operative",
+        "residenceWord": "house",
+        "address": "193 Hope"
+      },
+      {
+        "surname": null,
+        "givenNames": "Manoel Pedro",
+        "occupationOrStatus": "operative",
+        "residenceWord": "house",
+        "address": "317 Ferry"
+      },
+      {
+        "surname": null,
+        "givenNames": "Manoel Pimental",
+        "occupationOrStatus": "laborer",
+        "residenceWord": "house",
+        "address": "40 William"
+      },
+      {
+        "surname": null,
+        "givenNames": "Manoel Souza",
+        "occupationOrStatus": "operative",
+        "residenceWord": "boards",
+        "address": "139 Columbia"
+      },
+      {
+        "surname": null,
+        "givenNames": "Maria C",
+        "occupationOrStatus": "widow",
+        "residenceWord": "house",
+        "address": "137 George"
+      },
+      {
+        "surname": null,
+        "givenNames": "Maria Jesus",
+        "occupationOrStatus": "widow",
+        "residenceWord": "house",
+        "address": "279 Lindsey"
+      },
+      {
+        "surname": null,
+        "givenNames": "Maria J",
+        "occupationOrStatus": "widow",
+        "residenceWord": "house",
+        "address": "94 Alden"
+      },
+      {
+        "surname": null,
+        "givenNames": "Marie de S",
+        "occupationOrStatus": "widow",
+        "residenceWord": "house",
+        "address": "604 Underwood"
+      },
+      {
+        "surname": null,
+        "givenNames": "Maxime",
+        "occupationOrStatus": "operative",
+        "residenceWord": "house",
+        "address": "130 Choate"
+      },
+      {
+        "surname": null,
+        "givenNames": "Roza",
+        "occupationOrStatus": null,
+        "residenceWord": "house",
+        "address": "83 Dickinson"
+      },
+      {
+        "surname": null,
+        "givenNames": "Ventura",
+        "occupationOrStatus": "operative",
+        "residenceWord": "house",
+        "address": "66 Plain"
+      },
+      {
+        "surname": "Cacinthe",
+        "givenNames": "Antoine",
+        "occupationOrStatus": "painter",
+        "residenceWord": "house",
+        "address": "442 Tecumseh"
+      },
+      {
+        "surname": "Caden",
+        "givenNames": "Mary",
+        "occupationOrStatus": "widow",
+        "residenceWord": "house",
+        "address": "33 Plain"
+      },
+      {
+        "surname": null,
+        "givenNames": "Thomas P",
+        "occupationOrStatus": "engineer",
+        "residenceWord": "house",
+        "address": "358 Robeson"
+      },
+      {
+        "surname": "Cadieux",
+        "givenNames": "Amedee",
+        "occupationOrStatus": "carpenter",
+        "residenceWord": "house",
+        "address": "337 Flint"
+      },
+      {
+        "surname": null,
+        "givenNames": "Joseph",
+        "occupationOrStatus": "teamster 955 Pleasant",
+        "residenceWord": "house",
+        "address": "do"
+      },
+      {
+        "surname": null,
+        "givenNames": "Thomas Brother",
+        "occupationOrStatus": null,
+        "residenceWord": "house",
+        "address": "790 South Main"
+      },
+      {
+        "surname": "Cadimbo",
+        "givenNames": "Jacintho Rapozo",
+        "occupationOrStatus": "operative",
+        "residenceWord": "house",
+        "address": "35 William"
+      },
+      {
+        "surname": null,
+        "givenNames": "Jose Rapozo",
+        "occupationOrStatus": "at print works",
+        "residenceWord": "boards",
+        "address": "17 Bluff"
+      },
+      {
+        "surname": null,
+        "givenNames": "Manoel Rapozo",
+        "occupationOrStatus": "at print works",
+        "residenceWord": "boards",
+        "address": "17 Bluff"
+      },
+      {
+        "surname": "Cadoret",
+        "givenNames": "Albert",
+        "occupationOrStatus": null,
+        "residenceWord": "house",
+        "address": "66 Haskell"
+      },
+      {
+        "surname": null,
+        "givenNames": "Alfred",
+        "occupationOrStatus": "weaver",
+        "residenceWord": "boards",
+        "address": "305 Flint"
+      },
+      {
+        "surname": null,
+        "givenNames": "Edmond",
+        "occupationOrStatus": "operative",
+        "residenceWord": "boards",
+        "address": "305 Flint"
+      },
+      {
+        "surname": null,
+        "givenNames": "Edouard",
+        "occupationOrStatus": "driver",
+        "residenceWord": "house",
+        "address": "37 Weybosset"
+      },
+      {
+        "surname": null,
+        "givenNames": "Ernest (Bleau & Cadoret)",
+        "occupationOrStatus": "restaurant 1300 Pleasant",
+        "residenceWord": "boards",
+        "address": "37 Weybosset"
+      },
+      {
+        "surname": null,
+        "givenNames": "Francois",
+        "occupationOrStatus": "loom fixer",
+        "residenceWord": "house",
+        "address": "91 Choate"
+      },
+      {
+        "surname": null,
+        "givenNames": "George",
+        "occupationOrStatus": "barber 1004 South Main",
+        "residenceWord": "house",
+        "address": "29 Kilburn"
+      },
+      {
+        "surname": null,
+        "givenNames": "Joseph",
+        "occupationOrStatus": "driver",
+        "residenceWord": "house",
+        "address": "123 Davis"
+      },
+      {
+        "surname": null,
+        "givenNames": "Josephine",
+        "occupationOrStatus": "widow of Laboire F",
+        "residenceWord": "house",
+        "address": "197 Rodman"
+      },
+      {
+        "surname": null,
+        "givenNames": "Laboire F",
+        "occupationOrStatus": "died Sept 30 1904",
+        "residenceWord": null,
+        "address": null
+      },
+      {
+        "surname": null,
+        "givenNames": "Louis",
+        "occupationOrStatus": "iceman",
+        "residenceWord": "house",
+        "address": "1640 Pleasant"
+      },
+      {
+        "surname": null,
+        "givenNames": "Prime",
+        "occupationOrStatus": "clerk 1402 Pleasant",
+        "residenceWord": "boards",
+        "address": "37 Weybosset"
+      },
+      {
+        "surname": "Cadren",
+        "givenNames": "George",
+        "occupationOrStatus": null,
+        "residenceWord": "house",
+        "address": "151 Thomas"
+      },
+      {
+        "surname": "Cadwell",
+        "givenNames": "Ellen",
+        "occupationOrStatus": "widow removed to Providence, R I",
+        "residenceWord": null,
+        "address": null
+      },
+      {
+        "surname": null,
+        "givenNames": "Sarah",
+        "occupationOrStatus": "removed to Providence, R I",
+        "residenceWord": null,
+        "address": null
+      },
+      {
+        "surname": "Cady",
+        "givenNames": "Henry W",
+        "occupationOrStatus": "restaurant State av near S Main, N T",
+        "residenceWord": "h",
+        "address": "do"
+      },
+      {
+        "surname": "Caesar",
+        "givenNames": "Emil",
+        "occupationOrStatus": "glazier 130 Bedford",
+        "residenceWord": "boards",
+        "address": "105 Locust"
+      },
+      {
+        "surname": "Caethano",
+        "givenNames": "Francisco A",
+        "occupationOrStatus": "laborer",
+        "residenceWord": "boards",
+        "address": "203 William"
+      },
+      {
+        "surname": null,
+        "givenNames": "Jose Faria",
+        "occupationOrStatus": "operative",
+        "residenceWord": "house",
+        "address": "72 Everett"
+      },
+      {
+        "surname": "Cafferty",
+        "givenNames": "Michael",
+        "occupationOrStatus": "died April 9 1904",
+        "residenceWord": null,
+        "address": null
+      },
+      {
+        "surname": "Cahan",
+        "givenNames": "Samuel",
+        "occupationOrStatus": "tailor 164 South Main",
+        "residenceWord": "bds",
+        "address": "281 Washington"
+      },
+      {
+        "surname": "Cahier",
+        "givenNames": "Onesime",
+        "occupationOrStatus": "mason",
+        "residenceWord": "house",
+        "address": "752 Dwelley"
+      },
+      {
+        "surname": "Cahill",
+        "givenNames": "Christopher",
+        "occupationOrStatus": "teamster",
+        "residenceWord": "house",
+        "address": "40 Wilbur"
+      },
+      {
+        "surname": null,
+        "givenNames": "Ellen",
+        "occupationOrStatus": null,
+        "residenceWord": "boards",
+        "address": "304 Columbia"
+      },
+      {
+        "surname": null,
+        "givenNames": "H James",
+        "occupationOrStatus": "blacksmith 41 Eleventh",
+        "residenceWord": "boards",
+        "address": "380 Linden"
+      },
+      {
+        "surname": null,
+        "givenNames": "James",
+        "occupationOrStatus": "machinist",
+        "residenceWord": "house",
+        "address": "319 Broadway"
+      },
+      {
+        "surname": null,
+        "givenNames": "James H",
+        "occupationOrStatus": "horse shoer",
+        "residenceWord": "house",
+        "address": "380 Linden"
+      },
+      {
+        "surname": null,
+        "givenNames": "James M",
+        "occupationOrStatus": "weaver",
+        "residenceWord": "house",
+        "address": "rear 39 Donnelly"
+      },
+      {
+        "surname": null,
+        "givenNames": "Jessie M",
+        "occupationOrStatus": "drawer-in",
+        "residenceWord": "boards",
+        "address": "304 Columbia"
+      }
+    ]
+  }
+}

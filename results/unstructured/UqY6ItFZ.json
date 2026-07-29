@@ -1,0 +1,385 @@
+{
+  "score": 0.0634995296331138,
+  "cost": 0.0,
+  "time_sec": 1633.3984909057617,
+  "num_pages": 14,
+  "data": {
+    "entries": [
+      {
+        "headword": "कर्मशील",
+        "grammaticalTag": "adj.",
+        "englishGloss": "assiduous, laborious."
+      },
+      {
+        "headword": "कर्महीन",
+        "grammaticalTag": "adj.",
+        "englishGloss": "unfortunate, unlucky."
+      },
+      {
+        "headword": "कर्मीणुसर्मी",
+        "grammaticalTag": "adj.",
+        "englishGloss": "devout, virtuous, fortunate."
+      },
+      {
+        "headword": "कर्मिष्ठ",
+        "grammaticalTag": "adj.",
+        "englishGloss": "active, diligent."
+      },
+      {
+        "headword": "कर्मी",
+        "grammaticalTag": "adj.",
+        "englishGloss": "relating to work."
+      },
+      {
+        "headword": "कर्मेन्द्रिय",
+        "grammaticalTag": "m.",
+        "englishGloss": "an organ of action as the hand, foot, etc."
+      },
+      {
+        "headword": "कर्षक",
+        "grammaticalTag": "m.",
+        "englishGloss": "a ploughman, cultivator."
+      },
+      {
+        "headword": "कर्षण",
+        "grammaticalTag": "m.",
+        "englishGloss": "drawing, attracting, ploughing."
+      },
+      {
+        "headword": "कर्षणी",
+        "grammaticalTag": "f.",
+        "englishGloss": "the bit of a bridle."
+      },
+      {
+        "headword": "कल",
+        "grammaticalTag": "m",
+        "englishGloss": "yesterday, to-morrow, ease, peace, rest, a machine."
+      },
+      {
+        "headword": "कलकल",
+        "grammaticalTag": "m.",
+        "englishGloss": "confused noise, wrangling."
+      },
+      {
+        "headword": "कलकी",
+        "grammaticalTag": "m.",
+        "englishGloss": "the 10th Hindú incarnation."
+      },
+      {
+        "headword": "कल की बात",
+        "grammaticalTag": "f.",
+        "englishGloss": "a matter of yesterday."
+      },
+      {
+        "headword": "कलगा",
+        "grammaticalTag": "m.",
+        "englishGloss": "a flower, cockscomb."
+      },
+      {
+        "headword": "कलङ्क",
+        "grammaticalTag": "m.",
+        "englishGloss": "a spot, mark, blemish, stigma."
+      },
+      {
+        "headword": "कलजइवां",
+        "grammaticalTag": "adj.",
+        "englishGloss": "dark complexioned."
+      },
+      {
+        "headword": "कलजिभा",
+        "grammaticalTag": "adj.",
+        "englishGloss": "malignant, ill-omened."
+      },
+      {
+        "headword": "कलजुग",
+        "grammaticalTag": "m.",
+        "englishGloss": "the fourth or iron age."
+      },
+      {
+        "headword": "कलउज",
+        "grammaticalTag": "adj.",
+        "englishGloss": "struck with a poisoned arrow."
+      },
+      {
+        "headword": "कलटना",
+        "grammaticalTag": "v.",
+        "englishGloss": "to tantalize."
+      },
+      {
+        "headword": "कलत्र",
+        "grammaticalTag": "f.",
+        "englishGloss": "a wife."
+      },
+      {
+        "headword": "कलप",
+        "grammaticalTag": "m.",
+        "englishGloss": "starch, dye for the hair."
+      },
+      {
+        "headword": "कलपना",
+        "grammaticalTag": "v.",
+        "englishGloss": "to be grieved or sorry."
+      },
+      {
+        "headword": "कलपाना",
+        "grammaticalTag": "v.",
+        "englishGloss": "to grieve, to sorrow."
+      },
+      {
+        "headword": "कलम",
+        "grammaticalTag": "m.",
+        "englishGloss": "a pen."
+      },
+      {
+        "headword": "कलसमकल",
+        "grammaticalTag": "f.",
+        "englishGloss": "trouble, perplexity."
+      },
+      {
+        "headword": "कलसमल",
+        "grammaticalTag": "m.",
+        "englishGloss": "fidget, flutter."
+      },
+      {
+        "headword": "कलसमलाना",
+        "grammaticalTag": "v.",
+        "englishGloss": "to fidget, to flutter."
+      },
+      {
+        "headword": "कलमी",
+        "grammaticalTag": "f.",
+        "englishGloss": "a kind of vegetable."
+      },
+      {
+        "headword": "कलरव",
+        "grammaticalTag": "f.",
+        "englishGloss": "murmur, buzz."
+      },
+      {
+        "headword": "कलवल",
+        "grammaticalTag": "f.",
+        "englishGloss": "misfortune, calamity."
+      },
+      {
+        "headword": "कलवार",
+        "grammaticalTag": "m.",
+        "englishGloss": "a distiller, seller of liquors."
+      },
+      {
+        "headword": "कलश",
+        "grammaticalTag": "m.",
+        "englishGloss": "a dome, cupola, spire, waterpot."
+      },
+      {
+        "headword": "कलशी",
+        "grammaticalTag": "f.",
+        "englishGloss": "a little spire, a small water-pot."
+      },
+      {
+        "headword": "कलेश",
+        "grammaticalTag": null,
+        "englishGloss": "see क्लेश."
+      },
+      {
+        "headword": "कलशा",
+        "grammaticalTag": "m.",
+        "englishGloss": "spire, pinnacle, waterpot."
+      },
+      {
+        "headword": "कलहंस",
+        "grammaticalTag": "m.",
+        "englishGloss": "a bird, the swan."
+      },
+      {
+        "headword": "कलह",
+        "grammaticalTag": "m.",
+        "englishGloss": "quarrel, contention."
+      },
+      {
+        "headword": "कलघारा",
+        "grammaticalTag": "adj.",
+        "englishGloss": "quarrelsome, contentious."
+      },
+      {
+        "headword": "कलही",
+        "grammaticalTag": "f.",
+        "englishGloss": "a scold, a vixen."
+      },
+      {
+        "headword": "कला",
+        "grammaticalTag": "f.",
+        "englishGloss": "the 16th part of a degree, part, portion."
+      },
+      {
+        "headword": "कलाई",
+        "grammaticalTag": "f.",
+        "englishGloss": "wrist, a kind of pulse."
+      },
+      {
+        "headword": "कलाना",
+        "grammaticalTag": "v.",
+        "englishGloss": "to parch grain."
+      },
+      {
+        "headword": "कलाप",
+        "grammaticalTag": "m.",
+        "englishGloss": "an assemblage, a multitude."
+      },
+      {
+        "headword": "कलाबतून",
+        "grammaticalTag": "m",
+        "englishGloss": "gold or silver thread."
+      },
+      {
+        "headword": "कलार",
+        "grammaticalTag": null,
+        "englishGloss": "see कलवार."
+      },
+      {
+        "headword": "कलावन्त",
+        "grammaticalTag": "m.",
+        "englishGloss": "a musician, a kind of singing."
+      },
+      {
+        "headword": "कलि",
+        "grammaticalTag": "m.",
+        "englishGloss": "the 4th age, age of sin."
+      },
+      {
+        "headword": "कलिका",
+        "grammaticalTag": "m.",
+        "englishGloss": "an unblown flower, part of a pipe."
+      },
+      {
+        "headword": "कलिङ्ग",
+        "grammaticalTag": "m.",
+        "englishGloss": "the febrifuge nut plant."
+      },
+      {
+        "headword": "कलिन्द्रा",
+        "grammaticalTag": "m.",
+        "englishGloss": "a water melon."
+      },
+      {
+        "headword": "कलिवाना",
+        "grammaticalTag": "v.",
+        "englishGloss": "to bud, to blossom."
+      },
+      {
+        "headword": "कलियुग",
+        "grammaticalTag": "m.",
+        "englishGloss": "the 4th or present age."
+      },
+      {
+        "headword": "कलिहारी",
+        "grammaticalTag": "f.",
+        "englishGloss": "a quarrelsome woman."
+      },
+      {
+        "headword": "कली",
+        "grammaticalTag": "f.",
+        "englishGloss": "a bud, unblown flower."
+      },
+      {
+        "headword": "कलूटा",
+        "grammaticalTag": "adj.",
+        "englishGloss": "black (complexioned)."
+      },
+      {
+        "headword": "कलेज",
+        "grammaticalTag": "m.",
+        "englishGloss": "stale or left food."
+      },
+      {
+        "headword": "कलेजा",
+        "grammaticalTag": "m.",
+        "englishGloss": "the liver, courage, spirit."
+      },
+      {
+        "headword": "कलेजा चलनी होना",
+        "grammaticalTag": "v.",
+        "englishGloss": "to be pierced through the heart (as a sieve)."
+      },
+      {
+        "headword": "कलेजा ढेदना",
+        "grammaticalTag": "v.",
+        "englishGloss": "to pierce one's heart."
+      },
+      {
+        "headword": "कलेजा जलना",
+        "grammaticalTag": "v.",
+        "englishGloss": "to burn (one's heart)."
+      },
+      {
+        "headword": "कलेजा धक से होना",
+        "grammaticalTag": "v.",
+        "englishGloss": "to be stunned (with grief or terror)."
+      },
+      {
+        "headword": "कलेजा धड़कना",
+        "grammaticalTag": "v.",
+        "englishGloss": "to beat or throb (the heart)."
+      },
+      {
+        "headword": "कलेजा फटना",
+        "grammaticalTag": "v.",
+        "englishGloss": "to be touched, to feel pity or compassion."
+      },
+      {
+        "headword": "कलेजी",
+        "grammaticalTag": "f.",
+        "englishGloss": "the liver of animals used as food."
+      },
+      {
+        "headword": "कलेजे से लगाना",
+        "grammaticalTag": "v.",
+        "englishGloss": "to embrace, to hug, to caress."
+      },
+      {
+        "headword": "कलेवर",
+        "grammaticalTag": "m.",
+        "englishGloss": "the body."
+      },
+      {
+        "headword": "कलेवा",
+        "grammaticalTag": "m.",
+        "englishGloss": "breakfast, luncheon."
+      },
+      {
+        "headword": "कलस्ह",
+        "grammaticalTag": null,
+        "englishGloss": "see कलश."
+      },
+      {
+        "headword": "कलोर",
+        "grammaticalTag": "m.",
+        "englishGloss": "a heifer."
+      },
+      {
+        "headword": "कलोल",
+        "grammaticalTag": "f.",
+        "englishGloss": "sport, play, gambol."
+      },
+      {
+        "headword": "कलौंजी",
+        "grammaticalTag": "f.",
+        "englishGloss": "a kind of seed."
+      },
+      {
+        "headword": "कल्क",
+        "grammaticalTag": "m.",
+        "englishGloss": "sediment, ordure, sin."
+      },
+      {
+        "headword": "कल्कल्",
+        "grammaticalTag": "m.",
+        "englishGloss": "hum, buzz, hubbub."
+      },
+      {
+        "headword": "कल्प",
+        "grammaticalTag": "m.",
+        "englishGloss": "a day of Brahmá or 4,320,000 years, purpose, contrivance."
+      }
+    ]
+  }
+}

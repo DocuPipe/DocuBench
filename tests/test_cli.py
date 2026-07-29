@@ -26,6 +26,7 @@ def test_validate_current_benchmark_files():
         "gpt",
         "reducto",
         "reducto_standard",
+        "unstructured",
     }
 
 

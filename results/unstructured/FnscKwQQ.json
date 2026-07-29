@@ -1,0 +1,1389 @@
+{
+  "score": 0.3947598253275109,
+  "cost": 0.0,
+  "time_sec": 3212.7711358070374,
+  "num_pages": 16,
+  "data": {
+    "entries": [
+      {
+        "headword": "atarragar",
+        "grammaticalCategory": "intr.",
+        "definition": "Andar con dificultad.",
+        "exampleQuote": "«Entraron dos muleros atarragando con un pellejo de Moriles.»",
+        "exampleSource": "(Cristóbal de Castro, «Los hombres de hierro», pág. 15.)"
+      },
+      {
+        "headword": "atarrajar",
+        "grammaticalCategory": "tr. Veter.",
+        "definition": "Atarragar en la 1.ª acepción del Dic.",
+        "exampleQuote": "«No sabe atarrajar y hierra mal.»",
+        "exampleSource": null
+      },
+      {
+        "headword": "atarugarse",
+        "grammaticalCategory": "r.",
+        "definition": "Cortarse, turbarse. (En el Dic., como de Aragón.)",
+        "exampleQuote": "«Se atarugó de tal manera que no pudo seguir el discurso.»",
+        "exampleSource": null
+      },
+      {
+        "headword": "atascaburro",
+        "grammaticalCategory": "m.",
+        "definition": "Gachas de maíz, gachasmigas.",
+        "exampleQuote": "«Comieron por la mañana atascaburro.»",
+        "exampleSource": null
+      },
+      {
+        "headword": "atascaburros",
+        "grammaticalCategory": "m. pl.",
+        "definition": "Comida que se hace con patatas cocidas, aceite, bacalao, vinagre, sal y agua.",
+        "exampleQuote": "«Hoy tendremos de cena atascaburros.»",
+        "exampleSource": null
+      },
+      {
+        "headword": "atascado, da",
+        "grammaticalCategory": "adj.",
+        "definition": "Persona obstinada, terca. (En el Dic., como de Murcia.) Ú. t. c. r.",
+        "exampleQuote": "«Ya lo sentí pedricar y dije: Quieto y parao ¡Que demontre! A confesar. Si me van a perdonar ¿a qué ser tan atascao?»",
+        "exampleSource": "(Álvarez de Sotomayor, «Alma campesina», pág. 91.)"
+      },
+      {
+        "headword": "atasquera",
+        "grammaticalCategory": "f.",
+        "definition": "Tasquera, terquedad.",
+        "exampleQuote": "«Toma tales atasqueras que hay que dejarlo.»",
+        "exampleSource": null
+      },
+      {
+        "headword": "ataubí",
+        "grammaticalCategory": "adj. Vitic.",
+        "definition": "Variedad de la parra. / Variedad de uva de grano grande, de color verde, trasluciente, duro y carnoso.",
+        "exampleQuote": "«En Rías, pueblo de Granada, se ven todavía algunas parras Ataubíes que comienzan a criarse ahora...»",
+        "exampleSource": "(Rojas Clemente, «Variedades de la vid común en Andalucía», página 103.)"
+      },
+      {
+        "headword": "atélite",
+        "grammaticalCategory": "m.",
+        "definition": "Vulg. por satélite, en la acepción de seguir a otro a todas partes. / Hombre de dudosa conducta.",
+        "exampleQuote": "«Ya viene el conde con su atélite.»",
+        "exampleSource": null
+      },
+      {
+        "headword": "atemperar",
+        "grammaticalCategory": "tr.",
+        "definition": "Acción benéfica de la lluvia en el olivo. / Mejorar por la misma causa el aspecto de dicho árbol.",
+        "exampleQuote": "«El agua atemperará el arbolado.»",
+        "exampleSource": null
+      },
+      {
+        "headword": "atendiente",
+        "grammaticalCategory": "adj.",
+        "definition": "Oyente, el que escucha. Ú. t. c. s.",
+        "exampleQuote": "«Estaban de atendientes una vieja y un chiquillo.»",
+        "exampleSource": null
+      },
+      {
+        "headword": "atenor",
+        "grammaticalCategory": "m.",
+        "definition": "Atanor. (En el Dic., como de Colombia y Ecuador.)",
+        "exampleQuote": "«Dos atenores de la tubería están rotos.»",
+        "exampleSource": null
+      },
+      {
+        "headword": "aterminado, da",
+        "grammaticalCategory": "m.",
+        "definition": "y f. Curandero o partera sin título.",
+        "exampleQuote": "«La pareó una aterminá y por poco la mata.»",
+        "exampleSource": null
+      },
+      {
+        "headword": "atento",
+        "grammaticalCategory": "adj.",
+        "definition": "A propósito, pertinente, referente.",
+        "exampleQuote": "«Er primero que jable por ahí atento de esta cuestión, que sepa que me tiene encima...»",
+        "exampleSource": "(J. F. Muñoz y Pabón, «El buen paño», pág. 74.)"
+      },
+      {
+        "headword": "atentón",
+        "grammaticalCategory": "m.",
+        "definition": "Vulg. por tentón, tocamiento. (En el Dic., como de Chile.)",
+        "exampleQuote": "«Dale un atentón a esa talega a ver si viene el pan en ella.»",
+        "exampleSource": null
+      },
+      {
+        "headword": "aterminación",
+        "grammaticalCategory": "f.",
+        "definition": "Vulg. por determinación, atrevimiento, resolución, arresto.",
+        "exampleQuote": "«Tuvo la aterminación de presentarse a su padre después de lo que pasó.»",
+        "exampleSource": null
+      },
+      {
+        "headword": "aterminado, da",
+        "grammaticalCategory": "adj.",
+        "definition": "Determinado, resuelto, denodado.",
+        "exampleQuote": "«No dejes la escopeta ahí, porque este niño es muy aterminado.»",
+        "exampleSource": null
+      },
+      {
+        "headword": "atarjea",
+        "grammaticalCategory": null,
+        "definition": "conducir agua. (En el Dic., como de Méjico.)",
+        "exampleQuote": "«Desde la alberca va una atarjea hasta los cuadros de hortaliza.»",
+        "exampleSource": null
+      },
+      {
+        "headword": "aterminarse",
+        "grammaticalCategory": "r.",
+        "definition": "Vulg. de determinarse, atreverse.",
+        "exampleQuote": "«—... el día que yo me atermine a peir algo a alguien, le pego un derrote en el corazón a un mujera...»",
+        "exampleSource": "(Arturo Reyes, «Cartucherita», Novela corta.)"
+      },
+      {
+        "headword": "aterrar",
+        "grammaticalCategory": "tr. Vitic.",
+        "definition": "Echar tierra de vino en las botas para clarificar el líquido.",
+        "exampleQuote": "«Ayer aterré dos botas.»",
+        "exampleSource": null
+      },
+      {
+        "headword": "aterrar",
+        "grammaticalCategory": "tr.",
+        "definition": "Echar una capa de tierra sobre algo. / Enterrar o soterrar.",
+        "exampleQuote": "«Aterra esa rama y saldrá más allá.»",
+        "exampleSource": null
+      },
+      {
+        "headword": "aterrarse",
+        "grammaticalCategory": "intr.",
+        "definition": "Pegarse a la tierra.",
+        "exampleQuote": "«La niebla está muy aterrada, y creo que a la tarde tendremos sol.»",
+        "exampleSource": null
+      },
+      {
+        "headword": "aterrón",
+        "grammaticalCategory": "m. Agr.",
+        "definition": "Labor que se da a una siembra con el almocafre, y que sustituye al de gradeo. (Valdepeñas, Jaén.)",
+        "exampleQuote": "«Desde que le di el aterrón a la cebada está muy hermosa.»",
+        "exampleSource": null
+      },
+      {
+        "headword": "atestación",
+        "grammaticalCategory": "f.",
+        "definition": "Obstinación, cabezonada, terquedad.",
+        "exampleQuote": "«Esa es una atestación tuya, que debes desechar por completo.»",
+        "exampleSource": null
+      },
+      {
+        "headword": "atestado, da",
+        "grammaticalCategory": "adj.",
+        "definition": "Terco, obstinado.",
+        "exampleQuote": "«Más puede un atestado que dos abogados.»",
+        "exampleSource": "(Refrán inserto en «6.666..., última rebusca», de Rodríguez Marín, el cual añade en nota: «Atestado, equivaliendo a «testarudo», acepción muy corriente en Andalucía», pág. 106.)"
+      },
+      {
+        "headword": "atestando",
+        "grammaticalCategory": "ger.",
+        "definition": "En la frase «Salir atestando», salir violentamente.",
+        "exampleQuote": "«Entró la policía y salieron atestando todos los jugadores.»",
+        "exampleSource": null
+      },
+      {
+        "headword": "atestar",
+        "grammaticalCategory": "tr.",
+        "definition": "Golpear a otro. (Almería.)",
+        "exampleQuote": "«Cuando vio que atestaba a su hermano, ella se quitó de en medio.»",
+        "exampleSource": null
+      },
+      {
+        "headword": "atestarse",
+        "grammaticalCategory": "r.",
+        "definition": "Empeñarse en una cosa sin atender razones.",
+        "exampleQuote": "«Se atestó en casarse y lo consiguió.»",
+        "exampleSource": null
+      },
+      {
+        "headword": "atestín",
+        "grammaticalCategory": "m.",
+        "definition": "Bulla, reunión de gente habladora.",
+        "exampleQuote": "«Armaron un atestín las mujeres, que no se entendía nadie.»",
+        "exampleSource": null
+      },
+      {
+        "headword": "atestinado, da",
+        "grammaticalCategory": "adj.",
+        "definition": "Quien por malas digestiones o por algún atracón está mal del intestino.",
+        "exampleQuote": "«Este perro está atestinado.»",
+        "exampleSource": null
+      },
+      {
+        "headword": "atestón",
+        "grammaticalCategory": "m.",
+        "definition": "Empujón.",
+        "exampleQuote": "«Le dio un atestón que por poco lo echa al río.»",
+        "exampleSource": null
+      },
+      {
+        "headword": "¡atiesta!",
+        "grammaticalCategory": "interj.",
+        "definition": "Como ¡aprieta!.",
+        "exampleQuote": "«¡Atiesta!; que ya vas a convencerlo...»",
+        "exampleSource": null
+      },
+      {
+        "headword": "atiesto",
+        "grammaticalCategory": "m.",
+        "definition": "Bulla, reunión de gente habladora. (Carchelejo, Jaén)",
+        "exampleQuote": "«Había allí tal atiesto que nadie se entendía.»",
+        "exampleSource": null
+      },
+      {
+        "headword": "atiforrar",
+        "grammaticalCategory": "tr.",
+        "definition": "El atiborrar de la Academia. De a y tifo, harto, henchido. Ú. t. c. r.",
+        "exampleQuote": "«Atiforró las alforjas como si fuera a la China.»",
+        "exampleSource": null
+      },
+      {
+        "headword": "atinca",
+        "grammaticalCategory": "m.",
+        "definition": "Barb. por atíncar, borax. (En el Dic. como de Chile.)",
+        "exampleQuote": "«Y cuidado que se lo dije: ¡no le eches atinca, que luego suenan mucho...»",
+        "exampleSource": "(J. F. Muñoz y Pabón, «Javier de Miranda», 2.ª ed., t. II, pág. 183.)"
+      },
+      {
+        "headword": "atisbón, ona",
+        "grammaticalCategory": "adj.",
+        "definition": "Atisbador, que atisba, reparón.",
+        "exampleQuote": "«Es tan atisbona que se pasa el día en la ventana.»",
+        "exampleSource": null
+      },
+      {
+        "headword": "atizar",
+        "grammaticalCategory": "tr.",
+        "definition": "Propinar. Ú. t. c. r.",
+        "exampleQuote": "«Le atizó dos copas de aguardiente carrasqueño.»",
+        "exampleSource": null
+      },
+      {
+        "headword": "atizón, ona",
+        "grammaticalCategory": "adj.",
+        "definition": "Que atiza, solivianta, cizaña o enemista a otros. Ú. t. c. s.",
+        "exampleQuote": "«El muy atizón fue la causa del disgusto de los hermanos.»",
+        "exampleSource": null
+      },
+      {
+        "headword": "atizonado, da",
+        "grammaticalCategory": "adj. Verter.",
+        "definition": "Caballo o yegua blancos con el pelo a manchas negras prolongadas e irregulares.",
+        "exampleQuote": "«La capa atizoná no me gusta en los caballos.»",
+        "exampleSource": null
+      },
+      {
+        "headword": "atoconadero",
+        "grammaticalCategory": "m.",
+        "definition": "Apic Nuevo rejal de colmenas, separado de la parada para los nuevos enjambres.",
+        "exampleQuote": "«Eché un atoconadero para el año siguiente.»",
+        "exampleSource": null
+      },
+      {
+        "headword": "atoconar",
+        "grammaticalCategory": "tr.",
+        "definition": "Rozar las matas dejando los tocones. / Destrozo que hacen las cabras en el monte.",
+        "exampleQuote": "«Corta las jaras, atoconándolas»",
+        "exampleSource": null
+      },
+      {
+        "headword": "atoconarse",
+        "grammaticalCategory": "r.",
+        "definition": "Sentarse. (Jaén.)",
+        "exampleQuote": "«Atocónate en esa silla y echaremos un cigarro.»",
+        "exampleSource": null
+      },
+      {
+        "headword": "atolondronado, da",
+        "grammaticalCategory": "adj.",
+        "definition": "Aturdido, desatinado. Del tolondro y tolondrón de la Acad. Ú. t. c. s.",
+        "exampleQuote": "«Ella es muy juiciosa y él muy atolondronado.»",
+        "exampleSource": null
+      },
+      {
+        "headword": "atolladizo, za",
+        "grammaticalCategory": "adj.",
+        "definition": "Propenso a atollarse.",
+        "exampleQuote": "«No te metas por esa vereda que es muy atolladiza.»",
+        "exampleSource": null
+      },
+      {
+        "headword": "atollamarse",
+        "grammaticalCategory": "r.",
+        "definition": "Atollarse, atascarse.",
+        "exampleQuote": "«En los amores no es menester atollamarse.»",
+        "exampleSource": "(Fernán Caballero, «La promesa de un soldado», Obrs. compls., t. XII, pág. 126.)"
+      },
+      {
+        "headword": "atomatado, da",
+        "grammaticalCategory": "adj.",
+        "definition": "Parecido al tomate en la figura o en el color. / Variedad de uva de grano grande, blanco, duro y hollejo muy delgado.",
+        "exampleQuote": "«Se le puso la cara atomatada.»",
+        "exampleSource": null
+      },
+      {
+        "headword": "atona",
+        "grammaticalCategory": "adj.",
+        "definition": "Cabra, que por huir de su hijo, hay que atarla. (Jaén.)",
+        "exampleQuote": "«El choto está atrasado porque su madre es atona.»",
+        "exampleSource": null
+      },
+      {
+        "headword": "atontolinado, da",
+        "grammaticalCategory": "adj.",
+        "definition": "Persona simple, aturdida.",
+        "exampleQuote": "«Desde que murió su tío está atontolinado.»",
+        "exampleSource": null
+      },
+      {
+        "headword": "atontolinar",
+        "grammaticalCategory": "tr.",
+        "definition": "Aturdir, atolondrar. / Atontar. Ú. t. c. r.",
+        "exampleQuote": "«En esto llegó el médico, con más cara de muerto que otra cosa, pues la noticia del «chasco» lo había atontolinado»",
+        "exampleSource": "(J. F. Muñoz y Pabón, «Justa y Rufina», pág. 195.)"
+      },
+      {
+        "headword": "atopadizo, za",
+        "grammaticalCategory": "adj.",
+        "definition": "Pertinente, propicio. Cosa atopadiza, que conviene.",
+        "exampleQuote": "«¿Sabes que esta casa la encuentro muy atopadiza para ti?»",
+        "exampleSource": null
+      },
+      {
+        "headword": "atorado, da",
+        "grammaticalCategory": "adj.",
+        "definition": "Cañería obstruida. / Persona que sufre obstrucción en la garganta.",
+        "exampleQuote": "«Este caño está atorado por las inmundicias.»",
+        "exampleSource": null
+      },
+      {
+        "headword": "atorchalar",
+        "grammaticalCategory": "tr.",
+        "definition": "Anegar un terreno por exceso de riego. Ú. t. c. r. Es metátesis de achortalar. (Almería.)",
+        "exampleQuote": "«Si sigues regando ahí atorcha-larás ese pedazo.»",
+        "exampleSource": null
+      },
+      {
+        "headword": "atorear",
+        "grammaticalCategory": "tr.",
+        "definition": "Mofarse de alguien, con inquina.",
+        "exampleQuote": "«Como va de ese modo, lo atorean los chiquillos»",
+        "exampleSource": null
+      },
+      {
+        "headword": "atoreo",
+        "grammaticalCategory": "m.",
+        "definition": "Acción y efecto de atorear.",
+        "exampleQuote": "«Tuvieron gran atoreo con el pobre guitarrista.»",
+        "exampleSource": null
+      },
+      {
+        "headword": "atormentado, da",
+        "grammaticalCategory": "adj.",
+        "definition": "Con la cabeza cargada, con jaqueca.",
+        "exampleQuote": "«Está muy atormentada de dolores.»",
+        "exampleSource": null
+      },
+      {
+        "headword": "atorobiscarse",
+        "grammaticalCategory": "r.",
+        "definition": "Atolondrarse.",
+        "exampleQuote": "«Estaba tan atorobiscao que no daba pie con bola.»",
+        "exampleSource": null
+      },
+      {
+        "headword": "atorrullar",
+        "grammaticalCategory": "tr.",
+        "definition": "Aturrullar. Ú. t. c. r.",
+        "exampleQuote": "«Déjalo hablar y no lo atorrulles.»",
+        "exampleSource": null
+      },
+      {
+        "headword": "atorrullo",
+        "grammaticalCategory": "m.",
+        "definition": "Acción y efecto de atorrullar o atorrullarse. Aturrullamiento.",
+        "exampleQuote": "«Cuando la ve le entra tal atorrullo que no puede hablar.»",
+        "exampleSource": null
+      },
+      {
+        "headword": "atosigadero",
+        "grammaticalCategory": "m.",
+        "definition": "Conjunto de hechos, sin solución inmediata, que embargan el ánimo. / Trabajo que fatiga.",
+        "exampleQuote": "«Es tal el atosigadero que tiene con las deudas, las enfermedades y lo de su hijo, que no puede más»",
+        "exampleSource": null
+      },
+      {
+        "headword": "atrabancadero",
+        "grammaticalCategory": "m.",
+        "definition": "Acción de atrabancar.",
+        "exampleQuote": "«Tomó tal atrabancadero en ir a Sevilla, que hubo que dejarlo.»",
+        "exampleSource": null
+      },
+      {
+        "headword": "atrabancar",
+        "grammaticalCategory": "tr.",
+        "definition": "Abarrotar, llenar. / Abarcar una cosa con los brazos.",
+        "exampleQuote": "«Atrabancó la talega hasta la boca.»",
+        "exampleSource": null
+      },
+      {
+        "headword": "atracado, da",
+        "grammaticalCategory": "adj.",
+        "definition": "Apurado de recursos, con deudas.",
+        "exampleQuote": "«Aunque lleve esa vida, yo sé que anda muy atracado.»",
+        "exampleSource": null
+      },
+      {
+        "headword": "atracar",
+        "grammaticalCategory": "tr.",
+        "definition": "Acertar una pedrada, un tiro o un golpe.",
+        "exampleQuote": "«...que le tiré una pedrá, le atraqué y está achocao...»",
+        "exampleSource": "(J. F. Muñoz y Pabón, «Temple de acero», pág. 23.)"
+      },
+      {
+        "headword": "atracarse",
+        "grammaticalCategory": "r. Taurom",
+        "definition": "En la frase «Atracarse de toro», entrar el espada a matar con rectitud.",
+        "exampleQuote": "«Después de una gran faena atracándose de toro, dio una estocada hasta la bola.»",
+        "exampleSource": null
+      },
+      {
+        "headword": "atracón",
+        "grammaticalCategory": "m.",
+        "definition": "Hartazgo, no sólo de comer, sino de andar, trabajar, llorar, etc.",
+        "exampleQuote": "«¡Buen atracón de llorar se dio la hija!»",
+        "exampleSource": null
+      },
+      {
+        "headword": "atrancadero",
+        "grammaticalCategory": "m. Agr.",
+        "definition": "Tropiezo que encuentra el arado.",
+        "exampleQuote": "«Ceja la yunta porque ese atrancadero es una raíz de olivo.»",
+        "exampleSource": null
+      },
+      {
+        "headword": "atranquero",
+        "grammaticalCategory": "m.",
+        "definition": "Atranque, atolladero.",
+        "exampleQuote": "«No sigas por ahí, que te vas a encontrar un atranquero.»",
+        "exampleSource": null
+      },
+      {
+        "headword": "atranquillar",
+        "grammaticalCategory": "tr.",
+        "definition": "Ahorquillar, poner tranquillas a las ramas de un árbol cargado de fruto.",
+        "exampleQuote": "«El año pasado atranquillamos los perales.»",
+        "exampleSource": null
+      },
+      {
+        "headword": "atraque",
+        "grammaticalCategory": "m.",
+        "definition": "Reyerta, pendencia.",
+        "exampleQuote": "«Le dieron un palo en el atraque que tuvo con los vecinos.»",
+        "exampleSource": null
+      },
+      {
+        "headword": "atraquina",
+        "grammaticalCategory": "f.",
+        "definition": "Atracón, no sólo de comer, sino de andar, de trabajar, de llorar, etc.",
+        "exampleQuote": "«Se da unas atraquinas de trabajar que no sé cómo puede.»",
+        "exampleSource": null
+      },
+      {
+        "headword": "atraquinarse",
+        "grammaticalCategory": "r.",
+        "definition": "Atracarse, darse atracón o atraquina.",
+        "exampleQuote": "«Cuando se atraquinó de llorar, entonces se acostó.»",
+        "exampleSource": null
+      },
+      {
+        "headword": "atravesado",
+        "grammaticalCategory": "m.",
+        "definition": ". Mulato o mestizo.",
+        "exampleQuote": "«Mi vecino es atravesado.»",
+        "exampleSource": null
+      },
+      {
+        "headword": "atrencoger",
+        "grammaticalCategory": "tr.",
+        "definition": "Llevar o echar por delante de uno obligando o vigilando.",
+        "exampleQuote": "«Tuve que atrencoger las bestias y traerme así las cuatro.»",
+        "exampleSource": null
+      },
+      {
+        "headword": "atrinques",
+        "grammaticalCategory": "m. pl. Mont.",
+        "definition": "Las huellas que deja al saltar el jabalí clavando las pezuñas en tierra.",
+        "exampleQuote": "«Por los atrinques se ve que es un cochino grande.»",
+        "exampleSource": null
+      },
+      {
+        "headword": "atroje",
+        "grammaticalCategory": "m.",
+        "definition": "Troje",
+        "exampleQuote": "«Los atrojes de ese molino son todos grandes.»",
+        "exampleSource": null
+      },
+      {
+        "headword": "atropellaplatos",
+        "grammaticalCategory": "f.",
+        "definition": "Cocinera de poco más o menos.",
+        "exampleQuote": "«DON MAMERTO.— ¡La otra atropellaplatos.»",
+        "exampleSource": "(S. y J. Álvarez Quintero, «El motete», Teatro comp., t. IV, pág. 206.)"
+      },
+      {
+        "headword": "atroquetarse",
+        "grammaticalCategory": "r.",
+        "definition": "Atropellarse, trabucarse.",
+        "exampleQuote": "«En cuanto ve a la muchacha se atroqueta y no da pie con bola.»",
+        "exampleSource": null
+      },
+      {
+        "headword": "atruchado, da",
+        "grammaticalCategory": "adj. Verter.",
+        "definition": "Caballo o yegua blanco con manchas alazanas.",
+        "exampleQuote": "«No compró el caballo por ser atruchado.»",
+        "exampleSource": null
+      },
+      {
+        "headword": "atuarro",
+        "grammaticalCategory": "m. Mar.",
+        "definition": "Segunda categoría con que se clasifican los atunes en las almadrabas, según su tamaño. (Cádiz.)",
+        "exampleQuote": "«Ayer casi todo lo que se pescó fueron atuarros.»",
+        "exampleSource": null
+      },
+      {
+        "headword": "atuna",
+        "grammaticalCategory": "f.",
+        "definition": "Higuera chumba o nopal.",
+        "exampleQuote": "«En aquella casa, que tiene un vallado de atunas, es donde vive esa familia.»",
+        "exampleSource": null
+      },
+      {
+        "headword": "atunal",
+        "grammaticalCategory": "m.",
+        "definition": "Higuera atuna o tuna..",
+        "exampleQuote": "«Toítos se arriman ar pinito verde, y yo me arrimo a los atunales que espinitas tienen.»",
+        "exampleSource": "(Copla popular citada por Rodríguez Marín en «Cincuenta cuentos anecdóticos», 2.ª ed., página 11.)"
+      },
+      {
+        "headword": "atunantarse",
+        "grammaticalCategory": "r.",
+        "definition": "Hacerse un tuno, malearse.",
+        "exampleQuote": "«Si sigue en ese plan se atunantará tu hijo.»",
+        "exampleSource": null
+      },
+      {
+        "headword": "aturar",
+        "grammaticalCategory": "tr.",
+        "definition": "Prohibir, coartar.",
+        "exampleQuote": "«Si en eso (nos) aturas más fuego nos enciendes: Téngote por errado que tan mal lo entiendes...»",
+        "exampleSource": "(Libro de Apolonio.)"
+      },
+      {
+        "headword": "aturrillar",
+        "grammaticalCategory": "tr. Aturrullar.",
+        "definition": "Ú. t. c. r. (Valdepeñas, Jaén.)",
+        "exampleQuote": "«En cuanto ve al amo se aturrilla y no da pie con bola.»",
+        "exampleSource": null
+      },
+      {
+        "headword": "aturrullamiento",
+        "grammaticalCategory": "m.",
+        "definition": "Aturrullamiento, atolondramiento.",
+        "exampleQuote": "«En cuanto va a examinarse le entra el aturrullamiento.»",
+        "exampleSource": null
+      },
+      {
+        "headword": "aturrullo",
+        "grammaticalCategory": "m.",
+        "definition": "Acción de aturrullar o aturrullarse.",
+        "exampleQuote": "«Con el aturrullo que le entró, ni siquiera se despidió de mí.»",
+        "exampleSource": null
+      },
+      {
+        "headword": "atusarse",
+        "grammaticalCategory": "r.",
+        "definition": "Echarse hacia un lado el pelo o bigotes.",
+        "exampleQuote": "«...mientras el señor Pitilón se atusaba los bigotes, erizados de cólera...»",
+        "exampleSource": "(P. Luis Coloma, «Cuentos para niños», pág. 9.)"
+      },
+      {
+        "headword": "aulaga judía",
+        "grammaticalCategory": "f.",
+        "definition": "Variedad de aulaga.",
+        "exampleQuote": "«Hay una aulaga judía a la orilla del arroyo.»",
+        "exampleSource": null
+      },
+      {
+        "headword": "aullón, na",
+        "grammaticalCategory": "adj.",
+        "definition": "Dícese, festivamente, del natural de Cazorla (Jaén).",
+        "exampleQuote": "«Tiene una novia aullona.»",
+        "exampleSource": null
+      },
+      {
+        "headword": "aupar",
+        "grammaticalCategory": "tr.",
+        "definition": "Excitar, instigar.",
+        "exampleQuote": "«No lo aupes tú, que ése, a poco son, baila.»",
+        "exampleSource": null
+      },
+      {
+        "headword": "aurdio",
+        "grammaticalCategory": "m.",
+        "definition": "Vocerío, griterío, gran ruido. (Almería.)",
+        "exampleQuote": "«¡Buen aurdio movieron los chiquillos en el bateo!»",
+        "exampleSource": null
+      },
+      {
+        "headword": "auringitano, na",
+        "grammaticalCategory": "adj.",
+        "definition": "Aurgitano, natural de Jaén, que también se llamó, según varios autores, Auringi.",
+        "exampleQuote": "«Los auringitanos son muy corteses.»",
+        "exampleSource": null
+      },
+      {
+        "headword": "auroro",
+        "grammaticalCategory": "m.",
+        "definition": "Mozo que en el Rosario de la Aurora, en Alcalá la Real (Jaén), va cantando en comparsa con otros y al son de guitarras.",
+        "exampleQuote": "«Ya los Auroros vienen tocando guitarros que acompañan cantando. Y las calles de Alcalá en la noche con estrellas paso a los Auroros dan...»",
+        "exampleSource": "(J. V., «Costumbres alcalainas». «Los Auroros». Programa de fiestas.)"
+      },
+      {
+        "headword": "aurracado, da",
+        "grammaticalCategory": "adj.",
+        "definition": "Del color de la urraca o parecido: blanco y negro.",
+        "exampleQuote": "«Esa collera de palomos aurracados te la regalo.»",
+        "exampleSource": null
+      },
+      {
+        "headword": "aurracarse",
+        "grammaticalCategory": "r.",
+        "definition": "Ennegrecerse.",
+        "exampleQuote": "«A ese potro se le aurracará el pelo el año que viene.»",
+        "exampleSource": null
+      },
+      {
+        "headword": "auto",
+        "grammaticalCategory": "m.",
+        "definition": "Caso, acto o hecho. / Apropósito. (En el Dic., como de Aragón.).",
+        "exampleQuote": "«...y que Cobeña le dijo que mi Grabié era pa el auto como no había otro;...»",
+        "exampleSource": "(J. F. Muñoz y Pabón, «La Millona», 2.ª ed., t. II, pág 75.)"
+      },
+      {
+        "headword": "avaciabotado, da",
+        "grammaticalCategory": "adj.",
+        "definition": "Persona necia.",
+        "exampleQuote": "«Es tan avaciabotá que su madre no quiere que salga a las visitas.»",
+        "exampleSource": null
+      },
+      {
+        "headword": "avalear",
+        "grammaticalCategory": "intr.",
+        "definition": "Avaluar, calcular aproximadamente extensión, cantidad, peso, etc.",
+        "exampleQuote": "«Vamos; avalea tú la cosecha que tiene este olivar.»",
+        "exampleSource": null
+      },
+      {
+        "headword": "avaleo",
+        "grammaticalCategory": "m.",
+        "definition": "Avalúo, valuación.",
+        "exampleQuote": "«Echale un avaleo a esa casa.»",
+        "exampleSource": null
+      },
+      {
+        "headword": "avalío",
+        "grammaticalCategory": "m.",
+        "definition": "Avalúo, avaleo.",
+        "exampleQuote": "«La madre hizo el avalío de los muebles de la casa.»",
+        "exampleSource": null
+      },
+      {
+        "headword": "avarado, ada",
+        "grammaticalCategory": "adj.",
+        "definition": "Trigo o cebada, que por su mucha calidad y a causa de las lluvias tardías se tiende y enmaraña.",
+        "exampleQuote": "«Este trigo está avarado de tan bueno como es.»",
+        "exampleSource": null
+      },
+      {
+        "headword": "avararse",
+        "grammaticalCategory": "r.",
+        "definition": "Tenderse o enmarañarse las siembras, ya granadas, a causa de las lluvias tardías.",
+        "exampleQuote": "«Se avaró el trigo en casi todo el tercio de la vega.»",
+        "exampleSource": null
+      },
+      {
+        "headword": "avareador",
+        "grammaticalCategory": "m.",
+        "definition": "En la cogedura de aceituna, el que varea el olivo.",
+        "exampleQuote": "«…parecen los animados grupos de cogedoras y avareadores.»",
+        "exampleSource": "(J. F. Muñoz y Pabón, «Temple de acero», pág. 229.)"
+      },
+      {
+        "headword": "avarear",
+        "grammaticalCategory": "tr.",
+        "definition": "Varear olivos para que den el fruto.",
+        "exampleQuote": "«Los cuatro hombres avarearon en un día cincuenta olivos.»",
+        "exampleSource": null
+      },
+      {
+        "headword": "avareo",
+        "grammaticalCategory": "m.",
+        "definition": "Acción de avarear.",
+        "exampleQuote": "«Hay que llevar el avareo más vivo para que no nos alcancen las cogedoras.»",
+        "exampleSource": null
+      },
+      {
+        "headword": "ávaro",
+        "grammaticalCategory": "adj.",
+        "definition": "Avaro. Ú. t. c. s.",
+        "exampleQuote": "«Su tío es muy ávaro, y no le da una peseta.»",
+        "exampleSource": null
+      },
+      {
+        "headword": "ave",
+        "grammaticalCategory": "f.",
+        "definition": "En el refrán «Ave que vuela, a la cazuela», que no hay que pararse en pelillos.",
+        "exampleQuote": "«No hagas remilgos: ave que vuela, a la cazuela.»",
+        "exampleSource": null
+      },
+      {
+        "headword": "ave fría",
+        "grammaticalCategory": "f.",
+        "definition": "Persona sin gracia, desangelada.",
+        "exampleQuote": "«… mujer propia y legítima del ave fría de su primo Carlos…»",
+        "exampleSource": "(J. F. Muñoz y Pabón, «De guante blanco», pág. 11.)"
+      },
+      {
+        "headword": "avejigada",
+        "grammaticalCategory": "adj.",
+        "definition": "Aceituna que presenta como especie de ampollas en la pulpa. (Sevilla.)",
+        "exampleQuote": "«Toda la aceituna avejigada la apartais.»",
+        "exampleSource": null
+      },
+      {
+        "headword": "avellanado, da",
+        "grammaticalCategory": "adj.",
+        "definition": "De color de la avellana. (Se emplea también en Cuba, según Ortiz, en su «Catauro…», pág. 85.).",
+        "exampleQuote": "«Cuando estuvo en Africa volvió con un color muy avellanado.»",
+        "exampleSource": null
+      },
+      {
+        "headword": "avellanar",
+        "grammaticalCategory": "tr.",
+        "definition": "Resfriar, en la acepción de regar un rastrojo antes de levantarlo con el arado. (Sierra Segura, Jaén.)",
+        "exampleQuote": "«Ese rastrojo ya está pa que lo avellanes.»",
+        "exampleSource": null
+      },
+      {
+        "headword": "avellanillo",
+        "grammaticalCategory": "m.",
+        "definition": "Hediondo, arbusto. (Cádiz.)",
+        "exampleQuote": "«Con poco esfuerzo arranqué el avellanillo.»",
+        "exampleSource": null
+      },
+      {
+        "headword": "avena loca",
+        "grammaticalCategory": "f.",
+        "definition": "Planta gramínea. (En el Dic., como voz de Cádiz. Es general en Andalucía.).",
+        "exampleQuote": "«Todo ese tercio de cebada está plagado de avena loca.»",
+        "exampleSource": null
+      },
+      {
+        "headword": "avenate",
+        "grammaticalCategory": "m.",
+        "definition": "Arranque de locura.",
+        "exampleQuote": "«A mi hermano le dio tal avenate que nos quedamos todos horrorizados.»",
+        "exampleSource": null
+      },
+      {
+        "headword": "avenático, ca",
+        "grammaticalCategory": "adj.",
+        "definition": "Que tiene avenates. / Que varía de parecer fácilmente.",
+        "exampleQuote": "«Como es tan avenática dejó el novio sin motivo.»",
+        "exampleSource": null
+      },
+      {
+        "headword": "aventadero",
+        "grammaticalCategory": "m. Ablentadero.",
+        "definition": "«Ese caz tiene dos aventaderos.»",
+        "exampleQuote": null,
+        "exampleSource": null
+      },
+      {
+        "headword": "aventarse",
+        "grammaticalCategory": "r.",
+        "definition": "Salirse de madre un río.",
+        "exampleQuote": "«El río va muy aventao y no podremos pasarlo.»",
+        "exampleSource": null
+      },
+      {
+        "headword": "averado, da",
+        "grammaticalCategory": "adj.",
+        "definition": "Exaltado, vehemente.",
+        "exampleQuote": "«Este Manolico parece que cuenta sus asuntos muy averao.»",
+        "exampleSource": "(La Mañana, Jaén, núm. 359.)"
+      },
+      {
+        "headword": "averar",
+        "grammaticalCategory": "tr.",
+        "definition": "Asegurar, afirmar.",
+        "exampleQuote": "«Como tanto lo averaba, llegué a creerlo.»",
+        "exampleSource": null
+      },
+      {
+        "headword": "avería",
+        "grammaticalCategory": "f.",
+        "definition": "«Aceituna de avería» es aquella que por tener alguna mácula no puede presentarse al mercado.",
+        "exampleQuote": "«Esas aceitunas de avería que las aliñen para el gasto de la casa.»",
+        "exampleSource": null
+      },
+      {
+        "headword": "averiguadero",
+        "grammaticalCategory": "m.",
+        "definition": "Averiguación, pesquisa.",
+        "exampleQuote": "«Cuando haga el juez los averiguaderos veremos en qué para esto.»",
+        "exampleSource": null
+      },
+      {
+        "headword": "avichucho",
+        "grammaticalCategory": "m.",
+        "definition": "Barb. por avechucho. (En el Dic., como de Colombia y Guatemala).",
+        "exampleQuote": "«Ahí he matao un avichucho que no sé lo que será.»",
+        "exampleSource": null
+      },
+      {
+        "headword": "avieilla",
+        "grammaticalCategory": "f.",
+        "definition": "Cantidad de lluvia suficiente para mantener húmeda la tierra. (Málaga.)",
+        "exampleQuote": "«A ver si después de esta avieilla llueve formalmente.»",
+        "exampleSource": null
+      },
+      {
+        "headword": "aviete",
+        "grammaticalCategory": "m.",
+        "definition": "Lluvia escasa, pero la suficiente para faenas agrícolas. (Debe venir de avío.)",
+        "exampleQuote": "«Ya ha caído un aviete que nos permite sembrar.»",
+        "exampleSource": null
+      },
+      {
+        "headword": "avilanado, da",
+        "grammaticalCategory": "adj. Mont.",
+        "definition": "Pájaro que, herido en un ala, se mantiene algo en el aire sin dirección; como un vilano.",
+        "exampleQuote": "«La perdiz quedó avilanada, hasta que cayó.»",
+        "exampleSource": null
+      },
+      {
+        "headword": "avilanejo",
+        "grammaticalCategory": "m.",
+        "definition": "Gavilán, ave.",
+        "exampleQuote": "«Los avilanejos han anidado en la torre de la iglesia.»",
+        "exampleSource": null
+      },
+      {
+        "headword": "avinarse",
+        "grammaticalCategory": "r.",
+        "definition": "Tomar gusto ácido las frutas excesivamente maduras. Dícese especialmente del melón.",
+        "exampleQuote": "«Estos melones se avinarán si no os los coméis.»",
+        "exampleSource": null
+      },
+      {
+        "headword": "avío",
+        "grammaticalCategory": "m.",
+        "definition": "En la fr. «¡Vaya un avío!», o empleada para lamentarse de algo.",
+        "exampleQuote": "«¿Que has perdido el dinero? ¡Vaya un avío!»",
+        "exampleSource": null
+      },
+      {
+        "headword": "avionado, da",
+        "grammaticalCategory": "adj.",
+        "definition": "Negro, tirando a azul, como el avión.",
+        "exampleQuote": "«Esa muchacha tiene el pelo avionado.»",
+        "exampleSource": null
+      },
+      {
+        "headword": "avión real",
+        "grammaticalCategory": "m.",
+        "definition": "Pájaro de la familia del vencejo, mayor que el común, de color gris pardo oscuro, y garganta y pechuga blanquecinas. (Málaga.).",
+        "exampleQuote": "«Ayer se encontró un nido de avión real.»",
+        "exampleSource": null
+      },
+      {
+        "headword": "avíos",
+        "grammaticalCategory": "m. pl.",
+        "definition": "Por antonomasia, los de encender, o sea yesca, pedernal y eslabón.",
+        "exampleQuote": "«Tráete la bolsa de los avíos.»",
+        "exampleSource": null
+      },
+      {
+        "headword": "avisado, da",
+        "grammaticalCategory": "adj. Taur.",
+        "definition": "Toro de lidia reservón y con intención.",
+        "exampleQuote": "«La res no era inofensiva como la anterior, sino avisada y recelosa, y defendíase diestramente.»",
+        "exampleSource": "(José López Pinillos, «Parmeno», «Las Aguilas», Madrid, 1911, pág. 30.)"
+      },
+      {
+        "headword": "aviso",
+        "grammaticalCategory": "m. Equit.",
+        "definition": "Golpe que da el jinete con la espuela para tener alerta a la caballería.",
+        "exampleQuote": "«En cuanto a la espuela, sus ayudas, avisos y castigos no iban por cierto a dar en la parte inferior del vientre…»",
+        "exampleSource": "(Estébanez Calderón, «Escenas andaluzas», pág. 222.)"
+      },
+      {
+        "headword": "avispa",
+        "grammaticalCategory": "f.",
+        "definition": "Juego infantil.",
+        "exampleQuote": "«¿Jugamos a la avispa o a urda?»",
+        "exampleSource": null
+      },
+      {
+        "headword": "avispado",
+        "grammaticalCategory": "adj.",
+        "definition": "Melón que tiene la cáscara a líneas desiguales verdes y amarillas.",
+        "exampleQuote": "«Todas estas plantas son de avispados.»",
+        "exampleSource": null
+      },
+      {
+        "headword": "avispardo, da",
+        "grammaticalCategory": "adj. Taurom.",
+        "definition": "Res vacuna lombarda. (Córdoba).",
+        "exampleQuote": "«Salió un toro avispardo con más de trescientos kilos y muy bien encornado.»",
+        "exampleSource": null
+      },
+      {
+        "headword": "avivar",
+        "grammaticalCategory": "tr.",
+        "definition": "En la frase «Avivar los sones», apresurar o apresurarse.",
+        "exampleQuote": "«Deja ya ese paso de procesión y aviva los sones.»",
+        "exampleSource": null
+      },
+      {
+        "headword": "avolea",
+        "grammaticalCategory": "adj.",
+        "definition": "Exagerado, embustero. Ú. m. c. s..",
+        "exampleQuote": "«Ese es un avolea y no hay que creerlo.»",
+        "exampleSource": null
+      },
+      {
+        "headword": "avolear",
+        "grammaticalCategory": "intr.",
+        "definition": "Arrojarse por un cantón o precipicio. V. Volea.",
+        "exampleQuote": "«Salió corriendo y avoleó por la ladera.»",
+        "exampleSource": null
+      },
+      {
+        "headword": "ayamontino, na",
+        "grammaticalCategory": "adj.",
+        "definition": "Natural de Ayamonte (Huelva). / Propio de este pueblo.",
+        "exampleQuote": "«Los ayamontinos son muy buenos pescadores.»",
+        "exampleSource": null
+      },
+      {
+        "headword": "ayer",
+        "grammaticalCategory": "adv. de t.",
+        "definition": "En la frase «Ayer hizo un año», significa no acordarse más de un asunto.",
+        "exampleQuote": "«Te advierto que estoy dispuesto a dejar a mi novia, y… ayer hizo un año.»",
+        "exampleSource": null
+      },
+      {
+        "headword": "ayuda",
+        "grammaticalCategory": "f.",
+        "definition": "Trinchero, mueble de comedor. (Málaga.).",
+        "exampleQuote": "«En un cajón de la ayuda he puesto los cubiertos.»",
+        "exampleSource": null
+      },
+      {
+        "headword": "ayudante",
+        "grammaticalCategory": "m.",
+        "definition": "Muchacho que en los cortijos portea el hato, las rejas, y demás encargos desde el poblado.",
+        "exampleQuote": "«Le encargué dos jarras al ayudante y se le olvidaron.»",
+        "exampleSource": null
+      },
+      {
+        "headword": "ayunado",
+        "grammaticalCategory": "adj.",
+        "definition": "Caracol al que se hace ayunar al prepararlo para el guiso. Ú. t. c. s.",
+        "exampleQuote": "«Tengo ya una canasta de caracoles ayunados para guisarlos esta tarde.»",
+        "exampleSource": null
+      },
+      {
+        "headword": "ayuncar",
+        "grammaticalCategory": "intr.",
+        "definition": "Apechugar, apencar.",
+        "exampleQuote": "«¿Dónde voy yo con un ochavo?— dijo para sí Juan Soldado—; no me queda más que ayuncar al trabajo y echar el alma si he de comer.»",
+        "exampleSource": "(Fernán Caballero, «Cuentos y poesías populares», pág. 126, Sevilla, 1859.)"
+      },
+      {
+        "headword": "ayuntadera",
+        "grammaticalCategory": "f.",
+        "definition": "Esportón grande de esparto o palma donde se lleva la ración de paja a los bueyes.",
+        "exampleQuote": "«Coge ya la ayuntadera y piensa a esos bueyes.»",
+        "exampleSource": null
+      },
+      {
+        "headword": "ayuntar",
+        "grammaticalCategory": "tr. Agr.",
+        "definition": "Hacer muy juntos los surcos al arar una tierra.",
+        "exampleQuote": "«No ayuntaron en el barbecho y así quedó ello.»",
+        "exampleSource": null
+      },
+      {
+        "headword": "azabache",
+        "grammaticalCategory": "adj. Verter.",
+        "definition": "Pelo de caballo o de res vacuna parecido al mineral de este nombre.",
+        "exampleQuote": "«Un buey es retinto y el otro azabache.»",
+        "exampleSource": null
+      },
+      {
+        "headword": "azabacheño, ña",
+        "grammaticalCategory": "adj.",
+        "definition": "Del color del azabache, muy negro.",
+        "exampleQuote": "«Tiene el pelo azabacheño y la tez muy blanca.»",
+        "exampleSource": null
+      },
+      {
+        "headword": "azacaya",
+        "grammaticalCategory": "f.",
+        "definition": "Ramal o conducto de aguas.",
+        "exampleQuote": "«En componer la azacaya del huerto se gastó muchas pesetas.»",
+        "exampleSource": null
+      },
+      {
+        "headword": "azafaifa",
+        "grammaticalCategory": "f.",
+        "definition": "Azofaifa o azufaifa. (Belalcázar, Córdoba).",
+        "exampleQuote": "«No comas más azafaifas, que te van a hacer daño.»",
+        "exampleSource": null
+      },
+      {
+        "headword": "azafate",
+        "grammaticalCategory": "m.",
+        "definition": "Bandeja grande de latón con borde alto, calado a veces, pintada generalmente en negro, con flores en el fondo.",
+        "exampleQuote": "«Por el día de mi santo me regaló un azafate de dulces.»",
+        "exampleSource": null
+      },
+      {
+        "headword": "azafranado, da",
+        "grammaticalCategory": "adj.",
+        "definition": "Se dice del que tiene el cabello de color bermejo. (En el Dic., como de Méjico.)",
+        "exampleQuote": "«Me gusta más en los caballos la capa castaña que la azafranada.»",
+        "exampleSource": null
+      },
+      {
+        "headword": "azafranero",
+        "grammaticalCategory": "m.",
+        "definition": "Mandadero de una casa, criado. Paje, perolero.",
+        "exampleQuote": "«Dile al azafranero que hay que traer agua de la fuente.»",
+        "exampleSource": null
+      },
+      {
+        "headword": "azafraniega",
+        "grammaticalCategory": "adj.",
+        "definition": "Piedra de color bermejo muy dócil de labrar. Azucareña.",
+        "exampleQuote": "«Hay en el cortijo una cantera de piedra azafraniega.»",
+        "exampleSource": null
+      },
+      {
+        "headword": "azafranillo",
+        "grammaticalCategory": "m.",
+        "definition": "Reyezuelo, pájaro. (Jaén).",
+        "exampleQuote": "«He visto hoy en la viña muchos azafranillos.»",
+        "exampleSource": null
+      },
+      {
+        "headword": "azagazo",
+        "grammaticalCategory": "m.",
+        "definition": "Tarea fatigosa, caminata larga con prisas. Azagón. (Almería.)",
+        "exampleQuote": "«Me di un azagazo de trabajar.»",
+        "exampleSource": null
+      },
+      {
+        "headword": "azahurda",
+        "grammaticalCategory": "m.",
+        "definition": "Zahurda, porqueriza.",
+        "exampleQuote": "«En la azahurda recogió veinte cerdos.»",
+        "exampleSource": null
+      },
+      {
+        "headword": "azándar",
+        "grammaticalCategory": "m.",
+        "definition": "Hierba olorosa anua. La hay silvestre y de cultivo. (No es en Andalucía lo que, como andalucismo, dice la Academia.)",
+        "exampleQuote": "«Tengo en mi patio una maceta de azándar.»",
+        "exampleSource": null
+      },
+      {
+        "headword": "ázar",
+        "grammaticalCategory": "m.",
+        "definition": "Arce, árbol",
+        "exampleQuote": "«En la vía se pusieron traviesas de ázar.»",
+        "exampleSource": null
+      },
+      {
+        "headword": "azarar",
+        "grammaticalCategory": "tr.",
+        "definition": "Infundir temor. / Desconcertar. / r. Ruborizarse, sonrojarse. (En el Dic., esto, como de Colombia.)",
+        "exampleQuote": "«En cuanto la miro, lo azaro.»",
+        "exampleSource": null
+      },
+      {
+        "headword": "azarcón",
+        "grammaticalCategory": "m.",
+        "definition": "Vasija de cobre, hojalata o cinc con dos asas, una en la boca y otra en la base, a las que se ata una cuerda, y que se emplea en los molinos de aceite para sacar éste del fondo de las tinajas.",
+        "exampleQuote": "«No todos saben sacar aceite con el azarcón.»",
+        "exampleSource": null
+      },
+      {
+        "headword": "azarrear",
+        "grammaticalCategory": "intr.",
+        "definition": "Sonido que emite el burro al empezar el rebuzno.",
+        "exampleQuote": "«Azarreó el borrico y comprendí que barruntaba un lobo.»",
+        "exampleSource": null
+      },
+      {
+        "headword": "aznalcollense",
+        "grammaticalCategory": "adj.",
+        "definition": "Natural de Aznalcóllar (Sevilla). / Propio de este pueblo.",
+        "exampleQuote": "«El Ayuntamiento aznalcollense acordó asistir a la fiesta.»",
+        "exampleSource": null
+      },
+      {
+        "headword": "azofairón",
+        "grammaticalCategory": "adj.",
+        "definition": "Aceituna gordal de menor tamaño y redonda, procedente de la última floración, o sea del esquilmo atrasado. (Sevilla).",
+        "exampleQuote": "«La aceituna azofairón la dejáis para adobarla después.»",
+        "exampleSource": null
+      },
+      {
+        "headword": "azofre",
+        "grammaticalCategory": "m.",
+        "definition": "Azufre. (Almería).",
+        "exampleQuote": "«Mercó azofre para la viña.»",
+        "exampleSource": null
+      },
+      {
+        "headword": "azolejo",
+        "grammaticalCategory": "m.",
+        "definition": "Agr. Escardillo.",
+        "exampleQuote": "«Esa siembra ya está necesitando el azolejo.»",
+        "exampleSource": null
+      },
+      {
+        "headword": "azoleta",
+        "grammaticalCategory": "f.",
+        "definition": "Agr.. Azada pequeña para huerta.",
+        "exampleQuote": "«Con la azoleta cavas mejor el maíz.»",
+        "exampleSource": null
+      },
+      {
+        "headword": "azollispar",
+        "grammaticalCategory": "tr.",
+        "definition": "Alzaprimar, excitar. Ú. t. c. r.",
+        "exampleQuote": "...del cobertizo de los bueyes que movían, azollispados, la cornamenta...",
+        "exampleSource": "(Salvador Rueda, «El gusano de la luz», pág. 343.)"
+      },
+      {
+        "headword": "azopaipa",
+        "grammaticalCategory": "f.",
+        "definition": "Especie de torta de aceite.",
+        "exampleQuote": "«Hice azopaipas para las merendillas de los niños.»",
+        "exampleSource": null
+      },
+      {
+        "headword": "azoro",
+        "grammaticalCategory": "m.",
+        "definition": "Azoramiento. (En el Dic., como de Perú.).",
+        "exampleQuote": "«Cuando vio a su novio le entró tal azoro que no podía hablar.»",
+        "exampleSource": null
+      },
+      {
+        "headword": "azorrarse",
+        "grammaticalCategory": "r.",
+        "definition": "Retraerse, apartarse, recogerse en sí.",
+        "exampleQuote": "«Sí, cállate y azórrate; pues bueno, el que calla otorga...»",
+        "exampleSource": "(J. F. Muñoz y Pabón, «Javier de Miranda», 2.ª ed., t. II, pág. 282.)"
+      },
+      {
+        "headword": "azotalengua",
+        "grammaticalCategory": "f.",
+        "definition": "Amor de hortelano, planta rubiácea.",
+        "exampleQuote": "«El hortelano, antes de plantar las coles, limpió la huerta de azotalenguas.»",
+        "exampleSource": null
+      },
+      {
+        "headword": "azotazo",
+        "grammaticalCategory": "m.",
+        "definition": "Bofetada. (Jaén).",
+        "exampleQuote": "«Tantos azotazos le dio, que le hinchó un carrillo.»",
+        "exampleSource": null
+      },
+      {
+        "headword": "¡azúcar!",
+        "grammaticalCategory": "interj.",
+        "definition": ", que denota extrañeza, sorpresa, contrariedad o asombro.",
+        "exampleQuote": "«MIGUEL.—(Mirando de repente hacia la izquierda.) ¡Azúcar! Hoy está la mañana que se da un tiro er que no armuerse.»",
+        "exampleSource": "(S. y J. Álvarez Quintero, «Los piropos». Obras Compls., t. XVII, pág. 53.)"
+      },
+      {
+        "headword": "azucareña",
+        "grammaticalCategory": "adj.",
+        "definition": "Piedra arenisca de color rojo muy blanda y fácil de labrar, que se emplea en construcciones. Es de orillas del Guadalquivir. Ú. t. c. s.",
+        "exampleQuote": "«Como la fachada es de azucareña, está muy carcomida de la acción del tiempo.»",
+        "exampleSource": null
+      },
+      {
+        "headword": "azucarera",
+        "grammaticalCategory": "f.",
+        "definition": "Fábrica de extracción de azúcar.",
+        "exampleQuote": "«Hay varias azucareras en la Vega de Granada.»",
+        "exampleSource": null
+      },
+      {
+        "headword": "azucarí",
+        "grammaticalCategory": "adj.",
+        "definition": "Azucarado. Aplícase a ciertos frutos.",
+        "exampleQuote": "«Esta chirimoya es muy azucarí.»",
+        "exampleSource": null
+      },
+      {
+        "headword": "azuela",
+        "grammaticalCategory": "f.",
+        "definition": "Vitic. Herramienta que usan los viticultores para la labor llamada agosta.",
+        "exampleQuote": "«Realizada la agosta con la herramienta llamada azuela, que pesa tres kilos o tres y medio con mango...»",
+        "exampleSource": "(Manuel Paz Guerrero, «La viña en Jerez, por un obrero», Jerez, 1925, pág. 7.)"
+      },
+      {
+        "headword": "azufrarse",
+        "grammaticalCategory": "r.",
+        "definition": "Sulfurarse, irritarse.",
+        "exampleQuote": "«Como tu padre se azufre, no vas a la feria.»",
+        "exampleSource": null
+      },
+      {
+        "headword": "azuleada",
+        "grammaticalCategory": "f.",
+        "definition": "Madera de pino procedente de un incendio, que no sirve para construcción ni para labrada.",
+        "exampleQuote": "«Toda esta madera azuleada la cortáis para la lumbre.»",
+        "exampleSource": null
+      },
+      {
+        "headword": "azulejería",
+        "grammaticalCategory": "f.",
+        "definition": "Fábrica donde se hacen azulejos o tienda donde se venden.",
+        "exampleQuote": "«Voy a la azulejería a comprar unas olambrillas.»",
+        "exampleSource": null
+      },
+      {
+        "headword": "azulejo",
+        "grammaticalCategory": "m.",
+        "definition": "Variedad del trigo fanfarrón lampiño.",
+        "exampleQuote": "«Todo este tercio es de azulejo.»",
+        "exampleSource": null
+      },
+      {
+        "headword": "azulete",
+        "grammaticalCategory": "m.",
+        "definition": "Tintura que se extrae del añil y se emplea en el lavado de la ropa.",
+        "exampleQuote": "«Esta lavandera abusa mucho del azulete.»",
+        "exampleSource": null
+      },
+      {
+        "headword": "azulín",
+        "grammaticalCategory": "m.",
+        "definition": "Coleóptero de forma alargada y color azul.",
+        "exampleQuote": "«Este año hay una verdadera plaga de azulines en los sembrados.»",
+        "exampleSource": null
+      },
+      {
+        "headword": "azulina",
+        "grammaticalCategory": "f.",
+        "definition": "Celestina, planta.",
+        "exampleQuote": "«En un rincón del patio plantó una azulina.»",
+        "exampleSource": null
+      },
+      {
+        "headword": "azumallar",
+        "grammaticalCategory": "tr.",
+        "definition": "Sollamar. / Tostar pan o bollo con lumbre muy fuerte.",
+        "exampleQuote": "«Azumalló dos panes para la cena.»",
+        "exampleSource": null
+      },
+      {
+        "headword": "azumbar",
+        "grammaticalCategory": "tr.",
+        "definition": "Azuzar los perros. (Almería.)",
+        "exampleQuote": "«Si me azumbas el perro le doy un tiro.»",
+        "exampleSource": null
+      },
+      {
+        "headword": "azuqueca",
+        "grammaticalCategory": "f.",
+        "definition": "Torvisco, mata. (Sierra Segura, Jaén.)",
+        "exampleQuote": "«Esa mata de azuqueca estorba para arrastrar la madera.»",
+        "exampleSource": null
+      },
+      {
+        "headword": "azuquero",
+        "grammaticalCategory": "m. am.",
+        "definition": "Azucarero.",
+        "exampleQuote": "«Este azuquero está vacío.»",
+        "exampleSource": null
+      },
+      {
+        "headword": "azuquita",
+        "grammaticalCategory": "amb.",
+        "definition": "Dim. fam. de azúcar. (En el Dic., como de Chile.)",
+        "exampleQuote": "«Esa mujer es azuquita cande.»",
+        "exampleSource": null
+      },
+      {
+        "headword": "azuritado, da",
+        "grammaticalCategory": "adj.",
+        "definition": "Asustado, amilanado.",
+        "exampleQuote": "«Se puso tan azuritado, que no podía hablar.»",
+        "exampleSource": null
+      },
+      {
+        "headword": "azuritamiento",
+        "grammaticalCategory": "m.",
+        "definition": "La acción o efecto de azuritarse.",
+        "exampleQuote": "«Cuando vio a su pretendida le entró tal azuritamiento, que por poco más llora.»",
+        "exampleSource": null
+      },
+      {
+        "headword": "azuritarse",
+        "grammaticalCategory": "r.",
+        "definition": "Asustarse, amilanarse.",
+        "exampleQuote": "«Se azurita en cuanto llega el maestro.»",
+        "exampleSource": null
+      },
+      {
+        "headword": "azurrarse",
+        "grammaticalCategory": "r.",
+        "definition": "Zurrarse de temor o miedo.",
+        "exampleQuote": "«…créete que estoy azurradita de miedo y no me atrevo ni a respirar.»",
+        "exampleSource": "(J. F. Muñoz y Pabón, «Oro de ley», pág. 377.)"
+      },
+      {
+        "headword": "azuscar",
+        "grammaticalCategory": "tr.",
+        "definition": "Pasmar, causar asombro. Ú. t. c. r. (Almería.)",
+        "exampleQuote": "«Cuando tu padre lo sepa se azuscará.»",
+        "exampleSource": null
+      },
+      {
+        "headword": "azuzón, na",
+        "grammaticalCategory": "adj. fig.",
+        "definition": "Que le gusta azuzar, principalmente a las personas.",
+        "exampleQuote": "«Es muy azuzona y hace que se peguen los hermanos.»",
+        "exampleSource": null
+      }
+    ]
+  }
+}

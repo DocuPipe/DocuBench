@@ -1,0 +1,413 @@
+{
+  "score": 0.6264794079178228,
+  "cost": 0.0,
+  "time_sec": 639.4291799068451,
+  "num_pages": 5,
+  "data": {
+    "rateYear": 2025,
+    "rateUnit": "NIS per square meter",
+    "residentialRates": [
+      {
+        "propertyClass": "א+",
+        "zoneARate": 108.11,
+        "zoneBRate": 91.23,
+        "zoneCRate": 79.94,
+        "zoneDRate": 69.14
+      },
+      {
+        "propertyClass": "א",
+        "zoneARate": 90.14,
+        "zoneBRate": 81.08,
+        "zoneCRate": 67.76,
+        "zoneDRate": 58.61
+      },
+      {
+        "propertyClass": "ב",
+        "zoneARate": 75.52,
+        "zoneBRate": 62.81,
+        "zoneCRate": 49.53,
+        "zoneDRate": 45.33
+      },
+      {
+        "propertyClass": "ג",
+        "zoneARate": 55.72,
+        "zoneBRate": 45.27,
+        "zoneCRate": 43.38,
+        "zoneDRate": 43.38
+      },
+      {
+        "propertyClass": "ד",
+        "zoneARate": 43.38,
+        "zoneBRate": 43.38,
+        "zoneCRate": 43.38,
+        "zoneDRate": 43.38
+      }
+    ],
+    "officeAndCommercialRates": [
+      {
+        "zone": "א",
+        "rateUpTo300sqm": 448.64,
+        "rateAbove300sqm": 448.64
+      },
+      {
+        "zone": "ב",
+        "rateUpTo300sqm": 399.77,
+        "rateAbove300sqm": 407.11
+      },
+      {
+        "zone": "ג",
+        "rateUpTo300sqm": 272.99,
+        "rateAbove300sqm": 261.95
+      },
+      {
+        "zone": "ד",
+        "rateUpTo300sqm": 144.21,
+        "rateAbove300sqm": 142.15
+      }
+    ],
+    "propertyTypeRates": [
+      {
+        "propertyType": "מעברים במרכזי קניות ובקניונים",
+        "rate": 101.11,
+        "zone": null,
+        "sizeBand": null
+      },
+      {
+        "propertyType": "מבני תחנות דלק",
+        "rate": 433.76,
+        "zone": null,
+        "sizeBand": null
+      },
+      {
+        "propertyType": "אדמה תפוסה בתחנות דלק",
+        "rate": 27.78,
+        "zone": null,
+        "sizeBand": null
+      },
+      {
+        "propertyType": "גני אירועים",
+        "rate": 79.35,
+        "zone": "א",
+        "sizeBand": "קרקע תפוסה - מעל 1950 מ\"ר"
+      },
+      {
+        "propertyType": "דירות מגורים בכפר אז\"ר",
+        "rate": 55.31,
+        "zone": null,
+        "sizeBand": "עד 180 מ\"ר"
+      },
+      {
+        "propertyType": "דירות מגורים בכפר אז\"ר",
+        "rate": 82.51,
+        "zone": null,
+        "sizeBand": "מ-181 מ\"ר"
+      },
+      {
+        "propertyType": "בריכות שחיה בכפר אז\"ר רמת אפעל",
+        "rate": 55.31,
+        "zone": null,
+        "sizeBand": null
+      },
+      {
+        "propertyType": "אולמות ספורט מסחריים",
+        "rate": 157.4,
+        "zone": null,
+        "sizeBand": null
+      },
+      {
+        "propertyType": "מחסני עסק",
+        "rate": 190.88,
+        "zone": null,
+        "sizeBand": null
+      },
+      {
+        "propertyType": "בתי קולנוע",
+        "rate": 112.37,
+        "zone": "א",
+        "sizeBand": null
+      },
+      {
+        "propertyType": "בתי קולנוע",
+        "rate": 95.39,
+        "zone": "ב",
+        "sizeBand": null
+      },
+      {
+        "propertyType": "סניפי בנקים מסחריים",
+        "rate": 1605.8,
+        "zone": null,
+        "sizeBand": null
+      },
+      {
+        "propertyType": "הנהלה ובית קופה",
+        "rate": 556.18,
+        "zone": null,
+        "sizeBand": null
+      },
+      {
+        "propertyType": "תעשיה",
+        "rate": 184.08,
+        "zone": null,
+        "sizeBand": "עד 100 מ\"ר"
+      },
+      {
+        "propertyType": "תעשיה",
+        "rate": 161.39,
+        "zone": null,
+        "sizeBand": "מ-101 עד 500 מ\"ר"
+      },
+      {
+        "propertyType": "תעשיה",
+        "rate": 141.24,
+        "zone": null,
+        "sizeBand": "מ-501 עד 1,000 מ\"ר"
+      },
+      {
+        "propertyType": "תעשיה",
+        "rate": 177.06,
+        "zone": null,
+        "sizeBand": "מ-1,001 מ\"ר ומעלה"
+      },
+      {
+        "propertyType": "מחסני תעשיה",
+        "rate": 166.65,
+        "zone": null,
+        "sizeBand": null
+      },
+      {
+        "propertyType": "בתי תוכנה",
+        "rate": 184.08,
+        "zone": null,
+        "sizeBand": "עד 100 מ\"ר"
+      },
+      {
+        "propertyType": "בתי תוכנה",
+        "rate": 161.39,
+        "zone": null,
+        "sizeBand": "מ-101 עד 500 מ\"ר"
+      },
+      {
+        "propertyType": "בתי תוכנה",
+        "rate": 141.24,
+        "zone": null,
+        "sizeBand": "מ-501 עד 1,000 מ\"ר"
+      },
+      {
+        "propertyType": "בתי תוכנה",
+        "rate": 177.06,
+        "zone": null,
+        "sizeBand": "מ-1,001 מ\"ר ומעלה"
+      },
+      {
+        "propertyType": "בתי מלון",
+        "rate": 98.16,
+        "zone": null,
+        "sizeBand": "באזור הבורסה"
+      },
+      {
+        "propertyType": "בתי מלון",
+        "rate": 77.7,
+        "zone": null,
+        "sizeBand": "למעט אזור הבורסה"
+      },
+      {
+        "propertyType": "מלאכה",
+        "rate": 254.55,
+        "zone": null,
+        "sizeBand": null
+      },
+      {
+        "propertyType": "משרדים בבנייני הבורסה",
+        "rate": 399.76,
+        "zone": null,
+        "sizeBand": null
+      },
+      {
+        "propertyType": "אדמה חקלאית",
+        "rate": 0.43,
+        "zone": null,
+        "sizeBand": null
+      },
+      {
+        "propertyType": "קרקע תפוסה",
+        "rate": 14.54,
+        "zone": null,
+        "sizeBand": null
+      },
+      {
+        "propertyType": "חניונים",
+        "rate": 28.63,
+        "zone": null,
+        "sizeBand": "חניונים פתוחים לציבור בתשלום"
+      },
+      {
+        "propertyType": "חניונים",
+        "rate": 55.72,
+        "zone": null,
+        "sizeBand": "חניונים סגורים"
+      },
+      {
+        "propertyType": "חניונים",
+        "rate": 36.31,
+        "zone": null,
+        "sizeBand": "חניונים לאוטובוסים"
+      },
+      {
+        "propertyType": "סטודיו לאמן",
+        "rate": 132.6,
+        "zone": null,
+        "sizeBand": null
+      },
+      {
+        "propertyType": "אולמי הבורסה",
+        "rate": 178.73,
+        "zone": null,
+        "sizeBand": null
+      },
+      {
+        "propertyType": "משרדי התאחדות לספורט באצטדיון",
+        "rate": 146.42,
+        "zone": null,
+        "sizeBand": null
+      },
+      {
+        "propertyType": "בריכות שחיה",
+        "rate": 42.24,
+        "zone": null,
+        "sizeBand": null
+      },
+      {
+        "propertyType": "בתי חולים סיעודיים / גריאטריים",
+        "rate": 363.84,
+        "zone": "א",
+        "sizeBand": null
+      },
+      {
+        "propertyType": "בתי חולים סיעודיים / גריאטריים",
+        "rate": 330.17,
+        "zone": "ב",
+        "sizeBand": null
+      },
+      {
+        "propertyType": "בתי חולים סיעודיים / גריאטריים",
+        "rate": 231.67,
+        "zone": "ג",
+        "sizeBand": null
+      },
+      {
+        "propertyType": "גני אירועים",
+        "rate": 239.95,
+        "zone": "א",
+        "sizeBand": "אולם אירועים"
+      },
+      {
+        "propertyType": "גני אירועים",
+        "rate": 15.59,
+        "zone": "א",
+        "sizeBand": "שטח חניה"
+      },
+      {
+        "propertyType": "גני אירועים",
+        "rate": 65.07,
+        "zone": "א",
+        "sizeBand": "קרקע תפוסה"
+      },
+      {
+        "propertyType": "גני אירועים",
+        "rate": 276.07,
+        "zone": null,
+        "sizeBand": "אולם אירועים בשאר האזורים"
+      },
+      {
+        "propertyType": "גני אירועים",
+        "rate": 93.82,
+        "zone": null,
+        "sizeBand": "אולם אירועים בשאר האזורים - מעל 1950 מ\"ר"
+      },
+      {
+        "propertyType": "גני אירועים",
+        "rate": 54.41,
+        "zone": null,
+        "sizeBand": "קרקע תפוסה בשאר האזורים"
+      },
+      {
+        "propertyType": "משתלה",
+        "rate": 79.35,
+        "zone": null,
+        "sizeBand": "בניין - מעל 400 מ\"ר"
+      },
+      {
+        "propertyType": "משתלה",
+        "rate": 65.07,
+        "zone": null,
+        "sizeBand": "קרקע תפוסה המשמשת באר מים"
+      },
+      {
+        "propertyType": "משתלה",
+        "rate": 159.08,
+        "zone": null,
+        "sizeBand": "בניין - עד 200 מ\"ר"
+      },
+      {
+        "propertyType": "משתלה",
+        "rate": 119.24,
+        "zone": null,
+        "sizeBand": "בניין - מעל 200 מ\"ר"
+      },
+      {
+        "propertyType": "חילות",
+        "rate": 108.24,
+        "zone": null,
+        "sizeBand": "עד 330,000 מ\"ר"
+      },
+      {
+        "propertyType": "משתלה",
+        "rate": 37.41,
+        "zone": null,
+        "sizeBand": "קרקע ללא מבנה המשמשת למסחר בצמחים"
+      },
+      {
+        "propertyType": "משתלה",
+        "rate": 46.14,
+        "zone": null,
+        "sizeBand": "קרקע לתצוגת/אחסנת צמחים - עד 200 מ\"ר"
+      },
+      {
+        "propertyType": "משתלה",
+        "rate": 21.84,
+        "zone": null,
+        "sizeBand": "קרקע לתצוגת/אחסנת צמחים - 200 עד 400 מ\"ר"
+      },
+      {
+        "propertyType": "מבנה חקלאי ואדמה חקלאית",
+        "rate": 0.43,
+        "zone": null,
+        "sizeBand": "אדמה חקלאית"
+      },
+      {
+        "propertyType": "מבנה חקלאי ואדמה חקלאית",
+        "rate": 0.11,
+        "zone": null,
+        "sizeBand": "חלקה - עד 1,000 מ\"ר"
+      },
+      {
+        "propertyType": "מבנה חקלאי ואדמה חקלאית",
+        "rate": 0.02,
+        "zone": null,
+        "sizeBand": "חלקה - כל מ\"ר נוסף אחרי 1,000"
+      },
+      {
+        "propertyType": "מבנה חקלאי ואדמה חקלאית",
+        "rate": 0.83,
+        "zone": null,
+        "sizeBand": "מבנה חקלאי"
+      },
+      {
+        "propertyType": "חילות",
+        "rate": 82.04,
+        "zone": null,
+        "sizeBand": "מ-330,001 מ\"ר"
+      }
+    ]
+  }
+}

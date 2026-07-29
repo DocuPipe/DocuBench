@@ -21,6 +21,7 @@ DEFAULT_ENGINE_DISPLAY_NAMES = {
     "gpt": "GPT-5.5",
     "reducto": "Reducto Deep Extract",
     "reducto_standard": "Reducto standard",
+    "unstructured": "Unstructured",
 }
 BENCHMARK_VERSION = "0.2.0"
 
