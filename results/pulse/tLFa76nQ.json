@@ -1,0 +1,653 @@
+{
+  "cost": 3.78,
+  "data": {
+    "accountHolderName": "John W. Doe",
+    "accountNumber": "111-111111",
+    "accountType": "Individual TOD",
+    "activity": [
+      {
+        "amount": -304,
+        "date": "2015-08-01",
+        "price": null,
+        "quantity": null,
+        "securityName": null,
+        "transactionDescription": "ATM0058 1224 JONES RD, HOUSTON, TX, 7425612ZF6JW2BKA"
+      },
+      {
+        "amount": -528.12,
+        "date": "2015-08-11",
+        "price": null,
+        "quantity": null,
+        "securityName": null,
+        "transactionDescription": "POS6600 TARGET T2066 W, HOUSTON, TX, 24251312ZF6JW2JQK"
+      },
+      {
+        "amount": -639.56,
+        "date": "2015-08-11",
+        "price": null,
+        "quantity": null,
+        "securityName": null,
+        "transactionDescription": "STARBUCKS CORP00064139, SPRING, TX, 24161312ZF6JW2QJE"
+      },
+      {
+        "amount": -203,
+        "date": "2015-08-03",
+        "price": null,
+        "quantity": null,
+        "securityName": null,
+        "transactionDescription": "ATM0213 1224 TOWN CEN, HOUSTON, TX, 9842312ZF6JW2ZAD"
+      },
+      {
+        "amount": -6.03,
+        "date": "2015-08-06",
+        "price": null,
+        "quantity": null,
+        "securityName": null,
+        "transactionDescription": "BEST DONUTS, SPRING, TX, 5465542ASKD620ASD"
+      },
+      {
+        "amount": 86.58,
+        "date": "2015-08-11",
+        "price": null,
+        "quantity": null,
+        "securityName": null,
+        "transactionDescription": "MARSHALLS #0506, THE WOODLANDS, TX, 16510SKJF351321DDS"
+      },
+      {
+        "amount": -1231.12,
+        "date": "2015-07-10",
+        "price": null,
+        "quantity": null,
+        "securityName": null,
+        "transactionDescription": "American Express*"
+      },
+      {
+        "amount": -504.78,
+        "date": "2015-07-15",
+        "price": null,
+        "quantity": null,
+        "securityName": null,
+        "transactionDescription": "FIA Card Service"
+      },
+      {
+        "amount": -4609.15,
+        "date": "2015-07-18",
+        "price": null,
+        "quantity": null,
+        "securityName": null,
+        "transactionDescription": "Citi Visa"
+      },
+      {
+        "amount": -1231.12,
+        "date": "2015-07-10",
+        "price": null,
+        "quantity": null,
+        "securityName": null,
+        "transactionDescription": "American Express*"
+      },
+      {
+        "amount": -504.78,
+        "date": "2015-07-15",
+        "price": null,
+        "quantity": null,
+        "securityName": null,
+        "transactionDescription": "FIA Card Service"
+      },
+      {
+        "amount": -4609.15,
+        "date": "2015-07-18",
+        "price": null,
+        "quantity": null,
+        "securityName": null,
+        "transactionDescription": "Citi Visa"
+      },
+      {
+        "amount": 594.1,
+        "date": "2015-07-30",
+        "price": null,
+        "quantity": -4000,
+        "securityName": "REFCO INC COM ESCROW PAYMENT AT $0.148525 PER SHARE MER PAYOUT #REORCM0050704800000",
+        "transactionDescription": "Merger"
+      },
+      {
+        "amount": 0,
+        "date": "2015-07-30",
+        "price": null,
+        "quantity": 4000,
+        "securityName": "REFCO INC COM ESCROW PAYMENT AT $0.148525 PER SHARE MER FROM 758ESC982 REORUM0050704800002",
+        "transactionDescription": "Merger"
+      },
+      {
+        "amount": 5000,
+        "date": "2015-07-01",
+        "price": null,
+        "quantity": null,
+        "securityName": "REFCO INC COM ESCROW PAYMENT AT $0.148525 PER SHARE MER FROM 758ESC982 REORUM0050704800002",
+        "transactionDescription": "Wire transfer from bank"
+      },
+      {
+        "amount": 15,
+        "date": "2015-07-02",
+        "price": null,
+        "quantity": null,
+        "securityName": "REFCO INC COM ESCROW PAYMENT AT $0.148525 PER SHARE MER FROM 758ESC982 REORUM0050704800002",
+        "transactionDescription": "Deposit received"
+      },
+      {
+        "amount": 400,
+        "date": "2015-07-03",
+        "price": null,
+        "quantity": null,
+        "securityName": "REFCO INC COM ESCROW PAYMENT AT $0.148525 PER SHARE MER FROM 758ESC982 REORUM0050704800002",
+        "transactionDescription": "Wire transfer from bank"
+      },
+      {
+        "amount": 1000,
+        "date": "2015-07-12",
+        "price": null,
+        "quantity": null,
+        "securityName": "REFCO INC COM ESCROW PAYMENT AT $0.148525 PER SHARE MER FROM 758ESC982 REORUM0050704800002",
+        "transactionDescription": "Wire transfer from bank"
+      },
+      {
+        "amount": 1500,
+        "date": "2015-07-16",
+        "price": null,
+        "quantity": null,
+        "securityName": "REFCO INC COM ESCROW PAYMENT AT $0.148525 PER SHARE MER FROM 758ESC982 REORUM0050704800002",
+        "transactionDescription": "Wire transfer from bank"
+      },
+      {
+        "amount": 300,
+        "date": "2015-07-18",
+        "price": null,
+        "quantity": null,
+        "securityName": "REFCO INC COM ESCROW PAYMENT AT $0.148525 PER SHARE MER FROM 758ESC982 REORUM0050704800002",
+        "transactionDescription": "Wire transfer from bank"
+      },
+      {
+        "amount": 250,
+        "date": "2015-07-19",
+        "price": null,
+        "quantity": null,
+        "securityName": "REFCO INC COM ESCROW PAYMENT AT $0.148525 PER SHARE MER FROM 758ESC982 REORUM0050704800002",
+        "transactionDescription": "Wire transfer from bank"
+      },
+      {
+        "amount": 500,
+        "date": "2015-07-25",
+        "price": null,
+        "quantity": null,
+        "securityName": "REFCO INC COM ESCROW PAYMENT AT $0.148525 PER SHARE MER FROM 758ESC982 REORUM0050704800002",
+        "transactionDescription": "Wire transfer from bank"
+      },
+      {
+        "amount": 500,
+        "date": "2015-07-26",
+        "price": null,
+        "quantity": null,
+        "securityName": "REFCO INC COM ESCROW PAYMENT AT $0.148525 PER SHARE MER FROM 758ESC982 REORUM0050704800002",
+        "transactionDescription": "Wire transfer from bank"
+      },
+      {
+        "amount": -3000,
+        "date": "2015-07-02",
+        "price": null,
+        "quantity": null,
+        "securityName": "REFCO INC COM ESCROW PAYMENT AT $0.148525 PER SHARE MER FROM 758ESC982 REORUM0050704800002",
+        "transactionDescription": "Wire transfer to bank"
+      },
+      {
+        "amount": -750,
+        "date": "2015-07-03",
+        "price": null,
+        "quantity": null,
+        "securityName": "REFCO INC COM ESCROW PAYMENT AT $0.148525 PER SHARE MER FROM 758ESC982 REORUM0050704800002",
+        "transactionDescription": "Wire transfer to bank"
+      },
+      {
+        "amount": -25,
+        "date": "2015-07-08",
+        "price": null,
+        "quantity": null,
+        "securityName": "REFCO INC COM ESCROW PAYMENT AT $0.148525 PER SHARE MER FROM 758ESC982 REORUM0050704800002",
+        "transactionDescription": "Wire transfer to bank"
+      },
+      {
+        "amount": -1000,
+        "date": "2015-07-17",
+        "price": null,
+        "quantity": null,
+        "securityName": "REFCO INC COM ESCROW PAYMENT AT $0.148525 PER SHARE MER FROM 758ESC982 REORUM0050704800002",
+        "transactionDescription": "Wire transfer to bank"
+      },
+      {
+        "amount": -210,
+        "date": "2015-07-29",
+        "price": null,
+        "quantity": null,
+        "securityName": "REFCO INC COM ESCROW PAYMENT AT $0.148525 PER SHARE MER FROM 758ESC982 REORUM0050704800002",
+        "transactionDescription": "Debit American Express"
+      },
+      {
+        "amount": -500,
+        "date": "2015-07-30",
+        "price": null,
+        "quantity": null,
+        "securityName": "REFCO INC COM ESCROW PAYMENT AT $0.148525 PER SHARE MER FROM 758ESC982 REORUM0050704800002",
+        "transactionDescription": "Wire transfer to bank"
+      },
+      {
+        "amount": -3725.85,
+        "date": "2015-07-11",
+        "price": 37.179,
+        "quantity": 100,
+        "securityName": "SPDR SER TR BARCLAYS CAP HIGH YIELD BD ETF",
+        "transactionDescription": "You bought Wash sale of 8/8/11: $2,805.50"
+      },
+      {
+        "amount": -3725.85,
+        "date": "2015-07-11",
+        "price": 37.179,
+        "quantity": 100,
+        "securityName": "SPDR SER TR BARCLAYS CAP HIGH YIELD BD ETF",
+        "transactionDescription": "You bought Wash sale of 8/8/11: $7,780.04"
+      },
+      {
+        "amount": -2215.95,
+        "date": "2015-07-11",
+        "price": 11.04,
+        "quantity": 200,
+        "securityName": "SABRA HEALTH CARE REIT INC COM USD0.01",
+        "transactionDescription": "You bought"
+      },
+      {
+        "amount": 7368.45,
+        "date": "2015-07-11",
+        "price": 36.882,
+        "quantity": -200,
+        "securityName": "SPDR SER TR BARCLAYS CAP HIGH YIELD BD ETF",
+        "transactionDescription": "You sold LT loss: $8,781.90 LT disallowed loss: $8,781.90"
+      },
+      {
+        "amount": 18432.55,
+        "date": "2015-07-11",
+        "price": 36.881,
+        "quantity": -500,
+        "securityName": "SPDR SER TR BARCLAYS CAP HIGH YIELD BD ETF",
+        "transactionDescription": "You sold LT loss: $5,210.22 LT disallowed loss: $5,210.22"
+      },
+      {
+        "amount": -559.65,
+        "date": "2015-07-11",
+        "price": 11.034,
+        "quantity": 50,
+        "securityName": "SABRA HEALTH CARE REIT INC COM USD0.01",
+        "transactionDescription": "You bought"
+      },
+      {
+        "amount": -559.45,
+        "date": "2015-07-11",
+        "price": 11.03,
+        "quantity": 50,
+        "securityName": "SABRA HEALTH CARE REIT INC COM USD0.01",
+        "transactionDescription": "You bought"
+      },
+      {
+        "amount": -1665.45,
+        "date": "2015-07-11",
+        "price": 11.05,
+        "quantity": 150,
+        "securityName": "SABRA HEALTH CARE REIT INC COM USD0.01",
+        "transactionDescription": "You bought"
+      },
+      {
+        "amount": -1872.9,
+        "date": "2015-07-12",
+        "price": 37.299,
+        "quantity": 50,
+        "securityName": "SPDR SER TR BARCLAYS CAP HIGH YIELD BD ETF",
+        "transactionDescription": "You bought Wash sale of 8/8/11: $2,070.58"
+      },
+      {
+        "amount": -1921.9,
+        "date": "2015-07-18",
+        "price": 38.279,
+        "quantity": 50,
+        "securityName": "SPDR SER TR BARCLAYS CAP HIGH YIELD BD ETF",
+        "transactionDescription": "You bought"
+      },
+      {
+        "amount": -5450,
+        "date": "2015-07-23",
+        "price": 109,
+        "quantity": 5000,
+        "securityName": "MGM RESORTS INTERNATIONAL 4.25000% 4/15/2015 SR CV NT TRADE EXECUTED BY MLCO",
+        "transactionDescription": "You bought Accrued Interest: -347.44"
+      },
+      {
+        "amount": -1007.95,
+        "date": "2015-07-30",
+        "price": 1,
+        "quantity": 1000,
+        "securityName": "MGM RESORTS INTERNATIONAL 4.25000% 4/15/2015 SR CV NT TRADE EXECUTED BY MLCO",
+        "transactionDescription": "You bought"
+      },
+      {
+        "amount": -3717.9,
+        "date": "2015-08-02",
+        "price": 37.179,
+        "quantity": 100,
+        "securityName": "SPDR SER TR BARCLAYS CAP HIGH YIELD BD ETF",
+        "transactionDescription": "You bought"
+      },
+      {
+        "amount": -2208,
+        "date": "2015-08-02",
+        "price": 11.04,
+        "quantity": 200,
+        "securityName": "SABRA HEALTH CARE REIT INC COM USD0.01",
+        "transactionDescription": "You bought"
+      },
+      {
+        "amount": 7376.4,
+        "date": "2015-08-02",
+        "price": 36.882,
+        "quantity": -200,
+        "securityName": "SPDR SER TR BARCLAYS CAP HIGH YIELD BD ETF",
+        "transactionDescription": "You sold LT loss: $5,210.22 LT disallowed loss: $5,210.22"
+      },
+      {
+        "amount": 39508.64,
+        "date": "2015-07-31",
+        "price": null,
+        "quantity": null,
+        "securityName": "Z70-666580-1",
+        "transactionDescription": "Trans. from account 222-222222"
+      },
+      {
+        "amount": 10296,
+        "date": "2015-07-31",
+        "price": 102.96,
+        "quantity": 100,
+        "securityName": "ENSTAR GROUP LIMITED COM STK USD 1.00 Z70-666580-1",
+        "transactionDescription": "Trans. from account 222-222222"
+      },
+      {
+        "amount": -5000,
+        "date": "2015-07-31",
+        "price": null,
+        "quantity": null,
+        "securityName": "ENSTAR GROUP LIMITED COM STK USD 1.00",
+        "transactionDescription": "Trans. to account 222-222222"
+      },
+      {
+        "amount": 9746.03,
+        "date": "2015-07-01",
+        "price": null,
+        "quantity": null,
+        "securityName": "DOUBLELINE TOTAL RETURN BOND FD CL I",
+        "transactionDescription": "Dividend received"
+      },
+      {
+        "amount": 18.18,
+        "date": "2015-07-04",
+        "price": null,
+        "quantity": null,
+        "securityName": "NEW YORK NY CITY INDL DEV AGY REV",
+        "transactionDescription": "Muni exempt interest"
+      },
+      {
+        "amount": 7905,
+        "date": "2015-07-12",
+        "price": null,
+        "quantity": null,
+        "securityName": "STAR GAS PARTNERS LP SBI",
+        "transactionDescription": "Return of capital"
+      }
+    ],
+    "additions": 59269.64,
+    "beginningAccountValue": 88053.95,
+    "changeInInvestmentValue": 1458.33,
+    "endingAccountValue": 103351.18,
+    "endingMarketValueOfHoldings": 108051.18,
+    "holdings": [
+      {
+        "costBasis": null,
+        "description": "Apple Inc",
+        "endingValue": 13132.75,
+        "holdingType": "Stock",
+        "price": null,
+        "quantity": null,
+        "symbol": "AAPL",
+        "unrealizedGainLoss": null
+      },
+      {
+        "costBasis": null,
+        "description": "Doubleline Total Return Bond",
+        "endingValue": 11361.52,
+        "holdingType": "Mutual Fund",
+        "price": null,
+        "quantity": null,
+        "symbol": "DBLTX",
+        "unrealizedGainLoss": null
+      },
+      {
+        "costBasis": null,
+        "description": "New York NY City Indl Dev Agy Rev",
+        "endingValue": 10744.2,
+        "holdingType": "Bond",
+        "price": null,
+        "quantity": null,
+        "symbol": "DBLTX",
+        "unrealizedGainLoss": null
+      },
+      {
+        "costBasis": null,
+        "description": "Spdr Sertr Barclays Cap High Yield",
+        "endingValue": 10165,
+        "holdingType": "Exchange Traded Product",
+        "price": null,
+        "quantity": null,
+        "symbol": "JNK",
+        "unrealizedGainLoss": null
+      },
+      {
+        "costBasis": null,
+        "description": "Federal Natl Mtg Assn",
+        "endingValue": 10000,
+        "holdingType": "Bond",
+        "price": null,
+        "quantity": null,
+        "symbol": "JNK",
+        "unrealizedGainLoss": null
+      },
+      {
+        "costBasis": null,
+        "description": "FDIC INSURED DEPOSIT AT FIFTH THIRD BANK IRA NOT COVERED BY SIPC — Interest rate: 0.010%",
+        "endingValue": 3500.5,
+        "holdingType": "Core Account",
+        "price": 1,
+        "quantity": 3500.5,
+        "symbol": "QPIKQ",
+        "unrealizedGainLoss": null
+      },
+      {
+        "costBasis": 7536.91,
+        "description": "DOUBLELINE TOTAL RETURN BOND FD CL I",
+        "endingValue": 11361.52,
+        "holdingType": "Mutual Fund",
+        "price": 11.19,
+        "quantity": 1015.328,
+        "symbol": "DBLTX",
+        "unrealizedGainLoss": 3824.61
+      },
+      {
+        "costBasis": null,
+        "description": "FIDELITY INSTL MMKT PORT CL I",
+        "endingValue": 5025.81,
+        "holdingType": "Mutual Fund",
+        "price": 1,
+        "quantity": 5025.81,
+        "symbol": "FMPXX",
+        "unrealizedGainLoss": null
+      },
+      {
+        "costBasis": 10000,
+        "description": "SPDR SER TR BARCLAYS CAP HIGH YIELD BD ETF",
+        "endingValue": 10165,
+        "holdingType": "Exchange Traded Product",
+        "price": 40.66,
+        "quantity": 250,
+        "symbol": "JNK",
+        "unrealizedGainLoss": 165
+      },
+      {
+        "costBasis": 5000,
+        "description": "VANGUARD INTL EQUITY INDEX FDS MSCI EUROPE ETF",
+        "endingValue": 4297,
+        "holdingType": "Exchange Traded Product",
+        "price": 42.97,
+        "quantity": 100,
+        "symbol": "VJK",
+        "unrealizedGainLoss": -703
+      },
+      {
+        "costBasis": 9350.12,
+        "description": "APPLE INC",
+        "endingValue": 13132.75,
+        "holdingType": "Stock",
+        "price": 525.31,
+        "quantity": 25,
+        "symbol": "AAPL",
+        "unrealizedGainLoss": 3782.63
+      },
+      {
+        "costBasis": 4149.75,
+        "description": "AMERCO COM",
+        "endingValue": 6094.5,
+        "holdingType": "Stock",
+        "price": 203.15,
+        "quantity": 30,
+        "symbol": "UHAL",
+        "unrealizedGainLoss": 1944.75
+      },
+      {
+        "costBasis": -14510.99,
+        "description": "ENSTAR GROUP LIMITED COM STK USD 1.00",
+        "endingValue": -13710,
+        "holdingType": "Stock",
+        "price": 137.1,
+        "quantity": -100,
+        "symbol": "ESGR",
+        "unrealizedGainLoss": 800.99
+      },
+      {
+        "costBasis": 2470.16,
+        "description": "BANK AMER CORP DEP SHS REPSTG 1/1200TH PFD SER 5",
+        "endingValue": 3034.5,
+        "holdingType": "Stock",
+        "price": 20.23,
+        "quantity": 150,
+        "symbol": "BMLPRL",
+        "unrealizedGainLoss": 564.34
+      },
+      {
+        "costBasis": 6895.4,
+        "description": "CITIGROUP INC DEP SH REP STG 1/100TH INT NON CUMULATIVE PFD SER F 8.50%",
+        "endingValue": 7752.9,
+        "holdingType": "Stock",
+        "price": 25.843,
+        "quantity": 300,
+        "symbol": "CPRM",
+        "unrealizedGainLoss": 857.5
+      },
+      {
+        "costBasis": 10250,
+        "description": "FEDERAL NATL MTG ASSN",
+        "endingValue": 10000,
+        "holdingType": "Bond",
+        "price": 100,
+        "quantity": 10000,
+        "symbol": "3136FPEX1",
+        "unrealizedGainLoss": -250
+      },
+      {
+        "costBasis": 10000,
+        "description": "SABRATEK CORP NT CV",
+        "endingValue": 5062.5,
+        "holdingType": "Bond",
+        "price": 101.25,
+        "quantity": 5000,
+        "symbol": "78571UAA6",
+        "unrealizedGainLoss": -4937.5
+      },
+      {
+        "costBasis": 10000,
+        "description": "CALPINE CORP ESCROW 4 131347BD7",
+        "endingValue": 9950,
+        "holdingType": "Bond",
+        "price": 99.5,
+        "quantity": 10000,
+        "symbol": "131ESC9D9",
+        "unrealizedGainLoss": -50
+      },
+      {
+        "costBasis": 10000,
+        "description": "NEW YORK N Y CITY INDL DEV AGY REV",
+        "endingValue": 10744.2,
+        "holdingType": "Bond",
+        "price": 107.442,
+        "quantity": 10000,
+        "symbol": "64971PEN1",
+        "unrealizedGainLoss": 744.2
+      },
+      {
+        "costBasis": 10000,
+        "description": "TXU SR NT-P",
+        "endingValue": 5000,
+        "holdingType": "Bond",
+        "price": 100,
+        "quantity": 5000,
+        "symbol": "873168AL2",
+        "unrealizedGainLoss": -5000
+      },
+      {
+        "costBasis": 10000,
+        "description": "UNITED STATES TREAS BILLS",
+        "endingValue": 9900,
+        "holdingType": "Bond",
+        "price": 99,
+        "quantity": 10000,
+        "symbol": "912796BL2",
+        "unrealizedGainLoss": -100
+      },
+      {
+        "costBasis": null,
+        "description": "ADI NET LEASE INC & GROWTH LP XIX UNIT LTP PARTNERSHIP INT BASED ON MGMTS UNCONFIRMED EST OF NET ASSETS",
+        "endingValue": 1455,
+        "holdingType": "Other",
+        "price": 291,
+        "quantity": 5,
+        "symbol": "912796BL2",
+        "unrealizedGainLoss": null
+      },
+      {
+        "costBasis": null,
+        "description": "M VENTAS INC",
+        "endingValue": 5285,
+        "holdingType": "Other",
+        "price": 10.57,
+        "quantity": 500,
+        "symbol": "VTR",
+        "unrealizedGainLoss": null
+      }
+    ],
+    "statementPeriodEnd": "2015-07-31",
+    "statementPeriodStart": "2015-07-01",
+    "subtractions": -45430.74
+  },
+  "num_pages": 18,
+  "score": 0.7287691172249783,
+  "time_sec": 139.7768669128418
+}

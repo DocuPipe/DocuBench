@@ -19,6 +19,8 @@ DEFAULT_ENGINE_DISPLAY_NAMES = {
     "extend": "Extend",
     "gemini": "Gemini 3.5 Flash",
     "gpt": "GPT-5.5",
+    "pulse": "Pulse AI",
+    "pulse_standard": "Pulse AI standard",
     "reducto": "Reducto Deep Extract",
     "reducto_standard": "Reducto standard",
     "unstructured": "Unstructured",

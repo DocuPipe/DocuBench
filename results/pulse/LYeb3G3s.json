@@ -1,0 +1,107 @@
+{
+  "cost": 0.42,
+  "data": {
+    "patient": {
+      "age": "27 YRS",
+      "name": "Saubhik Bhaumik",
+      "sex": "M"
+    },
+    "registrationNumber": "XXXX54826XX",
+    "results": [
+      {
+        "flag": null,
+        "referenceRange": "13 - 17",
+        "testName": "HEMOGLOBIN",
+        "units": "g/dl",
+        "value": 15
+      },
+      {
+        "flag": null,
+        "referenceRange": "4,800 - 10,800",
+        "testName": "TOTAL LEUKOCYTE COUNT",
+        "units": "cumm",
+        "value": 5100
+      },
+      {
+        "flag": null,
+        "referenceRange": "40 - 80",
+        "testName": "NEUTROPHILS",
+        "units": "%",
+        "value": 79
+      },
+      {
+        "flag": "L",
+        "referenceRange": "20 - 40",
+        "testName": "LYMPHOCYTE",
+        "units": "%",
+        "value": 18
+      },
+      {
+        "flag": "L",
+        "referenceRange": "1 - 6",
+        "testName": "EOSINOPHILS",
+        "units": "%",
+        "value": 1
+      },
+      {
+        "flag": "L",
+        "referenceRange": "2 - 10",
+        "testName": "MONOCYTES",
+        "units": "%",
+        "value": 1
+      },
+      {
+        "flag": "L",
+        "referenceRange": "< 2",
+        "testName": "BASOPHILS",
+        "units": "%",
+        "value": 1
+      },
+      {
+        "flag": "L",
+        "referenceRange": "1.5 - 4.1",
+        "testName": "PLATELET COUNT",
+        "units": "lakhs/cumm",
+        "value": 3.5
+      },
+      {
+        "flag": "L",
+        "referenceRange": "4.5 - 5.5",
+        "testName": "TOTAL RBC COUNT",
+        "units": "million/cumm",
+        "value": 5
+      },
+      {
+        "flag": "L",
+        "referenceRange": "40 - 50",
+        "testName": "HEMATOCRIT VALUE, HCT",
+        "units": "%",
+        "value": 42
+      },
+      {
+        "flag": "L",
+        "referenceRange": "83 - 101",
+        "testName": "MEAN CORPUSCULAR VOLUME, MCV",
+        "units": "fL",
+        "value": 84.0
+      },
+      {
+        "flag": "L",
+        "referenceRange": "27 - 32",
+        "testName": "MEAN CELL HAEMOGLOBIN, MCH",
+        "units": "Pg",
+        "value": 30.0
+      },
+      {
+        "flag": "H",
+        "referenceRange": "31.5 - 34.5",
+        "testName": "MEAN CELL HAEMOGLOBIN CON, MCHC",
+        "units": "%",
+        "value": 35.7
+      }
+    ]
+  },
+  "num_pages": 2,
+  "score": 0.889940828402367,
+  "time_sec": 37.04935622215271
+}

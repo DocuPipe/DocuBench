@@ -1,0 +1,15 @@
+{
+  "cost": 0.21,
+  "data": {
+    "grade": null,
+    "netToBank": 9053.28,
+    "payPeriodMonth": 9,
+    "payPeriodYear": 2008,
+    "totalDeductions": 3792.1,
+    "totalHours": 176,
+    "totalPayments": 12845.38
+  },
+  "num_pages": 1,
+  "score": 0.20689655172413793,
+  "time_sec": 51.20529055595398
+}

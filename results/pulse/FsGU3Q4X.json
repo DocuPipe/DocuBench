@@ -1,0 +1,3114 @@
+{
+  "cost": 5.88,
+  "data": {
+    "entries": [
+      {
+        "address": "346 Szechuen-rd",
+        "firmNameChinese": "倍利文具公司",
+        "firmNameEnglish": "Imperial Stationery Co.",
+        "firmNameRomanized": null,
+        "telegraphAddress": null,
+        "telephone": "13992"
+      },
+      {
+        "address": "210 Szechuen-rd",
+        "firmNameChinese": null,
+        "firmNameEnglish": "Imperial Typewriter Co., Ld.",
+        "firmNameRomanized": null,
+        "telegraphAddress": null,
+        "telephone": "14793"
+      },
+      {
+        "address": "103 Kiukiang-rd",
+        "firmNameChinese": "益奥",
+        "firmNameEnglish": "Yih-shing Import & Export Trading Co.",
+        "firmNameRomanized": "Yih-shing",
+        "telegraphAddress": "Jason",
+        "telephone": "13941"
+      },
+      {
+        "address": "113 Kiukiang-rd",
+        "firmNameChinese": null,
+        "firmNameEnglish": "Indemnity Insurance Co. of North America",
+        "firmNameRomanized": null,
+        "telegraphAddress": "Norama",
+        "telephone": "12867"
+      },
+      {
+        "address": "160 Av. Edward VII",
+        "firmNameChinese": "獨立出版有限公司",
+        "firmNameEnglish": "Independent Publishing Co., Ld.",
+        "firmNameRomanized": null,
+        "telegraphAddress": null,
+        "telephone": "11660"
+      },
+      {
+        "address": "320 Kiangse-rd",
+        "firmNameChinese": "生利",
+        "firmNameEnglish": "Sun-lee Independent Tradg. Co.",
+        "firmNameRomanized": "Sun-lee",
+        "telegraphAddress": "Alacrity",
+        "telephone": "16776"
+      },
+      {
+        "address": "24 The Bund",
+        "firmNameChinese": "印棉運華聯益會",
+        "firmNameEnglish": "Indian Cotton Importers' Association of China",
+        "firmNameRomanized": null,
+        "telegraphAddress": "Renekikai",
+        "telephone": "16657"
+      },
+      {
+        "address": "27 The Bund",
+        "firmNameChinese": null,
+        "firmNameEnglish": "Indo-China S.N. Co. Ltd.",
+        "firmNameRomanized": null,
+        "telegraphAddress": null,
+        "telephone": null
+      },
+      {
+        "address": "66 Museum-rd",
+        "firmNameChinese": "安得行",
+        "firmNameEnglish": "Indra Trading Co.",
+        "firmNameRomanized": null,
+        "telegraphAddress": "Indra",
+        "telephone": "10997"
+      },
+      {
+        "address": "83 Museum-rd",
+        "firmNameChinese": "行工惠",
+        "firmNameEnglish": "Industrial Arts",
+        "firmNameRomanized": null,
+        "telegraphAddress": "Inart",
+        "telephone": "10333"
+      },
+      {
+        "address": "53 Foochow-rd",
+        "firmNameChinese": "工業化學社",
+        "firmNameEnglish": "Industrial Chemical Co.",
+        "firmNameRomanized": null,
+        "telegraphAddress": "Chromium",
+        "telephone": "10988"
+      },
+      {
+        "address": "320 Szechuen-rd",
+        "firmNameChinese": "聯",
+        "firmNameEnglish": "Industrial Suppliers Co.",
+        "firmNameRomanized": null,
+        "telegraphAddress": "Carnamet",
+        "telephone": "14242"
+      },
+      {
+        "address": "123, 137, 171 Nanking-rd",
+        "firmNameChinese": "英商萬泰有限公司",
+        "firmNameEnglish": "Ingenohl's Cigar Stores",
+        "firmNameRomanized": "Ying-shang-van-tai-yu-hsien-kung-sze",
+        "telegraphAddress": "Perlorient",
+        "telephone": "19019"
+      },
+      {
+        "address": "34 Yuen Ming Yuen-rd",
+        "firmNameChinese": null,
+        "firmNameEnglish": "Inniss & Riddle (China), Ld.",
+        "firmNameRomanized": null,
+        "telegraphAddress": "Powerful",
+        "telephone": "16236-9"
+      },
+      {
+        "address": "94 Canton-rd",
+        "firmNameChinese": null,
+        "firmNameEnglish": "Institute of Petroleum",
+        "firmNameRomanized": null,
+        "telegraphAddress": "Technical",
+        "telephone": "12487"
+      },
+      {
+        "address": "290 Hungjao-rd",
+        "firmNameChinese": "言童學校",
+        "firmNameEnglish": "Institution for the Chinese Blind",
+        "firmNameRomanized": "Mang-t'ung-hsioh-hsiao",
+        "telegraphAddress": null,
+        "telephone": "29569"
+      },
+      {
+        "address": "290 Hungjao-rd",
+        "firmNameChinese": "福啞學校",
+        "firmNameEnglish": "Institution for the Chinese Deaf",
+        "firmNameRomanized": "Fuh-yah-hsioh-hsiao",
+        "telegraphAddress": null,
+        "telephone": "29569"
+      },
+      {
+        "address": "113 Kiukiang-rd",
+        "firmNameChinese": "北美洲保險公司",
+        "firmNameEnglish": "Insurance Company of North America",
+        "firmNameRomanized": null,
+        "telegraphAddress": "Norama",
+        "telephone": "12867"
+      },
+      {
+        "address": "259 Kiangse-rd",
+        "firmNameChinese": "巴勒",
+        "firmNameEnglish": "Insurance Office of Australia, Ltd.",
+        "firmNameRomanized": "Poh-lar",
+        "telegraphAddress": "Norbrit",
+        "telephone": "18054"
+      },
+      {
+        "address": "24 Central-rd",
+        "firmNameChinese": "光陸貿易股份有限公司",
+        "firmNameEnglish": "Inter-Continental Trading Co., Ltd.",
+        "firmNameRomanized": "Kwanglo",
+        "telegraphAddress": "Incontraco",
+        "telephone": "19109"
+      },
+      {
+        "address": "17 The Bund",
+        "firmNameChinese": "英商四海保險公司",
+        "firmNameEnglish": "International Assurance Co., Ltd.",
+        "firmNameRomanized": "Ying-shang-sze-hai-pao-hsien-kung-sze",
+        "telegraphAddress": "Brintasco",
+        "telephone": "16805"
+      },
+      {
+        "address": "113 Kiukiang-rd",
+        "firmNameChinese": "中外圖書公司",
+        "firmNameEnglish": "International Book Co.",
+        "firmNameRomanized": null,
+        "telegraphAddress": null,
+        "telephone": "18276"
+      },
+      {
+        "address": "131 Museum-rd",
+        "firmNameChinese": "環球書報社",
+        "firmNameEnglish": "International Booksellers, Ltd.",
+        "firmNameRomanized": null,
+        "telegraphAddress": "Interbooks",
+        "telephone": "13106"
+      },
+      {
+        "address": "220 Szechuen-rd",
+        "firmNameChinese": "萬國商業機器公司",
+        "firmNameEnglish": "International Business Machines Corp.",
+        "firmNameRomanized": "Wan-kuo-shang-yeh-chi-ch'i-kung-sze",
+        "telegraphAddress": "Inbusmach",
+        "telephone": "11636"
+      },
+      {
+        "address": "238 Nanking-rd",
+        "firmNameChinese": "萬國函授學堂",
+        "firmNameEnglish": "International Correspondence Schools",
+        "firmNameRomanized": "Van-kuo-yee-zerh-hoh-dong",
+        "telegraphAddress": "Intertext",
+        "telephone": "11927"
+      },
+      {
+        "address": "Cor. of Foo-chow and Honan-rds",
+        "firmNameChinese": "五洲大藥房有限公司",
+        "firmNameEnglish": "International Dispensary, Ltd.",
+        "firmNameRomanized": "Wu-chu-ta-yah-vong-yu-hsien-kung-sze",
+        "telegraphAddress": "Bloodtonic",
+        "telephone": "19759"
+      },
+      {
+        "address": "36 Rue Molière",
+        "firmNameChinese": "人和醫院",
+        "firmNameEnglish": "Concord Woman's Hospital",
+        "firmNameRomanized": null,
+        "telegraphAddress": null,
+        "telephone": "73868"
+      },
+      {
+        "address": "17 Gt Western-rd",
+        "firmNameChinese": "宏恩醫院",
+        "firmNameEnglish": "Country Hospital",
+        "firmNameRomanized": "Hoong-un-ye-yuan",
+        "telegraphAddress": "Hospico",
+        "telephone": "21977"
+      },
+      {
+        "address": "1420 Keswick-rd",
+        "firmNameChinese": null,
+        "firmNameEnglish": "Country Sanatorium For Mental and Nervous Diseases",
+        "firmNameRomanized": null,
+        "telegraphAddress": null,
+        "telephone": "22383"
+      },
+      {
+        "address": "293 Gordon-rd",
+        "firmNameChinese": "大德醫院",
+        "firmNameEnglish": "Dah Deh Hospital",
+        "firmNameRomanized": "Dah-deh",
+        "telegraphAddress": null,
+        "telephone": "35099"
+      },
+      {
+        "address": "19 Rte Pottier",
+        "firmNameChinese": "大華醫院",
+        "firmNameEnglish": "Dah Hwa Hospital",
+        "firmNameRomanized": "Dah-hwa-i-yuan",
+        "telegraphAddress": null,
+        "telephone": "70907, 70880"
+      },
+      {
+        "address": "363 Av. Haig",
+        "firmNameChinese": "中國紅十字會第一醫院",
+        "firmNameEnglish": "First Hospital of Red Cross Society of China",
+        "firmNameRomanized": null,
+        "telegraphAddress": "Medix",
+        "telephone": "70163"
+      },
+      {
+        "address": "142 N. Szechuen-rd Exten.",
+        "firmNameChinese": "福民醫院",
+        "firmNameEnglish": "Foo Ming Hospital",
+        "firmNameRomanized": "Foo-ming-e-yuen",
+        "telegraphAddress": null,
+        "telephone": "46313-7"
+      },
+      {
+        "address": "197 Rte Père Robert",
+        "firmNameChinese": "廣慈醫院",
+        "firmNameEnglish": "Hopital Ste. Marie",
+        "firmNameRomanized": "Kwong-sze-e-yuen",
+        "telegraphAddress": null,
+        "telephone": "70044"
+      },
+      {
+        "address": "11A Great Western-rd",
+        "firmNameChinese": "灘西產婦科醫院",
+        "firmNameEnglish": "Husi Nursing Home",
+        "firmNameRomanized": null,
+        "telegraphAddress": null,
+        "telephone": "23077, 23076"
+      },
+      {
+        "address": "96 Haining-rd",
+        "firmNameChinese": "上海居留民團立診療所",
+        "firmNameEnglish": "Japanese Residents' Corporation's Hospital",
+        "firmNameRomanized": null,
+        "telegraphAddress": null,
+        "telephone": "40528"
+      },
+      {
+        "address": "145 Shantung-rd",
+        "firmNameChinese": "仁濟醫院",
+        "firmNameEnglish": "Lester Chinese Hospital",
+        "firmNameRomanized": "Zung-che-e-yuen",
+        "telegraphAddress": null,
+        "telephone": "90166"
+      },
+      {
+        "address": "Av. de Bezauer",
+        "firmNameChinese": "安老院",
+        "firmNameEnglish": "Little Sisters of the Poor",
+        "firmNameRomanized": "An-lau-yuen",
+        "telegraphAddress": null,
+        "telephone": null
+      },
+      {
+        "address": "149 Av Dubail",
+        "firmNameChinese": "呂班路仁愛會總院",
+        "firmNameEnglish": "Maison Centrale",
+        "firmNameRomanized": "Lee-pah-loh-zing aye-way-tsong-yuen",
+        "telegraphAddress": "Visitatrice",
+        "telephone": "81570"
+      },
+      {
+        "address": "850 Rte de Zikawei",
+        "firmNameChinese": "西門外婦孺醫院",
+        "firmNameEnglish": "Margaret Williamson Hospital",
+        "firmNameRomanized": "Si-mung-nga-roo-szu-i-yuen",
+        "telegraphAddress": "Womedicoll",
+        "telephone": "70216"
+      },
+      {
+        "address": "63 Great Western-rd",
+        "firmNameChinese": "工部醫院",
+        "firmNameEnglish": "Municipal Isolation Hospital (Foreign)",
+        "firmNameRomanized": "Kung-pu-e-yuen",
+        "telegraphAddress": null,
+        "telephone": "21346"
+      },
+      {
+        "address": "162 Pakhoi-rd",
+        "firmNameChinese": "工部局華人隔離醫院",
+        "firmNameEnglish": "Municipal Isolation Hospitals (Chinese)",
+        "firmNameRomanized": null,
+        "telegraphAddress": null,
+        "telephone": "91055"
+      },
+      {
+        "address": "25 Tsze Pong-rd",
+        "firmNameChinese": "中華麻風療養院",
+        "firmNameEnglish": "National Leprosarium of Shanghai",
+        "firmNameRomanized": "Chung-hua-ma-fong-liao-yang-yuen",
+        "telegraphAddress": null,
+        "telephone": "22287"
+      },
+      {
+        "address": "415 Burkill-rd",
+        "firmNameChinese": "寶隆醫院",
+        "firmNameEnglish": "Paulun Hospital",
+        "firmNameRomanized": null,
+        "telegraphAddress": null,
+        "telephone": "34374"
+      },
+      {
+        "address": "1729 Av Joffre",
+        "firmNameChinese": "中比鑑纓治療院",
+        "firmNameEnglish": "Radium Institute",
+        "firmNameRomanized": null,
+        "telegraphAddress": "Radium",
+        "telephone": "74432-4"
+      },
+      {
+        "address": "856 Sinza-rd",
+        "firmNameChinese": "中國紅十字會",
+        "firmNameEnglish": "Red Cross Society of China",
+        "firmNameRomanized": "Chung-kwok-hong-sah-se-wei",
+        "telegraphAddress": "Chincross",
+        "telephone": "34365-7"
+      },
+      {
+        "address": "260-262 Rte Mgr. Maresca",
+        "firmNameChinese": null,
+        "firmNameEnglish": "Russian Hospital",
+        "firmNameRomanized": null,
+        "telegraphAddress": null,
+        "telephone": "71682, 73535"
+      },
+      {
+        "address": "41 Ningkuo-rd",
+        "firmNameChinese": "聖心醫院",
+        "firmNameEnglish": "Sacred Heart Hospital",
+        "firmNameRomanized": null,
+        "telegraphAddress": null,
+        "telephone": null
+      },
+      {
+        "address": "190 N. Soochow-rd",
+        "firmNameChinese": "上海公濟醫院",
+        "firmNameEnglish": "Shanghai General Hospital",
+        "firmNameRomanized": "Shang-hai-kung-che-e-yuen",
+        "telegraphAddress": "Genhosp",
+        "telephone": "40100"
+      },
+      {
+        "address": "Pei-Chiao",
+        "firmNameChinese": "上海普慈療養院",
+        "firmNameEnglish": "Shanghai Mercy Hospital for Nervous Diseases",
+        "firmNameRomanized": null,
+        "telegraphAddress": null,
+        "telephone": null
+      },
+      {
+        "address": "995 Connaught-rd",
+        "firmNameChinese": "上海平民婦孺醫院",
+        "firmNameEnglish": "Shanghai Public Maternity and Children's Hospital",
+        "firmNameRomanized": null,
+        "telegraphAddress": null,
+        "telephone": "34687"
+      },
+      {
+        "address": "150 Rubicon-rd",
+        "firmNameChinese": "上海療養衛生院及分院",
+        "firmNameEnglish": "Shanghai Sanitarium, Hospital and Clinic",
+        "firmNameRomanized": "Shang-hai-liao-yang-wei seng-yuen",
+        "telegraphAddress": "Sanitarium",
+        "telephone": "29566-7"
+      },
+      {
+        "address": "4 Great Western-rd",
+        "firmNameChinese": "上海肺病療養院",
+        "firmNameEnglish": "Shanghai T. B. Sanatorium",
+        "firmNameRomanized": null,
+        "telegraphAddress": null,
+        "telephone": "21566"
+      },
+      {
+        "address": "300 Boone-rd",
+        "firmNameChinese": null,
+        "firmNameEnglish": "Shinozaki Hospital",
+        "firmNameRomanized": null,
+        "telegraphAddress": null,
+        "telephone": "21566"
+      },
+      {
+        "address": "536 Ruo Bourgeat",
+        "firmNameChinese": "中西療養院",
+        "firmNameEnglish": "Sino-Foreign Clinic",
+        "firmNameRomanized": null,
+        "telegraphAddress": null,
+        "telephone": "70019"
+      },
+      {
+        "address": "Lane 361 Avenue-rd",
+        "firmNameChinese": "廣仁醫院",
+        "firmNameEnglish": "St. Elizabeth's Hospital",
+        "firmNameRomanized": "Kwang-zung-e-yuen",
+        "telegraphAddress": null,
+        "telephone": "60050"
+      },
+      {
+        "address": null,
+        "firmNameChinese": "南市新普育堂",
+        "firmNameEnglish": "St. Joseph's Hospice",
+        "firmNameRomanized": "Nan-shih-sing-pu-nue-dong",
+        "telegraphAddress": null,
+        "telephone": null
+      },
+      {
+        "address": "219 Kiukiang-rd",
+        "firmNameChinese": "同仁醫院",
+        "firmNameEnglish": "St. Luke's Hospitals",
+        "firmNameRomanized": "Dung-zing-e-yuen",
+        "telegraphAddress": "Amchumiss",
+        "telephone": "17213"
+      },
+      {
+        "address": "53 Foochow-rd",
+        "firmNameChinese": null,
+        "firmNameEnglish": "Hunt Steamship Corporation",
+        "firmNameRomanized": null,
+        "telegraphAddress": "Hunt",
+        "telephone": "18695"
+      },
+      {
+        "address": "418 H. & S. Bank Bldg",
+        "firmNameChinese": "亨德醫生",
+        "firmNameEnglish": "Hunter, Dr. Ivor E. G.",
+        "firmNameRomanized": null,
+        "telegraphAddress": null,
+        "telephone": "17803"
+      },
+      {
+        "address": "24 The Bund",
+        "firmNameChinese": null,
+        "firmNameEnglish": "Hunter & Ormiston",
+        "firmNameRomanized": null,
+        "telegraphAddress": "Emmandess",
+        "telephone": "12994, 12993, 10740"
+      },
+      {
+        "address": "3 Astor-terr.",
+        "firmNameChinese": null,
+        "firmNameEnglish": "Huygen, G. E.",
+        "firmNameRomanized": null,
+        "telegraphAddress": null,
+        "telephone": "43929, 46354"
+      },
+      {
+        "address": "131 Museum-rd",
+        "firmNameChinese": "華業行",
+        "firmNameEnglish": "Hwa Chang Co., Ltd.",
+        "firmNameRomanized": null,
+        "telegraphAddress": "Greatwall",
+        "telephone": "15933"
+      },
+      {
+        "address": "368 Kiangse-rd",
+        "firmNameChinese": "華啓顧間工程師",
+        "firmNameEnglish": "Hwa Chi Consulting Engineers",
+        "firmNameRomanized": null,
+        "telegraphAddress": "Hwachi",
+        "telephone": "13753"
+      },
+      {
+        "address": "476 Ningpo-rd",
+        "firmNameChinese": "華成烟草股份有限公司",
+        "firmNameEnglish": "Hwa Ching Tobacco Co., Ltd.",
+        "firmNameRomanized": "Hwa-ching-yen-chao-kung-sze",
+        "telegraphAddress": "7857",
+        "telephone": "93836"
+      },
+      {
+        "address": "471 Nanking-rd",
+        "firmNameChinese": "華昌照相材料行",
+        "firmNameEnglish": "Hwa Chong Photo Supplies Co.",
+        "firmNameRomanized": null,
+        "telegraphAddress": null,
+        "telephone": "93225-6"
+      },
+      {
+        "address": "9 Quai de France",
+        "firmNameChinese": "華豐公司",
+        "firmNameEnglish": "Hwa Feng Kung Sze",
+        "firmNameRomanized": null,
+        "telegraphAddress": "Utoil",
+        "telephone": "88770"
+      },
+      {
+        "address": "346 Szechuen-rd",
+        "firmNameChinese": "華豐公司",
+        "firmNameEnglish": "Hwa Fung Co.",
+        "firmNameRomanized": null,
+        "telegraphAddress": "Funwil",
+        "telephone": "11770"
+      },
+      {
+        "address": "42 Amherst Avenue",
+        "firmNameChinese": "華美工業廠股份有限公司",
+        "firmNameEnglish": "Hwa Mei Industrial Works, Ltd.",
+        "firmNameRomanized": "Hwa-mei-kung-nee-chang",
+        "telegraphAddress": "6250",
+        "telephone": "23720"
+      },
+      {
+        "address": "160 Av. Edward VII",
+        "firmNameChinese": "華美報館",
+        "firmNameEnglish": "Hwa Mei Publishing Co.",
+        "firmNameRomanized": null,
+        "telegraphAddress": "3013",
+        "telephone": "13013-2"
+      },
+      {
+        "address": "35 Tamsui-rd",
+        "firmNameChinese": "華生化學製藥廠",
+        "firmNameEnglish": "Hwa Sun Chemical Works, Ld.",
+        "firmNameRomanized": "Hwa-sun-ho-hsuch-tse-ya-chang",
+        "telegraphAddress": "6286 or Nandrug",
+        "telephone": "30746"
+      },
+      {
+        "address": "133 Yuen Ming Yuen-rd",
+        "firmNameChinese": "華德貿易公司",
+        "firmNameEnglish": "Hwa Tuh Trading Co.",
+        "firmNameRomanized": "Hwa-tuh-mou-yih-kung-sze",
+        "telegraphAddress": "Hwatutraco",
+        "telephone": "17333-4"
+      },
+      {
+        "address": "1209-42 Sinza-rd",
+        "firmNameChinese": "華洋機器馬達廠",
+        "firmNameEnglish": "Hwa Yang Eng'g. and Motor Works",
+        "firmNameRomanized": "Hwa-yang-ge-che-chang",
+        "telegraphAddress": null,
+        "telephone": "37939"
+      },
+      {
+        "address": "280 Peking-rd",
+        "firmNameChinese": "華学貿易行",
+        "firmNameEnglish": "Hwafu Trading Co.",
+        "firmNameRomanized": "Hwa-fuk-mou-i-hong",
+        "telegraphAddress": "Hwafutrade",
+        "telephone": "14267"
+      },
+      {
+        "address": "557 Avenue Joffre",
+        "firmNameChinese": null,
+        "firmNameEnglish": "Hygiene Milk Shop",
+        "firmNameRomanized": null,
+        "telegraphAddress": null,
+        "telephone": null
+      },
+      {
+        "address": "410 Szechuen-rd",
+        "firmNameChinese": "英商哈門",
+        "firmNameEnglish": "Hyndman & Co., H. G.",
+        "firmNameRomanized": "Ing-song-har-men",
+        "telegraphAddress": "Hyndco",
+        "telephone": "12146"
+      },
+      {
+        "address": "99 Yue Ching Fong",
+        "firmNameChinese": "兵藤獸醫院",
+        "firmNameEnglish": "Hyodo's Veterinary Hospital",
+        "firmNameRomanized": "Ping-tang-sou-e-yuen",
+        "telegraphAddress": null,
+        "telephone": "46556"
+      },
+      {
+        "address": "374 Kiangse-rd",
+        "firmNameChinese": "葉慶司千",
+        "firmNameEnglish": "lasinsky, B. I., M.D.",
+        "firmNameRomanized": null,
+        "telegraphAddress": null,
+        "telephone": "17116"
+      },
+      {
+        "address": "260 Av Edward VII",
+        "firmNameChinese": "上海亦達行",
+        "firmNameEnglish": "Ideal Co.",
+        "firmNameRomanized": "I-ta-hong",
+        "telegraphAddress": "Idealowe",
+        "telephone": "11878"
+      },
+      {
+        "address": "835 Av Joffre",
+        "firmNameChinese": null,
+        "firmNameEnglish": "Ideal Haberdashery Store",
+        "firmNameRomanized": null,
+        "telegraphAddress": null,
+        "telephone": "75123"
+      },
+      {
+        "address": "410 North Soochow-rd",
+        "firmNameChinese": "出光",
+        "firmNameEnglish": "Idemitsu & Co. (China), Ld.",
+        "firmNameRomanized": null,
+        "telegraphAddress": null,
+        "telephone": "44010"
+      },
+      {
+        "address": "34 Museum-rd",
+        "firmNameChinese": "依爾加",
+        "firmNameEnglish": "I. E. R. C. A.",
+        "firmNameRomanized": null,
+        "telegraphAddress": "Ierca",
+        "telephone": "13713"
+      },
+      {
+        "address": "118 Rte des Sœurs",
+        "firmNameChinese": "伊佛蘭",
+        "firmNameEnglish": "Ifland, S. (American Leather Import Co.)",
+        "firmNameRomanized": null,
+        "telegraphAddress": "Alicompany",
+        "telephone": "76352"
+      },
+      {
+        "address": "142 Museum-rd",
+        "firmNameChinese": null,
+        "firmNameEnglish": "lida & Co., Ld. (Takashimaya lida K.K.)",
+        "firmNameRomanized": null,
+        "telegraphAddress": "Highisland",
+        "telephone": "18913"
+      },
+      {
+        "address": "17 Canton-rd",
+        "firmNameChinese": "老公茂",
+        "firmNameEnglish": "Ilbert & Co. (1931), Ld.",
+        "firmNameRomanized": "Laou-kung-mow",
+        "telegraphAddress": null,
+        "telephone": "18669, 13025, 13993, 13363, 13248"
+      },
+      {
+        "address": "7-9 Rue Montauban",
+        "firmNameChinese": "依爾福",
+        "firmNameEnglish": "Ifford, Ld.",
+        "firmNameRomanized": "I-l-foh",
+        "telegraphAddress": "Seloford",
+        "telephone": "80044"
+      },
+      {
+        "address": "7-9 Rue Montauban",
+        "firmNameChinese": "依爾福",
+        "firmNameEnglish": "Ifford Selling Corp.",
+        "firmNameRomanized": "I-l-foh",
+        "telegraphAddress": "Seloford",
+        "telephone": null
+      },
+      {
+        "address": "210 Klukiang-rd",
+        "firmNameChinese": "伊麟華",
+        "firmNameEnglish": "Illingworth, L. E.",
+        "firmNameRomanized": null,
+        "telegraphAddress": "Holdslooms",
+        "telephone": "18304"
+      },
+      {
+        "address": "M9 & 11, Lane 178 Ming-hong-rd",
+        "firmNameChinese": "今村回清店",
+        "firmNameEnglish": "Imamura Kaisoten",
+        "firmNameRomanized": null,
+        "telegraphAddress": null,
+        "telephone": "41974, 45765"
+      },
+      {
+        "address": "114-5 Miller-rd",
+        "firmNameChinese": "鈴木醫院",
+        "firmNameEnglish": "Suzuki's Hospital",
+        "firmNameRomanized": null,
+        "telegraphAddress": null,
+        "telephone": "42961"
+      },
+      {
+        "address": "1171 Yu Yuen-rd",
+        "firmNameChinese": "世界紅己字會精神系病治療院",
+        "firmNameEnglish": "Therapeutic Institute for Nervous Diseases",
+        "firmNameRomanized": null,
+        "telegraphAddress": null,
+        "telephone": "20954"
+      },
+      {
+        "address": "105 Great Western-rd",
+        "firmNameChinese": "產婦醫院",
+        "firmNameEnglish": "Woman's Hospital, The",
+        "firmNameRomanized": "Chuan-fu-yi-yuan",
+        "telegraphAddress": null,
+        "telephone": "21848-6"
+      },
+      {
+        "address": "1171 Yu Yuen-rd",
+        "firmNameChinese": "世界紅己字會醫院",
+        "firmNameEnglish": "World Red Swastika Hospital",
+        "firmNameRomanized": null,
+        "telegraphAddress": null,
+        "telephone": "20954"
+      },
+      {
+        "address": "104 Rubbling Well-rd",
+        "firmNameChinese": "金門大酒店有限公司",
+        "firmNameEnglish": "Hotel Pacific, Ld.",
+        "firmNameRomanized": null,
+        "telegraphAddress": "Pacitel",
+        "telephone": "90010"
+      },
+      {
+        "address": "150 Kiukiang-rd",
+        "firmNameChinese": "何世儉",
+        "firmNameEnglish": "Ho-Tung, E. S. K.",
+        "firmNameRomanized": "Ho-sai-kim",
+        "telegraphAddress": "Eskho",
+        "telephone": "19503"
+      },
+      {
+        "address": "536-40 Szechuen-rd",
+        "firmNameChinese": "水明昌中國漆西式木器號",
+        "firmNameEnglish": "House Furnishing Co.",
+        "firmNameRomanized": "Sui-ming-chong-moh-chi-ho",
+        "telegraphAddress": "Seminachon",
+        "telephone": "17284"
+      },
+      {
+        "address": "1580 Av. Joffre",
+        "firmNameChinese": null,
+        "firmNameEnglish": "House and Garden",
+        "firmNameRomanized": null,
+        "telegraphAddress": null,
+        "telephone": "77288"
+      },
+      {
+        "address": "2032 Av. Joffre",
+        "firmNameChinese": null,
+        "firmNameEnglish": "Houston Court",
+        "firmNameRomanized": null,
+        "telegraphAddress": null,
+        "telephone": "16366"
+      },
+      {
+        "address": "33 Rue Montauban",
+        "firmNameChinese": "厚生公司",
+        "firmNameEnglish": "How Sang Linen Co.",
+        "firmNameRomanized": "How-sung-kung-sze",
+        "telegraphAddress": "Howsang",
+        "telephone": "85217"
+      },
+      {
+        "address": "233 Nanking-rd",
+        "firmNameChinese": "天和公司",
+        "firmNameEnglish": "Howard & Co., T.",
+        "firmNameRomanized": "Tien-hwa-kung-sze",
+        "telegraphAddress": "Howard",
+        "telephone": "10802"
+      },
+      {
+        "address": "49 Lafayette Terrace",
+        "firmNameChinese": "奚亞夫律師",
+        "firmNameEnglish": "Hsi, Afman",
+        "firmNameRomanized": "Hsi-ya-fu-li-shih",
+        "telegraphAddress": null,
+        "telephone": "74061"
+      },
+      {
+        "address": "50, Lane 195 Tientsin-rd",
+        "firmNameChinese": null,
+        "firmNameEnglish": "Hsia Ho Hong",
+        "firmNameRomanized": null,
+        "telegraphAddress": "Hsiho",
+        "telephone": "90184"
+      },
+      {
+        "address": "019, Lane 145 Tientsin-rd",
+        "firmNameChinese": "新昶",
+        "firmNameEnglish": "Hsin Chong",
+        "firmNameRomanized": null,
+        "telegraphAddress": "Hsin Chong",
+        "telephone": "92408"
+      },
+      {
+        "address": "1, Lane 261 Kiangse-rd",
+        "firmNameChinese": "新昌營造廠",
+        "firmNameEnglish": "Hsin Chong & Co.",
+        "firmNameRomanized": null,
+        "telegraphAddress": null,
+        "telephone": "16629"
+      },
+      {
+        "address": "51 Museum-rd",
+        "firmNameChinese": "信豐有限公司",
+        "firmNameEnglish": "Hsin Feng Co., Ld.",
+        "firmNameRomanized": "Hsin-feng-you-hscen-kung-ssu",
+        "telegraphAddress": null,
+        "telephone": "10772"
+      },
+      {
+        "address": "160 Av Edward VII",
+        "firmNameChinese": "新亨營造廠",
+        "firmNameEnglish": "Hsin Heng & Co.",
+        "firmNameRomanized": "Hsin-heng-ying-tsao-chang",
+        "telegraphAddress": "0444",
+        "telephone": "15660, 15669"
+      },
+      {
+        "address": "383 Rte Tenant de la Tour",
+        "firmNameChinese": "新華玻璃廠",
+        "firmNameEnglish": "Hsin Hua Glass Factory",
+        "firmNameRomanized": "Hsin-hua-po-lu-chang",
+        "telegraphAddress": null,
+        "telephone": "73071"
+      },
+      {
+        "address": "299 Szechuen-rd",
+        "firmNameChinese": "鑫成貿易公司",
+        "firmNameEnglish": "Hsin Zung Trading Co.",
+        "firmNameRomanized": null,
+        "telegraphAddress": "Tunli",
+        "telephone": "14052"
+      },
+      {
+        "address": "181 Kiangse-rd",
+        "firmNameChinese": "徐士浩律師",
+        "firmNameEnglish": "Hsu Sze-Hao",
+        "firmNameRomanized": "Hsu-dze-hao-li-ze",
+        "telegraphAddress": "1102",
+        "telephone": "13110, 13119"
+      },
+      {
+        "address": "65 Broadway",
+        "firmNameChinese": null,
+        "firmNameEnglish": "Hua Hsing Commercial Bank",
+        "firmNameRomanized": null,
+        "telegraphAddress": "Kakoh",
+        "telephone": "46293"
+      },
+      {
+        "address": "113 Kiukiang-rd",
+        "firmNameChinese": "黃章城建築工程師",
+        "firmNameEnglish": "Huang, C. B.",
+        "firmNameRomanized": "Huang-chang-been-chin-cheo- kung-chen-se",
+        "telegraphAddress": null,
+        "telephone": "13207"
+      },
+      {
+        "address": "660 Av Edward VII",
+        "firmNameChinese": "黃益壽醫師",
+        "firmNameEnglish": "Huang, Dr. I. S.",
+        "firmNameRomanized": "Huang-i-shou-e-sze",
+        "telegraphAddress": null,
+        "telephone": "94895"
+      },
+      {
+        "address": "290 Rte Maresca",
+        "firmNameChinese": "黃子方",
+        "firmNameEnglish": "Huang, Dr. Tsefang F.",
+        "firmNameRomanized": "Huang-tze-fang",
+        "telegraphAddress": null,
+        "telephone": "75618"
+      },
+      {
+        "address": "103 Great Western-rd",
+        "firmNameChinese": "邸達德公寓",
+        "firmNameEnglish": "Hubertus Court",
+        "firmNameRomanized": null,
+        "telegraphAddress": null,
+        "telephone": "22657"
+      },
+      {
+        "address": "209 Yuen Ming-rd",
+        "firmNameChinese": null,
+        "firmNameEnglish": "Hubertus Properties Inc.",
+        "firmNameRomanized": null,
+        "telegraphAddress": "Lashudec",
+        "telephone": "19277"
+      },
+      {
+        "address": "209 Yuen Ming Yuen-rd",
+        "firmNameChinese": "邸達克打檯行",
+        "firmNameEnglish": "Hudec, L. E., B.A.",
+        "firmNameRomanized": "Hu-dah-keh",
+        "telegraphAddress": "Lashudec",
+        "telephone": "19277"
+      },
+      {
+        "address": "B284 Dixwell-rd",
+        "firmNameChinese": "赫德斯登",
+        "firmNameEnglish": "Huddleston & Co., H.",
+        "firmNameRomanized": null,
+        "telegraphAddress": null,
+        "telephone": "50040"
+      },
+      {
+        "address": "100 Rte Card Mercier",
+        "firmNameChinese": null,
+        "firmNameEnglish": "Hudford Motors",
+        "firmNameRomanized": null,
+        "telegraphAddress": null,
+        "telephone": "70180"
+      },
+      {
+        "address": "1 Nanking-rd",
+        "firmNameChinese": "務德生牙醫生",
+        "firmNameEnglish": "Hudson, Dr. F. B., D.D.S.",
+        "firmNameRomanized": "Huh-teh-sung-nga-e-sung",
+        "telegraphAddress": null,
+        "telephone": "11917"
+      },
+      {
+        "address": "210 Kiukiang-rd",
+        "firmNameChinese": "英商務德森",
+        "firmNameEnglish": "Hudsun & Co.",
+        "firmNameRomanized": null,
+        "telegraphAddress": null,
+        "telephone": "19100"
+      },
+      {
+        "address": "133 Yuen Ming Yuen-rd",
+        "firmNameChinese": "溪鹽藤公司",
+        "firmNameEnglish": "Huepeden & Co.",
+        "firmNameRomanized": "Hah-peh-ten-kung-sze",
+        "telegraphAddress": "Hupeden",
+        "telephone": "17645, 13968"
+      },
+      {
+        "address": "70 Av Victor Emmanuel III",
+        "firmNameChinese": "漢爾",
+        "firmNameEnglish": "Hull & Co.",
+        "firmNameRomanized": "Hol",
+        "telegraphAddress": null,
+        "telephone": "76094"
+      },
+      {
+        "address": "40 Ningpo-rd",
+        "firmNameChinese": "洪士豪律師",
+        "firmNameEnglish": "Hung, William S. H.",
+        "firmNameRomanized": "Hung-shih-how-li-sze",
+        "telegraphAddress": null,
+        "telephone": "13858"
+      },
+      {
+        "address": "149 Szechuen-rd",
+        "firmNameChinese": "恆昌號",
+        "firmNameEnglish": "Hung Chong",
+        "firmNameRomanized": null,
+        "telegraphAddress": null,
+        "telephone": "19975, 11896"
+      },
+      {
+        "address": "238 Nanking-rd",
+        "firmNameChinese": "鴻昌首飾號",
+        "firmNameEnglish": "Hung Chong & Co.",
+        "firmNameRomanized": "Hung-chong",
+        "telegraphAddress": null,
+        "telephone": "17778"
+      },
+      {
+        "address": "460 Szechuen-rd",
+        "firmNameChinese": null,
+        "firmNameEnglish": "Hung Chong Bros.' Fur Co.",
+        "firmNameRomanized": null,
+        "telegraphAddress": null,
+        "telephone": "17432"
+      },
+      {
+        "address": "850 Avenue Foch",
+        "firmNameChinese": "恆大建筑材料行",
+        "firmNameEnglish": "Hung Dah Building Supplies Co.",
+        "firmNameRomanized": "Hung-dah",
+        "telegraphAddress": "Hunda",
+        "telephone": "35516"
+      },
+      {
+        "address": "33 Tientsin-rd",
+        "firmNameChinese": "恆大祥五金號",
+        "firmNameEnglish": "Hung Dah Ziang",
+        "firmNameRomanized": "Hung-dah-ziang-wu-king-hao",
+        "telegraphAddress": "1540",
+        "telephone": "16147, 14752"
+      },
+      {
+        "address": "813-5 Bubbling Well-rd",
+        "firmNameChinese": "恆豐永地毯公司",
+        "firmNameEnglish": "Hung Fong Yong Rug Co.",
+        "firmNameRomanized": "Hung-fong-yong-de-tan- kung-chang",
+        "telegraphAddress": "Hufoyorug",
+        "telephone": "32148"
+      },
+      {
+        "address": "397 Szechuen-rd",
+        "firmNameChinese": "恆茂錢莊",
+        "firmNameEnglish": "Hung Mow Exchange Bank",
+        "firmNameRomanized": "Hung-mow-sie-tsong",
+        "telegraphAddress": null,
+        "telephone": "14934, 14941, 17220, 16700"
+      },
+      {
+        "address": "635 Szechuen-rd",
+        "firmNameChinese": "恆途",
+        "firmNameEnglish": "Hung Teh Trading Co.",
+        "firmNameRomanized": "Hung-tek",
+        "telegraphAddress": "Hendry",
+        "telephone": "17269"
+      },
+      {
+        "address": "524 Av. Petain",
+        "firmNameChinese": "匈牙利伙食店",
+        "firmNameEnglish": "Hungarian Butchery",
+        "firmNameRomanized": "Hun-garian-fu-san-tien",
+        "telegraphAddress": null,
+        "telephone": "78736"
+      },
+      {
+        "address": "9 The Bund",
+        "firmNameChinese": null,
+        "firmNameEnglish": "Hunt & Co., William",
+        "firmNameRomanized": null,
+        "telegraphAddress": "Terminal",
+        "telephone": "13555"
+      },
+      {
+        "address": "53 Foochow-rd",
+        "firmNameChinese": null,
+        "firmNameEnglish": "Hunt Engineering Corporation",
+        "firmNameRomanized": null,
+        "telegraphAddress": "Hunt",
+        "telephone": "18695"
+      },
+      {
+        "address": "320 Szechuen-rd",
+        "firmNameChinese": "大美查賬局",
+        "firmNameEnglish": "Haskins & Sells",
+        "firmNameRomanized": "Da-mei-zor-chang-ju",
+        "telegraphAddress": "Haskins",
+        "telephone": "16900"
+      },
+      {
+        "address": "14 Museum-rd",
+        "firmNameChinese": "湖生",
+        "firmNameEnglish": "Hassaram & Co., K.",
+        "firmNameRomanized": "Hai-sun",
+        "telegraphAddress": "Hassaram",
+        "telephone": "19123"
+      },
+      {
+        "address": "22 Siking-rd",
+        "firmNameChinese": "飾部",
+        "firmNameEnglish": "Hattori Trading Co., Ld.",
+        "firmNameRomanized": "Foh-bu",
+        "telegraphAddress": null,
+        "telephone": "12086"
+      },
+      {
+        "address": "233 Nanking-rd",
+        "firmNameChinese": "好士門",
+        "firmNameEnglish": "Hausmann &\nWessendorf",
+        "firmNameRomanized": "Hau-sze-man",
+        "telegraphAddress": "Teehaus",
+        "telephone": "10799"
+      },
+      {
+        "address": "9 Av Edward VII",
+        "firmNameChinese": "哈瓦斯世界電說社",
+        "firmNameEnglish": "Havas Telemondial",
+        "firmNameRomanized": null,
+        "telegraphAddress": "Havas",
+        "telephone": "84065-6"
+      },
+      {
+        "address": "53 Foochow-rd",
+        "firmNameChinese": "海思",
+        "firmNameEnglish": "Hayes & Co., H. Y.",
+        "firmNameRomanized": "Hai-sze",
+        "telegraphAddress": "Hayesco",
+        "telephone": "14153"
+      },
+      {
+        "address": "27 The Bund",
+        "firmNameChinese": null,
+        "firmNameEnglish": "Hayim, A. J.",
+        "firmNameRomanized": null,
+        "telegraphAddress": "Hayim",
+        "telephone": "18336"
+      },
+      {
+        "address": "433 Av Haig",
+        "firmNameChinese": "哈沙得",
+        "firmNameEnglish": "Hazzard, Elliott",
+        "firmNameRomanized": "Ha-zo-te",
+        "telegraphAddress": "Footrule",
+        "telephone": "70117"
+      },
+      {
+        "address": "770 Bubbling Well-rd",
+        "firmNameChinese": "國霍療有限公中",
+        "firmNameEnglish": "Health-Rays, Ld.",
+        "firmNameRomanized": null,
+        "telegraphAddress": "Healthrays",
+        "telephone": "33837"
+      },
+      {
+        "address": "770 Bubbling Well-rd",
+        "firmNameChinese": "中國霍療有限公司",
+        "firmNameEnglish": "Health-Rays Clinic",
+        "firmNameRomanized": null,
+        "telegraphAddress": null,
+        "telephone": "33837"
+      },
+      {
+        "address": "341 Szechuen-rd",
+        "firmNameChinese": "中國衛生服務行",
+        "firmNameEnglish": "Health Service Corp.\nof China",
+        "firmNameRomanized": "Chung-kuo-wei-sun-foh-\nbwu-hong",
+        "telegraphAddress": "Healthserv",
+        "telephone": "18321"
+      },
+      {
+        "address": "47 Ningpo-rd",
+        "firmNameChinese": "海留司衛生清潔服務所",
+        "firmNameEnglish": "Health Service\nIntelligence Bureau",
+        "firmNameRomanized": "Hai-el-sze-wei-sung-ching-\nchu-roo-fu-sou",
+        "telegraphAddress": "Health",
+        "telephone": "18510"
+      },
+      {
+        "address": "775 Bubbling Well-rd",
+        "firmNameChinese": "美信公司",
+        "firmNameEnglish": "Hearty Handicraft Co.",
+        "firmNameRomanized": null,
+        "telegraphAddress": "Heartcraft",
+        "telephone": "32019"
+      },
+      {
+        "address": "2 Peking-rd",
+        "firmNameChinese": "英商希時有限公司",
+        "firmNameEnglish": "Heath (1927), Ld.",
+        "firmNameRomanized": "He-su-yuen-hsien-kung-sze",
+        "telegraphAddress": "Heather",
+        "telephone": "18252"
+      },
+      {
+        "address": "1360 Rue Lafayette",
+        "firmNameChinese": null,
+        "firmNameEnglish": "Hecht, Dr. Oswald",
+        "firmNameRomanized": null,
+        "telegraphAddress": null,
+        "telephone": "73916"
+      },
+      {
+        "address": "882 Bubbling Well-rd",
+        "firmNameChinese": null,
+        "firmNameEnglish": "Hechtman, Dr. L.",
+        "firmNameRomanized": null,
+        "telegraphAddress": null,
+        "telephone": "36620"
+      },
+      {
+        "address": "25 Rue Chu Pao San",
+        "firmNameChinese": "湖達亞",
+        "firmNameEnglish": "Hedaya Importing Co.",
+        "firmNameRomanized": null,
+        "telegraphAddress": "Hedimcom",
+        "telephone": "83461"
+      },
+      {
+        "address": "382 Honan-rd",
+        "firmNameChinese": "郡譚德剂師",
+        "firmNameEnglish": "Heldt, Dr. W., M.D.",
+        "firmNameRomanized": null,
+        "telegraphAddress": null,
+        "telephone": "13294"
+      },
+      {
+        "address": "153 Nanking-rd",
+        "firmNameChinese": "海爾芬司庭醫生",
+        "firmNameEnglish": "Helfenstein, S., M.D.",
+        "firmNameRomanized": "Hui-ell-fen-sze-ting-e-seng",
+        "telegraphAddress": null,
+        "telephone": "17092"
+      },
+      {
+        "address": "159 Peking-rd",
+        "firmNameChinese": null,
+        "firmNameEnglish": "Hello Novelties Co.",
+        "firmNameRomanized": null,
+        "telegraphAddress": "Busalsatia",
+        "telephone": "18915"
+      },
+      {
+        "address": "12 The Bund",
+        "firmNameChinese": "亨特生",
+        "firmNameEnglish": "Henderson & Co., Alex",
+        "firmNameRomanized": "Hen-der-son-yang-hong",
+        "telegraphAddress": "Henderson",
+        "telephone": "10453"
+      },
+      {
+        "address": "17, Lane 713 Peking-rd",
+        "firmNameChinese": "鴻昌五金號",
+        "firmNameEnglish": "Heng Chong & Co.",
+        "firmNameRomanized": null,
+        "telegraphAddress": null,
+        "telephone": "96819"
+      },
+      {
+        "address": "358 Av. Joffre",
+        "firmNameChinese": "恆大昌五金號",
+        "firmNameEnglish": "Heng Dah Chong & Co.",
+        "firmNameRomanized": "Hun-da-chon-ng-king-hao",
+        "telegraphAddress": "1294",
+        "telephone": "80730, 85615"
+      },
+      {
+        "address": "232 Hamilton House",
+        "firmNameChinese": "恆豐織布公司",
+        "firmNameEnglish": "Heng Fung Weaving Co.",
+        "firmNameRomanized": "Heng-foong-che-pu-kung-sze",
+        "telegraphAddress": null,
+        "telephone": "19999"
+      },
+      {
+        "address": "18, Lane 125 Park-rd",
+        "firmNameChinese": "恆記五金號",
+        "firmNameEnglish": "Heng Kee",
+        "firmNameRomanized": "Hun-chee-who-kin-hou",
+        "telegraphAddress": "Hengkee",
+        "telephone": "36574"
+      },
+      {
+        "address": "563 Szechuen-rd",
+        "firmNameChinese": "恆康",
+        "firmNameEnglish": "Heng Kong",
+        "firmNameRomanized": "Heng-Kong",
+        "telegraphAddress": null,
+        "telephone": "12205"
+      },
+      {
+        "address": "368 Kiangse-rd",
+        "firmNameChinese": "恆泰華行",
+        "firmNameEnglish": "Heng Tai & Co.",
+        "firmNameRomanized": "Heng-tai-hua-hong",
+        "telegraphAddress": "Hengtaico",
+        "telephone": "14465"
+      },
+      {
+        "address": "147 Edward VII",
+        "firmNameChinese": "恆泰貿易公司",
+        "firmNameEnglish": "Heng Tai Trading Co.",
+        "firmNameRomanized": "Heng-tai-muh-yih-kong-che",
+        "telegraphAddress": "Hengtaihat",
+        "telephone": "81424"
+      },
+      {
+        "address": "26 Rue Montauban",
+        "firmNameChinese": "美商大龍",
+        "firmNameEnglish": "Henkel, Louis",
+        "firmNameRomanized": "Dah-loong",
+        "telegraphAddress": "Henheid",
+        "telephone": "82389"
+      },
+      {
+        "address": "50 Yuen Ming Yuen-rd",
+        "firmNameChinese": "亨利氏電報材料製造廠",
+        "firmNameEnglish": "Henley's Telegraph\nWorks Co., Ld., W. T.",
+        "firmNameRomanized": null,
+        "telegraphAddress": null,
+        "telephone": "15290"
+      },
+      {
+        "address": "250 Sawgin-rd",
+        "firmNameChinese": "海寧",
+        "firmNameEnglish": "Henningsen Produce Co\nInc.",
+        "firmNameRomanized": "Hai-ning",
+        "telegraphAddress": "Henndam",
+        "telephone": "40010"
+      },
+      {
+        "address": "274-6 Bubbling Well-rd",
+        "firmNameChinese": "亨利",
+        "firmNameEnglish": "Henry the Tailor",
+        "firmNameRomanized": "Han-li",
+        "telegraphAddress": null,
+        "telephone": "34733"
+      },
+      {
+        "address": "1320 Avenue-rd",
+        "firmNameChinese": "雷氏德醫學研究院",
+        "firmNameEnglish": "Henry Lester Institute\nof Medical Research",
+        "firmNameRomanized": null,
+        "telegraphAddress": "Medsearch",
+        "telephone": "30010"
+      },
+      {
+        "address": "280 Peking-rd",
+        "firmNameChinese": "茂成公司",
+        "firmNameEnglish": "Henry Trading Co., W.",
+        "firmNameRomanized": "Mow-zung-kung-sze",
+        "telegraphAddress": "Prosper",
+        "telephone": "19333"
+      },
+      {
+        "address": "9 Quai de France",
+        "firmNameChinese": "夏老臣",
+        "firmNameEnglish": "Herlofson, Gordon &\nReeves",
+        "firmNameRomanized": "Hao-lo-shing",
+        "telegraphAddress": "Herlofson or Admiral",
+        "telephone": "80033"
+      },
+      {
+        "address": "685 Bubbling Well-rd",
+        "firmNameChinese": "海彌司郵票公司",
+        "firmNameEnglish": "Hermes Stamp Co.",
+        "firmNameRomanized": null,
+        "telegraphAddress": null,
+        "telephone": "61540"
+      },
+      {
+        "address": "205 Rte Winling",
+        "firmNameChinese": null,
+        "firmNameEnglish": "Herper, V.",
+        "firmNameRomanized": null,
+        "telegraphAddress": "Herper",
+        "telephone": "70149"
+      },
+      {
+        "address": "410 Szechuen-rd",
+        "firmNameChinese": "哈志格",
+        "firmNameEnglish": "Hertzka, A. R.",
+        "firmNameRomanized": null,
+        "telegraphAddress": "Hertzka",
+        "telephone": "18526"
+      },
+      {
+        "address": "209 Yuen Ming Yuen-rd",
+        "firmNameChinese": null,
+        "firmNameEnglish": "Herzberg Paper Co.,\nEric",
+        "firmNameRomanized": null,
+        "telegraphAddress": null,
+        "telephone": "14843"
+      },
+      {
+        "address": "158 Hamilton House",
+        "firmNameChinese": "韓潮牙醫師",
+        "firmNameEnglish": "Herzog, B. M.D.",
+        "firmNameRomanized": null,
+        "telegraphAddress": null,
+        "telephone": "11624"
+      },
+      {
+        "address": "868 Bubbling Well-rd",
+        "firmNameChinese": "海斯俄夫康",
+        "firmNameEnglish": "Hess, Dr. Wolfgang",
+        "firmNameRomanized": null,
+        "telegraphAddress": null,
+        "telephone": "30250"
+      },
+      {
+        "address": "23 Nanking-rd",
+        "firmNameChinese": "海珊",
+        "firmNameEnglish": "Hesse, Albert",
+        "firmNameRomanized": null,
+        "telegraphAddress": "Albhesse",
+        "telephone": "10684"
+      },
+      {
+        "address": "34 Museum-rd",
+        "firmNameChinese": "英國風鋼冶金聯合會",
+        "firmNameEnglish": "High Speed Steel\nAlloys, Ld.",
+        "firmNameRomanized": "Ying-kuo-fung-kang-yeh-\nchin-licn-ho-wei",
+        "telegraphAddress": "Dannemora",
+        "telephone": "11921"
+      },
+      {
+        "address": "A45-7, Lane 182 Broadway",
+        "firmNameChinese": "樞口通關所",
+        "firmNameEnglish": "Higuchi & Co.",
+        "firmNameRomanized": "Tung-kou",
+        "telegraphAddress": "Higuchi",
+        "telephone": "40263, 43474, 43800"
+      },
+      {
+        "address": "Sassoon House",
+        "firmNameChinese": "海達",
+        "firmNameEnglish": "Hilden & Co.",
+        "firmNameRomanized": null,
+        "telegraphAddress": "Hildeco",
+        "telephone": "14131"
+      },
+      {
+        "address": "39 Peking-rd",
+        "firmNameChinese": "益路牙醫師",
+        "firmNameEnglish": "Hill, Dr. R. Stuart",
+        "firmNameRomanized": null,
+        "telegraphAddress": null,
+        "telephone": "10101"
+      },
+      {
+        "address": "24 Central-rd",
+        "firmNameChinese": null,
+        "firmNameEnglish": "Hillaly & David",
+        "firmNameRomanized": null,
+        "telegraphAddress": "Coalliance",
+        "telephone": "11567, 14739"
+      },
+      {
+        "address": "330 Szechuen-rd",
+        "firmNameChinese": "時寶",
+        "firmNameEnglish": "Hils & Co.",
+        "firmNameRomanized": "Sze-pao",
+        "telegraphAddress": "Hilco",
+        "telephone": "14333"
+      },
+      {
+        "address": "103 Kiukiang-rd",
+        "firmNameChinese": "恆士寶",
+        "firmNameEnglish": "Hilsberg, Wm.",
+        "firmNameRomanized": "Hung-see-pao",
+        "telegraphAddress": "Whilsberg",
+        "telephone": "18938"
+      },
+      {
+        "address": "100 Central Arcade",
+        "firmNameChinese": "興榮花邊公司",
+        "firmNameEnglish": "Hinds & Barrs",
+        "firmNameRomanized": null,
+        "telegraphAddress": "Hindsbarr",
+        "telephone": "15155"
+      },
+      {
+        "address": "45 Museum-rd",
+        "firmNameChinese": "亨記",
+        "firmNameEnglish": "Hing Wing Lace Co.",
+        "firmNameRomanized": "Hang-kee",
+        "telegraphAddress": "4932",
+        "telephone": "14013"
+      },
+      {
+        "address": "128 Museum-rd",
+        "firmNameChinese": "協成公司",
+        "firmNameEnglish": "Hinkel, W. Carl",
+        "firmNameRomanized": "Yah-zung-kung-sze",
+        "telegraphAddress": "Hinkelman",
+        "telephone": "19044"
+      },
+      {
+        "address": "143 Nanking-rd",
+        "firmNameChinese": "廣中商會",
+        "firmNameEnglish": "Hip Seng Co., The",
+        "firmNameRomanized": null,
+        "telegraphAddress": "Hipseng",
+        "telephone": "16704"
+      },
+      {
+        "address": "49 Broadway",
+        "firmNameChinese": "永昌",
+        "firmNameEnglish": "Hironaka Shokai",
+        "firmNameRomanized": "Yung-chang",
+        "telegraphAddress": "Hirokikai",
+        "telephone": "40152-3"
+      },
+      {
+        "address": "659 Szechuen-rd",
+        "firmNameChinese": null,
+        "firmNameEnglish": "Hirsbrunner & Co.",
+        "firmNameRomanized": null,
+        "telegraphAddress": "Hirsbruner",
+        "telephone": "15138"
+      },
+      {
+        "address": "16 Central-rd",
+        "firmNameChinese": "和昌",
+        "firmNameEnglish": "Ho, Charles K.",
+        "firmNameRomanized": "Ho-chang",
+        "telegraphAddress": null,
+        "telephone": "16678, 11873"
+      },
+      {
+        "address": "47 Ningpo-rd",
+        "firmNameChinese": "和成銀行",
+        "firmNameEnglish": "Hochang & Co.",
+        "firmNameRomanized": null,
+        "telegraphAddress": "Hochang",
+        "telephone": "16057"
+      },
+      {
+        "address": "276 Kiukiang-rd",
+        "firmNameChinese": null,
+        "firmNameEnglish": "Ho Cheng Bank, Ltd.",
+        "firmNameRomanized": null,
+        "telegraphAddress": "Kengee or 4456",
+        "telephone": "95562, 95862"
+      },
+      {
+        "address": "119 H. & S. Bank Bldg",
+        "firmNameChinese": "漢記",
+        "firmNameEnglish": "Hodges, H. M.",
+        "firmNameRomanized": "Hoen-kee",
+        "telegraphAddress": "Traveller",
+        "telephone": "18565"
+      },
+      {
+        "address": "220 Szechuen-rd",
+        "firmNameChinese": "和業行",
+        "firmNameEnglish": "Hoehnke, Frithjof",
+        "firmNameRomanized": null,
+        "telegraphAddress": "Hoehnke",
+        "telephone": "18765"
+      },
+      {
+        "address": "620 Szechuen-rd",
+        "firmNameChinese": null,
+        "firmNameEnglish": "Hoeng & Co.",
+        "firmNameRomanized": null,
+        "telegraphAddress": "6999",
+        "telephone": "13490"
+      },
+      {
+        "address": "7 Av. Edward VII",
+        "firmNameChinese": null,
+        "firmNameEnglish": "Hoffmann, Oskar, M.D.",
+        "firmNameRomanized": null,
+        "telegraphAddress": null,
+        "telephone": "88561"
+      },
+      {
+        "address": "255 Peking-rd",
+        "firmNameChinese": "禾豐贿易公司",
+        "firmNameEnglish": "Hoffmann-La Roche, Ltd.",
+        "firmNameRomanized": "Ho-foong",
+        "telegraphAddress": "Hofroche",
+        "telephone": "14248"
+      },
+      {
+        "address": "136 Canton-rd",
+        "firmNameChinese": null,
+        "firmNameEnglish": "Hofoong Trading Co.",
+        "firmNameRomanized": null,
+        "telegraphAddress": "Hofoong",
+        "telephone": "18581"
+      },
+      {
+        "address": "Sassoon House",
+        "firmNameChinese": null,
+        "firmNameEnglish": "Hoggard-Sigler",
+        "firmNameRomanized": null,
+        "telegraphAddress": "Hosig",
+        "telephone": "17374"
+      },
+      {
+        "address": "131 Museum-rd",
+        "firmNameChinese": "洪恩",
+        "firmNameEnglish": "Hohn China Co.",
+        "firmNameRomanized": "Ho-an",
+        "telegraphAddress": "Hohn",
+        "telephone": "14347"
+      },
+      {
+        "address": "320 Kiangse-rd",
+        "firmNameChinese": "好時",
+        "firmNameEnglish": "Holland-China Trading Co. (Shanghai), Ld.",
+        "firmNameRomanized": "Hou-tsz",
+        "telegraphAddress": "Holchihand",
+        "telephone": "18184"
+      },
+      {
+        "address": "128 Museum-rd",
+        "firmNameChinese": "霍利途牙醫師",
+        "firmNameEnglish": "Hollender, Dr. F. M.",
+        "firmNameRomanized": null,
+        "telegraphAddress": null,
+        "telephone": "13777"
+      },
+      {
+        "address": "59 Peking-rd",
+        "firmNameChinese": "好柏醫生",
+        "firmNameEnglish": "Holper, Dr. R.",
+        "firmNameRomanized": "Hao-pei-yi-sen",
+        "telegraphAddress": null,
+        "telephone": "10734"
+      },
+      {
+        "address": null,
+        "firmNameChinese": "藍烟肉輪船碼頭浦東",
+        "firmNameEnglish": "Holt's Wharf",
+        "firmNameRomanized": "Lan-yen-tung-lun-ch'uen-mar-teo-poo-tung",
+        "telegraphAddress": null,
+        "telephone": "51958"
+      },
+      {
+        "address": "267 Kiangse-rd",
+        "firmNameChinese": null,
+        "firmNameEnglish": "Home Magazine and Book Library",
+        "firmNameRomanized": null,
+        "telegraphAddress": null,
+        "telephone": "14189"
+      },
+      {
+        "address": "Corner of Hungjiao and Columbia-rds",
+        "firmNameChinese": "美國菜園",
+        "firmNameEnglish": "Homeside Farms",
+        "firmNameRomanized": null,
+        "telegraphAddress": null,
+        "telephone": "77831"
+      },
+      {
+        "address": "320 Szechuen-rd",
+        "firmNameChinese": "美商同昌",
+        "firmNameEnglish": "Hong Chong Co.",
+        "firmNameRomanized": null,
+        "telegraphAddress": "Kaico",
+        "telephone": "19540"
+      },
+      {
+        "address": "10, Lane 583 Chekiang-rd",
+        "firmNameChinese": "鴻利五金號",
+        "firmNameEnglish": "Hong Lee & Co.",
+        "firmNameRomanized": null,
+        "telegraphAddress": null,
+        "telephone": "96585"
+      },
+      {
+        "address": "16 Siking-rd",
+        "firmNameChinese": "安鞋商行",
+        "firmNameEnglish": "Hong Sung Co.",
+        "firmNameRomanized": null,
+        "telegraphAddress": "Honsun",
+        "telephone": "14436"
+      },
+      {
+        "address": "363 Bubbling Well-rd",
+        "firmNameChinese": "鴻翔公司",
+        "firmNameEnglish": "Hong Zang & Co.",
+        "firmNameRomanized": "Hoong-ziang-kung-sze",
+        "telegraphAddress": null,
+        "telephone": "32267, 36270"
+      },
+      {
+        "address": "1 The Bund",
+        "firmNameChinese": "鴻基售品有限公司",
+        "firmNameEnglish": "Hongay Sales, Ld.",
+        "firmNameRomanized": "Hung-kee-chin-ping-yu-hsien-kung-sze",
+        "telegraphAddress": "Dupuy",
+        "telephone": "13042"
+      },
+      {
+        "address": "1 The Bund",
+        "firmNameChinese": null,
+        "firmNameEnglish": "Hongkong Clays & Kaolin Co., Ld.",
+        "firmNameRomanized": null,
+        "telegraphAddress": "Macbain",
+        "telephone": "11174"
+      },
+      {
+        "address": "27 The Bund",
+        "firmNameChinese": null,
+        "firmNameEnglish": "Hongkong Fire Insurance Co., Ld., The",
+        "firmNameRomanized": null,
+        "telegraphAddress": null,
+        "telephone": "15290"
+      },
+      {
+        "address": "12 The Bund",
+        "firmNameChinese": "灨豐銀行",
+        "firmNameEnglish": "Hongkong & Shanghai Banking Corporation",
+        "firmNameRomanized": "Way-foong-ning-hong",
+        "telegraphAddress": "Wayfoong",
+        "telephone": "12830"
+      },
+      {
+        "address": "23 Nanking-rd",
+        "firmNameChinese": "上海香港飯店有限公司",
+        "firmNameEnglish": "Hongkong & Shanghai Hotels, Ld.",
+        "firmNameRomanized": "Hong-kong-Shang-hai va-zi-yu-han-kung-sze",
+        "telegraphAddress": "Palace",
+        "telephone": "18030"
+      },
+      {
+        "address": "17 Museum-rd",
+        "firmNameChinese": "香港公司",
+        "firmNameEnglish": "Hongkong & Shanghai Lace Co.",
+        "firmNameRomanized": "Hong-kong-kung-sze",
+        "telegraphAddress": "Lacewinged",
+        "telephone": "16071"
+      },
+      {
+        "address": "23-27 Ningpo-rd",
+        "firmNameChinese": "上海合昌篷帆五金號",
+        "firmNameEnglish": "Hop Chong Co.",
+        "firmNameRomanized": null,
+        "telegraphAddress": "Canvas or 2217",
+        "telephone": "10360, 17694"
+      },
+      {
+        "address": "133 Yuen Ming Yuen-rd",
+        "firmNameChinese": "安普",
+        "firmNameEnglish": "Hope & Co., Bert",
+        "firmNameRomanized": "Er-Pu",
+        "telegraphAddress": "Hopes",
+        "telephone": "18366"
+      },
+      {
+        "address": "262 Nanking-rd",
+        "firmNameChinese": "亨逢利總行",
+        "firmNameEnglish": "Hope Brothers & Co. Ld",
+        "firmNameRomanized": "Han-ta-li",
+        "telegraphAddress": null,
+        "telephone": "11802, 14561"
+      },
+      {
+        "address": "262-4 Rte de Say Zoong",
+        "firmNameChinese": "葉昌洋酒食品號",
+        "firmNameEnglish": "Hope Chong & Co.",
+        "firmNameRomanized": null,
+        "telegraphAddress": null,
+        "telephone": "71116"
+      },
+      {
+        "address": "594 Thorburn-rd",
+        "firmNameChinese": "霍葛調品公司",
+        "firmNameEnglish": "Hope Crittall (China), Ld.",
+        "firmNameRomanized": null,
+        "telegraphAddress": null,
+        "telephone": "52220, 52229"
+      },
+      {
+        "address": "467 Kiangse-rd",
+        "firmNameChinese": "允平公證行",
+        "firmNameEnglish": "Hopkins, T. F. E.",
+        "firmNameRomanized": "Ying-bing-kung-tseng-hong",
+        "telegraphAddress": "Hwafoong",
+        "telephone": "11482"
+      },
+      {
+        "address": "209 Yuen Ming Yuen-rd",
+        "firmNameChinese": "好柏士",
+        "firmNameEnglish": "Horbacz, J. B.",
+        "firmNameRomanized": "Ho-ba-tse-yang-hang",
+        "telegraphAddress": "Horbacz",
+        "telephone": "19086"
+      },
+      {
+        "address": "12 The Bund",
+        "firmNameChinese": "壁光公司",
+        "firmNameEnglish": "Horn, J. G. S.",
+        "firmNameRomanized": "Pih-kwang-kung-sze",
+        "telegraphAddress": "Vitrax",
+        "telephone": "18410"
+      },
+      {
+        "address": "12 The Bund",
+        "firmNameChinese": null,
+        "firmNameEnglish": "Horn Trading Co.",
+        "firmNameRomanized": null,
+        "telegraphAddress": "Hornco",
+        "telephone": "18410"
+      },
+      {
+        "address": "120 Jinkeo-rd",
+        "firmNameChinese": null,
+        "firmNameEnglish": "Horse and Hound Tavern",
+        "firmNameRomanized": null,
+        "telegraphAddress": null,
+        "telephone": "10681"
+      },
+      {
+        "address": "1531 Sinza-rd",
+        "firmNameChinese": null,
+        "firmNameEnglish": "China Inland Mission Hospital",
+        "firmNameRomanized": null,
+        "telegraphAddress": null,
+        "telephone": "32099"
+      },
+      {
+        "address": "39 Av. Edward VII",
+        "firmNameChinese": "古發",
+        "firmNameEnglish": "Gutbezahl Trading Corp., Alexander",
+        "firmNameRomanized": "Gu-fah",
+        "telegraphAddress": "Bragu",
+        "telephone": "85264-88101"
+      },
+      {
+        "address": "7-A The Bund",
+        "firmNameChinese": null,
+        "firmNameEnglish": "Gutfur, Inc.",
+        "firmNameRomanized": null,
+        "telegraphAddress": "Gutfur",
+        "telephone": "18852"
+      },
+      {
+        "address": "119 Jinkee-rd",
+        "firmNameChinese": "裕隆",
+        "firmNameEnglish": "Habibullah Co., H. M.",
+        "firmNameRomanized": "Yue-loong",
+        "telegraphAddress": "Habibullah",
+        "telephone": "19313"
+      },
+      {
+        "address": "416 Szechuen-rd",
+        "firmNameChinese": "歡迎",
+        "firmNameEnglish": "Hadjiry's Tobacco Co.",
+        "firmNameRomanized": "Huan-ying",
+        "telegraphAddress": null,
+        "telephone": "16133"
+      },
+      {
+        "address": "133 Yuen Ming Yuen-rd",
+        "firmNameChinese": "義信",
+        "firmNameEnglish": "Haeusing, W.",
+        "firmNameRomanized": "Ni-sing",
+        "telegraphAddress": "Jobicum",
+        "telephone": "16181"
+      },
+      {
+        "address": "1162 Av Joffre",
+        "firmNameChinese": "漢恩",
+        "firmNameEnglish": "Hahn, L. P.",
+        "firmNameRomanized": null,
+        "telegraphAddress": "Pohan",
+        "telephone": "79337"
+      },
+      {
+        "address": "650 Szechuen-rd",
+        "firmNameChinese": "美甜",
+        "firmNameEnglish": "Haider & Co., G.",
+        "firmNameRomanized": "San-toa",
+        "telegraphAddress": "Haid",
+        "telephone": "13637"
+      },
+      {
+        "address": "343 Av. Haig",
+        "firmNameChinese": null,
+        "firmNameEnglish": "Haig Apartments",
+        "firmNameRomanized": null,
+        "telegraphAddress": null,
+        "telephone": null
+      },
+      {
+        "address": "400 Av. Haig",
+        "firmNameChinese": null,
+        "firmNameEnglish": "Haig Court",
+        "firmNameRomanized": null,
+        "telegraphAddress": null,
+        "telephone": "72748"
+      },
+      {
+        "address": "169 Yuen Ming Yuen-rd",
+        "firmNameChinese": null,
+        "firmNameEnglish": "Hajek, H. J.",
+        "firmNameRomanized": null,
+        "telegraphAddress": null,
+        "telephone": "14088, 76506"
+      },
+      {
+        "address": "61 Museum-rd",
+        "firmNameChinese": "乾元工程處",
+        "firmNameEnglish": "Hall & Hall",
+        "firmNameRomanized": "Kin-yuen",
+        "telegraphAddress": "Hallaw",
+        "telephone": "11780, 11789"
+      },
+      {
+        "address": "190-208 Bubbling Well-rd",
+        "firmNameChinese": "英商福利有限公司",
+        "firmNameEnglish": "Hall & Holtz, Ld.",
+        "firmNameRomanized": "Ying-shan-fuh-lee-yu-chung-sze",
+        "telegraphAddress": "Fuhlee",
+        "telephone": "39111"
+      },
+      {
+        "address": "169 Yuen Ming Yuen-rd",
+        "firmNameChinese": "日用指明",
+        "firmNameEnglish": "Hallock's Chinese Almanac",
+        "firmNameRomanized": "Jih-yung-1sz-ming",
+        "telegraphAddress": "Haloheme",
+        "telephone": null
+      },
+      {
+        "address": "357 Av Roi Albert",
+        "firmNameChinese": "韓芬醫師",
+        "firmNameEnglish": "Halpern, Dr. Fanny G.",
+        "firmNameRomanized": null,
+        "telegraphAddress": null,
+        "telephone": "73931"
+      },
+      {
+        "address": "20 Canton-rd",
+        "firmNameChinese": "亨寶輸船公司",
+        "firmNameEnglish": "Hamburg-Amerika Linie",
+        "firmNameRomanized": "Hang-pao-kung-sze",
+        "telegraphAddress": "Hapag",
+        "telephone": "18709"
+      },
+      {
+        "address": "287 Av. du Roi Albert",
+        "firmNameChinese": null,
+        "firmNameEnglish": "Hamilton, Mme Sarah",
+        "firmNameRomanized": null,
+        "telegraphAddress": null,
+        "telephone": "70639"
+      },
+      {
+        "address": "266 Peking-rd",
+        "firmNameChinese": "漢簡敦",
+        "firmNameEnglish": "Hamilton & Co., James",
+        "firmNameRomanized": "Han-me-ten",
+        "telegraphAddress": "Hamra",
+        "telephone": "12033"
+      },
+      {
+        "address": "1531 Bubbling Well-rd",
+        "firmNameChinese": "英商海美登洗染",
+        "firmNameEnglish": "Hamilton Co., Ld.",
+        "firmNameRomanized": "Mei-shang-hai-mei-tong-sian-jan",
+        "telegraphAddress": null,
+        "telephone": "32004"
+      },
+      {
+        "address": null,
+        "firmNameChinese": null,
+        "firmNameEnglish": "Hamilton House",
+        "firmNameRomanized": null,
+        "telegraphAddress": null,
+        "telephone": null
+      },
+      {
+        "address": "221 Nanking-rd",
+        "firmNameChinese": "漢登照相館",
+        "firmNameEnglish": "Hamilton Studio",
+        "firmNameRomanized": null,
+        "telegraphAddress": null,
+        "telephone": "19900"
+      },
+      {
+        "address": "Sassoon House",
+        "firmNameChinese": null,
+        "firmNameEnglish": "Hamilton Trust Co., Ld.",
+        "firmNameRomanized": null,
+        "telegraphAddress": null,
+        "telephone": "11430"
+      },
+      {
+        "address": "131 Museum-rd",
+        "firmNameChinese": "華茂",
+        "firmNameEnglish": "Hammond & Co.",
+        "firmNameRomanized": "Wah-mow",
+        "telegraphAddress": "Hammondco",
+        "telephone": "19866"
+      },
+      {
+        "address": "33 Szechuen-rd",
+        "firmNameChinese": "漢治洋鐵寬鑽有限公司",
+        "firmNameEnglish": "Han Yeh Ping Iron & Coal Co., Ld.",
+        "firmNameRomanized": "Haw-yeh-ping-mei-tich-chang-kwan-yu-han-kung-sze",
+        "telegraphAddress": "Hansteel",
+        "telephone": "12731"
+      },
+      {
+        "address": "94 Broadway",
+        "firmNameChinese": "水手飯店",
+        "firmNameEnglish": "Hanbury Institute and Sailors' Home",
+        "firmNameRomanized": "Shui-shou-jian-lun",
+        "telegraphAddress": null,
+        "telephone": "41140"
+      },
+      {
+        "address": "277 Liaoyang-rd",
+        "firmNameChinese": null,
+        "firmNameEnglish": "Handel, Ernest",
+        "firmNameRomanized": null,
+        "telegraphAddress": null,
+        "telephone": "51240"
+      },
+      {
+        "address": "170 Kiangse-rd",
+        "firmNameChinese": "杭州電氣股份有限公司管理處",
+        "firmNameEnglish": "Hangchow Electricity Co., Ltd.",
+        "firmNameRomanized": "Hang-chow-tien-chee-ku-feng-yu-hsien-kung-sze-kuan-lee-chu",
+        "telegraphAddress": "4552",
+        "telephone": "12185"
+      },
+      {
+        "address": "310 Boone-rd",
+        "firmNameChinese": "株式會社漢口銀行",
+        "firmNameEnglish": "Hankow Bank, Ld.",
+        "firmNameRomanized": null,
+        "telegraphAddress": null,
+        "telephone": "42230"
+      },
+      {
+        "address": "17 The Bund",
+        "firmNameChinese": "美亞",
+        "firmNameEnglish": "Hanover Fire Insurance Co.",
+        "firmNameRomanized": "Mei-ya",
+        "telegraphAddress": "Underitors",
+        "telephone": "11144"
+      },
+      {
+        "address": "1162 Ave. Joffre",
+        "firmNameChinese": null,
+        "firmNameEnglish": "Hanray Mansions",
+        "firmNameRomanized": null,
+        "telegraphAddress": null,
+        "telephone": "77076"
+      },
+      {
+        "address": "256 Broadway",
+        "firmNameChinese": "享時轉運公司",
+        "firmNameEnglish": "Hansa Transport",
+        "firmNameRomanized": null,
+        "telegraphAddress": "Hansatrans",
+        "telephone": "44255"
+      },
+      {
+        "address": "285 Burkill-rd",
+        "firmNameChinese": "新鑫泰彈子恰製造廢",
+        "firmNameEnglish": "Hanson Billiard Table Manufacturers",
+        "firmNameRomanized": null,
+        "telegraphAddress": null,
+        "telephone": "62429, 74517, 93883"
+      },
+      {
+        "address": "49 Szechuen-rd",
+        "firmNameChinese": "高易",
+        "firmNameEnglish": "Hansons",
+        "firmNameRomanized": "Kau-yih",
+        "telegraphAddress": "Professo",
+        "telephone": "18605"
+      },
+      {
+        "address": "S1 Jinkee-rd",
+        "firmNameChinese": "漢騰",
+        "firmNameEnglish": "Hanton & Co., L.",
+        "firmNameRomanized": null,
+        "telegraphAddress": null,
+        "telephone": "14795"
+      },
+      {
+        "address": "110 Szechuen-rd",
+        "firmNameChinese": "原利一法律事務所",
+        "firmNameEnglish": "Hara's Law Office",
+        "firmNameRomanized": null,
+        "telegraphAddress": null,
+        "telephone": "14217"
+      },
+      {
+        "address": "109 Rte Vallon",
+        "firmNameChinese": null,
+        "firmNameEnglish": "Harbin Provision Co.",
+        "firmNameRomanized": null,
+        "telegraphAddress": "Paster",
+        "telephone": "74663"
+      },
+      {
+        "address": "34 Av Edward VII",
+        "firmNameChinese": null,
+        "firmNameEnglish": "Hardivilliers, Francois d'",
+        "firmNameRomanized": null,
+        "telegraphAddress": "Franbet",
+        "telephone": "10662, 14850"
+      },
+      {
+        "address": "320 Szechuen-rd",
+        "firmNameChinese": "哈同遊出口行",
+        "firmNameEnglish": "Hardoon & Co., R. S.",
+        "firmNameRomanized": null,
+        "telegraphAddress": "Robin",
+        "telephone": "12018"
+      },
+      {
+        "address": "115 Yuen Ming Yuen-rd",
+        "firmNameChinese": "漢成",
+        "firmNameEnglish": "Hargen & Co., C.",
+        "firmNameRomanized": "Har-gen",
+        "telegraphAddress": "Hargenode",
+        "telephone": "17086"
+      },
+      {
+        "address": "12 The Bund",
+        "firmNameChinese": "赫金公司",
+        "firmNameEnglish": "Harking Importers & Exporters",
+        "firmNameRomanized": "Hai-ching-kung-sze",
+        "telegraphAddress": "Harking",
+        "telephone": "14825"
+      },
+      {
+        "address": "261 Kiangse-rd",
+        "firmNameChinese": "海列司",
+        "firmNameEnglish": "Harris, H. E.",
+        "firmNameRomanized": "Har-ris",
+        "telegraphAddress": "Harken",
+        "telephone": "19202"
+      },
+      {
+        "address": "549 Szechuen-rd",
+        "firmNameChinese": "錦隆",
+        "firmNameEnglish": "Harrisons, King & Irwin, Ld.",
+        "firmNameRomanized": "Chin-loong",
+        "telegraphAddress": "Crosfield",
+        "telephone": "15510"
+      },
+      {
+        "address": "392 East Seward-rd",
+        "firmNameChinese": "赫逢",
+        "firmNameEnglish": "Hart Engineering Co.",
+        "firmNameRomanized": "Huh-dah",
+        "telegraphAddress": "Harengco",
+        "telephone": "46955"
+      },
+      {
+        "address": "255 Rue Amiral Courbet",
+        "firmNameChinese": null,
+        "firmNameEnglish": "Hartmann-Balazs, S.",
+        "firmNameRomanized": null,
+        "telegraphAddress": null,
+        "telephone": "75335"
+      },
+      {
+        "address": "59 Peking-rd",
+        "firmNameChinese": "哈託布律師",
+        "firmNameEnglish": "Hartopp, Edward L.",
+        "firmNameRomanized": null,
+        "telegraphAddress": null,
+        "telephone": "14061"
+      },
+      {
+        "address": "730 Av. Foch",
+        "firmNameChinese": "上海亞德",
+        "firmNameEnglish": "Hartzenbusch Motors",
+        "firmNameRomanized": "Shang-hai-ah-tuck",
+        "telegraphAddress": null,
+        "telephone": "30103"
+      },
+      {
+        "address": "Pootung",
+        "firmNameChinese": "哈惠氏造船廠有限公司",
+        "firmNameEnglish": "Harvey's Shipbuilding Works, Ld.",
+        "firmNameRomanized": null,
+        "telegraphAddress": "Harvey",
+        "telephone": "17866"
+      },
+      {
+        "address": "169 Yuen Ming Yuen-rd",
+        "firmNameChinese": "泰慎",
+        "firmNameEnglish": "Harvey, Main & Co., Ld.",
+        "firmNameRomanized": "Tai-zung",
+        "telegraphAddress": "Harvimain",
+        "telephone": "11110"
+      },
+      {
+        "address": "659 Szechuen-rd",
+        "firmNameChinese": "喊鳳",
+        "firmNameEnglish": "Harvie, Cooke & Co. Ld.",
+        "firmNameRomanized": "Wai-lee",
+        "telegraphAddress": "Monogram",
+        "telephone": "18634"
+      },
+      {
+        "address": "210 Szechuen-rd",
+        "firmNameChinese": null,
+        "firmNameEnglish": "Gestetner (Eastern), Ld., D.",
+        "firmNameRomanized": null,
+        "telegraphAddress": null,
+        "telephone": "14793"
+      },
+      {
+        "address": "66 Nanking-rd",
+        "firmNameChinese": "美商吉時",
+        "firmNameEnglish": "Getz Bros. & Co.",
+        "firmNameRomanized": "Gel-se",
+        "telegraphAddress": "Getz",
+        "telephone": "16852"
+      },
+      {
+        "address": "261 Ave Du Roi Albert",
+        "firmNameChinese": null,
+        "firmNameEnglish": "Gewing's Bargain Shop",
+        "firmNameRomanized": null,
+        "telegraphAddress": null,
+        "telephone": "78045"
+      },
+      {
+        "address": "100 Jinkee-rd",
+        "firmNameChinese": "仁記",
+        "firmNameEnglish": "Gibb, Livingston & Co., Ld.",
+        "firmNameRomanized": "Zung-che",
+        "telegraphAddress": "Gibb",
+        "telephone": "16946, 16947, 19221"
+      },
+      {
+        "address": "88 Museum-rd",
+        "firmNameChinese": "仁德",
+        "firmNameEnglish": "Gibson & Co., Ld., H. L.",
+        "firmNameRomanized": "Zung-tuck",
+        "telegraphAddress": "Multiple",
+        "telephone": "15979"
+      },
+      {
+        "address": "14 Museum-rd",
+        "firmNameChinese": "杜茂",
+        "firmNameEnglish": "Gidumal (O.K.) & Watumull, Ld.",
+        "firmNameRomanized": "Doo-mow",
+        "telegraphAddress": "Kamanico",
+        "telephone": "13717"
+      },
+      {
+        "address": "15 Kiukiang-rd",
+        "firmNameChinese": null,
+        "firmNameEnglish": "Giese, Olaf",
+        "firmNameRomanized": null,
+        "telegraphAddress": "Blewey",
+        "telephone": "10951, 19211"
+      },
+      {
+        "address": "114 Peking-rd",
+        "firmNameChinese": "吉貝",
+        "firmNameEnglish": "Gillespie Co., A. T.",
+        "firmNameRomanized": "Chi-pei",
+        "telegraphAddress": "Atgill",
+        "telephone": "12387"
+      },
+      {
+        "address": "100 Jinkee-rd",
+        "firmNameChinese": "保昌",
+        "firmNameEnglish": "Gilson, E. H.",
+        "firmNameRomanized": "Pao-chong",
+        "telegraphAddress": "Gilson",
+        "telephone": "17378"
+      },
+      {
+        "address": "205 Rte Mercier",
+        "firmNameChinese": null,
+        "firmNameEnglish": "Gingeroff, Mme. N.",
+        "firmNameRomanized": null,
+        "telegraphAddress": null,
+        "telephone": "76408"
+      },
+      {
+        "address": "150 Rte des Sœurs",
+        "firmNameChinese": null,
+        "firmNameEnglish": "Ginsbourg, Alexander B.",
+        "firmNameRomanized": null,
+        "telegraphAddress": null,
+        "telephone": "75914"
+      },
+      {
+        "address": "150 Rte des Sœurs",
+        "firmNameChinese": null,
+        "firmNameEnglish": "Ginsbourg, Anna",
+        "firmNameRomanized": null,
+        "telegraphAddress": null,
+        "telephone": "75914"
+      },
+      {
+        "address": "12 The Bund",
+        "firmNameChinese": "大鼎",
+        "firmNameEnglish": "Glagowski, Hermann",
+        "firmNameRomanized": "Dah-ting",
+        "telegraphAddress": "Glagowski",
+        "telephone": "13340"
+      },
+      {
+        "address": "1158 Av Joffre",
+        "firmNameChinese": null,
+        "firmNameEnglish": "Glamour Gowns— Paulette",
+        "firmNameRomanized": null,
+        "telegraphAddress": null,
+        "telephone": "77672"
+      },
+      {
+        "address": "103 Kiukiang-rd",
+        "firmNameChinese": null,
+        "firmNameEnglish": "Glaser, R. R.",
+        "firmNameRomanized": null,
+        "telegraphAddress": null,
+        "telephone": "18047"
+      },
+      {
+        "address": "33 Szechuen-rd",
+        "firmNameChinese": "瑞豐",
+        "firmNameEnglish": "Glaser & Co.",
+        "firmNameRomanized": "Ray-foong",
+        "telegraphAddress": "Glaser",
+        "telephone": "13614"
+      },
+      {
+        "address": "934 Bubbling Well-rd",
+        "firmNameChinese": null,
+        "firmNameEnglish": "Glass, Georg, M.D.",
+        "firmNameRomanized": null,
+        "telegraphAddress": null,
+        "telephone": "31043"
+      },
+      {
+        "address": "410 Szechuen-rd",
+        "firmNameChinese": "雅利",
+        "firmNameEnglish": "Glathe & Witt",
+        "firmNameRomanized": "Ya-li",
+        "telegraphAddress": "Safeguard",
+        "telephone": "15638"
+      },
+      {
+        "address": "51 Canton-rd",
+        "firmNameChinese": "環球無綫電報公司",
+        "firmNameEnglish": "Globe Wireless, Ld.",
+        "firmNameRomanized": "Kwei-ju-wu-sien-tien-pao-kung-sze",
+        "telegraphAddress": "Globe",
+        "telephone": "15036"
+      },
+      {
+        "address": "346 Szechuen-rd",
+        "firmNameChinese": null,
+        "firmNameEnglish": "Glogau, Dr. H., M.D.",
+        "firmNameRomanized": null,
+        "telegraphAddress": null,
+        "telephone": "16719"
+      },
+      {
+        "address": "109 Central Arcade",
+        "firmNameChinese": "高德醫生",
+        "firmNameEnglish": "Goddard, Dr. John",
+        "firmNameRomanized": "Kau-teh-e-sung",
+        "telegraphAddress": null,
+        "telephone": "11928"
+      },
+      {
+        "address": "12 The Bund",
+        "firmNameChinese": "高福瑞船務",
+        "firmNameEnglish": "Godfrey & Co., F. S.",
+        "firmNameRomanized": null,
+        "telegraphAddress": "Charter or Godfrey",
+        "telephone": "19892"
+      },
+      {
+        "address": "992 Bubbling Well-rd",
+        "firmNameChinese": "吉士醫學博士",
+        "firmNameEnglish": "Goetz, Dr. Alfred, M.D.",
+        "firmNameRomanized": null,
+        "telegraphAddress": null,
+        "telephone": "60003"
+      },
+      {
+        "address": "1 Rue Massenet",
+        "firmNameChinese": null,
+        "firmNameEnglish": "Gohdo Department Store",
+        "firmNameRomanized": null,
+        "telegraphAddress": null,
+        "telephone": "81714, 88136"
+      },
+      {
+        "address": "320 Szechuen-rd",
+        "firmNameChinese": "高德",
+        "firmNameEnglish": "Gold & Bro., Inc., A. S.",
+        "firmNameRomanized": "Kau-teh",
+        "telegraphAddress": "Goldbrofur",
+        "telephone": "17356"
+      },
+      {
+        "address": "437 Rue Ratard",
+        "firmNameChinese": null,
+        "firmNameEnglish": "Gold Dragon Apartments",
+        "firmNameRomanized": null,
+        "telegraphAddress": null,
+        "telephone": null
+      },
+      {
+        "address": "170 Kiangse-rd",
+        "firmNameChinese": null,
+        "firmNameEnglish": "Goldberg, Ernst, M.D.",
+        "firmNameRomanized": null,
+        "telegraphAddress": null,
+        "telephone": "13630"
+      },
+      {
+        "address": "1157 Bubbling Well-rd",
+        "firmNameChinese": null,
+        "firmNameEnglish": "Goldberg, Dr. I. A.",
+        "firmNameRomanized": null,
+        "telegraphAddress": null,
+        "telephone": "34546"
+      },
+      {
+        "address": "40 Ningpo-rd",
+        "firmNameChinese": null,
+        "firmNameEnglish": "Goldenberg, M.",
+        "firmNameRomanized": null,
+        "telegraphAddress": "Berggold",
+        "telephone": "17878"
+      },
+      {
+        "address": "246 Broadway",
+        "firmNameChinese": "金龍泰木器公司",
+        "firmNameEnglish": "Golden Dragon Co.",
+        "firmNameRomanized": "King-loong-tai-mo-chi-kung-sze",
+        "telegraphAddress": null,
+        "telephone": null
+      },
+      {
+        "address": "417 Bubbling Well-rd",
+        "firmNameChinese": "金龍地毯公司",
+        "firmNameEnglish": "Golden Dragon Rug Co.",
+        "firmNameRomanized": "Jeng-lung-dee-tan-kung-sze",
+        "telegraphAddress": "Dragrugeo",
+        "telephone": "34943"
+      },
+      {
+        "address": "451 Kiangse-rd",
+        "firmNameChinese": "金鷹獅牌藥茶行",
+        "firmNameEnglish": "Golden Griffin Medicinal Teas Co.",
+        "firmNameRomanized": "Chin-yin-sze-pai-yoh-tsar-hong",
+        "telegraphAddress": "Fulford",
+        "telephone": "12521"
+      },
+      {
+        "address": "747 Bubbling Well-rd",
+        "firmNameChinese": "金星地毯店",
+        "firmNameEnglish": "Golden Star Rug Co.",
+        "firmNameRomanized": null,
+        "telegraphAddress": null,
+        "telephone": "32706"
+      },
+      {
+        "address": "309 Rte Mercier",
+        "firmNameChinese": null,
+        "firmNameEnglish": "Goldwasser, I.",
+        "firmNameRomanized": null,
+        "telegraphAddress": null,
+        "telephone": "77839"
+      },
+      {
+        "address": "20 Canton-rd",
+        "firmNameChinese": "高留庭",
+        "firmNameEnglish": "Golding, F. W.",
+        "firmNameRomanized": "Gar-erh-ding",
+        "telegraphAddress": "Controller",
+        "telephone": "17849"
+      },
+      {
+        "address": "20 Canton-rd",
+        "firmNameChinese": "高亭",
+        "firmNameEnglish": "Golding & Golding",
+        "firmNameRomanized": "Ko-ting",
+        "telegraphAddress": "Verax",
+        "telephone": "17849"
+      },
+      {
+        "address": "818 Tongshan-rd",
+        "firmNameChinese": null,
+        "firmNameEnglish": "Goldschmidt, Dr. Louis",
+        "firmNameRomanized": null,
+        "telegraphAddress": null,
+        "telephone": "52563"
+      },
+      {
+        "address": "108 Rte Lorioz",
+        "firmNameChinese": "金士美醫學博士",
+        "firmNameEnglish": "Goldschmitt, Dr. S., M.D.",
+        "firmNameRomanized": null,
+        "telegraphAddress": null,
+        "telephone": "76240"
+      },
+      {
+        "address": "2 Yang-terr.",
+        "firmNameChinese": null,
+        "firmNameEnglish": "Goldstein, Dr. I.",
+        "firmNameRomanized": null,
+        "telegraphAddress": null,
+        "telephone": "38526"
+      },
+      {
+        "address": "2 Quai de France",
+        "firmNameChinese": null,
+        "firmNameEnglish": "Goltzman, M.",
+        "firmNameRomanized": null,
+        "telegraphAddress": "Goltzman",
+        "telephone": "81644"
+      },
+      {
+        "address": "160 Av. Edward VII",
+        "firmNameChinese": "鴻逢建築工程師",
+        "firmNameEnglish": "Gonda, C. H., B.A.",
+        "firmNameRomanized": null,
+        "telegraphAddress": null,
+        "telephone": "14341"
+      },
+      {
+        "address": "505 Honan-rd",
+        "firmNameChinese": "高達夫",
+        "firmNameEnglish": "Gonda Trading Co.",
+        "firmNameRomanized": "Kung-ta-hong",
+        "telegraphAddress": "Gonda",
+        "telephone": "93688"
+      },
+      {
+        "address": "81 Park-rd",
+        "firmNameChinese": "九大煤號",
+        "firmNameEnglish": "Good Coal Co.",
+        "firmNameRomanized": "Kiu-dah-may-hao",
+        "telegraphAddress": null,
+        "telephone": "30782"
+      },
+      {
+        "address": "185 Yuen Ming Yuen-rd",
+        "firmNameChinese": "美國古德立樸皮廈",
+        "firmNameEnglish": "Goodrich Co., B. F.",
+        "firmNameRomanized": "Goo-da-lee",
+        "telegraphAddress": "Dietz",
+        "telephone": "16077-8"
+      },
+      {
+        "address": "51 Canton-rd",
+        "firmNameChinese": null,
+        "firmNameEnglish": "Goodyear Tire and Rubber Export Co.",
+        "firmNameRomanized": null,
+        "telegraphAddress": "Goodyear",
+        "telephone": "11544"
+      },
+      {
+        "address": "307 Rte Vallon",
+        "firmNameChinese": "高達夫",
+        "firmNameEnglish": "Gordeeff, J. P.",
+        "firmNameRomanized": null,
+        "telegraphAddress": "Gordeeff",
+        "telephone": "75515"
+      },
+      {
+        "address": "220 Szechuen-rd",
+        "firmNameChinese": "高登醫師",
+        "firmNameEnglish": "Gordon, Dr. L., M.D.",
+        "firmNameRomanized": null,
+        "telegraphAddress": null,
+        "telephone": "13606"
+      },
+      {
+        "address": "185 Yuen Ming Yuen-rd",
+        "firmNameChinese": "願發利",
+        "firmNameEnglish": "Gordon & Co., Ltd.",
+        "firmNameRomanized": "Ku-fah-lee",
+        "telegraphAddress": "Hardware",
+        "telephone": "16077-8"
+      },
+      {
+        "address": "223 Szechuen-rd",
+        "firmNameChinese": "江商株式會社",
+        "firmNameEnglish": "Gosho Kabushiki Kaisha",
+        "firmNameRomanized": null,
+        "telegraphAddress": "Gosho",
+        "telephone": "14323, 16079, 18814, 16174, 16483"
+      },
+      {
+        "address": "18 The Bund",
+        "firmNameChinese": "英商駐華祥茂肥皂有限公司",
+        "firmNameEnglish": "Gossage & Sons (China), Ltd., William",
+        "firmNameRomanized": "Ying-shang-chu-hwa-chiang-maw-vee-tsao-you-hai-kung-sze",
+        "telegraphAddress": "Lever",
+        "telephone": "17327"
+      },
+      {
+        "address": "150 Route des Soeurs",
+        "firmNameChinese": "高司德",
+        "firmNameEnglish": "Gosta Trading Co.",
+        "firmNameRomanized": null,
+        "telegraphAddress": "Gosta",
+        "telephone": "71800"
+      },
+      {
+        "address": "209 Yuen Ming Yuen-rd",
+        "firmNameChinese": "發華",
+        "firmNameEnglish": "Grabig, Werner",
+        "firmNameRomanized": "Fa-hwa",
+        "telegraphAddress": "Fahwa",
+        "telephone": "12672"
+      },
+      {
+        "address": "118-120 Hongkong & Shanghai Bank Bldg",
+        "firmNameChinese": "軒蘭葛",
+        "firmNameEnglish": "Graciani, R. J.",
+        "firmNameRomanized": "Gla-shi",
+        "telegraphAddress": "Graciani",
+        "telephone": "12266"
+      },
+      {
+        "address": "190 Kiukiang-rd",
+        "firmNameChinese": null,
+        "firmNameEnglish": "Granada Estate, Ltd.",
+        "firmNameRomanized": null,
+        "telegraphAddress": "Invincible",
+        "telephone": "19726"
+      },
+      {
+        "address": "15 Kweichow-rd",
+        "firmNameChinese": "國光大藥房",
+        "firmNameEnglish": "Grand Dispensary",
+        "firmNameRomanized": null,
+        "telegraphAddress": "8990",
+        "telephone": "96764"
+      },
+      {
+        "address": "424-6 Av. Joffre",
+        "firmNameChinese": "法大汽車行",
+        "firmNameEnglish": "Grand Garage Francais",
+        "firmNameRomanized": "Fah-dah-chi-tso-hong",
+        "telegraphAddress": "Autoster",
+        "telephone": "84104"
+      },
+      {
+        "address": "177 Medburst-rd",
+        "firmNameChinese": "嘉倫女帽公司",
+        "firmNameEnglish": "Grand Ladies' Hat Mfg. Co.",
+        "firmNameRomanized": null,
+        "telegraphAddress": "Grandhat",
+        "telephone": "31533"
+      },
+      {
+        "address": "1677-81 Avenue-rd",
+        "firmNameChinese": "宏大修理汽車公司",
+        "firmNameEnglish": "Grand Motor Service",
+        "firmNameRomanized": "Hong-dah-siu-lee-che-cho-kung-sze",
+        "telegraphAddress": null,
+        "telephone": "3212S"
+      },
+      {
+        "address": "242 Bubbling Well-rd",
+        "firmNameChinese": "大同照相館",
+        "firmNameEnglish": "Grand Studio",
+        "firmNameRomanized": null,
+        "telegraphAddress": null,
+        "telephone": "35825, 36911"
+      },
+      {
+        "address": "238 Bubbling Well-rd",
+        "firmNameChinese": "大光明大戲院",
+        "firmNameEnglish": "Grand Theatre",
+        "firmNameRomanized": "Da-kwang-ming-da-shi-yuan",
+        "telegraphAddress": null,
+        "telephone": "32223, 34260"
+      },
+      {
+        "address": "Continental Bank Bldg",
+        "firmNameChinese": "利興地產公司",
+        "firmNameEnglish": "Gray, Jas. A.",
+        "firmNameRomanized": "Lee-shing-dee-tsai-kung-sze",
+        "telegraphAddress": null,
+        "telephone": "13096-7-S"
+      },
+      {
+        "address": "410 Szechuen-rd",
+        "firmNameChinese": "葛來",
+        "firmNameEnglish": "Gray, John, M.I.M.E., M.I.MECH.E. & A.M.I.-N.A.",
+        "firmNameRomanized": "Gar-lai",
+        "telegraphAddress": "Yarg",
+        "telephone": "16107"
+      },
+      {
+        "address": "161 Nanking-rd",
+        "firmNameChinese": "葛萊",
+        "firmNameEnglish": "Gray & Co., Ld., C. N.",
+        "firmNameRomanized": "Ga-ray",
+        "telegraphAddress": "Lewyarg",
+        "telephone": "17870"
+      },
+      {
+        "address": "113 Kinkiang-rd",
+        "firmNameChinese": "利興",
+        "firmNameEnglish": "Gray & Co., Jas. A.",
+        "firmNameRomanized": "Lee-shing",
+        "telegraphAddress": "Jimgray",
+        "telephone": "13096-7-8"
+      },
+      {
+        "address": "50 Szechuen-rd",
+        "firmNameChinese": "謙禮",
+        "firmNameEnglish": "Gray Trading Co., Inc.",
+        "firmNameRomanized": "Chin-lee",
+        "telegraphAddress": "Olacem",
+        "telephone": "17267-8"
+      },
+      {
+        "address": "Cathay Hotel Lobby and Sassoon Arcade",
+        "firmNameChinese": null,
+        "firmNameEnglish": "Gray's Yellow Lantern Shops",
+        "firmNameRomanized": null,
+        "telegraphAddress": "(all ports) Olacem",
+        "telephone": "16573"
+      },
+      {
+        "address": "245-247 Grosvenor-gdns",
+        "firmNameChinese": null,
+        "firmNameEnglish": "Graymauve Gowns and Millinery",
+        "firmNameRomanized": null,
+        "telegraphAddress": null,
+        "telephone": "72670"
+      },
+      {
+        "address": "148 Rue Marco Polo",
+        "firmNameChinese": "華商大華拍賣公司",
+        "firmNameEnglish": "Great China Auctioneering Co.",
+        "firmNameRomanized": null,
+        "telegraphAddress": null,
+        "telephone": "82686"
+      },
+      {
+        "address": "1123 Bubbling Well-rd",
+        "firmNameChinese": "大中書局",
+        "firmNameEnglish": "Great China Book Co., Ld.",
+        "firmNameRomanized": "Dah-chung-shu-chu",
+        "telegraphAddress": null,
+        "telephone": "31429"
+      },
+      {
+        "address": "313 Foochow-rd",
+        "firmNameChinese": "中西大藥房",
+        "firmNameEnglish": "Great China Dispensary, Ld.",
+        "firmNameRomanized": "Chung-se-ta-yich-fong",
+        "telegraphAddress": "1108",
+        "telephone": "98200"
+      },
+      {
+        "address": "710 Canton-rd",
+        "firmNameChinese": "中興水電公司",
+        "firmNameEnglish": "Great China Electric Co.",
+        "firmNameRomanized": null,
+        "telegraphAddress": null,
+        "telephone": "90481"
+      },
+      {
+        "address": "473 Av Foch",
+        "firmNameChinese": "大華金材料公司",
+        "firmNameEnglish": "Great China Hardware Co.",
+        "firmNameRomanized": "Ta-wha",
+        "telegraphAddress": null,
+        "telephone": "71523"
+      },
+      {
+        "address": "341 Szechuen-rd",
+        "firmNameChinese": "大華衛生公司",
+        "firmNameEnglish": "Great China Health Co., Ld.",
+        "firmNameRomanized": "Ta-hwa-wei-sun-kung-sze",
+        "telegraphAddress": "Healthco",
+        "telephone": "12156"
+      },
+      {
+        "address": "120 Jinkee-rd",
+        "firmNameChinese": "大華木行",
+        "firmNameEnglish": "Great China Lumber Co., Ld.",
+        "firmNameRomanized": "Ta-hua-mu-hsing",
+        "telegraphAddress": "3635",
+        "telephone": "10323"
+      },
+      {
+        "address": "851 Peking-rd",
+        "firmNameChinese": "中法大藥房有限公司",
+        "firmNameEnglish": "Great Eastern Dispensary, Ld.",
+        "firmNameRomanized": "Chung-fa-la-yah-rong-yu-an-kung-sze",
+        "telegraphAddress": "Gredispen or 5673",
+        "telephone": "92331-2-3"
+      },
+      {
+        "address": "87 Yates-rd",
+        "firmNameChinese": "東大公地樓",
+        "firmNameEnglish": "Great Eastern Rug Co.",
+        "firmNameRomanized": null,
+        "telegraphAddress": null,
+        "telephone": "36804"
+      },
+      {
+        "address": "264 Kiangse-rd",
+        "firmNameChinese": "大東貿易公司",
+        "firmNameEnglish": "Great Eastern Trading Co., Ld.",
+        "firmNameRomanized": null,
+        "telegraphAddress": null,
+        "telephone": "14361, 10576"
+      },
+      {
+        "address": "34 Avenue Edward VII",
+        "firmNameChinese": "大北電報公司",
+        "firmNameEnglish": "Great Northern Telegraph Co., Ld.",
+        "firmNameRomanized": "Dah-poh-dien-pao-kung-sze",
+        "telegraphAddress": "Nordiske",
+        "telephone": "11117"
+      },
+      {
+        "address": "335 Broadway East",
+        "firmNameChinese": "美洋實業公司",
+        "firmNameEnglish": "Great Ocean Trading Co.",
+        "firmNameRomanized": "Mei-yang-so-rie-konsu",
+        "telegraphAddress": "Greatrad",
+        "telephone": "52199"
+      },
+      {
+        "address": "748 Av. Joffre",
+        "firmNameChinese": "大上海食伙公司",
+        "firmNameEnglish": "Great Shanghai Butchery Co.",
+        "firmNameRomanized": null,
+        "telegraphAddress": null,
+        "telephone": "75883, 73218-9"
+      },
+      {
+        "address": "110 Jinkce-rd",
+        "firmNameChinese": "大上海革皮海上大",
+        "firmNameEnglish": "Great Shanghai Leather Factory",
+        "firmNameRomanized": null,
+        "telegraphAddress": "Chichen",
+        "telephone": "13429"
+      },
+      {
+        "address": "133 Yuen Ming Yuen-rd",
+        "firmNameChinese": "大申營業公司",
+        "firmNameEnglish": "Great Shanghai Realty Co.",
+        "firmNameRomanized": "Dah-sun-yin-nih-kun-sze",
+        "telegraphAddress": "3602",
+        "telephone": "17974"
+      },
+      {
+        "address": "Cor. of Park and Burkill-rds",
+        "firmNameChinese": "一大行",
+        "firmNameEnglish": "Great Shanghai Trading Co.",
+        "firmNameRomanized": "I-dai-hong",
+        "telegraphAddress": "1851",
+        "telephone": "34108"
+      },
+      {
+        "address": "40 Ningpo-rd",
+        "firmNameChinese": "大西地產公司",
+        "firmNameEnglish": "Great Western Realty Co.",
+        "firmNameRomanized": "Ta-si-di-tsai-kung-sze",
+        "telegraphAddress": null,
+        "telephone": "19170"
+      },
+      {
+        "address": "119 Nanking-rd",
+        "firmNameChinese": null,
+        "firmNameEnglish": "Green Dragon",
+        "firmNameRomanized": null,
+        "telegraphAddress": null,
+        "telephone": "19165"
+      },
+      {
+        "address": "556 Kiaochow-rd",
+        "firmNameChinese": "綠寶股份有限公司",
+        "firmNameEnglish": "Green Spot Pure Fruit Drinks, Inc",
+        "firmNameRomanized": "Loh-bao-ko-fun-yu-han kung-sze",
+        "telegraphAddress": null,
+        "telephone": "39055, 38811"
+      },
+      {
+        "address": "790 Bubbling Well-rd",
+        "firmNameChinese": null,
+        "firmNameEnglish": "Greenhouse, Mme",
+        "firmNameRomanized": null,
+        "telegraphAddress": "Greencarl",
+        "telephone": "31459"
+      },
+      {
+        "address": "29 Tou Ka Wan-rd",
+        "firmNameChinese": null,
+        "firmNameEnglish": "Grefen & Wilde",
+        "firmNameRomanized": null,
+        "telegraphAddress": "Chinadarm",
+        "telephone": "38025"
+      },
+      {
+        "address": "55 Yuen Ming Yuen-rd",
+        "firmNameChinese": null,
+        "firmNameEnglish": "Gregg School of Business",
+        "firmNameRomanized": null,
+        "telegraphAddress": null,
+        "telephone": "13750"
+      },
+      {
+        "address": "621 Av. Joffre",
+        "firmNameChinese": "良濟藥房",
+        "firmNameEnglish": "Grenard & Co., L.",
+        "firmNameRomanized": "Liang-che-yah-vong",
+        "telegraphAddress": null,
+        "telephone": "80964"
+      },
+      {
+        "address": "1224-1236 Av Joffre",
+        "firmNameChinese": null,
+        "firmNameEnglish": "Gresham Apartments",
+        "firmNameRomanized": null,
+        "telegraphAddress": null,
+        "telephone": null
+      },
+      {
+        "address": "Cor. of Seymour and Sinza-rds",
+        "firmNameChinese": null,
+        "firmNameEnglish": "Greystone Apartments",
+        "firmNameRomanized": null,
+        "telegraphAddress": null,
+        "telephone": null
+      },
+      {
+        "address": "9 Quai de France",
+        "firmNameChinese": null,
+        "firmNameEnglish": "Griffith (1932) Ld., T.E.",
+        "firmNameRomanized": null,
+        "telegraphAddress": "Griffith",
+        "telephone": "88605"
+      },
+      {
+        "address": "860-864 Av. Joffre",
+        "firmNameChinese": "哥利郭利夫公司",
+        "firmNameEnglish": "Grigorieff & Co., P.S.",
+        "firmNameRomanized": null,
+        "telegraphAddress": "Manufacture",
+        "telephone": "72923"
+      },
+      {
+        "address": "220 Szechuen-rd",
+        "firmNameChinese": null,
+        "firmNameEnglish": "Grigorieff, S. S.",
+        "firmNameRomanized": null,
+        "telegraphAddress": null,
+        "telephone": "13230"
+      },
+      {
+        "address": "141 Minghong-rd",
+        "firmNameChinese": "和豐",
+        "firmNameEnglish": "Grilk, G. J.",
+        "firmNameRomanized": "Ho-fung",
+        "telegraphAddress": "Grilk",
+        "telephone": "41819"
+      },
+      {
+        "address": "996 Av Joffre",
+        "firmNameChinese": "吉利",
+        "firmNameEnglish": "Grill, Max",
+        "firmNameRomanized": null,
+        "telegraphAddress": null,
+        "telephone": "74679"
+      },
+      {
+        "address": "288 Av Petain",
+        "firmNameChinese": null,
+        "firmNameEnglish": "Grimmy Apartments",
+        "firmNameRomanized": null,
+        "telegraphAddress": null,
+        "telephone": "16366"
+      },
+      {
+        "address": "778 Bubbling Well-rd",
+        "firmNameChinese": "格玲歌牙醫生",
+        "firmNameEnglish": "Gringut, Dr. B. P.",
+        "firmNameRomanized": null,
+        "telegraphAddress": null,
+        "telephone": "34304"
+      },
+      {
+        "address": "633 Av. Foch",
+        "firmNameChinese": null,
+        "firmNameEnglish": "Grish's Tyre & Battery Service",
+        "firmNameRomanized": null,
+        "telegraphAddress": null,
+        "telephone": "75412"
+      },
+      {
+        "address": "108 Sassoon House",
+        "firmNameChinese": "葛羅斯醫師",
+        "firmNameEnglish": "Gross, Benno Georg, M.D.",
+        "firmNameRomanized": null,
+        "telegraphAddress": null,
+        "telephone": "13997"
+      },
+      {
+        "address": "20 Canton-rd",
+        "firmNameChinese": "高樂滿律師",
+        "firmNameEnglish": "Grossmann, Dr. A.",
+        "firmNameRomanized": "Go-lo-ma-lih-sz",
+        "telegraphAddress": "Debar",
+        "telephone": "13623"
+      },
+      {
+        "address": "12 The Bund",
+        "firmNameChinese": "郭思孟",
+        "firmNameEnglish": "Grossmann, Dr. E. L.",
+        "firmNameRomanized": null,
+        "telegraphAddress": null,
+        "telephone": "13336"
+      },
+      {
+        "address": "992 Bubbling Well-rd",
+        "firmNameChinese": "高樂仁醫師",
+        "firmNameEnglish": "Grossmann, Dr. Eugen R., M.D., B.S.",
+        "firmNameRomanized": "Kao-lo-jen-i-shih",
+        "telegraphAddress": null,
+        "telephone": "60003"
+      },
+      {
+        "address": "249 Rte Cardinal Mercier",
+        "firmNameChinese": null,
+        "firmNameEnglish": "Grosvenor Beauty Parlour",
+        "firmNameRomanized": null,
+        "telegraphAddress": null,
+        "telephone": "76058"
+      },
+      {
+        "address": "197-253 Rte Card. Mercier",
+        "firmNameChinese": null,
+        "firmNameEnglish": "Grosvenor Gardens",
+        "firmNameRomanized": null,
+        "telegraphAddress": null,
+        "telephone": "70102-3"
+      },
+      {
+        "address": "219 Rte Card. Mercier",
+        "firmNameChinese": null,
+        "firmNameEnglish": "Grosvenor House",
+        "firmNameRomanized": null,
+        "telegraphAddress": null,
+        "telephone": "70102-3"
+      },
+      {
+        "address": "34 Av. Edward VII",
+        "firmNameChinese": "華聯",
+        "firmNameEnglish": "Groupe-Chine",
+        "firmNameRomanized": null,
+        "telegraphAddress": "Monestoy",
+        "telephone": "18114"
+      },
+      {
+        "address": "51 Canton-rd.",
+        "firmNameChinese": null,
+        "firmNameEnglish": "Gruenbaum, Erwin",
+        "firmNameRomanized": null,
+        "telegraphAddress": null,
+        "telephone": "17222"
+      },
+      {
+        "address": "113 Kiukiang-rd.",
+        "firmNameChinese": null,
+        "firmNameEnglish": "Gruenberger Dr. Herbert",
+        "firmNameRomanized": null,
+        "telegraphAddress": null,
+        "telephone": "16695"
+      },
+      {
+        "address": "120 Jinkee-rd",
+        "firmNameChinese": "納鐵福有限公司",
+        "firmNameEnglish": "Guest, Keen & Nettlefolds, Ld.",
+        "firmNameRomanized": null,
+        "telegraphAddress": "Nettlefold",
+        "telephone": null
+      },
+      {
+        "address": "353 Kiangse-rd",
+        "firmNameChinese": null,
+        "firmNameEnglish": "Gunther, Hugo",
+        "firmNameRomanized": null,
+        "telegraphAddress": "Hugunt",
+        "telephone": "11292"
+      },
+      {
+        "address": "2 Peking-rd",
+        "firmNameChinese": "高得",
+        "firmNameEnglish": "Gurski & Co., Kurt",
+        "firmNameRomanized": "Gao-leh",
+        "telegraphAddress": "Gurskitex",
+        "telephone": "13906"
+      }
+    ]
+  },
+  "num_pages": 28,
+  "score": 0.8874149659863974,
+  "time_sec": 219.17766094207764
+}

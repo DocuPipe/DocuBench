@@ -1,0 +1,46 @@
+{
+  "cost": 0.63,
+  "data": {
+    "box10DependentCareBenefits": 1000.0,
+    "box12": [
+      {
+        "amount": 4107.0,
+        "code": "E"
+      },
+      {
+        "amount": 1500.0,
+        "code": "W"
+      }
+    ],
+    "box14": [
+      {
+        "amount": 1600.0,
+        "label": "14H"
+      },
+      {
+        "amount": 52.0,
+        "label": "14X"
+      }
+    ],
+    "box16StateWages": 47808.35,
+    "box17StateIncomeTax": 1467.72,
+    "box18LocalWages": 47808.35,
+    "box19LocalIncomeTax": 478.08,
+    "box1Wages": 44629.35,
+    "box20LocalityName": "700102",
+    "box2FederalIncomeTax": 7631.62,
+    "box3SocialSecurityWages": 48736.35,
+    "box4SocialSecurityTax": 3021.65,
+    "box5MedicareWages": 48736.35,
+    "box6MedicareTax": 706.68,
+    "employeeName": "ELIZABETH A DARLING",
+    "employeeSSN": "XXX-XX-1234",
+    "employerEIN": "XX-XXX5591",
+    "employerName": "UNIVERSITY OF PITTSBURGH",
+    "state": "PA",
+    "stateEmployerId": "XXXX5369"
+  },
+  "num_pages": 3,
+  "score": 1.0,
+  "time_sec": 71.76163816452026
+}

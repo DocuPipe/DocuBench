@@ -1,0 +1,79 @@
+{
+  "cost": 0.21,
+  "data": {
+    "amountInWords": "Dirham Seven Hundred Fifty-Six and Sixteen Fils Only",
+    "charges": [
+      {
+        "currency": "AED",
+        "currencyAmount": 275,
+        "description": "DELIVERY ORDER CHARGES",
+        "ratePerUnit": 275,
+        "roe": 1,
+        "total": 288.75,
+        "totalPriceExclVat": 275,
+        "unit": 1,
+        "vatAmount": 13.75,
+        "vatPercent": 5
+      },
+      {
+        "currency": "AED",
+        "currencyAmount": 95.15,
+        "description": "THC CHARGES",
+        "ratePerUnit": 50,
+        "roe": 1,
+        "total": 99.91,
+        "totalPriceExclVat": 95.15,
+        "unit": 1.903,
+        "vatAmount": 4.76,
+        "vatPercent": 5
+      },
+      {
+        "currency": "AED",
+        "currencyAmount": 100,
+        "description": "DOCUMENTATION CHARGES",
+        "ratePerUnit": 100,
+        "roe": 1,
+        "total": 105,
+        "totalPriceExclVat": 100,
+        "unit": 1,
+        "vatAmount": 5,
+        "vatPercent": 5
+      },
+      {
+        "currency": "AED",
+        "currencyAmount": 250,
+        "description": "HANDLING CHARGES",
+        "ratePerUnit": 250,
+        "roe": 1,
+        "total": 262.5,
+        "totalPriceExclVat": 250,
+        "unit": 1,
+        "vatAmount": 12.5,
+        "vatPercent": 5
+      }
+    ],
+    "consignee": "FRESA DEMO DUBAI LLC",
+    "currency": "AED",
+    "customer": "FRESA DEMO DUBAI LLC",
+    "customerAddress": "AL NABHA, DUBAI",
+    "finalDestination": "JEBEL ALI, UAE",
+    "grandTotal": 756.16,
+    "houseNumber": "500138050266 / 10-OCT-18",
+    "invoiceDate": "27-NOV-18 (CREATED)",
+    "invoiceNumber": "INV1800564",
+    "jobNumber": "CCDXBSI18000061 / 27-NOV-18",
+    "masterNumber": "NSA.JEA.18/26917 / 12-OCT-18",
+    "numberOfPacks": 12,
+    "paymentDueDate": "27-NOV-18",
+    "placeOfOrigin": "NHAVA SHEVA (JAWAHARLAL NEHRU), INDIA",
+    "shipper": "PAHILAJRAI JAIKISHIN AND CO",
+    "totalExclVat": 720.15,
+    "totalVat": 36.01,
+    "vesselFlight": "NORTHERN GENERAL / 0068",
+    "volumeCbm": 1.903,
+    "weightKgs": 1116
+  },
+  "num_pages": 1,
+  "score": 1.0,
+  "time_sec": 35.282614946365356
+}

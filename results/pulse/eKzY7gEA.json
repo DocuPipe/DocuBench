@@ -1,0 +1,72 @@
+{
+  "cost": 0.21,
+  "data": {
+    "admissionDate": "2025-09-02",
+    "allergies": [
+      {
+        "allergy": "Penicillin (rash)"
+      },
+      {
+        "allergy": "Sulfonamides (hives)"
+      }
+    ],
+    "attendingPhysician": "Dr. Elena Marsh, MD",
+    "dateOfBirth": "1958-03-14",
+    "dischargeDate": "2025-09-08",
+    "dischargeDiagnoses": [
+      {
+        "diagnosis": "Community-acquired pneumonia, right lower lobe"
+      },
+      {
+        "diagnosis": "Acute hypoxic respiratory failure"
+      },
+      {
+        "diagnosis": "Type 2 diabetes mellitus"
+      },
+      {
+        "diagnosis": "Essential hypertension"
+      },
+      {
+        "diagnosis": "Chronic kidney disease, stage 3"
+      }
+    ],
+    "dischargeMedications": [
+      {
+        "medication": "Levofloxacin 750 mg PO daily x5 days"
+      },
+      {
+        "medication": "Metformin 1000 mg PO twice daily"
+      },
+      {
+        "medication": "Lisinopril 20 mg PO daily"
+      },
+      {
+        "medication": "Atorvastatin 40 mg PO at bedtime"
+      },
+      {
+        "medication": "Albuterol inhaler 2 puffs every 4 hours as needed"
+      }
+    ],
+    "disposition": "Home with home health",
+    "mrn": "00471829",
+    "patientName": "Robert J. Sample",
+    "proceduresPerformed": [
+      {
+        "procedure": "Chest radiograph, two views"
+      },
+      {
+        "procedure": "Complete blood count"
+      },
+      {
+        "procedure": "Comprehensive metabolic panel"
+      },
+      {
+        "procedure": "Blood cultures x2"
+      }
+    ],
+    "sex": "Male"
+  },
+  "num_pages": 1,
+  "score": 1.0,
+  "time_sec": 16.845489740371704
+}

@@ -1,0 +1,120 @@
+{
+  "cost": 0.21,
+  "data": {
+    "coinDiameterMm": 23.5,
+    "coinFaceValueSen": 50,
+    "coinMaterial": "黃綱",
+    "coinWeightGrams": 4.5,
+    "courseTables": [
+      {
+        "subject": "公 民",
+        "totalHours": 210,
+        "trackName": "東洋經濟科"
+      },
+      {
+        "subject": "國 語",
+        "totalHours": 70,
+        "trackName": "東洋經濟科"
+      },
+      {
+        "subject": "理 數",
+        "totalHours": 210,
+        "trackName": "東洋經濟科"
+      },
+      {
+        "subject": "體 育",
+        "totalHours": 210,
+        "trackName": "經營科"
+      },
+      {
+        "subject": "第一外國語",
+        "totalHours": 630,
+        "trackName": "經營科"
+      },
+      {
+        "subject": "第二外國語",
+        "totalHours": 210,
+        "trackName": "經營科"
+      },
+      {
+        "subject": "經 濟",
+        "totalHours": 560,
+        "trackName": "東洋經濟科"
+      },
+      {
+        "subject": "經 營",
+        "totalHours": 315,
+        "trackName": "東洋經濟科"
+      },
+      {
+        "subject": "經 記 會 計",
+        "totalHours": 280,
+        "trackName": "經營科"
+      },
+      {
+        "subject": "產 業 技 術",
+        "totalHours": 315,
+        "trackName": "東洋經濟科"
+      },
+      {
+        "subject": "法 律",
+        "totalHours": 245,
+        "trackName": "東洋經濟科"
+      },
+      {
+        "subject": "實 習",
+        "totalHours": 210,
+        "trackName": "東洋經濟科"
+      },
+      {
+        "subject": "計",
+        "totalHours": 3465,
+        "trackName": "經營科"
+      },
+      {
+        "subject": "理 數",
+        "totalHours": 140,
+        "trackName": "經營科"
+      },
+      {
+        "subject": "經 濟",
+        "totalHours": 735,
+        "trackName": "經營科"
+      },
+      {
+        "subject": "商 業",
+        "totalHours": 210,
+        "trackName": "經營科"
+      },
+      {
+        "subject": "經 營",
+        "totalHours": 210,
+        "trackName": "經營科"
+      },
+      {
+        "subject": "産 業 技 術",
+        "totalHours": 140,
+        "trackName": "經營科"
+      },
+      {
+        "subject": "法 律",
+        "totalHours": 280,
+        "trackName": "經營科"
+      },
+      {
+        "subject": "演 習",
+        "totalHours": 140,
+        "trackName": "經營科"
+      }
+    ],
+    "imperialOrdinanceNumber": 392,
+    "imperialOrdinancePromulgationDate": "1946-08-15",
+    "issueDate": "1946-08-16",
+    "issueNumber": 5877,
+    "ministerialOrdinanceNumber": 25,
+    "weekday": "Friday"
+  },
+  "num_pages": 1,
+  "score": 0.40441176470588225,
+  "time_sec": 115.5077121257782
+}

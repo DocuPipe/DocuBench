@@ -1,0 +1,53 @@
+{
+  "cost": 0.21,
+  "data": {
+    "allOtherPerilsDeductible": 1000,
+    "coverages": [
+      {
+        "coverageLetter": "A",
+        "coverageName": "Dwelling",
+        "limitOfLiability": 160000
+      },
+      {
+        "coverageLetter": "B",
+        "coverageName": "Other Structures",
+        "limitOfLiability": 3200
+      },
+      {
+        "coverageLetter": "C",
+        "coverageName": "Personal Property",
+        "limitOfLiability": 104250
+      },
+      {
+        "coverageLetter": "D",
+        "coverageName": "Loss of Use",
+        "limitOfLiability": 20850
+      },
+      {
+        "coverageLetter": "E",
+        "coverageName": "Personal Liability",
+        "limitOfLiability": 100000
+      },
+      {
+        "coverageLetter": "F",
+        "coverageName": "Medical Payments",
+        "limitOfLiability": 1000
+      }
+    ],
+    "hurricaneDeductibleAmount": 3200,
+    "hurricaneDeductiblePercentOfCoverageA": 2,
+    "hurricanePremium": 297,
+    "insuredAddress": "596 Crossover Way, Clay, FL 17189-2021",
+    "insuredName": "Estelle Clarion & James Delaney",
+    "insurerName": "SAFE ALL INSURANCE COMPANY",
+    "nonHurricanePremium": 505,
+    "policyEffectiveDate": "2020-03-28",
+    "policyExpirationDate": "2021-03-28",
+    "policyForm": "HO-3",
+    "policyNumber": "FHO295000",
+    "totalAnnualPremium": 854
+  },
+  "num_pages": 1,
+  "score": 1.0,
+  "time_sec": 22.12439513206482
+}

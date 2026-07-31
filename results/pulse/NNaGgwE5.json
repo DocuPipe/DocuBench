@@ -1,0 +1,120 @@
+{
+  "cost": 0.42,
+  "data": {
+    "airTemperature": "78 °F",
+    "aspect": "34° E",
+    "classification": "fine, smectitic, mesic, Typic Argiudoll",
+    "county": "Lancaster, Co",
+    "date": "10/12/2000",
+    "datum": "NAD '83",
+    "describers": "PJS & DAW",
+    "drainage": "WD (Well Drained)",
+    "elevation": "1240'",
+    "landCoverUse": "Soybeans (CRC)",
+    "landform": "low hill",
+    "landscape": "upland",
+    "latitude": "40° 49' 10.0\" N",
+    "location": "NE 1/4, SW 1/4 Sec. 20 T. 10N R. 6E",
+    "longitude": "96° 46' 06.1\" W",
+    "mapUnitSymbol": "CaC",
+    "parentMaterial": "loess, over pedisediment, over till",
+    "seriesOrComponentName": "Caveat Emptor",
+    "slopePercent": "6%",
+    "soilHorizons": [
+      {
+        "boundary": "Abrupt Smooth",
+        "depth": "0-20",
+        "horizon": "Ap",
+        "matrixColorDry": "10YR 4/2",
+        "matrixColorMoist": "10YR 3/1",
+        "observationMethod": "LP",
+        "texture": "silt loam (sil)"
+      },
+      {
+        "boundary": "CW",
+        "depth": "20-30",
+        "horizon": "A",
+        "matrixColorDry": "10YR 4/2",
+        "matrixColorMoist": "10YR 3/1",
+        "observationMethod": "LP",
+        "texture": "sil"
+      },
+      {
+        "boundary": "GW",
+        "depth": "30-60",
+        "horizon": "Bt1",
+        "matrixColorDry": "2.5 Y 6/2",
+        "matrixColorMoist": "10YR 5/3",
+        "observationMethod": "LP",
+        "texture": "sicl"
+      },
+      {
+        "boundary": "GW",
+        "depth": "60-90",
+        "horizon": "2Bt2",
+        "matrixColorDry": "10YR 6/3",
+        "matrixColorMoist": "70% 10YR 4/3 30% 10YR 5/3",
+        "observationMethod": "LP",
+        "texture": "sicl"
+      },
+      {
+        "boundary": "AW",
+        "depth": "90-130",
+        "horizon": "2Bt3",
+        "matrixColorDry": "10YR 4/4",
+        "matrixColorMoist": "40% 7.5YR 4/3 60% 7.5YR 3/3",
+        "observationMethod": "LP",
+        "texture": "sil"
+      },
+      {
+        "boundary": "AW",
+        "depth": "130-145",
+        "horizon": "3B",
+        "matrixColorDry": "7.5YR 5/4",
+        "matrixColorMoist": "7.5YR 4/6",
+        "observationMethod": "LP",
+        "texture": "xgrscl"
+      },
+      {
+        "boundary": "GW",
+        "depth": "145-160",
+        "horizon": "4Bt1",
+        "matrixColorDry": "7.5YR 5/6",
+        "matrixColorMoist": "7.5YR 4/6",
+        "observationMethod": "LP",
+        "texture": "cl"
+      },
+      {
+        "boundary": "DW",
+        "depth": "160-210",
+        "horizon": "4BT2",
+        "matrixColorDry": "7.5YR 4/4",
+        "matrixColorMoist": "7.5YR 4/4",
+        "observationMethod": "LP",
+        "texture": "cl"
+      },
+      {
+        "boundary": "DI",
+        "depth": "210-230",
+        "horizon": "4BC",
+        "matrixColorDry": "2.5YR 7/2",
+        "matrixColorMoist": "2.5YR 5/2",
+        "observationMethod": "LP",
+        "texture": "c"
+      },
+      {
+        "boundary": "—",
+        "depth": "230-260+",
+        "horizon": "4C",
+        "matrixColorDry": "2.5YR 7/2",
+        "matrixColorMoist": "2.5YR 5/2",
+        "observationMethod": "SP",
+        "texture": "c"
+      }
+    ],
+    "weather": "sunny"
+  },
+  "num_pages": 2,
+  "score": 1.0,
+  "time_sec": 65.50236535072327
+}

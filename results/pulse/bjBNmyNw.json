@@ -1,0 +1,19 @@
+{
+  "cost": 0.21,
+  "data": {
+    "buyer": null,
+    "department": null,
+    "fobPoint": null,
+    "lineItems": [],
+    "notAfterDate": null,
+    "notBeforeDate": null,
+    "orderDate": null,
+    "poNumber": null,
+    "poType": null,
+    "shipTo": null,
+    "terms": null
+  },
+  "num_pages": 1,
+  "score": 0.0,
+  "time_sec": 11.550447940826416
+}

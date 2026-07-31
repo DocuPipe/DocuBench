@@ -1,0 +1,169 @@
+{
+  "cost": 0.42,
+  "data": {
+    "balanceSheet": [
+      {
+        "amount": 9043306.86,
+        "lineItem": "Ativos fixos tangíveis"
+      },
+      {
+        "amount": 208679.71,
+        "lineItem": "Ativos intangíveis"
+      },
+      {
+        "amount": 8455.18,
+        "lineItem": "Participações financeiras - método da equivalência patrimonial"
+      },
+      {
+        "amount": 189921.62,
+        "lineItem": "Outros investimentos financeiros"
+      },
+      {
+        "amount": 49238.85,
+        "lineItem": "Créditos a receber"
+      },
+      {
+        "amount": 203944.66,
+        "lineItem": "Ativos por impostos diferidos"
+      },
+      {
+        "amount": 18075416.56,
+        "lineItem": "Inventários"
+      },
+      {
+        "amount": 13653135.41,
+        "lineItem": "Clientes"
+      },
+      {
+        "amount": 177731.78,
+        "lineItem": "Estado e outros entes públicos"
+      },
+      {
+        "amount": 1655726.52,
+        "lineItem": "Outros créditos a receber"
+      },
+      {
+        "amount": 114093.52,
+        "lineItem": "Diferimentos"
+      },
+      {
+        "amount": 245388.2,
+        "lineItem": "Caixa e depósitos bancários"
+      },
+      {
+        "amount": 7600000,
+        "lineItem": "Capital subscrito"
+      },
+      {
+        "amount": 1000000,
+        "lineItem": "Reservas legais"
+      },
+      {
+        "amount": 7184039.25,
+        "lineItem": "Outras reservas"
+      },
+      {
+        "amount": 2290070.91,
+        "lineItem": "Resultado líquido do período"
+      },
+      {
+        "amount": 5279421.99,
+        "lineItem": "Financiamentos obtidos"
+      },
+      {
+        "amount": 2920000,
+        "lineItem": "Outras dividas a pagar"
+      },
+      {
+        "amount": 5176865.2,
+        "lineItem": "Fornecedores"
+      },
+      {
+        "amount": 89583.06,
+        "lineItem": "Adiantamentos de clientes"
+      },
+      {
+        "amount": 1389649.42,
+        "lineItem": "Estado e outros entes públicos"
+      },
+      {
+        "amount": 7827168.57,
+        "lineItem": "Financiamentos obtidos"
+      },
+      {
+        "amount": 2868240.47,
+        "lineItem": "Outras dividas a pagar"
+      }
+    ],
+    "balanceSheetDate": "2023-12-31",
+    "companyName": "b f",
+    "incomeStatement": [
+      {
+        "amount": 67755184.06,
+        "lineItem": "Vendas e serviços prestados"
+      },
+      {
+        "amount": 14007.44,
+        "lineItem": "Subsídios à exploração"
+      },
+      {
+        "amount": 1176.5,
+        "lineItem": "Ganhos/perdas imputados de subsidiárias, assoc. e empreend. conjuntos"
+      },
+      {
+        "amount": 1346853.4,
+        "lineItem": "Variação nos inventários da produção"
+      },
+      {
+        "amount": -55363061.32,
+        "lineItem": "Custo das mercadorias vendidas e das matérias consumidas"
+      },
+      {
+        "amount": -2361998.93,
+        "lineItem": "Fornecimentos e serviços externos"
+      },
+      {
+        "amount": -6724777.09,
+        "lineItem": "Gastos com o pessoal"
+      },
+      {
+        "amount": -44858.38,
+        "lineItem": "Imparidade de inventários (perdas/reversões)"
+      },
+      {
+        "amount": -8545.88,
+        "lineItem": "Imparidade de dívidas a receber (perdas/reversões)"
+      },
+      {
+        "amount": 333548.76,
+        "lineItem": "Outros rendimentos"
+      },
+      {
+        "amount": -254752.96,
+        "lineItem": "Outros gastos"
+      },
+      {
+        "amount": -858307.11,
+        "lineItem": "Gastos/reversões de depreciação e de amortização"
+      },
+      {
+        "amount": 328442.93,
+        "lineItem": "Juros e rendimentos similares obtidos"
+      },
+      {
+        "amount": -919412.48,
+        "lineItem": "Juros e gastos similares suportados"
+      },
+      {
+        "amount": -953428.03,
+        "lineItem": "Imposto sobre o rendimento do período"
+      }
+    ],
+    "resultadoLiquido": 2290070.91,
+    "totalAtivo": 43625038.87,
+    "totalCapitalProprioEPassivo": 43625038.87
+  },
+  "num_pages": 2,
+  "score": 0.963855421686747,
+  "time_sec": 41.398913860321045
+}

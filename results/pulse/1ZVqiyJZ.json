@@ -1,0 +1,51 @@
+{
+  "cost": 0.21,
+  "data": {
+    "agentName": "Frank Stallings",
+    "construction": "Masonry Veneer",
+    "coverages": [
+      {
+        "basis": null,
+        "coverageType": "Dwelling",
+        "limit": 450000
+      },
+      {
+        "basis": null,
+        "coverageType": "Other Structures",
+        "limit": 45000
+      },
+      {
+        "basis": null,
+        "coverageType": "Personal Property",
+        "limit": 225000
+      },
+      {
+        "basis": null,
+        "coverageType": "Loss of Use",
+        "limit": 90000
+      },
+      {
+        "basis": "Each Occurrence",
+        "coverageType": "Liability",
+        "limit": 300000
+      },
+      {
+        "basis": "Each Person",
+        "coverageType": "Medical",
+        "limit": 1000
+      }
+    ],
+    "deductible": null,
+    "expirationDate": "2021-03-30",
+    "inceptionDate": "2020-03-30",
+    "namedInsured": "John Doe and Susy Doe",
+    "policyForm": "HO-3",
+    "policyNumber": "254H089SJ425",
+    "policyPremium": 1200,
+    "propertyAddress": "1427 Sample Drive Washington, DC 40000",
+    "yearBuilt": 2010
+  },
+  "num_pages": 1,
+  "score": 0.96,
+  "time_sec": 30.84772300720215
+}

@@ -1,0 +1,89 @@
+{
+  "cost": 0.21,
+  "data": {
+    "codiceFiscale": "LZNNRS80A41D548V",
+    "employeeName": "LAZIONE UNIVARSITA' 2017",
+    "employerName": "DITTA DI PROVA",
+    "nettoInBusta": 1447,
+    "payLines": [
+      {
+        "base": 67.66808,
+        "competenze": 1556.37,
+        "description": "Retribuzione ordinaria",
+        "quantita": 23,
+        "trattenute": null,
+        "unitaDiMisura": "GIORNI",
+        "voce": "0"
+      },
+      {
+        "base": null,
+        "competenze": null,
+        "description": "Ferie godute",
+        "quantita": 32,
+        "trattenute": null,
+        "unitaDiMisura": "ORE",
+        "voce": "200"
+      },
+      {
+        "base": null,
+        "competenze": null,
+        "description": "Permessi riduz. orario goduti",
+        "quantita": 4,
+        "trattenute": null,
+        "unitaDiMisura": "ORE",
+        "voce": "210"
+      },
+      {
+        "base": null,
+        "competenze": null,
+        "description": "Permessi ex-festivita' goduti",
+        "quantita": 4,
+        "trattenute": null,
+        "unitaDiMisura": "ORE",
+        "voce": "221"
+      },
+      {
+        "base": 67.66808,
+        "competenze": 67.67,
+        "description": "Festivita'",
+        "quantita": 1,
+        "trattenute": null,
+        "unitaDiMisura": "GIORNI",
+        "voce": "230"
+      },
+      {
+        "base": 67.66808,
+        "competenze": 67.67,
+        "description": "Festivita' in domenica",
+        "quantita": 1,
+        "trattenute": null,
+        "unitaDiMisura": "GIORNI",
+        "voce": "232"
+      },
+      {
+        "base": 67.66808,
+        "competenze": 135.34,
+        "description": "Carenza malattia",
+        "quantita": 2,
+        "trattenute": null,
+        "unitaDiMisura": "GIORNI",
+        "voce": "400"
+      },
+      {
+        "base": null,
+        "competenze": 80,
+        "description": "Credito art.1 DL 66/2014",
+        "quantita": null,
+        "trattenute": null,
+        "unitaDiMisura": "2017",
+        "voce": "978"
+      }
+    ],
+    "payPeriod": "GENNAIO 2017",
+    "totaleCompetenze": 1907.05,
+    "totaleTrattenute": 460.41
+  },
+  "num_pages": 1,
+  "score": 0.9735054347826086,
+  "time_sec": 46.56009078025818
+}

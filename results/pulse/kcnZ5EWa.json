@@ -1,0 +1,2410 @@
+{
+  "cost": 0.63,
+  "data": {
+    "entries": [
+      {
+        "exchangeName": "高輪",
+        "phoneNumber": "44-0802",
+        "subscriberName": "加藤真三"
+      },
+      {
+        "exchangeName": "牛込",
+        "phoneNumber": "34-5727",
+        "subscriberName": "加藤真三郎"
+      },
+      {
+        "exchangeName": "浪花",
+        "phoneNumber": "67-2023",
+        "subscriberName": "加藤真太郎"
+      },
+      {
+        "exchangeName": "本所",
+        "phoneNumber": "73-2336",
+        "subscriberName": "加藤安浩郎"
+      },
+      {
+        "exchangeName": "墨田",
+        "phoneNumber": "74-1188",
+        "subscriberName": "加藤勇次"
+      },
+      {
+        "exchangeName": "高輪",
+        "phoneNumber": "44-0491",
+        "subscriberName": "加藤陸郎"
+      },
+      {
+        "exchangeName": "京橋",
+        "phoneNumber": "56-1691",
+        "subscriberName": "加藤隆浩"
+      },
+      {
+        "exchangeName": "大塚",
+        "phoneNumber": "86-2024",
+        "subscriberName": "加藤順三郎"
+      },
+      {
+        "exchangeName": "青山",
+        "phoneNumber": "36-3955",
+        "subscriberName": "加藤清雄"
+      },
+      {
+        "exchangeName": "下谷",
+        "phoneNumber": "83-4532",
+        "subscriberName": "加藤靈霊居"
+      },
+      {
+        "exchangeName": "芝",
+        "phoneNumber": "43-3128",
+        "subscriberName": "加藤利卯太郎"
+      },
+      {
+        "exchangeName": "下谷",
+        "phoneNumber": "83-5179",
+        "subscriberName": "加藤慧吉"
+      },
+      {
+        "exchangeName": "下谷",
+        "phoneNumber": "83-1207",
+        "subscriberName": "加田聖吉"
+      },
+      {
+        "exchangeName": "小田川",
+        "phoneNumber": "85-6511",
+        "subscriberName": "加田守浩"
+      },
+      {
+        "exchangeName": "京橋",
+        "phoneNumber": "56-1529",
+        "subscriberName": "加田屋"
+      },
+      {
+        "exchangeName": "四谷",
+        "phoneNumber": "35-5060",
+        "subscriberName": "加登屋"
+      },
+      {
+        "exchangeName": "青山",
+        "phoneNumber": "36-0811",
+        "subscriberName": "加藤アキ"
+      },
+      {
+        "exchangeName": "淺草",
+        "phoneNumber": "84-5547",
+        "subscriberName": "加藤乃き"
+      },
+      {
+        "exchangeName": "銀座",
+        "phoneNumber": "57-1281",
+        "subscriberName": "加藤伏園"
+      },
+      {
+        "exchangeName": "京橋",
+        "phoneNumber": "56-6016",
+        "subscriberName": "加藤浅之助"
+      },
+      {
+        "exchangeName": "下谷",
+        "phoneNumber": "83-5393",
+        "subscriberName": "加藤朝之助"
+      },
+      {
+        "exchangeName": "大塚",
+        "phoneNumber": "86-2189",
+        "subscriberName": "加藤油間屋"
+      },
+      {
+        "exchangeName": "下谷",
+        "phoneNumber": "83-4296",
+        "subscriberName": "加藤伊戎衛"
+      },
+      {
+        "exchangeName": "高輪",
+        "phoneNumber": "44-1361",
+        "subscriberName": "加藤いき"
+      },
+      {
+        "exchangeName": "牛込",
+        "phoneNumber": "34-0918",
+        "subscriberName": "加藤伊三郎商店"
+      },
+      {
+        "exchangeName": "青山",
+        "phoneNumber": "36-1735",
+        "subscriberName": "加藤伊三郎"
+      },
+      {
+        "exchangeName": "味橋",
+        "phoneNumber": "24-1560",
+        "subscriberName": "加藤伊木屋"
+      },
+      {
+        "exchangeName": "味橋",
+        "phoneNumber": "24-1561",
+        "subscriberName": "加藤伊木屋"
+      },
+      {
+        "exchangeName": "淺草",
+        "phoneNumber": "84-3732",
+        "subscriberName": "加藤伊之助"
+      },
+      {
+        "exchangeName": "京橋",
+        "phoneNumber": "56-5081",
+        "subscriberName": "加藤伊兵衛"
+      },
+      {
+        "exchangeName": "小田川",
+        "phoneNumber": "66-0729",
+        "subscriberName": "加藤伊兵衛"
+      },
+      {
+        "exchangeName": "淺草",
+        "phoneNumber": "84-1443",
+        "subscriberName": "伊勢屋手試店"
+      },
+      {
+        "exchangeName": "本所",
+        "phoneNumber": "73-4611",
+        "subscriberName": "加藤宮院"
+      },
+      {
+        "exchangeName": "墨田",
+        "phoneNumber": "74-1540",
+        "subscriberName": "加藤宮院"
+      },
+      {
+        "exchangeName": "四谷",
+        "phoneNumber": "35-0399",
+        "subscriberName": "加藤宮院"
+      },
+      {
+        "exchangeName": "四谷",
+        "phoneNumber": "35-1809",
+        "subscriberName": "加藤宮院"
+      },
+      {
+        "exchangeName": "京橋",
+        "phoneNumber": "56-0234",
+        "subscriberName": "加藤宮二"
+      },
+      {
+        "exchangeName": "四谷",
+        "phoneNumber": "35-3548",
+        "subscriberName": "加藤功"
+      },
+      {
+        "exchangeName": "牛込",
+        "phoneNumber": "34-1504",
+        "subscriberName": "加藤勇"
+      },
+      {
+        "exchangeName": "浪花",
+        "phoneNumber": "67-7088",
+        "subscriberName": "加藤石松"
+      },
+      {
+        "exchangeName": "下谷",
+        "phoneNumber": "83-6426",
+        "subscriberName": "加藤嶺"
+      },
+      {
+        "exchangeName": "青山",
+        "phoneNumber": "36-7695",
+        "subscriberName": "加藤五十造"
+      },
+      {
+        "exchangeName": "本所",
+        "phoneNumber": "73-5561",
+        "subscriberName": "加藤一具"
+      },
+      {
+        "exchangeName": "高輪",
+        "phoneNumber": "44-0293",
+        "subscriberName": "加藤市太郎"
+      },
+      {
+        "exchangeName": "牛込",
+        "phoneNumber": "34-1613",
+        "subscriberName": "加藤岩造"
+      },
+      {
+        "exchangeName": "小田川",
+        "phoneNumber": "66-1678",
+        "subscriberName": "加藤岩造"
+      },
+      {
+        "exchangeName": "高輪",
+        "phoneNumber": "44-2663",
+        "subscriberName": "加藤丑之助"
+      },
+      {
+        "exchangeName": "高輪",
+        "phoneNumber": "44-1212",
+        "subscriberName": "加藤哥次郎"
+      },
+      {
+        "exchangeName": "高輪",
+        "phoneNumber": "44-5490",
+        "subscriberName": "加藤梅吉"
+      },
+      {
+        "exchangeName": "小田川",
+        "phoneNumber": "85-2260",
+        "subscriberName": "加藤梅吉"
+      },
+      {
+        "exchangeName": "味橋",
+        "phoneNumber": "24-3064",
+        "subscriberName": "加藤運送店"
+      },
+      {
+        "exchangeName": "淺草",
+        "phoneNumber": "84-1074",
+        "subscriberName": "加藤七浩郎"
+      },
+      {
+        "exchangeName": "四谷",
+        "phoneNumber": "35-1490",
+        "subscriberName": "加藤運送店"
+      },
+      {
+        "exchangeName": "浪花",
+        "phoneNumber": "67-5535",
+        "subscriberName": "加藤才浩"
+      },
+      {
+        "exchangeName": "高輪",
+        "phoneNumber": "44-6204",
+        "subscriberName": "加藤周之助"
+      },
+      {
+        "exchangeName": "下谷",
+        "phoneNumber": "83-5522",
+        "subscriberName": "加藤脩次"
+      },
+      {
+        "exchangeName": "浪花",
+        "phoneNumber": "67-2668",
+        "subscriberName": "加藤俊一"
+      },
+      {
+        "exchangeName": "牛込",
+        "phoneNumber": "34-1967",
+        "subscriberName": "加藤正一郎"
+      },
+      {
+        "exchangeName": "海",
+        "phoneNumber": "67-3437",
+        "subscriberName": "加藤正次郎"
+      },
+      {
+        "exchangeName": "小岡",
+        "phoneNumber": "34-0464",
+        "subscriberName": "加藤正之師"
+      },
+      {
+        "exchangeName": "淺草",
+        "phoneNumber": "84-2166",
+        "subscriberName": "加藤庄吉"
+      },
+      {
+        "exchangeName": "牛込",
+        "phoneNumber": "34-3224",
+        "subscriberName": "加藤省三"
+      },
+      {
+        "exchangeName": "牛込",
+        "phoneNumber": "34-4615",
+        "subscriberName": "加藤省三"
+      },
+      {
+        "exchangeName": "牛込",
+        "phoneNumber": "34-2950",
+        "subscriberName": "加藤商會"
+      },
+      {
+        "exchangeName": "神田",
+        "phoneNumber": "25-0659",
+        "subscriberName": "加藤安次郎"
+      },
+      {
+        "exchangeName": "神田",
+        "phoneNumber": "25-2788",
+        "subscriberName": "加藤商會鐵工場"
+      },
+      {
+        "exchangeName": "牛込",
+        "phoneNumber": "34-2621",
+        "subscriberName": "加藤商會和洋紙店"
+      },
+      {
+        "exchangeName": "銀座",
+        "phoneNumber": "57-5014",
+        "subscriberName": "加藤商會和洋紙店"
+      },
+      {
+        "exchangeName": "銀座",
+        "phoneNumber": "57-5015",
+        "subscriberName": "加藤商會和洋紙店"
+      },
+      {
+        "exchangeName": "味橋",
+        "phoneNumber": "24-1351",
+        "subscriberName": "加藤商業株式会社"
+      },
+      {
+        "exchangeName": "墨田",
+        "phoneNumber": "74-1825",
+        "subscriberName": "加藤商業株式会社"
+      },
+      {
+        "exchangeName": "神田",
+        "phoneNumber": "25-0316",
+        "subscriberName": "加藤商事株式会社"
+      },
+      {
+        "exchangeName": "神田",
+        "phoneNumber": "25-0316",
+        "subscriberName": "加藤商店"
+      },
+      {
+        "exchangeName": "京橋",
+        "phoneNumber": "56-1490",
+        "subscriberName": "加藤商店"
+      },
+      {
+        "exchangeName": "海",
+        "phoneNumber": "67-3540",
+        "subscriberName": "加藤商店"
+      },
+      {
+        "exchangeName": "青山",
+        "phoneNumber": "36-2908",
+        "subscriberName": "加藤商店"
+      },
+      {
+        "exchangeName": "墨田",
+        "phoneNumber": "74-0439",
+        "subscriberName": "加藤商店"
+      },
+      {
+        "exchangeName": "京橋",
+        "phoneNumber": "56-0294",
+        "subscriberName": "加藤商店"
+      },
+      {
+        "exchangeName": "味橋",
+        "phoneNumber": "24-3045",
+        "subscriberName": "加藤商店"
+      },
+      {
+        "exchangeName": "小岡",
+        "phoneNumber": "34-2925",
+        "subscriberName": "加藤商店"
+      },
+      {
+        "exchangeName": "青山",
+        "phoneNumber": "36-3237",
+        "subscriberName": "加藤商店載継工場"
+      },
+      {
+        "exchangeName": "海",
+        "phoneNumber": "67-5656",
+        "subscriberName": "加藤清"
+      },
+      {
+        "exchangeName": "海",
+        "phoneNumber": "67-5656",
+        "subscriberName": "加藤商店工作部"
+      },
+      {
+        "exchangeName": "本所",
+        "phoneNumber": "73-4715",
+        "subscriberName": "加藤章三"
+      },
+      {
+        "exchangeName": "本所",
+        "phoneNumber": "73-2480",
+        "subscriberName": "加藤丈介"
+      },
+      {
+        "exchangeName": "芝",
+        "phoneNumber": "43-1206",
+        "subscriberName": "加藤龍之助"
+      },
+      {
+        "exchangeName": "青山",
+        "phoneNumber": "36-2248",
+        "subscriberName": "加藤信一"
+      },
+      {
+        "exchangeName": "高輪",
+        "phoneNumber": "44-5675",
+        "subscriberName": "加藤信一"
+      },
+      {
+        "exchangeName": "墨田",
+        "phoneNumber": "74-1832",
+        "subscriberName": "加藤龍八"
+      },
+      {
+        "exchangeName": "下谷",
+        "phoneNumber": "83-6238",
+        "subscriberName": "加藤必安所"
+      },
+      {
+        "exchangeName": "小岡",
+        "phoneNumber": "34-7017",
+        "subscriberName": "加藤貞利"
+      },
+      {
+        "exchangeName": "小岡",
+        "phoneNumber": "34-7017",
+        "subscriberName": "加藤誠所"
+      },
+      {
+        "exchangeName": "青山",
+        "phoneNumber": "36-2216",
+        "subscriberName": "加藤新一"
+      },
+      {
+        "exchangeName": "海",
+        "phoneNumber": "67-3930",
+        "subscriberName": "加藤新藏"
+      },
+      {
+        "exchangeName": "景観",
+        "phoneNumber": "66-2013",
+        "subscriberName": "加藤新之助"
+      },
+      {
+        "exchangeName": "淺草",
+        "phoneNumber": "84-5302",
+        "subscriberName": "加藤新八"
+      },
+      {
+        "exchangeName": "銀座",
+        "phoneNumber": "57-4740",
+        "subscriberName": "加藤新松"
+      },
+      {
+        "exchangeName": "牛込",
+        "phoneNumber": "34-3767",
+        "subscriberName": "加藤吉吉"
+      },
+      {
+        "exchangeName": "小岡",
+        "phoneNumber": "34-2665",
+        "subscriberName": "加藤甚藏"
+      },
+      {
+        "exchangeName": "銀座",
+        "phoneNumber": "57-2256",
+        "subscriberName": "加藤スナ"
+      },
+      {
+        "exchangeName": "下谷",
+        "phoneNumber": "83-0068",
+        "subscriberName": "加藤スナ"
+      },
+      {
+        "exchangeName": "味橋",
+        "phoneNumber": "24-1029",
+        "subscriberName": "加藤すみ"
+      },
+      {
+        "exchangeName": "四谷",
+        "phoneNumber": "35-4689",
+        "subscriberName": "加藤翠松堂"
+      },
+      {
+        "exchangeName": "青山",
+        "phoneNumber": "36-5330",
+        "subscriberName": "加藤末吉"
+      },
+      {
+        "exchangeName": "小岡",
+        "phoneNumber": "34-3568",
+        "subscriberName": "加藤末太郎"
+      },
+      {
+        "exchangeName": "青山",
+        "phoneNumber": "36-3435",
+        "subscriberName": "加藤鈴吉"
+      },
+      {
+        "exchangeName": "青山",
+        "phoneNumber": "36-5270",
+        "subscriberName": "加藤松雄"
+      },
+      {
+        "exchangeName": "高輪",
+        "phoneNumber": "44-0308",
+        "subscriberName": "加藤清一"
+      },
+      {
+        "exchangeName": "京橋",
+        "phoneNumber": "56-3240",
+        "subscriberName": "加藤清吉"
+      },
+      {
+        "exchangeName": "小岡",
+        "phoneNumber": "34-1971",
+        "subscriberName": "加藤清三郎"
+      },
+      {
+        "exchangeName": "青山",
+        "phoneNumber": "36-0502",
+        "subscriberName": "加賀美穂子"
+      },
+      {
+        "exchangeName": "墨田",
+        "phoneNumber": "74-1204",
+        "subscriberName": "加賀美德蔵"
+      },
+      {
+        "exchangeName": "圆牛込",
+        "phoneNumber": "34-1536",
+        "subscriberName": "加賀美平八郎"
+      },
+      {
+        "exchangeName": "牛込",
+        "phoneNumber": "34-4405",
+        "subscriberName": "加賀美保昌"
+      },
+      {
+        "exchangeName": "下谷",
+        "phoneNumber": "83-0650",
+        "subscriberName": "加賀美理一郎"
+      },
+      {
+        "exchangeName": "墨田",
+        "phoneNumber": "74-0836",
+        "subscriberName": "加賀谷吉次郎"
+      },
+      {
+        "exchangeName": "四谷",
+        "phoneNumber": "35-0599",
+        "subscriberName": "信義双物製造所"
+      },
+      {
+        "exchangeName": "浅草",
+        "phoneNumber": "84-3370",
+        "subscriberName": "加賀屋塗店"
+      },
+      {
+        "exchangeName": "昧橋",
+        "phoneNumber": "24-3845",
+        "subscriberName": "加賀屋岩田要蔵"
+      },
+      {
+        "exchangeName": "京橋",
+        "phoneNumber": "56-3047",
+        "subscriberName": "加賀屋軽店"
+      },
+      {
+        "exchangeName": "青山",
+        "phoneNumber": "36-5610",
+        "subscriberName": "加賀屋越村源次郎"
+      },
+      {
+        "exchangeName": "芝",
+        "phoneNumber": "43-2761",
+        "subscriberName": "加賀屋酒場支店"
+      },
+      {
+        "exchangeName": "芝",
+        "phoneNumber": "43-2761",
+        "subscriberName": "加賀屋酒場"
+      },
+      {
+        "exchangeName": "下谷",
+        "phoneNumber": "83-0402",
+        "subscriberName": "加賀屋商店"
+      },
+      {
+        "exchangeName": "下谷",
+        "phoneNumber": "83-0785",
+        "subscriberName": "加賀屋商店"
+      },
+      {
+        "exchangeName": "下谷",
+        "phoneNumber": "83-3726",
+        "subscriberName": "加賀屋商店"
+      },
+      {
+        "exchangeName": "小田川",
+        "phoneNumber": "85-4172",
+        "subscriberName": "加賀屋商店"
+      },
+      {
+        "exchangeName": "小田川",
+        "phoneNumber": "85-1999",
+        "subscriberName": "加賀屋津岡久八郎"
+      },
+      {
+        "exchangeName": "小田川",
+        "phoneNumber": "85-3215",
+        "subscriberName": "加賀屋秀浩"
+      },
+      {
+        "exchangeName": "九陵",
+        "phoneNumber": "33-2443",
+        "subscriberName": "加賀屋山口寺"
+      },
+      {
+        "exchangeName": "本所",
+        "phoneNumber": "73-1466",
+        "subscriberName": "加賀家加藤徳之"
+      },
+      {
+        "exchangeName": "本所",
+        "phoneNumber": "73-2585",
+        "subscriberName": "加賀安商店"
+      },
+      {
+        "exchangeName": "四谷",
+        "phoneNumber": "35-2829",
+        "subscriberName": "加賀安商店"
+      },
+      {
+        "exchangeName": "四谷",
+        "phoneNumber": "35-2815",
+        "subscriberName": "加賀安商店"
+      },
+      {
+        "exchangeName": "四谷",
+        "phoneNumber": "35-2057",
+        "subscriberName": "加賀山學"
+      },
+      {
+        "exchangeName": "浪花",
+        "phoneNumber": "67-3461",
+        "subscriberName": "加賀山病科病院"
+      },
+      {
+        "exchangeName": "小田川",
+        "phoneNumber": "23-1726",
+        "subscriberName": "加賀山三郎"
+      },
+      {
+        "exchangeName": "芝",
+        "phoneNumber": "43-2085",
+        "subscriberName": "加賀井五郎"
+      },
+      {
+        "exchangeName": "圓高輪",
+        "phoneNumber": "44-6864",
+        "subscriberName": "加賀善吉營業所"
+      },
+      {
+        "exchangeName": "圓銀座",
+        "phoneNumber": "57-1442",
+        "subscriberName": "加賀善吉營業所"
+      },
+      {
+        "exchangeName": "京橋",
+        "phoneNumber": "56-5386",
+        "subscriberName": "加賀善吉太郎"
+      },
+      {
+        "exchangeName": "神田",
+        "phoneNumber": "25-4026",
+        "subscriberName": "加久田清正法律事務所"
+      },
+      {
+        "exchangeName": "四谷",
+        "phoneNumber": "35-2548",
+        "subscriberName": "加久田富商店"
+      },
+      {
+        "exchangeName": "小田川",
+        "phoneNumber": "85-4446",
+        "subscriberName": "加藤良介"
+      },
+      {
+        "exchangeName": "芝",
+        "phoneNumber": "43-1227",
+        "subscriberName": "加古幸吉"
+      },
+      {
+        "exchangeName": "高輪",
+        "phoneNumber": "44-2354",
+        "subscriberName": "加古幸吉"
+      },
+      {
+        "exchangeName": "高輪",
+        "phoneNumber": "44-4066",
+        "subscriberName": "加古幸吉出張所"
+      },
+      {
+        "exchangeName": "芝",
+        "phoneNumber": "43-2342",
+        "subscriberName": "加古幸吉丸屋"
+      },
+      {
+        "exchangeName": "青山",
+        "phoneNumber": "36-7518",
+        "subscriberName": "加古幸吉"
+      },
+      {
+        "exchangeName": "圓芝",
+        "phoneNumber": "43-1259",
+        "subscriberName": "加古幸吉"
+      },
+      {
+        "exchangeName": "京橋",
+        "phoneNumber": "56-6341",
+        "subscriberName": "加古勇吉"
+      },
+      {
+        "exchangeName": "四谷",
+        "phoneNumber": "35-0521",
+        "subscriberName": "加護谷節太郎"
+      },
+      {
+        "exchangeName": "淺草",
+        "phoneNumber": "84-3193",
+        "subscriberName": "加久井非三"
+      },
+      {
+        "exchangeName": "青山",
+        "phoneNumber": "36-1202",
+        "subscriberName": "加地吉彦"
+      },
+      {
+        "exchangeName": "下谷",
+        "phoneNumber": "83-1439",
+        "subscriberName": "加地代吉自宅"
+      },
+      {
+        "exchangeName": "東京",
+        "phoneNumber": "57-4515",
+        "subscriberName": "加地代吉"
+      },
+      {
+        "exchangeName": "高輪",
+        "phoneNumber": "44-6808",
+        "subscriberName": "加地利夫"
+      },
+      {
+        "exchangeName": "牛込",
+        "phoneNumber": "34-3281",
+        "subscriberName": "加治英太郎"
+      },
+      {
+        "exchangeName": "牛込",
+        "phoneNumber": "34-3281",
+        "subscriberName": "加治嘉太郎"
+      },
+      {
+        "exchangeName": "本所",
+        "phoneNumber": "73-0764",
+        "subscriberName": "加治邦太郎"
+      },
+      {
+        "exchangeName": "高輪",
+        "phoneNumber": "44-6820",
+        "subscriberName": "加治さき"
+      },
+      {
+        "exchangeName": "圓銀座",
+        "phoneNumber": "57-0171",
+        "subscriberName": "加治時次郎"
+      },
+      {
+        "exchangeName": "淺草",
+        "phoneNumber": "84-3600",
+        "subscriberName": "加治時次郎"
+      },
+      {
+        "exchangeName": "淺草",
+        "phoneNumber": "84-1592",
+        "subscriberName": "加治萬次郎"
+      },
+      {
+        "exchangeName": "高輪",
+        "phoneNumber": "44-0278",
+        "subscriberName": "加治木五郎"
+      },
+      {
+        "exchangeName": "牛込",
+        "phoneNumber": "34-1024",
+        "subscriberName": "加治屋酒場"
+      },
+      {
+        "exchangeName": "青山",
+        "phoneNumber": "36-2947",
+        "subscriberName": "カジマ太物店"
+      },
+      {
+        "exchangeName": "浪花",
+        "phoneNumber": "67-2637",
+        "subscriberName": "加島榮太郎"
+      },
+      {
+        "exchangeName": "浪花",
+        "phoneNumber": "67-1358",
+        "subscriberName": "加島植治"
+      },
+      {
+        "exchangeName": "味橋",
+        "phoneNumber": "24-3221",
+        "subscriberName": "加島梅治"
+      },
+      {
+        "exchangeName": "味橋",
+        "phoneNumber": "24-3226",
+        "subscriberName": "加島梅治"
+      },
+      {
+        "exchangeName": "四谷",
+        "phoneNumber": "35-2660",
+        "subscriberName": "加島梅治"
+      },
+      {
+        "exchangeName": "四谷",
+        "phoneNumber": "35-4769",
+        "subscriberName": "加島梅治"
+      },
+      {
+        "exchangeName": "四谷",
+        "phoneNumber": "35-0626",
+        "subscriberName": "同 新宿出張所"
+      },
+      {
+        "exchangeName": "下谷",
+        "phoneNumber": "83-1380",
+        "subscriberName": "同 日暮里出張所"
+      },
+      {
+        "exchangeName": "青山",
+        "phoneNumber": "36-2050",
+        "subscriberName": "青山支店"
+      },
+      {
+        "exchangeName": "青山",
+        "phoneNumber": "36-7120",
+        "subscriberName": "同 惠比壽出張所"
+      },
+      {
+        "exchangeName": "味橋",
+        "phoneNumber": "24-2705",
+        "subscriberName": "東京支店"
+      },
+      {
+        "exchangeName": "味橋",
+        "phoneNumber": "24-2705",
+        "subscriberName": "同 東京支店"
+      },
+      {
+        "exchangeName": "浪花",
+        "phoneNumber": "67-3027",
+        "subscriberName": "加島光三"
+      },
+      {
+        "exchangeName": "高輪",
+        "phoneNumber": "44-8016",
+        "subscriberName": "加島才浩"
+      },
+      {
+        "exchangeName": "淺草",
+        "phoneNumber": "84-0783",
+        "subscriberName": "加島酒店"
+      },
+      {
+        "exchangeName": "味橋",
+        "phoneNumber": "24-1839",
+        "subscriberName": "加島酒店"
+      },
+      {
+        "exchangeName": "神田",
+        "phoneNumber": "25-0023",
+        "subscriberName": "加島酒店"
+      },
+      {
+        "exchangeName": "淺草",
+        "phoneNumber": "84-6045",
+        "subscriberName": "加島酒店"
+      },
+      {
+        "exchangeName": "淺草",
+        "phoneNumber": "84-0826",
+        "subscriberName": "加島十兵衛"
+      },
+      {
+        "exchangeName": "銀座",
+        "phoneNumber": "57-4092",
+        "subscriberName": "加島商店"
+      },
+      {
+        "exchangeName": "京橋",
+        "phoneNumber": "56-1536",
+        "subscriberName": "加島商店"
+      },
+      {
+        "exchangeName": "味橋",
+        "phoneNumber": "24-0438",
+        "subscriberName": "加島信託株式会社"
+      },
+      {
+        "exchangeName": "味橋",
+        "phoneNumber": "24-0439",
+        "subscriberName": "東京支店"
+      },
+      {
+        "exchangeName": "浪花",
+        "phoneNumber": "67-5212",
+        "subscriberName": "加島善太郎"
+      },
+      {
+        "exchangeName": "神田",
+        "phoneNumber": "25-1026",
+        "subscriberName": "加島チョ"
+      },
+      {
+        "exchangeName": "味橋",
+        "phoneNumber": "24-2616",
+        "subscriberName": "加島虎吉"
+      },
+      {
+        "exchangeName": "小田川",
+        "phoneNumber": "85-7503",
+        "subscriberName": "加島虎吉"
+      },
+      {
+        "exchangeName": "小田川",
+        "phoneNumber": "85-7503",
+        "subscriberName": "至誠堂第二分店"
+      },
+      {
+        "exchangeName": "浪花",
+        "phoneNumber": "67-0802",
+        "subscriberName": "加島平吉"
+      },
+      {
+        "exchangeName": "淺草",
+        "phoneNumber": "84-4055",
+        "subscriberName": "加島本店"
+      },
+      {
+        "exchangeName": "四谷",
+        "phoneNumber": "35-2621",
+        "subscriberName": "加島屋"
+      },
+      {
+        "exchangeName": "京橋",
+        "phoneNumber": "56-1883",
+        "subscriberName": "加島屋"
+      },
+      {
+        "exchangeName": "下谷",
+        "phoneNumber": "83-0662",
+        "subscriberName": "加島屋"
+      },
+      {
+        "exchangeName": "小田川",
+        "phoneNumber": "85-1713",
+        "subscriberName": "加須銀行"
+      },
+      {
+        "exchangeName": "青山",
+        "phoneNumber": "36-6284",
+        "subscriberName": "加須銀行"
+      },
+      {
+        "exchangeName": "銀座",
+        "phoneNumber": "57-2570",
+        "subscriberName": "加須銀行"
+      },
+      {
+        "exchangeName": "牛込",
+        "phoneNumber": "34-3909",
+        "subscriberName": "加須俊一"
+      },
+      {
+        "exchangeName": "浪花",
+        "phoneNumber": "67-2937",
+        "subscriberName": "加須正三郎"
+      },
+      {
+        "exchangeName": "大塚",
+        "phoneNumber": "86-2270",
+        "subscriberName": "加須正太郎"
+      },
+      {
+        "exchangeName": "本所",
+        "phoneNumber": "73-0357",
+        "subscriberName": "加須商店"
+      },
+      {
+        "exchangeName": "銀座",
+        "phoneNumber": "57-2889",
+        "subscriberName": "加須商店"
+      },
+      {
+        "exchangeName": "本所",
+        "phoneNumber": "73-5633",
+        "subscriberName": "加須商店"
+      },
+      {
+        "exchangeName": "小田川",
+        "phoneNumber": "74-2828",
+        "subscriberName": "加須忠作"
+      },
+      {
+        "exchangeName": "高輪",
+        "phoneNumber": "44-0491",
+        "subscriberName": "加須忠次郎"
+      },
+      {
+        "exchangeName": "銀座",
+        "phoneNumber": "57-4795",
+        "subscriberName": "加須忠商店"
+      },
+      {
+        "exchangeName": "銀座",
+        "phoneNumber": "57-4796",
+        "subscriberName": "加須傳五"
+      },
+      {
+        "exchangeName": "下谷",
+        "phoneNumber": "83-6111",
+        "subscriberName": "加須傳五"
+      },
+      {
+        "exchangeName": "京橋",
+        "phoneNumber": "56-4498",
+        "subscriberName": "加藤清"
+      },
+      {
+        "exchangeName": "牛込",
+        "phoneNumber": "34-1217",
+        "subscriberName": "加藤金吾"
+      },
+      {
+        "exchangeName": "高輪",
+        "phoneNumber": "44-2324",
+        "subscriberName": "加藤金吾"
+      },
+      {
+        "exchangeName": "牛込",
+        "phoneNumber": "34-2078",
+        "subscriberName": "加藤金次郎"
+      },
+      {
+        "exchangeName": "浅草",
+        "phoneNumber": "84-1177",
+        "subscriberName": "加藤金次郎"
+      },
+      {
+        "exchangeName": "景観",
+        "phoneNumber": "66-2700",
+        "subscriberName": "加藤金次郎"
+      },
+      {
+        "exchangeName": "浅草",
+        "phoneNumber": "84-4973",
+        "subscriberName": "加藤金七"
+      },
+      {
+        "exchangeName": "牛込",
+        "phoneNumber": "34-0981",
+        "subscriberName": "加藤金藏"
+      },
+      {
+        "exchangeName": "高輪",
+        "phoneNumber": "44-6788",
+        "subscriberName": "加藤金太郎"
+      },
+      {
+        "exchangeName": "小岡",
+        "phoneNumber": "34-5508",
+        "subscriberName": "加藤金之助"
+      },
+      {
+        "exchangeName": "高輪",
+        "phoneNumber": "44-0086",
+        "subscriberName": "加藤金之助商店"
+      },
+      {
+        "exchangeName": "浪花",
+        "phoneNumber": "67-1104",
+        "subscriberName": "加藤金之助"
+      },
+      {
+        "exchangeName": "芝",
+        "phoneNumber": "43-1418",
+        "subscriberName": "加藤蔵之助"
+      },
+      {
+        "exchangeName": "銀座",
+        "phoneNumber": "57-0370",
+        "subscriberName": "加藤銀次郎"
+      },
+      {
+        "exchangeName": "浅草",
+        "phoneNumber": "84-0957",
+        "subscriberName": "加藤次郎商店"
+      },
+      {
+        "exchangeName": "景観",
+        "phoneNumber": "66-2654",
+        "subscriberName": "加藤室和"
+      },
+      {
+        "exchangeName": "本所",
+        "phoneNumber": "73-2437",
+        "subscriberName": "加藤九園次"
+      },
+      {
+        "exchangeName": "本所",
+        "phoneNumber": "73-4603",
+        "subscriberName": "加藤九園次"
+      },
+      {
+        "exchangeName": "本所",
+        "phoneNumber": "73-3329",
+        "subscriberName": "加藤九園治"
+      },
+      {
+        "exchangeName": "高輪",
+        "phoneNumber": "44-8151",
+        "subscriberName": "加藤鐵工場"
+      },
+      {
+        "exchangeName": "高輪",
+        "phoneNumber": "44-4825",
+        "subscriberName": "加藤九米二"
+      },
+      {
+        "exchangeName": "高輪",
+        "phoneNumber": "44-4825",
+        "subscriberName": "加藤久米四郎"
+      },
+      {
+        "exchangeName": "浪花",
+        "phoneNumber": "67-6682",
+        "subscriberName": "加藤國太郎"
+      },
+      {
+        "exchangeName": "高輪",
+        "phoneNumber": "44-6852",
+        "subscriberName": "加藤國太郎"
+      },
+      {
+        "exchangeName": "四谷",
+        "phoneNumber": "35-0269",
+        "subscriberName": "加藤熊一郎"
+      },
+      {
+        "exchangeName": "浪花",
+        "phoneNumber": "67-1979",
+        "subscriberName": "加藤熊治郎"
+      },
+      {
+        "exchangeName": "高輪",
+        "phoneNumber": "44-3228",
+        "subscriberName": "加藤熊之助"
+      },
+      {
+        "exchangeName": "青山",
+        "phoneNumber": "36-2073",
+        "subscriberName": "加藤内藏助"
+      },
+      {
+        "exchangeName": "高輪",
+        "phoneNumber": "44-0932",
+        "subscriberName": "加藤郎治"
+      },
+      {
+        "exchangeName": "高輪",
+        "phoneNumber": "44-5543",
+        "subscriberName": "加藤敬三郎"
+      },
+      {
+        "exchangeName": "牛込",
+        "phoneNumber": "34-5288",
+        "subscriberName": "加藤啓治郎"
+      },
+      {
+        "exchangeName": "青山",
+        "phoneNumber": "36-6470",
+        "subscriberName": "加藤惠美"
+      },
+      {
+        "exchangeName": "京橋",
+        "phoneNumber": "56-4807",
+        "subscriberName": "加藤建次郎"
+      },
+      {
+        "exchangeName": "下谷",
+        "phoneNumber": "83-0682",
+        "subscriberName": "加藤寇太郎"
+      },
+      {
+        "exchangeName": "京橋",
+        "phoneNumber": "56-2060",
+        "subscriberName": "加藤錦"
+      },
+      {
+        "exchangeName": "小岡",
+        "phoneNumber": "34-0617",
+        "subscriberName": "加藤錦"
+      },
+      {
+        "exchangeName": "小岡",
+        "phoneNumber": "34-1047",
+        "subscriberName": "加藤元靜"
+      },
+      {
+        "exchangeName": "大塚",
+        "phoneNumber": "86-0270",
+        "subscriberName": "加藤玄智"
+      },
+      {
+        "exchangeName": "小岡",
+        "phoneNumber": "34-5839",
+        "subscriberName": "加藤玄伯"
+      },
+      {
+        "exchangeName": "高輪",
+        "phoneNumber": "44-2822",
+        "subscriberName": "加藤源喜"
+      },
+      {
+        "exchangeName": "銀座",
+        "phoneNumber": "57-2161",
+        "subscriberName": "加藤源吉"
+      },
+      {
+        "exchangeName": "淺草",
+        "phoneNumber": "84-5159",
+        "subscriberName": "加藤源吉"
+      },
+      {
+        "exchangeName": "本所",
+        "phoneNumber": "73-2946",
+        "subscriberName": "加藤源作"
+      },
+      {
+        "exchangeName": "高輪",
+        "phoneNumber": "44-1044",
+        "subscriberName": "加藤源三"
+      },
+      {
+        "exchangeName": "高輪",
+        "phoneNumber": "44-4172",
+        "subscriberName": "加藤源太郎"
+      },
+      {
+        "exchangeName": "九陵",
+        "phoneNumber": "33-1019",
+        "subscriberName": "加藤源松"
+      },
+      {
+        "exchangeName": "四谷",
+        "phoneNumber": "35-2339",
+        "subscriberName": "加藤大子"
+      },
+      {
+        "exchangeName": "海老名",
+        "phoneNumber": "67-5821",
+        "subscriberName": "加藤五兵衛"
+      },
+      {
+        "exchangeName": "本所",
+        "phoneNumber": "73-4313",
+        "subscriberName": "加藤護"
+      },
+      {
+        "exchangeName": "銀座",
+        "phoneNumber": "57-2238",
+        "subscriberName": "加藤工業所"
+      },
+      {
+        "exchangeName": "京橋",
+        "phoneNumber": "56-7097",
+        "subscriberName": "加藤工業所"
+      },
+      {
+        "exchangeName": "京橋",
+        "phoneNumber": "56-0575",
+        "subscriberName": "加藤工場"
+      },
+      {
+        "exchangeName": "浅草",
+        "phoneNumber": "84-4792",
+        "subscriberName": "加藤工務所"
+      },
+      {
+        "exchangeName": "小岡",
+        "phoneNumber": "34-3866",
+        "subscriberName": "加藤公證役場"
+      },
+      {
+        "exchangeName": "小岡",
+        "phoneNumber": "34-2548",
+        "subscriberName": "加藤信存"
+      },
+      {
+        "exchangeName": "小岡",
+        "phoneNumber": "34-7382",
+        "subscriberName": "加藤行吉"
+      },
+      {
+        "exchangeName": "下谷",
+        "phoneNumber": "83-1523",
+        "subscriberName": "加藤弘三"
+      },
+      {
+        "exchangeName": "京橋",
+        "phoneNumber": "56-1715",
+        "subscriberName": "加藤孝次郎"
+      },
+      {
+        "exchangeName": "浪花",
+        "phoneNumber": "67-6220",
+        "subscriberName": "加藤孝輔"
+      },
+      {
+        "exchangeName": "四谷",
+        "phoneNumber": "35-4036",
+        "subscriberName": "加藤孝三"
+      },
+      {
+        "exchangeName": "芝",
+        "phoneNumber": "43-2415",
+        "subscriberName": "加藤孝三"
+      },
+      {
+        "exchangeName": "京橋",
+        "phoneNumber": "56-5561",
+        "subscriberName": "加藤孝三"
+      },
+      {
+        "exchangeName": "浪花",
+        "phoneNumber": "67-3908",
+        "subscriberName": "加藤孝三郎"
+      },
+      {
+        "exchangeName": "淺草",
+        "phoneNumber": "84-0579",
+        "subscriberName": "加藤孝三郎"
+      },
+      {
+        "exchangeName": "大塚",
+        "phoneNumber": "86-2418",
+        "subscriberName": "加藤孝次郎"
+      },
+      {
+        "exchangeName": "小岡",
+        "phoneNumber": "34-2366",
+        "subscriberName": "加藤孝次郎"
+      },
+      {
+        "exchangeName": "九段",
+        "phoneNumber": "33-0268",
+        "subscriberName": "加藤厚太郎"
+      },
+      {
+        "exchangeName": "小岡",
+        "phoneNumber": "34-0024",
+        "subscriberName": "加藤厚太郎"
+      },
+      {
+        "exchangeName": "青山",
+        "phoneNumber": "36-1433",
+        "subscriberName": "加藤高隣"
+      },
+      {
+        "exchangeName": "淺草",
+        "phoneNumber": "84-3071",
+        "subscriberName": "加藤鷹能"
+      },
+      {
+        "exchangeName": "青山",
+        "phoneNumber": "36-3259",
+        "subscriberName": "加藤黑鉛染鉱製藥所"
+      },
+      {
+        "exchangeName": "大塚",
+        "phoneNumber": "86-1035",
+        "subscriberName": "加藤豊治"
+      },
+      {
+        "exchangeName": "京橋",
+        "phoneNumber": "56-6924",
+        "subscriberName": "加藤左武郎"
+      },
+      {
+        "exchangeName": "大塚",
+        "phoneNumber": "86-1723",
+        "subscriberName": "加藤佐藤"
+      },
+      {
+        "exchangeName": "大塚",
+        "phoneNumber": "86-1723",
+        "subscriberName": "加藤才市"
+      },
+      {
+        "exchangeName": "海",
+        "phoneNumber": "67-2358",
+        "subscriberName": "加藤材木店"
+      },
+      {
+        "exchangeName": "海",
+        "phoneNumber": "67-2439",
+        "subscriberName": "加藤精一郎"
+      },
+      {
+        "exchangeName": "小岡",
+        "phoneNumber": "34-7895",
+        "subscriberName": "加藤作太郎"
+      },
+      {
+        "exchangeName": "高輪",
+        "phoneNumber": "44-1580",
+        "subscriberName": "加藤定吉"
+      },
+      {
+        "exchangeName": "高輪",
+        "phoneNumber": "44-2015",
+        "subscriberName": "加藤定吉"
+      },
+      {
+        "exchangeName": "高輪",
+        "phoneNumber": "44-6140",
+        "subscriberName": "加藤定吉"
+      },
+      {
+        "exchangeName": "高輪",
+        "phoneNumber": "44-7227",
+        "subscriberName": "加藤定吉"
+      },
+      {
+        "exchangeName": "浪花",
+        "phoneNumber": "67-0203",
+        "subscriberName": "加藤定吉"
+      },
+      {
+        "exchangeName": "墨田",
+        "phoneNumber": "74-0998",
+        "subscriberName": "加藤定吉"
+      },
+      {
+        "exchangeName": "銀座",
+        "phoneNumber": "57-0023",
+        "subscriberName": "加藤定吉"
+      },
+      {
+        "exchangeName": "淺草",
+        "phoneNumber": "84-3240",
+        "subscriberName": "加藤定治"
+      },
+      {
+        "exchangeName": "四谷",
+        "phoneNumber": "35-2918",
+        "subscriberName": "加藤定治郎"
+      },
+      {
+        "exchangeName": "淺草",
+        "phoneNumber": "84-2456",
+        "subscriberName": "加藤深次郎"
+      },
+      {
+        "exchangeName": "小岡",
+        "phoneNumber": "34-1388",
+        "subscriberName": "加藤三四郎"
+      },
+      {
+        "exchangeName": "高輪",
+        "phoneNumber": "44-5380",
+        "subscriberName": "加藤三次"
+      },
+      {
+        "exchangeName": "淺草",
+        "phoneNumber": "84-3363",
+        "subscriberName": "加藤產婦人科院"
+      },
+      {
+        "exchangeName": "海",
+        "phoneNumber": "67-4760",
+        "subscriberName": "加藤シャツ店"
+      },
+      {
+        "exchangeName": "大塚",
+        "phoneNumber": "86-0783",
+        "subscriberName": "加藤末藏"
+      },
+      {
+        "exchangeName": "大塚",
+        "phoneNumber": "86-0783",
+        "subscriberName": "加藤しん"
+      },
+      {
+        "exchangeName": "本所",
+        "phoneNumber": "73-3470",
+        "subscriberName": "加藤志ride"
+      },
+      {
+        "exchangeName": "芝",
+        "phoneNumber": "43-2011",
+        "subscriberName": "加藤四郎吉"
+      },
+      {
+        "exchangeName": "芝",
+        "phoneNumber": "43-0814",
+        "subscriberName": "加藤四郎吉"
+      },
+      {
+        "exchangeName": "浪花",
+        "phoneNumber": "67-2163",
+        "subscriberName": "加藤次郎"
+      },
+      {
+        "exchangeName": "京橋",
+        "phoneNumber": "56-3433",
+        "subscriberName": "加藤次郎"
+      },
+      {
+        "exchangeName": "青山",
+        "phoneNumber": "36-7197",
+        "subscriberName": "加藤自動車内張店"
+      },
+      {
+        "exchangeName": "青山",
+        "phoneNumber": "36-7197",
+        "subscriberName": "加藤藤三郎"
+      },
+      {
+        "exchangeName": "四谷",
+        "phoneNumber": "35-4048",
+        "subscriberName": "加藤治郎兵衛"
+      },
+      {
+        "exchangeName": "丸ビル",
+        "phoneNumber": "35-3998",
+        "subscriberName": "加藤事務所"
+      },
+      {
+        "exchangeName": "牛込",
+        "phoneNumber": "34-2539",
+        "subscriberName": "加藤茂枝"
+      },
+      {
+        "exchangeName": "芝",
+        "phoneNumber": "43-1260",
+        "subscriberName": "加藤茂夫"
+      },
+      {
+        "exchangeName": "牛込",
+        "phoneNumber": "34-3781",
+        "subscriberName": "加藤重治"
+      },
+      {
+        "exchangeName": "墨田",
+        "phoneNumber": "74-0321",
+        "subscriberName": "加藤重太郎"
+      },
+      {
+        "exchangeName": "海",
+        "phoneNumber": "44-3501",
+        "subscriberName": "加藤重正"
+      },
+      {
+        "exchangeName": "小岡",
+        "phoneNumber": "34-5256",
+        "subscriberName": "加藤紫郎"
+      },
+      {
+        "exchangeName": "大塚",
+        "phoneNumber": "86-1252",
+        "subscriberName": "加藤靜夫"
+      },
+      {
+        "exchangeName": "本所",
+        "phoneNumber": "73-4569",
+        "subscriberName": "加藤島太郎"
+      },
+      {
+        "exchangeName": "牛込",
+        "phoneNumber": "34-2946",
+        "subscriberName": "加藤寫真機店"
+      },
+      {
+        "exchangeName": "景観",
+        "phoneNumber": "66-3318",
+        "subscriberName": "加藤書写製版所"
+      },
+      {
+        "exchangeName": "神田",
+        "phoneNumber": "25-3535",
+        "subscriberName": "加藤廣太郎"
+      },
+      {
+        "exchangeName": "浪花",
+        "phoneNumber": "67-5251",
+        "subscriberName": "加藤千代吉"
+      },
+      {
+        "exchangeName": "浪花",
+        "phoneNumber": "67-6361",
+        "subscriberName": "加藤地所部"
+      },
+      {
+        "exchangeName": "神田",
+        "phoneNumber": "25-0341",
+        "subscriberName": "加藤忠次"
+      },
+      {
+        "exchangeName": "芝",
+        "phoneNumber": "43-1691",
+        "subscriberName": "加藤忠郎"
+      },
+      {
+        "exchangeName": "高輪",
+        "phoneNumber": "44-7059",
+        "subscriberName": "加藤忠明"
+      },
+      {
+        "exchangeName": "木所",
+        "phoneNumber": "73-1666",
+        "subscriberName": "加藤長吉"
+      },
+      {
+        "exchangeName": "※四谷",
+        "phoneNumber": "35-5312",
+        "subscriberName": "加藤長九郎"
+      },
+      {
+        "exchangeName": "國京橋",
+        "phoneNumber": "56-3741",
+        "subscriberName": "加藤長短"
+      },
+      {
+        "exchangeName": "小川",
+        "phoneNumber": "56-2379",
+        "subscriberName": "加藤錢之助"
+      },
+      {
+        "exchangeName": "浅草",
+        "phoneNumber": "84-1609",
+        "subscriberName": "加藤清る"
+      },
+      {
+        "exchangeName": "九陵",
+        "phoneNumber": "33-0523",
+        "subscriberName": "加藤次惠"
+      },
+      {
+        "exchangeName": "牛込",
+        "phoneNumber": "34-1945",
+        "subscriberName": "加藤造"
+      },
+      {
+        "exchangeName": "青山",
+        "phoneNumber": "36-7782",
+        "subscriberName": "加藤常吉"
+      },
+      {
+        "exchangeName": "高輪",
+        "phoneNumber": "44-6818",
+        "subscriberName": "加藤常蔵"
+      },
+      {
+        "exchangeName": "小川",
+        "phoneNumber": "56-4252",
+        "subscriberName": "加藤常藏"
+      },
+      {
+        "exchangeName": "芝",
+        "phoneNumber": "43-1021",
+        "subscriberName": "加藤經緯"
+      },
+      {
+        "exchangeName": "木所",
+        "phoneNumber": "73-0350",
+        "subscriberName": "加藤吉"
+      },
+      {
+        "exchangeName": "京橋",
+        "phoneNumber": "56-1773",
+        "subscriberName": "加藤てう"
+      },
+      {
+        "exchangeName": "下谷",
+        "phoneNumber": "83-4260",
+        "subscriberName": "加藤貞三郎"
+      },
+      {
+        "exchangeName": "浅草",
+        "phoneNumber": "84-0658",
+        "subscriberName": "加藤貞太郎"
+      },
+      {
+        "exchangeName": "銀座",
+        "phoneNumber": "57-1657",
+        "subscriberName": "加藤銭次郎"
+      },
+      {
+        "exchangeName": "四谷",
+        "phoneNumber": "35-3453",
+        "subscriberName": "加藤鐵五郎"
+      },
+      {
+        "exchangeName": "牛込",
+        "phoneNumber": "34-4643",
+        "subscriberName": "加藤鐵次郎"
+      },
+      {
+        "exchangeName": "浪花",
+        "phoneNumber": "67-3364",
+        "subscriberName": "加藤鐵太郎"
+      },
+      {
+        "exchangeName": "浪花",
+        "phoneNumber": "67-1635",
+        "subscriberName": "加藤鐵畑"
+      },
+      {
+        "exchangeName": "國京橋",
+        "phoneNumber": "85-2472",
+        "subscriberName": "加藤照"
+      },
+      {
+        "exchangeName": "浅草",
+        "phoneNumber": "84-1002",
+        "subscriberName": "加藤傳四郎"
+      },
+      {
+        "exchangeName": "高輪",
+        "phoneNumber": "44-6467",
+        "subscriberName": "加藤電氣商店"
+      },
+      {
+        "exchangeName": "高輪",
+        "phoneNumber": "44-5965",
+        "subscriberName": "加藤電工場"
+      },
+      {
+        "exchangeName": "青山",
+        "phoneNumber": "36-3329",
+        "subscriberName": "加藤園太郎"
+      },
+      {
+        "exchangeName": "京橋",
+        "phoneNumber": "56-5633",
+        "subscriberName": "加藤トク"
+      },
+      {
+        "exchangeName": "浅草",
+        "phoneNumber": "84-3646",
+        "subscriberName": "加藤仁の"
+      },
+      {
+        "exchangeName": "小川",
+        "phoneNumber": "56-4928",
+        "subscriberName": "加藤度量店"
+      },
+      {
+        "exchangeName": "浪花",
+        "phoneNumber": "67-2135",
+        "subscriberName": "加藤東五郎"
+      },
+      {
+        "exchangeName": "京橋",
+        "phoneNumber": "56-0582",
+        "subscriberName": "加藤次郎"
+      },
+      {
+        "exchangeName": "京橋",
+        "phoneNumber": "56-1882",
+        "subscriberName": "相蔵商店"
+      },
+      {
+        "exchangeName": "青山",
+        "phoneNumber": "36-7463",
+        "subscriberName": "加藤次郎"
+      },
+      {
+        "exchangeName": "國青山",
+        "phoneNumber": "36-1232",
+        "subscriberName": "加藤七茂の"
+      },
+      {
+        "exchangeName": "高輪",
+        "phoneNumber": "44-1931",
+        "subscriberName": "加藤蔵太郎"
+      },
+      {
+        "exchangeName": "國京橋",
+        "phoneNumber": "85-5553",
+        "subscriberName": "加藤蔵太郎"
+      },
+      {
+        "exchangeName": "國京橋",
+        "phoneNumber": "85-6731",
+        "subscriberName": "加藤蔵太郎"
+      },
+      {
+        "exchangeName": "木所",
+        "phoneNumber": "73-1439",
+        "subscriberName": "加藤蔵松"
+      },
+      {
+        "exchangeName": "京橋",
+        "phoneNumber": "56-5574",
+        "subscriberName": "加藤蔵松營業所"
+      },
+      {
+        "exchangeName": "高輪",
+        "phoneNumber": "44-3723",
+        "subscriberName": "加藤蔵五郎"
+      },
+      {
+        "exchangeName": "銀座",
+        "phoneNumber": "57-4997",
+        "subscriberName": "加藤利夫"
+      },
+      {
+        "exchangeName": "青山",
+        "phoneNumber": "36-1091",
+        "subscriberName": "加藤利堆"
+      },
+      {
+        "exchangeName": "浅草",
+        "phoneNumber": "84-4756",
+        "subscriberName": "加藤利三郎"
+      },
+      {
+        "exchangeName": "國京橋",
+        "phoneNumber": "85-3188",
+        "subscriberName": "加藤德雄"
+      },
+      {
+        "exchangeName": "四谷",
+        "phoneNumber": "35-3700",
+        "subscriberName": "加藤德三郎"
+      },
+      {
+        "exchangeName": "四谷",
+        "phoneNumber": "35-1139",
+        "subscriberName": "加藤德三郎"
+      },
+      {
+        "exchangeName": "四谷",
+        "phoneNumber": "35-1364",
+        "subscriberName": "加藤徳三郎"
+      },
+      {
+        "exchangeName": "青山",
+        "phoneNumber": "36-5922",
+        "subscriberName": "加藤徳三郎"
+      },
+      {
+        "exchangeName": "別府",
+        "phoneNumber": "66-3358",
+        "subscriberName": "加藤徳三郎"
+      },
+      {
+        "exchangeName": "神田",
+        "phoneNumber": "25-1495",
+        "subscriberName": "加藤徳次郎"
+      },
+      {
+        "exchangeName": "京橋",
+        "phoneNumber": "56-4618",
+        "subscriberName": "加藤徳三"
+      },
+      {
+        "exchangeName": "大塚",
+        "phoneNumber": "86-1981",
+        "subscriberName": "加藤徳兵紳"
+      },
+      {
+        "exchangeName": "神田",
+        "phoneNumber": "25-1233",
+        "subscriberName": "加藤徳兵衛商店"
+      },
+      {
+        "exchangeName": "下谷",
+        "phoneNumber": "83-1695",
+        "subscriberName": "加藤徳貴"
+      },
+      {
+        "exchangeName": "國寿山",
+        "phoneNumber": "36-1456",
+        "subscriberName": "加藤徳行"
+      },
+      {
+        "exchangeName": "青山",
+        "phoneNumber": "36-2168",
+        "subscriberName": "加藤徳義"
+      },
+      {
+        "exchangeName": "芝",
+        "phoneNumber": "43-1866",
+        "subscriberName": "加藤留吉"
+      },
+      {
+        "exchangeName": "小川",
+        "phoneNumber": "56-5722",
+        "subscriberName": "加藤具義"
+      },
+      {
+        "exchangeName": "牛込",
+        "phoneNumber": "34-3741",
+        "subscriberName": "加藤知夫"
+      },
+      {
+        "exchangeName": "高輪",
+        "phoneNumber": "44-3115",
+        "subscriberName": "加藤豊子"
+      },
+      {
+        "exchangeName": "墨田",
+        "phoneNumber": "74-2130",
+        "subscriberName": "加藤豊次郎"
+      },
+      {
+        "exchangeName": "芝",
+        "phoneNumber": "43-2431",
+        "subscriberName": "加藤豊威"
+      },
+      {
+        "exchangeName": "芝",
+        "phoneNumber": "43-0554",
+        "subscriberName": "加藤寅賀"
+      },
+      {
+        "exchangeName": "牛込",
+        "phoneNumber": "34-3479",
+        "subscriberName": "加藤虎之助"
+      },
+      {
+        "exchangeName": "國四谷",
+        "phoneNumber": "35-2555",
+        "subscriberName": "加藤内科小鬼科院"
+      },
+      {
+        "exchangeName": "青山",
+        "phoneNumber": "36-5422",
+        "subscriberName": "加藤文一"
+      },
+      {
+        "exchangeName": "九陵",
+        "phoneNumber": "33-3142",
+        "subscriberName": "加藤直吉"
+      },
+      {
+        "exchangeName": "九陵",
+        "phoneNumber": "33-2191",
+        "subscriberName": "加藤直吉"
+      },
+      {
+        "exchangeName": "下谷",
+        "phoneNumber": "83-4569",
+        "subscriberName": "加藤直三郎"
+      },
+      {
+        "exchangeName": "四谷",
+        "phoneNumber": "35-2011",
+        "subscriberName": "加藤直次郎"
+      },
+      {
+        "exchangeName": "京橋",
+        "phoneNumber": "56-6755",
+        "subscriberName": "加藤直助"
+      },
+      {
+        "exchangeName": "味橋",
+        "phoneNumber": "24-0895",
+        "subscriberName": "加藤直助"
+      },
+      {
+        "exchangeName": "小川",
+        "phoneNumber": "56-2648",
+        "subscriberName": "加藤直哉"
+      },
+      {
+        "exchangeName": "淺草",
+        "phoneNumber": "84-2483",
+        "subscriberName": "加藤中三"
+      },
+      {
+        "exchangeName": "中唐堂",
+        "phoneNumber": "10-4091",
+        "subscriberName": "加藤中三"
+      },
+      {
+        "exchangeName": "下谷",
+        "phoneNumber": "83-3015",
+        "subscriberName": "加藤ノブ金若"
+      },
+      {
+        "exchangeName": "大塚",
+        "phoneNumber": "86-2305",
+        "subscriberName": "加藤乃風徳和"
+      },
+      {
+        "exchangeName": "浪花",
+        "phoneNumber": "67-4701",
+        "subscriberName": "加藤延衛ノブ"
+      },
+      {
+        "exchangeName": "牛込",
+        "phoneNumber": "34-0449",
+        "subscriberName": "加藤信子"
+      },
+      {
+        "exchangeName": "浅草",
+        "phoneNumber": "84-4214",
+        "subscriberName": "加藤ハツ"
+      },
+      {
+        "exchangeName": "浅草",
+        "phoneNumber": "84-0459",
+        "subscriberName": "加藤ハル"
+      },
+      {
+        "exchangeName": "下谷",
+        "phoneNumber": "83-3241",
+        "subscriberName": "加藤伯記録館所"
+      },
+      {
+        "exchangeName": "丸内",
+        "phoneNumber": "23-3697",
+        "subscriberName": "加藤伯記録館所"
+      },
+      {
+        "exchangeName": "浅草",
+        "phoneNumber": "84-0899",
+        "subscriberName": "加藤初次郎"
+      },
+      {
+        "exchangeName": "青山",
+        "phoneNumber": "36-3728",
+        "subscriberName": "加藤春雄"
+      },
+      {
+        "exchangeName": "味橋",
+        "phoneNumber": "24-2813",
+        "subscriberName": "加藤春吉"
+      },
+      {
+        "exchangeName": "牛込",
+        "phoneNumber": "34-3175",
+        "subscriberName": "加藤春吉"
+      },
+      {
+        "exchangeName": "本所",
+        "phoneNumber": "73-0466",
+        "subscriberName": "加藤春吉"
+      },
+      {
+        "exchangeName": "國卡所",
+        "phoneNumber": "73-0336",
+        "subscriberName": "加藤春吉商店"
+      },
+      {
+        "exchangeName": "高輪",
+        "phoneNumber": "44-7365",
+        "subscriberName": "加藤春雄"
+      },
+      {
+        "exchangeName": "牛込",
+        "phoneNumber": "34-5546",
+        "subscriberName": "加藤半七"
+      },
+      {
+        "exchangeName": "九陵",
+        "phoneNumber": "33-3105",
+        "subscriberName": "加藤ひき"
+      },
+      {
+        "exchangeName": "牛込",
+        "phoneNumber": "34-2426",
+        "subscriberName": "加藤ひき"
+      },
+      {
+        "exchangeName": "牛込",
+        "phoneNumber": "34-2427",
+        "subscriberName": "加藤ひき"
+      },
+      {
+        "exchangeName": "下谷",
+        "phoneNumber": "83-0891",
+        "subscriberName": "加藤ひき"
+      },
+      {
+        "exchangeName": "味橋",
+        "phoneNumber": "24-0826",
+        "subscriberName": "加藤久子"
+      },
+      {
+        "exchangeName": "高輪",
+        "phoneNumber": "44-1808",
+        "subscriberName": "加藤秀三郎"
+      },
+      {
+        "exchangeName": "小川",
+        "phoneNumber": "56-4451",
+        "subscriberName": "加藤秀浩"
+      },
+      {
+        "exchangeName": "銀座",
+        "phoneNumber": "57-1102",
+        "subscriberName": "加藤柯院"
+      },
+      {
+        "exchangeName": "味橋",
+        "phoneNumber": "24-2988",
+        "subscriberName": "加藤憲吉"
+      },
+      {
+        "exchangeName": "青山",
+        "phoneNumber": "36-1783",
+        "subscriberName": "加藤ふき"
+      },
+      {
+        "exchangeName": "下谷",
+        "phoneNumber": "83-2974",
+        "subscriberName": "加藤宮久"
+      },
+      {
+        "exchangeName": "芝",
+        "phoneNumber": "43-2085",
+        "subscriberName": "加藤蒲園寺"
+      },
+      {
+        "exchangeName": "高輪",
+        "phoneNumber": "44-5831",
+        "subscriberName": "加藤蒲園寺"
+      },
+      {
+        "exchangeName": "青山",
+        "phoneNumber": "36-4635",
+        "subscriberName": "加藤瀬太郎"
+      },
+      {
+        "exchangeName": "大塚",
+        "phoneNumber": "86-0351",
+        "subscriberName": "加藤瀬長"
+      },
+      {
+        "exchangeName": "浪花",
+        "phoneNumber": "67-1669",
+        "subscriberName": "加藤瀬長"
+      },
+      {
+        "exchangeName": "牛込",
+        "phoneNumber": "34-2344",
+        "subscriberName": "加藤房吉"
+      },
+      {
+        "exchangeName": "小川",
+        "phoneNumber": "56-4381",
+        "subscriberName": "加藤房次郎"
+      },
+      {
+        "exchangeName": "國九陵",
+        "phoneNumber": "33-0521",
+        "subscriberName": "加藤多作"
+      },
+      {
+        "exchangeName": "高輪",
+        "phoneNumber": "44-4383",
+        "subscriberName": "加藤文次郎"
+      },
+      {
+        "exchangeName": "小川",
+        "phoneNumber": "56-1554",
+        "subscriberName": "加藤平吉"
+      },
+      {
+        "exchangeName": "本所",
+        "phoneNumber": "73-3246",
+        "subscriberName": "加藤平次郎"
+      },
+      {
+        "exchangeName": "本所",
+        "phoneNumber": "73-5314",
+        "subscriberName": "加藤平次郎"
+      },
+      {
+        "exchangeName": "本所",
+        "phoneNumber": "73-5021",
+        "subscriberName": "加藤平次郎商店"
+      },
+      {
+        "exchangeName": "本所",
+        "phoneNumber": "73-3832",
+        "subscriberName": "加藤平次郎"
+      },
+      {
+        "exchangeName": "本所",
+        "phoneNumber": "73-3708",
+        "subscriberName": "加藤平次郎"
+      },
+      {
+        "exchangeName": "神田",
+        "phoneNumber": "25-2081",
+        "subscriberName": "加藤平綾"
+      },
+      {
+        "exchangeName": "浪花",
+        "phoneNumber": "67-3683",
+        "subscriberName": "加藤平綾"
+      },
+      {
+        "exchangeName": "九陵",
+        "phoneNumber": "33-3295",
+        "subscriberName": "加藤平綾"
+      },
+      {
+        "exchangeName": "四谷",
+        "phoneNumber": "35-1514",
+        "subscriberName": "加藤平綾"
+      },
+      {
+        "exchangeName": "神田",
+        "phoneNumber": "25-2316",
+        "subscriberName": "加藤法作"
+      },
+      {
+        "exchangeName": "本所",
+        "phoneNumber": "73-3176",
+        "subscriberName": "加藤鉄店"
+      },
+      {
+        "exchangeName": "浪花",
+        "phoneNumber": "67-5774",
+        "subscriberName": "加藤鹿サ"
+      },
+      {
+        "exchangeName": "浪花",
+        "phoneNumber": "67-3710",
+        "subscriberName": "加藤まつ"
+      },
+      {
+        "exchangeName": "丸内",
+        "phoneNumber": "66-0639",
+        "subscriberName": "加藤孫三郎"
+      },
+      {
+        "exchangeName": "高輪",
+        "phoneNumber": "44-3878",
+        "subscriberName": "加藤孫太郎"
+      },
+      {
+        "exchangeName": "青山",
+        "phoneNumber": "36-7793",
+        "subscriberName": "加藤正樹"
+      },
+      {
+        "exchangeName": "四谷",
+        "phoneNumber": "35-2187",
+        "subscriberName": "加藤正吉"
+      },
+      {
+        "exchangeName": "四谷",
+        "phoneNumber": "35-5896",
+        "subscriberName": "加藤正吉"
+      },
+      {
+        "exchangeName": "九陵",
+        "phoneNumber": "33-0930",
+        "subscriberName": "加藤正治"
+      },
+      {
+        "exchangeName": "浅草",
+        "phoneNumber": "84-0938",
+        "subscriberName": "加藤正治"
+      },
+      {
+        "exchangeName": "牛込",
+        "phoneNumber": "34-5095",
+        "subscriberName": "加藤正俊"
+      },
+      {
+        "exchangeName": "墨田",
+        "phoneNumber": "74-2297",
+        "subscriberName": "加藤正信"
+      },
+      {
+        "exchangeName": "墨田",
+        "phoneNumber": "74-2298",
+        "subscriberName": "加藤正信"
+      },
+      {
+        "exchangeName": "高輪",
+        "phoneNumber": "44-0815",
+        "subscriberName": "加藤正美"
+      },
+      {
+        "exchangeName": "高輪",
+        "phoneNumber": "44-3107",
+        "subscriberName": "加藤正道"
+      },
+      {
+        "exchangeName": "牛込",
+        "phoneNumber": "34-2954",
+        "subscriberName": "加藤正實"
+      },
+      {
+        "exchangeName": "本所",
+        "phoneNumber": "73-2915",
+        "subscriberName": "加藤政造"
+      },
+      {
+        "exchangeName": "四谷",
+        "phoneNumber": "35-0769",
+        "subscriberName": "加藤政藏"
+      },
+      {
+        "exchangeName": "高輪",
+        "phoneNumber": "44-2331",
+        "subscriberName": "加藤耕太郎"
+      },
+      {
+        "exchangeName": "墨田",
+        "phoneNumber": "74-0839",
+        "subscriberName": "加藤耕太郎商店"
+      },
+      {
+        "exchangeName": "高輪",
+        "phoneNumber": "44-0692",
+        "subscriberName": "加藤又平"
+      },
+      {
+        "exchangeName": "青山",
+        "phoneNumber": "36-2587",
+        "subscriberName": "加藤又兵衛"
+      },
+      {
+        "exchangeName": "京橋",
+        "phoneNumber": "56-1848",
+        "subscriberName": "加藤又兵衛"
+      },
+      {
+        "exchangeName": "小川",
+        "phoneNumber": "56-4282",
+        "subscriberName": "加藤松吉"
+      },
+      {
+        "exchangeName": "高輪",
+        "phoneNumber": "44-0783",
+        "subscriberName": "加藤松吉"
+      },
+      {
+        "exchangeName": "浅草",
+        "phoneNumber": "84-1263",
+        "subscriberName": "加藤松次郎"
+      }
+    ]
+  },
+  "num_pages": 3,
+  "score": 0.5306122448979578,
+  "time_sec": 174.63481998443604
+}

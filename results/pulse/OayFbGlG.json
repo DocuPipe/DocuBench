@@ -1,0 +1,25 @@
+{
+  "cost": 0.42,
+  "data": {
+    "admitDate": "2023-01-15",
+    "age": 20,
+    "conditionOfDischarge": "Stable. The patient is able to perform ADLs.",
+    "diagnoses": [],
+    "dischargeDate": "2023-01-17",
+    "dischargeDestination": "Home with brother.",
+    "dischargeMedications": [],
+    "mrn": "000012",
+    "patientName": "John Doe",
+    "sex": "M",
+    "signedDate": "2023-01-17",
+    "signingProvider": "Caring Provider, MD",
+    "vitalsBloodPressure": "126/86",
+    "vitalsO2Saturation": "98% on room air",
+    "vitalsPulseRate": 97,
+    "vitalsRespirations": 16,
+    "vitalsTemperature": "36.6"
+  },
+  "num_pages": 2,
+  "score": 0.8333333333333334,
+  "time_sec": 19.96680188179016
+}

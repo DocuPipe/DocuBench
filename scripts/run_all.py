@@ -26,6 +26,8 @@ ENGINE_RUNNERS = {
     "claude5": "scripts/run_claude_bedrock.py",
     "gemini": "scripts/run_gemini.py",
     "gpt": "scripts/run_gpt.py",
+    "pulse": "scripts/run_pulse.py",
+    "pulse_standard": "scripts/run_pulse.py",
     "reducto": "scripts/run_reducto.py",
     "reducto_standard": "scripts/run_reducto.py",
 }

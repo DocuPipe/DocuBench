@@ -1,0 +1,76 @@
+{
+  "cost": 0.21,
+  "data": {
+    "functionalIdentifierCode": "PO",
+    "groupControlNumber": "1000",
+    "interchangeControlNumber": "000001000",
+    "interchangeReceiverId": "NOTP",
+    "interchangeSenderId": "NOTP",
+    "lineItemCount": 6,
+    "lineItems": [
+      {
+        "buyerItemId": "(12)0-083628-838",
+        "lineNumber": 1,
+        "quantity": 120,
+        "unitOfMeasure": "EA",
+        "unitPrice": 9.25,
+        "vendorItemId": "ABA18783"
+      },
+      {
+        "buyerItemId": "(69) 0-093837-991",
+        "lineNumber": 2,
+        "quantity": 220,
+        "unitOfMeasure": "EA",
+        "unitPrice": 13.79,
+        "vendorItemId": "RUP83112"
+      },
+      {
+        "buyerItemId": "(71)0-099172-837",
+        "lineNumber": 3,
+        "quantity": 126,
+        "unitOfMeasure": "EA",
+        "unitPrice": 10.99,
+        "vendorItemId": "CPR19293"
+      },
+      {
+        "buyerItemId": "(71) 0-012110-737",
+        "lineNumber": 4,
+        "quantity": 76,
+        "unitOfMeasure": "EA",
+        "unitPrice": 4.35,
+        "vendorItemId": "PIW28173"
+      },
+      {
+        "buyerItemId": "(71)0-084888-975",
+        "lineNumber": 5,
+        "quantity": 72,
+        "unitOfMeasure": "EA",
+        "unitPrice": 7.5,
+        "vendorItemId": "JBM19387"
+      },
+      {
+        "buyerItemId": "(71) 0-003922-121",
+        "lineNumber": 6,
+        "quantity": 696,
+        "unitOfMeasure": "EA",
+        "unitPrice": 9.55,
+        "vendorItemId": "IUI19283"
+      }
+    ],
+    "purchaseOrderDate": "2001-05-01",
+    "purchaseOrderNumber": "08292243254",
+    "purchaseOrderTypeCode": "SA",
+    "requestedDeliveryDate": "2001-05-10",
+    "shipToCity": "CITY",
+    "shipToIdCode": "0001234567890",
+    "shipToName": "RETAIL STORE",
+    "shipToState": "ST",
+    "shipToStreet": "123 ANYWHERE AVENUE",
+    "shipToZip": "12345",
+    "transactionSetCode": "850",
+    "transactionSetControlNumber": "000000010"
+  },
+  "num_pages": 1,
+  "score": 1.0,
+  "time_sec": 73.77468490600586
+}

@@ -1,0 +1,112 @@
+{
+  "cost": 0.63,
+  "data": {
+    "amendmentDate": "2016-09-30",
+    "amendmentNumber": "Fourth",
+    "baseRentSchedule": [
+      {
+        "annualRatePerSquareFoot": 19.25,
+        "monthlyRent": 18642.02,
+        "periodMonths": "1 - 12",
+        "premisesName": "RR Expansion Premises"
+      },
+      {
+        "annualRatePerSquareFoot": 19.78,
+        "monthlyRent": 19155.29,
+        "periodMonths": "13 - 24",
+        "premisesName": "RR Expansion Premises"
+      },
+      {
+        "annualRatePerSquareFoot": 20.32,
+        "monthlyRent": 19678.23,
+        "periodMonths": "25 - 36",
+        "premisesName": "RR Expansion Premises"
+      },
+      {
+        "annualRatePerSquareFoot": 20.88,
+        "monthlyRent": 20220.54,
+        "periodMonths": "37 - 48",
+        "premisesName": "RR Expansion Premises"
+      },
+      {
+        "annualRatePerSquareFoot": 21.46,
+        "monthlyRent": 20782.23,
+        "periodMonths": "49 - 60",
+        "premisesName": "RR Expansion Premises"
+      },
+      {
+        "annualRatePerSquareFoot": 22.05,
+        "monthlyRent": 21353.59,
+        "periodMonths": "61 - 72",
+        "premisesName": "RR Expansion Premises"
+      },
+      {
+        "annualRatePerSquareFoot": 22.65,
+        "monthlyRent": 21934.64,
+        "periodMonths": "73 - 84",
+        "premisesName": "RR Expansion Premises"
+      },
+      {
+        "annualRatePerSquareFoot": 23.28,
+        "monthlyRent": 22544.74,
+        "periodMonths": "85 - Expiration Date",
+        "premisesName": "RR Expansion Premises"
+      },
+      {
+        "annualRatePerSquareFoot": 25,
+        "monthlyRent": 15612.5,
+        "periodMonths": "1 - 12",
+        "premisesName": "PR Second Floor Expansion Premises"
+      },
+      {
+        "annualRatePerSquareFoot": 25.69,
+        "monthlyRent": 16043.41,
+        "periodMonths": "13 - 24",
+        "premisesName": "PR Second Floor Expansion Premises"
+      },
+      {
+        "annualRatePerSquareFoot": 26.39,
+        "monthlyRent": 16480.56,
+        "periodMonths": "25 - 36",
+        "premisesName": "PR Second Floor Expansion Premises"
+      },
+      {
+        "annualRatePerSquareFoot": 27.12,
+        "monthlyRent": 16936.44,
+        "periodMonths": "37 - 48",
+        "premisesName": "PR Second Floor Expansion Premises"
+      },
+      {
+        "annualRatePerSquareFoot": 27.87,
+        "monthlyRent": 17404.82,
+        "periodMonths": "49 - 60",
+        "premisesName": "PR Second Floor Expansion Premises"
+      },
+      {
+        "annualRatePerSquareFoot": 28.63,
+        "monthlyRent": 17879.44,
+        "periodMonths": "61 - 72",
+        "premisesName": "PR Second Floor Expansion Premises"
+      },
+      {
+        "annualRatePerSquareFoot": 29.42,
+        "monthlyRent": 18372.79,
+        "periodMonths": "73 - 84",
+        "premisesName": "PR Second Floor Expansion Premises"
+      },
+      {
+        "annualRatePerSquareFoot": 30.23,
+        "monthlyRent": 18878.64,
+        "periodMonths": "85 - Expiration Date",
+        "premisesName": "PR Second Floor Expansion Premises"
+      }
+    ],
+    "landlordName": "VENABLE CENTER, LLC",
+    "prSecondFloorExpansionSquareFeet": 7494,
+    "rrExpansionSquareFeet": 11621,
+    "tenantName": "PRECISION BIOSCIENCES, INC."
+  },
+  "num_pages": 3,
+  "score": 1.0,
+  "time_sec": 42.24702286720276
+}

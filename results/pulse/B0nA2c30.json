@@ -1,0 +1,148 @@
+{
+  "cost": 0.21,
+  "data": {
+    "amountPaid": 32.66,
+    "authorizationCode": "728762",
+    "cardLastFour": "2931",
+    "employeeName": "Robert C",
+    "lineItems": [
+      {
+        "description": "Little Hamburger",
+        "isModifier": false,
+        "lineTotal": 5.19,
+        "quantity": 1,
+        "unitPrice": null
+      },
+      {
+        "description": "Lettuce",
+        "isModifier": true,
+        "lineTotal": 0,
+        "quantity": 1,
+        "unitPrice": null
+      },
+      {
+        "description": "Pickles",
+        "isModifier": true,
+        "lineTotal": 0,
+        "quantity": 1,
+        "unitPrice": null
+      },
+      {
+        "description": "Tomatoes",
+        "isModifier": true,
+        "lineTotal": 0,
+        "quantity": 1,
+        "unitPrice": null
+      },
+      {
+        "description": "Grilled Onions",
+        "isModifier": true,
+        "lineTotal": 0,
+        "quantity": 1,
+        "unitPrice": null
+      },
+      {
+        "description": "Grilled Mushrooms",
+        "isModifier": true,
+        "lineTotal": 0,
+        "quantity": 1,
+        "unitPrice": null
+      },
+      {
+        "description": "Mustard",
+        "isModifier": true,
+        "lineTotal": 0,
+        "quantity": 1,
+        "unitPrice": null
+      },
+      {
+        "description": "Ketchup",
+        "isModifier": true,
+        "lineTotal": 0,
+        "quantity": 1,
+        "unitPrice": null
+      },
+      {
+        "description": "Jalapeno Peppers",
+        "isModifier": true,
+        "lineTotal": 0,
+        "quantity": 1,
+        "unitPrice": null
+      },
+      {
+        "description": "Large Fry",
+        "isModifier": false,
+        "lineTotal": 11.58,
+        "quantity": 2,
+        "unitPrice": 5.79
+      },
+      {
+        "description": "Large Soda",
+        "isModifier": false,
+        "lineTotal": 2.99,
+        "quantity": 1,
+        "unitPrice": null
+      },
+      {
+        "description": "Cheeseburger",
+        "isModifier": false,
+        "lineTotal": 7.85,
+        "quantity": 1,
+        "unitPrice": null
+      },
+      {
+        "description": "Mayo",
+        "isModifier": true,
+        "lineTotal": 0,
+        "quantity": 1,
+        "unitPrice": null
+      },
+      {
+        "description": "Lettuce",
+        "isModifier": true,
+        "lineTotal": 0,
+        "quantity": 1,
+        "unitPrice": null
+      },
+      {
+        "description": "Pickles",
+        "isModifier": true,
+        "lineTotal": 0,
+        "quantity": 1,
+        "unitPrice": null
+      },
+      {
+        "description": "BBQ Sauce",
+        "isModifier": true,
+        "lineTotal": 0,
+        "quantity": 1,
+        "unitPrice": null
+      },
+      {
+        "description": "Regular Soda",
+        "isModifier": false,
+        "lineTotal": 2.7,
+        "quantity": 1,
+        "unitPrice": null
+      }
+    ],
+    "merchantName": "FIVE GUYS",
+    "orderId": "AAAP2E9MABEP",
+    "orderTotal": 32.66,
+    "paymentMethod": "MasterCard",
+    "registerOrTerminal": "47 - FIVE GUYS",
+    "salesTax": 2.35,
+    "storeCity": "Lodi",
+    "storeNumber": "CA-1861",
+    "storePhone": "(209) 333-9750",
+    "storeState": "CA",
+    "storeStreetAddress": "2640 Reynolds Ranch Pkwy - Ste 140",
+    "storeZip": "95240",
+    "subtotal": 30.31,
+    "transactionDate": "2017-05-25",
+    "transactionTime": "1:00:17 PM"
+  },
+  "num_pages": 1,
+  "score": 0.9659090909090909,
+  "time_sec": 43.70080900192261
+}

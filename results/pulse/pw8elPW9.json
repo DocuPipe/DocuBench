@@ -1,0 +1,92 @@
+{
+  "cost": 0.63,
+  "data": {
+    "balanceSheetLineItems": [
+      {
+        "currentYearAmount": 1250,
+        "label": "מזומנים ושווי מזומנים",
+        "priorYearAmount": 980,
+        "section": "נכסים"
+      },
+      {
+        "currentYearAmount": 3420,
+        "label": "לקוחות",
+        "priorYearAmount": 2890,
+        "section": "נכסים"
+      },
+      {
+        "currentYearAmount": 1870,
+        "label": "מלאי",
+        "priorYearAmount": 2100,
+        "section": "נכסים"
+      },
+      {
+        "currentYearAmount": 5640,
+        "label": "רכוש קבוע, נטו",
+        "priorYearAmount": 6010,
+        "section": "נכסים"
+      },
+      {
+        "currentYearAmount": 2150,
+        "label": "ספקים",
+        "priorYearAmount": 1940,
+        "section": "התחייבויות והון"
+      },
+      {
+        "currentYearAmount": 1800,
+        "label": "הלוואות לזמן קצר",
+        "priorYearAmount": 2200,
+        "section": "התחייבויות והון"
+      },
+      {
+        "currentYearAmount": 3400,
+        "label": "הלוואות לזמן ארוך",
+        "priorYearAmount": 3900,
+        "section": "התחייבויות והון"
+      },
+      {
+        "currentYearAmount": 2000,
+        "label": "הון מניות",
+        "priorYearAmount": 2000,
+        "section": "התחייבויות והון"
+      },
+      {
+        "currentYearAmount": 2830,
+        "label": "עודפים",
+        "priorYearAmount": 1940,
+        "section": "התחייבויות והון"
+      }
+    ],
+    "companyName": "אורן טכנולוגיות בע\"מ",
+    "currencyUnits": "אלפי ש\"ח",
+    "incomeStatementLineItems": [
+      {
+        "currentYearAmount": 18500,
+        "label": "הכנסות ממכירות",
+        "priorYearAmount": 16200
+      },
+      {
+        "currentYearAmount": -11100,
+        "label": "עלות המכר",
+        "priorYearAmount": -9720
+      },
+      {
+        "currentYearAmount": -3200,
+        "label": "וצאות הנהלה וכלליות",
+        "priorYearAmount": -2950
+      },
+      {
+        "currentYearAmount": -480,
+        "label": "וצאות מימון",
+        "priorYearAmount": -560
+      }
+    ],
+    "netIncome": 3720,
+    "reportYear": 2024,
+    "totalAssets": 12180,
+    "totalLiabilitiesAndEquity": 12180
+  },
+  "num_pages": 3,
+  "score": 0.9629629629629629,
+  "time_sec": 43.41400599479675
+}

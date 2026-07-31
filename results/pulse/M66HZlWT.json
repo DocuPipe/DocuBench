@@ -1,0 +1,27 @@
+{
+  "cost": 0.21,
+  "data": {
+    "amountDue": 240,
+    "basicCopay": 140,
+    "consultationPoints": 267,
+    "date": "105/02/24",
+    "department": "27200產科",
+    "drugCopay": 0,
+    "drugFeePoints": 31,
+    "idNumber": "C22117****",
+    "insuranceReportedTotalPoints": 439,
+    "medicalRecordNumber": "4226770",
+    "patientName": "游詠",
+    "pharmacyServicePoints": 50,
+    "receiptAmount": 240,
+    "registrationFee": 100,
+    "rehabCopay": 0,
+    "selfPayTotal": 240,
+    "treatmentPoints": 91,
+    "visitDate": "105/02/24",
+    "visitSequenceNumber": "0002"
+  },
+  "num_pages": 1,
+  "score": 1.0,
+  "time_sec": 52.591562032699585
+}

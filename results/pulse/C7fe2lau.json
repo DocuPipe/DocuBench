@@ -1,0 +1,92 @@
+{
+  "cost": 0.63,
+  "data": {
+    "allowanceCharges": [
+      {
+        "amount": 200,
+        "baseAmount": 1000,
+        "isCharge": true,
+        "reason": "Cleaning",
+        "reasonCode": "CG",
+        "taxCategoryPercent": 25
+      },
+      {
+        "amount": 200,
+        "baseAmount": null,
+        "isCharge": false,
+        "reason": "Discount",
+        "reasonCode": "95",
+        "taxCategoryPercent": 25
+      }
+    ],
+    "allowanceTotalAmount": 200,
+    "buyerReference": "4025:123:4343",
+    "chargeTotalAmount": 200,
+    "customerCountryCode": "SE",
+    "customerName": "BuyerTradingName AS",
+    "customerRegistrationName": "Buyer Official Name",
+    "customerVatId": "SE4598375937",
+    "documentCurrencyCode": "EUR",
+    "dueDate": "2017-12-01",
+    "invoiceId": "Snippet1",
+    "invoiceLines": [
+      {
+        "invoicedQuantity": 10,
+        "itemDescription": "Description of item",
+        "itemName": "item name",
+        "lineExtensionAmount": 4000,
+        "lineId": "1",
+        "priceAmount": 410,
+        "sellersItemId": "97iugug876",
+        "taxCategoryId": "S",
+        "taxCategoryPercent": 25,
+        "unitCode": null
+      },
+      {
+        "invoicedQuantity": 10,
+        "itemDescription": "Description of item",
+        "itemName": "item name",
+        "lineExtensionAmount": 1000,
+        "lineId": "2",
+        "priceAmount": 200,
+        "sellersItemId": "97iugug876",
+        "taxCategoryId": "E",
+        "taxCategoryPercent": 0,
+        "unitCode": null
+      },
+      {
+        "invoicedQuantity": 10,
+        "itemDescription": "Description of item",
+        "itemName": "item name",
+        "lineExtensionAmount": 900,
+        "lineId": "3",
+        "priceAmount": 100,
+        "sellersItemId": "97iugug876",
+        "taxCategoryId": "S",
+        "taxCategoryPercent": 25,
+        "unitCode": null
+      }
+    ],
+    "invoicePeriodEndDate": "2017-12-31",
+    "invoicePeriodStartDate": "2017-12-01",
+    "invoiceTypeCode": "380",
+    "issueDate": "2017-11-13",
+    "lineExtensionAmount": 5900,
+    "payableAmount": 6125,
+    "payeeBic": "BIC324098",
+    "payeeIban": "IBAN32423940",
+    "paymentMeansCode": "30",
+    "prepaidAmount": 1000,
+    "supplierCountryCode": "GB",
+    "supplierName": "SupplierTradingName Ltd.",
+    "supplierRegistrationName": "SupplierOfficialName Ltd",
+    "supplierVatId": "GB1232434",
+    "taxCurrencyCode": "SEK",
+    "taxExclusiveAmount": 5900,
+    "taxInclusiveAmount": 7125,
+    "taxTotalAmount": 1225
+  },
+  "num_pages": 3,
+  "score": 0.9420289855072463,
+  "time_sec": 44.04437184333801
+}

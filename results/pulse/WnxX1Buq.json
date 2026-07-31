@@ -1,0 +1,76 @@
+{
+  "cost": 0.84,
+  "data": {
+    "accountNumber": "1023456789-0",
+    "currentElectricMonthlyCharges": 17.9,
+    "dueDate": "2026-04-06",
+    "meterExportsKwh": -19.828,
+    "meterImportsKwh": 13.3768,
+    "meterNetUsageKwh": -6.4512,
+    "meterNumber": "1098765432",
+    "monthlyChargeLines": [
+      {
+        "amount": 5.09,
+        "chargeType": "Minimum Delivery Charge¹",
+        "days": 13,
+        "rate": 0.39167
+      },
+      {
+        "amount": 0.25,
+        "chargeType": "San Jose Utility Users' Tax (5.000%)",
+        "days": null,
+        "rate": null
+      },
+      {
+        "amount": 0.02,
+        "chargeType": "San Jose Franchise Surcharge",
+        "days": null,
+        "rate": null
+      },
+      {
+        "amount": 11.9,
+        "chargeType": "Base Services Charge",
+        "days": 15,
+        "rate": 0.7935
+      },
+      {
+        "amount": 0.6,
+        "chargeType": "San Jose Utility Users' Tax (5.000%)",
+        "days": null,
+        "rate": null
+      },
+      {
+        "amount": 0.04,
+        "chargeType": "San Jose Franchise Surcharge",
+        "days": null,
+        "rate": null
+      }
+    ],
+    "nemCharges": [
+      {
+        "billPeriodEndDate": "2026-02-15",
+        "estimatedNemChargesBeforeTaxes": -2.42,
+        "estimatedTotalNemCharges": -2.55,
+        "netUsageKwh": -6
+      },
+      {
+        "billPeriodEndDate": "2026-03-15",
+        "estimatedNemChargesBeforeTaxes": -2.42,
+        "estimatedTotalNemCharges": -2.55,
+        "netUsageKwh": -6
+      }
+    ],
+    "previousUnpaidBalance": null,
+    "rateSchedule": "EV2A Home Charging",
+    "serviceAddress": "1234 Main Street",
+    "serviceAgreementId": "9087654321",
+    "statementDate": "2026-03-15",
+    "totalAmountDue": null,
+    "totalElectricMinimumDeliveryCharges": 17.62,
+    "ytdEstimatedNemChargesAtTrueUp": 0,
+    "ytdNemChargesBeforeTaxes": -4.84
+  },
+  "num_pages": 4,
+  "score": 0.9333333333333333,
+  "time_sec": 41.289069175720215
+}
