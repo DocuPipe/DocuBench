@@ -14,17 +14,17 @@ DocuBench is built to break extraction systems on what real documents actually l
 <br>
 
 <a href="https://htmlpreview.github.io/?https://github.com/DocuPipe/docubench/blob/main/docubench-explorer.html">
-  <img src="docs/explorer-preview.png" alt="DocuBench interactive results explorer — filter 72 documents and compare nine complete configurations" width="100%">
+  <img src="docs/explorer-preview.png" alt="DocuBench interactive results explorer — filter 72 documents and compare ten complete configurations" width="100%">
 </a>
 
 <h3 align="center"><a href="https://htmlpreview.github.io/?https://github.com/DocuPipe/docubench/blob/main/docubench-explorer.html">🔎&nbsp; Open the interactive results explorer &nbsp;→</a></h3>
 <p align="center">
-  Filter all 72 documents by language, length, format &amp; capability · compare nine complete configurations · drill into per-document scores.<br>
+  Filter all 72 documents by language, length, format &amp; capability · compare ten complete configurations · drill into per-document scores.<br>
 </p>
 
 <br>
 
-**Explore:** [Leaderboard](#leaderboard) · [Results explorer](https://htmlpreview.github.io/?https://github.com/DocuPipe/docubench/blob/main/docubench-explorer.html) · [Hosted leaderboard](https://huggingface.co/spaces/DocuPipe/docubench-leaderboard)  
+**Explore:** [Leaderboard](#leaderboard) · [Live results on docupipe.ai](https://www.docupipe.ai/benchmarks/docubench) · [Results explorer](https://htmlpreview.github.io/?https://github.com/DocuPipe/docubench/blob/main/docubench-explorer.html) · [Hosted leaderboard](https://huggingface.co/spaces/DocuPipe/docubench-leaderboard)  
 **Docs:** [Dataset card](docs/dataset-card.md) · [Scoring](docs/scoring.md) · [Make a submission](#make-a-submission)
 
 ---
@@ -43,9 +43,10 @@ The complete committed baselines, scored by the public scorer ([`scorer.py`](sco
 | 6 | Extend | 80.28% |
 | 7 | GPT-5.5 — direct LLM | 76.48% |
 | 8 | Gemini 3.5 Flash — direct LLM | 72.98% |
-| 9 | Unstructured | 67.67% |
+| 9 | Pulse AI | 70.95% |
+| 10 | Unstructured | 67.67% |
 
-> DocuPipe built this benchmark, so we hold our own results to the same bar as everyone else: identical schemas, identical labels, the same open scorer, and every raw model output committed under [`results/`](results). Run `docubench score` and you will reproduce this table.
+> DocuPipe built this benchmark, so we hold our own results to the same bar as everyone else: identical schemas, identical labels, the same open scorer, and every raw model output committed under [`results/`](results). Run `docubench score` and you will reproduce this table. Results as of 2026-07-31.
 
 **🔎 Explore it interactively.** Open the [**results explorer**](https://htmlpreview.github.io/?https://github.com/DocuPipe/docubench/blob/main/docubench-explorer.html) to filter all 72 documents by file type, language, and capability and drill into per-document scores. It is a single self-contained file ([`docubench-explorer.html`](docubench-explorer.html)) you can also open locally. A hosted [Hugging Face Space](https://huggingface.co/spaces/DocuPipe/docubench-leaderboard) renders the same leaderboard online, and full per-document numbers live in [`results/summary.json`](results/summary.json).
 
